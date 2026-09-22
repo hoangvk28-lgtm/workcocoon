@@ -40,7 +40,7 @@ function ProductCard({ product }: { product: ErgoProduct }) {
           className="text-xs font-bold px-2 py-0.5 rounded-lg tabular-nums"
           style={{
             background: product.score >= 9.0 ? "#dcfce7" : "#fef9c3",
-            color: product.score >= 9.0 ? "#16a34a" : "#d97706",
+            color: product.score >= 9.0 ? "#5f7a4a" : "#a8875a",
           }}
         >
           {product.score.toFixed(1)}
@@ -103,7 +103,7 @@ function ProductCard({ product }: { product: ErgoProduct }) {
                       className="mt-0.5 w-3.5 h-3.5 rounded-full flex items-center justify-center shrink-0 font-bold text-[9px]"
                       style={{
                         background: con.severity === "major" ? "#fee2e2" : "#fef9c3",
-                        color: con.severity === "major" ? "#dc2626" : "#d97706",
+                        color: con.severity === "major" ? "#dc2626" : "#a8875a",
                       }}
                     >
                       &minus;
@@ -512,7 +512,7 @@ export default async function ErgonomicDeskSetupPage() {
                         className="text-xs font-bold px-2 py-0.5 rounded-lg"
                         style={{
                           background: p.score >= 9.0 ? "#dcfce7" : "#fef9c3",
-                          color: p.score >= 9.0 ? "#16a34a" : "#d97706",
+                          color: p.score >= 9.0 ? "#5f7a4a" : "#a8875a",
                         }}
                       >
                         {p.score.toFixed(1)}

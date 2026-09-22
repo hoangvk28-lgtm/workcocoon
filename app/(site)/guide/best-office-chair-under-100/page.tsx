@@ -165,8 +165,8 @@ export default async function BestOfficeChairUnder100Page() {
           <p className="text-sm text-ink-secondary mb-5">At this price point, &quot;ergonomic&quot; is a marketing word, not a certification. Here is what it actually means in practice:</p>
           <div className="grid sm:grid-cols-3 gap-4 mb-4">
             {[
-              { label: "Meaningful (worth paying for)", color: "#16a34a", items: ["Adjustable lumbar support -- moves up/down or in/out", "Height-adjustable seat -- fits different desk heights", "Adjustable armrests -- especially flip-up or 3D", "Seat depth -- deeper fits taller, shallower fits shorter"] },
-              { label: "Sounds good, matters less", color: "#d97706", items: ["'Headrest' -- most too low to be useful unless reclining", "'Breathable mesh' -- mesh quality varies a lot", "'Tilt lock' -- useful, but standard on most chairs here"] },
+              { label: "Meaningful (worth paying for)", color: "#5f7a4a", items: ["Adjustable lumbar support -- moves up/down or in/out", "Height-adjustable seat -- fits different desk heights", "Adjustable armrests -- especially flip-up or 3D", "Seat depth -- deeper fits taller, shallower fits shorter"] },
+              { label: "Sounds good, matters less", color: "#a8875a", items: ["'Headrest' -- most too low to be useful unless reclining", "'Breathable mesh' -- mesh quality varies a lot", "'Tilt lock' -- useful, but standard on most chairs here"] },
               { label: "What most under-$100 chairs cannot do", color: "#dc2626", items: ["Adjust seat depth (slide forward/back)", "True 4D armrests (all axes)", "Meaningful recline beyond 120°"] },
             ].map((col, i) => (
               <div key={i} className="p-4 rounded-xl border border-border bg-white">

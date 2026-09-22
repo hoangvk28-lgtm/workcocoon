@@ -397,12 +397,12 @@ export const items: DormItem[] = [
 ];
 
 export const categories: Array<{ id: DormCategory; label: string; emoji: string; range: string; color: { bg: string; text: string; border: string } }> = [
-  { id: "power",    label: "Power & Charging",       emoji: "⚡", range: "Items 1–4",   color: { bg: "#fffbeb", text: "#b45309", border: "#fcd34d" } },
-  { id: "sleep",    label: "Sleep & Bedside",         emoji: "🛏️", range: "Items 5–9",   color: { bg: "#eff6ff", text: "#1d4ed8", border: "#bfdbfe" } },
-  { id: "bathroom", label: "Bathroom",                emoji: "🚿", range: "Items 10–12", color: { bg: "#f0fdf4", text: "#15803d", border: "#bbf7d0" } },
+  { id: "power",    label: "Power & Charging",       emoji: "⚡", range: "Items 1–4",   color: { bg: "#f7f0e3", text: "#b45309", border: "#fcd34d" } },
+  { id: "sleep",    label: "Sleep & Bedside",         emoji: "🛏️", range: "Items 5–9",   color: { bg: "#eef2e8", text: "#5c6f4b", border: "#bfdbfe" } },
+  { id: "bathroom", label: "Bathroom",                emoji: "🚿", range: "Items 10–12", color: { bg: "#eef3e7", text: "#48602f", border: "#bbf7d0" } },
   { id: "closet",   label: "Closet & Laundry",        emoji: "👗", range: "Items 13–16", color: { bg: "#fdf4ff", text: "#7e22ce", border: "#e9d5ff" } },
   { id: "desk",     label: "Desk & Study",            emoji: "📚", range: "Items 17–21", color: { bg: "#fff7ed", text: "#c2410c", border: "#fed7aa" } },
-  { id: "storage",  label: "Storage & Organization",  emoji: "📦", range: "Items 22–25", color: { bg: "#f8fafc", text: "#475569", border: "#e2e8f0" } },
+  { id: "storage",  label: "Storage & Organization",  emoji: "📦", range: "Items 22–25", color: { bg: "#f6f1e9", text: "#63635a", border: "#e6ddd0" } },
 ];
 
 export const problemsTable = [

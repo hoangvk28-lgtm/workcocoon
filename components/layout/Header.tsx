@@ -30,20 +30,25 @@ export function Header() {
         {/* Logo */}
         <Link prefetch={false}
           href="/"
-          className="group shrink-0 focus-ring"
+          className="group shrink-0 focus-ring flex items-center gap-2"
           aria-label="WorkCocoon - Home"
         >
           <Image
-            src="/logo-deskfinds-official.png"
-            alt="WorkCocoon"
-            width={240}
-            height={64}
-            className="h-12 w-auto object-contain
-              transition-all duration-300 ease-out
-              group-hover:scale-105 group-hover:drop-shadow-[0_0_12px_rgba(37,99,235,0.5)]
-              group-active:scale-95"
+            src="/logo-icon.png"
+            alt=""
+            width={96}
+            height={96}
+            className="h-10 w-10 object-contain
+              transition-transform duration-300 ease-out
+              group-hover:scale-105 group-active:scale-95"
             priority
           />
+          <span
+            className="text-xl font-bold tracking-tight"
+            style={{ fontFamily: "var(--font-display)", color: "var(--color-ink)" }}
+          >
+            workcocoon
+          </span>
         </Link>
 
         {/* Desktop nav */}

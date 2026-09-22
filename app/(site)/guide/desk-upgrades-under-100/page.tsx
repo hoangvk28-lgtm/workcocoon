@@ -31,14 +31,14 @@ export const metadata: Metadata = buildMetadata({
 // Upgrade number → accent color
 const upgradeColor = (n: number) => {
   const palette = [
-    { bg: "#eff6ff", text: "#1d4ed8", border: "#bfdbfe" }, // blue
-    { bg: "#f0fdf4", text: "#15803d", border: "#bbf7d0" }, // green
+    { bg: "#eef2e8", text: "#5c6f4b", border: "#bfdbfe" }, // blue
+    { bg: "#eef3e7", text: "#48602f", border: "#bbf7d0" }, // green
     { bg: "#fff7ed", text: "#c2410c", border: "#fed7aa" }, // orange
     { bg: "#fdf4ff", text: "#7e22ce", border: "#e9d5ff" }, // purple
     { bg: "#fefce8", text: "#a16207", border: "#fde68a" }, // yellow
     { bg: "#fff1f2", text: "#be123c", border: "#fecdd3" }, // rose
-    { bg: "#f0fdf4", text: "#047857", border: "#a7f3d0" }, // emerald
-    { bg: "#eff6ff", text: "#1e40af", border: "#bfdbfe" }, // blue-dark
+    { bg: "#eef3e7", text: "#047857", border: "#a7f3d0" }, // emerald
+    { bg: "#eef2e8", text: "#1e40af", border: "#bfdbfe" }, // blue-dark
   ];
   return palette[(n - 1) % palette.length];
 };
@@ -290,7 +290,7 @@ export default async function DeskUpgradesUnder100Page() {
             {/* Upgrade 9 -- text-only */}
             <div id="wrist-pads" className="scroll-mt-20">
               <div className="flex items-start gap-4 mb-4">
-                <div className="w-10 h-10 rounded-xl flex items-center justify-center text-lg font-black shrink-0" style={{ background: "#f0fdf4", color: "#15803d" }}>9</div>
+                <div className="w-10 h-10 rounded-xl flex items-center justify-center text-lg font-black shrink-0" style={{ background: "#eef3e7", color: "#48602f" }}>9</div>
                 <div>
                   <h3 className="text-xl font-bold text-ink">Add Wrist Pads for Keyboard + Mouse Zones</h3>
                   <p className="text-sm font-semibold mt-0.5 text-green-700">Cheapest ergonomic upgrade available</p>
@@ -305,7 +305,7 @@ export default async function DeskUpgradesUnder100Page() {
             {/* Upgrade 10 -- text-only with table */}
             <div id="go-wireless" className="scroll-mt-20">
               <div className="flex items-start gap-4 mb-4">
-                <div className="w-10 h-10 rounded-xl flex items-center justify-center text-lg font-black shrink-0" style={{ background: "#eff6ff", color: "#1d4ed8" }}>10</div>
+                <div className="w-10 h-10 rounded-xl flex items-center justify-center text-lg font-black shrink-0" style={{ background: "#eef2e8", color: "#5c6f4b" }}>10</div>
                 <div>
                   <h3 className="text-xl font-bold text-ink">Go Wireless: The Complete Desk Declutter</h3>
                   <p className="text-sm font-semibold mt-0.5 text-blue-700">Final step to a fully clean desk surface</p>

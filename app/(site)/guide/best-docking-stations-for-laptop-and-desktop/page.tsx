@@ -229,11 +229,11 @@ export default async function DockingLaptopDesktopPage() {
               { label: "Desktop does NOT need a dock when", items: ["It already has HDMI/DP outputs for monitors", "It has enough USB-A ports for keyboard, mouse, and accessories", "It has an Ethernet port", "You plan to switch manually between laptop and desktop cables"] },
             ].map((col, i) => (
               <div key={i} className={`p-4 rounded-xl border ${i === 0 ? "border-cta/30 bg-cta-light/20" : "border-red-200 bg-red-50"}`}>
-                <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#16a34a" : "#dc2626" }}>{col.label}</p>
+                <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#5f7a4a" : "#dc2626" }}>{col.label}</p>
                 <ul className="space-y-1.5">
                   {col.items.map((item, j) => (
                     <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary">
-                      <span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#16a34a" : "#dc2626" }} />{item}
+                      <span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#5f7a4a" : "#dc2626" }} />{item}
                     </li>
                   ))}
                 </ul>

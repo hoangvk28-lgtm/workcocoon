@@ -105,7 +105,7 @@ export interface HomepageSettings {
   };
   featuredGuideSlug: string;
   sections: {
-    guides: { title: string; description: string; limit: number };
+    guides: { title: string; description: string; limit: number; featuredSlugs?: string[] };
     deals: { title: string; description: string };
     categories: { title: string; description: string };
   };

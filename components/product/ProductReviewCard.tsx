@@ -32,11 +32,11 @@ export interface ProductReviewCardProps {
 }
 
 const BADGE_COLORS: Record<string, { bg: string; text: string }> = {
-  "Top Pick":       { bg: "#2563eb", text: "#fff" },
-  "Best Budget":    { bg: "#16a34a", text: "#fff" },
+  "Top Pick":       { bg: "#7c9068", text: "#fff" },
+  "Best Budget":    { bg: "#5f7a4a", text: "#fff" },
   "Best Premium":   { bg: "#7c3aed", text: "#fff" },
   "Most Portable":  { bg: "#0891b2", text: "#fff" },
-  "Best for Dorms": { bg: "#f59e0b", text: "#fff" },
+  "Best for Dorms": { bg: "#c9a876", text: "#fff" },
   "Editors' Choice":{ bg: "#dc2626", text: "#fff" },
 };
 
@@ -60,7 +60,7 @@ export function ProductReviewCard({
   reviewSlug,
   scoreOverall,
 }: ProductReviewCardProps) {
-  const badgeStyle = badge ? (BADGE_COLORS[badge] ?? { bg: "#2563eb", text: "#fff" }) : null;
+  const badgeStyle = badge ? (BADGE_COLORS[badge] ?? { bg: "#7c9068", text: "#fff" }) : null;
   const paragraphs = Array.isArray(reviewText) ? reviewText : [reviewText];
 
   return (
@@ -69,7 +69,7 @@ export function ProductReviewCard({
       <div className="flex items-center gap-3 px-5 py-4 border-b border-border bg-bg">
         <span
           className="w-9 h-9 rounded-xl flex items-center justify-center text-base font-bold shrink-0 text-white"
-          style={{ background: "#2563eb" }}
+          style={{ background: "#7c9068" }}
         >
           {rank}
         </span>
@@ -100,7 +100,7 @@ export function ProductReviewCard({
               className="text-lg font-bold tabular-nums px-2.5 py-1 rounded-xl"
               style={{
                 background: scoreOverall >= 8.5 ? "#dcfce7" : scoreOverall >= 7 ? "#fef9c3" : "#fee2e2",
-                color: scoreOverall >= 8.5 ? "#16a34a" : scoreOverall >= 7 ? "#d97706" : "#dc2626",
+                color: scoreOverall >= 8.5 ? "#5f7a4a" : scoreOverall >= 7 ? "#a8875a" : "#dc2626",
               }}
             >
               {scoreOverall.toFixed(1)}
@@ -165,7 +165,7 @@ export function ProductReviewCard({
                         className="mt-0.5 w-3.5 h-3.5 rounded-full flex items-center justify-center shrink-0 font-bold text-[9px]"
                         style={{
                           background: con.severity === "major" ? "#fee2e2" : "#fef9c3",
-                          color: con.severity === "major" ? "#dc2626" : "#d97706",
+                          color: con.severity === "major" ? "#dc2626" : "#a8875a",
                         }}
                       >
                         −

@@ -28,8 +28,8 @@ export const metadata: Metadata = buildMetadata({
 });
 
 const zoneColorMap: Record<string, { bg: string; text: string; border: string }> = {
-  "dead-space": { bg: "#eff6ff", text: "#1d4ed8", border: "#bfdbfe" },
-  compression: { bg: "#f0fdf4", text: "#15803d", border: "#bbf7d0" },
+  "dead-space": { bg: "#eef2e8", text: "#5c6f4b", border: "#bfdbfe" },
+  compression: { bg: "#eef3e7", text: "#48602f", border: "#bbf7d0" },
   capacity: { bg: "#fff7ed", text: "#c2410c", border: "#fed7aa" },
   mobile: { bg: "#fdf4ff", text: "#7e22ce", border: "#e9d5ff" },
 };

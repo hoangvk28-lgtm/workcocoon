@@ -48,7 +48,7 @@ function categoryStyle(cat: "stand" | "arm" | "tie") {
 
 function ScoreChip({ score }: { score: number }) {
   const bg = score >= 9.0 ? "#dcfce7" : score >= 8.5 ? "#fef9c3" : "#f3f4f6";
-  const color = score >= 9.0 ? "#16a34a" : score >= 8.5 ? "#d97706" : "#374151";
+  const color = score >= 9.0 ? "#5f7a4a" : score >= 8.5 ? "#a8875a" : "#374151";
   return (
     <span className="text-sm font-bold px-2 py-0.5 rounded-lg tabular-nums" style={{ background: bg, color }}>
       {score.toFixed(1)}

@@ -72,7 +72,7 @@ function PickSection({ pick }: { pick: AccessoryPick }) {
                     {pick.cons.map((con, i) => (
                       <li key={i} className="flex items-start gap-1.5 text-xs text-ink">
                         <span className="mt-0.5 w-3.5 h-3.5 rounded-full flex items-center justify-center shrink-0 font-bold text-[9px]"
-                          style={{ background: con.severity === "major" ? "#fee2e2" : "#fef9c3", color: con.severity === "major" ? "#dc2626" : "#d97706" }}>
+                          style={{ background: con.severity === "major" ? "#fee2e2" : "#fef9c3", color: con.severity === "major" ? "#dc2626" : "#a8875a" }}>
                           &minus;
                         </span>
                         {con.text}

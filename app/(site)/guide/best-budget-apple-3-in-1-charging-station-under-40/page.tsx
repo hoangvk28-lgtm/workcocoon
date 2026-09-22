@@ -207,7 +207,7 @@ export default async function BestBudgetApple3in1ChargingStationUnder40Page() {
                 <div key={i} className={`p-4 rounded-xl border ${i === 0 ? "border-cta/30 bg-cta-light/20" : "border-yellow-200 bg-yellow-50"}`}>
                   <p className="text-xs font-bold uppercase tracking-widest mb-2 text-ink">{col.label}</p>
                   <ul className="space-y-1.5">
-                    {col.items.map((item, j) => <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary"><span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#16a34a" : "#d97706" }} />{item}</li>)}
+                    {col.items.map((item, j) => <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary"><span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#5f7a4a" : "#a8875a" }} />{item}</li>)}
                   </ul>
                 </div>
               ))}

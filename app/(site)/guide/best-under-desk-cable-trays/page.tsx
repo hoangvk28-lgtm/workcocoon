@@ -60,7 +60,7 @@ function TrayCard({ tray }: { tray: CableTray }) {
               className="text-sm font-bold px-2 py-0.5 rounded-lg tabular-nums"
               style={{
                 background: tray.score >= 9.0 ? "#dcfce7" : tray.score >= 8.5 ? "#fef9c3" : "#f3f4f6",
-                color: tray.score >= 9.0 ? "#16a34a" : tray.score >= 8.5 ? "#d97706" : "#374151",
+                color: tray.score >= 9.0 ? "#5f7a4a" : tray.score >= 8.5 ? "#a8875a" : "#374151",
               }}
             >
               {tray.score.toFixed(1)}
@@ -330,7 +330,7 @@ export default async function BestUnderDeskCableTraysPage() {
                         className="text-xs font-bold px-1.5 py-0.5 rounded tabular-nums"
                         style={{
                           background: t.score >= 9.0 ? "#dcfce7" : t.score >= 8.5 ? "#fef9c3" : "#f3f4f6",
-                          color: t.score >= 9.0 ? "#16a34a" : t.score >= 8.5 ? "#d97706" : "#374151",
+                          color: t.score >= 9.0 ? "#5f7a4a" : t.score >= 8.5 ? "#a8875a" : "#374151",
                         }}
                       >
                         {t.score.toFixed(1)}

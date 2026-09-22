@@ -50,7 +50,7 @@ function ProductCard({ product }: { product: OrgProduct }) {
               className="text-xs font-bold px-2 py-0.5 rounded-lg tabular-nums"
               style={{
                 background: product.score >= 8.8 ? "#dcfce7" : product.score >= 8.5 ? "#fef9c3" : "#f3f4f6",
-                color: product.score >= 8.8 ? "#16a34a" : product.score >= 8.5 ? "#d97706" : "#374151",
+                color: product.score >= 8.8 ? "#5f7a4a" : product.score >= 8.5 ? "#a8875a" : "#374151",
               }}
             >
               {product.score.toFixed(1)}
@@ -203,8 +203,8 @@ export default async function SmallDeskOrganizationIdeasPage() {
             <p className="text-sm font-semibold text-ink mb-3">The 5-minute desk audit - pull everything off your desk, then sort into three groups:</p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
               {[
-                { label: "Daily use", color: "#16a34a", bg: "#dcfce7", items: "Keyboard, mouse, laptop, one pen, phone charger. These earn desktop space." },
-                { label: "Weekly use", color: "#d97706", bg: "#fef9c3", items: "Notebooks, headphones, extra cables, sticky notes. These go near the desk, not on it." },
+                { label: "Daily use", color: "#5f7a4a", bg: "#dcfce7", items: "Keyboard, mouse, laptop, one pen, phone charger. These earn desktop space." },
+                { label: "Weekly use", color: "#a8875a", bg: "#fef9c3", items: "Notebooks, headphones, extra cables, sticky notes. These go near the desk, not on it." },
                 { label: "Rarely use", color: "#dc2626", bg: "#fee2e2", items: "Spare pens, old papers, random cables, decorative items. These leave the desk area entirely." },
               ].map((g) => (
                 <div key={g.label} className="p-3 rounded-lg" style={{ background: g.bg }}>
@@ -459,7 +459,7 @@ export default async function SmallDeskOrganizationIdeasPage() {
                           className="inline-block text-xs font-bold px-2 py-0.5 rounded-lg tabular-nums"
                           style={{
                             background: item.score >= 8.8 ? "#dcfce7" : item.score >= 8.5 ? "#fef9c3" : "#f3f4f6",
-                            color: item.score >= 8.8 ? "#16a34a" : item.score >= 8.5 ? "#d97706" : "#374151",
+                            color: item.score >= 8.8 ? "#5f7a4a" : item.score >= 8.5 ? "#a8875a" : "#374151",
                           }}
                         >
                           {item.score.toFixed(1)}

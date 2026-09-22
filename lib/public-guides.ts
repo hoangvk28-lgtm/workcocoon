@@ -215,8 +215,27 @@ export async function getPublicGuideSlugs(): Promise<string[]> {
 
 // ── Derived helpers ───────────────────────────────────────────────────────────
 
-export async function getPublicGuidesByCategory(categorySlug: string): Promise<PublicGuide[]> {
+/**
+ * Returns guides belonging to a category.
+ *
+ * Default behavior (matchSlugs omitted): exact match against g.categorySlug,
+ * unchanged from the original single-slug lookup used by the original 4
+ * categories.
+ *
+ * When matchSlugs is provided (aggregating categories like Chairs/Monitors/
+ * Lighting/Accessories), a guide matches if either its categorySlug or its
+ * finer-grained subcategorySlug appears in matchSlugs.
+ */
+export async function getPublicGuidesByCategory(
+  categorySlug: string,
+  matchSlugs?: string[]
+): Promise<PublicGuide[]> {
   const all = await getPublicGuides();
+  if (matchSlugs && matchSlugs.length > 0) {
+    return all.filter(
+      (g) => matchSlugs.includes(g.categorySlug) || matchSlugs.includes(g.subcategorySlug)
+    );
+  }
   return all.filter((g) => g.categorySlug === categorySlug);
 }
 

@@ -29,14 +29,14 @@ export const metadata: Metadata = buildMetadata({
 });
 
 const powerColor: Record<string, { bg: string; text: string; label: string }> = {
-  usb: { bg: "#eff6ff", text: "#1d4ed8", label: "USB" },
-  battery: { bg: "#f0fdf4", text: "#15803d", label: "Battery" },
+  usb: { bg: "#eef2e8", text: "#5c6f4b", label: "USB" },
+  battery: { bg: "#eef3e7", text: "#48602f", label: "Battery" },
   "plug-in": { bg: "#fff7ed", text: "#c2410c", label: "Plug-In" },
 };
 
 function ScoreChip({ score }: { score: number }) {
   const bg = score >= 9.0 ? "#dcfce7" : score >= 8.5 ? "#fef9c3" : "#f3f4f6";
-  const color = score >= 9.0 ? "#16a34a" : score >= 8.5 ? "#d97706" : "#374151";
+  const color = score >= 9.0 ? "#5f7a4a" : score >= 8.5 ? "#a8875a" : "#374151";
   return (
     <span className="text-xs font-bold px-2 py-0.5 rounded-lg tabular-nums" style={{ background: bg, color }}>
       {score.toFixed(1)}

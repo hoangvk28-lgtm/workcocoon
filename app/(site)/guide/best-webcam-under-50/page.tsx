@@ -21,7 +21,7 @@ export const metadata: Metadata = buildMetadata({
 });
 
 function FitScoreBadge({ score }: { score: number }) {
-  const color = score >= 8.5 ? "#16a34a" : score >= 8.0 ? "#2563eb" : "#d97706";
+  const color = score >= 8.5 ? "#5f7a4a" : score >= 8.0 ? "#7c9068" : "#a8875a";
   return (
     <span
       className="inline-flex flex-col items-center justify-center w-14 h-14 rounded-xl border-2 shrink-0"
@@ -517,13 +517,13 @@ export default async function BestWebcamUnder50Page() {
                 label: "Face a window",
                 impact: "Biggest free improvement",
                 description: "Natural light from a window directly in front of you — not behind or to the side — transforms any webcam. Even a $18 webcam looks clean with good window light. If the window is behind you, you become a silhouette. Move your desk or flip your chair.",
-                color: "#16a34a",
+                color: "#5f7a4a",
               },
               {
                 label: "Put a lamp at eye level in front of you",
                 impact: "Free if you already have a lamp",
                 description: "A desk lamp placed at monitor level, facing you, acts as a basic fill light. Aim for 4000–5000K (cool white or daylight) for a clean, natural look on camera — warm light at 2700K will make you appear orange-toned. Position it slightly to the side, not directly behind the screen.",
-                color: "#2563eb",
+                color: "#7c9068",
               },
               {
                 label: "Raise your camera to eye level",
@@ -535,7 +535,7 @@ export default async function BestWebcamUnder50Page() {
                 label: "Put a light-colored surface or wall behind you",
                 impact: "Reflects light back onto face",
                 description: "A white or light-grey wall behind your desk reflects ambient light back toward your face, acting as a soft reflector. Dark walls absorb light and deepen shadows. If you can rearrange, sit with the lighter wall behind you.",
-                color: "#d97706",
+                color: "#a8875a",
               },
             ].map((tip, i) => (
               <div key={i} className="flex gap-4 p-4 rounded-xl border border-border bg-white">

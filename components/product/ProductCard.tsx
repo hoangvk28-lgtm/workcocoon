@@ -7,12 +7,12 @@ import { clsx, scoreToColor } from "@/lib/utils";
 import { CategoryIllustration } from "@/components/ui/CategoryIllustration";
 
 const CATEGORY_COLORS: Record<string, string> = {
-  "desk-setup": "#2563eb",
+  "desk-setup": "#7c9068",
   "dorm-essentials": "#7c3aed",
   "small-room-storage": "#0891b2",
 };
 function getCategoryColor(slug: string) {
-  return CATEGORY_COLORS[slug] ?? "#2563eb";
+  return CATEGORY_COLORS[slug] ?? "#7c9068";
 }
 
 interface ProductCardProps {

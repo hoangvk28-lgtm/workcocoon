@@ -14,8 +14,8 @@ const stats = [
       />
     ),
     iconSize: "w-16 h-16",
-    label: "Evaluated for small-space use",
-    description: "Every product scored on five criteria - specs, buyer feedback, value, build, and space fit.",
+    label: "Evaluated for real home offices",
+    description: "Every product scored on five criteria - specs, buyer feedback, value, build, and comfort.",
   },
   {
     number: "200+",
@@ -31,7 +31,7 @@ const stats = [
     ),
     iconSize: "w-16 h-16",
     label: "With side-by-side comparisons",
-    description: "Structured like Wirecutter - clear top pick, honest trade-offs, and a comparison table.",
+    description: "Practical recommendations built around real workspace constraints.",
   },
   {
     number: "5",
@@ -46,8 +46,8 @@ const stats = [
       />
     ),
     iconSize: "w-16 h-16",
-    label: "Tuned for small-space fit",
-    description: "Space fit, build quality, ease of use, value, and buyer feedback - all weighted for compact living.",
+    label: "Tuned for daily comfort",
+    description: "Comfort, build quality, ease of setup, value, and buyer feedback - all weighted for people who work at this desk every day.",
   },
   {
     number: "1–10",

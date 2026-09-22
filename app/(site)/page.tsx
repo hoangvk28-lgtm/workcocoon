@@ -1,9 +1,8 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import { Container } from "@/components/layout/Container";
 import { HeroSection } from "@/components/sections/HeroSection";
-import { TrustStats } from "@/components/sections/TrustStats";
-import { FeaturedGuideHero } from "@/components/sections/FeaturedGuideHero";
-import { CategoryGrid } from "@/components/sections/CategoryGrid";
+import { StartWithYourSpace } from "@/components/sections/StartWithYourSpace";
+import { BuildYourCocoon } from "@/components/sections/BuildYourCocoon";
 import { FeaturedGuides } from "@/components/sections/FeaturedGuides";
 import { CompareTools } from "@/components/sections/CompareTools";
 import { DealsSection } from "@/components/sections/DealsSection";
@@ -11,7 +10,7 @@ import { HowWeReviewTeaser } from "@/components/sections/HowWeReviewTeaser";
 import { NewsletterCTA } from "@/components/sections/NewsletterCTA";
 import { AffiliateDisclosureBar } from "@/components/affiliate/AffiliateDisclosureBar";
 import { getPublicProducts } from "@/lib/public-products";
-import { getFeaturedPublicGuides, getPublicGuideBySlug } from "@/lib/public-guides";
+import { getRelatedPublicGuides, getFeaturedPublicGuides } from "@/lib/public-guides";
 import { getPublicFeaturedDeals } from "@/lib/public-deals";
 import { getPublicHomepageSettings, getPublicAffiliateSettings } from "@/lib/public-settings";
 import { buildMetadata } from "@/lib/seo";
@@ -19,9 +18,9 @@ import { buildMetadata } from "@/lib/seo";
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
-  title: "WorkCocoon - Amazon Buying Guides for Small Rooms & Dorms",
+  title: "WorkCocoon — Home Office Ideas, Desk Setup Guides & Product Picks",
   description:
-    "Honest Amazon buying guides for small rooms, dorm setups, compact desks, and home offices. Spec-based comparisons so you don't have to guess.",
+    "Create a calmer, more comfortable home workspace with practical setup guides, thoughtful product recommendations, and home office ideas.",
   path: "/",
 });
 
@@ -32,22 +31,18 @@ export default async function HomePage() {
     getPublicAffiliateSettings(),
   ]);
 
-  const featuredGuideSlug = homepageSettings.featuredGuideSlug || "desk-lamps-small-desks";
   const guidesLimit = homepageSettings.sections.guides.limit || 6;
+  const curatedSlugs = homepageSettings.sections.guides.featuredSlugs ?? [];
 
-  const [featuredGuide, latestGuides, featuredDeals] = await Promise.all([
-    getPublicGuideBySlug(featuredGuideSlug),
-    getFeaturedPublicGuides(guidesLimit),
+  const [curatedGuides, featuredDeals] = await Promise.all([
+    curatedSlugs.length > 0 ? getRelatedPublicGuides(curatedSlugs) : getFeaturedPublicGuides(guidesLimit),
     getPublicFeaturedDeals(),
   ]);
-
-  const featuredGuideProducts = featuredGuide
-    ? allProducts.filter((p) => featuredGuide.recommendedProductIds.includes(p.id))
-    : [];
+  const popularGuides = curatedGuides.slice(0, guidesLimit);
 
   // Homepage deals: use featured DB deals with linked products, fallback to budget picks
   const dealProducts = featuredDeals.filter((d) => d.product).map((d) => d.product!).slice(0, 4);
-  const budgetPicks = dealProducts.length > 0
+  const editorPicks = dealProducts.length > 0
     ? dealProducts
     : allProducts
         .filter((p) => p.subcategorySlug === "desk-lamps" || p.subcategorySlug === "laptop-stands")
@@ -60,43 +55,36 @@ export default async function HomePage() {
 
   return (
     <>
-      {/* ── 1. Hero ── */}
+      {/* ── 1. Hero — brand positioning, no Amazon mention, no score panel ── */}
       <HeroSection settings={homepageSettings} />
 
-      {/* ── 2. Trust stats bar ── */}
-      <TrustStats />
-
       <Container>
-        {/* ── 3. Affiliate disclosure ── */}
-        <div className="pt-10">
-          <AffiliateDisclosureBar variant="banner" disclosureText={disclosureBannerText} />
-        </div>
+        {/* ── 2. Start with your space — problem-first entry points ── */}
+        <StartWithYourSpace />
 
-        {/* ── 4. Featured guide editorial card ── */}
-        {featuredGuide && (
-          <FeaturedGuideHero guide={featuredGuide} products={featuredGuideProducts} />
-        )}
+        {/* ── 3. Build Your Cocoon — signature 5-step setup format ── */}
+        <BuildYourCocoon />
 
-        {/* ── 5. Category grid ── */}
-        <CategoryGrid />
-
-        {/* ── 6. Latest buying guides ── */}
+        {/* ── 4. Popular guides — editorially curated, not latest-first ── */}
         <FeaturedGuides
-          guides={latestGuides}
+          guides={popularGuides}
           title={homepageSettings.sections.guides.title}
         />
 
-        {/* ── 7. Compare tools ── */}
+        {/* ── 5. Compare tools ── */}
         <CompareTools />
 
-        {/* ── 8. Budget-friendly deals ── */}
-        <DealsSection products={budgetPicks} />
+        {/* ── 6. Editor picks — small disclosure sits here, not at the top of the page ── */}
+        <DealsSection products={editorPicks} />
+        <div className="pb-4 -mt-6">
+          <AffiliateDisclosureBar variant="banner" disclosureText={disclosureBannerText} />
+        </div>
       </Container>
 
-      {/* ── 9. How we review teaser ── */}
+      {/* ── 7. How WorkCocoon chooses products ── */}
       <HowWeReviewTeaser />
 
-      {/* ── 10. Newsletter CTA ── */}
+      {/* ── 8. The Cocoon newsletter ── */}
       <NewsletterCTA config={homepageSettings.newsletter} />
     </>
   );

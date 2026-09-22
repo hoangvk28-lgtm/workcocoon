@@ -93,7 +93,7 @@ export default async function CategoryPage({ params }: Props) {
   if (!category) notFound();
 
   const [guides, products] = await Promise.all([
-    getPublicGuidesByCategory(slug),
+    getPublicGuidesByCategory(slug, category.matchSlugs),
     getPublicProductsForCategoryHub(category),
   ]);
   const relatedCategories = getAllCategories().filter((c) => c.slug !== slug);
@@ -169,11 +169,14 @@ export default async function CategoryPage({ params }: Props) {
       </div>
 
       {/* ── 3. Featured buying guides ────────────────────────────────────── */}
+      {/* Categories can aggregate hundreds/thousands of guides via matchSlugs — cap
+          what's rendered in one page so this stays fast and actually browsable. */}
       {guides.length > 0 && (
         <div id="buying-guides" className="mb-14 scroll-mt-20">
           <FeaturedGuides
-            guides={guides}
+            guides={guides.slice(0, 24)}
             title={`${category.name} Buying Guides`}
+            description={guides.length > 24 ? `Showing 24 of ${guides.length} guides in this category.` : undefined}
             showAll={false}
           />
         </div>

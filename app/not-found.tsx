@@ -17,7 +17,7 @@ export default function NotFound() {
       <div
         className="relative flex-1 flex flex-col items-center justify-center px-4 py-20 text-center"
         style={{
-          backgroundImage: "url('/hero-banner.jpg')",
+          backgroundImage: "url('/hero-banner.webp')",
           backgroundSize: "cover",
           backgroundPosition: "center right",
         }}
@@ -35,13 +35,13 @@ export default function NotFound() {
         <div className="relative z-10 max-w-lg mx-auto">
           {/* 404 badge */}
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 border border-white/20 mb-6">
-            <span className="text-blue-400 font-bold text-xs tracking-widest uppercase">Error 404</span>
+            <span className="text-[#c9a876] font-bold text-xs tracking-widest uppercase">Error 404</span>
           </div>
 
           {/* Heading */}
           <h1 className="text-5xl sm:text-7xl font-bold text-white tracking-tight mb-4 leading-none">
             Page not<br />
-            <span className="text-blue-400">found.</span>
+            <span className="text-[#c9a876]">found.</span>
           </h1>
 
           <p className="text-white/70 text-base sm:text-lg leading-relaxed mb-10 max-w-sm mx-auto">
@@ -52,7 +52,7 @@ export default function NotFound() {
           <div className="flex flex-wrap justify-center gap-3 mb-12">
             <Link prefetch={false}
               href="/"
-              className="px-6 py-3 bg-blue-600 hover:bg-blue-500 text-white font-semibold rounded-xl transition-colors text-sm shadow-lg"
+              className="px-6 py-3 bg-[#5c6f4b] hover:bg-[#48602f] text-white font-semibold rounded-xl transition-colors text-sm shadow-lg"
             >
               ← Back to Home
             </Link>

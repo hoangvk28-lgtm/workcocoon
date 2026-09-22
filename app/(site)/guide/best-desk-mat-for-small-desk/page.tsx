@@ -249,7 +249,7 @@ export default async function BestDeskMatPage() {
           <h2 className="text-2xl font-bold text-ink mb-5 tracking-tight">The Bottom Line</h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-4">
             {[
-              { label: "Best Overall", name: "Nordik Gray Leather 35x17\"", id: "nordik-gray-leather", color: "#dcfce7", text: "#15803d" },
+              { label: "Best Overall", name: "Nordik Gray Leather 35x17\"", id: "nordik-gray-leather", color: "#dcfce7", text: "#48602f" },
               { label: "Best Eco-Friendly", name: "Nordik Cork-Leather", id: "nordik-cork-leather", color: "#fff7ed", text: "#c2410c" },
               { label: "Best for Gaming+Office", name: "DESKMATEC Snow Leopard", id: "deskmatec-snow-leopard", color: "#fdf4ff", text: "#7e22ce" },
             ].map((v) => (

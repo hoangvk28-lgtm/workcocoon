@@ -196,7 +196,7 @@ export default async function BestDeskLampUnder30Page() {
             <div className="space-y-3 mb-3">
               {colorTempGuide.map((item, i) => (
                 <div key={i} className="flex items-start gap-3 p-3 rounded-xl border border-border bg-white">
-                  <span className="text-xs font-bold px-2.5 py-1 rounded-lg shrink-0 whitespace-nowrap" style={{ background: i === 0 ? "#fef3c7" : i === 1 ? "#ecfdf5" : "#eff6ff", color: i === 0 ? "#d97706" : i === 1 ? "#16a34a" : "#2563eb" }}>{item.range}</span>
+                  <span className="text-xs font-bold px-2.5 py-1 rounded-lg shrink-0 whitespace-nowrap" style={{ background: i === 0 ? "#fef3c7" : i === 1 ? "#ecfdf5" : "#eef2e8", color: i === 0 ? "#a8875a" : i === 1 ? "#5f7a4a" : "#7c9068" }}>{item.range}</span>
                   <p className="text-xs text-ink-secondary leading-relaxed">{item.description}</p>
                 </div>
               ))}
@@ -226,9 +226,9 @@ export default async function BestDeskLampUnder30Page() {
                 { label: "Prefer", items: ["Directional lamps (gooseneck, adjustable arm) focus light on desk only", "Warm settings (2700K--3000K) significantly less disruptive", "Lower brightness levels (20--40%) focused on desk surface"] },
               ].map((col, i) => (
                 <div key={i} className={`p-4 rounded-xl border ${i === 0 ? "border-red-200 bg-red-50" : "border-cta/30 bg-cta-light/20"}`}>
-                  <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#dc2626" : "#16a34a" }}>{col.label}</p>
+                  <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#dc2626" : "#5f7a4a" }}>{col.label}</p>
                   <ul className="space-y-1.5">
-                    {col.items.map((item, j) => <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary"><span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#dc2626" : "#16a34a" }} />{item}</li>)}
+                    {col.items.map((item, j) => <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary"><span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#dc2626" : "#5f7a4a" }} />{item}</li>)}
                   </ul>
                 </div>
               ))}

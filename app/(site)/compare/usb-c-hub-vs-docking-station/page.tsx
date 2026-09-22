@@ -32,8 +32,8 @@ export const metadata: Metadata = buildMetadata({
 
 // ─── Color tokens ─────────────────────────────────────────────────────────────
 // "hub" = blue/indigo  |  "dock" = emerald/green
-const HUB_BG = "#eff6ff";
-const HUB_TEXT = "#1d4ed8";
+const HUB_BG = "#eef2e8";
+const HUB_TEXT = "#5c6f4b";
 const HUB_BORDER = "#bfdbfe";
 const DOCK_BG = "#ecfdf5";
 const DOCK_TEXT = "#047857";
@@ -47,7 +47,7 @@ function categoryStyle(cat: "hub" | "dock" | "tie") {
 
 function ScoreChip({ score }: { score: number }) {
   const bg = score >= 9.0 ? "#dcfce7" : score >= 8.5 ? "#fef9c3" : "#f3f4f6";
-  const color = score >= 9.0 ? "#16a34a" : score >= 8.5 ? "#d97706" : "#374151";
+  const color = score >= 9.0 ? "#5f7a4a" : score >= 8.5 ? "#a8875a" : "#374151";
   return (
     <span className="text-sm font-bold px-2 py-0.5 rounded-lg tabular-nums" style={{ background: bg, color }}>
       {score.toFixed(1)}
@@ -388,7 +388,7 @@ export default function UsbCHubVsDockingStationPage() {
           <div className="rounded-2xl border overflow-hidden">
             <table className="w-full text-sm">
               <thead>
-                <tr className="border-b" style={{ background: "#f8fafc" }}>
+                <tr className="border-b" style={{ background: "#f6f1e9" }}>
                   <th className="text-left px-4 py-3 font-bold text-ink text-xs uppercase tracking-wide">Factor</th>
                   <th className="text-left px-4 py-3 font-bold text-xs uppercase tracking-wide" style={{ color: HUB_TEXT }}>USB-C Hub</th>
                   <th className="text-left px-4 py-3 font-bold text-xs uppercase tracking-wide" style={{ color: DOCK_TEXT }}>Docking Station</th>

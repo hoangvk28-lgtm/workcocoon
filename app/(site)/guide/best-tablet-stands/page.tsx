@@ -214,7 +214,7 @@ export default async function BestTabletStandsPage() {
                           className="inline-block text-xs font-bold px-2 py-0.5 rounded-lg tabular-nums"
                           style={{
                             background: p.scoreOverall >= 8.5 ? "#dcfce7" : "#fef9c3",
-                            color: p.scoreOverall >= 8.5 ? "#16a34a" : "#d97706",
+                            color: p.scoreOverall >= 8.5 ? "#5f7a4a" : "#a8875a",
                           }}
                         >
                           {p.scoreOverall.toFixed(1)}

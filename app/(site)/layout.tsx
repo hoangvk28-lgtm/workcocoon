@@ -13,9 +13,8 @@ const siteSchema = {
       description: SITE_DESCRIPTION,
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/logo-deskfinds-official.png`,
+        url: `${SITE_URL}/logo-icon.png`,
       },
-      sameAs: ["https://twitter.com/deskfinds"],
     },
     {
       "@type": "WebSite",

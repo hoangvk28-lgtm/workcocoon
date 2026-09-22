@@ -36,20 +36,20 @@ const typeLabel: Record<string, string> = {
   grommet: "Grommet",
 };
 const typeColor: Record<string, { bg: string; text: string }> = {
-  "powered-usb-a": { bg: "#eff6ff", text: "#1d4ed8" },
-  "powered-usb-c": { bg: "#f0fdf4", text: "#15803d" },
+  "powered-usb-a": { bg: "#eef2e8", text: "#5c6f4b" },
+  "powered-usb-c": { bg: "#eef3e7", text: "#48602f" },
   "unpowered-usb-a": { bg: "#f3f4f6", text: "#374151" },
   grommet: { bg: "#fdf4ff", text: "#7e22ce" },
 };
 const powerBadge: Record<string, { label: string; bg: string; text: string }> = {
-  powered: { label: "Powered", bg: "#dcfce7", text: "#15803d" },
+  powered: { label: "Powered", bg: "#dcfce7", text: "#48602f" },
   unpowered: { label: "Unpowered", bg: "#f3f4f6", text: "#6b7280" },
   partial: { label: "Partial", bg: "#fef9c3", text: "#a16207" },
 };
 
 function ScoreChip({ score }: { score: number }) {
   const bg = score >= 9.0 ? "#dcfce7" : score >= 8.5 ? "#fef9c3" : "#f3f4f6";
-  const color = score >= 9.0 ? "#16a34a" : score >= 8.5 ? "#d97706" : "#374151";
+  const color = score >= 9.0 ? "#5f7a4a" : score >= 8.5 ? "#a8875a" : "#374151";
   return (
     <span className="text-xs font-bold px-2 py-0.5 rounded-lg tabular-nums" style={{ background: bg, color }}>
       {score.toFixed(1)}
@@ -207,7 +207,7 @@ export default async function BestUsbHubForDeskPage() {
               <thead>
                 <tr>
                   <th className="text-left px-4 py-3 font-bold text-ink bg-gray-50 border-b border-border w-1/3"></th>
-                  <th className="text-left px-4 py-3 font-bold border-b border-border" style={{ background: "#eff6ff", color: "#1d4ed8" }}>Powered USB Hub</th>
+                  <th className="text-left px-4 py-3 font-bold border-b border-border" style={{ background: "#eef2e8", color: "#5c6f4b" }}>Powered USB Hub</th>
                   <th className="text-left px-4 py-3 font-bold border-b border-border bg-gray-50 text-ink-muted">Unpowered USB Hub</th>
                 </tr>
               </thead>
@@ -235,8 +235,8 @@ export default async function BestUsbHubForDeskPage() {
               <thead>
                 <tr>
                   <th className="text-left px-4 py-3 font-bold text-ink bg-gray-50 border-b border-border w-1/3"></th>
-                  <th className="text-left px-4 py-3 font-bold border-b border-border" style={{ background: "#eff6ff", color: "#1d4ed8" }}>USB-A Hub</th>
-                  <th className="text-left px-4 py-3 font-bold border-b border-border" style={{ background: "#f0fdf4", color: "#15803d" }}>USB-C Hub</th>
+                  <th className="text-left px-4 py-3 font-bold border-b border-border" style={{ background: "#eef2e8", color: "#5c6f4b" }}>USB-A Hub</th>
+                  <th className="text-left px-4 py-3 font-bold border-b border-border" style={{ background: "#eef3e7", color: "#48602f" }}>USB-C Hub</th>
                 </tr>
               </thead>
               <tbody>

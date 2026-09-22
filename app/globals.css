@@ -2,41 +2,41 @@
 
 /* ─── Design Tokens ─────────────────────────────────────── */
 @theme inline {
-  /* Brand */
-  --color-brand: #2563eb;
-  --color-brand-dark: #1d4ed8;
-  --color-brand-light: #eff6ff;
-  --color-brand-muted: #dbeafe;
+  /* Brand — sage green, from the WorkCocoon "calmer way to work at home" identity */
+  --color-brand: #7c9068;
+  --color-brand-dark: #5c6f4b;
+  --color-brand-light: #eef2e8;
+  --color-brand-muted: #dce3d1;
 
-  /* CTA – Amazon-style green for buy buttons */
-  --color-cta: #16a34a;
-  --color-cta-dark: #15803d;
-  --color-cta-light: #f0fdf4;
+  /* CTA – deeper sage-green for buy buttons, stays in the brand family */
+  --color-cta: #5f7a4a;
+  --color-cta-dark: #48602f;
+  --color-cta-light: #eef3e7;
 
-  /* Accent – deals, badges */
-  --color-accent: #f59e0b;
-  --color-accent-dark: #d97706;
-  --color-accent-light: #fffbeb;
+  /* Accent – warm tan/beige for deals, badges */
+  --color-accent: #c9a876;
+  --color-accent-dark: #a8875a;
+  --color-accent-light: #f7f0e3;
 
-  /* Neutral palette */
-  --color-surface: #ffffff;
-  --color-bg: #f8fafc;
-  --color-border: #e2e8f0;
-  --color-border-dark: #cbd5e1;
+  /* Neutral palette — warm cream, not cold white */
+  --color-surface: #fbf8f3;
+  --color-bg: #f6f1e9;
+  --color-border: #e6ddd0;
+  --color-border-dark: #d3c6b3;
 
-  /* Text */
-  --color-ink: #0f172a;
-  --color-ink-secondary: #475569;
-  --color-ink-muted: #94a3b8;
-  --color-ink-inverse: #f8fafc;
+  /* Text — charcoal, not slate */
+  --color-ink: #3a3a35;
+  --color-ink-secondary: #63635a;
+  --color-ink-muted: #9b9b8e;
+  --color-ink-inverse: #fbf8f3;
 
-  /* Score colours */
-  --color-score-high: #16a34a;
-  --color-score-mid: #f59e0b;
-  --color-score-low: #ef4444;
+  /* Score colours — kept distinct from brand palette for comparison-table legibility */
+  --color-score-high: #5f7a4a;
+  --color-score-mid: #c9a876;
+  --color-score-low: #b5543f;
 
-  /* Typography */
-  --font-display: var(--font-inter), "Inter", system-ui, sans-serif;
+  /* Typography — rounded display font for headings, Inter for body copy */
+  --font-display: var(--font-quicksand), "Quicksand", system-ui, sans-serif;
   --font-body: var(--font-inter), "Inter", system-ui, sans-serif;
 
   /* Radii */

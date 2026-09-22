@@ -6,39 +6,38 @@
 
 export const mainNav: NavItem[] = [
   {
-    label: "Reviews",
-    href: "/reviews",
+    label: "Workspace Ideas",
+    href: "/categories/compact-home-office",
     children: [
-      { label: "Desk Setup", href: "/categories/desk-setup", description: "Lamps, stands & cable management" },
-      { label: "Dorm Essentials", href: "/categories/dorm-essentials", description: "Space-saving dorm picks" },
-      { label: "Small Room Storage", href: "/categories/small-room-storage", description: "Under-bed & rolling storage" },
-      { label: "Compact Home Office", href: "/categories/compact-home-office", description: "Small WFH setups" },
-      { label: "Budget Finds", href: "/categories/budget-finds", description: "Best value under $30–$50" },
+      { label: "Workspace", href: "/categories/compact-home-office", description: "Full home office setup ideas" },
+      { label: "Compact Essentials", href: "/categories/dorm-essentials", description: "Space-saving picks for tighter setups" },
     ],
   },
+  { label: "Desk Setup", href: "/categories/desk-setup" },
   {
-    label: "Buying Guides",
-    href: "/guide",
+    label: "Shop by Category",
+    href: "/categories",
     children: [
-      { label: "Desk Setup", href: "/guide/desk-setup", description: "Lamps, stands & cable management" },
-      { label: "Dorm Essentials", href: "/guide/dorm-essentials", description: "Space-saving dorm picks" },
-      { label: "Small Room Storage", href: "/guide/small-room-storage", description: "Under-bed & rolling storage" },
-      { label: "Compact Home Office", href: "/guide/compact-home-office", description: "Small WFH setups" },
-      { label: "Budget Finds", href: "/guide/budget-finds", description: "Best value under $30-$50" },
+      { label: "Chairs", href: "/categories/chairs", description: "Task, ergonomic, and kneeling chairs" },
+      { label: "Monitors", href: "/categories/monitors", description: "4K, USB-C, and gaming monitors, arms & stands" },
+      { label: "Lighting", href: "/categories/lighting", description: "Desk lamps and ring lights" },
+      { label: "Accessories", href: "/categories/accessories", description: "Cable management, keyboards & more" },
     ],
   },
+  { label: "Work Better", href: "/categories/small-room-storage" },
   { label: "Compare", href: "/compare" },
-  { label: "Deals", href: "/deals" },
-  { label: "How We Review", href: "/how-we-review" },
 ];
 
 export const footerNav = {
   categories: [
     { label: "Desk Setup", href: "/categories/desk-setup" },
-    { label: "Dorm Essentials", href: "/categories/dorm-essentials" },
-    { label: "Small Room Storage", href: "/categories/small-room-storage" },
-    { label: "Compact Home Office", href: "/categories/compact-home-office" },
-    { label: "Budget Finds", href: "/categories/budget-finds" },
+    { label: "Workspace", href: "/categories/compact-home-office" },
+    { label: "Chairs", href: "/categories/chairs" },
+    { label: "Monitors", href: "/categories/monitors" },
+    { label: "Lighting", href: "/categories/lighting" },
+    { label: "Accessories", href: "/categories/accessories" },
+    { label: "Work Better", href: "/categories/small-room-storage" },
+    { label: "Compact Essentials", href: "/categories/dorm-essentials" },
   ],
   company: [
     { label: "About Us", href: "/about-workcocoon" },

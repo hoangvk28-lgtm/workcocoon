@@ -26,7 +26,7 @@ export function NewsletterCTA({ config }: Props) {
   return (
     <section
       className="py-16"
-      style={{ background: "linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%)" }}
+      style={{ background: "linear-gradient(135deg, #3a3a35 0%, #1e3a5f 100%)" }}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-2xl mx-auto text-center">

@@ -108,7 +108,7 @@ function AtAGlanceRow({ item }: { item: AtAGlanceItem }) {
                     className="mt-0.5 w-3.5 h-3.5 rounded-full flex items-center justify-center shrink-0 font-bold text-[9px]"
                     style={{
                       background: con.severity === "major" ? "#fee2e2" : "#fef9c3",
-                      color: con.severity === "major" ? "#dc2626" : "#d97706",
+                      color: con.severity === "major" ? "#dc2626" : "#a8875a",
                     }}
                   >
                     −

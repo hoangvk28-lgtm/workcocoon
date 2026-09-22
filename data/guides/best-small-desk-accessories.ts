@@ -355,12 +355,12 @@ export const categoryMeta: Record<
 };
 
 export const badgeColors: Record<string, { bg: string; text: string }> = {
-  "Best Overall": { bg: "#2563eb", text: "#fff" },
-  "Best Budget": { bg: "#16a34a", text: "#fff" },
+  "Best Overall": { bg: "#7c9068", text: "#fff" },
+  "Best Budget": { bg: "#5f7a4a", text: "#fff" },
   "Best for Cables": { bg: "#0891b2", text: "#fff" },
   "Best for Aesthetics": { bg: "#7c3aed", text: "#fff" },
   "Best for Gaming Desks": { bg: "#dc2626", text: "#fff" },
-  "Best for Ergonomics": { bg: "#f59e0b", text: "#fff" },
+  "Best for Ergonomics": { bg: "#c9a876", text: "#fff" },
 };
 
 export const setupCombos = [

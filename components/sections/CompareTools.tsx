@@ -62,7 +62,7 @@ export function CompareTools() {
           </h2>
           <p className="text-ink-secondary mt-2 leading-relaxed max-w-2xl">
             All scores use the same 10-point rubric - overall quality, value, build, ease of use,
-            and small-space fit - so comparisons stay apples-to-apples.
+            and comfort - so comparisons stay apples-to-apples.
           </p>
         </div>
         <Link prefetch={false}

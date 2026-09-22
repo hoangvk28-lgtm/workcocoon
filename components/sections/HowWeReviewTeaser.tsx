@@ -2,34 +2,34 @@
 
 const criteria = [
   {
-    label: "Small-Space Fit",
-    description: "Footprint, mounting options, and whether the product genuinely works in limited square footage.",
+    label: "Real-World Fit",
+    description: "Footprint, mounting options, and whether the product genuinely works in a real home workspace.",
     weight: "25%",
-    color: "#2563eb",
+    color: "#7c9068",
   },
   {
     label: "Build Quality",
     description: "Materials, finish, and construction durability as indicated by specs and verified buyer patterns.",
     weight: "20%",
-    color: "#0891b2",
+    color: "#5c6f4b",
   },
   {
     label: "Ease of Use",
     description: "Setup time, control ergonomics, and how much day-to-day adjustment the product requires.",
     weight: "20%",
-    color: "#16a34a",
+    color: "#5f7a4a",
   },
   {
     label: "Value for Money",
     description: "Price-to-performance ratio compared within each product subcategory, not across all products.",
     weight: "20%",
-    color: "#f59e0b",
+    color: "#c9a876",
   },
   {
     label: "Buyer Feedback",
     description: "Patterns from verified Amazon reviews - what real buyers praise and complain about over time.",
     weight: "15%",
-    color: "#7c3aed",
+    color: "#a8875a",
   },
 ];
 
@@ -41,16 +41,16 @@ export function HowWeReviewTeaser() {
           {/* Left copy */}
           <div>
             <span className="text-xs font-bold uppercase tracking-widest text-brand">
-              Our Methodology
+              How WorkCocoon Chooses Products
             </span>
             <h2 className="text-2xl sm:text-3xl font-bold text-ink mt-3 mb-5 tracking-tight">
-              How We Score Products
+              Context first. Trade-offs included. No paid rankings.
             </h2>
             <p className="text-ink-secondary leading-relaxed mb-4 max-w-lg">
-              Every product is evaluated against five criteria - scored 1–10, then combined into a weighted overall score. Scores are tuned for small-space use, not general-purpose performance.
+              We focus on the things that matter in a real home workspace: comfort, dimensions, usability, build quality and value. Every product is scored 1-10 against five criteria, then combined into a weighted overall score.
             </p>
             <p className="text-ink-secondary leading-relaxed mb-6 max-w-lg">
-              We don&apos;t accept payment for placement or scores. Our affiliate income depends on recommending products people are actually happy with - honest evaluation is in our direct interest.
+              Every recommendation explains who it&apos;s for - and who should skip it. Affiliate relationships don&apos;t determine placement or scores.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link prefetch={false}

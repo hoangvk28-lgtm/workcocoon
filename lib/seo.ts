@@ -6,8 +6,8 @@ const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
   "https://www.workcocoon.com";
 const SITE_DESCRIPTION =
-  "Honest buying guides for small desks, dorm rooms, and compact home offices. Find the best products with real scores and comparisons.";
-const TWITTER_HANDLE = "@deskfinds";
+  "Create a calmer, more comfortable home workspace with practical setup guides, thoughtful product recommendations, and home office ideas.";
+const TWITTER_HANDLE = "@workcocoon";
 
 export function buildMetadata({
   title,

@@ -230,7 +230,7 @@ export default async function UnderDeskChargingPage() {
                 {materialsTable.map((row, i) => (
                   <tr key={i} className={i % 2 === 0 ? "bg-white" : "bg-bg"}>
                     <td className="px-4 py-3 font-medium text-ink">{row.material}</td>
-                    <td className="px-4 py-3 font-bold text-xs" style={{ color: row.works === true ? "#16a34a" : row.works === false ? "#dc2626" : "#d97706" }}>
+                    <td className="px-4 py-3 font-bold text-xs" style={{ color: row.works === true ? "#5f7a4a" : row.works === false ? "#dc2626" : "#a8875a" }}>
                       {row.works === true ? "Works fully" : row.works === false ? "Blocked completely" : "Depends on setup"}
                     </td>
                     <td className="px-4 py-3 text-ink-secondary text-xs hidden sm:table-cell">{row.notes}</td>

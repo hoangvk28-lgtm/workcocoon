@@ -243,7 +243,7 @@ export default async function ProductReviewPage({ params }: Props) {
             ) : (
               <div
                 className="w-full max-w-md h-52 rounded-card border border-border flex items-center justify-center mb-2 overflow-hidden"
-                style={{ background: "linear-gradient(135deg, #f1f5f9 0%, #eff6ff 100%)" }}
+                style={{ background: "linear-gradient(135deg, #f1f5f9 0%, #eef2e8 100%)" }}
                 aria-label={`${product.name} — product image not yet available`}
                 role="img"
               >
@@ -695,7 +695,7 @@ export default async function ProductReviewPage({ params }: Props) {
         {/* ── Bottom CTA strip ──────────────────────────────────────────── */}
         <section
           className="max-w-3xl p-6 rounded-card border border-brand-muted flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4"
-          style={{ background: "linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%)" }}
+          style={{ background: "linear-gradient(135deg, #eef2e8 0%, #dce3d1 100%)" }}
           aria-label="Buy this product"
         >
           <div>

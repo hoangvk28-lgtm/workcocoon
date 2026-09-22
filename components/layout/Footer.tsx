@@ -30,14 +30,20 @@ export async function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand column */}
           <div className="lg:col-span-1">
-            <Link prefetch={false} href="/" className="inline-block mb-4">
+            <Link prefetch={false} href="/" className="inline-flex items-center gap-2 mb-4">
               <Image
-                src="/logo-deskfinds-official.png"
-                alt="WorkCocoon"
-                width={280}
-                height={76}
-                className="h-16 w-auto object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity"
+                src="/logo-icon.png"
+                alt=""
+                width={96}
+                height={96}
+                className="h-10 w-10 object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity"
               />
+              <span
+                className="text-lg font-bold tracking-tight opacity-90"
+                style={{ fontFamily: "var(--font-display)", color: "var(--color-ink-inverse)" }}
+              >
+                workcocoon
+              </span>
             </Link>
             <p className="text-sm text-ink-inverse/75 leading-relaxed max-w-xs">
               {footerSettings.description}

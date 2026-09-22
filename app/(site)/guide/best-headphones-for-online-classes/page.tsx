@@ -196,11 +196,11 @@ export default async function BestHeadphonesOnlineClassesPage() {
               { label: "Wireless headphones for class", items: ["Freedom from desk during breaks", "Can step away briefly without unplugging", "Works with any device, no dongle needed", "Battery must be charged before long sessions", "Rare but real: Bluetooth dropout during a call is embarrassing"] },
             ].map((col, i) => (
               <div key={i} className={`p-4 rounded-xl border ${i === 0 ? "border-cta/30 bg-cta-light/20" : "border-amber-200 bg-amber-50"}`}>
-                <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#16a34a" : "#d97706" }}>{col.label}</p>
+                <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#5f7a4a" : "#a8875a" }}>{col.label}</p>
                 <ul className="space-y-1.5">
                   {col.items.map((item, j) => (
                     <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary">
-                      <span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: j < 4 && i === 0 ? "#16a34a" : j >= 4 && i === 0 ? "#dc2626" : j < 3 ? "#d97706" : "#dc2626" }} />{item}
+                      <span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: j < 4 && i === 0 ? "#5f7a4a" : j >= 4 && i === 0 ? "#dc2626" : j < 3 ? "#a8875a" : "#dc2626" }} />{item}
                     </li>
                   ))}
                 </ul>
@@ -248,9 +248,9 @@ export default async function BestHeadphonesOnlineClassesPage() {
                   { label: "ANC does not block", items: ["Intermittent noise (someone talking nearby)", "Sudden loud noise (door slam, alarm)", "Roommate at normal volume at close range"] },
                 ].map((col, i) => (
                   <div key={i} className={`p-3 rounded-lg border ${i === 0 ? "border-cta/30 bg-cta-light/20" : "border-red-200 bg-red-50"}`}>
-                    <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#16a34a" : "#dc2626" }}>{col.label}</p>
+                    <p className="text-xs font-bold uppercase tracking-widest mb-2" style={{ color: i === 0 ? "#5f7a4a" : "#dc2626" }}>{col.label}</p>
                     <ul className="space-y-1.5">
-                      {col.items.map((item, j) => <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary"><span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#16a34a" : "#dc2626" }} />{item}</li>)}
+                      {col.items.map((item, j) => <li key={j} className="flex items-start gap-1.5 text-xs text-ink-secondary"><span className="w-1 h-1 rounded-full mt-1.5 shrink-0" style={{ background: i === 0 ? "#5f7a4a" : "#dc2626" }} />{item}</li>)}
                     </ul>
                   </div>
                 ))}

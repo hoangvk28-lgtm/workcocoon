@@ -9,12 +9,14 @@ import { CategoryIllustration } from "@/components/ui/CategoryIllustration";
 interface FeaturedGuidesProps {
   guides: Guide[];
   title?: string;
+  description?: string;
   showAll?: boolean;
 }
 
 export function FeaturedGuides({
   guides,
-  title = "Latest Buying Guides",
+  title = "Popular Guides",
+  description = "Carefully evaluated product comparisons for better home workdays - no padding, just our honest picks.",
   showAll = true,
 }: FeaturedGuidesProps) {
   return (
@@ -22,7 +24,7 @@ export function FeaturedGuides({
       <SectionHeader
         eyebrow="Buying Guides"
         title={title}
-        description="Carefully evaluated product comparisons for small-space living - no padding, just our honest picks."
+        description={description}
         href={showAll ? "/guide" : undefined}
         hrefLabel="View all guides"
       />
@@ -30,7 +32,7 @@ export function FeaturedGuides({
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {guides.map((guide) => {
           const categoryColor =
-            categories.find((c) => c.slug === guide.categorySlug)?.color ?? "#2563eb";
+            categories.find((c) => c.slug === guide.categorySlug)?.color ?? "#7c9068";
           return (
             <GuideCard key={guide.slug} guide={guide} categoryColor={categoryColor} />
           );

@@ -7,12 +7,14 @@ import { CategoryIllustration } from "@/components/ui/CategoryIllustration";
 import { scoreToColor } from "@/lib/utils";
 
 const CATEGORY_COLORS: Record<string, string> = {
-  "desk-setup": "#2563eb",
-  "dorm-essentials": "#7c3aed",
-  "small-room-storage": "#0891b2",
+  "desk-setup": "#7c9068",
+  "dorm-essentials": "#a8875a",
+  "small-room-storage": "#63635a",
+  "compact-home-office": "#5c6f4b",
+  "budget-finds": "#c9a876",
 };
 function getCategoryColor(slug: string) {
-  return CATEGORY_COLORS[slug] ?? "#2563eb";
+  return CATEGORY_COLORS[slug] ?? "#7c9068";
 }
 
 interface DealsSectionProps {
@@ -29,21 +31,21 @@ export function DealsSection({ products }: DealsSectionProps) {
         <div>
           <div className="flex items-center gap-2 mb-2">
             <span className="text-xs font-bold uppercase tracking-widest text-accent-dark">
-              Budget Picks
+              Editor Picks
             </span>
           </div>
           <h2 className="text-2xl sm:text-3xl font-bold text-ink tracking-tight">
-            Featured Budget-Friendly Picks
+            Products worth considering
           </h2>
           <p className="text-ink-secondary mt-2 leading-relaxed max-w-2xl">
-            High-scoring products at accessible price points. Check Amazon for current pricing - deals change frequently.
+            A small selection of products we think genuinely improve a home workspace.
           </p>
         </div>
         <Link prefetch={false}
           href="/deals"
           className="text-sm font-semibold text-brand hover:text-brand-dark transition-colors shrink-0 flex items-center gap-1"
         >
-          All budget picks
+          All editor picks
           <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
             <path strokeLinecap="round" strokeLinejoin="round" d="m9 18 6-6-6-6" />
           </svg>

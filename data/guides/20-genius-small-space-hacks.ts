@@ -319,8 +319,8 @@ export const hacks: SpaceHack[] = [
 ];
 
 export const zones = [
-  { id: "dead-space", label: "Zone 1 -- Dead Space Recovery", items: "Hacks 1-5", color: { bg: "#eff6ff", text: "#1d4ed8", border: "#bfdbfe" }, emoji: "🎯", desc: "Space you own but aren't using. No reorganizing required -- just claim the zone." },
-  { id: "compression", label: "Zone 2 -- Compression Hacks", items: "Hacks 6-10 + 19", color: { bg: "#f0fdf4", text: "#15803d", border: "#bbf7d0" }, emoji: "🗜️", desc: "Reduce what you own to 20-30% of its original size. No new furniture needed." },
+  { id: "dead-space", label: "Zone 1 -- Dead Space Recovery", items: "Hacks 1-5", color: { bg: "#eef2e8", text: "#5c6f4b", border: "#bfdbfe" }, emoji: "🎯", desc: "Space you own but aren't using. No reorganizing required -- just claim the zone." },
+  { id: "compression", label: "Zone 2 -- Compression Hacks", items: "Hacks 6-10 + 19", color: { bg: "#eef3e7", text: "#48602f", border: "#bbf7d0" }, emoji: "🗜️", desc: "Reduce what you own to 20-30% of its original size. No new furniture needed." },
   { id: "capacity", label: "Zone 3 -- Capacity Multiplication", items: "Hacks 11-15", color: { bg: "#fff7ed", text: "#c2410c", border: "#fed7aa" }, emoji: "✖️", desc: "Make existing storage work harder -- double the rod, halve the hanger width." },
   { id: "mobile", label: "Zone 4 -- Mobile Storage", items: "Hacks 16-18", color: { bg: "#fdf4ff", text: "#7e22ce", border: "#e9d5ff" }, emoji: "🔄", desc: "Storage that moves wherever you need it. No permanent floor commitment." },
 ];

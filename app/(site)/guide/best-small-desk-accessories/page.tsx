@@ -276,7 +276,7 @@ export default async function BestSmallDeskAccessoriesPage() {
                                 className="text-sm font-bold px-2.5 py-1 rounded-lg tabular-nums inline-block"
                                 style={{
                                   background: item.score >= 8.8 ? "#dcfce7" : item.score >= 8.5 ? "#fef9c3" : "#f3f4f6",
-                                  color: item.score >= 8.8 ? "#16a34a" : item.score >= 8.5 ? "#d97706" : "#374151",
+                                  color: item.score >= 8.8 ? "#5f7a4a" : item.score >= 8.5 ? "#a8875a" : "#374151",
                                 }}
                               >
                                 {item.score.toFixed(1)}
@@ -368,7 +368,7 @@ export default async function BestSmallDeskAccessoriesPage() {
                         className="inline-block text-xs font-bold px-2 py-0.5 rounded-lg tabular-nums"
                         style={{
                           background: item.score >= 8.8 ? "#dcfce7" : item.score >= 8.5 ? "#fef9c3" : "#f3f4f6",
-                          color: item.score >= 8.8 ? "#16a34a" : item.score >= 8.5 ? "#d97706" : "#374151",
+                          color: item.score >= 8.8 ? "#5f7a4a" : item.score >= 8.5 ? "#a8875a" : "#374151",
                         }}
                       >
                         {item.score.toFixed(1)}
