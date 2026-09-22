@@ -1,9 +1,11 @@
 // Amazon Creators API client (OAuth2 / v3.x credentials, NA region)
 // Docs: Creators API "Using cURL" — token via Login with Amazon, catalog via https://creatorsapi.amazon
 
-const TOKEN_ENDPOINT = process.env.AMAZON_PAAPI_TOKEN_ENDPOINT ?? "https://api.amazon.com/auth/o2/token";
+// Use `||` — an env var Vercel auto-detected from .env.example but left
+// blank is a set-but-empty string, which `??` alone won't fall through on.
+const TOKEN_ENDPOINT = process.env.AMAZON_PAAPI_TOKEN_ENDPOINT || "https://api.amazon.com/auth/o2/token";
 const API_BASE = "https://creatorsapi.amazon";
-const MARKETPLACE = process.env.AMAZON_PAAPI_MARKETPLACE ?? "www.amazon.com";
+const MARKETPLACE = process.env.AMAZON_PAAPI_MARKETPLACE || "www.amazon.com";
 
 interface TokenCache {
   accessToken: string;
@@ -78,7 +80,12 @@ interface GetItemsResponse {
   errors?: Array<{ code: string; message: string }>;
 }
 
-const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "deskfinds0d-20";
+// No safe fallback here — silently defaulting to another site's Associates
+// tag would misattribute affiliate revenue. Fail loudly instead.
+const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG || "";
+if (!PARTNER_TAG && process.env.NODE_ENV !== "test") {
+  console.warn("[creators-api] AMAZON_PAAPI_PARTNER_TAG is not set — PA-API calls will fail until a WorkCocoon-specific Associates tag is configured.");
+}
 
 // GetItems accepts at most 10 ASINs per request.
 export async function getItems(asins: string[]): Promise<CreatorsApiItem[]> {

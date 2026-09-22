@@ -6,9 +6,11 @@ export interface AdminSessionData {
   adminEmail?: string;
 }
 
+// `||` not `??` — an env var that's set-but-empty (e.g. Vercel auto-detected
+// it from .env.example with no value filled in) is falsy but not nullish.
 const SESSION_SECRET =
-  process.env.SESSION_SECRET ??
-  "smartspace-admin-fallback-secret-change-in-production-32chars";
+  process.env.SESSION_SECRET ||
+  "workcocoon-admin-fallback-secret-change-in-production-32chars";
 
 export const sessionOptions = {
   password: SESSION_SECRET,
