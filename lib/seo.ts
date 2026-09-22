@@ -89,4 +89,4 @@ export const defaultMetadata: Metadata = buildMetadata({
   path: "/",
 });
 
-export { SITE_NAME, SITE_URL, SITE_DESCRIPTION };
+export { SITE_NAME, SITE_URL, SITE_DESCRIPTION, TWITTER_HANDLE };
