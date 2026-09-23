@@ -170,26 +170,62 @@ export const products: GuideProduct[] = [
   },
 ];
 
+export interface HowToChooseSection {
+  subheading: string;
+  intro?: string;
+  table?: { headers: string[]; rows: string[][] };
+  cards?: { label: string; text: string }[];
+  note?: string;
+}
+
 export const buyingCriteria: BuyingCriterion[] = [
   {
-    "criterion": "Check weight capacity against your actual body weight with real safety margin",
-    "explanation": "A gaming chair's rated weight capacity is the absolute maximum before the frame, gas lift, and casters are at real risk of failure, not a comfortable operating range, so a chair rated just barely above your actual weight is running much closer to its structural limit than a chair with genuine headroom.\n\nThis matters because a chair operating near its weight limit tends to develop wobble, sagging, or gas-lift failure faster than one with real margin, even if it doesn't fail outright.\n\nCheck the listed weight capacity, and favor a chair rated at least 50-75 lbs above your actual weight rather than one that just barely clears it."
+    "criterion": "Decide if you actually need the recline range you're paying for",
+    "explanation": "Gaming chairs are often marketed on maximum recline angle (130°, 155°, 180°), but a chair reclined past about 130° needs a locking mechanism and a footrest to be usable rather than precarious, and most buyers never use the extreme end of the advertised range.\n\nThis matters for anyone deciding between a cheaper 130°-max chair and a pricier 180°-flat model, the difference in daily usefulness is often smaller than the price gap suggests.\n\nBe honest about whether you'll actually recline fully flat regularly, or whether a mid-range recline with a locking tilt mechanism covers your real use case."
   },
   {
-    "criterion": "Verify lumbar support is genuinely adjustable, not just a fixed cushion",
-    "explanation": "Many gaming chairs include a lumbar cushion or built-in curve marketed as \"ergonomic support,\" but a fixed, non-adjustable lumbar shape only fits correctly for a body proportioned exactly the way the chair was designed for, while a genuinely adjustable lumbar system (height-adjustable, inflatable, or a repositionable pillow) can be tuned to your actual lower back curve.\n\nThis matters directly if you experience real lower back discomfort during long sessions, a fixed lumbar shape that doesn't match your body can be worse than no lumbar support at all.\n\nCheck whether lumbar support is described as adjustable and how (height, firmness, or position), not just whether the word \"lumbar\" appears in the listing."
+    "criterion": "Check bucket seat width against your actual hip and shoulder width",
+    "explanation": "The bucket-seat design that defines a gaming chair's look also means the side bolsters are fixed in width, unlike a standard office chair's flat seat pan, so a bucket seat that's too narrow for your frame will pinch, and one that's too wide won't provide the lateral support it's designed for.\n\nThis matters more for larger or smaller-than-average users than for a mid-size frame, where most gaming chairs are designed to fit by default.\n\nCompare the chair's listed seat width and weight capacity against your own measurements rather than assuming one size fits all body types."
   },
   {
-    "criterion": "Consider armrest range of motion for your actual desk height and typing posture",
-    "explanation": "Armrest adjustability ranges from simple height-only adjustment to full 4D armrests that move up, down, forward, back, and pivot, and this range matters directly for matching the armrest height to your specific desk and keyboard position, a mismatched armrest height forces shoulders up or wrists at an awkward angle during long sessions.\n\nThis matters more for anyone spending many hours daily typing or gaming, less for occasional use where posture matters less.\n\nCheck the specific armrest adjustment axes listed (2D, 3D, or 4D), not just whether armrests are present, and match that against how much your desk height or seating position varies."
+    "criterion": "Weigh PU leather against fabric for your climate and use pattern",
+    "explanation": "PU leather gaming chairs look sleeker out of the box but trap heat during long sessions and are more prone to cracking or peeling after 1-2 years of daily use than a fabric-covered equivalent, which typically breathes better and wears more gradually.\n\nThis matters most for long daily sessions in a warm room, less for occasional or short-session use where heat buildup isn't a factor.\n\nFactor your room's typical temperature and average session length into the material choice, not just which finish looks better in photos."
   },
   {
-    "criterion": "Weigh recline range and locking positions against how you actually use the chair",
-    "explanation": "Recline range varies from a modest 90-135 degrees on basic gaming chairs to a near-flat 180 degrees on recliner-style models, and a wider recline range only matters if you'll actually use it, for napping, watching content reclined, or relaxing between gaming sessions, versus sitting upright for focused work or gaming most of the time.\n\nThis matters because a chair with an impressive recline range but a weak recline lock can feel unstable at extreme angles, while a more basic recline range with a solid lock mechanism holds position reliably.\n\nCheck both the maximum recline angle and whether the recline lock holds at multiple positions, not just the maximum angle alone."
+    "criterion": "Confirm the lumbar and neck pillows are actually adjustable, not just included",
+    "explanation": "Most gaming chairs ship with strap-on lumbar and neck pillows rather than a built-in adjustable lumbar mechanism, and pillow position tends to drift during use, requiring readjustment, unlike a dial or lever-based lumbar system on ergonomic office chairs.\n\nThis matters for anyone with an existing back condition who needs consistent, non-slipping lumbar contact through a multi-hour session.\n\nIf consistent lumbar support matters more to you than aesthetic, compare against ergonomic office chairs with built-in adjustable lumbar rather than assuming a gaming chair's pillow will suffice."
   },
   {
-    "criterion": "Check base material and caster quality for real long-term stability",
-    "explanation": "The 5-star base and caster wheels bear the chair's full weight through thousands of rolling and swiveling cycles over the chair's life, and material quality here varies significantly, a genuine steel or reinforced nylon base holds up far better under real weight than a cheaper plastic base that can crack or flex over time, and caster wheel quality affects both smooth rolling and floor protection.\n\nThis matters more for a heavier user or daily long-session use, less for occasional light use.\n\nCheck the listed base material specifically, not just the overall chair material, and check reviews for mentions of base or caster durability after months of use, not just initial assembly quality."
+    "criterion": "Check weight capacity margin for a chair that will also tilt and recline",
+    "explanation": "A gaming chair's tilt and recline mechanism puts more stress on the frame and gas cylinder than a fixed-position chair, so the rated weight capacity needs more headroom above your body weight than a standard task chair would need for the same longevity.\n\nThis matters for daily, multi-hour use specifically, since the recline mechanism is the first component to fail under sustained near-capacity load.\n\nFavor a chair rated meaningfully above your body weight if you plan to use the recline function regularly, not one rated at just enough."
+  }
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [
+  { "title": "Recline range and locking mechanism", "description": "Judged whether the advertised recline angle is actually usable and lockable at multiple positions, not just the maximum angle on the spec sheet." },
+  { "title": "Bucket seat sizing", "description": "Compared seat width and weight capacity against a range of body types rather than assuming a single bucket-seat size fits all users." },
+  { "title": "Material durability", "description": "Weighed PU leather against fabric for long-term wear, heat retention, and typical failure points (cracking, peeling) at 1-2 years of daily use." },
+  { "title": "Lumbar and neck support quality", "description": "Assessed whether lumbar and neck support come from an adjustable built-in mechanism or a strap-on pillow, and how well each holds position during use." },
+  { "title": "Weight capacity margin", "description": "Checked rated weight capacity against real headroom needed for the added stress of recline and tilt mechanisms, not just a bare pass/fail against user weight." }
+];
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Budget",
+    "table": {
+      "headers": ["Your priority", "Recommended pick"],
+      "rows": [
+        ["Lowest price in this guide", "JECQCUPG 7-Point Support Gaming Chair (400 lbs, Extra-Wide Seat, PU Leather)"],
+        ["Highest price / most features", "COMHOMA CH511 Gaming Chair (400 lbs, Embossing Leather, Pocket Spring)"]
+      ]
+    }
+  },
+  {
+    "subheading": "Mostly Gaming vs. Mixed Work-and-Gaming Use",
+    "cards": [
+      { "label": "Mostly gaming, shorter sessions", "text": "A mid-recline PU leather chair with strap-on lumbar support covers most gaming-focused use without needing office-chair-grade adjustability." },
+      { "label": "Mixed work and gaming, long daily sessions", "text": "Favor a fabric-covered chair with a wider adjustable lumbar range and a higher weight-capacity margin, since it needs to perform like a daily work chair too." }
+    ]
   }
 ];
 

@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { GuideDetail } from "@/components/guide/GuideDetail";
 import { getPublicGuideBySlug, getPublicGuidesByCategory } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
+import { guideDataLoaders } from "@/data/guides-index.generated";
 import { getCategoryBySlug } from "@/data/categories";
 import { MIGRATED_GUIDE_SLUGS_TO_SILO } from "@/lib/migrated-silos";
 
@@ -15,7 +16,7 @@ const matchSlugs = category?.matchSlugs ?? Object.keys(MIGRATED_GUIDE_SLUGS_TO_S
 
 export async function generateStaticParams() {
   const guides = await getPublicGuidesByCategory("chairs", matchSlugs);
-  return guides.map((g) => ({ slug: g.slug }));
+  return guides.filter((g) => !guideDataLoaders[g.slug]).map((g) => ({ slug: g.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -53,6 +54,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ChairsGuidePage({ params }: Props) {
   const { slug } = await params;
+
+  // A guide with a rich data/guides/<slug>.ts file always renders at /guide/<slug>
+  // via RichGuidePage (see app/(site)/guide/[slug]/page.tsx) - redirect here so this
+  // silo never serves a second, simpler-template copy of the same content.
+  if (guideDataLoaders[slug]) {
+    permanentRedirect(`/guide/${slug}`);
+  }
+
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) notFound();
 

@@ -162,26 +162,62 @@ export const products: GuideProduct[] = [
   },
 ];;
 
+export interface HowToChooseSection {
+  subheading: string;
+  intro?: string;
+  table?: { headers: string[]; rows: string[][] };
+  cards?: { label: string; text: string }[];
+  note?: string;
+}
+
 export const buyingCriteria: BuyingCriterion[] = [
   {
-    "criterion": "Match actual size and capacity to your real need, not the category label alone",
-    "explanation": "Listings for a 8 best office chair often use a size or capacity label (\"compact,\" \"large,\" \"heavy-duty\") that isn't standardized across brands, so the same label can mean meaningfully different actual dimensions or capacity from one product to the next.\n\nThis matters because buying based on the category label rather than the specific listed dimensions or capacity is a common way to end up with something that doesn't actually fit your space or handle your real load.\n\nCheck the listing for exact measurements or a stated capacity figure, and compare that directly against your actual space or need, not just the marketing size category."
+    "criterion": "Match seat height range to your actual desk height, not a generic range",
+    "explanation": "A chair's seat height range only matters relative to your specific desk: if the desk sits high and the chair's range tops out too low, your knees end up above your hips no matter how good the chair otherwise is.\n\nThis matters most for taller or shorter users and for desks that aren't standard 29\"-30\" height, where a \"universal\" seat height range can quietly rule a chair out.\n\nMeasure your desk's underside clearance and compare it directly against the chair's listed seat height range before ordering, not just its marketing category (\"tall\", \"standard\", etc.)."
   },
   {
-    "criterion": "Verify build material and construction quality from reviews, not just spec-sheet claims",
-    "explanation": "A product description can describe material or construction in flattering terms that don't always hold up under real, sustained use, and the gap between a listing's claimed quality and its actual durability only shows up in how the product performs after weeks or months of real use, not in day-one photos.\n\nThis matters more for anything you'll use daily or under real load, less for occasional light use where durability matters less.\n\nCheck reviews specifically for mentions of how the 8 best office chair holds up over time, not just unboxing-day impressions, and treat a listing's own quality claims as a starting point to verify, not a guarantee."
+    "criterion": "Check seat depth adjustment, not just seat height",
+    "explanation": "Seat depth, how far the seat pan extends from the backrest to the front edge, determines whether your knees clear the seat edge with your back against the lumbar support, and a fixed seat depth that's wrong for your leg length forces a choice between back support and knee comfort.\n\nThis matters more for shorter and taller users than for average-height users, since seat depth is usually tuned for a middle-of-the-road leg length by default.\n\nCheck whether seat depth is adjustable (a sliding seat pan) versus fixed, and if fixed, compare the listed depth against your own thigh length measured while seated."
   },
   {
-    "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this 8 best office chair over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "criterion": "Confirm the weight capacity has real margin, not just enough",
+    "explanation": "A chair rated at exactly your body weight is being used at the edge of its rated capacity every day, which accelerates wear on the gas cylinder, base, and mechanism well before a chair rated with 25-30% of headroom would show the same wear.\n\nThis matters for daily, all-day use specifically; an occasional-use guest chair can run closer to its rated limit without the same long-term consequence.\n\nCompare your body weight against the chair's rated capacity and favor a chair with meaningful headroom above your weight, not one that's merely rated \"enough.\""
   },
   {
-    "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any 8 best office chair you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "criterion": "Understand what the material actually trades off, not just how it looks",
+    "explanation": "Mesh backs breathe better and resist long-term sagging but transmit less lumbar contour than a padded back; PU leather and bonded leather look and feel premium initially but can crack or peel years before a mesh or fabric back shows equivalent wear; fabric splits the difference at the cost of showing stains more easily.\n\nThis matters differently depending on climate and how many hours you sit daily, heat and humidity make mesh's breathability matter more, while frequent guests or pets make stain-resistant fabric or wipeable PU more relevant.\n\nWeigh material against your actual daily-use conditions rather than defaulting to whichever material looks most premium in photos."
   },
   {
-    "criterion": "Check compatibility and fit with your existing setup before ordering",
-    "explanation": "A 8 best office chair that looks like a straightforward fit in photos can still have a compatibility detail, a connector type, a mounting requirement, a size threshold, that doesn't match your existing setup, and this kind of mismatch is one of the most common and avoidable reasons for a return.\n\nThis matters directly if the product needs to physically connect to, mount on, or otherwise integrate with something you already own.\n\nCheck the listing's specific compatibility details against your exact existing setup, not just the general product category, before ordering."
+    "criterion": "Check what's actually adjustable versus just present",
+    "explanation": "Many chairs list \"adjustable armrests\" or \"adjustable lumbar\" without specifying how many axes of adjustment exist, a 2D armrest only moves up/down, while a 4D armrest also moves in/out and pivots, and the practical difference is significant for anyone whose desk setup isn't a standard straight-on typing position.\n\nThis matters most for users with a specific ergonomic need (a keyboard tray, a monitor arm at an angle, or an existing back condition) where generic adjustability isn't enough.\n\nCheck the specific number of adjustment axes listed for armrests and lumbar support, not just the word \"adjustable\" on its own."
+  }
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [
+  { "title": "Seat height and depth range", "description": "Compared each chair's listed seat height and depth range against realistic desk heights and leg lengths, not just the manufacturer's stated \"fits most\" claim." },
+  { "title": "Weight capacity and build durability", "description": "Weighed rated weight capacity against frame materials (steel vs. reinforced plastic base) and gas cylinder class to judge realistic long-term durability under daily use." },
+  { "title": "Material and breathability", "description": "Assessed mesh, fabric, and PU leather options for breathability, long-term wear resistance, and maintenance, not just initial look and feel." },
+  { "title": "Adjustability depth", "description": "Counted the actual axes of adjustment on armrests, lumbar support, and recline/tilt mechanisms rather than crediting the word \"adjustable\" at face value." },
+  { "title": "Value for money", "description": "Compared price against the specific combination of adjustability, materials, and warranty length within each price tier, not against the entire market at once." }
+];
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Budget",
+    "table": {
+      "headers": ["Your priority", "Recommended pick"],
+      "rows": [
+        ["Lowest price in this guide", "Marsail High Back Ergonomic Office Chair"],
+        ["Highest price / most features", "Steelcase Gesture + Headrest"]
+      ]
+    }
+  },
+  {
+    "subheading": "New to Ergonomic Chairs vs. Replacing a Known Setup",
+    "cards": [
+      { "label": "First ergonomic chair", "text": "Prioritize a wide range of basic adjustments (seat height, armrest height, lumbar) over premium materials, since you're still learning what actually matters for your body." },
+      { "label": "Replacing a chair you've outgrown", "text": "Focus on the specific adjustment your old chair lacked, whether that was seat depth, lumbar contour, or weight capacity, rather than upgrading everything at once." }
+    ]
   }
 ];
 
