@@ -95,6 +95,43 @@ export function siloForGuide(categorySlug: string, subcategorySlug: string): str
   return MIGRATED_GUIDE_SLUGS_TO_SILO[subcategorySlug] ?? MIGRATED_GUIDE_SLUGS_TO_SILO[categorySlug];
 }
 
+// Slugs that have a hand-authored static route at app/(site)/guide/<slug>/page.tsx
+// AND are not covered by guideDataLoaders (i.e. their data/guides/<slug>.ts uses a
+// legacy custom schema RichGuidePage can't render). For these, the literal route is
+// the ONLY place their full content exists — GuideDetail only has thin registry
+// stub fields for them. A silo detail page must redirect back to /guide/<slug>
+// rather than render GuideDetail, or it silently serves an emptied-out page.
+// Computed once at module load; safe because app/(site)/guide/* never changes at
+// runtime.
+let legacyLiteralRouteSlugs: Set<string> | undefined;
+
+export function hasLegacyLiteralRoute(slug: string): boolean {
+  if (!legacyLiteralRouteSlugs) {
+    legacyLiteralRouteSlugs = new Set<string>();
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const fs = require("fs") as typeof import("fs");
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const path = require("path") as typeof import("path");
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const { guideDataLoaders } = require("@/data/guides-index.generated") as {
+        guideDataLoaders: Record<string, unknown>;
+      };
+      const guideDir = path.join(process.cwd(), "app", "(site)", "guide");
+      const staticRouteSlugs = fs
+        .readdirSync(guideDir, { withFileTypes: true })
+        .filter((d) => d.isDirectory() && !d.name.startsWith("[") && !d.name.startsWith("("))
+        .map((d) => d.name);
+      for (const s of staticRouteSlugs) {
+        if (!guideDataLoaders[s]) legacyLiteralRouteSlugs.add(s);
+      }
+    } catch {
+      // If this can't be computed, fail open (empty set) rather than crash rendering.
+    }
+  }
+  return legacyLiteralRouteSlugs.has(slug);
+}
+
 // All categorySlug/subcategorySlug values migrated into a given silo — the
 // single source of truth for that silo's generateStaticParams/matching guard,
 // so it can never drift from the redirect map above.

@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { GuideDetail } from "@/components/guide/GuideDetail";
 import { RichGuidePage } from "@/components/guide/RichGuidePage";
 import { guideDataLoaders } from "@/data/guides-index.generated";
 import { getPublicGuideBySlug, getPublicGuidesByCategory } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
-import { matchSlugsForSilo } from "@/lib/migrated-silos";
+import { matchSlugsForSilo, hasLegacyLiteralRoute } from "@/lib/migrated-silos";
 
 export const revalidate = 604800;
 
@@ -73,6 +73,14 @@ export default async function DeskSetupGuidePage({ params }: Props) {
   if (loadRichGuide) {
     const richData = await loadRichGuide();
     return <RichGuidePage slug={slug} {...richData} />;
+  }
+
+  // This guide's full content only exists in a hand-authored static route at
+  // /guide/<slug> (legacy schema, not covered by guideDataLoaders) — GuideDetail
+  // would render a thin, emptied-out page. Send it back to the working URL
+  // rather than lose content, until this guide is rewritten to the modern schema.
+  if (hasLegacyLiteralRoute(slug)) {
+    permanentRedirect(`/guide/${slug}`);
   }
 
   return <GuideDetail slug={slug} basePath="/desk-setup" sectionLabel="Desk Setup" sectionHref="/desk-setup" />;
