@@ -4,6 +4,8 @@ import { products as staticProducts } from "@/data/products";
 import { guides as staticGuides } from "@/data/guides";
 import { categories } from "@/data/categories";
 import { isSupabaseConfigured } from "@/lib/supabase/server";
+import { silos } from "@/data/silos";
+import { MIGRATED_CATEGORY_TO_SILO, siloForGuide } from "@/lib/migrated-silos";
 
 // Try to load published slugs from Supabase; merge with static data so no slug is ever missing.
 async function getPublishedProductSlugs(): Promise<{ slug: string; updatedAt: string }[]> {
@@ -33,9 +35,21 @@ async function getPublishedProductSlugs(): Promise<{ slug: string; updatedAt: st
   return staticEntries;
 }
 
-async function getPublishedGuideSlugs(): Promise<{ slug: string; updatedAt: string }[]> {
+interface GuideSitemapEntry {
+  slug: string;
+  updatedAt: string;
+  categorySlug: string;
+  subcategorySlug: string;
+}
+
+async function getPublishedGuideSlugs(): Promise<GuideSitemapEntry[]> {
   // Always start with static guides — these are the source of truth for all published pages.
-  const staticEntries = staticGuides.map((g) => ({ slug: g.slug, updatedAt: g.lastUpdated }));
+  const staticEntries = staticGuides.map((g) => ({
+    slug: g.slug,
+    updatedAt: g.lastUpdated,
+    categorySlug: g.categorySlug,
+    subcategorySlug: g.subcategorySlug,
+  }));
 
   if (!isSupabaseConfigured()) return staticEntries;
 
@@ -44,7 +58,7 @@ async function getPublishedGuideSlugs(): Promise<{ slug: string; updatedAt: stri
     const supabase = createAdminClient();
     const { data } = await supabase
       .from("guides")
-      .select("slug,updated_at")
+      .select("slug,updated_at,category_slug,subcategory_slug")
       .eq("status", "published")
       .eq("archived", false)
       .order("updated_at", { ascending: false });
@@ -52,7 +66,12 @@ async function getPublishedGuideSlugs(): Promise<{ slug: string; updatedAt: stri
     if (data && data.length > 0) {
       // Merge: Supabase entries take precedence (have real updated_at), static fills the gaps.
       const supabaseSlugs = new Set(data.map((r) => r.slug as string));
-      const dbEntries = data.map((r) => ({ slug: r.slug as string, updatedAt: r.updated_at as string }));
+      const dbEntries = data.map((r) => ({
+        slug: r.slug as string,
+        updatedAt: r.updated_at as string,
+        categorySlug: (r.category_slug as string) ?? "",
+        subcategorySlug: (r.subcategory_slug as string) ?? "",
+      }));
       const staticOnly = staticEntries.filter((e) => !supabaseSlugs.has(e.slug));
       return [...dbEntries, ...staticOnly];
     }
@@ -86,13 +105,27 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE_URL}/privacy-policy`,           lastModified: now, changeFrequency: "yearly",  priority: 0.3 },
   ];
 
-  // Published buying guide pages (Supabase or static fallback)
-  const guidePages: MetadataRoute.Sitemap = guideSlugs.map(({ slug, updatedAt }) => ({
-    url: `${SITE_URL}/guide/${slug}`,
-    lastModified: updatedAt,
-    changeFrequency: "monthly",
-    priority: 0.9,
+  // Topic-first silo root pages
+  const siloPages: MetadataRoute.Sitemap = silos.map((s) => ({
+    url: `${SITE_URL}/${s.slug}`,
+    lastModified: now,
+    changeFrequency: "weekly",
+    priority: 0.8,
   }));
+
+  // Published buying guide pages (Supabase or static fallback). A guide whose
+  // category/subcategory has been migrated into a silo lives at its final
+  // /<silo>/<slug> URL here — never list the legacy /guide/<slug> URL, which
+  // now just 308-redirects there.
+  const guidePages: MetadataRoute.Sitemap = guideSlugs.map(({ slug, updatedAt, categorySlug, subcategorySlug }) => {
+    const silo = siloForGuide(categorySlug, subcategorySlug);
+    return {
+      url: silo ? `${SITE_URL}/${silo}/${slug}` : `${SITE_URL}/guide/${slug}`,
+      lastModified: updatedAt,
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    };
+  });
 
   // Published product review pages (Supabase or static fallback)
   const reviewPages: MetadataRoute.Sitemap = productSlugs.map(({ slug, updatedAt }) => ({
@@ -102,13 +135,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  // Category hub pages
-  const categoryPages: MetadataRoute.Sitemap = categories.map((cat) => ({
-    url: `${SITE_URL}/categories/${cat.slug}`,
-    lastModified: now,
-    changeFrequency: "weekly",
-    priority: 0.7,
-  }));
+  // Category hub pages — skip any category that now 308-redirects to a
+  // migrated silo (its silo root is already listed above via siloPages).
+  const categoryPages: MetadataRoute.Sitemap = categories
+    .filter((cat) => !MIGRATED_CATEGORY_TO_SILO[cat.slug])
+    .map((cat) => ({
+      url: `${SITE_URL}/categories/${cat.slug}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    }));
 
   // Category compare pages
   const comparePages: MetadataRoute.Sitemap = categories.map((cat) => ({
@@ -128,6 +164,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     ...staticPages,
+    ...siloPages,
     ...guidePages,
     ...reviewPages,
     ...categoryPages,
