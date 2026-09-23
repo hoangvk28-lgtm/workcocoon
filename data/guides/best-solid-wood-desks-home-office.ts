@@ -40,7 +40,7 @@ export const products: SolidWoodDesk[] = [
     width: "~30 inches",
     drawers: "1 drawer",
     imageUrl: `${BASE}/02-bright_minimalist_home_office_space.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0029LHTY8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0029LHTY8?tag=workcocoon-20",
     whyItWorks:
       "Listing is unambiguous: Solid Real Wood, solid hardwood, butcher-block surface construction. Parawood (rubberwood) is a genuine hardwood denser than pine. Butcher-block surface gives visible solid wood strips across the full top, confirming no veneer. IC International has built its brand entirely around genuine hardwood furniture. For a traditional writing desk where material honesty matters most, this is the most clearly documented solid wood option on this list.",
     tradeoffs: [
@@ -74,7 +74,7 @@ export const products: SolidWoodDesk[] = [
     width: "47 inches",
     drawers: "Yes",
     imageUrl: `${BASE}/03-minimalist_home_office_with_sunlit_view.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DY7J553J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DY7J553J?tag=workcocoon-20",
     whyItWorks:
       "The most affordable option on this list that combines genuine solid wood construction with built-in drawer storage. Product description consistently uses high-quality solid wood and thick materials with strong load-bearing capacity - applied to the full desk, not just the frame. At 47 inches, this fits the standard home office footprint: one large monitor, keyboard, and accessories without feeling tight.",
     tradeoffs: [
@@ -106,7 +106,7 @@ export const products: SolidWoodDesk[] = [
     width: "42 inches",
     drawers: "No",
     imageUrl: `${BASE}/04-warm_minimalist_home_office_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B000NPSN2E?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000NPSN2E?tag=workcocoon-20",
     whyItWorks:
       "Winsome has manufactured solid wood furniture since 1977. The Studio Desk uses solid beechwood with a Janka hardness of 1,300 lbf - harder than pine and comparable to oak. At 20.55 inches deep and 42 inches wide, it fits smaller spaces without giving up a usable work surface. Honey finish is warm without being heavy, which works in both dedicated home offices and shared living spaces. For solid wood under $200 with a nearly five-decade production track record, Winsome is the most proven option in this range.",
     tradeoffs: [
@@ -139,7 +139,7 @@ export const products: SolidWoodDesk[] = [
     width: "Varies",
     drawers: "2 drawers",
     imageUrl: `${BASE}/05-bright_minimalist_home_office_corner.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CT3F17HD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT3F17HD?tag=workcocoon-20",
     whyItWorks:
       "International Concepts has built its entire brand around solid, minimally finished hardwood furniture. The Vista desk has two built-in drawers in solid wood construction. Finding two drawers in a genuinely solid wood desk at a non-premium price point is unusual - most desks in this category either drop to MDF to include storage, or charge significantly more to maintain solid construction throughout. IC solid wood standard applies across their full product line.",
     tradeoffs: [
@@ -171,7 +171,7 @@ export const products: SolidWoodDesk[] = [
     width: "60 inches",
     drawers: "No",
     imageUrl: `${BASE}/06-modern_minimalist_workspace_with_greenery.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CL7DM9ZP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CL7DM9ZP?tag=workcocoon-20",
     whyItWorks:
       "Product page uses explicit language: stained solid wood construction and handcrafted from the finest quality solid wood. Pemberly Row furniture-grade positioning is consistent across their full product line. At 60 inches wide, a full workstation surface fits: large monitor, laptop, and accessories without crowding. Contemporary design is clean and professional - not the rustic farmhouse aesthetic that dominates lower-priced wood desks.",
     tradeoffs: [

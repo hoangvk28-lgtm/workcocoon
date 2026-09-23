@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41ofaC4xQiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08R3V1YTB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08R3V1YTB?tag=workcocoon-20",
     description:
       "A 16x12 inch magnetic dry erase board with a stand, sized for general note-taking, task lists, or a small planning surface without taking over the whole desk.\n\nThe magnetic surface adds flexibility for holding notes or small magnets alongside written content, and the stand keeps it upright without wall mounting.",
     specs: ["16\" x 12\" writing surface", "Magnetic dry erase surface", "Includes stand", "Material not stated in listing"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41FLEFa9xDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVM9YJCS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVM9YJCS?tag=workcocoon-20",
     description:
       "Same 16x12 footprint as the pick above but double-sided, giving you two writing surfaces without adding desk footprint, useful for separating a task list from a running note or sketch area.\n\nThe magnetic finish works the same way on both sides based on the listing, though we recommend checking product images to see whether either side includes any printed template.",
     specs: ["16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Includes stand", "Two usable writing faces"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21DN1-VtYsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MFGICQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MFGICQT?tag=workcocoon-20",
     description:
       "A genuinely glass 9x11 inch pad from Quartet, a recognized office-supply brand, with a removable clip for holding a sheet of paper alongside the dry erase surface.\n\nGlass resists ghosting far better than melamine over repeated use, making this a durable pick despite its compact size, and it includes a marker per the listing.",
     specs: ["9\" x 11\" glass writing surface", "Removable paper clip", "Includes marker", "Quartet brand, established office supplier"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "Combines a glass whiteboard with a keyboard stand and built-in drawer, functioning as a small desk organizer as much as a writing surface.\n\nThe glass face means better ghosting resistance than melamine over time, and the drawer gives a place for markers, notes, or small supplies without a separate accessory.",
     specs: ["Glass dry erase surface", "Built-in drawer for storage", "Doubles as keyboard stand", "Compact desktop footprint"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31tgGY53X0S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0774Y814B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0774Y814B?tag=workcocoon-20",
     description:
       "A genuinely large 17x23 inch glass panel from Quartet, well beyond the small note-board category, with accessory trays and included magnets for task cards or notes.\n\nThe biggest surface area in this roundup, making it the pick for buyers who actually need to track multiple ongoing items rather than jot single reminders.",
     specs: ["17\" x 23\" glass writing surface", "Magnetic surface with included magnets", "Accessory trays included", "Includes 1 marker per listing"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/4139fisIqSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09VL1QL8F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09VL1QL8F?tag=workcocoon-20",
     description:
       "The lowest price in this roundup for a 16x12 double-sided magnetic board with a stand, a reasonable entry point if you just want a basic desktop whiteboard without paying for glass or built-in storage.\n\nSame general size class as our overall pick, making it a fair budget substitute if the material and ghosting-resistance tradeoffs of a non-glass surface are acceptable for your use.",
     specs: ["16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Includes stand", "Lowest price in this roundup"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly certified True HEPA H13, removing 99.97% of particulates at 0.3 microns, genuinely verifiable rather than a vague 'HEPA-type' claim. By far the largest review base of any pick in this guide.\n\nNo substantial activated carbon layer confirmed, this HEPA filtration handles particulates well but won't meaningfully reduce smoke smell or chemical odors on its own.\n\nBy far the largest review base of any pick in this guide. Set against that, no substantial activated carbon layer confirmed for odor control. Both matter when comparing it to the other picks here.",
     specs: ["True HEPA H13, removes 99.97% at 0.3 microns", "24dB quoted noise level", "Largest review base in this guide", "Affordable"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "An established, long-running HEPA design with a large review base and filter indicator to help track replacement timing before mid-life CADR degradation becomes significant. 3-year warranty.\n\nGenuinely listed for odor alongside HEPA filtration, verify the specific carbon layer's substantiality if odor control is a priority alongside particulate filtration.\n\nThe standout detail is that filter indicator helps track replacement timing. Balancing that out, verify HEPA certification level and carbon layer substantiality.",
     specs: ["HEPA filter, up to 1748 sq ft rated", "Filter indicator, Auto/Eco mode", "3-year warranty", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, though verify whether this specific listing uses certified True HEPA or a looser 'HEPA-type' claim before assuming premium filtration performance.\n\nAt this budget tier, HEPA certification verification matters more, not less, since manufacturers competing on price have less incentive to pursue the stricter certified standard.\n\nSolid review base. That's a real strength, but weigh it against the flip side: verify certified True HEPA vs. HEPA-type claim before buying.",
     specs: ["HEPA filtration (verify certification level)", "Solid review base", "Budget-friendly", "Compact design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,517 Amazon ratings",
     reviews: "5,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414NIpA+xLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=workcocoon-20",
     description:
       "Explicitly certified True HEPA H13 in a genuinely compact, portable design at an affordable price, a real HEPA certification claim rather than 'HEPA-type' marketing language.\n\nSame HEPA-only limitation applies, no activated carbon layer confirmed here, understand this won't meaningfully reduce odors on its own.\n\nPortable with a useful night light feature. On the other hand, no activated carbon layer confirmed for odor control. Both are worth keeping in mind before deciding.",
     specs: ["True HEPA H13 filter", "Night light feature", "Portable, small design", "Solid review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 11,367 Amazon ratings",
     reviews: "11,367 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415AbiHqgpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNDM2RNG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNDM2RNG?tag=workcocoon-20",
     description:
       "A genuine washable pre-filter alongside HEPA filtration, understand the washable component captures larger particles only, the main HEPA filter itself still requires periodic replacement. Solid rating base.\n\nThe washable pre-filter reduces how quickly the main HEPA filter loads with large debris, but doesn't eliminate the HEPA filter's own replacement need entirely.\n\nA genuine advantage here is that solid, well-established review base. The tradeoff is that main HEPA filter still requires periodic replacement.",
     specs: ["HEPA filtration with washable pre-filter", "Up to 1073 sq ft rated", "Solid review base", "Reduces pre-filter replacement cost"],

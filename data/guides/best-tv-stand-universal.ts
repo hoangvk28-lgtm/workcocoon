@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "16,433",
     imageUrl: "https://m.media-amazon.com/images/I/31MxmRl745L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KFDS3PT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KFDS3PT?tag=workcocoon-20",
     description:
       "The PERLESMITH Universal Swivel TV Stand fits TVs from 24 to 60 inches and holds up to 99 pounds, with a max VESA pattern of 400x400mm. It offers 12 total height positions through four pillar heights combined with two bracket heights, more adjustment range than any other pick in this list. The base swivels 50 degrees to each side, and an 8mm tempered glass platform anchors the whole unit.\n\nWith over 16,400 ratings at 4.7 stars, it is both the most reviewed and the highest rated stand here. Two included cable clips keep cords tidy, and PERLESMITH backs the stand with a lifetime warranty. For most tabletop setups covering common TV sizes, this is the safest starting point.\n\nHighest rating and largest review base here. Set against that, max VESA 400x400mm won't fit larger TVs with wider mount patterns. Both matter when comparing it to the other picks here.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "18,262",
     imageUrl: "https://m.media-amazon.com/images/I/41J3pnn8IWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B078MBL6KM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B078MBL6KM?tag=workcocoon-20",
     description:
       "The PERLESMITH Universal TV Stand Mount is rated for TVs from 20 to 75 inches and up to 110 pounds, the highest capacity of any tabletop stand in this list. Its max VESA support reaches 800x600mm, the widest mount pattern here, which is what lets it accommodate such large screens. Steel construction and a height range of 25 to 27.5 inches round out the build.\n\nOver 18,200 buyers have rated it 4.5 stars, and it carries a 10-year warranty, the longest coverage among the tabletop options in this roundup. There is open space underneath the screen for a soundbar or cable box. If your TV is on the larger end and you need a tabletop rather than a floor stand, this is the pick built for that job.\n\nA genuine advantage here is that highest capacity among tabletop stands at 110 lbs. The tradeoff is no swivel function mentioned.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "11,265",
     imageUrl: "https://m.media-amazon.com/images/I/31YTTVNF+9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVDT8MY9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVDT8MY9?tag=workcocoon-20",
     description:
       "The Perlegear Universal Swivel TV Stand Base fits TVs from 32 to 70 inches and holds up to 88 pounds. It offers 9 total height levels through three column positions combined with three bracket angles, plus an 8 degree tilt that helps prevent tipping. The base swivels 60 degrees, more than the PERLESMITH picks above, and rests on a tempered glass platform.\n\nOver 11,200 buyers have rated it 4.6 stars. Perlegear advertises a 10-minute, no-drill setup, and the stand carries a 5-year warranty. For anyone who wants the widest swivel angle and a tilt feature for glare control, this is the strongest option in the list.\n\n8 degree tilt helps reduce glare and prevent tipping. On the other hand, lower weight capacity than the PERLESMITH mount (Pick 2). Neither should be a surprise once you know to look for it.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "6,029",
     imageUrl: "https://m.media-amazon.com/images/I/31fQjC0XqAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PP3TBHN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PP3TBHN?tag=workcocoon-20",
     description:
       "The Suptek Universal TV Stand Metal Legs fit TVs from 20 to 65 inches and hold up to 110 pounds (50kg), matching the capacity of the pricier PERLESMITH tabletop mount. VESA support spans 75x75mm up to 800x500mm, the widest range in this list, which lets it cover both compact and large screens. It offers 2 height levels for basic adjustment.\n\nOver 6,000 buyers have rated it 4.4 stars. At 2.16 kg it is the lightest stand in this roundup, and 3mm soft pads on the feet protect table and floor surfaces. It is also the cheapest option here, making it a strong pick for buyers prioritizing budget and VESA flexibility over height adjustment range.\n\nMatches the 110 lb capacity of the pricier PERLESMITH mount. That's a real strength, but weigh it against the flip side: only 2 height levels, less adjustment than most other picks.",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,930",
     imageUrl: "https://m.media-amazon.com/images/I/31ncHJo8z0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BHW2V9MB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BHW2V9MB?tag=workcocoon-20",
     description:
       "The Greenstell Universal Floor TV Stand is a tall, floor-standing design for TVs from 32 to 75 inches, holding up to 110 pounds. It includes 6 height levels and swivels 60 degrees, and it stands apart from the tabletop stands in this list with a built-in power strip offering 3 AC outlets and 2 USB ports on the frame itself.\n\nOver 2,900 buyers have rated it 4.6 stars. A 4-position adjustable AV shelf holds a media box or gaming console with a 22 lb capacity, and 4 cable clips help route wiring. The base is wood rather than glass or steel-only. For anyone who wants a freestanding stand with power built in rather than a tabletop mount, this is the strongest option here.\n\nWorth calling out specifically: 4 cable clips for wire management. The catch is most expensive pick in this list.",
     specs: [
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "7,353",
     imageUrl: "https://m.media-amazon.com/images/I/4194GAytP+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CT7P4FC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CT7P4FC?tag=workcocoon-20",
     description:
       "The Rfiver Mobile TV Stand on Wheels fits TVs from 23 to 65 inches and holds up to 88 pounds, with VESA support from 100x100mm to 400x400mm. What sets it apart is a set of locking casters, letting the stand roll between rooms and then lock in place. An adjustable AV shelf and a 5 degree tilt round out the feature set.\n\nOver 7,300 buyers have rated it 4.6 stars. The all-metal X-shaped base is built for stability despite the wheels, and a 5-year warranty backs the stand. It suits living rooms, offices, and dorms where the TV needs to move between spaces rather than stay fixed in one location.\n\nAdjustable AV shelf for a media box. Set against that, narrower VESA range than several tabletop stands in this list. Both matter when comparing it to the other picks here.",
     specs: [

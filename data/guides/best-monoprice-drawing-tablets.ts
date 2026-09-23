@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41DAW3Me9hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B002LAK17Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B002LAK17Y?tag=workcocoon-20",
     description: "This is a genuinely basic, no-frills graphics tablet aimed at precise cursor control for illustrators, draftsmen, and whiteboard-style demonstrations rather than pressure-sensitive digital painting. An 8x6 inch working area gives real room for freehand annotation and document markup.\n\nSetup is described as straightforward with no complicated driver configuration, making it a functional choice for basic tasks like signing documents or annotating PDFs rather than professional illustration work. It's a legacy-style entry tablet without the modern pressure-level or tilt features found on current Huion or XPPen models.",
     specs: ["8x6in working area","Basic precision cursor control","Simple setup, no complex driver config"],
     pros: ["8x6in area is genuinely roomy for annotation work","Simple setup with no complicated driver configuration","Functional for whiteboard demos and document markup"],

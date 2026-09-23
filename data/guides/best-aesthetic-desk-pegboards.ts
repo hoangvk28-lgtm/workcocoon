@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 392 Amazon ratings",
     reviews: "392 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41L0K5UFHAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ9HJGLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ9HJGLB?tag=workcocoon-20",
     description:
       "A clean white minimalist aesthetic without sacrificing genuine functional quality, standard hole-spacing compatibility confirmed alongside a solid review base backing real accessory-hanging capacity.\n\nDespite the clean, minimalist look, this maintains standard hole density rather than sacrificing hook count for visual novelty, a genuine functional-plus-aesthetic combination.\n\n10 included accessories confirm genuine hook capacity. That said, compact size limits total accessory-hanging capacity regardless of aesthetic. Neither should be a surprise once you know to look for it.",
     specs: ["Standard hole-spacing, clean white design", "10 included accessories", "16.5\" x 12.6\"", "Solid review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 392 Amazon ratings",
     reviews: "392 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41MYGQyCPSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ9G6F49?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ9G6F49?tag=workcocoon-20",
     description:
       "The same proven standard hole-spacing and genuine functionality as the white variant, in a sleek black finish for a darker minimalist aesthetic.\n\nThis article's price comparison found a modest premium for black over white in this specific product line, weigh that small cost difference against your aesthetic preference.\n\nWorth calling out specifically: 10 included accessories confirm genuine functional capacity. The catch is small price premium over the white variant.",
     specs: ["Standard hole-spacing, sleek black design", "10 included accessories", "16.5\" x 12.6\"", "Solid review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 580 Amazon ratings",
     reviews: "580 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eUYOCvwYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCFD7C4D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCFD7C4D?tag=workcocoon-20",
     description:
       "A larger 22x22-inch white pegboard kit with a solid review base, genuinely more hook-density capacity than the compact 16.5-inch alternatives due to the larger overall surface.\n\nA larger surface area at standard hole-spacing means genuinely more practical accessory-hanging capacity, not a tradeoff of aesthetic for function, larger aesthetic pegboards can offer both.\n\nSolid review base and rating. Set against that, larger footprint requires more desk or wall space. Both matter when comparing it to the other picks here.",
     specs: ["22\" x 22\", white finish", "Combination kit design", "Solid review base", "Larger surface than compact alternatives"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 367 Amazon ratings",
     reviews: "367 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oY7B95iKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHN1KJRJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHN1KJRJ?tag=workcocoon-20",
     description:
       "A modular white storage system genuinely useful for buyers wanting to build an aesthetic-first arrangement incrementally rather than committing to one fixed panel size.\n\nThis price is identical to the same brand's black variant in this guide's other findings, confirming no price premium for the aesthetic-focused white color choice within this specific line.\n\nThe standout detail is that no price premium versus the black color variant. Balancing that out, modularity adds assembly complexity versus a fixed single panel.",
     specs: ["Modular storage system, white finish", "Expandable configuration", "Solid review base", "No price premium versus black variant"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,790 Amazon ratings",
     reviews: "1,790 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51q0NC8hQPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09NCZ53X9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09NCZ53X9?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, a distinct tan brown finish for a natural-wood-tone aesthetic rather than the more common black or white options.\n\nThis natural-toned aesthetic-focused color should be cross-referenced with the general finish-durability findings, a plastic panel's tan coloring likely shows wear differently than a painted metal surface.\n\nDistinct natural tan-brown aesthetic versus common black/white options. That's a real strength, but weigh it against the flip side: plastic construction has a different durability profile than metal.",
     specs: ["Plastic modular panels, tan brown finish", "22\" x 22\"", "By far the largest review base in this guide", "Natural wood-tone aesthetic"],

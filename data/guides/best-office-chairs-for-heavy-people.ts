@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 34,180 Amazon ratings",
     reviews: "4.5 stars from 34,180 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41lDR7qjYlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=workcocoon-20",
     description:
       "This GTPLAYER chair has the largest review base in this list by a wide margin, giving buyers a strong pool of real-world feedback on how its 400 pound stated capacity holds up over years of daily use, not just out of the box. Applying the 50 pound buffer rule, this chair is a reasonable fit for users up to roughly 350 pounds, leaving margin for the dynamic load of sitting down and shifting weight repeatedly.\n\nThe pocket spring lumbar support and 3D saddle shaped cushion suggest attention to seat comfort at this size, and the included foot rest is a nice addition for longer sessions. The listing does not state exact foam density or cylinder class, so treat thick padding as a comfort feature rather than a guaranteed durability signal on its own.\n\nWorth calling out specifically: strong stated capacity with the largest safety margin at 350 lb actual body weight. The catch is foam density and cylinder class not stated in listing.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 165 Amazon ratings",
     reviews: "4.6 stars from 165 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tetnrTgxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GF9TKQTW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GF9TKQTW?tag=workcocoon-20",
     description:
       "This chair carries the highest stated weight capacity in this entire list at 500 pounds, along with an explicitly extra wide seat, which matters as much as raw capacity for larger body types who need actual hip and thigh clearance, not just a frame rated to hold weight. Applying the 50 pound buffer rule, that puts a comfortable safety margin at up to roughly 450 pounds of actual body weight.\n\nThe heavy duty base and upgraded wheels are called out directly in the listing, a reasonable signal of attention to frame durability at this capacity tier, though the review pool here is much smaller than the top pick's, so weigh the higher capacity number against less real-world feedback volume.\n\nExtra wide seat for actual body clearance, not just frame rating. Set against that, much smaller review pool than the top picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 546 Amazon ratings",
     reviews: "4.4 stars from 546 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k6biuoUcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F62NG547?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F62NG547?tag=workcocoon-20",
     description:
       "The Fizzin states a 400 pound capacity with breathable mesh construction, a useful combination for heavier users who also run warm during long sitting sessions, since mesh ventilates better than a fully padded or leather seat at this size. Applying the 50 pound buffer rule keeps actual body weight recommendations around 350 pounds for a comfortable safety margin.\n\nThe listing describes a thickened cushion, which is a comfort claim worth noting but not the same as a stated foam density figure, so treat it as padding depth rather than a guaranteed long-term support signal. Adjustable lumbar support is included, useful for extended desk sessions.\n\nA genuine advantage here is that 400 lb stated capacity with a reasonable safety margin. The tradeoff is cushion thickness described but not a stated foam density.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 10,760 Amazon ratings",
     reviews: "4.4 stars from 10,760 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rkQ70Jb6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09B3FJHHT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09B3FJHHT?tag=workcocoon-20",
     description:
       "This LEMBERI chair explicitly states a thickened steel frame in its listing, which is a genuinely useful detail since heavier-gauge steel is a reasonable proxy for durability at higher body weights even without an exact gauge number stated. A reinforced footrest and linkage armrests round out a feature set clearly aimed at bigger and taller users, at the lowest price in this list.\n\nApplying the 50 pound buffer rule, its 400 pound stated capacity supports actual body weight up to roughly 350 pounds comfortably. The large review base backs up the value here, though PU leather runs warmer over long sessions than the mesh options in this list.\n\nLowest price in this list. On the other hand, pU leather runs warmer than mesh over long sessions. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 555 Amazon ratings",
     reviews: "4.3 stars from 555 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kNDnGgiRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDCQMGSH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDCQMGSH?tag=workcocoon-20",
     description:
       "The Indulgear matches the highest stated capacity in this list at 500 pounds and is marketed specifically for heavy people rather than a general big and tall audience, along with quiet rubber wheels that matter for shared office or apartment settings. Applying the 50 pound buffer rule puts a comfortable safety margin around 450 pounds of actual body weight.\n\nPocket spring cushioning and adjustable lumbar support round out the feature set, and the high back executive design gives more upper body coverage than a mid-back alternative. The review pool is on the smaller side, so weigh the strong capacity claim against less accumulated buyer feedback than the top picks in this list.\n\nQuiet rubber wheels suit shared spaces. That's a real strength, but weigh it against the flip side: smaller review pool than the top picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 14,478 Amazon ratings",
     reviews: "4.4 stars from 14,478 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41TqMt5cRYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=workcocoon-20",
     description:
       "The GABRYLLY is the highest priced chair in this list and marketed as big and tall, but its listing does not state a specific numeric weight capacity the way most other picks here do, so we can't apply the buffer rule to an exact figure for this one. It does include a confirmed headrest, flip-up arms, and a 90 to 120 degree tilt lock, a strong feature set for buyers who value adjustability alongside a bigger frame.\n\nA large review base backs up general satisfaction, but without a stated capacity number, heavier buyers should contact the seller to confirm an actual weight rating before assuming big and tall marketing alone guarantees a specific safe capacity.\n\nWorth calling out specifically: wide tilt lock range for reclining. The catch is no specific numeric weight capacity stated in listing.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,155 Amazon ratings",
     reviews: "4.3 stars from 6,155 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51lpZXXyViL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=workcocoon-20",
     description:
       "This TRALT chair states the lowest capacity in this list at 330 pounds, which applying the 50 pound buffer rule means it's best suited to actual body weights up to roughly 280 pounds rather than users at the higher end of what this guide otherwise covers. Mesh construction helps with breathability over long sessions.\n\nWe're including it because it's part of the same product set and still marketed toward this use case, but buyers closer to 300 pounds and above should look toward the 400 and 500 pound rated picks in this list instead for a safer margin.\n\nReasonable review base. Set against that, lowest stated capacity in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 4,362 Amazon ratings",
     reviews: "4.3 stars from 4,362 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412WYSRjpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=workcocoon-20",
     description:
       "This second TRALT model does not state a numeric weight capacity in its listing at all, unlike its sibling above and most other picks in this guide, so we're flagging that directly rather than assuming it shares a similar rating. Adjustable lumbar support and mesh construction are reasonable general features, but without a stated capacity we can't apply the buffer rule to it with any confidence.\n\nIf you're specifically shopping for a heavy-user chair, treat this one as unverified for that purpose and confirm actual weight capacity with the seller before ordering, or choose one of the picks above with an explicitly stated number instead.\n\nA genuine advantage here is that mesh construction for breathability. The tradeoff is no stated weight capacity, can't apply the buffer rule.",
     specs: [

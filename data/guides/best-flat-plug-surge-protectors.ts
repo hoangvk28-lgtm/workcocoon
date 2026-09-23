@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 44,144 Amazon ratings",
     reviews: "44,144 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=workcocoon-20",
     description:
       "A genuinely disclosed 2700 joule rating despite the slim flat-plug profile, verifying that compact form factor doesn't necessarily mean reduced surge protection. 8 outlets and 4 USB ports.\\n\\nSince this is likely to be placed behind furniture flush to the wall, make a habit of periodically checking the indicator status despite the inconvenient location.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Surge Protector Power Strip 15 Ft Cord.\n\nWorth knowing before you decide: Large, well-established review base. On the other side, Behind-furniture placement hides the indicator light. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports, flat plug","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 6,431 Amazon ratings",
     reviews: "6,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J0Gowt80L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHMG5XHM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHMG5XHM?tag=workcocoon-20",
     description:
       "A genuinely long 15ft braided cord with a flat plug, useful if your behind-furniture placement is far from the wall outlet. 2 USB-C ports among 4 total.\\n\\nThis ultra-thin design behind furniture faces the same enclosed heat/dust exposure and hidden-indicator concerns as any flat-plug surge protector, plan for periodic checks.\n\nSet against the Surge Protector Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Ultra-thin design for genuine flush fit. On the other side, Indicator light hidden once placed behind furniture. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports (2 USB-C), flat plug","15ft braided cord","Ultra thin design","Strong rating base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 8,127 Amazon ratings",
     reviews: "8,127 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eM1NkEevL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC6GXZSV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC6GXZSV?tag=workcocoon-20",
     description:
       "8 outlets and 2 USB-C ports at a genuinely affordable price with a braided cord for durability behind furniture. ETL listed.\\n\\nAt this budget tier, verify the joule rating specifically hasn't been compromised for the compact flat-plug form factor, since surge protection quality and form factor are separate specs.\n\nRelative to the Surge Protector Power Strip 15 Ft Cord, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Braided cord for durability behind furniture. On the other side, Indicator light hidden once placed behind furniture. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports (2 USB-C), flat plug","ETL listed","5ft braided cord","Very affordable"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "Not a flat-plug design specifically, but genuinely worth considering if you need 12 outlets and 2700 joules more than the flush-wall clearance flat plugs provide. Large, well-established review base.\\n\\nWithout a flat plug, this may not sit as flush behind furniture, weigh outlet count against your specific clearance needs.\n\nCompared with the Surge Protector Power Strip above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: 12 outlets with genuine surge protection. On the other side, Not a flat-plug design. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "Genuinely includes a flat plug alongside UL listing and 3,780 joules from an established brand, real confidence for a behind-furniture installation with valuable equipment. 8ft cord for flexible placement.\\n\\nGiven this placement's especially poor visual-inspection accessibility, prioritize an established brand's reliability track record like this one.\n\nSet against the Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: UL listed for verified safety. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules, flat plug","UL listed, 8ft cord","Established Belkin brand","Heavy-duty extension cord"],

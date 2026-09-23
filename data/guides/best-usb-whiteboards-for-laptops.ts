@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31xK08Bp9kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=workcocoon-20",
     description:
       "A physical glass whiteboard, not a USB-connected device, sized at 9.5x6.7 inches, small enough to sit beside a laptop without crowding a compact desk setup.\n\nThe reversible wood stand and included marker and eraser make it a ready-to-use companion for jotting quick notes while working on your laptop, functionally simple and requiring no connection or power at all.",
     specs: ["9.5\" x 6.7\" glass writing surface", "Physical whiteboard, no USB connection", "Reversible wood stand included", "Marker and eraser included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "Another purely physical board, this one doubling as a keyboard stand with a built-in drawer, aimed at buyers who also use an external keyboard alongside their laptop.\n\nAgain, no USB connection or digital feature here, the \"computer keyboard stand\" framing refers to it physically elevating a keyboard, not connecting to a computer electronically.",
     specs: ["Physical whiteboard, no USB connection", "Glass dry erase surface", "Doubles as a keyboard stand", "Built-in drawer for storage"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41StKUeQCkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=workcocoon-20",
     description:
       "The smallest physical board in this guide at 8x6 inches, appropriate for a genuinely tight laptop desk where every inch of remaining space matters.\n\nFive markers are included per the listing, and like the other picks here, there's no USB connection or digital feature involved, purely a small glass writing surface.",
     specs: ["8\" x 6\" pure glass surface", "Physical whiteboard, no USB connection", "5 markers included per listing", "Smallest footprint in this guide"],

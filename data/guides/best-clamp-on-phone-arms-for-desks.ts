@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,655",
     imageUrl: "https://m.media-amazon.com/images/I/515BergNltL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=workcocoon-20",
     description:
       "This clamp base is genuinely bi-directional, adjusting to fit desks, bedside tables, and other edge types without drilling. Cable storage is built into the base, keeping a charging cable tidy rather than dangling loose near the clamp point.\n\nIt leads this comparison mainly on build reinforcement and how well it holds a phone steady during touch interaction, worth weighing directly against the SAIJI Gooseneck Bed Phone Holder.\n\nBuilt-in cable management. That's a real strength, but weigh it against the flip side: higher price than basic clamps.",
     specs: ["Bi-directional adjustable clamp base","Cable storage built in","Steel body construction","No drilling required"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "32,606",
     imageUrl: "https://m.media-amazon.com/images/I/31+F3sAWSTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=workcocoon-20",
     description:
       "The anti-slip silicone base pad on this clamp is explicitly designed not to damage furniture, addressing the marking-risk concern this guide highlights. It remains the most proven clamp design by review volume across our phone arm research.\n\nSet against the LISEN Cell Phone Holder for Bed Desk, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: affordable. The catch is standard clamp, no locking knob for extra security.",
     specs: ["Anti-slip silicone clamp base","No-damage design per listing","33.46in reach","Standard squeeze clamp"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "23,326",
     imageUrl: "https://m.media-amazon.com/images/I/31sVYQbspmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=workcocoon-20",
     description:
       "This clamp opens up to 3 inches, the widest opening in this comparison, securely fitting thick bed frames, headboards, and raised standing-desk edges other clamps in this cluster can't reach around. Anti-slip EVA pads protect the surface without scratching.\n\nRelative to the SAIJI Gooseneck Bed Phone Holder, this pick leans toward a different priority, whether that's a lower price, a longer reach, or a mounting style suited to a different desk edge.\n\nEVA pads protect desk finish. Set against that, bulkier clamp footprint than slim designs. Both matter when comparing it to the other picks here.",
     specs: ["3in wide clamp opening","EVA anti-slip, anti-scratch pads","No drilling required","Fits 3.5-7in devices"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,732",
     imageUrl: "https://m.media-amazon.com/images/I/419C11rQcXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=workcocoon-20",
     description:
       "This crab clamp opens to 63.5mm and uses a friction knob to lock down rather than spring tension alone, the firmest hold of any clamp in this comparison. Twelve silicone contact points across the clamp and arm prevent both slipping and desk-surface marking under that added torque.\n\nCompared with the MAGIPEA Gooseneck Phone Holder above, this pick trades some of that pick's reach or reinforcement for a different balance of price and simplicity, worth weighing against your own desk setup.\n\nExtensive scratch/slip protection. That's a real strength, but weigh it against the flip side: most expensive pick here.",
     specs: ["Crab clamp opens to 63.5mm","Friction-knob locking","12 anti-slip/scratch silicone points","Also fits round tubes/tripods"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "988",
     imageUrl: "https://m.media-amazon.com/images/I/31jBgnNJK5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=workcocoon-20",
     description:
       "This C clamp uses anti-twist pins at each mounting interface to keep the connection from rotating unexpectedly, a genuine stability feature over a simple friction-only clamp. It carries the highest rating of any clamp-on pick in this comparison.\n\nSet against the SMALLRIG Crab Clamp with Friction, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: anti-twist connection resists rotation. The catch is same premium price as SMALLRIG.",
     specs: ["C clamp with anti-twist mounting pins","Non-slip clamp pads","No drilling required","1/4in and 3/8in threading"],

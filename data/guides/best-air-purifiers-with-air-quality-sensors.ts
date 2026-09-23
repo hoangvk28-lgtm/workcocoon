@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A genuine air quality monitor with Auto and Eco modes, a large review base backing it as a proven pick for real-time feedback and automatic fan adjustment.\n\nThis sensor detects general particulate concentration, not VOCs or CO2 specifically, a good reading means clear particulate air, not necessarily an absence of odor-causing compounds.\n\nAuto and Eco modes adjust fan speed automatically. On the other hand, sensor detects general particulate, not VOCs or CO2 specifically. Both are worth keeping in mind before deciding.",
     specs: ["Air quality monitor with Auto and Eco modes", "Filter indicator", "3-year warranty", "Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,559 Amazon ratings",
     reviews: "3,559 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31K9NLoXncL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=workcocoon-20",
     description:
       "An air quality sensor paired with HEPASilent high-airflow technology, genuinely useful for a large room where the sensor-driven auto mode needs to ramp fan speed up quickly when triggered.\n\nA sensor-driven auto mode saves energy and noise when air is clear, but understand the fan runs slower during those periods too, a real tradeoff versus running at a fixed high speed continuously.\n\nA genuine advantage here is that hEPASilent technology keeps noise down even at higher fan speeds. The tradeoff is that higher price than budget alternatives.",
     specs: ["Air quality sensor", "HEPASilent high-airflow technology", "99.97% removal of airborne particulates", "Large-room rated"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "A large, well-established review base with smart app control and sensor-driven feedback, genuinely useful for checking readings remotely rather than only via an on-unit display.\n\nApp-based sensor history helps you spot patterns in your room's particulate levels over time, more useful than a single on-unit reading in the moment.\n\nLarge rated coverage. That said, higher price than budget alternatives. Neither should be a surprise once you know to look for it.",
     specs: ["Smart app control with sensor feedback", "Up to 1875 sq ft rated (open room)", "Large review base", "Sensor-driven auto adjustment"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "A more affordable pick without a built-in sensor, by far the largest review base of any pick here, appropriate for buyers who'd rather run at a fixed speed than deal with sensor-driven ramp-down.\n\nRunning at a manually chosen fixed speed avoids the fan-ramp-down tradeoff of sensor-driven auto mode entirely, a reasonable choice if you prefer predictable, consistent airflow.\n\nWorth calling out specifically: avoids sensor-driven fan ramp-down tradeoff entirely. The catch is no real-time air quality feedback.",
     specs: ["True HEPA H13, 99.97% particulate removal", "No built-in sensor, manual speed control", "Largest review base in this guide", "24dB quoted noise level"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "A large, well-established review base with sensor-driven auto mode and PlasmaWave odor-neutralizing technology, a genuinely proven combination pick.\n\nAn indicator light shows general air quality status at a glance, useful for a quick check without needing to open an app or read a numeric display.\n\nSensor-driven auto mode with at-a-glance indicator light. Set against that, higher price than the budget pick. Both matter when comparing it to the other picks here.",
     specs: ["Sensor-driven auto mode with indicator light", "PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration"],

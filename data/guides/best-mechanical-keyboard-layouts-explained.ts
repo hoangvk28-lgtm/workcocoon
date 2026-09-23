@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31hUfgJWI9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08Z7J4KV3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08Z7J4KV3?tag=workcocoon-20",
     description:
       "This is the only true tenkeyless (TKL, also called 80%) pick in this list, dropping the numpad while keeping every other key in its standard full-size position, including a full F-row and dedicated arrow, Home, End, Page Up, and Page Down keys. Because the arrow cluster and navigation keys stay in their normal spots, there is essentially no relearning curve moving from a full-size board.\n\nDropping the numpad also pulls the mouse roughly 4 to 6 inches closer to center compared to a full-size keyboard, meaningfully reducing shoulder extension on long sessions. It is the layout most people should default to if they don't specifically need a numpad.\n\nPulls the mouse noticeably closer to center than full-size. That's a real strength, but weigh it against the flip side: no numpad for spreadsheet-heavy workflows.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41gvYA4qsmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14N2QZF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D14N2QZF?tag=workcocoon-20",
     description:
       "A 75% layout keeps the F-row and a compressed right-side cluster of arrow, Delete, Home, and Page Up/Down keys, but stacks them closer together than a TKL board to shrink the overall footprint. That compression is the tradeoff to know about before buying, aftermarket keycap sets don't always include correctly positioned keys for a 75% board's right-side cluster, so check keycap compatibility before ordering a replacement set.\n\nThe F75 Pro adds hot-swappable sockets and pre-lubed switches on top of the compact layout, plus 2.4GHz, USB-C, and Bluetooth 5.0 connectivity, features that are uncommon together at this price on any layout size.\n\nWorth calling out specifically: hot-swap sockets with pre-lubed switches out of the box. The catch is compressed right-side cluster limits aftermarket keycap set compatibility.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rjOMIKrmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TR4Y91J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TR4Y91J?tag=workcocoon-20",
     description:
       "At 104 keys, the RisoPhy is a standard full-size layout, a complete numpad, F-row, and navigation cluster in one continuous board with no keys relocated or combined. If your daily workflow includes entering numbers regularly, whether for spreadsheets, accounting, or data entry, a full-size layout like this one is the correct call, not a smaller layout that requires a function-layer workaround for numbers.\n\nThe tradeoff is footprint and mouse reach, a full-size keyboard pushes your mouse roughly 15 to 20cm further right than a TKL board would, which can add up to more shoulder extension across a long session. This is the cheapest full-size pick in this list if budget is the deciding factor.\n\nComplete numpad for daily numeric entry. Set against that, full-size footprint pushes the mouse furthest right of any pick here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31qNb+bxSwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=workcocoon-20",
     description:
       "At 108 keys, the Redragon K668 is a full-size layout plus 4 extra dedicated hotkeys beyond the standard 104-key count, still keeping the complete numpad and F-row a heavy spreadsheet or numeric workflow needs. Those extra hotkeys sit outside the standard layout, so if you plan to buy an aftermarket keycap set later, expect those 4 keys specifically to be left uncovered.\n\nIt ships with 2 sets of mixed color keycaps and an upgraded hot-swappable socket, features not typical at this price on a full-size board, and sound-absorbing foam inside the case reduces the hollow, tinny sound common on inexpensive full-size keyboards.\n\nA genuine advantage here is that hot-swappable at a budget price point. The tradeoff is the 4 extra hotkeys won't be covered by most aftermarket keycap sets.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GdrDKwGaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B2DMKFM5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B2DMKFM5?tag=workcocoon-20",
     description:
       "Another full-size layout, the Keychron V6 pairs the complete 104-plus key numpad and F-row with QMK/VIA open-source firmware support, meaning every key on this board stays fully remappable indefinitely rather than depending on a smaller brand's software that could be discontinued down the line. A rotary knob handles volume without dedicating a key to it.\n\nHot-swappable Keychron K Pro Brown switches ship pre-installed, so it's ready to type on immediately but still open to switch experimentation later, and the wired connection means no battery to manage on a board this size.\n\nHot-swappable despite full-size footprint. That's a real strength, but weigh it against the flip side: full-size footprint pushes the mouse further right.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31CBQMyMfsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DM8T2YZY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DM8T2YZY?tag=workcocoon-20",
     description:
       "The V6 Max brings the same full-size QMK/VIA layout to a wireless build, connecting over 2.4GHz or Bluetooth 5.1 instead of a fixed cable, useful if your desk setup already has a wired full-size board's cable clutter to avoid. Gateron Banana switches are a linear feel, smooth and consistent keypresses without a tactile bump.\n\nBoth the V6 Max variants in this list share the same full-size hot-swap frame, so the choice between this one and the Brown switch version below comes down entirely to whether you prefer a linear or tactile keypress feel.\n\nWorth calling out specifically: linear Gateron Banana switch feel, smooth keypresses. The catch is most expensive pick in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413s7zLyA1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14L7VZ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D14L7VZ6?tag=workcocoon-20",
     description:
       "This is the tactile counterpart to the Banana switch V6 Max above, same full-size wireless QMK/VIA frame, but Gateron Brown switches add a subtle bump partway through each keypress instead of a smooth linear travel. That tactile feedback helps some typists feel confirmation of a keystroke without bottoming out every key.\n\nEverything else carries over unchanged from the linear version, wireless 2.4GHz/Bluetooth 5.1, hot-swap sockets, and open-source firmware, so pick this one specifically if you know you prefer tactile switches over linear.\n\nTactile Gateron Brown switch feel for keystroke confirmation. Set against that, same high price as the linear version. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41kuxJTAsdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B2DPFWGR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B2DPFWGR?tag=workcocoon-20",
     description:
       "This is a lower-cost wired V6 variant without the rotary knob, still a full-size layout with the same hot-swappable Keychron K Pro Brown tactile switches and open-source QMK/VIA firmware as the knob version, in a frosted black-translucent case that shows a hint of the internals underneath. Dropping the knob keeps the price a moderate amount lower than the knob version while keeping every other feature identical, worth choosing if you don't need a dedicated volume dial and would rather save the cost. A genuine advantage here is that same hot-swap sockets and firmware as the pricier knob version. The tradeoff is no rotary knob for physical volume control.",
     specs: [

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 covers the core all-in-one trio, print, scan, and copy, without piling on features most home buyers skip. Setup is quick over wireless, and the included 3-month Instant Ink trial removes the guesswork around cartridge buying for someone new to the printer.\n\nThis is a 3-in-1, not a 4-in-1, there's no automatic document feeder or fax line, so multi-page scanning means placing one sheet at a time on the flatbed glass. For most home buyers who scan the occasional single document, that's a fair trade for the lower price and simpler unit.\n\nFast, simple wireless setup. That's a real strength, but weigh it against the flip side: no automatic document feeder.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 packs print, scan, and copy plus built-in duplex printing into a single compact tray, a real convenience for two-sided documents without a fax line or ADF adding bulk. Easy setup and a 1-year limited warranty round out a straightforward home printer.\n\nThe flatbed scanner is fine for the occasional single-page scan or photo, but without an ADF, scanning a multi-page document means feeding pages one at a time, worth knowing before buying if you regularly scan longer stacks.\n\nWorth calling out specifically: compact single-tray footprint. The catch is no automatic document feeder.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "This is another 3-in-1, print, scan, and copy with duplex printing, distinguished by a 1.42-inch OLED display and intuitive control panel that make daily use noticeably easier than a printer relying on indicator lights alone. Copy scaling and basic scan options are easy to find without digging through menus.\n\nLike the TS4320, there's no automatic document feeder, so this is a better fit for occasional single-page scanning than for digitizing stacks of paper regularly.\n\nDuplex printing built in. Set against that, no automatic document feeder. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 is a genuine 4-in-1, print, scan, copy, and a built-in fax line, plus an automatic document feeder that makes scanning a multi-page document far less tedious than feeding sheets one by one on a flatbed. That combination makes it the pick here for anyone who scans multi-page paperwork regularly, tax documents, old records, kids' school forms.\n\nMost home buyers won't touch the fax feature in 2026, but it doesn't complicate daily print, scan, and copy use. Mobile printing setup follows a short guided process for pairing a phone.\n\nA genuine advantage here is that full 4-in-1 feature set including fax. The tradeoff is fax feature adds a menu option most won't use.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125e steps up to a full print, scan, copy setup with both an automatic document feeder and duplex printing, aimed at home-office use rather than occasional home printing. A 3-month Instant Ink trial softens the entry cost of ongoing ink.\n\nThis is the pick for a household that genuinely uses every feature on the box, ADF for scanning receipts and contracts, duplex for reports, and steady wireless printing from multiple devices. It costs more upfront than the simpler 3-in-1 picks in this list, which is worth it only if you'll use the extra capability.\n\nInstant Ink trial reduces early ink cost. That's a real strength, but weigh it against the flip side: higher upfront price than basic 3-in-1 picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319DqCyLa3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=workcocoon-20",
     description:
       "The TR8620a is the fullest 4-in-1 in this list, print, copy, scan, fax, plus an automatic document feeder, AirPrint support, and Alexa compatibility for voice-triggered print jobs. It's also the most expensive pick here, so it only makes sense if you'll actually use most of that feature list.\n\nFor a household that wants photo printing quality alongside document handling and doesn't mind paying more for the full set of capabilities, this covers nearly everything a home all-in-one can do. Buyers who only need 2 or 3 of these features are better served by a cheaper pick above.\n\nWorth calling out specifically: airPrint and Alexa support. The catch is most expensive pick in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31C067ZosFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=workcocoon-20",
     description:
       "Brother's INKvestment 4355 is an ink-tank-style all-in-one with a 1.8-inch color display and a dedicated manual feed slot, useful for occasionally printing on envelopes or cardstock without disturbing the main paper tray. A Refresh Subscription trial is included for the ink system.\n\nThe listing doesn't specifically confirm an automatic document feeder, so if fast multi-page scanning is a priority, verify that spec on the product page before buying rather than assuming it's included based on the MFC model name alone.\n\nInk-tank system reduces per-page cost over time. Set against that, automatic document feeder not confirmed in the listing, verify before buying if needed. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "The standard OfficeJet Pro 8125 offers the same ADF and duplex printing combination as the 8125e above, print, scan, copy with automatic document feeder and two-sided printing, at a slightly different price point depending on current promotions. It's built for home-office volume rather than occasional use.\n\nA 3-month Instant Ink trial is included here too, and the AI-capable printing features are optional extras rather than requirements for basic daily printing.\n\nA genuine advantage here is that instant Ink trial reduces early ink cost. The tradeoff is higher upfront price than basic 3-in-1 picks.",
     specs: [

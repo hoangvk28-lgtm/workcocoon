@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MOnEquH1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07DCLK55V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07DCLK55V?tag=workcocoon-20",
     description:
       "The WAVLINK Pro natively drives 2 simultaneous 4K@60Hz displays through DisplayLink, not 3, so it earns its place here as the budget way to reach a triple-display setup by pairing its 2 dock-driven monitors with a third display connected directly to your laptop's own HDMI or USB-C port. That combination gets you 3 screens for less than any true triple-output dock in this list.\n\nIt accepts either a USB-C or USB-A host connection, which is unusually flexible for the price and helps it work with older laptops that lack a modern port. Just budget for the fact that the third display depends on your laptop having a spare video output of its own.\n\nWorks over both USB-C and USB-A hosts. That said, only 2 displays run through the dock itself. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31VkRux4RUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08DDH5CPW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DDH5CPW?tag=workcocoon-20",
     description:
       "This Plugable dock genuinely drives 3 displays from one connection, 1 HDMI output at 4K@30Hz plus 2 HDMI outputs at 1080p@60Hz, which makes it a true triple-monitor solution rather than a workaround. It includes 100W PD and 6 USB 5Gbps ports for peripherals, and works across Windows, macOS, and ChromeOS.\n\nThe catch is that only 1 of its 3 outputs reaches 4K, and it does so at 30Hz rather than 60Hz, so treat this as a productivity-focused triple setup, spreadsheets, documents, chat, rather than a video-editing or gaming rig. For the price, getting genuinely 3 working displays from a single dock is hard to beat.\n\nWorth calling out specifically: 100W PD charges most laptops while docked. The catch is only the primary output reaches 4K, and at 30Hz.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41UFXtYm5ML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01FKTZLBS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01FKTZLBS?tag=workcocoon-20",
     description:
       "The UD-ULTCDL packs 3 HDMI outputs, gigabit Ethernet, an SD card slot, 100W charging, and 4 USB ports into one 13-in-1 dock, running its triple-display output through DisplayLink on Windows and Chrome, with a DisplayLink driver required for Mac. That's the most complete port selection of any pick in this list.\n\nBecause all 3 displays route through DisplayLink software rather than native GPU output, Mac users should expect the same color-calibration limitations that apply to any DisplayLink setup, and should confirm the driver is current after any macOS update. For a Windows-first office setup that also needs an SD slot, it's a strong all-in-one choice.\n\n100W charging alongside triple-display output. Set against that, all-DisplayLink output means no native GPU color pipeline. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31hyr0S1C9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTSZC5Y7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTSZC5Y7?tag=workcocoon-20",
     description:
       "The Anker Prime DL7400 is the only pick in this list that drives 3 full 4K@60Hz displays at once, all through DisplayLink across its 14 ports, with a built-in cooling fan and a smart status display that shows connection and power info at a glance. At 140W max output, it also has the most headroom of any dock here for charging a power-hungry laptop while running 3 screens.\n\nBecause all 3 displays rely on DisplayLink compression rather than native GPU output, it carries the same color-accuracy caveat as any DisplayLink dock, and the added CPU load from driving 3 simultaneous 4K@60Hz streams is higher than a dual-display DisplayLink setup. For buyers who specifically need 3 full 4K@60Hz screens without dropping to 1080p on any of them, it's the clear pick.\n\nThe standout detail is that 140W power handles demanding laptops under load. Balancing that out, most expensive pick in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41DYTURTAyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G8HFLYTN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G8HFLYTN?tag=workcocoon-20",
     description:
       "The WAVLINK Neo drives 3 displays at 4K@60Hz through a mix of HDMI and DisplayPort outputs, using DisplayLink, at the lowest price of any true triple-4K pick in this list. It includes 100W PD, gigabit Ethernet, and 5Gbps USB 3.0 for peripherals, giving it a well-rounded port set for the money.\n\nLike every DisplayLink-based triple setup here, it carries a CPU overhead cost and isn't the right pick for color-critical creative work, and buyers on fanless thin-and-light laptops should watch for added heat under sustained triple-4K use. For most home office setups wanting 3 real 4K screens on a budget, it's the strongest value in this list.\n\n100W PD and gigabit Ethernet included. That's a real strength, but weigh it against the flip side: displayLink compression adds CPU load, especially at 3x 4K@60Hz.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=workcocoon-20",
     description:
       "This Plugable Thunderbolt 4 dock drives displays natively rather than through DisplayLink, up to 4K dual monitor or a single 6K display, which gives it a color and latency advantage over every DisplayLink pick in this list on the displays it does support. On a base M1 through M3 MacBook, that native output tops out at 2 displays, not 3.\n\nA true third native display on a MacBook needs an M1/M2/M3 Pro or Max chip, which natively support 2 or up to 4 external displays respectively, or an M4 chip generation with its expanded display support. For buyers on a base-chip Mac who specifically want 3 real displays, this dock alone won't get there; a DisplayLink dock is the only way to add that third screen on a base-chip Mac.\n\nDriverless setup, no macOS update compatibility risk. On the other hand, native output tops out at 2 displays, not 3, on base-chip Macs. Both are worth keeping in mind before deciding.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21-k4dyJK1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F7SFQM2Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F7SFQM2Y?tag=workcocoon-20",
     description:
       "The SD25TB4 supports up to 4 displays at 4K through 2 DisplayPort 1.4 outputs, an HDMI 2.1 output, and 2 Thunderbolt 4 ports, which on a Windows Thunderbolt 4 laptop can drive 3 or more displays natively through MST rather than DisplayLink, avoiding the CPU overhead and color caveats of a compressed signal. It also includes 2.5GbE networking and Wi-Fi.\n\nMST triple-display support depends on your specific laptop's GPU and Thunderbolt implementation actually supporting MST daisy-chained output, which not every Windows laptop does even with a compatible dock. Confirm your laptop supports MST before buying if this native triple-display path is the reason you're choosing it.\n\nA genuine advantage here is that avoids DisplayLink CPU overhead and color compromises when MST is supported. The tradeoff is that mST triple-display support depends on your specific laptop's GPU/TB4 implementation.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=workcocoon-20",
     description:
       "This Anker Prime dock natively drives 2 full 4K displays with 10Gbps fast data transfer and 160W max output, which is more sustained charging headroom than any other pick in this list. Like the WAVLINK Pro at the entry-level end, it's a strong dual-4K dock rather than a native triple-display dock.\n\nBuyers who want 3 screens with this dock should plan on running the third display off the laptop's own port, the same approach as the budget WAVLINK pick, just with considerably more power delivery and USB throughput. If your laptop doesn't have a spare display output, choose one of the true triple-display docks in this list instead.\n\n10Gbps data transfer for fast peripherals. That said, not a native triple-display dock. Neither should be a surprise once you know to look for it.",
     specs: [

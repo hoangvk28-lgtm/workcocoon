@@ -22,7 +22,7 @@ loadDotEnvLocal();
 
 const ACCESS_KEY = process.env.AMAZON_PAAPI_ACCESS_KEY;
 const SECRET_KEY = process.env.AMAZON_PAAPI_SECRET_KEY;
-const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "deskfinds0d-20";
+const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "workcocoon-20";
 const MARKETPLACE = "www.amazon.com";
 
 async function getToken() {

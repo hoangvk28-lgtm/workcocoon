@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "As the only true laser printer in this list, the DCP-L2640DW is the sharpest text output here, because toner fuses to the page with clean, crisp edges rather than absorbing into the paper fibers the way inkjet ink does. That mechanical difference is why a 600dpi laser regularly looks sharper for plain text than a higher-resolution inkjet, even though the spec sheet number is lower.\n\nToner is also more archivally stable than dye-based inkjet ink, holding up for decades without the fading that can affect inkjet documents stored for the long term. Duplex printing and a mobile-ready design round it out, making this the pick for anyone whose documents are mostly black-and-white text that needs to stay legible for years.\n\nLong archival stability for legal or important documents. On the other hand, monochrome only, no color printing. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "This is a color laser all-in-one, and it keeps the sharp, feathering-free text edges that any laser engine delivers while adding color for charts, letterhead, and colored forms. It fuses toner cleanly onto pre-printed letterhead and colored stock rather than risking the bleed an inkjet can show on the same paper, a real advantage for professional document output.\n\nAt this price it's aimed at a household or small office producing a genuine mix of text-heavy documents and color materials at real volume, not an occasional user. The auto document feeder and 35ppm speed support that higher-volume document workflow well.\n\nHandles letterhead and colored stock cleanly. That's a real strength, but weigh it against the flip side: highest price in this list by a wide margin.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "The HL-L3220CDW brings laser-sharp text and clean letterhead handling at a lower price than the imageCLASS above, at 19ppm with a 250-sheet tray for a household producing regular document volume. It's a genuine step-up option for anyone who wants laser's text quality and archival stability without needing the higher-volume Canon's price or footprint.\n\nIt's a printer engine only, without a built-in scanner or auto document feeder, so it's best paired with a separate scanning solution if you regularly need to digitize incoming paperwork rather than just output it.\n\nWorth calling out specifically: large 250-sheet tray reduces refill frequency. The catch is no built-in scanner or ADF.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125e pairs an auto document feeder and duplex printing with color inkjet output, a practical choice for a household doing a genuine mix of text documents, forms, and the occasional color chart or photo. Text won't be quite as crisp-edged as a laser printer's, since ink absorbs into paper fibers rather than fusing on top, but it's a reasonable middle ground for mixed document needs.\n\nFor archival documents you plan to keep for decades, be aware that dye-based inkjet output can fade over 25-50 years, noticeably faster than laser toner. Pigment-based inkjet output lasts longer, though this model uses standard dye-based cartridges.\n\nHandles both text documents and color output. Set against that, text edges softer than any laser pick. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "The standard OfficeJet Pro 8125 shares the 8125e's auto document feeder and duplex printing at a slightly higher price, without tying you to HP's specific Instant Ink enrollment defaults. Document quality is the same inkjet-level sharpness as its sibling, a step below laser but perfectly usable for everyday text output.\n\nFor letterhead or pre-printed colored forms, keep in mind inkjet ink can occasionally bleed at edges where laser toner fuses cleanly, worth testing on a spare sheet before running a full batch of official stationery through it.\n\nA genuine advantage here is that auto document feeder and duplex printing. The tradeoff is text edges softer than any laser pick here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 brings an auto document feeder and built-in fax to a budget price, useful for a household that occasionally needs to scan or send a signed multi-page form without paying for a pricier office machine. Text quality is standard inkjet, fine for everyday paperwork but not the crispest option on this list.\n\nFor matte paper and standard letter documents it performs reliably; glossy finishes and heavy color coverage aren't its strength, so keep it to plain text and light color documents rather than anything archival or client-facing.\n\nBuilt-in fax for households that still need it. On the other hand, softer text edges than any laser pick. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "Brother's INKvestment cartridges hold more ink than typical inkjet cartridges, cutting how often you're replacing them for a household printing a real volume of documents rather than occasional pages. Automatic two-sided copy and scan through a color touchscreen makes handling multi-page paperwork straightforward.\n\nAs an inkjet, text still won't match a laser printer's crisp toner edges, and dye-based ink is less archivally stable than toner for documents you need to last decades. It's the better choice over a standard inkjet specifically when you want inkjet's color flexibility at higher document volume without stepping up to a laser's price.\n\nAutomatic duplex copy and scan. That's a real strength, but weigh it against the flip side: text still softer than any laser pick here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The TS6520 is the most compact pick in this list, with a 1.42-inch OLED display and duplex printing for a household that only needs light, occasional document output. It won't match a laser's text sharpness, but for everyday letters, forms, and school paperwork the difference isn't noticeable at typical reading distance.\n\nMatte paper is the better choice for legibility with this or any inkjet in this list; glossy finishes introduce glare that makes dense text harder to read under overhead lighting.\n\nWorth calling out specifically: duplex printing built in. The catch is softer text than any laser pick here.",
     specs: [

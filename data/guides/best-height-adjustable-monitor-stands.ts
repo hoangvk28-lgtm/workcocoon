@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "2,320 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51VaGQY7KwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B095RLRP2L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B095RLRP2L?tag=workcocoon-20",
     description:
       "For buyers wanting reliable height adjustment with storage built in Built with a metal platform rated to 33 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nVerify how capacity is described at maximum extension versus collapsed height. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. That's a real strength, but weigh it against the flip side: rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["33 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $16.99", "2,320 ratings on Amazon"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "4,261 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/315v9gEvo9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08L3TMM2X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08L3TMM2X?tag=workcocoon-20",
     description:
       "For buyers wanting a straightforward mechanical height-adjustable platform Built with a metal platform rated to 33 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nA flat-platform design like this differs from VESA-mount stands in how the monitor actually attaches. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nWorth calling out specifically: metal build appropriate for this use case. The catch is rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["33 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $25.49", "4,261 ratings on Amazon"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "9,032 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31-LBzENQIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Q79ZZJ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Q79ZZJ6?tag=workcocoon-20",
     description:
       "For buyers wanting direct VESA attachment rather than a flat platform the monitor's base sits on Built with a metal platform rated to 77 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nVESA mounting changes the leverage physics versus a flat platform, worth understanding before assuming the two mounting styles behave identically. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. Set against that, rated capacity assumes evenly distributed weight, not a single point load. Both matter when comparing it to the other picks here.",
     specs: ["77 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $21.99", "9,032 ratings on Amazon"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "13,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/315H76K0UiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B072QDMRS8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B072QDMRS8?tag=workcocoon-20",
     description:
       "For buyers with smaller or lighter monitors who want a dedicated VESA mount Built with a metal platform rated to 22 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nThe lower 22 lb rating reflects its smaller-screen focus, verify your monitor's actual weight against it. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nA genuine advantage here is that metal build appropriate for this use case. The tradeoff is rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["22 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $27.99", "13,522 ratings on Amazon"],

@@ -41,7 +41,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "3-stage",
     price: "Check current price",
     imageUrl: `${BASE}/02-modern_office_with_natural_light_and_greenery.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FXX9498V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FXX9498V?tag=workcocoon-20",
     whyItWorks:
       "The FlexiSpot E6 with butcher block rubberwood top is the strongest recommendation on this list: a 3-stage dual-motor frame with a genuine solid wood desktop in the most practical size (71x30\"). The 3-stage legs give a full 23.6\"-49.2\" height range, covering users from 5'0\" to 6'4\" with good stability at maximum extension. Rubberwood (parawood) is a solid hardwood at ~980 lbf Janka. The butcher block construction means the full desktop is solid hardwood - not a veneer over MDF. At 71\" wide, dual monitors, monitor arms, a laptop stand, and full keyboard setup all fit without competing for surface space.",
     tradeoffs: [
@@ -75,7 +75,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "Check current listing",
     price: "Check current price",
     imageUrl: `${BASE}/03-modern_home_office_with_elegant_design.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0GF7S8D5F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GF7S8D5F?tag=workcocoon-20",
     whyItWorks:
       "The 55x28\" FlexiSpot bamboo model is the compact option - narrower and shallower than the E6 line, suited for smaller home offices where a 71\" desk would dominate the room. The bamboo one-piece desktop provides a single continuous grain surface without the strip-joint pattern of butcher block. Bamboo performs with hardwood-level hardness (1,300-1,800 lbf Janka) and moisture resistance. For users who prefer the clean linear bamboo grain and prioritize sustainability, this is the most distinctive-looking desktop on this list.",
     tradeoffs: [
@@ -109,7 +109,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "3-stage",
     price: "Check current price",
     imageUrl: `${BASE}/04-modern_cozy_home_office_space.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0GN9QH5PX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GN9QH5PX?tag=workcocoon-20",
     whyItWorks:
       "The E6 MAX Woodix Acacia is FlexiSpot's premium solid wood option. Acacia hardwood at 1,750 lbf Janka is significantly harder than rubberwood, meaning better long-term resistance to surface dents and scratches. The 72x30\" acacia top will have natural grain variation across its surface - each top looks different. Acacia's dramatic varied grain makes this the most visually distinctive standing desk on this list. The E6 MAX frame handles the heavier acacia top with its 355 lb lifting capacity.",
     tradeoffs: [
@@ -142,7 +142,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "3-stage",
     price: "Check current price",
     imageUrl: `${BASE}/05-minimalist_standing_desk_workspace_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJV8BB38?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJV8BB38?tag=workcocoon-20",
     whyItWorks:
       "The 48x24\" E6 MAX brings dual-motor 3-stage performance to a compact footprint. For home offices where a 72\" desk is too wide, 48x24\" is the practical mid-compact size: one monitor, keyboard, and accessories with comfortable depth for ergonomic monitor placement. The E6 MAX's 355 lb lifting capacity on a ~25 lb top means significant motor headroom - the frame is doing far less work than its rating, which translates to longer motor life.",
     tradeoffs: [
@@ -174,7 +174,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "Verify in listing",
     price: "Check current price",
     imageUrl: `${BASE}/06-minimalist_home_office_with_natural_light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07KKMWRZK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KKMWRZK?tag=workcocoon-20",
     whyItWorks:
       "Stand Up Desk Store is a brand focused specifically on height-adjustable desk products - narrower specialization than FlexiSpot's broad home office range. For buyers who want an alternative to FlexiSpot while staying with an established standing desk brand, this is the primary option. The solid wood top is confirmed in the listing. Verify the motor configuration and frame stage count for your height requirements before purchasing.",
     tradeoffs: [
@@ -206,7 +206,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "Both L legs raise together",
     price: "Check current price",
     imageUrl: `${BASE}/07-modern_standing_desk_workspace_with_plants.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DYSH7M7H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DYSH7M7H?tag=workcocoon-20",
     whyItWorks:
       "The EUREKA ERGONOMIC 61\" L-shape is a full electric L-shaped standing desk with a confirmed solid wood tabletop - the main surface is genuine hardwood, not laminate. As a full electric standing desk, both legs of the L rise together, giving true sit-stand capability across the entire L surface. For users who genuinely use both legs of the L and alternate between sitting and standing, this is the only option on this list that covers both requirements.",
     tradeoffs: [
@@ -238,7 +238,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "Full L electric",
     price: "Check current price",
     imageUrl: `${BASE}/08-minimalist_home_office_in_natural_light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CH8G96PK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CH8G96PK?tag=workcocoon-20",
     whyItWorks:
       "The 63\" EUREKA ERGONOMIC with solid walnut top is the most premium L-shaped option on this list. Walnut is the prestige hardwood choice for standing desk tops - its dark chocolate color, open grain figure, and natural warmth are visually distinct from acacia or rubberwood. At ~1,010 lbf Janka, walnut is moderately hard - adequate for daily desk use. For a home office where the desk is meant to communicate quality and the user has the room for a 63\" L-shaped footprint, walnut delivers the most premium visual result.",
     tradeoffs: [
@@ -270,7 +270,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "Check current listing",
     price: "Check current price",
     imageUrl: `${BASE}/09-minimalist_home_office_with_standing_desk.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DQ8KQ4HQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ8KQ4HQ?tag=workcocoon-20",
     whyItWorks:
       "Desky is an Australian standing desk brand with a reputation in the premium sit-stand desk market for frame stability and desktop quality. The Dual Hardwood model uses a hardwood desktop on their dual-motor frame. Desky's frame construction quality is generally positioned above FlexiSpot's entry and mid-range products. For buyers who have researched standing desk brands beyond the major Amazon names and want Desky's build quality, this is the Amazon-available option.",
     tradeoffs: [
@@ -302,7 +302,7 @@ export const products: SolidWoodStandingDesk[] = [
     stages: "Verify in listing",
     price: "Check current price",
     imageUrl: `${BASE}/10-modern_minimalist_home_office_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DSM6LW7L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSM6LW7L?tag=workcocoon-20",
     whyItWorks:
       "The live edge walnut adjustable desk is the most distinctive and premium option on this list. A live edge desktop - the natural irregular outer edge of the walnut slab preserved rather than cut square - is the furniture world's version of a luxury specification. No two live edge desks look alike. South American walnut (Juglans neotropica) is a genuine walnut species - darker and often more figured than North American black walnut. Each slab is a one-of-a-kind piece.",
     tradeoffs: [

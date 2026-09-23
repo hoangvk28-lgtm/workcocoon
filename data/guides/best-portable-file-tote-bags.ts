@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "117",
     imageUrl: "https://m.media-amazon.com/images/I/41WX5LqZcIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKDY3QMT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKDY3QMT?tag=workcocoon-20",
     description:
       "This UNICITII tote genuinely includes hanging file capability despite its soft-sided construction, using a semi-rigid internal frame to support standard hanging folders, a real structural feature not every tote in this category offers.",
     specs: ["Soft-sided tote with semi-rigid frame", "Genuine hanging file support", "Desktop and portable use", "Good rating"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "29",
     imageUrl: "https://m.media-amazon.com/images/I/41sV+9i1pGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKDYHRHF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKDYHRHF?tag=workcocoon-20",
     description:
       "A larger-capacity variant of the same UNICITII tote design, this pick genuinely holds more documents at a moderate price increase, though its very small review count means less proven long-term reliability than the standard size.",
     specs: ["Larger capacity than the standard UNICITII tote", "Semi-rigid frame for hanging files", "Soft-sided construction", "Moderate price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "2,150",
     imageUrl: "https://m.media-amazon.com/images/I/41NoJhPJlCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ2FNCTQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ2FNCTQ?tag=workcocoon-20",
     description:
       "Honesty note: this is a general utility tote, not specifically a hanging-file tote, but its reinforced bottom genuinely improves structural rigidity over a typical soft bag, and its highest review count in this comparison gives real confidence in its overall durability for general document and supply carrying.",
     specs: ["Reinforced bottom for structure", "Multi-pocket organization", "Top zipper closure", "Highest review count in this comparison"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "84",
     imageUrl: "https://m.media-amazon.com/images/I/31SD47V9S6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DRFNCHJZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DRFNCHJZ?tag=workcocoon-20",
     description:
       "This is a genuine soft-sided tote with hanging file support and a lid for enclosed protection, sold as a 2-pack, useful if you need two separate document totes for different projects or categories.",
     specs: ["Soft-sided with lid", "Genuine hanging file support", "2-pack", "Collapsible"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "77",
     imageUrl: "https://m.media-amazon.com/images/I/410XaitYMWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWRFZPHW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWRFZPHW?tag=workcocoon-20",
     description:
       "Another UNICITII tote variant, this pick carries a slightly lower rating than the top two picks from the same brand, worth weighing against its similar feature set and price point before choosing over the higher-rated alternatives.",
     specs: ["Soft-sided tote with hanging file support", "Similar UNICITII design", "Moderate price", "Portable"],

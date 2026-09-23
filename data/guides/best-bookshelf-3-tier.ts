@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "1,430",
     imageUrl: "https://m.media-amazon.com/images/I/41Qjs1SwnfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDFTGTHC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDFTGTHC?tag=workcocoon-20",
     description:
       "The MNEETRUNG carries the highest rating in this entire list at 4.8 stars, built around an X-shaped metal frame with horizontal cross bars and a backboard that together give it real rigidity for its size. At just 15.7 inches wide and 27.6 inches tall, it's genuinely triple-purpose, working as a small bookshelf, an end table, or a nightstand depending on where you place it.\n\nA mix of metal frame and MDF shelving is rated for 50 lbs total, and adjustable feet keep it level on uneven flooring, a small detail that matters when it's doing double duty as bedside furniture.\n\nWorth calling out specifically: x-frame with cross bars adds real rigidity. The catch is lower capacity than the heavier industrial picks.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "2,206",
     imageUrl: "https://m.media-amazon.com/images/I/41+8nje54kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DMFBXWHZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DMFBXWHZ?tag=workcocoon-20",
     description:
       "The VASAGLE has the smallest footprint of any pick in this list at just 9.4 inches deep and 15.7 inches wide, built around a particleboard and alloy steel frame with X-brace reinforcement for stability. It's rated for 49.5 lbs total, or 16.5 lbs per shelf, plenty for a small book and decor collection. A two-tone Rustic Brown and Ink Black finish, adjustable feet, and an included anti-tip kit round out a build that's also the cheapest VASAGLE 3-tier option available, at a competitive price. X-brace reinforcement for stability. Set against that, lower capacity than the heavier Homeiju pick. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "609",
     imageUrl: "https://m.media-amazon.com/images/I/41AzxaDHAtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCKS9W18?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCKS9W18?tag=workcocoon-20",
     description:
       "The Hosfais is built from CARB P2-certified plywood, an eco-certification standard for low formaldehyde emissions, paired with a metal side cross tube for stability. Edge protection runs along the back panel, a small but useful detail that guards against scuffs and sharp corners.\n\nAt just 44 lbs total capacity, it's on the lighter-duty end of this list, but it makes up for it with one of the fastest assemblies here at around 20 minutes, and a waterproof finish that holds up to spills.\n\nA genuine advantage here is that edge protection on all sides. The tradeoff is lowest total capacity in this list at 44 lbs.",
     specs: [
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "508",
     imageUrl: "https://m.media-amazon.com/images/I/41lZ7UpCqQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F47V5VCW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F47V5VCW?tag=workcocoon-20",
     description:
       "The HOOBRO carries the highest per-shelf capacity in this list at 40 lbs per shelf, backed by a particleboard-and-metal frame with a back panel and side metal wires for added support. It offers 3 different installation methods, more configuration flexibility than most competitors, so you can set it up in whichever orientation suits your space.\n\nAn anti-tip kit is included for wall anchoring, and the rustic brown finish matches several other industrial-style picks in this list if you're buying multiple pieces for a matched look.\n\n3 different installation configurations. On the other hand, lower total capacity than the heavier Homeiju pick. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -179,7 +179,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,632",
     imageUrl: "https://m.media-amazon.com/images/I/41XOY1tL9iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B6P3G41R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B6P3G41R?tag=workcocoon-20",
     description:
       "The Homeiju carries the highest total weight capacity in this list at 220 lbs, thanks to genuine carbon steel construction rather than the lighter alloy steel or particleboard frames found on most competitors. An X-shaped wire back and side horizontal tube add further rigidity to an already sturdy frame.\n\nRust-proof and scratch-resistant coatings help it hold up over years of daily use, and adjustable legs keep it level on uneven flooring, making it the most durable vintage industrial pick in this list.\n\nGenuine carbon steel construction. That's a real strength, but weigh it against the flip side: pricier than most other 3-tier picks in this list.",
     specs: [
@@ -212,7 +212,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "26,421",
     imageUrl: "https://m.media-amazon.com/images/I/415vIfh-KPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B074NHRZQX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B074NHRZQX?tag=workcocoon-20",
     description:
       "The Furinno LUDER is a best-selling budget pick with over 26,000 ratings, built from FSC-certified composite wood that carries an E1 certification for low, essentially odorless formaldehyde emissions. At just 12 inches wide, it's the most compact footprint in this entire list, small enough for a corner most other shelves couldn't fit.\n\nA closed back panel keeps smaller items from falling through, and the whole unit is rated for 40 lbs total, backed by a 1-year warranty at the lowest price point among the compact picks in this list.\n\nWorth calling out specifically: most compact footprint in this list at 12\" wide. The catch is lowest rating among the top-selling picks at 4.4 stars.",
     specs: [
@@ -245,7 +245,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "26,103",
     imageUrl: "https://m.media-amazon.com/images/I/41naGsZeyeS._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01BWZWEAK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01BWZWEAK?tag=workcocoon-20",
     description:
       "The Furinno JAYA is another best-seller with over 26,000 ratings, and it stands apart from the compact LUDER by offering an adjustable middle shelf, letting you customize spacing for taller items like binders or decorative pieces. FSC-certified composite wood construction carries over from the LUDER, along with a closed back panel.\n\nAt 24.5 inches wide, it's the widest pick in this list, giving it the highest total capacity among the Furinno picks at 80 lbs, useful if you want more books per tier than the narrower compact options provide.\n\nHighest total capacity among Furinno picks at 80 lbs. Set against that, lowest rating in this list at 4.2 stars. Both matter when comparing it to the other picks here.",
     specs: [
@@ -277,7 +277,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "230",
     imageUrl: "https://m.media-amazon.com/images/I/51SZTl0lKTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMD5Z5J4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMD5Z5J4?tag=workcocoon-20",
     description:
       "The VASAGLE CUSTOS stands apart with the most adjustable shelving in this list, letting you move both the 2nd and 3rd tiers across 3 different height positions to fit taller items wherever you need the extra clearance. A footless H-shaped design skips the usual leg base for a cleaner, more modern silhouette. A slot-in back panel adds rigidity without extra hardware, and at 88 lbs total, or 22 lbs per shelf, it's the most premium-feeling pick in the CUSTOS collection, priced accordingly above the industrial metal-frame picks in this list. A genuine advantage here is that modern footless H-frame design. The tradeoff is most expensive pick in this list.",
     specs: [

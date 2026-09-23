@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The Brother DCP-L2640DW is a monochrome laser built for the kind of steady, high-volume black-and-white output a law office, accounting firm, or general service business runs every day, with duplex printing, copy, and scan built into a compact chassis. Toner-based printing keeps cost per page low compared to inkjet, which matters once monthly volume climbs past a few hundred pages.\n\nWireless and mobile printing cover a small office with 2-3 people sharing the same unit. It skips color entirely, so it is the wrong pick for a business that regularly needs marketing materials or product photos, but for a text-heavy workload it is the most efficient option in this list.\n\nDuplex printing saves paper automatically. That's a real strength, but weigh it against the flip side: no color output at all.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "The HL-L3220CDW is the only true color laser in this list, printing at up to 19 pages per minute with a 250-sheet paper tray that can absorb a full day of client handouts, proposals, or marketing sheets without a refill. Color laser toner holds up better than inkjet under infrequent color use, which suits a business that prints color materials in bursts rather than daily.\n\nDuplex printing and mobile compatibility round it out for a small design studio, real estate office, or any business where a color logo or chart needs to look professional on paper. It is the most expensive pick here, and that upfront cost only pays off once your print volume justifies laser over inkjet.\n\nWorth calling out specifically: large 250-sheet tray reduces refill frequency. The catch is highest price in this list.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413Pj7RejfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFH9RYW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFH9RYW?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8139 covers print, scan, copy, and fax in one machine with an automatic document feeder for multi-page originals, a combination that still matters for businesses dealing with signed contracts, insurance paperwork, or vendor forms that require fax confirmation. Duplex printing keeps paper costs down on longer documents.\n\nA year of Instant Ink is included, which offsets the higher per-cartridge cost of inkjet during the trial period, but a business should plan for standard cartridge or subscription pricing after that window closes. It fits a general small office that needs the full suite of document functions rather than pure print volume.\n\nIncluded Instant Ink trial lowers first-year ink cost. Set against that, inkjet cost per page rises after the Instant Ink trial ends. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "The HL-L2405W strips a laser printer down to its essentials, print only, no scan or copy, which keeps the price well under the DCP model above while still delivering the low cost-per-page toner economics that make laser worth it for high-volume text. It is wireless and mobile-ready, so it fits into a shared office network without extra cabling.\n\nThis is the pick for a business that already owns a scanner or copier and just needs a dedicated, reliable printer for invoices, forms, or shipping paperwork. Skipping scan and copy keeps the footprint and the price both smaller than the multifunction laser above it.\n\nA genuine advantage here is that low cost per page for pure text printing. The tradeoff is no scan or copy, print only.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31H9Yu3i01L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=workcocoon-20",
     description:
       "The Workforce WF-2930 is the lowest-cost all-in-one in this list still built for office duty, with scan, copy, fax, an automatic document feeder, and duplex printing on a small color display. It suits a very small business or a home-based side business that needs basic office functions without a laser-level budget.\n\nBecause it runs on standard cartridges rather than an ink tank, cost per page will climb faster than the EcoTank pick below once monthly volume grows, so this is best suited to lighter, occasional office printing rather than a daily high-volume workload.\n\nFull office function set: scan, copy, fax, ADF. On the other hand, cartridge ink costs more per page than an ink-tank system. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The EcoTank ET-2400 replaces disposable cartridges with refillable ink tanks, and that single design change is what makes it worth considering for a small business over a standard inkjet: bottle refills run a fraction of the cost of cartridges once you're printing regularly, which changes the math for any business doing steady color output. Scan and copy are included alongside print.\n\nThe upfront cost is higher than the basic cartridge all-in-ones in this list, but it pays back over months of use rather than years for a business printing color materials on any kind of regular schedule, retail signage, menus, or client handouts included.\n\nHandles regular color printing without high ongoing cost. That's a real strength, but weigh it against the flip side: higher upfront price than basic cartridge inkjets.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41EAIoCQBIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07XGNLFJC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07XGNLFJC?tag=workcocoon-20",
     description:
       "The Smart Tank Plus 651 pairs an ink-tank system with a full office feature set: automatic document feeder, fax, scan, copy, and 2 years of ink included in the box. For a small business that needs both high color volume and document handling in one machine, this is the most complete pick in this list.\n\nThe included 2 years of ink is a meaningful cost offset compared to buying cartridges or even refill bottles separately during that window, though the printer itself costs more upfront than the ET-2400. Once the included ink runs out, refill economics remain similar to any other ink-tank system.\n\nWorth calling out specifically: full document feeder and fax for office paperwork. The catch is most expensive ink-tank pick in this list.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "The Smart Tank 5101 brings ink-tank economics to a smaller, more affordable package than the Plus 651 above, with 2 years of ink included and print, scan, and copy covered. It is a solid entry point for a small business that wants lower cost per page without paying for a document feeder or fax it may not need.\n\nWireless printing works over 2.4GHz only, worth checking against your office router setup before buying, since some newer routers default to 5GHz-only guest networks that this printer will not join without adjustment.\n\nLower upfront price than the Plus 651 ink-tank model. Set against that, 2.4GHz-only wireless can be a setup snag on some routers. Both matter when comparing it to the other picks here.",
     specs: [

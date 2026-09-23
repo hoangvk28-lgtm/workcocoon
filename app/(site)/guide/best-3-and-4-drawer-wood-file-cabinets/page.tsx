@@ -722,7 +722,7 @@ export default async function Best3And4DrawerWoodFileCabinetsPage() {
             Filter by drawer count, finish, and price. All Prime-eligible options available.
           </p>
           <a
-            href="https://www.amazon.com/s?k=3+drawer+wood+file+cabinet&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=3+drawer+wood+file+cabinet&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

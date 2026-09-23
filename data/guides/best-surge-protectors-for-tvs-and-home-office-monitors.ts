@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,666 Amazon ratings",
     reviews: "2,666 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eRaMa6u1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=workcocoon-20",
     description:
       "4800 joules, real headroom for a multi-monitor home office setup or a TV plus adjacent peripherals sharing the same budget. 12 outlets, wall mountable, USB-C charging.\\n\\nA multi-monitor setup dilutes the per-panel protection depth below what the headline joule rating implies for a single-TV living room, size accordingly if you have several displays.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Amazon Basics 12.\n\nWorth knowing before you decide: Wall mountable for a permanent TV or monitor setup. On the other side, Per-panel dilution still applies with multiple displays. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4800 joules","10ft cord, wall mountable","2 USB-C, 2 USB-A","Desk charging station design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 535 Amazon ratings",
     reviews: "535 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3148JhvbR6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=workcocoon-20",
     description:
       "4000 joules with 12 outlets, real capacity for a TV entertainment center or multi-monitor setup at a genuinely lower price. 8ft cord for placement flexibility.\\n\\nModern panel driver electronics, especially OLED and high-refresh displays, are more sensitive to voltage transients than older, simpler displays, this joule headroom helps.\n\nSet against the Surge Protector Power Strip 4800J, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 8ft cord for placement flexibility. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4000 joules","8ft cord","Rectangle form factor","Amazon Basics brand"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "UL listed with 3,780 joules from an established brand, real confidence for protecting a valuable TV or monitor setup. 8ft cord for flexible placement around an entertainment center or desk.\\n\\nVerify any connected-equipment warranty's documentation requirements upfront, proof of purchase for both the TV and the surge protector, before assuming a straightforward claims process.\n\nRelative to the Amazon Basics 12, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: UL listed for verified safety. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules","UL listed, 8ft flat plug cord","Established Belkin brand","Heavy-duty extension cord"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "12 outlets and 2700 joules with a large, well-established review base, genuine mid-tier protection for a TV or monitor setup with peripherals. ETL listed.\\n\\nAppropriate for a single-TV living room or a smaller two-monitor home office setup rather than a full multi-monitor workstation.\n\nCompared with the Belkin 12 above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: 12 outlets with genuine surge protection. On the other side, Lower joule rating than the top three picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 67,972 Amazon ratings",
     reviews: "67,972 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41w1NL7yU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=workcocoon-20",
     description:
       "The largest review base of any pick in this guide, genuine reliability at an affordable price for a single TV or monitor setup. Braided cord for durability.\\n\\nAppropriate for one display and basic peripherals rather than a multi-monitor home office setup that would dilute this budget across several panels.\n\nSet against the Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Genuine surge protection at an affordable price. On the other side, Lower joule rating, best for a single display. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["1080 joules surge protection","Braided 5ft cord","Largest review base in this guide","Budget-friendly"],

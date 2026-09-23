@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,298",
     imageUrl: "https://m.media-amazon.com/images/I/51P0hhxgYxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=workcocoon-20",
     description:
       "The VASAGLE Liry carries the highest total weight capacity in this entire list at 374.8 lbs, split between 2 open display tiers up top and a 2-door cabinet below with 3 adjustable shelves that can be set to 5 different height positions. A robot-vacuum-friendly 3.5-inch base gap means it won't block your cleaning routine, a small but genuinely useful detail.\n\nThe two-tone Cloud White and Warm Brown farmhouse finish gives it a warmer look than an all-white or all-black cabinet, and at 24.8 inches wide it fits comfortably in a living room, entryway, or home office.\n\nRobot-vacuum-friendly base gap. Set against that, no glass doors or LED lighting for display. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "746",
     imageUrl: "https://m.media-amazon.com/images/I/31OuUlfdpbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=workcocoon-20",
     description:
       "The Shintenchi combines 4 open display shelves with 2 dust-blocking enclosed shelves behind doors, all rated for a solid 300 lb total capacity. Black industrial styling with metal accents gives it a more modern, edgy look than the farmhouse-style alternatives in this list, and a stability device is built in to help resist tipping.\n\nAt just 9.3 inches deep, it's the most compact bookshelf cabinet here front to back, making it an easy fit for a living room, study, or apartment where floor space is tight.\n\nA genuine advantage here is that most compact depth in this list at 9.3\". The tradeoff is lower star rating than most other picks at 4.3.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,630",
     imageUrl: "https://m.media-amazon.com/images/I/41tFAo0NXNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMGW2X41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMGW2X41?tag=workcocoon-20",
     description:
       "The Befrases packs the most total storage zones into a mid-size footprint of any pick in this list, combining 2 doors, 2 drawers, and 1 adjustable shelf into 5 distinct storage areas. A metal cross-bar accent along the base adds an industrial touch to the otherwise farmhouse-style white finish.\n\nBuilt from recyclable P2 board, it's noticeably lighter and easier to move than the taller, heavier cabinets in this list, which makes it a practical pick if you rearrange furniture often or need to carry it up stairs.\n\nLightweight and easy to move. On the other hand, shorter than most other picks in this list at 42.5\". Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,031",
     imageUrl: "https://m.media-amazon.com/images/I/51i3506hQML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DF7G3BPQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DF7G3BPQ?tag=workcocoon-20",
     description:
       "The BROTTAR is built specifically for showing off a collection, with 4 pop-up glass doors across 4 tiers and 3-color LED lighting controlled by a human-body sensor that switches on automatically when you walk up and off when you step away. FSC-certified wood construction backs a sustainable sourcing claim most competitors skip. An anti-tipping device is included for wall anchoring, and the black finish with glass fronts gives it the best-looking display presence in this list for collectibles, books, or decor you want lit and visible. 3-color LED with automatic motion sensor. That's a real strength, but weigh it against the flip side: among the most expensive picks in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "645",
     imageUrl: "https://m.media-amazon.com/images/I/51c02m9pUmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F296Z662?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F296Z662?tag=workcocoon-20",
     description:
       "This BROTTAR takes a hexagonal corner design that fits directly into a room corner, a shape none of the other cabinets in this list can match, giving you 360-degree visibility through 4 magnetic glass doors on 4 tiers. The same 3-color LED and human-body sensor from the standard BROTTAR carries over here. FSC-certified wood and tempered glass construction, plus a 40 lb per-shelf rating, make it both durable and display-ready, and the white finish keeps it bright even tucked into a corner with less natural light. Worth calling out specifically: 360-degree visibility through 4-sided glass. The catch is among the most expensive picks in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,412",
     imageUrl: "https://m.media-amazon.com/images/I/31bAAXan8lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BTHPR71K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BTHPR71K?tag=workcocoon-20",
     description:
       "The PEUKC is built around an 8mm heavy-duty steel frame, the thickest of any cabinet in this list, and carries the highest per-shelf capacity here at 120 lbs. A 3-point door lock secures the tempered glass doors, making it a genuinely practical pick for a home office storing important documents or valuables alongside books.\n\nFour adjustable shelves let you customize the interior layout, and a powder-coated anti-rust finish keeps the steel frame looking clean over time.\n\nThickest steel frame at 8mm. Set against that, no LED lighting or motion sensor. Both matter when comparing it to the other picks here.",
     specs: [
@@ -242,7 +242,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "684",
     imageUrl: "https://m.media-amazon.com/images/I/51QCHDSiqAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CYGGYBFR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYGGYBFR?tag=workcocoon-20",
     description:
       "The Dystler uses transparent acrylic doors instead of glass, the only pick in this list to do so, which cuts weight and reduces breakage risk while still giving full visibility into all 5 tiers. A smart 3-color LED with a motion sensor lights the interior automatically, and 2 adjustable shelves let you fine-tune the layout alongside 2 fixed shelves.\n\nWaterproof FSC-certified MDF construction means it holds up in rooms where humidity is a concern, kitchens, dining rooms, and bathrooms included, somewhere most wood display cabinets would warp over time.\n\nA genuine advantage here is that smart LED motion sensor lighting. The tradeoff is acrylic doors can scratch more easily than glass over time.",
     specs: [
@@ -274,7 +274,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "97",
     imageUrl: "https://m.media-amazon.com/images/I/51MwVy47XAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC715ZK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC715ZK?tag=workcocoon-20",
     description:
       "The OSCHF is the most premium build in this list, standing on genuine solid oak legs with beech wood door handles rather than the composite or metal hardware found on most competitors. Eleven total cubes, 7 open and 4 enclosed behind doors, give you flexible display and hidden storage in one refined, minimalist unit.\n\nFSC-certified MDF construction backs each cube, rated for 60 lbs apiece and 240 lbs across the top panel, making it sturdy enough for a genuine mixed-use collection despite its compact 46.6\" width and low 39.8\" height.\n\n11 total cubes split between open and enclosed storage. On the other hand, fewest total ratings in this list at 97. Neither should be a surprise once you know to look for it.",
     specs: [

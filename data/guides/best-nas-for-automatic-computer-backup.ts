@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 is built around Active Backup for Business, Synology's free tool that backs up full PC and Mac images with deduplication, which makes it the strongest pick here for anyone backing up more than one computer from a single box. DSM's scheduler handles versioned, incremental backups without any third-party software.\n\nAs a 2-bay diskless unit it needs its own drives and a RAID 1 mirror before it holds any real redundancy, and its soldered RAM means the backup workload should stay its main job rather than one of several apps running at once. For a household backing up 2 to 3 computers on autopilot, it is the most complete option in this list.\n\nDSM's backup scheduling is the most mature in this list. That's a real strength, but weigh it against the flip side: diskless, needs 2 drives purchased separately.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "The DXP2800 is positioned for content creators, which in backup terms means it has the horsepower to handle large incremental backup sets, such as a video editor's project drives, without stalling. UGREEN OS supports scheduled rsync and cloud-sync backup jobs alongside its own snapshot tool.\n\nIt costs more than the entry-level 2-bay picks here, which only pays off if your backup source is large media files or multiple high-capacity drives rather than a single laptop's documents folder. For lighter backup needs, a cheaper 2-bay in this list gets the same core job done.\n\nWorth calling out specifically: snapshot versioning protects against ransomware and mistakes. The catch is priciest 2-bay pick in this list.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 is the cheapest diskless 2-bay in this list, and it still supports up to 64TB of total capacity for buyers who want room to grow without upgrading the enclosure itself. It runs scheduled backup jobs from a connected PC through UGREEN's standard OS tools. At this price the CPU and RAM are the most modest here, so it is best kept focused on backup duty rather than layered with Plex, surveillance, or other always-on services. For a single computer's automatic backup on a budget, it covers the basics without unnecessary extras. Supports high total capacity for its price. Set against that, entry-level CPU limits running multiple simultaneous services. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=workcocoon-20",
     description:
       "The TS-216G is built around a 2.5GbE port, which matters for backup speed once your PC or laptop also has a 2.5GbE adapter, since the first full backup of a modern SSD-heavy laptop can otherwise take most of a day over standard gigabit. QNAP's Hybrid Backup Sync app handles scheduled local and cloud jobs.\n\nThat 2.5GbE advantage only shows up if your router or switch also supports 2.5GbE; on a standard gigabit network it behaves like any other 2-bay NAS. It is the pick for buyers who already have or plan to upgrade their home network alongside the NAS.\n\nA genuine advantage here is that hybrid Backup Sync covers both local and cloud backup destinations. The tradeoff is 2.5GbE benefit requires a 2.5GbE router or switch, an extra cost.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=workcocoon-20",
     description:
       "The Drivestor 2 Gen 2 pairs a quad-core 1.7GHz CPU with 2.5GbE networking at the same price as the UGREEN DH2300, giving it a faster network port without a price jump. Asustor's ADM OS includes scheduled backup apps for both Windows and Mac clients. Its 1GB of DDR4 RAM is on the lighter side, which is fine for a single backup job running on schedule but will feel tight if you also want file sync or a media app running at the same time. As a first NAS focused mainly on automatic backup, it is a well-balanced budget option. Quad-core CPU handles scheduled backup jobs smoothly. That's a real strength, but weigh it against the flip side: 1GB RAM limits running much beyond backup and light file sharing.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=workcocoon-20",
     description:
       "The F2-425 runs on an Intel x86 quad-core CPU with 4GB of RAM, noticeably more headroom than the ARM-based budget picks in this list, which means scheduled backup jobs can run alongside file sharing or a lightweight media app without the whole system bogging down. It also includes 2.5GbE networking.\n\nTERRAMASTER's TOS software covers standard scheduled backup, though its app ecosystem and community documentation are smaller than Synology's or QNAP's. For buyers who want an Intel-class CPU and real RAM without paying 4-bay prices, it is a strong middle-tier choice.\n\nWorth calling out specifically: 2.5GbE networking included. The catch is smaller software ecosystem than Synology or QNAP.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=workcocoon-20",
     description:
       "The TS-264 ships with 8GB of RAM out of the box, the most of any 2-bay in this list, which matters if you plan to run scheduled backup for several computers plus Hybrid Backup Sync's cloud replication at the same time without either job slowing down. It is a genuinely more capable machine than a budget 2-bay, at a matching price. It costs more than double most other 2-bay picks here, so it makes sense mainly for buyers who know they will push it with concurrent backup jobs or additional QNAP apps, not for a single lightly used laptop. Treat the price as an investment in headroom rather than a backup-only purchase. Strong headroom for cloud replication alongside local backup. Set against that, most expensive 2-bay pick in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The DXP4800 Plus is the only 4-bay in this list, built around an Intel Pentium Gold 8505 5-core CPU that can comfortably run scheduled backup jobs for several computers at once alongside RAID rebuilds and other services. Four bays also mean more RAID configuration flexibility than any 2-bay option here allows.\n\nIt is the most expensive pick in this list before drives are even factored in, and a 4-bay setup with 4 matching drives adds real cost on top of the enclosure. For a household or small office backing up 3 or more computers automatically, the extra bays and CPU headroom are what justify the price.\n\nA genuine advantage here is that 4 bays allow RAID 5/6/10 for better redundancy than a 2-bay. The tradeoff is most expensive enclosure in this list.",
     specs: [

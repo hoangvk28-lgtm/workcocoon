@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 326 Amazon ratings",
     reviews: "326 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=workcocoon-20",
     description:
       "ScanSnap Home software automatically names and sorts files using OCR, a genuinely deeper integration than a bare scan-then-OCR-separately workflow. At its native 45ppm high-DPI capability, OCR accuracy benefits from cleaner source scans than a lower-resolution portable unit would produce.\n\nRemember OCR processing speed lags well behind scan speed on batch jobs regardless of scanner brand, a large batch will create an OCR backlog even on this fast a scanner.\n\nHigh native scan resolution supports better OCR accuracy. That's a real strength, but weigh it against the flip side: oCR processing will still lag behind the 45ppm scan speed on large batches.",
     specs: ["ScanSnap Home OCR, auto-naming and sorting", "45ppm scan speed, 100-sheet feeder", "Touchscreen with personalized profiles", "Wi-Fi 6 + USB-C"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "Genuine searchable PDF output with OCR built into the ScanSmart software bundle, the largest review base among the OCR-equipped picks in this guide. Accuracy still depends on your scan settings, run archival documents at 300 DPI or higher rather than a lower default for meaningfully better OCR text extraction.\n\nNo specific language pack coverage disclosed beyond default English support, verify separately for non-English document needs.\n\nSearchable PDF output built in. On the other hand, language pack coverage beyond English not disclosed. Both are worth keeping in mind before deciding.",
     specs: ["Searchable PDF OCR via ScanSmart software", "Word/Excel conversion included", "Largest review base among OCR picks here", "Duplex desktop scanning"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "ScanSnap Home OCR in a genuinely compact ADF-hopper design, with auto color optimization that helps improve source scan quality (and by extension OCR accuracy) versus a flatbed scan of a low-contrast document. A reasonable middle ground between the desktop picks above and the portable picks below.\n\nSame handwriting-OCR limitation applies here as with every pick in this guide, standard OCR is optimized for printed text, not handwritten notes.\n\nA genuine advantage here is that auto color optimization improves source scan quality. The tradeoff is that handwriting OCR not addressed, standard limitation across this guide.",
     specs: ["ScanSnap Home OCR", "Auto color optimization for source scan quality", "30ppm duplex, compact ADF hopper", "Cloud service support"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "Highest rating among the OCR-equipped picks, with searchable PDF creation plus conversion to editable Word or Excel files, genuinely useful for turning scanned forms and reports into working documents rather than just searchable images. Auto crop and blank-page removal improve batch OCR consistency.\n\nA genuine 50-sheet ADF at 300 DPI+ archival scanning gives OCR a cleaner source image to work from than a lower-resolution portable scan would.\n\nConverts scans to editable Word/Excel, not just searchable PDF. That said, no specific language pack coverage disclosed. Neither should be a surprise once you know to look for it.",
     specs: ["Searchable PDF OCR, Word/Excel conversion", "50-sheet ADF, duplex", "Auto crop, blank-page removal", "Highest rating among OCR picks"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 442 Amazon ratings",
     reviews: "442 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418QNsyyrDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=workcocoon-20",
     description:
       "A genuine office-class Canon scanner with bundled OCR software, a reasonable alternative to the Epson/ScanSnap picks above if you prefer Canon's imageFORMULA line specifically. Lower review count reflects a more business-focused, less consumer-marketed listing.\n\nLike every pick here, OCR accuracy depends on your scan DPI and source document quality more than the software alone.\n\nWorth calling out specifically: bundled OCR software included. The catch is smaller review count than the Epson/ScanSnap picks.",
     specs: ["Office-class duplex ADF scanner", "Bundled OCR software", "Canon imageFORMULA line", "Business/office-focused design"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,522 Amazon ratings",
     reviews: "6,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=workcocoon-20",
     description:
       "Includes document management and OCR software bundled with the free iPrint&Scan app, a genuine budget-tier OCR option. As a single-sheet-fed compact scanner, OCR accuracy will depend heavily on how carefully you feed and align each page versus an ADF hopper's more consistent handling.\n\nLargest review base among the OCR-included picks in this guide, real-world evidence this budget option performs reasonably.\n\nLargest review base here. Set against that, single-sheet feed means less consistent page alignment than an ADF hopper. Both matter when comparing it to the other picks here.",
     specs: ["Bundled OCR and document management software", "Single-sheet feed, compact", "Largest review base among OCR picks", "Broad OS driver support"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "Converts paper documents into searchable PDFs and other digital formats via built-in software, genuinely useful for a portable scanner that travels between locations. A real 20-sheet ADF hopper gives more consistent page feeding for OCR accuracy than single-sheet-fed alternatives.\n\nExplicit 500 scans/day suggested volume is a useful, rare disclosure, plan realistic OCR batch sizes around that rather than assuming unlimited throughput.\n\nThe standout detail is that explicit daily volume disclosure. Balancing that out, lower rating than the Epson/ScanSnap OCR picks.",
     specs: ["Built-in OCR-to-searchable-PDF conversion", "20-sheet ADF hopper, duplex", "Explicit 500 scans/day rating", "1.7 lb, portable"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 37 Amazon ratings",
     reviews: "37 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=workcocoon-20",
     description:
       "Scans to cloud services directly with bundled OCR software, a genuinely modern office scanner option. Its small review count reflects a newer, lower-volume listing, weigh that against the genuine cloud-plus-OCR combination.\n\nDuplex scanning and easy setup round out a reasonable office-class alternative if you want cloud connectivity alongside OCR specifically.\n\nDuplex scanning. That's a real strength, but weigh it against the flip side: smallest review count in this guide.",
     specs: ["Duplex scanning, scans to cloud services", "Bundled OCR software", "Easy setup, wide document variety support", "Office-class design"],

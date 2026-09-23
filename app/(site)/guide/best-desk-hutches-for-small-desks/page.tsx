@@ -645,7 +645,7 @@ export default async function BestDeskHutchesSmallDesksPage() {
             Filter by width, shelf count, and finish. All Prime-eligible options.
           </p>
           <a
-            href="https://www.amazon.com/s?k=desk+hutch+small+desk&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=desk+hutch+small+desk&tag=workcocoon-20"
             target="_blank"
             rel="noopener noreferrer sponsored"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

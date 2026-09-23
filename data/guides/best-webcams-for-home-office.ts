@@ -46,7 +46,7 @@ export const products: HomeOfficeWebcam[] = [
     privacyCover: true,
     usbType: "USB-A",
     imageUrl: `${BASE}/01-microsoft-lifecam-cinema.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B004ABQAFO?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004ABQAFO?tag=workcocoon-20",
     whyItWorks:
       "One of the only sub-$40 webcams with genuine Microsoft Teams certification; tested with Teams at driver level, not just plug it in and hope; 720p HD output with TrueColor technology handles most conference room lighting conditions well; built-in noise-cancelling microphone noticeably cleaner than laptop mic; for daily Zoom standups and Teams reviews, this camera does the job without waste.",
     tradeoffs: [
@@ -84,7 +84,7 @@ export const products: HomeOfficeWebcam[] = [
     privacyCover: true,
     usbType: "USB-A",
     imageUrl: `${BASE}/02-anker-powerconf-c200-2k.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09MFMTMPD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MFMTMPD?tag=workcocoon-20",
     whyItWorks:
       "Quietest upgrade on the list; shoots 2K (1440p) which helps when platform auto-scales down; three adjustable field-of-view options (65, 78, or 95 degrees) set through Anker software let you dial in exact frame without repositioning; dual AI noise-cancelling microphones perform well in open-plan spaces; built-in privacy cover slides flush when closed.",
     tradeoffs: [
@@ -120,7 +120,7 @@ export const products: HomeOfficeWebcam[] = [
     privacyCover: true,
     usbType: "USB-A",
     imageUrl: `${BASE}/03-logitech-c920s-hd-pro.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07K986YLL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07K986YLL?tag=workcocoon-20",
     whyItWorks:
       "The default answer for what webcam should I get for years; full 1080p at 30fps; dual omni-directional microphones handle echo surprisingly well; universal clip fits any monitor; privacy shutter added to original C920 design; glass lens produces noticeably better low-light performance than plastic-lens competitors at same price; simply works.",
     tradeoffs: [
@@ -159,7 +159,7 @@ export const products: HomeOfficeWebcam[] = [
     privacyCover: true,
     usbType: "USB-C",
     imageUrl: `${BASE}/04-logitech-brio-300.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BS6B8NNT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BS6B8NNT?tag=workcocoon-20",
     whyItWorks:
       "Only sub-$100 camera on this list certified for all three major platforms: Teams, Zoom, and Google Meet; for Mac users the USB-C connection uses the same cable as a MacBook charger; noise-reduction microphone tuned for voice clarity in home offices; auto light correction handles window-backlight problem better than C920S in side-by-side testing.",
     tradeoffs: [
@@ -195,7 +195,7 @@ export const products: HomeOfficeWebcam[] = [
     privacyCover: true,
     usbType: "USB-A",
     imageUrl: `${BASE}/05-obsbot-meet-se.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DS2G5DWV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DS2G5DWV?tag=workcocoon-20",
     whyItWorks:
       "Built for people who do not sit perfectly still; 1080p at up to 100fps makes gesture demonstrations and whiteboard sessions visibly smoother for viewers; AI auto-framing tracks single person or automatically switches to group mode when others enter frame; 1/2.8-inch sensor with staggered HDR handles mixed indoor lighting better than any other camera at this price; gesture control lets you trigger framing or zoom without touching the camera.",
     tradeoffs: [
@@ -231,7 +231,7 @@ export const products: HomeOfficeWebcam[] = [
     privacyCover: true,
     usbType: "USB-A",
     imageUrl: `${BASE}/06-anker-powerconf-c300.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08RNHCZ3K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08RNHCZ3K?tag=workcocoon-20",
     whyItWorks:
       "Most polished mid-range option; AI-powered framing, 1080p at 60fps, Zoom certification, noise-cancelling microphones, adjustable field of view in single package; HDR mode is one of the better implementations at this price tier, recovering detail in both shadowed faces and bright window backgrounds; build quality feels closer to $200 product than $130 one.",
     tradeoffs: [
@@ -268,7 +268,7 @@ export const products: HomeOfficeWebcam[] = [
     privacyCover: true,
     usbType: "USB-C",
     imageUrl: `${BASE}/07-insta360-link-2c.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DDTGY8FG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DDTGY8FG?tag=workcocoon-20",
     whyItWorks:
       "Pick for people whose webcam does double duty: meetings during day, content creation or streaming in evening; 4K output on 1/2-inch sensor produces noticeably more cinematic quality than anything else on this list when recording locally; AI tracking, gesture control, HDR, and AI noise-cancelling microphones are all standard; certified for Teams, Zoom, and Google Meet; sits magnetically on monitor without clip; motorized gimbal rotates to follow you.",
     tradeoffs: [

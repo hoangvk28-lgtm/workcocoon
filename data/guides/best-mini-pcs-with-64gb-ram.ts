@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/312DTHCV2TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DWSLBS9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWSLBS9B?tag=workcocoon-20",
     description: "A genuine 64GB DDR5 RAM configuration paired with an 8-core, 16-thread Ryzen 7 H255 processor, appropriate for buyers running virtualization, multiple VMs, or heavy professional multitasking.\n\nIt earns the top spot in this comparison for one main reason. Genuine 64GB DDR5 RAM for demanding virtualization and multitasking.\n\nWorth knowing before you decide: 8-core, 16-thread processor matches the RAM tier's professional use case. On the other side, Verify sustained-load thermal performance for continuous demanding workloads. That's the main tradeoff to weigh against everything above.",
     specs: ["AMD Ryzen 7 H255, 8C/16T","64GB DDR5 RAM","1TB SSD","Premium price point"],
     pros: ["Genuine 64GB DDR5 RAM for demanding virtualization and multitasking","8-core, 16-thread processor matches the RAM tier's professional use case","Fast DDR5 RAM speed for responsive performance","The only verified 64GB configuration in this research"],

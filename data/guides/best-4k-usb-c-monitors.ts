@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41f7dOeOBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=workcocoon-20",
     description:
       "A genuine 3840x2160 4K IPS panel at a highly competitive price, appropriate for buyers wanting true 4K resolution without paying professional-monitor prices.\n\nVerify your laptop's USB-C port supports DisplayPort 1.4 or newer before assuming full 4K at 60Hz over the single cable.\n\nHDR support for richer contrast. That's a real strength, but weigh it against the flip side: verify your laptop's USB-C port supports DisplayPort 1.4 or newer for full 4K at 60Hz.",
     specs: ["27-inch true 4K (3840x2160) IPS panel", "HDR support", "USB-C single-cable connectivity", "Highly competitive price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51BiaZGDKRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQPSX5CR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQPSX5CR?tag=workcocoon-20",
     description:
       "A true 4K UHD ProArt panel with explicit Mac compatibility focus and professional color calibration, appropriate for buyers doing color-sensitive creative work.\n\nThe premium price reflects genuine professional-grade calibration alongside 4K resolution and HDR, worth it specifically for color-critical work.\n\nProArt color accuracy for professional color work. On the other hand, highest price in this guide by a significant margin. Both are worth keeping in mind before deciding.",
     specs: ["27-inch true 4K UHD IPS panel", "HDR support", "ProArt color accuracy calibration", "USB-C, Mac-focused"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=workcocoon-20",
     description:
       "A genuinely high 120Hz refresh rate at true 4K resolution, appropriate for buyers wanting both sharp detail and smooth motion, whether for creative work or casual gaming.\n\nThis combination puts real demands on your laptop's port bandwidth, verify DisplayPort 1.4 or newer support before assuming full 4K at 120Hz.\n\nA genuine advantage here is that 99% sRGB coverage for strong color accuracy. The tradeoff is that verify your laptop's port bandwidth supports full 4K at 120Hz, not just 60Hz.",
     specs: ["27-inch true 4K UHD IPS panel", "120Hz refresh rate", "99% sRGB color coverage", "FreeSync Premium"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51jrQ-g06ZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4DCTPDL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4DCTPDL?tag=workcocoon-20",
     description:
       "A rare combination of true 4K resolution, touchscreen input, and a genuinely portable 15.6-inch size, appropriate for buyers wanting high-resolution detail on the go.\n\n125% sRGB coverage exceeds standard color gamut, a genuine bonus for creative work while traveling.\n\n125% sRGB coverage exceeds standard color gamut. That said, 4K at 15.6 inches requires significant display scaling for readable text. Neither should be a surprise once you know to look for it.",
     specs: ["15.6-inch true 4K portable panel", "Touchscreen input", "125% sRGB color coverage", "USB-C connectivity"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41grMODJbhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FR2222FL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FR2222FL?tag=workcocoon-20",
     description:
       "A portable true 4K panel with an exceptionally wide 145% sRGB color coverage, appropriate for buyers wanting vivid color alongside sharp resolution while traveling.\n\nIntegrated speakers avoid needing separate travel audio equipment, a genuine convenience for portable creative or media use.\n\nWorth calling out specifically: exceptionally wide 145% sRGB color coverage. The catch is 4K at 15.6 inches requires significant display scaling for readable text.",
     specs: ["15.6-inch true 4K UHD portable panel", "60Hz refresh rate", "145% sRGB color coverage", "Integrated speakers"],

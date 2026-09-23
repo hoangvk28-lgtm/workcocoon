@@ -636,7 +636,7 @@ export default async function BestClampOnDeskDrawersPage() {
             available.
           </p>
           <a
-            href="https://www.amazon.com/s?k=clamp+on+desk+drawer+no+drill&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=clamp+on+desk+drawer+no+drill&tag=workcocoon-20"
             target="_blank"
             rel="noopener noreferrer sponsored"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

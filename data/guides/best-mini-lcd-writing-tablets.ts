@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41sZmZ8Lh2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DMD367HJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DMD367HJ?tag=workcocoon-20",
     description: "The only product in this research explicitly branded 'mini' with a genuinely pocketable 6.5 inch screen, small enough to carry to a meeting or slip into a bag without feeling bulky.\n\nIt earns the top spot in this comparison for one main reason. Only genuinely mini-branded option under 7 inches.\n\nWorth knowing before you decide: Hall switch for durable frequent use. On the other side, Very small niche means limited alternative choices. That's the main tradeoff to weigh against everything above.",
     specs: ["6.5 inch mini screen","Hall switch mechanism","Cover case included","Genuinely pocketable size"],
     pros: ["Only genuinely mini-branded option under 7 inches","Hall switch for durable frequent use","Cover case protects the screen while traveling","Budget-friendly price"],

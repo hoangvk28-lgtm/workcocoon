@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 2,617 Amazon ratings",
     reviews: "2,617 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31uhG0Am6qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B082FNNX49?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B082FNNX49?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, VIVO's swivel-and-lock mechanism is a genuinely distinct clamp-based approach with a secure locking feature rather than friction alone holding the tower in place, addressing the long-term holding reliability concern directly.\\n\\nThe adjustable 3.5-7.8 inch width range covers most mid-tower cases without needing a separate bracket purchase, and the swivel function lets you rotate the case out for cable access without fully detaching the mount, a genuine convenience most single-position clamps lack.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the VIVO Under before deciding.\n\nWorth knowing before you decide: Secure locking mechanism beyond simple friction-fit. On the other side, Clamp mechanism still requires a desk edge or surface with adequate clamping depth. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Swivel-and-lock clamp mechanism","Fits 3.5-7.8 inch wide towers","No drilling required, clamp-based mounting","Massive review base"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 551 Amazon ratings",
     reviews: "551 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418wmGky6tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B078JXC9X8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B078JXC9X8?tag=workcocoon-20",
     description:
       "A genuinely distinct alternative mechanism, an adjustable strap combined with a steel bracket carrier, cradling the tower's weight rather than clamping onto its sides, a real structural difference from the swivel-clamp top pick worth understanding before buying.\\n\\nThis strap-and-bracket approach distributes weight differently than a side-clamp design, appropriate for a lighter or more irregularly shaped tower where a side clamp might not seat evenly, though verify the steel bracket's own mounting method still avoids drilling into your specific desk.\n\nSet against the VIVO Adjustable Under Desk and Wall Mount for PC 3.5, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Lowest price in this guide. On the other side, Strap mechanism may need periodic tightness checks over time for sustained holding reliability. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Strap-and-steel-bracket mechanism","Distinct from side-clamp designs","Lowest price in this guide","Solid review base"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 46 Amazon ratings",
     reviews: "46 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+gGe7234L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVD4QZ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVD4QZ6?tag=workcocoon-20",
     description:
       "A genuine 66-pound maximum weight rating, meaningfully higher than most compact clamp designs, appropriate for a heavier full-tower PC case where long-term holding reliability under sustained weight is the primary concern rather than convenience alone.\\n\\nThe fits range of 16.1 to 25.6 inches targets taller full-tower cases specifically rather than compact or mid-tower builds, verify your case height falls within this range before assuming universal compatibility.\n\nRelative to the VIVO Under, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Explicitly disclosed weight rating, not a vague claim. On the other side, Smaller review base than the top picks in this guide. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Max 66lbs weight capacity","Fits 16.1-25.6 inch tall cases","No drilling required","Higher price for higher capacity"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 80 Amazon ratings",
     reviews: "80 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415erSK8FIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWCHJBFN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWCHJBFN?tag=workcocoon-20",
     description:
       "A disclosed 50-pound capacity at a mid-range price, appropriate for most standard mid-tower cases without the premium cost of the highest-capacity picks in this guide.\\n\\nThe lower average rating here relative to the top picks is worth weighing against the smaller review sample, this suggests genuine renter-friendliness benefit should be verified through current reviews before assuming it matches the top picks' proven reliability.\n\nCompared with the monTEK Under Desk PC Mount above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Reasonable price for the stated capacity. On the other side, Lower average rating than the top picks in this guide. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["50lb weight capacity","No drilling required","Mid-range price","Standard mid-tower compatibility"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28 Amazon ratings",
     reviews: "28 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41n5BLsmv7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLYK9NPM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLYK9NPM?tag=workcocoon-20",
     description:
       "The highest average rating among the no-screw picks in this guide, explicitly marketed for standing desk compatibility, a genuine consideration if your desk changes height and the mount needs to move with it reliably.\\n\\nStanding desk use adds a real stress factor screw-free mounts don't always account for, repeated height changes mean the mount experiences more movement-related strain over time than a fixed-height desk mount would.\n\nSet against the TOPSKY Under Desk PC Mount No Drill CPU Holder 50 lb Capacity, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Explicitly designed for standing desk height changes. On the other side, Smaller review base limits confidence in long-term standing-desk-cycle durability. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["No-drill design for standing desks","Highest rating among no-screw picks","Compact footprint","Solid value"],

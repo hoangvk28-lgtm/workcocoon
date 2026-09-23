@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41+ONy0DNTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MA3EYC5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MA3EYC5?tag=workcocoon-20",
     description:
       "This is a general-purpose direct thermal shipping label printer, not a device marketed for Cricut or color sticker crafting, but its commercial-grade feed mechanism handles thicker die-cut sticker stock more reliably than the lighter budget picks in this list. It prints black only, at a consistent 4x6 format, useful for plain address-style or organizational stickers.\n\nFor Cricut users, the practical role this plays is printing a plain black outline or barcode-style label that Cricut then cuts around, not a full-color printed image. If your project needs color, pair a separate inkjet printer with sticker paper and use this only for the label-style side of your workflow.\n\nWorth calling out specifically: wired connection avoids Bluetooth drops during batch printing. The catch is black print only, not for full-color stickers.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41ffs1HVVlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP7STCSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP7STCSP?tag=workcocoon-20",
     description:
       "A budget Bluetooth direct thermal printer, again a general shipping label device rather than a Cricut-specific product, included here because crafters do use it for plain black stickers and organizational labels. It prints black only on 4x6 thermal stock, with no color option.\n\nBecause it isn't built with Cricut's registration mark accuracy in mind, alignment for print-then-cut projects hasn't been verified for this model, and we're not claiming it as a tested Cricut companion. It's best suited to simple text or barcode stickers rather than any color craft project.\n\nPrint directly from a phone via Bluetooth. Set against that, black print only, no color capability. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41-iYNm+qrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXXPHZLR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXXPHZLR?tag=workcocoon-20",
     description:
       "Functionally the same black-only Bluetooth thermal printer as the MUNBYN pick above, listed separately here as a distinct Amazon listing that may carry a different bundle or color option at the same price. It shares the same general-purpose shipping label design rather than any Cricut-specific marketing.\n\nAs with the other MUNBYN pick, it's suited to plain black sticker or label printing, not full-color craft stickers, and its print-then-cut registration accuracy for Cricut hasn't been independently verified.\n\nA genuine advantage here is that print directly from a phone. The tradeoff is black print only, no color capability.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51ZuCzq4JxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BTYD7H28?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BTYD7H28?tag=workcocoon-20",
     description:
       "The Phomemo 241BT is a Bluetooth direct thermal printer that Phomemo sells alongside colored thermal label stock, like pink labels, which lets crafters get a colored background on a sticker without color printing capability in the printer itself. The print itself is still black only.\n\nThis is a genuine but limited way to add visual variety to plain thermal stickers: pre-colored label paper plus black thermal print, not a full-color printed design. It's not marketed for Cricut and its print-then-cut registration accuracy isn't verified, but it's a reasonable pick for crafters who want colored backgrounds without buying a separate inkjet.\n\nBudget-friendly price. On the other hand, still black print only, no color image printing. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41WyIBuh94L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07S48NHYS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07S48NHYS?tag=workcocoon-20",
     description:
       "This dual Bluetooth and USB thermal printer is, like every other pick here, a general shipping label device rather than a Cricut or craft-marketed product. The wired USB option is genuinely useful for crafters batch-printing a large run of identical black stickers or labels in one sitting.\n\nBlack print only, no color, and registration mark accuracy for Cricut print-then-cut hasn't been verified for this model. It's a solid choice for crafters focused on volume and reliability over color capability.\n\nBluetooth available for quick phone printing. That's a real strength, but weigh it against the flip side: black print only, no color capability.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41tyWqsOuBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXP3WZZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXP3WZZC?tag=workcocoon-20",
     description:
       "The 941BP's stated 300 DPI resolution is higher than the typical 203 DPI on budget thermal printers, which matters for crafters printing fine black text, small barcodes, or detailed line-art outlines on stickers, since higher DPI renders crisper thin lines. It's still a general shipping label printer, not built or marketed for Cricut.\n\nBlack print only remains the limit here, and like the rest of this list, print-then-cut registration accuracy for Cricut specifically hasn't been independently verified. The resolution bump is genuinely useful for detailed black outline stickers, just not for color artwork.\n\nWorth calling out specifically: good for detailed outline or barcode stickers. The catch is black print only, no color capability.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Nz-C1elSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FR97FJD8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FR97FJD8?tag=workcocoon-20",
     description:
       "The lowest price in this list, a Bluetooth direct thermal printer that Rongta markets with sticker label maker language, though it remains functionally the same black-only shipping label printer as the rest of this roundup. It's a reasonable low-risk way to try thermal sticker printing without a big upfront commitment.\n\nExpect black print only and unverified Cricut print-then-cut registration accuracy, consistent with every pick in this guide. At this price, it's best suited to casual crafters testing whether thermal stickers fit their workflow before investing more.\n\nLow-risk way to try thermal sticker printing. Set against that, black print only, no color capability. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rJGsAElGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FSKN56ZN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FSKN56ZN?tag=workcocoon-20",
     description:
       "A second Rongta listing at the same ultra-budget price, functionally the same black-only Bluetooth direct thermal printer as the Rongta pick above, likely differing in color or bundle contents. It's included as a second option to compare availability and included accessories.\n\nSame limitations apply: black print only, general shipping label design rather than a Cricut-marketed product, and unverified registration accuracy for print-then-cut projects.\n\nA genuine advantage here is that low-risk way to try thermal sticker printing. The tradeoff is black print only, no color capability.",
     specs: [

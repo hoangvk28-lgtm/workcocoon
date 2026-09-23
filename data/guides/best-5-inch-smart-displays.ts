@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31qOIWagKNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09B2SBHQK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09B2SBHQK?tag=workcocoon-20",
     description: "At roughly 5.5 inches this is the genuinely smallest and most desk-appropriate Echo Show in this guide, small enough to sit beside a keyboard without blocking a monitor. It carries a basic camera suitable for casual video calls, plus improved bass and clearer sound over earlier Show 5 generations.\n\nIts small screen limits how much information fits at a glance compared to the 10 or 15 inch models, so treat it as a bedside or compact desk clock-and-notifications display rather than a full home organization hub. The low price makes it an easy add-on even for a secondary desk.\n\nWorth calling out specifically: lowest price among the Echo Show models here. The catch is small screen limits at-a-glance information.",
     specs: ["Approximately 5.5 inch display", "Basic camera for video calls", "Improved bass and sound over earlier generations", "Designed for Alexa+"],
     pros: ["Genuinely compact, fits beside a keyboard without blocking a monitor", "Lowest price among the Echo Show models here", "Camera included for casual video calls", "Improved audio over earlier Show 5 versions"],

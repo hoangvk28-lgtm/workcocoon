@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/410Ppc6zuZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D4K6VT83?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D4K6VT83?tag=workcocoon-20",
     description:
       "This is a large (L) size enclosed pod from a generic, private-label manufacturer, marketed for privacy and productivity rather than a specific occupancy count or use case. Amazon's listing does not include a star rating or review count, so there is no independent buyer feedback to weigh against the marketing copy.\n\nThe listing does not disclose ventilation specs, STC or NRC sound ratings, or interior versus exterior dimensions, gaps that are common across this category and worth asking the seller about directly before ordering. As with any large enclosed structure, plan for freight delivery and multi-person assembly.\n\nStraightforward, single-purpose enclosed privacy design. On the other hand, no star rating or review count available from Amazon. Neither should be a surprise once you know to look for it.",
     specs: ["Large (L) size enclosed pod", "Marketed for privacy and productivity", "Generic/private-label manufacturer", "No published exterior dimension breakdown"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31pJxaKyuAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F3W1S3ST?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F3W1S3ST?tag=workcocoon-20",
     description:
       "A single-person soundproof pod booth with acoustic panels, sized for one occupant at H92in W43in D40in exterior dimensions. Amazon's listing does not include a star rating or review count, so buyers are working from the manufacturer's own description rather than verified feedback.\n\nSince acoustic-insulating wall thickness eats into interior space, the usable footprint inside will be meaningfully smaller than the 43in by 40in exterior dimensions suggest, plan a physical mockup or ask the seller for interior clearances before ordering. No formal STC or NRC test data is disclosed for the acoustic claim.\n\nAcoustic panel construction for a single-occupant workspace. That's a real strength, but weigh it against the flip side: no star rating or review count available from Amazon.",
     specs: ["Single-person workspace", "Exterior dimensions H92in W43in D40in", "Acoustic panel interior", "Generic/private-label manufacturer"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41tY3PYt8NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5C1H18W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5C1H18W?tag=workcocoon-20",
     description:
       "This is the one product in the verified pool whose title explicitly claims indoor and outdoor use, marketed as a luxury acoustic pod for meetings and multipurpose home office work. Amazon's listing does not include a star rating or review count.\n\nAn outdoor use claim in a title is not the same as a documented weatherproof rating, before installing outdoors confirm with the seller directly what weatherproofing standard, if any, the pod meets, how its electrical components are protected from moisture, and whether a foundation or anchoring system is included, since none of that is specified in the listing.\n\nWorth calling out specifically: multipurpose framing suits both meetings and general home office work. The catch is no star rating or review count available from Amazon.",
     specs: ["Marketed for indoor and outdoor use", "Multipurpose meeting/home office framing", "Acoustic (\"silence booth\") design", "Generic/private-label manufacturer"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41DQC0oZUHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSBLCYZX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSBLCYZX?tag=workcocoon-20",
     description:
       "A solo, single-occupant pod on wheels and feet, with a built-in table, LED lighting, and USB ports, positioned as the most mobile option in this pool. Its listing is one of the few in this category that mentions ventilation at all, describing it as \"Silent Ventilation,\" though no airflow rate, CFM figure, or independent test data backs that claim.\n\nAmazon's listing does not include a star rating or review count. The wheels make repositioning within a room realistic, but this is still a heavy, large structure that needs freight delivery and real floor-loading consideration, wheels do not substitute for verifying weight limits on an upper-floor apartment or shared office.\n\nBuilt-in table, LED lighting, and USB ports included. Set against that, no star rating or review count available from Amazon. Both matter when comparing it to the other picks here.",
     specs: ["Solo (single-occupant) pod", "Wheels and feet for repositioning", "Built-in table, LED lighting, USB ports", "Listing states \"Silent Ventilation\" as a feature"],

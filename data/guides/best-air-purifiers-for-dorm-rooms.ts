@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ODC2Uu41L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=workcocoon-20",
     description:
       "Explicitly marketed for dorm room use with a large review base, genuinely compact for shared, space-constrained living. Affordable price.\n\nVerify your specific university's fire-safety or electrical wattage policy for personal appliances before assuming this or any purifier is automatically permitted.\n\nWorth calling out specifically: large, well-established review base. The catch is verify your school's specific appliance policy.",
     specs: ["Dorm-room marketed", "Large review base", "Affordable", "Compact design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31e6d46ZnyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=workcocoon-20",
     description:
       "A large review base for a quiet-focused design, genuinely useful for a shared two-person dorm room where roommate noise tolerance overnight matters as much as air cleaning. Affordable.\n\nRoommate noise tolerance and shared-space etiquette introduce a joint-decision noise threshold, discuss this with your roommate before committing to running it overnight.\n\nQuiet-focused design for shared roommate situations. Set against that, verify your school's specific appliance policy. Both matter when comparing it to the other picks here.",
     specs: ["Small, quiet-focused design", "Large review base", "Affordable", "Compact footprint"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,517 Amazon ratings",
     reviews: "5,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414NIpA+xLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=workcocoon-20",
     description:
       "Certified True HEPA H13 filtration with a night light feature, genuinely useful for a dorm room where a nightlight can be practical for a shared space. Solid review base.\n\nNo ionizer feature confirmed, a genuine plus given the elevated ozone-risk consideration in a small, poorly ventilated, overnight-occupied dorm room specifically.\n\nThe standout detail is that night light feature useful for a shared dorm room. Balancing that out, lower rating than the top picks.",
     specs: ["True HEPA H13 filter", "Night light feature", "Portable, small design", "Solid review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 4,026 Amazon ratings",
     reviews: "4,026 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41BE3lVftQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide with a solid review base, genuinely oversized capacity for a small dorm room's actual furniture-crowded, shared-occupancy conditions.\n\nDorm room move-in and move-out logistics mean limited storage over summer break, verify this unit's storage footprint fits your realistic summer-storage situation.\n\nSolid review base. That's a real strength, but weigh it against the flip side: verify storage footprint for summer break.",
     specs: ["Up to 1076 sq ft rated", "Solid review base", "Most affordable in this guide", "High efficiency filter"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,997 Amazon ratings",
     reviews: "2,997 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Apo3YcVHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=workcocoon-20",
     description:
       "A solid review base at an affordable price, compact enough to be genuinely storage-friendly during dorm move-out over summer break. \n\nDorm rooms compete for outlet access with a mini-fridge and microwave, verify your room's realistic outlet availability before committing to running this alongside other shared appliances.\n\nAffordable price. On the other hand, verify your school's specific appliance policy. Both are worth keeping in mind before deciding.",
     specs: ["Up to 880 sq ft rated", "Solid review base", "Affordable", "Compact design"],

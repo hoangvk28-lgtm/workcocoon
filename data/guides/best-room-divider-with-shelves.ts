@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "7,547",
     imageUrl: "https://m.media-amazon.com/images/I/416nixYaeVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07PNFY7Q1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07PNFY7Q1?tag=workcocoon-20",
     description:
       "The VASAGLE CUSTOS is explicitly marketed as a room divider rather than a bookshelf pressed into double duty, and with over 7,500 ratings it's the best-selling pick in this list by a wide margin. Its open, five-tier frame lets light and conversation pass through while still visually breaking up a shared living space.\n\nEach shelf handles 33 lbs for a 165 lb total on a particleboard frame, and it ships with an anti-tip kit plus screw caps for a clean finish, a genuinely useful detail on a piece meant to stand in the open rather than against a wall.\n\nExplicitly designed and marketed as a room divider. That's a real strength, but weigh it against the flip side: not finished distinctly on both sides like a purpose-built divider.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "709",
     imageUrl: "https://m.media-amazon.com/images/I/41tIPFRL6WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=workcocoon-20",
     description:
       "Furologee's sculptural S-shaped frame works upright as a room divider, laid horizontally as a wine rack, or repositioned as a TV stand, three placement options in one piece of furniture. That flexibility is a smart hedge if your room layout might change down the line.\n\nP2-grade MDF paired with metal supports a 30 lb per-shelf rating for 180 lbs total, and the whole thing is waterproof despite its artistic, less boxy shape. An anti-tip kit is included even though it doesn't sit flush against a wall.\n\nWorth calling out specifically: most versatile pick with 3 different placement options. The catch is narrower 14.96\" width means less shelf surface per section.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,431",
     imageUrl: "https://m.media-amazon.com/images/I/41jJ8ERvqQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXXG3HVR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXXG3HVR?tag=workcocoon-20",
     description:
       "Gadroad brings the same S-shaped geometric silhouette to a clean white finish, and its 44 lb per-shelf rating is the highest among the S-shaped dividers in this list. That extra capacity matters if you're planning to load it with actual books rather than just decor.\n\nEngineered wood and metal construction backs a 1-year warranty, and the brand backs it with 24/7 customer service, a reassuring detail on a freestanding piece that needs to stay stable without wall support.\n\nCleanest white finish in the S-shaped group. Set against that, pricier than the other S-shaped picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "53",
     imageUrl: "https://m.media-amazon.com/images/I/512GcnTIgpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZNVB9M5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZNVB9M5?tag=workcocoon-20",
     description:
       "SILKYDRY stretches the S-shaped format to 75 inches tall, the tallest S-shaped divider in this list, with a 264 lb total capacity that's the highest of any pick here. E0-grade particle board keeps formaldehyde emissions low, a detail worth noting on a piece that stands out in the open air of a room.\n\nTwo separate anti-tip kits are included given the extra height, and the combination of tall stature and high capacity makes it the pick for rooms with a real book or decor collection to display.\n\nA genuine advantage here is that tallest S-shaped pick at 75 inches. The tradeoff is highest price among the S-shaped picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "690",
     imageUrl: "https://m.media-amazon.com/images/I/51Y38skThjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GHYC7DJ1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GHYC7DJ1?tag=workcocoon-20",
     description:
       "JOSTYLE is the only pick in this list that's a genuine folding privacy screen with a built-in shelf board, rather than a bookcase pressed into divider duty. Six bamboo panels span 96 inches wide when unfolded, double-hinged so it can bend into an L, Z, or straight line depending on your room.\n\nAt just 31.9 lbs it's the lightest divider here and needs no assembly, so it's the easiest to reposition or fold flat and store away entirely if you only need the division occasionally.\n\nLightest divider in this list at 31.9 lbs. That's a real strength, but weigh it against the flip side: shelf board offers far less storage than a bookcase-style divider.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "26",
     imageUrl: "https://m.media-amazon.com/images/I/41qbQhDCFqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F7QRR3GS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F7QRR3GS?tag=workcocoon-20",
     description:
       "Tangkula packs 11 individual shelf openings into a staggered layout, the most of any pick in this list, giving you the most distinct spots to organize books, bins, or decor by category. The staggered design also breaks up the visual mass of the piece compared to uniform straight shelving.\n\nTwo anti-toppling devices are included, and \"Room Divider\" appears directly in the product's own title, a signal the manufacturer designed it with this exact use case in mind rather than as a repurposed bookshelf.\n\nWorth calling out specifically: staggered layout adds visual interest. The catch is smallest review sample in this list at 26 ratings.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "99",
     imageUrl: "https://m.media-amazon.com/images/I/5184VaeWD5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FN7NM7J6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FN7NM7J6?tag=workcocoon-20",
     description:
       "At 83.7 inches, the FACBOTALL is the tallest divider in this entire list, built for rooms with genuinely high ceilings where a standard 6-foot bookcase would look undersized as a room split. Fourteen open shelves at 55 lbs each add up to a 770 lb total capacity, also the highest here by a wide margin.\n\n15mm boards are the thickest in this list, and 3 separate anti-tip systems reflect just how much engineering goes into keeping an 83.7-inch freestanding piece from tipping. This is the pick for a loft, an open-concept great room, or any space where a shorter divider would get visually lost.\n\nHighest total capacity at 770 lbs. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
     specs: [

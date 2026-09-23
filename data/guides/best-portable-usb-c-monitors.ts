@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CH9XW8RK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CH9XW8RK?tag=workcocoon-20",
     description:
       "An ultra-slim 15.6-inch panel with a built-in kickstand, explicit multi-device compatibility across PC, Mac, phone, Xbox, and PS5 gives real setup flexibility for portable use.\n\nSingle-cable USB-C connectivity draws power through your laptop by default, verify your laptop's battery capacity if you plan extended off-outlet use.\n\nExplicit multi-device compatibility including consoles. On the other hand, uSB-C power draw comes from your laptop by default. Both are worth keeping in mind before deciding.",
     specs: ["15.6-inch FHD IPS panel", "Built-in kickstand", "USB-C and HDMI connectivity", "Multi-device compatibility"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09K3FWMPL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09K3FWMPL?tag=workcocoon-20",
     description:
       "Includes a protective sleeve for travel, a genuinely practical inclusion most competitors charge extra for or omit entirely.\n\nThe built-in 90-degree adjustable stand gives real viewing angle flexibility without needing to carry a separate accessory.\n\nA genuine advantage here is that built-in adjustable stand avoids extra accessories. The tradeoff is that uSB-C power draw comes from your laptop by default.",
     specs: ["15.6-inch 1080P panel", "Included protective sleeve", "Built-in 90° adjustable stand", "Budget-friendly price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZLY26FW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZLY26FW?tag=workcocoon-20",
     description:
       "Integrated speakers avoid needing separate audio equipment while traveling, a genuine convenience for video calls or media playback away from your desk setup.\n\n85% sRGB coverage gives reasonably accurate color for casual creative work on the go.\n\n85% sRGB coverage for reasonably accurate color. That said, uSB-C power draw comes from your laptop by default. Neither should be a surprise once you know to look for it.",
     specs: ["15.6-inch FHD 1080P panel", "60Hz refresh rate", "85% sRGB color coverage", "Integrated speakers"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP7XRW9S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP7XRW9S?tag=workcocoon-20",
     description:
       "A straightforward, budget-friendly 15.6-inch portable monitor with single-cable USB-C connectivity, appropriate for buyers wanting a no-frills reliable second screen for travel.\n\nCheck current reviews for reports on build quality and brightness given the lower price point relative to feature-rich alternatives.\n\nWorth calling out specifically: compact, genuinely portable build. The catch is fewer extra features than pricier alternatives.",
     specs: ["15.6-inch panel", "USB-C connectivity", "Budget-friendly price", "Compact, portable build"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9NNWXVP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9NNWXVP?tag=workcocoon-20",
     description:
       "The most budget-friendly option in this guide, HDR support and IPS panel technology give reasonably good picture quality despite the low price point.\n\nAppropriate for buyers testing whether a portable monitor fits their workflow before investing in a pricier option.\n\nHDR support and IPS panel for reasonable picture quality. Set against that, lower rating than other picks in this guide, verify current reviews. Both matter when comparing it to the other picks here.",
     specs: ["15.6-inch FHD IPS panel", "HDR support", "USB-C and HDMI connectivity", "Lowest price in this guide"],

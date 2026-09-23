@@ -44,7 +44,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$66",
     priceRange: "~$66",
     imageUrl: "https://m.media-amazon.com/images/I/51+tTeG3TBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0716PR3MJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0716PR3MJ?tag=workcocoon-20",
     whyItWins: "The Unitek 120W 10-Port is built for one specific job: charging 10 tablets or iPads simultaneously from a single unit. Based on the listed specs, each of the 10 USB-C ports draws from a shared 120W pool, which is enough to keep a full set of tablets topped up overnight or during a shared workday without individually managing 10 separate wall adapters.",
     bodyParagraphs: [
       "For a desk that serves as a charging hub for a classroom cart, a shared household of tablets, or a small office's loaner devices, the 10-port layout removes the need to rotate devices through fewer outlets. The tradeoff is per-port speed: 120W split across 10 active ports averages out to roughly 12W per device, which charges tablets and phones at a normal pace but is not a fast-charge solution for any single device.",
@@ -81,7 +81,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$50",
     priceRange: "~$50",
     imageUrl: "https://m.media-amazon.com/images/I/51Ipg4vQP4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FJXP3FSG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FJXP3FSG?tag=workcocoon-20",
     whyItWins: "The Rocoren 400W is the highest-wattage multi-device station in this guide, built around a 10-port layout with dual 100W PD USB-C ports for laptops alongside standard ports for phones and accessories. It ships with 6 cables and a physical organizer tray, which addresses the cable-clutter problem that most high-port-count chargers leave unsolved.",
     bodyParagraphs: [
       "The included organizer tray keeps devices upright and cables sorted while charging, which matters more on a desk with 6+ devices than the wattage figure alone. Dual 100W PD ports mean two laptops can charge at meaningful speed simultaneously, a capability most sub-$60 multi-device stations do not offer.",
@@ -118,7 +118,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$60",
     priceRange: "~$60",
     imageUrl: "https://m.media-amazon.com/images/I/41ntmptIwXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJZXW584?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJZXW584?tag=workcocoon-20",
     whyItWins: "The Meifigno 65W 5-in-1 targets a specific setup: an all-Apple desk with an iPhone, Apple Watch, AirPods, and an iPad or tablet, none of which need a fast laptop-level charge. It combines a 30W wired stand for a tablet with a foldable MagSafe-compatible wireless charger, so the phone and watch charge cable-free while the tablet charges wired.",
     bodyParagraphs: [
       "The foldable design is the practical highlight for small desks: when not charging all five device types at once, the stand collapses flat, unlike rigid multi-device towers that take up the same footprint whether in use or not.",
@@ -156,7 +156,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$70-100",
     priceRange: "~$70--100",
     imageUrl: `${BASE}/01-anker-prime-200w-6-port-gan.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CT2NQ7WG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT2NQ7WG?tag=workcocoon-20",
     whyItWins: "The Anker Prime 200W is the sharpest multi-device charger for desks that need to handle a mix of modern devices without maxing out at six. Four USB-C ports each support up to 100W on their own -- meaning two laptops can charge simultaneously at 65W/65W, or one MacBook Pro gets the full 100W while three other devices fill the remaining 100W.",
     bodyParagraphs: [
       "The power distribution is genuinely smart: plug in a laptop and it gets priority. Add a phone and the charger routes 65W to the laptop and 35W to the phone automatically. No manual port assignment, no guessing which port is fastest.",
@@ -195,7 +195,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$200",
     priceRange: "~$200",
     imageUrl: `${BASE}/02-baseus-nomos-245w-6-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FSKY24RZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FSKY24RZ?tag=workcocoon-20",
     whyItWins: "The Baseus Nomos 245W is the most comprehensive multi-device charging station tested for desks. 245W total output. Two retractable USB-C cables (80 cm, 100W each) eliminate loose desk cables entirely. Two fixed USB-C ports add 140W combined for large-device charging. Two USB-A ports at 18W cover older accessories. A 15W Qi2 wireless pad handles the phone without a cable. An LCD display shows real-time wattage per port.",
     bodyParagraphs: [
       "The retractable cables are the standout feature in a multi-device context: on a desk with six devices charging, four of those cables can be retractable -- the desk stays clean even at full load.",
@@ -236,7 +236,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$28-38",
     priceRange: "~$28--38",
     imageUrl: `${BASE}/03-tessan-130w-8-in-1-gan.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FBW1SPCD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FBW1SPCD?tag=workcocoon-20",
     whyItWins: "The TESSAN 130W 8-in-1 is the best value multi-device charger for households or shared desks in 2026. Three AC outlets handle laptop adapters or desk accessories that don't use USB. Three USB-C ports support up to 100W on the primary port -- enough for a MacBook Air. Two USB-A ports at 30W handle older phones and accessories. 130W total keeps everything moving at useful speeds.",
     bodyParagraphs: [
       "At ~$28--38, it is by far the lowest-priced option in this roundup with GaN technology and AC outlet coverage. The GaN design runs cooler than competing non-GaN hubs at this price, and the compact form factor does not dominate a shared desk surface.",
@@ -275,7 +275,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$40-60",
     priceRange: "~$40--60",
     imageUrl: `${BASE}/04-alxum-120w-10-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B076C67G6V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B076C67G6V?tag=workcocoon-20",
     whyItWins: "For raw port count -- charging 6, 8, or 10 devices simultaneously -- the Alxum 10-Port is the right tool. USB-C Quick Charge and USB-A ports with 120W total output distribute across all 10 ports without one device starving another at standard loads. UL certified for safety, with adjustable device dividers that hold phones and tablets upright on the unit.",
     bodyParagraphs: [
       "The device slot organizer keeps phones and tablets upright while charging -- on a family desk or a shared workspace where multiple people charge different devices, that organization matters as much as the charging speed.",
@@ -314,7 +314,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$25-35",
     priceRange: "~$25--35",
     imageUrl: `${BASE}/05-bototek-60w-6-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B094BZ29DT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B094BZ29DT?tag=workcocoon-20",
     whyItWins: "The Bototek 60W 6-Port delivers what most households actually need -- six simultaneous USB device charges -- at under $30. Vertical design minimizes desk footprint. Intelligent charging chip assigns current per device. Built-in safety features (over-current, over-temperature, short-circuit) keep it safe under full load.",
     bodyParagraphs: [
       "The 60W total is the honest limitation: with 6 devices connected, each gets an average of 10W. Phones charge adequately, but tablets slow significantly and laptops should not be connected. For a desk that charges phones, earbuds, a Kindle, and similar small-draw devices, 60W is sufficient.",
@@ -353,7 +353,7 @@ export const products: MultiDeviceProduct[] = [
     price: "~$60-80",
     priceRange: "~$60--80",
     imageUrl: `${BASE}/06-ugreen-nexode-200w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09MGRNYHH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MGRNYHH?tag=workcocoon-20",
     whyItWins: "When one of your multiple devices is a MacBook Pro -- especially a 14\" or 16\" model -- the charger needs a primary port that delivers serious wattage while still covering everything else. The UGREEN Nexode 200W does this better than the Anker Prime in one specific way: the primary USB-C port delivers 140W via PD 3.1 -- the only standard that fast-charges a 16-inch MacBook Pro at full speed.",
     bodyParagraphs: [
       "Plug in the MacBook on port 1 (140W). iPhone on port 2 (35W). iPad Pro on port 3 (45W). AirPods on USB-A. All four devices charge at meaningful speeds simultaneously within the 200W total budget.",

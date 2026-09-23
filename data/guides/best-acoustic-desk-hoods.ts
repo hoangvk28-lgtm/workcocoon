@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31pH3EPb-mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=workcocoon-20",
     description:
       "This is a flat freestanding panel, not a hood, despite 'HOODANCOS' appearing in the brand name. It sets up beside your desk on its own support feet rather than arching over your workstation.\n\nThe realistic benefit here is reducing echo reaching your own microphone during calls, not blocking outside noise from reaching you the way an enclosed hood structure would.\n\nNo clamping needed, works on any flat desk. That's a real strength, but weigh it against the flip side: not a genuine hood, despite the brand name.",
     specs: ["Flat freestanding panel, not a canopy", "2-pack, 15.74 x 11.81 x 3.93 inches", "No published NRC rating", "No clamp required"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51xJuQn513L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00P1AJ9N8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00P1AJ9N8?tag=workcocoon-20",
     description:
       "A flat, desk-mounted aluminum panel, again not a hood or canopy structure. It attaches to your desk edge and stands upright rather than arching over the workstation.\n\nCheck the mounting hardware against your desk edge thickness before ordering, and treat the acoustic benefit as absorbing some reflected sound near your desk rather than genuine enclosure.\n\nWorth calling out specifically: office-standard aluminum finish. The catch is not a hood, verify mounting hardware fits your desk first.",
     specs: ["12\" x 24\" flat panel", "Almond/aluminum construction", "Desk-mounted, not a canopy", "No published NRC rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31DhuAp0e8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07F7BHWC1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07F7BHWC1?tag=workcocoon-20",
     description:
       "The largest flat panel among these three alternatives at 47.25 by 23.6 inches, clamped to your desk edge. It still does not enclose the desk the way a hood would, it is a wide upright divider, not a canopy.\n\nFor buyers wanting genuine enclosure or isolation rather than a partial-coverage panel, an office pod is the more appropriate category, see our related office pod guides.\n\nSecure clamp-on mount. Set against that, highest price and still not a genuine hood. Both matter when comparing it to the other picks here.",
     specs: ["47.25\" x 23.6\" flat panel", "Clamp-on mounting", "Ash gray finish", "No published NRC rating"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,467 Amazon ratings",
     reviews: "3,467 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rIE-toOYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=workcocoon-20",
     description:
       "Explicitly listed as active-PFC compatible, meaning it's designed to work cleanly with the APFC power supplies found in essentially all modern desktop PCs, avoiding the buzzing and overheating that modified sine wave units can trigger on this exact hardware. Up to 73 minutes of runtime at 100W gives real headroom for a full desktop setup during an outage. At a competitive price, this genuinely commands the 30-50% premium pure sine wave designs typically carry over modified sine wave, worth it specifically because APFC power supplies are now the desktop standard, not a niche case. A genuine advantage here is that strong runtime headroom at 100W load. The tradeoff is that real price premium over modified sine wave models.",
     specs: ["1500VA/900W, pure sine wave", "Active PFC compatible design", "10 outlets, coax/Ethernet surge protection", "Replaceable battery, USB-C/A charging ports"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,579 Amazon ratings",
     reviews: "1,579 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41mMZ5UlDyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0779KYKLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0779KYKLB?tag=workcocoon-20",
     description:
       "A lower-capacity pure sine wave option at a meaningfully lower price than the 1500VA model, a reasonable middle ground if your APFC equipment load is a single PC plus monitor rather than a full multi-device desktop setup.\n\nStill genuinely APFC compatible, so you get the buzzing/shutdown-avoidance benefit without paying for headroom you don't need.\n\nGenuine APFC compatibility at this capacity tier. That said, less headroom than the 1500VA model for larger setups. Neither should be a surprise once you know to look for it.",
     specs: ["1000VA/600W, pure sine wave", "APFC compatible design", "Multiple outlets with surge protection", "Compact tower form factor"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 11,256 Amazon ratings",
     reviews: "11,256 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31DYxDN0bTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N19W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N19W?tag=workcocoon-20",
     description:
       "The largest review base in this guide by a wide margin, real-world evidence this PFC sinewave design holds up. AVR is bundled in, correcting moderate brownouts without draining the battery, a genuine complement to the pure sine wave output for APFC equipment.\n\n12 outlets and UL certification round out a genuinely well-equipped mid-tier pick at a lower price than the top APC option.\n\nWorth calling out specifically: aVR bundled for brownout correction without battery drain. The catch is bulkier mini-tower form factor.",
     specs: ["1500VA/1000W, PFC sinewave", "AVR included", "12 outlets, UL certified", "Mini tower form factor"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 2,382 Amazon ratings",
     reviews: "2,382 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nDi+6Lz+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N192?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N192?tag=workcocoon-20",
     description:
       "A more affordable 1000W-class PFC sinewave alternative to the APC BR1000MS, genuinely useful if you want CyberPower's ecosystem or a lower price point at a similar capacity tier.\n\nLower rating than its sibling products in this guide, worth weighing against the price savings if APFC compatibility at this capacity is your main requirement.\n\nAVR bundled in. Set against that, lower rating than other picks in this guide. Both matter when comparing it to the other picks here.",
     specs: ["PFC sinewave output", "AVR included", "LCD status display", "Multiple outlets"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 896 Amazon ratings",
     reviews: "896 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/317PvPHMHKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N18S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N18S?tag=workcocoon-20",
     description:
       "The lowest-capacity pure sine wave pick in this guide, appropriately sized for a single APFC-equipped PC without extra peripherals rather than a full multi-monitor desktop setup.\n\nStill genuinely PFC sinewave, so you avoid the buzzing/shutdown risk on modern power supplies without paying for capacity you won't use.\n\nThe standout detail is that appropriately sized for a single-PC setup. Balancing that out, lowest capacity in this guide, not for multi-device loads.",
     specs: ["850VA PFC sinewave", "AVR included", "LCD display", "Compact footprint"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 602 Amazon ratings",
     reviews: "602 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/319TmSlbEUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B077Y62GSJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B077Y62GSJ?tag=workcocoon-20",
     description:
       "A genuine step up to line-interactive topology with SmartConnect cloud monitoring, worth the significantly higher price if you want remote visibility into UPS health and battery status rather than just an in-room LCD.\n\nThe highest price in this guide by a wide margin, this is a workstation/server-grade pick, not the right choice for a simple desktop setup that just needs APFC compatibility.\n\nSmartConnect remote monitoring, genuinely useful for unattended equipment. That's a real strength, but weigh it against the flip side: highest price in this guide by a large margin.",
     specs: ["1500VA/900W, line-interactive, pure sine wave", "SmartConnect cloud monitoring", "APFC compatible", "Higher-grade build than consumer picks"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,399 Amazon ratings",
     reviews: "1,399 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41lBJ4oYPfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5QSYK69?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5QSYK69?tag=workcocoon-20",
     description:
       "A lithium-battery-based alternative to the traditional lead-acid designs used by the APC and CyberPower picks in this guide, lithium batteries generally handle heat and charge cycles better over the long term, worth considering if longevity matters more than upfront cost.\n\nStill genuinely pure sine wave, so APFC compatibility holds, at a competitive price versus the APC 1000VA pick.\n\nCompetitive price at this capacity tier. On the other hand, newer entrant with less long-term track record than APC/CyberPower. Both are worth keeping in mind before deciding.",
     specs: ["1000VA/800W, lithium battery, pure sine wave", "Surge protection included", "Compact footprint", "White finish option"],

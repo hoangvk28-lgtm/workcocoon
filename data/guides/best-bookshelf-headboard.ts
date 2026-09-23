@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,211",
     imageUrl: "https://m.media-amazon.com/images/I/31PwR75ZxSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09DKBKC33?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09DKBKC33?tag=workcocoon-20",
     description:
       "The Sauder River Ranch stands out with a 5-year warranty, the longest of any pick in this list, backing an engineered wood bookcase headboard with 2 adjustable shelves in a rustic Grand Walnut finish. It's compatible with wireless Qi charging pads (charger sold separately) if you want to add charging later, and hidden cord access keeps any cables you do run out of sight.\n\nAt 62.36 inches wide and 40.63 inches tall, it fits both Full and Queen bed frames, giving it more flexibility than the Queen-only or King-only picks elsewhere in this guide. With over 1,200 reviews and a rustic modern look, it's a dependable, versatile choice for most bedrooms.\n\nFits both Full and Queen bed frames. Set against that, no built-in charging or LED, Qi charger sold separately. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,211",
     imageUrl: "https://m.media-amazon.com/images/I/31YnGP8PAEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09HMQKJHM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09HMQKJHM?tag=workcocoon-20",
     description:
       "This is the same Sauder River Ranch bookcase headboard as above, in a clean Glacier White finish instead of walnut, and at a lower price. It carries the same 5-year warranty, 2 adjustable shelves, wireless Qi-charging compatibility, and hidden cord access, just with a brighter look that blends more easily into both contemporary and traditional bedrooms.\n\nFor buyers who want the same proven design and warranty coverage but prefer a lighter finish, or simply want to save a bit over the walnut version, this is the pick.\n\nA genuine advantage here is that same 5-year warranty as the walnut version. The tradeoff is no built-in charging or LED, Qi charger sold separately.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,089",
     imageUrl: "https://m.media-amazon.com/images/I/41cAGB2D6KL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQ1PJH58?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQ1PJH58?tag=workcocoon-20",
     description:
       "The Aheaplus packs the most AC outlets of any headboard-only pick in this list at 3, plus 2 USB ports, all built into a particleboard and metal frame with 3-tier shelving. App or remote-controlled RGB LED lighting spans over 60,000 colors with music sync, and the charging side is reversible so you can mount the outlets on whichever side works best for your bedroom layout. Height adjustability lets it fit a range of bed frame heights, and at a budget-friendly price it's one of the more affordable ways to add both storage and charging to an existing bed. Reversible charging side for flexible mounting. On the other hand, particleboard construction less premium than solid wood picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "356",
     imageUrl: "https://m.media-amazon.com/images/I/51uww6pHmUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CVXBDBT6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CVXBDBT6?tag=workcocoon-20",
     description:
       "The YATINEY is the most affordable pick in this list, wrapped in full-coverage soft padding that gives it the softest feel here compared to the mostly hard-surfaced bookcase headboards elsewhere in this guide. It still includes 2 AC outlets and 2 USB ports for charging, along with open shelves for books or a lamp.\n\nThree-level height adjustment lets it fit a range of bed frame heights, and the vintage-style upholstery is available in Rustic Brown, Gray, or Black to match different bedroom palettes. For anyone prioritizing comfort and price over premium materials, this is the value pick.\n\nSoftest full-coverage padding of any headboard here. That's a real strength, but weigh it against the flip side: smallest review sample among the top picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "378",
     imageUrl: "https://m.media-amazon.com/images/I/41FKcahB7-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZDN8TGQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZDN8TGQ?tag=workcocoon-20",
     description:
       "The AYEASY packs more individual storage compartments than any other pick in this list, 7 storage spaces plus 2 open shelves, spread across an engineered wood frame with a modern industrial look. Two AC outlets and 2 USB ports handle charging, and 2 dedicated LED lights add reading illumination beyond just ambient color lighting.\n\nAt 65 inches wide and 43 inches tall, it's sized for Queen or Full frames and built to run noise-free. For anyone who wants to consolidate a nightstand's worth of storage directly into the headboard, this is the most compartmentalized option here.\n\nWorth calling out specifically: 2 dedicated LED reading lights. The catch is taller footprint (43\") needs more wall clearance.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "286",
     imageUrl: "https://m.media-amazon.com/images/I/51Q3fC44gqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8HDCMC6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8HDCMC6?tag=workcocoon-20",
     description:
       "The Hzuaneri is the tallest headboard in this list at 54.8 inches, giving it a dramatic, statement-making presence above the bed. Velvet upholstery covers a particleboard-and-steel frame, and 3-tier adjustable shelves each hold up to 66 lbs, more per-shelf capacity than most other picks here.\n\nCharging covers 2 AC outlets and 4 USB ports, enough to charge up to 6 devices at once, and app or remote-controlled RGB LED lighting includes a music sync mode. For anyone who wants a bold, tall velvet headboard with serious shelf capacity, this is the standout design pick.\n\n4 USB ports charge up to 6 devices at once. Set against that, extra height needs more wall clearance. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "15",
     imageUrl: "https://m.media-amazon.com/images/I/51nWR-jbrWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGZY9XD5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGZY9XD5?tag=workcocoon-20",
     description:
       "The HOOBRO is the only pick in this list with a hidden compartment specifically sized for pillows and blankets, in addition to 5 open cubbies for everyday items like books or a phone. A farmhouse white and walnut finish gives it a distinct barn-door look, and an anti-tip kit is included for added safety.\n\nCharging includes 2 AC outlets, 1 USB port, and 1 Type-C port, and music-sync LED lighting rounds out the feature set. If keeping bulky bedding out of sight while still having open shelf access is the priority, this is the only headboard here built for that.\n\nA genuine advantage here is that farmhouse barn-door styling stands out visually. The tradeoff is very small review sample so far (15 ratings).",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "65",
     imageUrl: "https://m.media-amazon.com/images/I/51EJOjv0eJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GN28HZQF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GN28HZQF?tag=workcocoon-20",
     description:
       "The Apicizon is the only King-size headboard-only pick in this list, built from engineered wood with 2-tier shelves 11 inches deep, the deepest of any pick here, giving it room for larger books or bins. Two manual touch-controlled LED lights offer 3-speed brightness adjustment, a more tactile alternative to the app-controlled lighting on other picks.\n\nCharging covers 2 USB ports and 2 AC outlets, and the headboard is wall-mountable in addition to attaching to a bed frame. It's available in Brown, Black, White, or Espresso finishes to match a range of King-size bedroom setups.\n\nDeepest shelves here at 11 inches. On the other hand, smaller review sample (65 ratings). Neither should be a surprise once you know to look for it.",
     specs: [

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZWK2TQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZWK2TQT?tag=workcocoon-20",
     description:
       "The Ergo K860 uses a row-staggered split layout, meaning the keys stay in familiar rows rather than switching to a column-staggered grid, which keeps the relearning curve much shorter than a fully ortholinear board. A fixed, domed split shape plus built-in negative tilt handles most of the ergonomic benefit without asking you to relearn key positions.\n\nThis is the easiest true split in this list to adopt, which makes it the practical starting point for a touch typist who wants real ergonomic benefit without months of retraining.\n\nBuilt-in negative tilt reduces wrist extension. That's a real strength, but weigh it against the flip side: split angle is fixed, not adjustable.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31j7o6HXFTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT444BH6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT444BH6?tag=workcocoon-20",
     description:
       "The Advantage360 Professional is a fully separable, column-staggered, contoured split keyboard with quiet mechanical switches and open-source programmable firmware, the deepest ergonomic and customization option in this list. Adjustable tenting and a genuinely contoured key well shape the layout around your hand rather than the other way around.\n\nThis is the most expensive pick here and asks the most of a new user, since column-staggered layouts require relearning key positions from scratch, but it also offers the most complete ergonomic control for someone who has already decided a full split is worth the investment.\n\nWorth calling out specifically: fully programmable open-source firmware. The catch is most expensive pick in this list by a wide margin.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41V9ZhVnSZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CMALD3E?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CMALD3E?tag=workcocoon-20",
     description:
       "The Freestyle2 is a row-staggered split keyboard connected by a cable, letting the two halves separate up to 9 inches while keeping familiar key rows, a reasonable middle step between a fixed split and a fully independent one. It's wired, which removes battery concerns for a desk that stays in one place.\n\nAs a step up from a wave keyboard but well short of a fully programmable board, it's a practical entry point for someone testing whether true separation actually helps before spending on a premium contoured model.\n\nFamiliar row-staggered layout, easier relearning. Set against that, wired only. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41t-gi6gelL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GVQ99JB5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GVQ99JB5?tag=workcocoon-20",
     description:
       "Wave Keys is not a true split, its wave-curved keys stay fixed in one piece, but it's the gentlest possible first step for someone who has never tried an ergonomic layout and wants to see if the concept helps before buying a true split board. The built-in cushioned rest and short adjustment period make it low-risk.\n\nBuyers who find real benefit here and want more separation can step up to a row-staggered true split like the Freestyle2 or Ergo K860 next, using this as a deliberate entry point in a longer progression rather than a final split keyboard.\n\nA genuine advantage here is that lowest price entry point. The tradeoff is not a true split, halves are fixed together.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41nJBsy2cuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G3PCSK8B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G3PCSK8B?tag=workcocoon-20",
     description:
       "The Nulea is the cheapest true split keyboard in this list, a row-staggered layout with a cushioned wrist rest and both Bluetooth and USB-C wireless connectivity. It's a hinged design rather than fully independent halves, so separation is more limited than a cable-connected model.\n\nRechargeable via USB-C rather than disposable batteries is a genuine convenience at this price point, and the row-staggered layout keeps the relearning curve manageable for a first true split keyboard.\n\nUSB-C rechargeable, no disposable batteries. That's a real strength, but weigh it against the flip side: hinged design limits separation vs. a cable-connected split.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41O4m5cUOVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BKKYRQ31?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BKKYRQ31?tag=workcocoon-20",
     description:
       "The Arteck splits into two halves connected by a hinge that supports an adjustable tenting angle, letting each side tilt outward to reduce forearm pronation more than a fixed-angle split can. Most true split keyboards in this price range fix the angle at the factory, so this stands out on that spec alone.\n\nA cushioned wrist and palm rest runs the width of both halves, and the row-staggered layout keeps the relearning curve reasonable. It's a strong middle ground between the cheapest entry-level splits and a premium contoured board.\n\nWorth calling out specifically: true split shape for real forearm relief. The catch is windows-focused compatibility.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/310QWdQ0GbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0089ZLENA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0089ZLENA?tag=workcocoon-20",
     description:
       "This version of the Freestyle2 ships with VIP3 lifters, an add-on kit that props each half up at an adjustable tenting angle, something the base Freestyle2 doesn't include on its own. It's still a row-staggered, cable-connected split, so the layout relearning stays manageable.\n\nThe lifters are the real upgrade here over the base 9-inch model, letting you dial in a tenting angle rather than typing flat, which is one of the most effective ways to reduce forearm pronation without jumping to a fully contoured board.\n\nFamiliar row-staggered layout. Set against that, pricier than the base Freestyle2 without lifters. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41DqykmZM+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FKCYLM55?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FKCYLM55?tag=workcocoon-20",
     description:
       "The Freestyle Edge RGB Plus is a row-staggered, cable-connected split with hot-swappable linear mechanical switches, RGB lighting, and full programmability, aimed at buyers who want split ergonomics without giving up a mechanical typing feel or gaming-oriented features. Mac keycaps and a lift kit ship in the box.\n\nA detachable palm support and the included lift kit give you tenting adjustment on top of the row-staggered layout's manageable relearning curve, making it one of the more complete mid-to-premium options in this list for someone who splits time between typing and gaming.\n\nA genuine advantage here is that lift kit included for tenting adjustment. The tradeoff is pricier than the non-mechanical split picks.",
     specs: [

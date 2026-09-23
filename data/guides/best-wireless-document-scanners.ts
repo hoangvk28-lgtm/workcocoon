@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "Connects via home-network Wi-Fi and can send scans to Mac, PC, mobile devices, and cloud services, genuinely standalone operation for cloud destinations without needing a computer on. For large batch or high-DPI color jobs, expect real latency versus a wired connection, this is a genuine tradeoff of the wireless convenience.\n\nCan also scan to a Chromebook via the mobile app, a real plus for Chromebook-based households or classrooms.\n\nChromebook support via mobile app. Set against that, large batch/high-DPI jobs will be slower over Wi-Fi than USB. Both matter when comparing it to the other picks here.",
     specs: ["Home-network Wi-Fi + USB", "Scans to Mac/PC/mobile/cloud, works without a computer", "Chromebook scanning via mobile app", "30ppm duplex, auto de-skew"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VnXqJ86dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=workcocoon-20",
     description:
       "Identical home-network Wi-Fi capability to the rank-1 pick in a black finish, same standalone cloud-scanning and Chromebook support, same real-world caveat about large batch/high-DPI jobs running slower over Wi-Fi than a wired connection.",
     specs: ["Home-network Wi-Fi + USB", "Scans to Mac/PC/mobile/cloud, works without a computer", "Chromebook scanning via mobile app", "30ppm duplex, auto de-skew"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 326 Amazon ratings",
     reviews: "326 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=workcocoon-20",
     description:
       "Built-in Wi-Fi 6, a genuine step up over basic Wi-Fi for connection speed and reliability in a crowded wireless environment, plus USB-C for wired use when large batch jobs need it. The touchscreen lets you select personalized scan profiles and destinations directly on the device.\n\nHighest rating among the wireless picks in this guide, though its smaller review count reflects a newer listing.\n\nThe standout detail is that touchscreen for on-device profile/destination selection. Balancing that out, smaller review count than the iX1300 picks.",
     specs: ["Wi-Fi 6 + USB-C", "Touchscreen with personalized profiles", "Sends to PC, Mac, mobile, cloud", "Multi-feed sensor, brake roller system"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 132 Amazon ratings",
     reviews: "132 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41m9omvtbvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1PMTS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1PMTS?tag=workcocoon-20",
     description:
       "The same Wi-Fi 6 plus USB-C iX2500 under a separate listing with a smaller review count. Compare current pricing between this and the rank-3 listing before buying, the hardware and wireless capability are identical.",
     specs: ["Wi-Fi 6 + USB-C", "Touchscreen with personalized profiles", "Sends to PC, Mac, mobile, cloud", "Multi-feed sensor, brake roller system"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "A genuine desktop-class scanner with wireless connectivity built in, the largest review base among the wireless picks in this guide. Real-world evidence this wireless connection holds up reliably, though the same large-batch/high-DPI slowdown caveat applies as with any wireless scanner.\n\nA solid choice if you want desktop-class throughput with wireless as the default connection.\n\nDesktop-class throughput with wireless connectivity. That's a real strength, but weigh it against the flip side: highest price in this guide.",
     specs: ["Wireless + USB desktop scanner", "TWAIN driver, searchable PDF OCR", "Largest review base among wireless picks", "Auto crop, blank-page removal"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 2,294 Amazon ratings",
     reviews: "2,294 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415ddFXTF8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=workcocoon-20",
     description:
       "Included as an honest reference: this is a USB-powered, wired-only scanner, not a wireless option, despite surfacing in general scanner searches that touch on this topic. If wireless connectivity specifically is your requirement, look to the ScanSnap or Epson picks above instead.\n\nStill a strong duplex compact scanner if you decide wired USB actually suits your workflow better than wireless, avoiding the batch/high-DPI slowdown wireless connections introduce entirely.\n\nBroad OS driver support. On the other hand, not actually a wireless scanner. Both are worth keeping in mind before deciding.",
     specs: ["USB-powered only, no wireless", "Duplex scanning", "Broad Windows/Mac/Linux driver support", "Desk Saving Design"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "Another honest wired reference: USB-powered with no wireless connectivity, included for buyers who want a genuinely portable scanner and are comfortable with wired-only operation. A real 20-sheet ADF hopper and explicit 500 scans/day rating are genuine pluses independent of the wireless question.\n\nIf you specifically need wireless, this isn't your pick, but it's a solid portable option if wired USB is fine for your use case.\n\nA genuine advantage here is that genuine 20-sheet ADF hopper. The tradeoff is that not actually a wireless scanner.",
     specs: ["USB-powered only, no wireless", "20-sheet ADF hopper, duplex", "Explicit 500 scans/day rating", "1.7 lb, portable"],

@@ -37,7 +37,7 @@ export const products: LShapedStandingDesk[] = [
     motor: "Electric",
     imageUrl:
       "https://m.media-amazon.com/images/I/41NQKkFmDPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FXWTQGWC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FXWTQGWC?tag=workcocoon-20",
     whyItWorks:
       "The Casaottima is a straightforward electric L-shaped standing desk at 63 inches, priced under $200, which undercuts most of the electric L-shaped picks in this guide by a meaningful margin. For buyers who want a sit-stand corner desk without paying for drawers, monitor shelves, or premium finishes, this is the leanest path to that 63-inch electric footprint. The black finish is neutral enough to fit most home office setups without a strong aesthetic commitment either way.\n\nBecause it skips built-in storage and extra features, it is best evaluated on the core mechanics: electric height adjustment and a 63-inch main run, matched against a real budget rather than a feature checklist.",
     tradeoffs: [
@@ -69,7 +69,7 @@ export const products: LShapedStandingDesk[] = [
     motor: "Electric",
     imageUrl:
       "https://m.media-amazon.com/images/I/31BqxPtlxyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DV4GZ1NM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DV4GZ1NM?tag=workcocoon-20",
     whyItWorks:
       "The SANODESK sits at the higher end of this guide's price range, and that higher price buys a 63-inch electric L-shaped frame with a built-in drawer, giving sit-stand buyers a place to store a keyboard, cables, or paperwork without a separate storage piece. For a home office corner where the desk needs to look and function like a finished piece of furniture rather than a bare frame, the added drawer closes that gap compared to the no-storage electric options in this guide.\n\nAt this price point, buyers should weigh whether the drawer and finish quality justify the premium over the OffiGo or Acrolix picks earlier in this guide, which offer similar core electric sit-stand functionality at a lower cost.",
     tradeoffs: [
@@ -100,7 +100,7 @@ export const products: LShapedStandingDesk[] = [
     motor: "Electric",
     imageUrl:
       "https://m.media-amazon.com/images/I/41qSVymgXqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP9G62LR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP9G62LR?tag=workcocoon-20",
     whyItWorks:
       "The HUANUO is the storage-heaviest electric L-shaped standing desk in this guide, with three built-in drawers plus power outlets and an LED strip on a 65-inch corner frame, the largest main-run length among the electric picks here. For a sit-stand setup that needs to hold more than a keyboard, three drawers spread storage across small supplies, cables, and paperwork without stacking bins on the desk surface itself.\n\nThe 65-inch main run also gives slightly more room than the 63-inch options in this guide for a dual-monitor setup plus keyboard, at the cost of needing a bit more clear wall length on the main side before ordering.",
     tradeoffs: [
@@ -131,7 +131,7 @@ export const products: LShapedStandingDesk[] = [
     drawers: "No drawer",
     motor: "Dual motor",
     imageUrl: `${BASE}/01-vivo-63x55.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09B2VDSYJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09B2VDSYJ?tag=workcocoon-20",
     whyItWorks:
       "The VIVO is the best-reviewed L-shaped standing desk on this list by rating. At 4.6 stars across 1,738 ratings with consistent monthly purchase velocity of 300 to 600+ units, it is the most validated option in the category. The reversible feature means the L-orientation can be configured left-handed or right-handed at assembly. Dual motor handles the larger L-shaped surface load more evenly than single-motor alternatives. The 265 lb capacity has meaningful headroom for dual or triple monitor setups.",
     tradeoffs: [
@@ -162,7 +162,7 @@ export const products: LShapedStandingDesk[] = [
     drawers: "Built-in drawer",
     motor: "Electric",
     imageUrl: `${BASE}/02-offigo-63-drawers.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DBQ4JX85?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBQ4JX85?tag=workcocoon-20",
     whyItWorks:
       "The OffiGo 63\" combines an L-shaped electric frame with a built-in drawer - the most feature-complete configuration in this format. The 600+ bought past month badge is unusually strong for a desk with only 114 reviews, signaling this listing is actively converting buyers at a rate well above its review count would suggest. For L-shaped standing desk buyers who need built-in storage, this is the largest 63\" configuration with drawers available in this category.",
     tradeoffs: [
@@ -191,7 +191,7 @@ export const products: LShapedStandingDesk[] = [
     drawers: "No drawer",
     motor: "Electric",
     imageUrl: `${BASE}/03-acrolix-59x40.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CNCQSLQF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNCQSLQF?tag=workcocoon-20",
     whyItWorks:
       "The Acrolix is the budget pick in this roundup. At 59x40\" it is slightly smaller than the VIVO (63x55\"), making it a better fit for tighter corners or rooms where the full 55\" return depth would cause clearance issues. The 40\" return depth is the key constraint: if you plan to use the return section for a second monitor, verify that 40\" gives adequate distance from your seated position on that side. The 824-review count at 4.4 stars is adequate sample size for a budget-tier L-shaped standing desk.",
     tradeoffs: [
@@ -221,7 +221,7 @@ export const products: LShapedStandingDesk[] = [
     drawers: "No built-in drawer",
     motor: "Electric",
     imageUrl: `${BASE}/04-aodk-59.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D62ZTBYL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D62ZTBYL?tag=workcocoon-20",
     whyItWorks:
       "The AODK is the feature-dense pick: built-in monitor stand shelf, integrated power outlets and USB ports, and LED lighting on an electric L-shaped frame. If you are building a gaming or streaming desk where cable management and power access are primary concerns, this handles them in one purchase. The 265 lb capacity handles heavy dual-monitor setups comfortably. The 4.6 stars at 154 reviews is an early sample but consistent with the rating level.",
     tradeoffs: [
@@ -252,7 +252,7 @@ export const products: LShapedStandingDesk[] = [
     drawers: "Wooden drawer",
     motor: "Electric",
     imageUrl: `${BASE}/05-offigo-55-wooden-drawers.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F7HLD47T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F7HLD47T?tag=workcocoon-20",
     whyItWorks:
       "The compact version of Pick 2. At 55\" (versus 63\"), this OffiGo model is better suited for rooms where the 63\" main section would leave insufficient aisle clearance on the open sides. The wooden drawer adds a warmer aesthetic than standard metal-frame drawer options seen on most standing desks. For rooms where wall length on the main side is 57\" to 64\", the 55\" fits comfortably where the 63\" would crowd.",
     tradeoffs: [
@@ -282,7 +282,7 @@ export const products: LShapedStandingDesk[] = [
     drawers: "Yes (verify configuration)",
     motor: "Electric",
     imageUrl: `${BASE}/06-sedeta-farmhouse-70x73.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G1BHZJYX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1BHZJYX?tag=workcocoon-20",
     whyItWorks:
       "The largest desk on this list and the only one with a farmhouse aesthetic. At 70x73\", the SEDETA covers more corner floor space than any other pick - appropriate for a dedicated home office room where a large executive layout is the goal. The farmhouse aesthetic in an electric L-shaped standing desk is not available elsewhere at scale on Amazon. The 4.2 stars at 57 reviews is the weakest trust signal on this list - included specifically for buyers searching for a large farmhouse L-shaped standing desk.",
     tradeoffs: [
@@ -312,7 +312,7 @@ export const products: LShapedStandingDesk[] = [
     drawers: "Built-in drawer",
     motor: "Electric",
     imageUrl: `${BASE}/07-sedeta-59-drawers.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G19DH8Z3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G19DH8Z3?tag=workcocoon-20",
     whyItWorks:
       "The compact SEDETA variant at 59\". Shares the same brand and style as Pick 6 but in a more standard size format. The drawer makes it a lower-cost alternative to the OffiGo picks for buyers on a tighter budget who want an L-shaped standing desk with storage. Drawer plus 59\" L-shaped is an uncommon combination at this price tier.",
     tradeoffs: [

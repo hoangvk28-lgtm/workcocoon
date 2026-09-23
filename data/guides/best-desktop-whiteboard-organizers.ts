@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "This is a complete whiteboard unit with an integrated drawer, not a standalone organizer accessory, and we want to be upfront about that distinction rather than mislabeling it.\n\nIf what you actually want is a place to keep markers and small supplies right at your desk alongside a writing surface, this integrated-storage design achieves that goal even though it isn't a separate add-on accessory.",
     specs: ["Built-in drawer (integrated, not standalone)", "Glass dry erase surface", "Doubles as keyboard stand", "Complete whiteboard unit"],

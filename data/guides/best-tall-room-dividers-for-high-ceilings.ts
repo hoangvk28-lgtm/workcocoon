@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "1,499 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uULXHLL1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=workcocoon-20",
     description:
       "This is the honest top pick for a genuinely high ceiling in this list, since it's an adjustable tension rod that extends up to 10 feet, actually reaching a true 9 to 10-foot ceiling rather than falling short like a standard folding screen. It's a curtain-and-rod system rather than a rigid panel, so treat it as a floor-to-ceiling fabric divide rather than a solid partition.\n\nAt 4.6 stars across 1,499 ratings it's the best-reviewed pick here, and it genuinely closes the ceiling gap that undermines most of the other products in this category. As with any tension pole at full extension, tighten gradually and stop once it holds without excess force, over-tightening a fully extended pole is more likely to stress a high ceiling than a shorter one.\n\n4.6 stars, 1,499 ratings. That's a real strength, but weigh it against the flip side: fabric curtain, not a rigid solid panel.",
     specs: ["4-10 ft adjustable height, genuinely reaches high ceilings", "28-114 in adjustable width", "Fabric curtain, no-drill tension mount", "Freestanding"],
@@ -66,7 +66,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "271 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oONJmhtcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH3TC367?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH3TC367?tag=workcocoon-20",
     description:
       "The same genuinely high-ceiling-reaching 4 to 10-foot tension rod as the top pick, extended to a much wider 171-inch span for a large loft or open-plan room with both a high ceiling and a wide floor plan. It's still a fabric curtain divider, not a rigid panel, so its floor-to-ceiling coverage comes from height plus drape rather than structural rigidity.\n\nA wider curtain adds more total fabric weight to the rod, worth checking the rod's stated duty rating against a heavier or blackout-lined curtain if that's part of your plan. At 4.5 stars across a smaller 271-rating sample, this is a solid but less-reviewed option than the narrower SUNALLY pick above.\n\nWorth calling out specifically: widest span in this guide, 171 inches. The catch is smaller 271-rating sample.",
     specs: ["4-10 ft adjustable height, genuinely reaches high ceilings", "28-171 in adjustable width, widest in this list", "Fabric curtain, no-drill tension mount", "Freestanding"],
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "1,030 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51-x8nHCvhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZGN4B8V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZGN4B8V?tag=workcocoon-20",
     description:
       "Another genuinely high-ceiling-capable pick with the same 4 to 10-foot extension range as the SUNALLY picks above, at a narrower 28 to 70-inch width and the lowest price in this guide. It's a solid option for a narrower opening in a tall room rather than a full wide-room split.\n\nAt this price it's an easy way to test whether a tension-curtain approach solves a high-ceiling privacy need before committing to a wider or more expensive option. At 4.6 stars across 1,030 ratings, it has strong buyer feedback for a genuinely tall-reaching divider.\n\n4.6 stars, 1,030 ratings. Set against that, 70 in max width limits it to narrower openings. Both matter when comparing it to the other picks here.",
     specs: ["4-10 ft adjustable height, genuinely reaches high ceilings", "28-70 in adjustable width", "Fabric curtain, no-drill tension mount", "Freestanding"],
@@ -100,7 +100,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "987 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EGUD6DJML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH4ZR71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH4ZR71?tag=workcocoon-20",
     description:
       "This tension rod genuinely reaches a high ceiling with the same 4 to 10-foot range as the other SUNALLY-style picks in this guide, with a firmer spring mechanism that holds tension more reliably at full extension over months of use. That matters more at height, since a fully extended tension pole under a high ceiling has more overall length to flex or loosen over time than a shorter one.\n\nAt 4.5 stars across 987 ratings it's a close alternative to the SUNALLY picks above, worth considering specifically for a high-ceiling installation meant to stay up long-term.\n\nA genuine advantage here is that firmer spring holds tension better at full extension over time. The tradeoff is firmer spring can be harder to install solo at full height.",
     specs: ["4-10 ft adjustable height, genuinely reaches high ceilings", "28-114 in adjustable width", "Heavier-duty tension spring", "Freestanding"],
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "1,499 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51lroJMQPAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQNP28CD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQNP28CD?tag=workcocoon-20",
     description:
       "An honest flag here: at 67 inches, this is a standard-height folding screen, not genuinely tall, and it will leave 2 feet or more of open gap under a real 9-foot ceiling. It's a well-built rigid wood-panel screen with a nice decorative finish, but it does not solve a high-ceiling privacy or acoustic problem.\n\nAt 4.6 stars across 1,499 ratings it's well-reviewed for what it actually is, a standard-height decorative screen, and buyers with a genuinely high ceiling should look to the tension-rod picks above or a ceiling track curtain system instead.\n\n4.6 stars, 1,499 ratings. That's a real strength, but weigh it against the flip side: 67 in height leaves 2+ ft gap on a genuine high ceiling.",
     specs: ["67 in height, standard, NOT tall for 9-10 ft ceilings", "64 in width", "4-panel solid wood construction", "Freestanding"],
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "1,593 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=workcocoon-20",
     description:
       "Another honest height flag: at 69.5 inches this single-panel screen is standard height, not tall, and it will leave a substantial gap under a true 9 to 10-foot ceiling. It appears in this shared product search because it's classified as a room divider, but its height alone doesn't address a high-ceiling use case. It has the largest rating base in this guide at 1,593 ratings and a 4.3-star average, a fine pick for a standard-height room but not a genuine solution if your ceiling is actually 9 feet or taller. Worth calling out specifically: genuinely affordable. The catch is 69.5 in height leaves a real gap on a genuine high ceiling.",
     specs: ["69.5 in height, standard, NOT tall for 9-10 ft ceilings", "71 in width", "Single-panel fabric design", "Freestanding"],
@@ -151,7 +151,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "420 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51OXUOdhrKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3J58T4N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3J58T4N?tag=workcocoon-20",
     description:
       "We're including this bookcase-style divider with a clear flag: its listing does not confirm an exact height tall enough to be considered genuinely high-ceiling-reaching, and standard bookcases in this general size class typically run in the same 65 to 72-inch range as the folding screens above, well short of a 9 to 10-foot ceiling.\n\nAs a piece of double-sided shelving with a back fence for privacy, it's a strong, well-reviewed product at 4.6 stars across 420 ratings for standard-height rooms, but buyers with a genuinely high ceiling shouldn't assume this closes that gap without verifying the exact height first.\n\n4.6 stars, 420 ratings. Set against that, height not confirmed to reach a genuine high ceiling. Both matter when comparing it to the other picks here.",
     specs: ["Height not confirmed tall enough for 9-10 ft ceilings", "Triple-wide 6-tier bookcase with back fence", "Freestanding, needs anchoring", "Not primarily a height solution"],
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "555 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=workcocoon-20",
     description:
       "At 6 feet (72 inches) tall, this wheeled folding screen is taller than the 65 to 69.5-inch panels elsewhere in this shared product pool, but it's still well short of a genuine 9 to 10-foot ceiling. We're including it with a clear flag rather than presenting it as a true high-ceiling solution, since a 2-foot-plus gap still remains above it on a real high ceiling.\n\nIf you want the mobility of wheels and are willing to accept a partial gap, this is a reasonable middle ground. For a genuinely high ceiling, the tension-rod curtain picks earlier in this guide, or a ceiling track curtain system, are the more honest answer. At 4.2 stars across 555 ratings.\n\nA genuine advantage here is that rolls into place without lifting. The tradeoff is still leaves a real gap on a genuine 9-10 ft ceiling.",
     specs: ["72 in height, taller than most in this pool but still NOT true high-ceiling coverage", "88 in width, 4-panel with lockable wheels", "Freestanding, no drilling", "Rolls for repositioning"],

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2 Amazon ratings",
     reviews: "2 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51uSpLhisuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FLJ8MKRW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FLJ8MKRW?tag=workcocoon-20",
     description:
       "This listing directly confirms a built-in desk on a full-size cabinet, and the desk depth is comparable to what queen units offer since desk panels in this product line are typically sized to the same standard, not scaled down to match the narrower full-size cabinet width. That means you are not necessarily sacrificing usable desk surface by choosing full over queen. At a competitive price, this sits well below the price of most desk-confirmed queen picks. With only 2 ratings, feedback is minimal, so verify current specs and photos closely before ordering given the small review sample. Desk depth comparable to queen-size units. That's a real strength, but weigh it against the flip side: extremely small review base at 2 ratings.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 29 Amazon ratings",
     reviews: "29 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51YpjGG+XyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQCRMYYK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQCRMYYK?tag=workcocoon-20",
     description:
       "This is one of the only picks in either the full or queen desk guides that ships with a mattress included, a 6 inch memory foam pad matched to the mechanism's calibration out of the box. The desk is built into the cabinet face and confirmed in the listing title. If you later want to upgrade to a thicker 10-12 inch mattress for more comfort, verify with AFI's support that the mechanism can handle the added weight before swapping, since the included 6 inch mattress is what the piston tension is set for. It is priced closer to queen desk combos despite the smaller full-size footprint, which is the resale and value tradeoff to weigh here. Worth calling out specifically: confirmed desk integration. The catch is priced close to queen desk combos despite smaller full-size sleeping capacity.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "1.0 stars from 1 Amazon rating",
     reviews: "1 rating",
     imageUrl: "https://m.media-amazon.com/images/I/41gEE2BuSDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQ95QCV6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQ95QCV6?tag=workcocoon-20",
     description:
       "This full-size cabinet confirms a built-in desk plus a top cabinet and storage shelves, giving it the most storage density among the desk-confirmed picks in this guide. The wooden bed frame construction matches the design language of other Merax cabinets across this guide series.\n\nThe single available rating is 1.0 stars, which is a meaningful red flag given how small the sample is, so treat this pick with caution and read current buyer reviews closely before ordering rather than relying on this guide's assessment alone.\n\nMost storage density among desk-confirmed full-size picks. Set against that, only 1 rating available, and it is 1.0 stars, a significant caution flag. Both matter when comparing it to the other picks here.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 4 Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/410wj4ur4iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FL6TKLRZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FL6TKLRZ?tag=workcocoon-20",
     description:
       "This is MERITLINE's grey variant with a confirmed desk plus a storage bookcase, aimed at a full-size room that also needs book or bin storage nearby. The desk panel design follows the same line as the white MERITLINE pick above, giving comparable desk depth to queen alternatives.\n\nWith only 4 ratings, this is another thin-feedback pick, so confirm current specs and photos before ordering. Price was not listed at time of research, so check the current Amazon listing directly.\n\nA genuine advantage here is that bookcase-style storage shelves included. The tradeoff is very small review base at 4 ratings.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "3.0 stars from 2 Amazon ratings",
     reviews: "2 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51r-Qrkm99L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FK9SYSVB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FK9SYSVB?tag=workcocoon-20",
     description:
       "THINK 30 confirms a foldable desk built into this full-size cabinet, with a walnut and gray finish that differentiates it visually from the white and grey MERITLINE picks above. The foldable desk mechanism is a separate hinge system from the bed's own fold, which is worth understanding before ordering since it adds an extra moving part. At a competitive price with a 3.0-star average across only 2 ratings, feedback is both thin and middling, so weigh this against the more established AFI or MERITLINE options above if buyer confidence matters to you. Distinct walnut and gray finish option. That's a real strength, but weigh it against the flip side: small review base at 2 ratings with a middling 3.0-star average.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "3.0 stars from 9 Amazon ratings",
     reviews: "9 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51PvlPGidGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GH134WWH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GH134WWH?tag=workcocoon-20",
     description:
       "Unlike the other Merax pick in this guide, this listing title makes no desk claim at all, describing 3 cabinet shelves for storage instead. This is a bed-only full-size cabinet best paired with a separate desk placed nearby, not a genuine desk combo, despite home office marketing on the listing.\n\nSolid wood construction and a rustic finish give it a different look from the painted MERITLINE and AFI cabinets. With 9 ratings at 3.0 stars, feedback is limited and middling, so weigh this against the desk-confirmed picks above if desk integration matters.\n\nWorth calling out specifically: storage cabinets add functional space. The catch is no desk surface, despite home office marketing.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,610 Amazon ratings",
     reviews: "1,610 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51h1vyv6ZdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=workcocoon-20",
     description:
       "Flagging this honestly: this listing title explicitly says Queen Size, not full, so it does not match this guide's full-size focus despite appearing in the underlying product data. We include it here only because it is a common cross-listed hardware kit buyers encounter while shopping full-size options, not as a genuine full-size recommendation.\n\nIt is also a bare gas piston mechanism with no desk surface included, aimed at DIY builders who construct their own cabinet. If you specifically want full-size, skip this pick and choose one of the confirmed full-size products above instead.\n\nLowest price in this guide. Set against that, size mismatch: this is queen, not full size, despite appearing in full-size search results. Both matter when comparing it to the other picks here.",
     specs: [
@@ -259,7 +259,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,138 Amazon ratings",
     reviews: "2,138 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=workcocoon-20",
     description:
       "Flagging this honestly as well: this is another queen-size hardware kit, not full size, appearing in this guide's underlying data because it is frequently cross-shopped with full-size searches. It should not be treated as a full-size recommendation.\n\nIt shares the same bare gas-piston, no-desk-included design as the hardware kit above, with the largest review base in this entire guide at 2,138 ratings. If queen size genuinely fits your room better than full, this is a well-regarded mechanism, but it is not the full-size product this guide is centered on.\n\nA genuine advantage here is that smooth, controlled piston operation. The tradeoff is size mismatch: this is queen, not full size.",
     specs: [

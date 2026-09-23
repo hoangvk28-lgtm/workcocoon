@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41f7dOeOBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=workcocoon-20",
     description:
       "Explicitly marketed for MacBook and Mac mini compatibility, a true 4K resolution works well with macOS's 'Looks like' scaling presets at common Mac-friendly sizes.\n\nAt a highly competitive price for true 4K, this is a strong entry point for Mac users wanting sharper resolution than most Mac-branded displays at this price.\n\nTrue 4K resolution works well with macOS scaling presets. On the other hand, verify your specific Mac model's external display support limit. Both are worth keeping in mind before deciding.",
     specs: ["27-inch true 4K (3840x2160) IPS panel", "HDR support", "Explicit Mac compatibility", "USB-C single-cable connectivity"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51BiaZGDKRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQPSX5CR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQPSX5CR?tag=workcocoon-20",
     description:
       "Explicitly positioned for Mac with professional color calibration, appropriate for Mac-based creative professionals doing color-critical design or photo work.\n\nThe premium price reflects genuine professional-grade calibration alongside true 4K resolution and HDR, worth it specifically for color-critical work on macOS's color-managed workflow.\n\nA genuine advantage here is that true 4K UHD resolution with HDR support. The tradeoff is that highest price in this guide by a significant margin.",
     specs: ["27-inch true 4K UHD IPS panel", "HDR support", "ProArt color accuracy calibration", "Explicit Mac compatibility"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41jGkitNULL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LCPY1TR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LCPY1TR?tag=workcocoon-20",
     description:
       "A QHD ProArt panel appropriate for Mac users wanting professional color accuracy at a more moderate resolution than 4K, which can simplify macOS scaling.\n\nQHD resolution often maps more predictably to macOS's 'Looks like' scaling presets than an unusual resolution might.\n\nProArt color accuracy suited to Mac-based design work. That said, not true 4K, verify this matches your resolution needs. Neither should be a surprise once you know to look for it.",
     specs: ["27-inch QHD (1440p) IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "Professional-grade build"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51+NCPHB1gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=workcocoon-20",
     description:
       "A more budget-friendly ProArt panel for Mac users, standard 1080p resolution at 24 inches keeps macOS scaling straightforward without needing higher-resolution adjustments.\n\nProArt calibration credentials make this suitable for design work despite the lower resolution than the 27-inch alternatives.\n\nWorth calling out specifically: straightforward macOS scaling at 1080p resolution. The catch is 1080p resolution is modest for a 24-inch professional monitor.",
     specs: ["24-inch 1080p IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "Straightforward macOS scaling"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=workcocoon-20",
     description:
       "A QHD panel with a genuinely high 144Hz refresh rate, appropriate for Mac users wanting smoother motion for casual gaming or scrolling alongside general productivity work.\n\nVerify your specific Mac model and chip generation can actually drive 144Hz externally before assuming full refresh rate support.\n\nQHD resolution for good productivity workspace. Set against that, verify your Mac's chip generation actually supports 144Hz externally. Both matter when comparing it to the other picks here.",
     specs: ["27-inch QHD (2560x1440) panel", "144Hz refresh rate", "USB-C connectivity", "Not Mac-exclusive branding but broadly compatible"],

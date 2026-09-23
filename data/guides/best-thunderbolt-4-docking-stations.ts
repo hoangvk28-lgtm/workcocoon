@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=workcocoon-20",
     description:
       "The Plugable TBT-UDM is genuinely Thunderbolt Certified rather than just Thunderbolt compatible, which means it passed Intel's testing for guaranteed 40Gbps throughput, dual 4K or single 6K display output, and daisy-chain support rather than relying on a best-effort USB4 implementation. It runs driverless on both MacOS and Windows.\n\nAt 100W charging it comfortably powers a MacBook Air or 14 inch Pro under normal loads, though a 16 inch Pro under heavy load can still exceed what any single dock delivers. Six USB ports, SD, and Ethernet round out a genuinely certified TB4 hub rather than a look-alike.\n\nDriverless setup on both Mac and Windows. That said, 100W falls short of a 16 inch MacBook Pro under full load. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21-k4dyJK1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F7SFQM2Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F7SFQM2Y?tag=workcocoon-20",
     description:
       "Dell's SD25TB4 is a certified Thunderbolt 4 dock built and validated specifically around Dell's Pro laptop lineup, with 130W charging that covers even Dell's higher-draw mobile workstations under normal use. Four displays are supported across its 2x DisplayPort and HDMI 2.1 outputs when the host laptop's TB4 controller allows it.\n\nBuilt-in 2.5GbE and Wi-Fi round out a dock aimed at a docked desk setup rather than portability, and Dell's sustainable design messaging reflects recycled materials in the housing rather than a performance claim.\n\nWorth calling out specifically: certified for guaranteed 40Gbps performance. The catch is optimized around Dell hardware, less validated elsewhere.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41mGW0G5I3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSVVJXK5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSVVJXK5?tag=workcocoon-20",
     description:
       "The Anker Prime TB5 is a step ahead of the rest of this list, built around Thunderbolt 5's 120Gbps ceiling and 140W charging rather than TB4's 40Gbps. On a current TB4 laptop it simply runs at TB4 speeds, so buying it now doesn't cost you anything on today's hardware.\n\nWhere it actually matters is a future upgrade path: a handful of newer MacBook Pro models with a 120Gbps bandwidth boost can only unlock their full display and storage throughput through a genuine TB5 dock like this one, not a standard TB4 unit.\n\n140W charging, the highest in this list. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=workcocoon-20",
     description:
       "This Anker Prime dock is a USB4-class hub rather than a Thunderbolt Certified device, which is worth knowing upfront since it will plug into and run on a TB4 port without carrying TB4's certified 40Gbps or daisy-chain guarantee. In practice it still delivers dual 4K output and fast 10Gbps data transfer for most desk setups.\n\nIts 160W total output is unusually high for a 14-port hub, letting it power the laptop and downstream accessories simultaneously without a separate charger for peripherals. It's the pick for buyers who want TB4-port compatibility without paying for full certification.\n\nThe standout detail is that very high 160W total power output. Balancing that out, not Thunderbolt Certified, so bandwidth guarantees don't apply.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31VkRux4RUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08DDH5CPW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DDH5CPW?tag=workcocoon-20",
     description:
       "This Plugable dock is built around driving three displays over USB rather than through native Thunderbolt video, which makes it compatible with a TB4 port but not a certified TB4 device. One 4K 30Hz display plus two 1080p 60Hz displays is a real capability most single-cable USB4 docks don't offer at this price.\n\nSix USB ports at 5Gbps and 100W charging round it out as a genuinely useful triple-monitor hub for buyers who don't need the full 40Gbps of certified TB4 but do want more screens than a typical dual-display dock provides.\n\n100W charging covers most laptops. That's a real strength, but weigh it against the flip side: main 4K display is capped at 30Hz.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41UFXtYm5ML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01FKTZLBS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01FKTZLBS?tag=workcocoon-20",
     description:
       "This 13-in-1 Plugable dock explicitly requires a DisplayLink driver on Mac to run its triple-HDMI output, which is the trade-off for getting 3 external displays out of a laptop that doesn't natively support that many, TB4 certified or not. Once installed, it drives 3 monitors plus 100W charging over a single cable.\n\nGigabit Ethernet, an SD reader, and 4 additional USB ports make it a genuinely complete desk hub, but buyers doing color-critical photo or video work should know DisplayLink output isn't suited to that kind of precision work.\n\n100W charging plus 20W secondary USB-C output. On the other hand, requires installing and maintaining a DisplayLink driver. Both are worth keeping in mind before deciding.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31hyr0S1C9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTSZC5Y7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTSZC5Y7?tag=workcocoon-20",
     description:
       "The Anker Prime DL7400 drives triple 4K 60Hz displays through DisplayLink rather than certified Thunderbolt video, and it's upfront that the latest DisplayLink driver must be installed for it to work correctly on Windows laptops. In exchange you get a genuinely rare spec, three real 4K 60Hz screens from one dock.\n\nA built-in cooling fan and 140W max output are aimed at buyers who leave the dock running all day rather than plugging in occasionally, which matters since DisplayLink's compression work adds measurable heat under sustained load.\n\nA genuine advantage here is that active cooling fan for all-day use. The tradeoff is that requires the latest DisplayLink driver installed and maintained.",
     specs: [

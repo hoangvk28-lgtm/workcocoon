@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/314gfrLHP+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B2JVQYFB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B2JVQYFB?tag=workcocoon-20",
     description: "HP's official Gigabit (1000Base-T) USB-C to RJ45 adapter, a single-port plug-and-play accessory built for HP business laptops lacking Ethernet.\n\nThe listing is minimal on extended feature detail beyond basic port classification, so buyers wanting explicit driver, OS, or PXE support documentation should check HP's own support pages before purchasing.",
     specs: ["1000Base-T Gigabit Ethernet","Single RJ45 port, twisted pair","HP official accessory"],
     pros: ["Genuine HP first-party accessory for business laptop deployments","Plug-and-play, no listed driver hassle for standard use","Portable, single-purpose design"],

@@ -41,7 +41,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood frame, beechwood legs, veneer desktop surface",
     price: "~$110-$130",
     imageUrl: `${BASE}/02-cozy_minimalist_home_office_corner.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08G449V3V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08G449V3V?tag=workcocoon-20",
     whyItWorks:
       "The IOTXY is the strongest affiliate pick on this list: 600+ reviews, consistent purchase volume, and well-documented real-world performance. For a small desk category where many products have thin review histories, this is a meaningful advantage. The material is worth understanding: solid wood frame and beechwood legs with a veneer-finish desktop. The surface is not a fully solid wood top - it is a veneer face over a substrate. In practice, this affects long-term refinishing ability more than day-to-day use. The single drawer adds practical daily storage in a small-space context.",
     tradeoffs: [
@@ -75,7 +75,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/03-minimalist_home_office_with_natural_light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XS3Y5F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XS3Y5F7?tag=workcocoon-20",
     whyItWorks:
       "Max and Lily is a furniture brand with a strong track record in bedroom furniture - their solid wood construction is genuinely solid hardwood, not veneer over MDF. The 47\" width combined with ~24\" depth gives this desk the most comfortable monitor ergonomics of any option under 48\" on this list. The solid wood construction means the surface can take more daily use - marks can be sanded out and the desk can be refinished.",
     tradeoffs: [
@@ -108,7 +108,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/04-cozy_mid_century_modern_home_office.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XS6TDMK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XS6TDMK?tag=workcocoon-20",
     whyItWorks:
       "The 40\" version of the same Max and Lily desk - 7 inches narrower, same depth, same solid wood construction. For bedrooms and apartments where even 47\" is tight, the 40\" variant fits in rooms and alcoves where the larger model would protrude. At 40\" wide with ~24\" depth, this desk can be placed against a wall in most studio apartment configurations without crowding the room.",
     tradeoffs: [
@@ -141,7 +141,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid pine + MDF components",
     price: "Check current availability",
     imageUrl: `${BASE}/05-natural_light_home_office_corner.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00AKKOKRY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00AKKOKRY?tag=workcocoon-20",
     whyItWorks:
       "At 36.2\" wide, the SAFAVIEH Landon is the narrowest desk on this list. What it lacks in width it compensates for with storage: 5 drawers that turn a narrow desk into a complete small-room office station. Five drawers on a 36\" desk is unusual - the storage capacity is closer to a full executive desk with pedestal drawers than a compact writing desk. For small apartments or dorm rooms where floor space is limited and drawer storage must be built into the desk itself, this is the most functional configuration available in this width range.",
     tradeoffs: [
@@ -176,7 +176,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood",
     price: "~$100-$140",
     imageUrl: `${BASE}/06-modern_minimal_office_with_wooden_furniture.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DY7J553J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DY7J553J?tag=workcocoon-20",
     whyItWorks:
       "The ODCVKRT at 47\" combines solid wood construction with built-in drawers at a competitive price. For buyers who want genuine solid wood material over veneer and need drawer storage in a small desk, this is the most affordable option meeting both criteria on this list. The listing consistently describes solid wood construction throughout - not just the frame or legs. At 47\" wide, it gives a usable single-monitor work surface.",
     tradeoffs: [
@@ -207,7 +207,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/07-cozy_minimalist_home_office_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G2QJ1GMS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2QJ1GMS?tag=workcocoon-20",
     whyItWorks:
       "Votred's 39\" solid wood desk is the most compact genuinely-solid-wood option on this list. At 39\" wide, it fits in rooms and alcoves where even 40-47\" desks feel crowded. The listing describes solid wood construction with a single drawer for basic storage. For studio apartment layouts where the desk is placed in a living area or against a short wall, 39\" is the practical minimum for a monitor plus keyboard setup - with a monitor arm for adequate viewing distance.",
     tradeoffs: [
@@ -239,7 +239,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/08-minimalist_workspace_with_navy_desk.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G2Q9KCMW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2Q9KCMW?tag=workcocoon-20",
     whyItWorks:
       "The 47\" Votred gives more surface area than the 39\" version while maintaining the same solid wood construction and single-drawer storage. For buyers who want Votred's minimal aesthetic but need a bit more desk width, the 47\" variant is the more practical daily work surface. The minimal design suits modern bedroom and apartment setups where a heavy or ornate desk would feel out of place.",
     tradeoffs: [
@@ -269,7 +269,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/09-cozy_mid_century_modern_workspace_corner.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJ261M77?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJ261M77?tag=workcocoon-20",
     whyItWorks:
       "At 35.4\" wide, the Cttasty compact model is narrower than the SAFAVIEH Landon while providing solid wood construction. The inclusion of drawers at this width is notable - most desks this narrow omit storage entirely. For very tight spaces such as a dorm room alcove or small bedroom corner, 35.4\" with drawers is a practical combination. Monitor use at this width is limited to one screen (up to 24\"), ideally with a monitor arm.",
     tradeoffs: [
@@ -301,7 +301,7 @@ export const products: SmallSolidWoodDesk[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/09-cozy_mid_century_modern_workspace_corner.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CYGTHXWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYGTHXWS?tag=workcocoon-20",
     whyItWorks:
       "The 39.4\" Cttasty writing desk offers a slightly wider surface than the 35.4\" variant while maintaining drawers and solid wood construction. At 21.7\" deep, this has the best depth-to-width ratio of the Cttasty options - the extra inch of depth relative to the 35.4\" model meaningfully improves monitor ergonomics. Use this as a backup if the smaller Cttasty or the Votred 39\" options are out of stock.",
     tradeoffs: [

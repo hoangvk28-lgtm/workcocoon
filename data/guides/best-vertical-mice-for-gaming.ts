@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "116 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XVdqDE3aL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9PDRYZK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9PDRYZK?tag=workcocoon-20",
     description:
       "One of the few vertical mice explicitly designed and marketed for gaming, with a 2400 DPI sensor and a 5D rocker button for extra in-game controls beyond a standard vertical mouse's layout.\n\nIts 2400 DPI ceiling is modest next to dedicated gaming mice that often exceed 16000 DPI, so buyers doing fast-flick FPS play should temper expectations, while slower-paced genres are less demanding on raw sensor ceiling.\n\nA genuine advantage here is that 5D rocker adds a genuinely extra control input. The tradeoff is that 2400 DPI ceiling is modest compared to dedicated gaming mice.",
     specs: ["2400 DPI sensor", "5D rocker button for extra controls", "Wireless connectivity", "Small review sample"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "Not marketed as a gaming mouse, but its large review base and low price make it a reasonable crossover pick for buyers who mostly want an ergonomic mouse and only occasionally play less demanding games.\n\nIts sensor and button count are built for office use, not fast lateral FPS movement, so treat this as a general-use mouse that happens to work for casual gaming rather than a genuine gaming product.\n\nLarge review base for general reliability. That said, not designed or marketed for gaming, sensor quality is unverified for fast play. Neither should be a surprise once you know to look for it.",
     specs: ["Office-grade sensor", "2.4GHz wireless receiver", "Right-hand specific", "Budget price point"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "Also not marketed as a gaming mouse, but its programmable buttons and companion software can be remapped for game shortcuts, which suits slower-paced MMO or strategy genres more than fast FPS play.\n\nCheck buyer feedback specifically for gaming use before relying on this for competitive play, since Logitech's gaming-specific mouse lines are a separate product family with different sensors.\n\nWorth calling out specifically: strong general review base. The catch is not a dedicated gaming sensor or DPI ceiling.",
     specs: ["Programmable buttons via companion software", "Dual 2.4GHz and Bluetooth", "Not a dedicated gaming sensor", "Premium price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A 6400 DPI sensor is a genuinely higher ceiling than most vertical mice in this guide, and the wired connection avoids any wireless input latency, both relevant for gaming even though this isn't marketed as a gaming product.\n\nIt lacks gaming-specific extras like RGB or macro software, so it suits buyers who prioritize sensor responsiveness over dedicated gaming features.\n\nWired connection avoids wireless latency concerns. Set against that, not marketed or designed specifically for gaming. Both matter when comparing it to the other picks here.",
     specs: ["6400 DPI sensor", "Wired USB connection", "Adjustable DPI levels", "Budget price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "247 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31fim6uc3BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0894QX7SK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0894QX7SK?tag=workcocoon-20",
     description:
       "A genuinely gaming-oriented design with a 10000 DPI sensor, the highest ceiling in this guide, plus a built-in joystick and 11 programmable buttons that suit MMO or strategy genres needing many shortcuts.\n\nIts vertical tilt is less pronounced than the dedicated ergonomic picks in this guide, so it leans more toward a gaming mouse with vertical-leaning shape than a full ergonomic design.\n\nThe standout detail is that joystick control is a genuinely unique input for gaming. Balancing that out, less pronounced vertical tilt than dedicated ergonomic picks.",
     specs: ["10000 DPI sensor", "Built-in joystick control", "11 programmable buttons", "Wired USB connection"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "461 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DVlxxe4WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=workcocoon-20",
     description:
       "From an established gaming brand, this pairs a 6-button ergonomic vertical body with wireless connectivity, useful for gaming-adjacent buyers who want brand-name software support for remapping.\n\nIts smaller review sample and more moderate 4.0-star rating are worth weighing against the premium price, and its sensor is not positioned as a top-tier competitive gaming sensor despite the brand name.\n\n6 programmable buttons for remapping. That's a real strength, but weigh it against the flip side: smaller review base and more moderate 4.0-star rating.",
     specs: ["Wireless connectivity", "6 programmable buttons", "Rechargeable battery", "Premium price point"],

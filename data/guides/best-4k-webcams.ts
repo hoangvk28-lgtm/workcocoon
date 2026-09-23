@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31MO34WBGhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BFJ4CRKD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BFJ4CRKD?tag=workcocoon-20",
     description:
       "The MX Brio is built for collaboration and streaming with genuine 4K capture and auto light correction that adapts to a bright window or a dim home office. It's the most well-rounded pick here for anyone who actually records or streams in 4K rather than just taking 1080p video calls. Remember that most meeting platforms cap at 1080p regardless of the camera, so the 4K capability mainly shows up when you're recording locally or streaming to a platform that supports higher resolution. It includes a privacy shutter, a genuinely important feature that's easy to overlook when comparing specs. Worth calling out specifically: auto light correction handles mixed lighting well. The catch is most expensive picks in this list.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21JK5gzEnYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09NBWWP79?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09NBWWP79?tag=workcocoon-20",
     description:
       "The Brio Ultra targets streamers and meeting hosts who want true 4K resolution without stepping up to the MX Brio's price. It captures well across a range of lighting conditions and works reliably with OBS and other streaming software.\n\nA 4K stream needs solid upload bandwidth to avoid the webcam auto-downscaling mid-stream, worth checking your connection before assuming you'll get full resolution output. Sharing a USB hub with an external SSD or capture card can also cause bandwidth conflicts that show up as dropped frames.\n\nReliable OBS and streaming software compatibility. Set against that, needs a stable upload connection for full 4K streaming. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41OnE1PPPbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJHZ92P6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJHZ92P6?tag=workcocoon-20",
     description:
       "The C960 brings a 4K CMOS sensor with PDAF autofocus and dual omnidirectional mics to a genuinely budget price point, well under half of most other 4K webcams in this list. It includes auto light correction and a 73 degree field of view for typical desk video calls.\n\nAt this price the sensor is smaller than the premium picks, so expect noticeably softer detail and weaker low-light performance than the Logitech or Razer options above, even though the resolution number matches. It's a reasonable entry point if you want to try 4K without committing to a premium price.\n\nA genuine advantage here is that pDAF autofocus keeps subjects sharp. The tradeoff is smaller sensor than premium picks, softer detail.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413NnHzV0CL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT6FFK4R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT6FFK4R?tag=workcocoon-20",
     description:
       "The Kiyo Pro Ultra is built around a genuinely large sensor, the spec that actually drives low-light performance and natural depth of field, more than resolution alone. It includes a built-in microphone and shutter, and DSLR-style manual controls for buyers who want to fine-tune exposure and focus themselves. It's the most expensive pick in this list, positioned for serious content creators and streamers rather than everyday video calls. Its large sensor is the clearest example in this guide of why sensor size deserves more attention than the resolution number alone. DSLR-style manual controls for serious content creators. On the other hand, highest price in this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41fLjPsHwJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DHWGNW4P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DHWGNW4P?tag=workcocoon-20",
     description:
       "The Facecam Pro supports true 4K at 60fps, a genuinely demanding spec for both the camera and your USB bandwidth, plus advanced light correction and DSLR-style controls. Buying it renewed brings a premium 4K60 webcam down from its full retail price.\n\n4K60 streaming needs a stable, fast internet upload and a dedicated USB 3.0 port without bandwidth-sharing devices, or the camera will auto-downscale mid-session. As with any renewed electronics, confirm the seller's return window before committing.\n\nDSLR-style controls for fine-tuned image quality. That's a real strength, but weigh it against the flip side: renewed condition means checking the return policy closely.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31hcqWMUPCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09C1BT8W3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09C1BT8W3?tag=workcocoon-20",
     description:
       "This renewed Logitech 4K Pro captures 4K at 30fps with autofocus, a 90 degree diagonal field of view, and RightLight 3 HDR for handling mixed lighting, all at a noticeably lower price than the newer MX Brio. Five times digital zoom adds some framing flexibility without moving the camera itself.\n\nAs with any renewed device, check the seller's return window before purchasing. This is a reasonable middle ground for buyers who want genuine 4K and HDR handling without the premium MX Brio or Kiyo Pro Ultra price tags.\n\nWorth calling out specifically: rightLight 3 HDR handles mixed lighting well. The catch is renewed condition means checking the return policy closely.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413c3lWANvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K986YLL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07K986YLL?tag=workcocoon-20",
     description:
       "To be upfront, the C920S captures at 1080p, not 4K, and it's included here as an honest budget alternative because most video calls cap at 1080p by default anyway. If your actual use case is Zoom or Teams meetings rather than 4K recording or streaming, this camera delivers clear stereo audio and reliable 30fps video at a fraction of a true 4K webcam's price.\n\nIt includes a built-in privacy shutter and stereo microphones, and its long track record makes it a low-risk pick for anyone who realizes, after reading the specs above, that they don't actually need 4K.\n\n1080p is enough for the vast majority of video call platforms. Set against that, not actually 4K, despite sitting in this comparison for context. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31b9CoD+YcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B086GHDRX4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B086GHDRX4?tag=workcocoon-20",
     description:
       "This 4K webcam ships with a magnetic mount purpose-built for the Apple Pro Display XDR, avoiding the wobbly clip-on mounting that a heavier 4K webcam can suffer on a thin laptop lid or curved monitor edge. Genuine mounting stability matters more than most buyers expect once a camera has real weight to it.\n\nIf you don't own a Pro Display XDR, this magnetic mount won't attach the same way, so this pick is specifically for that display rather than a general-purpose 4K webcam. For Apple Pro Display XDR owners, it solves a mounting problem none of the clip-on picks in this list address.\n\nA genuine advantage here is that true 4K resolution. The tradeoff is magnetic mount only works with the Pro Display XDR specifically.",
     specs: [

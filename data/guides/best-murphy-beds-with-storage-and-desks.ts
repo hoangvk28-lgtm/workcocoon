@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 4 Amazon ratings",
     reviews: "4.4 stars from 4 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WkdwEwOOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H33PY32C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H33PY32C?tag=workcocoon-20",
     description:
       "The Merax packs the most features into one wall unit in this list: a fold-down desk, built-in lights, a power outlet, open shelves, and drawers, all around a queen mattress platform. That's genuinely convenient for a true 3-in-1 room, but it also means the heaviest, most complex assembled unit here, one where professional installation is worth strong consideration rather than a solo DIY attempt given the combined weight of the frame, shelving, and desk hardware. Expect the desk surface to fold away cleanly when the bed comes down, and budget realistic daily transition time, clearing the desk, folding it up, then lowering the bed, rather than assuming it's an instant swap. It's the most expensive pick here, reflecting the full feature set. Built-in lighting and power outlet at the desk. That's a real strength, but weigh it against the flip side: highest price in this list.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 340 Amazon ratings",
     reviews: "4.3 stars from 340 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41OSDWSbyZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G1C4H842?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1C4H842?tag=workcocoon-20",
     description:
       "The LUXOAK is the lowest priced combo unit in this list, a full-size cabinet bed with integrated storage and a charging station rather than a full desk workstation like the Merax. It's a strong entry point if your priority is closing off the sleeping space during the day rather than running a full home office from the same wall unit.\n\nA full-size mattress platform is more compact than queen, worth checking against your actual sleeping needs before ordering. With over 300 reviews, it has enough real buyer feedback to gauge long-term reliability, a useful data point for a lower-priced combo unit in this weight class.\n\nWorth calling out specifically: solid review base for a budget combo unit. The catch is no dedicated desk surface, storage and charging only.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 396 Amazon ratings",
     reviews: "4.2 stars from 396 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Og-FctXuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=workcocoon-20",
     description:
       "This AMERLIFE offers queen size sleeping space with integrated storage and a charging station at a mid-range price, positioned between the budget LUXOAK and the higher-priced desk-equipped models. Like the LUXOAK, it skips a dedicated desk surface, so pair it with a separate small desk nearby if you need a real workstation during the day.\n\nWith nearly 400 reviews, it has a solid real-world feedback base for its price tier. As with any combo unit in this weight class, verify the wall it will mount to has proper stud spacing before ordering, since these units are not designed to hang on drywall alone.\n\nSolid review base. Set against that, no dedicated desk surface. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 396 Amazon ratings",
     reviews: "4.2 stars from 396 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51ThmQNX7fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DJKJQ9SH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJKJQ9SH?tag=workcocoon-20",
     description:
       "This is a near-identical AMERLIFE listing to the previous entry, sharing the same queen platform, storage cabinet, and charging station, but currently priced a real lower. It's worth checking both listings at the time of purchase since Amazon pricing on near-duplicate listings shifts, and the lower priced option may not always be this one. The same installation and stability guidance applies as with its sibling listing: confirm proper stud anchoring before mounting, and budget for professional installation help given the assembled weight of a queen combo unit. A genuine advantage here is that same solid review base as the sibling listing. The tradeoff is no dedicated desk surface.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 42 Amazon ratings",
     reviews: "4.2 stars from 42 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VsjmNEWaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G2M8PP28?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2M8PP28?tag=workcocoon-20",
     description:
       "This LUXOAK queen model includes a 6 inch tri-fold memory foam mattress in the box, a genuine convenience for a combo unit purchase since you won't need to separately source and fit a mattress to the platform. Storage drawer and charging station round out the combo features, though like other AMERLIFE and LUXOAK models here it doesn't include a fold-down desk.\n\nA tri-fold mattress is designed specifically to work with the folding mechanism, so it's a safer match than trying to retrofit a standard mattress to a Murphy platform. Its review count is lower than the AMERLIFE listings, worth weighing against the added convenience of an included mattress.\n\nStorage drawer and charging station included. That's a real strength, but weigh it against the flip side: no dedicated desk surface.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 4 Amazon ratings",
     reviews: "4.2 stars from 4 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/410wj4ur4iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FL6TKLRZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FL6TKLRZ?tag=workcocoon-20",
     description:
       "The MERITLINE is a full-size Murphy bed that combines a fold-down desk with bookcase-style open storage shelves, a true 3-in-1 unit in a more compact full-size footprint than the queen combo models here. That smaller footprint is worth considering if your room can't accommodate a queen wall unit but you still want the desk plus storage combo experience.\n\nExpect the same transition-time and desk-depth tradeoffs as any Murphy desk combo: budget several minutes to clear the desk and fold it away before lowering the bed, and note that a Murphy desk surface typically runs shallower than a standalone desk, which affects comfortable monitor viewing distance.\n\nWorth calling out specifically: bookcase storage adds real shelving. The catch is very limited review count so far.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/411Sr37BSYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GX63SNCJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GX63SNCJ?tag=workcocoon-20",
     description:
       "The KEIKI is a queen combo unit with an integrated desk, and its gas strut fold mechanism is specifically designed to make the daily office-to-bedroom transition smoother and less physically demanding than a purely spring-loaded or manual fold system. That's a meaningful advantage for anyone actually planning to fold this bed up and down every single day rather than leaving it in one position most of the time.\n\nAs a new listing without established review history yet, weigh the gas-strut convenience against the lack of long-term buyer feedback compared to the AMERLIFE or LUXOAK models. Professional installation is still the safer choice given the assembled weight of a queen desk-and-storage combo unit.\n\nIncludes a fold-down desk. Set against that, new listing, no established review history yet. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 1 Amazon rating",
     reviews: "5.0 stars from 1 Amazon rating",
     imageUrl: "https://m.media-amazon.com/images/I/51zyMjMgUpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H25F5GNC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H25F5GNC?tag=workcocoon-20",
     description:
       "The Softa states a 1200 lbs heavy duty weight rating, the highest stated capacity in this list, alongside a fold-down desk, storage drawer, and charging station, and it doesn't require a box spring, simplifying the mattress setup somewhat compared to units built for a standard mattress and foundation. That combination of desk, storage, and heavy-duty rated frame makes it a genuine full 3-in-1 unit.\n\nWith only a single review at the time of research, treat that 5.0 rating as a very early signal rather than a proven track record. As with every combo unit in this weight class, proper stud anchoring and likely professional installation matter given how much assembled weight a Murphy desk-and-storage cabinet carries once mounted.\n\nA genuine advantage here is that includes fold-down desk, storage, and charging station. The tradeoff is only a single review at time of research.",
     specs: [

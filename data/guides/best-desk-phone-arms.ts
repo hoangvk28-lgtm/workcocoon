@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,655",
     imageUrl: "https://m.media-amazon.com/images/I/515BergNltL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=workcocoon-20",
     description:
       "This third-generation LISEN arm uses a steel body with shock-absorbing springs and a tension knob at each joint, addressing the sagging problem that plagues cheaper gooseneck arms once a phone's weight settles in. The one-touch spring clip has a built-in silicone pad and handles phones with most protective cases attached.\\n\\nThe bi-directional base clamps to desks, bed frames, or nightstands, and the whole arm folds flat for storage. It is the most structurally reinforced pick here, appropriate for buyers who plan to leave a phone mounted overhead for extended video sessions.\n\nIt leads this comparison mainly on build reinforcement and how well it holds a phone steady during touch interaction, worth weighing directly against the SAIJI Gooseneck Bed Phone Holder.\n\nCase-friendly spring clip. That's a real strength, but weigh it against the flip side: bulkier than simple gooseneck arms.",
     specs: ["Steel body, spring-tensioned joints","One-touch spring clip with silicone pad","Bi-directional clamp base","Foldable for storage"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "32,606",
     imageUrl: "https://m.media-amazon.com/images/I/31+F3sAWSTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=workcocoon-20",
     description:
       "SAIJI's arm is a 33.46 inch flexible gooseneck built from 8.5mm aluminum alloy, long enough to reach from a desk edge clamp to well above eye level. The anti-slip silicone base pad is designed not to mark furniture, and the clamp fits phones from 4.0 to 6.3 inches wide.\\n\\nAt this price it is the most popular pick by review volume, though buyers with larger phones plus a thick case should check the clip's width tolerance before assuming a snug fit. It comes with a 12-month replacement warranty.\n\nSet against the LISEN Cell Phone Holder for Bed Desk, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: long reach for flexible positioning. The catch is clip width may be tight with bulky cases.",
     specs: ["33.46in flexible aluminum arm","360° rotation","Fits phones 4.0-6.3in wide","Anti-slip silicone base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "23,326",
     imageUrl: "https://m.media-amazon.com/images/I/31sVYQbspmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=workcocoon-20",
     description:
       "MAGIPEA uses a high-density aluminum alloy core that the listing describes as intentionally stiff to prevent drooping, meaning you bend it into position with both hands rather than expecting one-handed micro-adjustment. The base clamp opens to 3 inches, wide enough for thick bed frames or desk edges.\n\nRelative to the SAIJI Gooseneck Bed Phone Holder, this pick leans toward a different priority, whether that's a lower price, a longer reach, or a mounting style suited to a different desk edge.\n\nWide clamp fits thick desk edges. Set against that, requires two hands to reposition. Both matter when comparing it to the other picks here.",
     specs: ["Stiff-core aluminum gooseneck","360° rotation clamp","3in wide base clamp","Fits 3.5-7in devices"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,732",
     imageUrl: "https://m.media-amazon.com/images/I/419C11rQcXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=workcocoon-20",
     description:
       "This is a genuine magic arm, not a bendable gooseneck, using double-ball clamp joints at each segment that lock with a single friction knob rather than relying on stiff material to hold a bent shape. Rated for 600g (21oz), it handles most phones plus a case comfortably.\\n\\nThe crab clamp opens to 63.5mm and includes silicone padding at twelve contact points to protect both the clamp and whatever it holds. This is built for content creators mounting phones, webcams, or small lights interchangeably, not exclusively phone display.\n\nCompared with the MAGIPEA Gooseneck Phone Holder for Bed above, this pick trades some of that pick's reach or reinforcement for a different balance of price and simplicity, worth weighing against your own desk setup.\n\nMulti-device compatible (phone, webcam, light). That's a real strength, but weigh it against the flip side: most expensive pick in this guide.",
     specs: ["22in double-ball-joint magic arm","600g (21oz) load capacity","Crab clamp opens to 63.5mm","1/4-20 mount, phone clamp included"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "988",
     imageUrl: "https://m.media-amazon.com/images/I/31jBgnNJK5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=workcocoon-20",
     description:
       "NEEWER's magic arm competes directly with the SMALLRIG pick above, with anti-twist pins at each mounting interface to keep the connection secure during shooting. The included phone holder clamps devices from 2.2 to 3.2 inches wide, and the arm accepts standard 1/4 and 3/8 inch threaded accessories.\\n\\nIts wider device compatibility list (action cameras, ring lights, field monitors) makes it a slightly more flexible buy than a phone-only arm, at a nearly identical price to the SMALLRIG option.\n\nSet against the SMALLRIG 22\" Magic Arm Clamp, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: wide device compatibility. The catch is same premium price tier as SMALLRIG.",
     specs: ["22in magic arm with C clamp","Anti-twist mounting pins","1/4in and 3/8in threads","Phone holder fits 2.2-3.2in width"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,491",
     imageUrl: "https://m.media-amazon.com/images/I/41Ut4+ko99L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C77YK94D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C77YK94D?tag=workcocoon-20",
     description:
       "The top pick from our under-desk cup holder research, this rotating cup holder combined with a genuine headphone hanger has the strongest review history of any hanging accessory across our entire research batch.\n\nIt leads this comparison mainly on rated capacity and build reinforcement for a genuinely loaded file collection, worth weighing directly against the 4 in 1 Metal Clip On Cup Holder Attachment.\n\nGenuine multi-function hybrid. That's a real strength, but weigh it against the flip side: requires checking knee clearance.",
     specs: ["Rotating cup holder","Headphone hanger","Under-desk clamp mount","No-drill attachment"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "162",
     imageUrl: "https://m.media-amazon.com/images/I/41z6n2eEheL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=workcocoon-20",
     description:
       "The largest disclosed cup capacity across our cup holder research, this metal clip combines a 40oz-rated cup holder with headphone and accessory hanging points on one desk-edge clamp.\n\nSet against the KDD 4, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: combined multi-function attachment. The catch is higher price.",
     specs: ["Metal clip attachment","Rated for cups up to 40oz","Combined hanging points","No-drill attachment"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "491",
     imageUrl: "https://m.media-amazon.com/images/I/51NHUcgYmoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=workcocoon-20",
     description:
       "Our top file organizer pick, though honesty note: this requires drilling into a wall rather than a no-drill desk clamp, the highest-rated hanging accessory in our entire research batch for buyers willing to drill.\n\nRelative to the 4 in 1 Metal Clip On Cup Holder Attachment, this pick leans toward a different priority, whether that's a lower price, a different attachment method, or a finish suited to a different space.\n\nAdjustable tier spacing. Set against that, requires drilling, not a no-drill accessory. Both matter when comparing it to the other picks here.",
     specs: ["Wall-mounted, requires drilling","5 adjustable tiers","Metal construction","Highest rating in our research"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "405",
     imageUrl: "https://m.media-amazon.com/images/I/51Cr5PIjCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=workcocoon-20",
     description:
       "For buyers who specifically want a no-drill hanging accessory, this genuinely hangs from a desk edge, an established Safco office furniture design at the highest price of any pick in this roundup.\n\nCompared with the Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder above, this pick trades some of that pick's capacity or adjustability for a different balance of price and mounting simplicity, worth weighing against your own wall or desk situation.\n\nEstablished brand quality. That's a real strength, but weigh it against the flip side: most expensive pick in this roundup.",
     specs: ["Desk-edge hanging, no drilling","3 vertical mesh trays","Established Safco brand","No-drill attachment"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "896",
     imageUrl: "https://m.media-amazon.com/images/I/51YpYvY4LwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=workcocoon-20",
     description:
       "Our top hanging drawer pick, this clamp-on unit adds two genuine slide-out compartments under the desk without drilling, carrying a strong review count from our under-desk organizer research.\n\nSet against the Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: no-drill clamp attachment. The catch is bulkier under-desk footprint.",
     specs: ["Clamp-on, no drilling","2 separate slide-out drawers","Mesh metal construction","Strong review count"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "280",
     imageUrl: "https://m.media-amazon.com/images/I/51XpqFad+GL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=workcocoon-20",
     description:
       "The highest tier count across our vertical organizer research, this mesh design maximizes document category separation, though it requires wall drilling and ideally a stud mount given its height.\n\nRelative to the Homeify Under Desk Drawer Organizer Clamp, this pick leans toward a different priority, whether that's a lower price, a different attachment method, or a finish suited to a different space.\n\nAffordable for the capacity. Set against that, requires drilling. Both matter when comparing it to the other picks here.",
     specs: ["Wall-mounted mesh design","7 vertical tiers","Metal wire construction","Affordable"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "366",
     imageUrl: "https://m.media-amazon.com/images/I/51jmG3xLXjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=workcocoon-20",
     description:
       "The most affordable well-reviewed wall-mounted pick across our research, combining 5-tier file storage with 5 hooks for keys or small items, at the lowest price of any 5-tier design we found.\n\nCompared with the Simple Trending Wall File Organizer above, this pick trades some of that pick's capacity or adjustability for a different balance of price and mounting simplicity, worth weighing against your own wall or desk situation.\n\nHooks add multi-purpose utility. That's a real strength, but weigh it against the flip side: requires drilling.",
     specs: ["Wall-mounted, 5 tiers plus 5 hooks","Multi-purpose hanging points","Lowest price of the 5-tier picks","Metal construction"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "75",
     imageUrl: "https://m.media-amazon.com/images/I/61-H71DCbEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=workcocoon-20",
     description:
       "A compact, no-drill clamp-on mesh drawer that rounds out this hub with a genuinely small-footprint storage option, well-suited to buyers who want just one added compartment rather than a larger combined system.\n\nSet against the JMHUD 5, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: mesh allows content visibility. The catch is smaller review count.",
     specs: ["Clamp-on, no drilling","Mesh metal drawer construction","Compact under-desk profile","Content-visible design"],

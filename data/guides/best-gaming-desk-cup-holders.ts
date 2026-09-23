@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "762",
     imageUrl: "https://m.media-amazon.com/images/I/41C-eWZ9gfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=workcocoon-20",
     description:
       "No RGB or gaming branding here, just the strongest bump resistance in this comparison from a deep, form-fitting cavity, the priority we weighted most heavily for a gaming desk surrounded by expensive peripherals. This remains the most proven pick across our entire cup holder research by combined rating and review volume.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the 360° Rotating Desk Cup Holder.\n\nWorth knowing before you decide: Proven rating and review history. On the other side, No RGB or gaming-themed styling. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Deep form-fitting cavity","Metal clamp construction","No-drill attachment","No gaming-specific styling"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "107",
     imageUrl: "https://m.media-amazon.com/images/I/41O6g1jvklL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8M2JYP1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8M2JYP1?tag=workcocoon-20",
     description:
       "The 360-degree rotation lets you swing the cup away from your keyboard, mouse, and graphics card during intense gameplay moments where accidental bumps are more likely, an extra safety margin worth having on a crowded gaming setup.\n\nSet against the OOKUU Upgraded Large Desk Cup Holder Clamp, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Metal build quality. On the other side, No gaming-specific styling. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["360° rotating clamp base","Metal construction","Swings clear of peripherals during gameplay","No-drill attachment"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "162",
     imageUrl: "https://m.media-amazon.com/images/I/41z6n2eEheL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=workcocoon-20",
     description:
       "This is explicitly marketed for gaming desks in its title, though the gaming relevance is mainly the large 40oz capacity common among gamers' oversized tumblers, not RGB or aesthetic features. It combines the cup holder with headphone and accessory hanging points on one clamp.\n\nRelative to the 360° Rotating Desk Cup Holder, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Combined multi-function attachment points. On the other side, Gaming relevance is capacity, not aesthetic features. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Metal clip attachment","Rated for cups up to 40oz","4-in-1 combined hanging points","Gaming desk marketed"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "897",
     imageUrl: "https://m.media-amazon.com/images/I/41IGPpikgiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CH9VBM6R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CH9VBM6R?tag=workcocoon-20",
     description:
       "Its name references controller storage specifically, a genuine relevance to gaming setups with a spare gamepad or headset needing a home, combined with a rotating cup holder and headphone hanger on one clamp base.\n\nCompared with the 4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Strong review count. On the other side, Each individual feature more compact than a dedicated holder. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["5-in-1 combined clamp base","Controller/accessory storage","Rotating headphone hanger","Cup holder"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "70",
     imageUrl: "https://m.media-amazon.com/images/I/61tWyW9bgvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=workcocoon-20",
     description:
       "The most affordable pick still uses a fully covered cavity, real spill protection at a budget price for gamers who don't need the higher capacity or combined features of the pricier picks above.\n\nSet against the KDD 5, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Covered cavity for spill resistance. On the other side, Small review count limits confidence. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Fully covered cavity","Clip-on attachment","Compact footprint","Lowest price in this comparison"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,977 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/11+EgVZfdVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D955ZMSR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D955ZMSR?tag=workcocoon-20",
     description:
       "A 3-pack mesh kit with the largest review base and a high 4.4-star rating in this guide, appropriate for buyers wanting genuine seamless roaming with proven real-world reliability.\n\neero's app-based setup is genuinely simple, though it requires an ongoing companion app account even for basic local configuration, worth knowing before purchase.\n\nHigh 4.4-star rating for real-world reliability. Set against that, dual-band design skips the 6GHz radio, verify this tradeoff matches expectations. Both matter when comparing it to the other picks here.",
     specs: ["Dual-band mesh", "3-pack node kit", "Covers up to 6,000 sq. ft.", "Supports internet plans up to 2.5 Gbps"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EClf31jxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=workcocoon-20",
     description:
       "A genuinely wired-backhaul-capable mesh kit with 2.5G ports for a dedicated Ethernet connection between nodes, appropriate for buyers with existing in-wall wiring wanting the most reliable backhaul option.\n\nHigh 4.4-star rating gives real confidence, and the explicit wired backhaul support avoids the wireless-backhaul bandwidth tradeoff entirely.\n\nThe standout detail is that high 4.4-star rating with a solid review base. Balancing that out, dual-band design skips the 6GHz radio, verify this tradeoff matches expectations.",
     specs: ["Dual-band mesh", "2x 2.5G wired backhaul ports", "Covers up to 6,500 sq. ft.", "3-pack node kit"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,158 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31cXnHQNtzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKVDZXSN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKVDZXSN?tag=workcocoon-20",
     description:
       "A higher BE5000 rated Deco system with a large review base, appropriate for buyers wanting more total capacity than the entry-tier Deco 7 BE23 while staying within the TP-Link mesh ecosystem.\n\n240MHz channel width gives real headroom above the entry tier's narrower channel, worth this upgrade if your household has many simultaneous devices.\n\nHigher BE5000 rating gives more total capacity than entry-tier Deco kits. That's a real strength, but weigh it against the flip side: dual-band design skips the 6GHz radio, verify this tradeoff matches expectations.",
     specs: ["Dual-band mesh", "BE5000 combined rating", "240MHz channel width", "4-stream configuration"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "452 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21-EtjvbkUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH39S1XJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH39S1XJ?tag=workcocoon-20",
     description:
       "NETGEAR's Orbi mesh line brings mature mesh-specific firmware and app tooling, appropriate for buyers preferring Orbi's ecosystem or already invested in Orbi hardware.\n\nCovers a solid 6,000 sq. ft. footprint, though verify node placement and wall construction realistically before assuming this figure applies to your specific home layout.\n\nSolid 6,000 sq. ft. coverage rating for large homes. On the other hand, more moderate 4.2-star rating, verify current reviews for reliability reports. Both are worth keeping in mind before deciding.",
     specs: ["Dual-band mesh", "Covers up to 6,000 sq. ft.", "NETGEAR Orbi platform", "3-pack node kit"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "1,077 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31hsjP9+bQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN8QLS4K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN8QLS4K?tag=workcocoon-20",
     description:
       "A genuine tri-band mesh system including the 6GHz radio, appropriate for buyers specifically wanting full Wi-Fi 7 capability across a whole-home mesh setup rather than a dual-band mesh compromise.\n\nA dedicated 6GHz backhaul is common on tri-band mesh systems like this one, worth verifying whether that backhaul is dedicated or shared with client devices for accurate real-world throughput expectations.\n\nA genuine advantage here is that large review base for real-world reliability confidence. The tradeoff is that higher price than dual-band mesh alternatives.",
     specs: ["Tri-band mesh with genuine 6GHz radio", "BE10000 combined rating", "6-stream configuration", "Large review base"],

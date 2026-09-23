@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed for allergies with certified True HEPA H13 removing 99.97% of particulates, by far the largest review base of any pick in this guide as real-world allergy-relief evidence.\n\nVerify the 4-5 ACH target against your specific room size, and note that allergens settling on surfaces are only recirculated by disturbance, placement and timing relative to cleaning matter too.\n\nBy far the largest review base of any pick in this guide. On the other hand, verify 4-5 ACH target against your specific room size. Both are worth keeping in mind before deciding.",
     specs: ["True HEPA H13, marketed for allergies", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "Explicitly marketed for allergies and pet dander with an air quality monitor, large review base and 3-year warranty for real long-term confidence.\n\nSeasonal allergy sufferers may need higher ACH during peak pollen weeks than a unit sized for average year-round need, this larger coverage rating gives real headroom for those periods.\n\nA genuine advantage here is that explicitly marketed for allergies and pet dander. The tradeoff is that higher price than the top pick.",
     specs: ["HEPA filter, marketed for allergies and pet dander", "Air quality monitor, Auto/Eco mode", "3-year warranty", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Smart app control lets you genuinely adjust speed for seasonal pollen peaks versus a lower year-round baseline. Large rated coverage supports a real 4-5 ACH target across a bigger room.\n\nUse the app scheduling to run higher speeds during peak pollen weeks specifically, rather than a flat year-round setting that may underperform during your worst symptom periods.\n\nLarge rated coverage supports a real 4-5 ACH target. That said, higher price than compact alternatives. Neither should be a surprise once you know to look for it.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Higher capacity for ACH headroom"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pCHKKqN2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=workcocoon-20",
     description:
       "The same proven allergy and pet dander design in a white finish, appropriate for a lighter aesthetic while keeping the same 3-year warranty and ACH headroom.\n\nSame seasonal and ACH considerations apply as the black variant, verify your specific room's ACH need and seasonal peaks.\n\nWorth calling out specifically: 3-year warranty. The catch is higher price than the top pick.",
     specs: ["HEPA filter, marketed for allergies and pet dander", "Air quality monitor, Auto/Eco mode", "3-year warranty", "White finish"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, appropriate for basic allergy relief on a budget. Verify HEPA certification level before assuming premium particulate capture.\n\nPet dander (finer, more allergenic) requires genuine HEPA-level filtration to capture effectively, verify this certification specifically if pet dander is your main allergen concern.\n\nSolid review base. Set against that, verify certified True HEPA vs. HEPA-type claim for dander capture. Both matter when comparing it to the other picks here.",
     specs: ["HEPA filtration", "Solid review base", "Budget-friendly", "Compact design"],

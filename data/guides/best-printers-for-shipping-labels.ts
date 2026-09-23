@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41+ONy0DNTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MA3EYC5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MA3EYC5?tag=workcocoon-20",
     description:
       "The Rollo USB is a commercial-grade direct thermal 4x6 label printer built for sellers printing shipping labels at real volume, with a wired USB connection that avoids any Bluetooth pairing drops during a busy packing session. It works across Windows and Mac and supports most major shipping platforms.\n\nAs a direct thermal printer, it uses heat rather than ink or toner, which keeps per-label cost low but means it's built specifically for label printing, not general documents. Its higher price reflects the more durable, higher-throughput mechanism aimed at sellers shipping consistently rather than occasionally.\n\nCommercial-grade build for real shipping volume. Set against that, higher price than the Bluetooth budget picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31zsmO4VVBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09VF4Z2WQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09VF4Z2WQ?tag=workcocoon-20",
     description:
       "This is Rollo's Wi-Fi version of its direct thermal label printer, adding AirPrint support from iPhone and iPad alongside broader OS support across Windows, Chromebook, Android, and Linux. It's the most flexible connectivity option in this list for a household or small team printing labels from multiple devices.\n\nLike the USB model, it's a direct thermal engine with no ink or toner, built specifically for shipping labels rather than general printing. The premium over the wired Rollo buys genuine network flexibility, worth it if multiple people or devices need to print labels without physically connecting a cable.\n\nA genuine advantage here is that widest OS compatibility of any pick here. The tradeoff is highest price in this list.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41ffs1HVVlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP7STCSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP7STCSP?tag=workcocoon-20",
     description:
       "A compact Bluetooth direct thermal printer aimed at sellers who want to print labels straight from a phone without a computer nearby, common for sellers packing orders away from a desk. It covers the standard 4x6 shipping label format most carriers require. at a budget-friendly price, it's one of the more accessible entry points into dedicated thermal label printing, though Bluetooth connections can be less consistent during a long batch print run than the wired Rollo above, worth factoring in if you're printing dozens of labels in one sitting. Print directly from a phone via Bluetooth. On the other hand, bluetooth can be less consistent for long batch runs. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41-iYNm+qrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXXPHZLR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXXPHZLR?tag=workcocoon-20",
     description:
       "Functionally the same Bluetooth direct thermal printer as the MUNBYN pick above, listed separately here since it's a distinct Amazon listing that may carry a different color option or bundle at the same price. The core engine, connection type, and 4x6 label support are identical.\n\nWe list it as a separate pick because listing availability and minor bundle differences (spare label rolls, cables) can vary between MUNBYN's listings, worth comparing both before ordering.\n\nPrint directly from a phone. That's a real strength, but weigh it against the flip side: bluetooth can be less consistent for long batch runs.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41WyIBuh94L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07S48NHYS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07S48NHYS?tag=workcocoon-20",
     description:
       "The RealWriter 941 offers both Bluetooth and USB connectivity on the same printer, giving sellers a wired fallback for long batch runs while keeping Bluetooth for quick phone printing when needed. It's a genuine middle ground between the budget Bluetooth-only picks and the pricier wired-only Rollo.\n\nAs a direct thermal 4x6 printer, it needs no ink or toner, and the dual connectivity is the main reason it costs more than the single-connection MUNBYN Bluetooth models above.\n\nWorth calling out specifically: bluetooth available for quick phone printing. The catch is pricier than the single-connection MUNBYN Bluetooth picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41El+d9Kg4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B099MLDBKJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B099MLDBKJ?tag=workcocoon-20",
     description:
       "The JADENS is one of the cheapest dedicated thermal label printers in this list, covering Android, iPhone, Windows, and Mac over Bluetooth, with stated compatibility for Amazon, Shopify, Etsy, and USPS label workflows. It's a straightforward direct thermal 4x6 printer with no ink or toner to buy.\n\nAt this price it suits a seller just starting out who ships infrequently but wants to stop hand-cutting sheet labels. Bluetooth-only connectivity means the same batch-printing consistency tradeoff as the other budget Bluetooth picks in this list.\n\nStated compatibility across major marketplaces. Set against that, bluetooth-only, no wired fallback. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xn0LTTCWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR86V4ZV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR86V4ZV?tag=workcocoon-20",
     description:
       "The KNAON is the lowest-priced thermal label printer in this list, built as a small, portable unit for a seller who packs orders in a limited space or needs to move the printer between a desk and a packing table. It supports iPhone, Android, Windows, and Mac over Bluetooth, with the usual major-platform compatibility.\n\nAt this price and size, it's built for lighter shipping volume rather than continuous batch runs, and like every pick in this list it's a direct thermal printer with no ink or toner cost.\n\nA genuine advantage here is that compact and portable for tight spaces. The tradeoff is best suited to lighter shipping volume.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/516JTpeV2EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DX6RVJF7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DX6RVJF7?tag=workcocoon-20",
     description:
       "A straightforward, no-frills Bluetooth direct thermal 4x6 printer with a generic brand listing, covering the same core function as the named-brand budget picks above without any distinguishing features beyond price. It supports standard 4x6 shipping labels for small business shipping needs.\n\nBecause it's a lesser-known brand, expect fewer firmware updates and less established customer support than the MUNBYN, JADENS, or Rollo picks in this list, worth weighing against its lower price for anyone who values longer-term brand support.\n\nCovers the core 4x6 shipping label function. On the other hand, less established brand support than named-brand picks. Neither should be a surprise once you know to look for it.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "44 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41H5F8LUWzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWGZCWWX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GWGZCWWX?tag=workcocoon-20",
     description:
       "Explicitly supports both vertical and horizontal orientation for full and mid-tower cases, with a genuinely high 77-pound rated capacity, appropriate for buyers wanting horizontal mounting without sacrificing weight headroom.\\n\\nHorizontal orientation on this mount needs meaningfully more under-desk width and depth than the vertical setting, measure your available under-desk space before ordering rather than assuming it fits based on the mount's compact vertical footprint alone.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the PUTORSEN Under Desk PC Mount for Mid/Mini before deciding.\n\nWorth knowing before you decide: High 77lb capacity in either orientation. On the other side, Horizontal orientation needs meaningfully more under-desk clearance. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Vertical or horizontal orientation","Up to 77 lbs capacity","Full/mid-tower compatible","Budget-friendly price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "44 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31FzJr+WRPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZXWGNRY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZXWGNRY?tag=workcocoon-20",
     description:
       "The mid and mini-tower focused sibling of our top pick, offering the same vertical or horizontal orientation flexibility and 77-pound capacity but sized for smaller cases needing meaningfully less under-desk clearance in horizontal mode.\\n\\nCable routing in horizontal orientation still differs from vertical, ports face a different direction relative to your seated position, verify realistic access before committing to horizontal mounting.\n\nSet against the PUTORSEN Under Desk PC Mount for Full/Mid, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: High 77lb capacity for a mid/mini-tower mount. On the other side, Still requires more clearance in horizontal mode than vertical. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Vertical or horizontal orientation","Up to 77 lbs capacity","Mid/mini-tower compatible","Smaller footprint than full-tower version"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "433 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31DzC4Wn1JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=workcocoon-20",
     description:
       "Adjustable and rated for 77 pounds with a strong review base, this mount's adjustable design accommodates horizontal positioning for buyers with limited vertical under-desk space, though verify orientation flexibility specifics against your exact clearance.\\n\\nDust accumulation on the now-upward-facing top surface is a genuine consideration for horizontal orientation, worth factoring into cleaning routines that a vertically-mounted side panel wouldn't need.\n\nRelative to the PUTORSEN Under Desk PC Mount for Mid/Mini, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Adjustable design accommodates varied desk clearance. On the other side, Verify orientation flexibility specifics against your exact under-desk space. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 77 lbs capacity","Adjustable positioning","Strong review base","Mid-range price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from Amazon ratings",
     reviews: "49 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uzdCGRrbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=workcocoon-20",
     description:
       "The highest average rating in this guide, this compact mount suits buyers with genuinely limited under-desk depth who need to keep the horizontal footprint as small as possible while still holding a 66-pound rated case.\\n\\nAs with any horizontal mount, verify your specific case's cooling design tolerates the orientation change, since some cases are optimized for vertical airflow and horizontal mounting can shift thermal performance.\n\nCompared with the Heavy Duty Under Desk PC Holder above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Compact footprint suits limited under-desk clearance. On the other side, Smaller review base than the higher-volume picks. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Max 66 lbs capacity","Height adjustable","Highest average rating","Compact footprint"],

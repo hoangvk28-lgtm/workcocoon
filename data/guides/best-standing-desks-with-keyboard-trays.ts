@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 503 Amazon ratings",
     reviews: "503 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41TvmvIlxoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFW9D66S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFW9D66S?tag=workcocoon-20",
     description:
       "This 55-inch U-shaped desk explicitly confirms a keyboard tray in its title, one of the clearer confirmations in this guide. The U-shape gives a wraparound work surface, and the tray sits below the main desktop for a lower typing position than typing directly on the desk surface.\n\nThe listing does not specify whether the tray angle is negative, flat, or positive, so buyers who need a true negative tilt for wrist positioning should verify this in the product Q&A before assuming. Even without confirmed negative tilt, a lower tray position is generally an improvement over typing at standing-desk height with no tray at all.\n\nU-shape adds wraparound work surface. That's a real strength, but weigh it against the flip side: tilt angle not specified, verify negative tilt before assuming.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,101 Amazon ratings",
     reviews: "10,101 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Nha7Yua3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0784HWPN6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0784HWPN6?tag=workcocoon-20",
     description:
       "This converter's title and description focus on dual monitor and laptop workstation features and do not explicitly confirm a keyboard tray, so we are including it here as a reference point rather than a genuine keyboard-tray recommendation. It has the largest review base in this guide by a wide margin, which speaks to its general reliability as a converter.\n\nIf a dedicated negative-tilt keyboard tray is a requirement, this listing does not confirm one, and buyers should check current product images and the Q&A section directly rather than assume the V Series includes it. Treat this as a strong converter pick for other reasons, not for tray ergonomics specifically.\n\nWorth calling out specifically: quick sit-to-stand mechanism. The catch is keyboard tray not confirmed in the title or description.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 15,560 Amazon ratings",
     reviews: "15,560 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DEPeG3thL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B075JYG2TB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B075JYG2TB?tag=workcocoon-20",
     description:
       "The K Series explicitly confirms a wide keyboard tray in its title, and it has by far the largest review base of any pick in this guide, which gives real confidence in its long-term reliability. It supports a dual monitor and laptop workstation on top while the tray sits below for typing.\n\nWide keyboard trays like this one generally have enough room for a full keyboard and a right-hand mouse platform, though left-handed mouse placement is rarely offered on any tray in this price range. As with the OffiGo pick, tilt angle is not explicitly stated, so verify negative tilt in the Q&A if that specific angle matters to you.\n\nMassive review base at over 15,500 ratings. Set against that, tilt angle not specified, verify negative tilt before assuming. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 598 Amazon ratings",
     reviews: "598 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41daFWT9JPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=workcocoon-20",
     description:
       "This converter's model number includes KB, which could suggest keyboard tray, but the title and description describe a dual monitor mount and desk riser without explicitly stating a keyboard tray feature. We are not going to assume a tray exists just because of a model code, so treat this listing as unconfirmed until verified directly with the seller or through current product photos.\n\nIf you need a confirmed keyboard tray, the VIVO K Series or the OffiGo U-shaped desk above are safer bets. This 42-inch converter's real strength is the dual 13 to 30 inch monitor stand, which is a separate and well-documented feature.\n\nA genuine advantage here is that solid rating and reasonable review base. The tradeoff is keyboard tray not explicitly confirmed in the listing.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 280 Amazon ratings",
     reviews: "280 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Vqj+7wfmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBQFGY9S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBQFGY9S?tag=workcocoon-20",
     description:
       "This is a full 44x24 inch electric standing desk with a keyboard tray explicitly confirmed in the title, giving both the elevated main desktop and a lower typing surface in one unit. The tray adds meaningful depth reduction to an already moderate 24-inch desktop, so measure your remaining usable depth before committing to a monitor arm or other accessories.\n\nBecause the tray sits below a full standing desk rather than on a tabletop converter, this suits buyers who want a dedicated standing desk from the ground up rather than converting an existing one. Tilt angle is not stated, so check the Q&A if negative tilt specifically matters for your wrists.\n\nDedicated desk design, not a tabletop conversion. On the other hand, tray further reduces an already moderate 24-inch depth. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 737 Amazon ratings",
     reviews: "737 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41pe4BGTQxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CR1CM8JK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR1CM8JK?tag=workcocoon-20",
     description:
       "This 55-inch desk confirms both drawers and a keyboard tray directly in the title, making it one of the more feature-complete picks in this guide for anyone who also wants built-in storage. The rustic brown finish and wider footprint suit a dedicated home office setup rather than a compact space.\n\nWith drawers taking up some under-desk clearance, check that the drawer placement does not conflict with the tray's slide range at your typical sitting distance. As with most picks here, tilt angle is not explicitly stated, so verify before assuming negative tilt.\n\nWider 55-inch surface for a dedicated home office. That's a real strength, but weigh it against the flip side: drawer placement should be checked against tray slide range.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 54 Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41IHCTuRt6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2H4X11C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F2H4X11C?tag=workcocoon-20",
     description:
       "This converter explicitly confirms a large keyboard tray in its title, and the extra tray size gives more room for a keyboard plus mouse platform than the standard-width trays on some other picks. It supports a dual monitor and laptop workstation on the upper riser.\n\nThe review count here is the lowest among the converters in this guide, so treat the rating as a smaller sample size than the VIVO picks with thousands of reviews. If a large tray specifically matters for your setup, this is the clearest confirmed option, but weigh that against the limited review history.\n\nWorth calling out specifically: more tray room than standard-width alternatives. The catch is lowest review count among the converters in this guide.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,078 Amazon ratings",
     reviews: "1,078 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/411n64r8kAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCFZV2GP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCFZV2GP?tag=workcocoon-20",
     description:
       "This is a standalone keyboard tray add-on that clamps to an existing desk, not a full standing desk or converter, and it should not be compared directly against the other 7 picks as if it were the same product category. It gives a 27.3-inch slide-out platform, extending to about 32.5 inches including the clamps, for buyers who want to add a tray to a desk that does not already have one.\n\nThe C-clamp mount system is rated for the added lean pressure of resting your wrists while typing, not just the static weight of a keyboard and mouse, which is a meaningfully higher bar than some integrated trays quietly assume. This is a genuinely useful low-cost option if you already own a standing desk without a tray.\n\nSturdy C-clamp mount rated for lean pressure. Set against that, not a full desk or converter, a different product category. Both matter when comparing it to the other picks here.",
     specs: [

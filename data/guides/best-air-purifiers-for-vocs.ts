@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A genuine multi-stage design with a real carbon filtration stage addressing odor and gas-phase compounds alongside HEPA particulate capture, a large review base backing it as a proven all-around pick.\n\nHEPA filters trap particulate, not gas-phase VOC molecules, this unit's dedicated carbon stage is what actually addresses VOCs from paint, new furniture, or cleaning products.\n\nAir quality monitor for real-time feedback. That's a real strength, but weigh it against the flip side: higher price than budget alternatives.",
     specs: ["Multi-stage with dedicated carbon layer", "Air quality monitor", "Filter indicator for replacement timing", "3-year warranty"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 616 Amazon ratings",
     reviews: "616 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CulL9tCOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K3R8QPF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K3R8QPF?tag=workcocoon-20",
     description:
       "A 5-stage design with a substantial carbon mass genuinely built for a heavier VOC scenario, appropriate for fresh paint, new furniture off-gassing, or a recent renovation.\n\nThe amount of carbon correlates with real VOC-capture capacity far more than a marketing label alone, this unit's multi-stage depth reflects genuinely more carbon mass than a standard single-stage design.\n\nSmart app control for monitoring. On the other hand, highest price in this guide by a wide margin. Both are worth keeping in mind before deciding.",
     specs: ["5-stage filtration with substantial carbon mass", "Smart app control", "Higher capacity for heavy VOC exposure", "Multi-stage design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Includes a carbon filtration layer alongside True HEPA, with by far the largest review base of any pick here, a genuinely proven affordable choice for low-level ambient VOC exposure.\n\nA HEPA-only unit does essentially nothing for VOCs, this unit's added carbon layer addresses gas-phase compounds, though it carries less mass than the dedicated multi-stage pick in this guide.\n\nA genuine advantage here is that by far the largest review base of any pick here. The tradeoff is that less carbon mass than the dedicated multi-stage picks.",
     specs: ["True HEPA H13 plus carbon layer", "24dB quoted noise level", "Largest review base in this guide", "Affordable price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,559 Amazon ratings",
     reviews: "3,559 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31K9NLoXncL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=workcocoon-20",
     description:
       "HEPASilent technology moves genuinely more air through the carbon stage than a standard design, which helps cycle gas-phase compounds through the filter media faster.\n\nAn air quality sensor gives real-time feedback on ambient conditions, though it typically detects general particulate and general air quality rather than VOC concentration specifically.\n\nAir quality sensor for real-time monitoring. That said, higher price than budget alternatives. Neither should be a surprise once you know to look for it.",
     specs: ["HEPASilent high-airflow technology", "Air quality sensor", "99.97% removal of airborne particulates", "Large-room rated"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large, well-established review base at a low price, genuinely capable for a small room with low-level ambient VOC exposure rather than an intense renovation scenario.\n\nA small room with low-level exposure is a reasonable fit here, a larger space or a heavier VOC source benefits more from one of the higher-capacity picks in this guide.\n\nWorth calling out specifically: low price. The catch is not intended for heavy VOC exposure.",
     specs: ["True HEPA filtration with carbon component", "Large review base", "Budget-friendly", "Compact design"],

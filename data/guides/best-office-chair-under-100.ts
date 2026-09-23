@@ -40,7 +40,7 @@ export const products: BudgetChair[] = [
     price: "~$239.99",
     priceRange: "~$239.99",
     imageUrl: "https://m.media-amazon.com/images/I/41j10VNsNEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GVHCSFSQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GVHCSFSQ?tag=workcocoon-20",
     whyItWins: "Based on specs, this is a step up in price from every other pick in this guide -- at $239.99 it is well above the $100 ceiling this roundup is built around, so it is included here as a pricier alternative rather than a budget pick. What it adds for that price is a heavy-duty frame built for bigger and taller users, a 150 degree reclining backrest, and a footrest that the sub-$100 picks in this guide do not offer.",
     bodyParagraph: "The adjustable lumbar pillow and thickened armrests are aimed at long sitting sessions rather than quick desk work, and the breathable mesh helps offset the heat that reclining gaming-chair frames tend to trap. If your priority is weight capacity and recline rather than staying under $100, this is worth the difference.",
     specs: [
@@ -64,7 +64,7 @@ export const products: BudgetChair[] = [
     price: "~$109.99",
     priceRange: "~$109.99",
     imageUrl: "https://m.media-amazon.com/images/I/51a98NB4vsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQ4LCBY5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQ4LCBY5?tag=workcocoon-20",
     whyItWins: "At $109.99, the HUANUO is priced just above this guide's $100 ceiling, so we are describing it honestly as a slight step up in price rather than an under-$100 pick. Based on specs, the tradeoff is 3D adjustable armrests and dedicated adjustable lumbar support -- the same category of adjustability the CLATINA offers at the top of this list, in a different chair.",
     bodyParagraph: "For buyers who compared several picks in this guide and want a second option with similar ergonomic adjustability, the HUANUO is a reasonable near-budget alternative. It is not meaningfully more capable than the CLATINA at rank 1, so treat it as a backup option if that listing is unavailable rather than a clear upgrade.",
     specs: [
@@ -86,7 +86,7 @@ export const products: BudgetChair[] = [
     price: "~$169.99",
     priceRange: "~$169.99",
     imageUrl: "https://m.media-amazon.com/images/I/41kJmp5juSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GKNKGYPV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GKNKGYPV?tag=workcocoon-20",
     whyItWins: "At $169.99, the QuelSoft is priced well above this guide's $100 target, so we are describing it plainly as a premium alternative for buyers willing to spend more rather than claiming it fits the budget theme. Based on specs, it offers a high-back design with 3D lumbar support, which is a more complete lumbar system than most of the fixed-lumbar chairs in the sub-$100 section above.",
     bodyParagraph: "This is a pick for readers who came to this guide for chair research generally but have a higher budget than $100 -- the high-back frame and 3D lumbar support target the same all-day comfort as the CLATINA, at a materially higher price point.",
     specs: [
@@ -108,7 +108,7 @@ export const products: BudgetChair[] = [
     price: "~$80-95",
     priceRange: "~$80--95",
     imageUrl: `${BASE}/01-best-overall-clatina-ergonomic-high-back.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07QK6ZPFB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07QK6ZPFB?tag=workcocoon-20",
     whyItWins: "The CLATINA stands out in this price range for one specific reason: independent lumbar support -- the lumbar cushion adjusts separately from the backrest, letting you position it precisely at your lower back rather than accepting wherever the chair puts it. Most chairs under $100 have a fixed lumbar bump that may or may not line up with your anatomy.",
     bodyParagraph: "The 3D adjustable armrests (height, angle, and width) are rare at this price. Combined with the thick molded seat cushion and breathable mesh back, this chair covers the most bases for a full day of desk use.",
     specs: [
@@ -133,7 +133,7 @@ export const products: BudgetChair[] = [
     price: "~$70-90",
     priceRange: "~$70--90",
     imageUrl: `${BASE}/02-best-mesh-flysky-ergonomic-mesh-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B54GPKGS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B54GPKGS?tag=workcocoon-20",
     whyItWins: "If your workspace gets warm -- a dorm room with poor ventilation, a home office that heats up in summer -- a fully mesh chair is meaningfully more comfortable than padded leather or foam alternatives. The Flysky uses breathable mesh on both the back and partial seat, which allows airflow that padded chairs block entirely.",
     bodyParagraph: "The flip-up armrests are the practical standout: when you need to push the chair fully under the desk to save space, flip the arms up and the chair slides in flat. On a small desk in a dorm or apartment, this matters daily.",
     specs: [
@@ -158,7 +158,7 @@ export const products: BudgetChair[] = [
     price: "~$75-95",
     priceRange: "~$75--95",
     imageUrl: `${BASE}/03-best-ergonomic-sytas-home-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09BB6LZNK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09BB6LZNK?tag=workcocoon-20",
     whyItWins: "The Sytas is the most popular chair in this roundup by review count -- and the reviews consistently cite back support as the reason. The lumbar support system is designed as a separate component that aligns with the natural S-curve of the spine, rather than a fixed bump or detachable pillow that shifts around.",
     bodyParagraph: "The mesh back has enough tension to push back gently as you lean, which reduces the effort needed to maintain upright posture during long sessions. If you have lower back issues or tend to slouch, this is the pick to consider.",
     specs: [
@@ -182,7 +182,7 @@ export const products: BudgetChair[] = [
     price: "~$70-85",
     priceRange: "~$70--85",
     imageUrl: `${BASE}/04-best-for-dorms-amazon-basics-office-task-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00IFHPVEU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IFHPVEU?tag=workcocoon-20",
     whyItWins: "Dorm rooms have two constraints that most office chair reviews ignore: limited floor space and low desk clearance (dorm desks are often fixed-height and lower than standard office desks). The Amazon Basics Office Task Chair is compact enough to fit under standard dorm desks, and the trusted brand means you know what you are getting without surprises on build quality.",
     bodyParagraph: "The pneumatic adjustable height, padded back and seat, and 360° swivel cover the essentials without the bulk of executive chairs. For a dorm room where the chair is one of many items competing for floor space, the compact footprint makes a real difference.",
     specs: [
@@ -207,7 +207,7 @@ export const products: BudgetChair[] = [
     price: "~$75-90",
     priceRange: "~$75--90",
     imageUrl: `${BASE}/05-best-leather-look-sweetcrispy-heavy-duty-task.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CDGKQSQ3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDGKQSQ3?tag=workcocoon-20",
     whyItWins: "Most mesh office chairs look like office chairs -- clearly utilitarian, clearly out of place in a bedroom or aesthetic-forward desk setup. The Sweetcrispy takes a different approach with a PU leather seat and back, clean lines, and flip-up arms -- looking closer to a home office chair than a standard task chair.",
     bodyParagraph: "The heavy-duty build (rated for more weight than most competitors) and the flip-up arm design make it practical: the arms fold flat for storage or when the chair needs to slide fully under the desk.",
     specs: [
@@ -232,7 +232,7 @@ export const products: BudgetChair[] = [
     price: "~$50-65",
     priceRange: "~$50--65",
     imageUrl: `${BASE}/06-best-budget-fdw-high-back-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08JGGJZY2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08JGGJZY2?tag=workcocoon-20",
     whyItWins: "Below $65, the options thin out fast. The FDW delivers a functional chair at a price point where most competitors are uncomfortable or fall apart quickly. PU leather high-back, basic lumbar cushion, height adjustment, and smooth-rolling casters -- it covers the essentials without pretending to be ergonomic.",
     bodyParagraph: "For a secondary chair, a chair for occasional use, or a first chair while saving for something better, the FDW provides adequate seating without a significant financial commitment.",
     specs: [

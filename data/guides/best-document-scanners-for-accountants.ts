@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "A genuine 50-sheet ADF with duplex scanning, giving real headroom above average-month volume for tax season spikes. Auto crop and blank-page removal are built in, but verify blank-page detection against your actual client document mix, mixed invoice/statement stacks with intentional separator pages can trip up automated detection more than the clean batches most tests use.\n\nTWAIN driver support works with most accounting-adjacent software, though a dedicated DMS platform requiring ISIS should be verified separately.\n\nTWAIN driver compatible with most software. That's a real strength, but weigh it against the flip side: blank-page detection not independently verified against messy client document sets.",
     specs: ["50-sheet ADF, duplex", "Auto crop, blank-page removal (verify against real client sets)", "TWAIN driver", "Searchable PDF OCR"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 991 Amazon ratings",
     reviews: "991 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=workcocoon-20",
     description:
       "A 100-sheet feeder at up to 45 ppm gives genuine headroom for batch-scanning multiple client folders during a concentrated tax season window, well above what an average-month accountant workload needs. Wired USB avoids the reliability risk of wireless dropouts during a high-volume session.\n\nAs with any pick here, verify blank-page removal against your actual messy client document sets rather than assuming clean-batch testing translates directly.\n\nWired USB avoids wireless reliability risk during high-volume sessions. On the other hand, no multi-document auto-splitting feature explicitly confirmed. Both are worth keeping in mind before deciding.",
     specs: ["100-sheet feeder, up to 45 ppm", "Wired USB, ScanSnap Home software", "One-touch scan-drag-drop", "Auto de-skew, blank-page removal"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "Its explicit 500 scans/day suggested daily volume is genuinely useful for planning realistic tax-season throughput, a rare disclosure most competitors omit. Real 20-sheet ADF hopper and duplex scanning suit a smaller practice's regular client document intake.\n\nPortable enough to move between a home office and a client's location if you do on-site work, a genuine plus for solo practitioners or small firms with mobile client meetings.\n\nA genuine advantage here is that genuinely portable for on-site client work. The tradeoff is that lower capacity than the desktop high-volume picks.",
     specs: ["20-sheet ADF hopper, duplex", "Explicit 500 scans/day rating", "1.7 lb, portable", "USB powered"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 385 Amazon ratings",
     reviews: "385 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/4143ozv-CML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6NL3HFX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6NL3HFX?tag=workcocoon-20",
     description:
       "A portable, budget-friendly option for accountants who mostly need to digitize client-submitted receipts and single documents rather than run large sustained batches. HP WorkScan software is included, though not specifically built for accounting-software integration.\n\nA reasonable choice for a smaller practice's occasional client-document intake rather than a full tax-season high-volume operation.\n\nPortable, PC and Mac compatible. That said, 1-sided only, no duplex. Neither should be a surprise once you know to look for it.",
     specs: ["Portable 1-sided sheetfed scanning", "HP WorkScan software included", "PC and Mac compatible", "Compact for occasional use"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "Standalone scan-to-cloud lets you file digitized client documents directly to a cloud accounting workflow destination without a dedicated host PC running, genuinely useful if your practice already uses cloud-based document storage. 30ppm duplex handles a regular client-document intake reasonably.\n\nSame blank-page-detection caveat applies here as with any scanner, verify against your real messy client document mix rather than assuming clean-batch performance.\n\nWorth calling out specifically: reasonable duplex speed for regular client intake. The catch is not sized for genuine tax-season high-volume batch sessions.",
     specs: ["Standalone scan-to-cloud", "30ppm duplex, compact ADF hopper", "Auto de-skew, color optimization", "Handles thick items and cards"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 37 Amazon ratings",
     reviews: "37 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=workcocoon-20",
     description:
       "Direct cloud service scanning without needing a dedicated network folder or server, a genuine setup-simplicity win for a smaller accounting practice. Its small review count reflects a newer, lower-volume listing.\n\nVerify whether your specific accounting software (QuickBooks Online, Xero) integrates directly with this scanner's cloud path or just saves to a generic cloud folder requiring manual upload afterward.\n\nDuplex scanning. Set against that, smallest review count in this guide. Both matter when comparing it to the other picks here.",
     specs: ["Direct cloud service scanning", "Duplex, easy setup", "Office-class design", "Newer listing"],

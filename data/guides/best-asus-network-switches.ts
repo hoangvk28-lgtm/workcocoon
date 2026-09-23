@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/313Mv0C0EiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH7QLRFH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH7QLRFH?tag=workcocoon-20",
     description: "The QG-U1050 brings 2.5G speeds to ASUS's switch lineup with 4 intelligent modes: priority, EEE, port isolation, and static trunk, all switchable without software configuration, over standard Cat5e cabling for an easy multi-gig upgrade.\n\nIt's TAA compliant for government and institutional buyers, and its plug-and-play design targets home network and small office upgrades from Gigabit without a learning curve.",
     specs: ["5x 2.5G ports, 4 intelligent modes","Works over existing Cat5e","TAA compliant"],
     pros: ["4 switchable modes without software","No Cat5e-to-Cat6 rewiring needed for 2.5G","TAA compliance opens institutional buying"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "280",
     imageUrl: "https://m.media-amazon.com/images/I/51XpqFad+GL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=workcocoon-20",
     description:
       "With 7 tiers, this is the tallest genuine vertical design in this comparison, and its mesh wire construction keeps overall weight lower than a solid metal equivalent, reducing leverage stress on the wall mounting point despite the height.\\n\\nTop and bottom tiers do require more reach than a compact 3-4 tier design, a real accessibility tradeoff for this maximum-capacity vertical structure.\n\nIt leads this comparison mainly on rated capacity and build reinforcement for a genuinely loaded file collection, worth weighing directly against the Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder.\n\nLighter mesh construction reduces mounting stress. That's a real strength, but weigh it against the flip side: requires drilling.",
     specs: ["7 vertical tiers","Mesh wire construction (lighter weight)","Wall-mounted","Highest tier count in this comparison"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "491",
     imageUrl: "https://m.media-amazon.com/images/I/51NHUcgYmoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=workcocoon-20",
     description:
       "This 5-tier metal design's independently adjustable tier spacing is a genuine advantage for a vertical structure, letting you customize each level's height for varied document or folder sizes rather than accepting fixed uniform spacing throughout.\n\nSet against the Simple Trending Wall File Organizer, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: highest rating here. The catch is requires drilling.",
     specs: ["5 adjustable vertical tiers","Metal construction","Highest rating in this comparison","Customizable per-tier spacing"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "366",
     imageUrl: "https://m.media-amazon.com/images/I/51jmG3xLXjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=workcocoon-20",
     description:
       "This 5-tier design's fixed spacing keeps the overall height moderate, minimizing the reach-difficulty tradeoff of a taller vertical structure, while its added hooks provide extra hanging points at the same wall footprint.\n\nRelative to the Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder, this pick leans toward a different priority, whether that's a lower price, a different attachment method, or a finish suited to a different space.\n\nModerate height keeps tiers reachable. Set against that, fixed spacing, not adjustable. Both matter when comparing it to the other picks here.",
     specs: ["5 fixed vertical tiers","5 additional hooks","Moderate height for easier reach","Lowest price of the 5-tier picks"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "405",
     imageUrl: "https://m.media-amazon.com/images/I/51Cr5PIjCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=workcocoon-20",
     description:
       "This 3-tier vertical design hangs from a desk edge rather than a wall, avoiding the leverage-on-mounting-point concern entirely since it doesn't rely on wall anchors, though its more compact tier count offers less maximum capacity than the wall-mounted alternatives.\n\nCompared with the JMHUD 5 above, this pick trades some of that pick's capacity or adjustability for a different balance of price and mounting simplicity, worth weighing against your own wall or desk situation.\n\nCompact height, all tiers easily reachable. That's a real strength, but weigh it against the flip side: fewer tiers than the wall-mounted 5-7 tier options.",
     specs: ["3 vertical trays, desk-edge hanging","No drilling required","Established Safco brand","Compact vertical height"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "199",
     imageUrl: "https://m.media-amazon.com/images/I/51Z7iBgMAJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0856Y4YZD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0856Y4YZD?tag=workcocoon-20",
     description:
       "A freestanding alternative with vertical compartment stacking, this design's wide base entirely avoids any mounting-point leverage question since it sits on the desk surface rather than hanging from anything.\n\nSet against the Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: wide base prevents tip-over. The catch is consumes desk surface footprint.",
     specs: ["4 vertical compartments, freestanding","No mounting required","Wide, stable base","Compact vertical height"],

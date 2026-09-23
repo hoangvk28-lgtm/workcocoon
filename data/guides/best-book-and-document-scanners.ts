@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 318 Amazon ratings",
     reviews: "318 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41AkGJtV+CL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM92YPHW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM92YPHW?tag=workcocoon-20",
     description:
       "Genuinely built for bound-book scanning, with auto-flatten curve correction that digitally straightens the page curve near the spine, a real problem plain flatbed or sheetfed scanners can't solve for books. A3 overhead capture handles larger books and bound documents a sheetfed ADF scanner physically cannot feed.\n\nNot built for loose-page document scanning at all, no ADF hopper, no duplex, this is a book-specific tool, not a document workhorse. If your actual need is mostly loose paperwork, this isn't the right primary scanner.\n\nA3 capture handles larger bound books and documents. Set against that, not built for loose-page document scanning at all. Both matter when comparing it to the other picks here.",
     specs: ["A3 overhead capture area", "Auto-flatten curve correction for spine curvature", "No ADF, book-specific design", "OCR software included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 991 Amazon ratings",
     reviews: "991 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=workcocoon-20",
     description:
       "A genuinely capable high-speed document scanner with a 100-sheet ADF, this is the pairing partner for CZUR's book scanners if your real need spans both bound books and loose paperwork, since neither device does both jobs.\n\nCannot scan bound books at all, feeding a book spine through an ADF risks damaging the binding, this is a document-only tool by design, not a compromise.\n\nThe standout detail is that high-capacity ADF and duplex speed. Balancing that out, cannot scan bound books at all.",
     specs: ["100-sheet ADF, high-speed duplex", "One-touch scan-drag-drop", "Auto de-skew, blank-page removal", "Cannot handle bound books"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 488 Amazon ratings",
     reviews: "488 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LQNyy7U0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NSJQ65L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NSJQ65L?tag=workcocoon-20",
     description:
       "A more affordable overhead book scanner with the same auto-flatten curve correction technology as the Pro, real value if occasional book digitization is your actual need rather than a heavy ongoing workload. Portable design makes it easy to store when not scanning.\n\nSame fundamental limitation as every book scanner here, no ADF, not built for loose-page document batches.\n\nSame spine-curve correction technology as the Pro. That's a real strength, but weigh it against the flip side: not built for loose-page document scanning.",
     specs: ["Portable overhead design", "Auto-flatten curve correction", "Lower price than the Pro model", "No ADF, book-specific"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 562 Amazon ratings",
     reviews: "562 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VkoizD+9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCBVYMC6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCBVYMC6?tag=workcocoon-20",
     description:
       "A flatbed-style scanner genuinely suited to photos and individual loose documents you don't want to feed through an ADF, useful middle ground if your book-scanning need is actually just occasional single-page flat items rather than full bound books.\n\nNot a true book scanner, no auto-flatten curve correction for bound spines, and not a high-volume document ADF scanner either, it occupies a narrower niche than either dedicated category.\n\nCompact, USB powered. On the other hand, not a true book scanner, no spine-curve correction. Both are worth keeping in mind before deciding.",
     specs: ["Flatbed-style scanning", "USB powered, compact", "Photo and document modes", "No ADF, no spine-curve correction"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 102 Amazon ratings",
     reviews: "102 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41OkxTvAv+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TRFK7D2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TRFK7D2?tag=workcocoon-20",
     description:
       "A2/A3 overhead capture handles genuinely large bound materials, oversized books, blueprints, or large-format bound documents that smaller book scanners can't fully capture in one pass.\n\nSmaller review base than the CZUR picks, weigh that against the real large-format capability if your books or bound materials exceed standard A3.\n\nA genuine advantage here is that large A2/A3 capture area. The tradeoff is that smaller review base than CZUR alternatives.",
     specs: ["A2/A3 overhead capture, large format", "Book-specific design", "No ADF", "Overhead LED lighting"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 1 Amazon rating",
     reviews: "1 rating",
     imageUrl: "https://m.media-amazon.com/images/I/41LGj+P7TPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXZJ5FC6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GXZJ5FC6?tag=workcocoon-20",
     description:
       "The only product in this guide attempting to genuinely bridge both use cases, an overhead book-scanning cradle paired with an ADF attachment for loose documents. Interesting concept, but with only a single rating on record, there isn't yet meaningful real-world evidence of how well it performs at either task compared to dedicated single-purpose scanners.\n\nWorth watching as the category matures, but we can't yet honestly recommend it over the proven dedicated picks in this guide based on this thin a review base.\n\nInteresting concept if it performs as described. That said, only 1 rating on record, minimal real-world evidence. Neither should be a surprise once you know to look for it.",
     specs: ["Overhead book cradle plus ADF attachment", "Attempts combined book/document use case", "Very limited review history", "Newer product to the category"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "Another strong document-only ADF scanner option to pair with a dedicated book scanner if the ScanSnap doesn't fit your budget or workflow. Searchable PDF OCR is a genuine plus for organizing digitized paperwork.\n\nSame category limitation as every document scanner here, cannot handle bound books, pair it with one of the dedicated book scanners above if you need both.\n\nWorth calling out specifically: searchable PDF OCR built in. The catch is cannot scan bound books.",
     specs: ["50-sheet ADF, duplex", "Searchable PDF OCR", "Cannot handle bound books", "TWAIN driver"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "The most compact document-scanning pairing option in this guide, worth considering if desk space is tight and you're already dedicating room to an overhead book scanner. Wireless scanning adds flexibility.\n\nStill cannot handle bound books, pair with a dedicated overhead scanner from this guide for full book-and-document coverage.\n\nWireless flexibility. Set against that, cannot scan bound books. Both matter when comparing it to the other picks here.",
     specs: ["Compact ADF, duplex, 30ppm", "Wireless or USB", "Cannot handle bound books", "Auto de-skew, color optimization"],

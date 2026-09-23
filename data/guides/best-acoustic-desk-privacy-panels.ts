@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31pH3EPb-mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=workcocoon-20",
     description:
       "A freestanding, no-clamp panel pair that sets up with its own support feet, a low-cost entry point for buyers curious whether desk-level panels help before committing to a larger clamp-on setup.\n\nThe 'soundproof' language in the title is marketing shorthand, treat it as modest absorption of reflected sound near your own desk rather than a verified blocking spec.\n\nA genuine advantage here is that no clamping needed, works on any flat desk. The tradeoff is that no published NRC rating.",
     specs: ["Freestanding, 2-pack", "15.74 x 11.81 x 3.93 inches", "No clamp required", "No published NRC rating"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21S6a6AhTTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07S8DRKHC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07S8DRKHC?tag=workcocoon-20",
     description:
       "A 23 by 18 inch shield explicitly labeled sound absorbing, part of the same broader product family covered in more depth in our sound-absorbing desk privacy panel guide, worth checking there for additional size and color options.\n\nAt 18 inches tall, verify this against your own seated eye level before assuming it fully covers your sightline, the same caveat that applies across this entire panel category.\n\nStraightforward single-color option. That said, 18 inch height may not cover a taller seated eye level. Neither should be a surprise once you know to look for it.",
     specs: ["23\" W x 18\" H", "Dark blue finish", "Marketed for student and office desks", "No published NRC rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31ssVs0VXYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4JZCR89?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4JZCR89?tag=workcocoon-20",
     description:
       "The smallest panel in this three-pick set at 15.6 by 11.7 inches, better suited as an accent panel softening one sightline than a full privacy solution across a desk.\n\nPair this with a larger panel if genuine coverage is the goal, on its own it addresses only a small portion of your immediate desk area.\n\nWorth calling out specifically: easy to reposition given the small size. The catch is limited coverage given the small dimensions.",
     specs: ["15.6\" x 11.7\" panel", "Dark grey finish", "Compact footprint", "No published NRC rating"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/4149-qACFUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F71PYVTZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F71PYVTZ?tag=workcocoon-20",
     description:
       "At 27 inches this is the largest display in this guide by a wide margin, built as a genuine family command center rather than a compact desk accessory. It carries the same chore chart, rewards, and personal calendar account sync as the smaller Skylight models, scaled up so an entire week is legible from across a kitchen or living room.\\n\\nThe charcoal finish and premium price place it firmly in command-center territory rather than a casual desk pick, and it also ships in a classic white finish for buyers who prefer a lighter look. It needs meaningfully more wall space than any other pick here, so confirm clearance before buying.\n\nIt leads this comparison on the strength of its display size, sync reliability, and household-organization features, worth weighing directly against the Skylight Calendar 2, 15\" Touchscreen Digital Calendar.\n\nWorth knowing before you decide: Genuine sync with personal calendar accounts. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["27 inch touchscreen display","Chore chart and rewards system","Syncs with personal calendar accounts","Charcoal finish, also available in white"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41OqZfNHJtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G5ZX9WSW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G5ZX9WSW?tag=workcocoon-20",
     description:
       "The newer Skylight Calendar 2 keeps the 15 inch touchscreen and personal calendar account sync of the original but adds a shadowbox-style silver frame with a more finished, gallery-like look on a wall or desk. It carries a higher price than the original 15 inch Skylight, reflecting the refreshed design and any software improvements over the prior generation.\\n\\nFunctionally it targets the same chore chart and family scheduling use case as the rest of the Skylight lineup, so choose this over the original mainly for the updated look rather than a dramatically different feature set. Confirm current software parity with the original model before paying the premium.\n\nSet against the Skylight Calendar Max, 27\" Digital Calendar & Chore Chart, the tradeoff here comes down to display size versus wall space and price, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Genuine sync with personal calendar accounts. On the other side, Higher price than the original 15 inch Skylight. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["15 inch touchscreen display","Shadowbox-style silver frame","Syncs with personal calendar accounts","Second-generation Skylight design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41NUEI-nAdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C9V811L6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C9V811L6?tag=workcocoon-20",
     description:
       "Skylight is an established name in this category, and this 15 inch touchscreen display is built specifically around family scheduling, with a chore chart and rewards system alongside genuine sync to personal calendar accounts. The white frame keeps it looking like a picture frame rather than a gadget on a kitchen counter or home office wall.\\n\\nThe premium price reflects the more polished software experience compared to generic 15.6 inch alternatives, and buyers should confirm whether any premium features require an ongoing subscription before purchase. It is a strong fit for households that actively use shared chore and meal-planning tools rather than a simple date display.\n\nRelative to the Skylight Calendar 2, 15\" Touchscreen Digital Calendar, this pick leans toward a different priority, whether that's a more compact footprint, a different sync method, or a simpler feature set.\n\nWorth knowing before you decide: Genuine sync with personal calendar accounts. On the other side, Premium price versus generic 15.6 inch alternatives. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["15 inch touchscreen display","Chore chart and rewards system","Syncs with personal calendar accounts","White picture-frame style design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51RBTmIEkTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G2QWV91F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2QWV91F?tag=workcocoon-20",
     description:
       "This 15.6 inch touchscreen display auto syncs with personal calendar accounts and needs no ongoing subscription, a real cost advantage over calendar hubs that charge a monthly fee for basic sync. It doubles as a digital photo frame when idle and includes built-in chore chart, meal planner, and task and reward tools aimed at shared family or household scheduling.\\n\\nIt mounts to a wall or sits on a desk, giving some flexibility in placement that a fixed picture-frame style calendar cannot match. The tradeoff is a bigger footprint than a phone or tablet screen, so measure your intended spot before buying.\n\nCompared with the Skylight Calendar, 15\" Touchscreen Digital Calendar & Chore Chart above, this pick trades some of that pick's screen size or feature depth for a different balance of price and simplicity, worth weighing against your household's actual needs.\n\nWorth knowing before you decide: Doubles as a digital photo frame. On the other side, Larger footprint than a paper or phone calendar. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["15.6 inch touchscreen display","No ongoing subscription required","Auto sync with personal calendar accounts","Wall or desk mountable"],

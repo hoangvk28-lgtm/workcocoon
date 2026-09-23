@@ -43,7 +43,7 @@ export const products: UnderDeskProduct[] = [
     price: "~$70",
     priceRange: "~$70",
     imageUrl: `${BASE}/01-best-clamp-anker-nano-10-in-1-clamp-70w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FFGZH2S2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFGZH2S2?tag=workcocoon-20",
     whyItWins: "Released April 2026, the Anker Nano Clamp is the best-designed under-desk charging station available. It clamps to the desk edge -- no screws, no drilling, no permanent modification -- and splits into two zones: two USB-A ports and two USB-C ports (70W combined) sit above the desk surface for easy device access, while four AC outlets hang below the surface out of sight. One 5-foot power cord routes to the wall.",
     bodyParagraphs: [
       "The clamp fits desk thicknesses from 0.6 to 1.8 inches (15--45mm), covering virtually every standard desk. Silicone pads on both clamp surfaces prevent scratching. The 1,500-joule surge protection handles the inevitable power spike.",
@@ -82,7 +82,7 @@ export const products: UnderDeskProduct[] = [
     price: "~$14-25",
     priceRange: "~$14--25",
     imageUrl: `${BASE}/02-best-budget-clamp-tessan-14-in-1-desk-clamp.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FB37PSC7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FB37PSC7?tag=workcocoon-20",
     whyItWins: "At $14--25, the Tessan 14-in-1 Desk Clamp delivers the same core concept as the Anker -- AC outlets and USB ports accessible from a clamp-mount position -- at less than a quarter of the price. Three AC outlets, two USB-C ports (PD 20W each), and two QC 3.0 USB-A ports (18W each) cover the standard desk charging needs.",
     bodyParagraphs: [
       "The adjustable clamp fits most standard desk thicknesses. The build quality is noticeably lighter than the Anker, and the surge protection is basic, but for a secondary desk, a rental apartment setup, or anyone testing the under-desk concept before committing to a premium option, it works.",
@@ -118,7 +118,7 @@ export const products: UnderDeskProduct[] = [
     price: "~$120-150",
     priceRange: "~$120--150",
     imageUrl: `${BASE}/03-best-through-desk-wireless-humanscale-neatcharge.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BZ9LNMG5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ9LNMG5?tag=workcocoon-20",
     whyItWins: "The NeatCharge is installed under the desk surface with adhesive -- the charging pad is entirely invisible from above. Your phone charges when you set it in the right spot on your desk surface, with zero hardware visible from any angle. The result is genuinely magical in practice: a desk with no charging hardware anywhere.",
     bodyParagraphs: [
       "The 5.14-inch diameter pad delivers 10W Qi wireless charging through wood surfaces up to 30mm thick. A position marker (included) goes on the desk surface above the charger -- a small dot or line to indicate where to place the phone.",
@@ -158,7 +158,7 @@ export const products: UnderDeskProduct[] = [
     price: "~$35-55",
     priceRange: "~$35--55",
     imageUrl: `${BASE}/04-best-grommet-i-valux-in-desk-wireless-15w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B083QJ8BZV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083QJ8BZV?tag=workcocoon-20",
     whyItWins: "Many desks come with a circular grommet hole -- typically 80mm (3.15 inches) -- for cable routing. The i-VALUX In-Desk Wireless Charger converts that unused hole into a flush-mounted wireless charger. The top surface sits level with the desk, looking like a premium inset pad rather than a product bolted on. At 15W Qi fast charging, it delivers more speed than many through-desk competitors.",
     bodyParagraphs: [
       "Compatible with iPhone 17/16/15/14/13/12/11 and Samsung Galaxy S-series. This is the most elegant single-product desk upgrade if your desk already has an 80mm grommet hole and you want to put it to use. No adhesive, no clamp -- just drop it in.",
@@ -195,7 +195,7 @@ export const products: UnderDeskProduct[] = [
     price: "~$25-35",
     priceRange: "~$25--35",
     imageUrl: `${BASE}/05-best-screw-mount-qba-8-in-1-desk-mount-strip.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D5HLTHJ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5HLTHJ8?tag=workcocoon-20",
     whyItWins: "For a permanent desk setup where you want maximum power and USB ports completely hidden, the QBA 8-in-1 screw-mount strip gives the most port coverage in the least visible footprint. It mounts flat against the underside of the desk with included screws, all cables route along the underside to a single wall cord, and the desk surface is completely clear.",
     bodyParagraphs: [
       "The port lineup is genuinely useful: 4 AC outlets, 1 PD 20W USB-C, 1 QC 3.0 USB-A, and 2 standard USB-A -- covering a laptop adapter plus phone and accessories simultaneously. ETL listed for safety. The 6-foot cord gives enough reach from the desk underside to the nearest wall outlet.",

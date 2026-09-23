@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "555 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=workcocoon-20",
     description:
       "The SUNALLY 6FT divider is explicitly listed with lockable wheels on its 4-panel fabric frame, one of the few in this category with casters confirmed directly in the product title. At 88 inches wide and 6 feet tall, it is a genuinely mobile option for repositioning between rooms without disassembly.\n\nAs with any wheeled fabric-panel divider, check the caster load rating against the frame's own weight plus any bumps during rolling; locking the wheels once positioned prevents drift on hardwood or tile. At 4.2 stars across 555 ratings it has a solid, if not top-tier, track record.\n\nLocking casters prevent drift once placed. That's a real strength, but weigh it against the flip side: 4.2 stars, mid-pack rating.",
     specs: ["Lockable wheels confirmed in listing", "6 ft height, 88 in width", "4-panel fabric folding screen", "Freestanding, no drilling"],
@@ -66,7 +66,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "102 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nxH15D5JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKSRFWF7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKSRFWF7?tag=workcocoon-20",
     description:
       "This 6-foot 4-panel screen also confirms lockable wheels directly in its listing, giving buyers a second genuinely wheeled option in a similar height and panel configuration to the SUNALLY above. The black finish is a straightforward match for a home office or studio with darker furniture.\n\nWith a smaller 102-rating sample, treat the 4.2-star average with some caution, it's a real number but a thinner data set than several other picks here. As with any caster-based divider, verify the wheels lock securely before leaving it in place unattended.\n\nWorth calling out specifically: same 6 ft height as the top pick. The catch is smaller 102-rating sample.",
     specs: ["Lockable wheels confirmed in listing", "6 ft height, 4-panel fabric screen", "Freestanding, no drilling", "Black finish"],
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     rating: "3.8 stars",
     reviews: "116 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316-kiRX-PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZNRLW9S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZNRLW9S?tag=workcocoon-20",
     description:
       "The Kokorona is the widest genuinely wheeled divider in this list at 119 inches, with lockable wheels confirmed and 6 panels of coverage plus included cover strips for a cleaner finished look between panels. At 70 inches tall it is close to the height of the other wheeled options here.\n\nWith more width and more panels comes more overall frame weight rolling on the same size casters, so check the caster load rating carries the fully assembled unit before loading additional weight onto the frame itself. Its 3.8-star average across 116 ratings is the lowest confirmed-wheel pick in this roundup, worth weighing against its width advantage.\n\n6 panels for broader coverage. Set against that, 3.8 stars, lowest in this roundup. Both matter when comparing it to the other picks here.",
     specs: ["Lockable wheels confirmed in listing", "119 in width, 70 in height", "6-panel design with cover strips included", "Freestanding, no drilling"],
@@ -100,7 +100,7 @@ export const products: GuideProduct[] = [
     rating: "3.7 stars",
     reviews: "265 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Kos9bD7wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK196S27?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK196S27?tag=workcocoon-20",
     description:
       "The VAMFUTRE confirms both caster wheels and brakes in its listing, giving it a genuine locking mechanism rather than just a wheel that happens to stop moving on carpet. As a single panel rather than a folded multi-panel screen, it is a simpler mobile divider for a corner partition or a smaller separation need.\n\nAt a lower 3.7-star average across 265 ratings, buyer feedback trends slightly below the other wheeled picks here, and it is worth reading recent reviews on caster durability before committing. It is the lowest-priced confirmed-wheel option in this list.\n\nA genuine advantage here is that lowest price among confirmed-wheel picks. The tradeoff is 3.7 stars, lower buyer feedback trend.",
     specs: ["Caster wheels and brakes confirmed in listing", "Single panel design", "6 ft (approx.) height", "Freestanding, no drilling"],
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "11 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51PH+PczeqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H3L3224G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H3L3224G?tag=workcocoon-20",
     description:
       "We're including this one with an honest flag: the Amsleekey's title and listing do not confirm caster wheels, unlike the confirmed-wheel picks above. It is a solid 4-panel wood-frame folding screen at 67 inches tall, a reasonable choice if mobility isn't actually the priority, but it should not be assumed to roll like the SUNALLY or Kokorona above.\n\nIts wood-panel construction is heavier and more rigid than fabric screens, which would make wheels genuinely useful if they were included, since a 4-panel wood frame is harder to drag across carpet than a lightweight fabric divider. At 4.3 stars its rating sample is small at just 11 ratings, so treat the average cautiously.\n\n4.3 star average. That's a real strength, but weigh it against the flip side: wheels not confirmed, do not assume mobility.",
     specs: ["Wheels NOT confirmed in listing", "4-panel solid wood frame", "67 in height", "Freestanding, no drilling"],
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "1,593 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=workcocoon-20",
     description:
       "Another honest flag here: the RANTILA's listing does not mention wheels or casters at all, it is a plain freestanding fabric panel. We include it because it shares a shared product pool with genuinely wheeled dividers and buyers researching this category will encounter it, but if rolling mobility is your actual requirement, choose one of the confirmed-wheel picks above instead. On its own merits it is a well-reviewed single-panel screen with the largest rating base in this guide at 1,593 ratings, a reasonable pick if you're comfortable lifting rather than rolling it into place. Worth calling out specifically: genuinely affordable. The catch is no wheels, requires manual lifting to reposition.",
     specs: ["Wheels NOT confirmed, plain freestanding panel", "71 in width, 69.5 in height", "Single-panel fabric design", "Freestanding, no drilling"],
@@ -151,7 +151,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars",
     reviews: "170 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416huFrUlIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DST8SCHS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DST8SCHS?tag=workcocoon-20",
     description:
       "This height-adjustable single panel likewise does not confirm wheels in its listing. It's a plain freestanding fabric divider that happens to appear in the same product pool searched by buyers looking for wheeled options, so we're flagging that clearly rather than implying mobility it doesn't have. If you specifically want to reposition a divider frequently, one of the confirmed-wheel picks earlier in this guide is the better match. At 3.9 stars across 170 ratings, it trails most of the confirmed-wheel and fabric-panel picks in this roundup. genuinely affordable. Set against that, no wheels confirmed, not a mobile option. Both matter when comparing it to the other picks here.",
     specs: ["Wheels NOT confirmed, plain freestanding panel", "71 in width, adjustable up to 71 in height", "Single-panel fabric design", "Freestanding, no drilling"],
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars",
     reviews: "170 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41RSKHfDyHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DST8C4GG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DST8C4GG?tag=workcocoon-20",
     description:
       "A near-identical variant to the entry above, also with no wheels confirmed in its listing. We're including it for completeness of this shared product pool, but it is not a wheeled divider and buyers specifically shopping for rolling mobility should scroll back up to the confirmed-wheel picks.\n\nSame 3.9-star average and 170-rating sample as its sibling listing, and the same single-panel, height-adjustable, freestanding fabric design.\n\nA genuine advantage here is that affordable pricing. The tradeoff is no wheels confirmed, not a mobile option.",
     specs: ["Wheels NOT confirmed, plain freestanding panel", "71 in width, adjustable up to 71 in height", "Single-panel fabric design", "Freestanding, no drilling"],

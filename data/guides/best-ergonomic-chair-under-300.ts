@@ -44,7 +44,7 @@ export const products: ErgoChair300[] = [
     seatType: "Mesh",
     warranty: "3 years",
     imageUrl: `${BASE}/sihoo-doro-c300.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C3T865C2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C3T865C2?tag=workcocoon-20",
     whyItWorks:
       "Dynamic weight-sensing lumbar auto-adjusts as you shift posture throughout the day - no manual readjustment needed. Same concept as $1,000+ premium chairs scaled to $200-$280. 3D armrests, adjustable headrest, 135 deg recline, 330 lb capacity, 3-year warranty.",
     tradeoffs: [
@@ -80,7 +80,7 @@ export const products: ErgoChair300[] = [
     seatType: "Full mesh (back + seat)",
     warranty: "3 years",
     imageUrl: `${BASE}/sihoo-m57.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07BDFW1Y7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BDFW1Y7?tag=workcocoon-20",
     whyItWorks:
       "Both backrest and seat use mesh - air circulates under your thighs during long sessions. 2D lumbar adjusts height and depth. 3D armrests, aluminum alloy base, adjustable headrest. 330 lb capacity with 3-year Sihoo warranty at $150-$200.",
     tradeoffs: [
@@ -116,7 +116,7 @@ export const products: ErgoChair300[] = [
     seatType: "Foam with waterfall edge",
     warranty: "HON Full Warranty (commercial)",
     imageUrl: `${BASE}/hon-ignition-2-0-mid-back.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B06Y3PGPR2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06Y3PGPR2?tag=workcocoon-20",
     whyItWorks:
       "BIFMA-certified commercial build - tested to 250,000 tilt cycles and 100,000 seat drop tests. Synchro-tilt keeps seat and backrest moving in coordinated proportion during recline. HON commercial warranty. Designed for 5-7 years of 8-hour daily use in office environments.",
     tradeoffs: [
@@ -154,7 +154,7 @@ export const products: ErgoChair300[] = [
     seatType: "Mesh high-back",
     warranty: "2 years",
     imageUrl: `${BASE}/nouhaus-ergo3d-burgundy.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D456Z23R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D456Z23R?tag=workcocoon-20",
     whyItWorks:
       "Most adjustment points in this guide: 4D armrests (width adjustment moves armrests laterally for shoulder fit), 3D lumbar (height + depth + tilt angle), 135 deg recline with 3-position lock. SGS certified gas cylinder. Best for shared use between users of different body types.",
     tradeoffs: [
@@ -190,7 +190,7 @@ export const products: ErgoChair300[] = [
     seatType: "Cushioned foam, wide seat pan",
     warranty: "1 year",
     imageUrl: `${BASE}/gabrylly-ergonomic-high-back.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=workcocoon-20",
     whyItWorks:
       "Full high-back coverage at the lowest price in this guide. Wide foam seat accommodates users who find standard chairs too narrow. Flip-up armrests get out of the way. Fixed lumbar pad works adequately for average-height users (5'5\" to 5'11\"). Best budget entry for students.",
     tradeoffs: [
@@ -227,7 +227,7 @@ export const products: ErgoChair300[] = [
     seatType: "Memory foam",
     warranty: "1 year",
     imageUrl: `${BASE}/duramont-ergonomic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0797HZ8W1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0797HZ8W1?tag=workcocoon-20",
     whyItWorks:
       "4D lumbar (most axes in this guide - adds lateral width adjustment), memory foam seat conforms to body shape over time, rollerblade wheels quieter on hard floors, 155 deg recline (widest in this guide). Best for hard-floor apartments and users who prefer soft foam over mesh.",
     tradeoffs: [
@@ -265,7 +265,7 @@ export const products: ErgoChair300[] = [
     seatType: "Wide foam, extra-tall back",
     warranty: "1-2 years",
     imageUrl: `${BASE}/hbada-3d-armrest-high-back.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CX1DJDCQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX1DJDCQ?tag=workcocoon-20",
     whyItWorks:
       "Extra-tall backrest covers above the shoulder line for users 6'0\" to 6'4\". Wider seat pan for users with wider hips or thighs. 3D armrests, 2D lumbar, adjustable headrest. Eliminates the experience of a backrest ending at mid-shoulder.",
     tradeoffs: [
@@ -301,7 +301,7 @@ export const products: ErgoChair300[] = [
     seatType: "3.54\" extra-thick memory foam",
     warranty: "5 years",
     imageUrl: `${BASE}/casasio-premium.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FZZWCYNM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FZZWCYNM?tag=workcocoon-20",
     whyItWorks:
       "5-year warranty (longest in this guide) and 3.54-inch thick memory foam seat (about 1 inch thicker than standard), which extends the comfortable life of the chair before compression. 330 lb capacity. Good for users who have had chairs fail structurally within 1-2 years.",
     tradeoffs: [
@@ -337,7 +337,7 @@ export const products: ErgoChair300[] = [
     seatType: "All-mesh",
     warranty: "Lifetime",
     imageUrl: `${BASE}/tralt-ergonomic-mesh.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=workcocoon-20",
     whyItWorks:
       "Only lifetime warranty in this guide. Over 3,600 Amazon reviews provides reliable real-world signal of consistent build quality. 14 color options - widest selection in this guide. All-mesh construction. 330 lb capacity.",
     tradeoffs: [
@@ -375,7 +375,7 @@ export const products: ErgoChair300[] = [
     seatType: "3.14\" high-density foam",
     warranty: "1 year",
     imageUrl: `${BASE}/marsail-ergonomic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=workcocoon-20",
     whyItWorks:
       "3D armrests and 2D lumbar at $150-$200. 2D adjustable headrest with independent height and tilt. 3.14-inch high-density foam provides consistent support. Good mid-range balance between features and price for users upgrading from basic chairs.",
     tradeoffs: [

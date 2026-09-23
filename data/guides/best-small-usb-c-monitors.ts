@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41tqJnA68CL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK46JV64?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK46JV64?tag=workcocoon-20",
     description:
       "A genuinely compact 22-inch essential Samsung panel, appropriate for the smallest desk setups needing a reliable secondary or primary display without a large footprint.\n\nA tilt-only stand keeps the design simple and budget-friendly, straightforward scaling at standard resolution avoids any tiny-text concerns.\n\nThe standout detail is that budget-friendly Samsung build quality. Balancing that out, tilt-only stand offers less ergonomic adjustability.",
     specs: ["22-inch IPS panel", "Tilt-only stand", "Compact footprint", "Budget-friendly price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51jrQ-g06ZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4DCTPDL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4DCTPDL?tag=workcocoon-20",
     description:
       "A genuinely small 15.6-inch panel running true 4K resolution, plan for significant display scaling adjustments to avoid tiny, hard-to-read text at this pixel density.\n\nTouchscreen input and 125% sRGB coverage add real value for buyers wanting detail and color accuracy in a small, portable package.\n\nTouchscreen input for direct interaction. That's a real strength, but weigh it against the flip side: requires significant display scaling adjustment to avoid tiny text.",
     specs: ["15.6-inch true 4K portable panel", "Touchscreen input", "125% sRGB color coverage", "Requires significant display scaling"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP7XRW9S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP7XRW9S?tag=workcocoon-20",
     description:
       "A straightforward, budget-friendly small 15.6-inch panel, appropriate for buyers wanting a compact secondary display for reference material or chat.\n\nStandard resolution at this size avoids the aggressive scaling adjustments a small 4K panel requires.\n\nStandard resolution avoids aggressive scaling adjustments. On the other hand, fewer extra features than pricier alternatives. Both are worth keeping in mind before deciding.",
     specs: ["15.6-inch panel", "USB-C connectivity", "Budget-friendly price", "Standard resolution, minimal scaling needed"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09K3FWMPL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09K3FWMPL?tag=workcocoon-20",
     description:
       "Includes a protective sleeve and built-in adjustable stand, genuinely useful extras for a small monitor intended as a secondary or travel-friendly display.\n\n1080P resolution at this size avoids scaling complications while still offering a meaningful resolution bump for reference material.\n\nA genuine advantage here is that built-in adjustable stand avoids extra accessories. The tradeoff is that not suited as a primary all-day productivity display.",
     specs: ["15.6-inch 1080P panel", "Included protective sleeve", "Built-in 90° adjustable stand", "Budget-friendly price"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51qgAD7WZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9NNWXVP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9NNWXVP?tag=workcocoon-20",
     description:
       "The most budget-friendly small monitor option in this guide, appropriate for buyers wanting to test whether a compact secondary display fits their workflow before investing more.\n\nHDR support and IPS panel technology give reasonably good picture quality despite the low price point.\n\nHDR support and IPS panel for reasonable picture quality. That said, lower rating than other picks in this guide, verify current reviews. Neither should be a surprise once you know to look for it.",
     specs: ["15.6-inch FHD IPS panel", "HDR support", "USB-C and HDMI connectivity", "Lowest price in this guide"],

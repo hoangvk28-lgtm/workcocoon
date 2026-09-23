@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "80,616",
     imageUrl: "https://m.media-amazon.com/images/I/31OR4pkm28L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07F8S18D5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07F8S18D5?tag=workcocoon-20",
     description:
       "This is a static folding stand, not an articulating arm, but its dual-folding aluminum hinge and low-profile footprint make it a genuinely good fit next to a gaming keyboard and mouse where desk space is tight. It has by far the highest review count in this comparison.\n\nThere is no gaming-specific feature here beyond the compact size, an honest tradeoff for the very low price and strong reliability track record.\n\nVery affordable. Set against that, no articulating arm, fixed angle stand only. Both matter when comparing it to the other picks here.",
     specs: ["Full aluminum folding stand", "Compact, low desk footprint", "Adjustable viewing angle", "No moving arm, fixed stand only"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "71,226",
     imageUrl: "https://m.media-amazon.com/images/I/41O6vIuvY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Z82895W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Z82895W?tag=workcocoon-20",
     description:
       "This is the only pick in this comparison explicitly marketed for gaming use, specifically dual compatibility with phones and the Nintendo Switch. It remains a static stand rather than an arm, holding the device at a fixed adjustable angle for tabletop-mode Switch gaming or mobile gaming on a desk.",
     specs: ["Fixed stand, dual phone/Switch compatible", "Adjustable angle", "Compact desk footprint", "No moving arm"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "2,652",
     imageUrl: "https://m.media-amazon.com/images/I/41MFNPQ2hAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DP42G526?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DP42G526?tag=workcocoon-20",
     description:
       "The cheapest pick in this comparison, this Lamicall stand rotates 360 degrees on its base, useful for switching between portrait and landscape viewing without repositioning the whole stand. It carries the highest star rating here, though with a much smaller review count than the top two picks.",
     specs: ["360° rotating base", "Sturdy metal construction", "Low desk footprint", "Fixed stand, no arm"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "4,299",
     imageUrl: "https://m.media-amazon.com/images/I/417vAC5YHAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CLKRZYSQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CLKRZYSQ?tag=workcocoon-20",
     description:
       "This COOPER stand folds flat for storage or travel, a genuine advantage over the fixed-shape aluminum picks in this comparison if you want to move the stand between a gaming desk and elsewhere. Its metal base rotates for angle adjustment similar to the Lamicall pick.",
     specs: ["Foldable, portable design", "Sturdy metal base", "360° rotation", "Piano black finish"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "590",
     imageUrl: "https://m.media-amazon.com/images/I/41xaBwnZk1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZTSXN5D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZTSXN5D?tag=workcocoon-20",
     description:
       "Honesty note: this is a novelty item shaped like a miniature gaming chair, and its actual holding capacity is limited to devices up to about 19cm tall, more suited to a Kindle or small phone than a large modern smartphone. It has the smallest review count of any pick here.\n\nWe include it only because it is the single genuinely gaming-themed product this research turned up, appropriate as a desk decoration and light-duty holder rather than a primary phone stand.\n\nA genuine advantage here is that fun desk accessory. The tradeoff is limited to small/thin devices.",
     specs: ["Miniature gaming-chair-shaped stand", "Holds devices up to 19cm tall", "Novelty desk decoration", "Fixed, non-adjustable design"],

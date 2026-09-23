@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed for smoke with by far the largest review base of any pick here as real-world evidence, True HEPA H13 captures fine smoke particulate at 99.97%.\n\nA HEPA-only design removes visible particulate but does little for lingering smell without a substantial carbon stage, check whether persistent odor is your bigger concern than particulate.\n\nA genuine advantage here is that by far the largest review base of any pick here. The tradeoff is that standard carbon layer, not the deepest odor-control pick here.",
     specs: ["True HEPA H13, marketed for smoke", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "PlasmaWave technology adds a genuine odor-neutralizing layer beyond mechanical carbon filtration alone, meaningful for lingering smoke smell rather than just particulate removal.\n\nActivated carbon mass, not HEPA alone, is what actually captures smoke odor at the molecular level, this unit's added PlasmaWave layer complements that mechanical carbon stage.\n\nLarge, well-established review base. That said, higher price than the top pick. Neither should be a surprise once you know to look for it.",
     specs: ["PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration", "Multi-stage filtration"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 616 Amazon ratings",
     reviews: "616 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CulL9tCOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K3R8QPF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K3R8QPF?tag=workcocoon-20",
     description:
       "A multi-stage design with a substantial carbon mass genuinely built for heavier smoke exposure, appropriate for a wildfire-smoke season or a heavy indoor-smoking household.\n\nThe higher price reflects genuinely more carbon mass and filtration stages than a standard HEPA-only unit, worth it for a heavier or more persistent smoke exposure scenario.\n\nWorth calling out specifically: multi-stage filtration for both particulate and odor. The catch is highest price in this guide by a wide margin.",
     specs: ["Multi-stage filtration with substantial carbon mass", "Smart app control", "5-stage filtration system", "Higher capacity for heavy smoke exposure"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large review base at the lowest price in this guide, genuinely capable for occasional light smoke exposure rather than heavy or persistent smoke odor.\n\nOccasional light exposure is a reasonable fit here, a heavier or more persistent smoke scenario likely needs one of the deeper-carbon picks in this guide instead.\n\nLarge, well-established review base. Set against that, not built for heavy or persistent smoke odor. Both matter when comparing it to the other picks here.",
     specs: ["True HEPA filtration", "Large review base", "Budget-friendly", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control, genuine headroom for a larger room affected by smoke where the smoke-specific CADR runs lower than the general dust or pollen number.\n\nSize up from a standard-capacity unit for a larger affected room, since a general CADR rating overstates real smoke-clearing speed for that specific space.\n\nThe standout detail is that smart app control for monitoring. Balancing that out, higher price than budget alternatives.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Extra headroom for larger smoke-affected rooms"],

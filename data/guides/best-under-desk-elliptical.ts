@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "16,995",
     imageUrl: "https://m.media-amazon.com/images/I/31DkFSvNqcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B074F1S194?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B074F1S194?tag=workcocoon-20",
     description:
       "The Cubii JR1 pairs manual magnetic resistance across 8 levels with a compact 25.4 lb frame built specifically to slide under a standard desk. An 18-inch stride and an LCD display covering strides, distance, and calories make it easy to track a session without opening a phone.\n\nBluetooth syncing to the Cubii App adds long-term progress tracking, and the battery-powered design means no cord to route under the desk. Its 150 lb max user weight is the lowest ceiling among the manual picks in this guide, worth checking before buying.\n\nA genuine advantage here is that bluetooth app tracks strides, calories, and distance over time. The tradeoff is 150 lb max user weight is the lowest among the manual picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "13,037",
     imageUrl: "https://m.media-amazon.com/images/I/41nUSNrhBsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07MWV1JD7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07MWV1JD7?tag=workcocoon-20",
     description:
       "The SF-E3872 uses a belt-drive magnetic resistance system across 8 levels and ships fully assembled, so there's no setup step before the first session. A digital monitor tracks time, speed, calories, and distance, and the pedal trajectory is shaped specifically to keep knees clear during the motion. At 25 lbs and rated for users up to 250 lbs, it carries more weight capacity than the pricier Cubii JR1 while competitively priced less. That combination makes it the cheapest pick in this guide without cutting the resistance range or monitor features. Ships fully assembled, no setup needed. On the other hand, no app connectivity or Bluetooth tracking. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "14,492",
     imageUrl: "https://m.media-amazon.com/images/I/41JiOhdbeAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B000VICRO8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000VICRO8?tag=workcocoon-20",
     description:
       "The Stamina InMotion E1000 is the only pick in this guide built to work in two positions, standing at a counter or seated at a desk, thanks to its 8-level magnetic resistance and forward/reverse pedal direction. An electronic monitor plus the müüv app cover the basic tracking needs most buyers expect.\n\nAt 24 lbs it's among the lightest picks here, and its 250 lb max user weight matches the Sunny Health pick. The tradeoff for the lowest price in this guide is a more basic build than the Cubii models, without Bluetooth strides tracking.\n\nOnly dual-mode design, works standing or seated. That's a real strength, but weigh it against the flip side: electronic monitor is more basic than the Cubii's app tracking.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,190",
     imageUrl: "https://m.media-amazon.com/images/I/51US1sTPFcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07MBQ19Z2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07MBQ19Z2?tag=workcocoon-20",
     description:
       "The DeskCycle Ellipse runs 8 magnetic resistance levels from very easy to genuinely hard, paired with the smoothest pedal motion in this guide thanks to its steel frame and refined mechanism. Extra-large, adjustable pedals give it the best fit for larger shoe sizes among every pick here.\n\nA 6-function LCD tracks the core workout metrics, and the display detaches onto a separate stand so it stays visible without sitting in the way of foot motion. At 30 lbs it's the heaviest pick in this guide, a tradeoff for its sturdier steel construction.\n\nWorth calling out specifically: largest pedals, best fit for bigger shoe sizes. The catch is most expensive pick alongside the Cubii GO.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,649",
     imageUrl: "https://m.media-amazon.com/images/I/41hebifahuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08HPPBPLT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08HPPBPLT?tag=workcocoon-20",
     description:
       "The LifePro FlexStride Plus carries an 8-level magnetic resistance system and a 300 lb max user weight, the highest capacity among the manual, non-electric picks in this guide. An LCD tracks time, distance, strides, RPM, and calories, with Bluetooth syncing to a companion fitness app for longer-term logging.\n\nIt's also the most complete kit in this guide out of the box, arriving with a floor mat, a tether strap, a yoga band, and wheel stoppers, backed by a 2-year warranty. At 28.7 lbs it sits in the middle of the weight range for this category.\n\nIncludes a mat, tether, yoga band, and wheel stoppers. Set against that, not the cheapest option despite the added accessories. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "455",
     imageUrl: "https://m.media-amazon.com/images/I/41EDJQKKTML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNS5CWPG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNS5CWPG?tag=workcocoon-20",
     description:
       "The Cubii GO steps up to 10 magnetic resistance levels, the most of any pick in this guide, using a ZeroGravitii flywheel design built specifically to keep operation nearly silent. An aluminum frame keeps weight manageable while supporting a 300 lb max user weight. Built-in wheels and a double telescoping handle make it the most portable pick here, moving more like carry-on luggage than a piece of home fitness equipment. Bluetooth syncs to the Cubii App, though It's tied for the priciest pick in this guide. A genuine advantage here is that most portable pick, built-in wheels and telescoping handle. The tradeoff is tied for the most expensive pick in this guide.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "470",
     imageUrl: "https://m.media-amazon.com/images/I/41TNvYE+McL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DNYC5SDX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DNYC5SDX?tag=workcocoon-20",
     description:
       "The Cubii Total Body V2 is the only pick in this guide that combines elliptical pedals with a resistance-band pulley system, letting a user work their upper body at the same time as their legs. It runs 12 magnetic resistance levels, the highest range in this entire guide, tracked on an LCD display.\n\nAlloy steel construction supports users up to 300 lbs and up to 7 feet tall, making it the pick with the widest user-size range here. The added pulley hardware does mean a slightly larger footprint than the pure-pedal picks in this guide.\n\nHighest resistance range in this guide at 12 levels. On the other hand, larger footprint than pure-pedal picks due to the pulley hardware. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "976",
     imageUrl: "https://m.media-amazon.com/images/I/41-ppoSRPiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B085DBBQM9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B085DBBQM9?tag=workcocoon-20",
     description:
       "The Exerpeutic 2000M is the only motorized pick in this guide, using an electric motor to move the pedals rather than requiring the user to drive the motion themselves. A hand-held remote on a 6-foot cord controls speed and an automatic 15-minute timer without needing to bend down to the unit.\n\nFoldable pedals with adjustable straps work for arms as well as legs, and a floor mat comes included. Rated for users up to 286 lbs, it's built for passive movement during a call or a long stretch of desk work rather than an active pedaling workout.\n\nRemote control avoids bending down to adjust settings. That's a real strength, but weigh it against the flip side: passive motion is a different workout than active pedaling.",
     specs: [

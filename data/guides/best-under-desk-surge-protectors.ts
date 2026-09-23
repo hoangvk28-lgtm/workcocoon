@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "12 outlets and 2700 joules with a large, well-established review base, real capacity for a full under-desk setup. ETL listed.\\n\\nOnce mounted under a desk, this indicator light becomes invisible during normal use, make a habit of periodically checking it since a failed unit can otherwise go unnoticed indefinitely.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the HANYCONY Surge Protector Power Strip.\n\nWorth knowing before you decide: 12 outlets for a full under-desk setup. On the other side, Indicator light invisible once mounted under a desk. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 67,972 Amazon ratings",
     reviews: "67,972 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41w1NL7yU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=workcocoon-20",
     description:
       "The largest review base of any pick in this guide, genuine reliability at an affordable price for a confined under-desk space. Braided cord resists wear from incidental foot contact.\\n\\nEnclosed under-desk heat buildup can degrade MOV components faster than open placement, factor this into replacement timing expectations.\n\nSet against the Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Durable braided cord for under-desk wear. On the other side, Indicator light hidden once mounted. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["1080 joules surge protection","Braided 5ft cord","Compact for confined spaces","Largest review base in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,666 Amazon ratings",
     reviews: "2,666 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eRaMa6u1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=workcocoon-20",
     description:
       "4800 joules, the highest rating in this guide, real headroom that helps offset the heat-related MOV degradation risk of enclosed under-desk placement. 10ft cord for routing flexibility.\\n\\nWall-mountable design option genuinely helps secure this unit in a fixed under-desk position rather than sitting loose.\n\nRelative to the HANYCONY Surge Protector Power Strip, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Wall mountable for a secure under-desk position. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4800 joules","10ft cord, wall mountable","2 USB-C, 2 USB-A","Desk charging station design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 44,144 Amazon ratings",
     reviews: "44,144 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=workcocoon-20",
     description:
       "8 outlets and 4 USB ports at 2700 joules, genuine surge protection with charging capability for an under-desk mount. Flat plug helps if your wall outlet is close to the floor.\\n\\nSame indicator-visibility caveat applies, check status periodically since it's hidden from view once mounted under the desk.\n\nCompared with the Surge Protector Power Strip 4800J above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: 4 USB ports for device charging. On the other side, Indicator light hidden once mounted. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports, flat plug","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "UL listed with 3,780 joules from an established brand, real build-quality confidence for a hidden, less-frequently-inspected under-desk installation. 8ft cord for routing flexibility.\\n\\nGiven the hidden nature of under-desk mounting, an established brand's build quality reputation matters more here than for a visible desktop unit you'd notice issues with sooner.\n\nSet against the Surge Protector Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: UL listed for verified safety. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules","UL listed, 8ft flat plug cord","Established Belkin brand","Heavy-duty extension cord"],

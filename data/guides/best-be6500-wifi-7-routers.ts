@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,325 Amazon ratings",
     reviews: "1,325 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, this is explicitly a dual-band BE6500, TP-Link's own model naming confirms no 6GHz radio at all despite the BE6500 designation.\n\nSince there's no 6GHz radio here, the channel-width cap concern doesn't apply, this unit's real value is dual 2.5G ports and a quad-core CPU at a genuinely low price for this device-count rating.\n\nGenuinely low price for a 90-device rating. Set against that, no 6GHz radio despite the BE6500 designation. Both matter when comparing it to the other picks here.",
     specs: ["Dual-band only, no 6GHz radio", "Dual 2.5Gbps ports", "Rated for 2,400 sq ft, 90 devices", "Quad-core CPU"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 124 Amazon ratings",
     reviews: "124 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41+YB6u0MUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR8TJSSY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR8TJSSY?tag=workcocoon-20",
     description:
       "Also confirmed dual-band despite the BE6500 designation, this Broadcom-chipset router includes VPN client and server functionality genuinely useful for privacy-conscious buyers at this price.\n\nThe smaller review base here means less real-world evidence than the top pick, weigh that against the added VPN server capability if that feature matters to your use case.\n\nThe standout detail is that broadcom quad-core CPU for solid routing performance. Balancing that out, smaller review base than the top pick.",
     specs: ["Dual-band only, no 6GHz radio", "VPN client and server support", "Broadcom 2GHz quad-core CPU", "Cudy Mesh compatible"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 58 Amazon ratings",
     reviews: "58 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41---i6ECYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTTPB4MQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTTPB4MQ?tag=workcocoon-20",
     description:
       "TP-Link's own listing explicitly states 'No 6 GHz' for this gaming-focused variant, an honest disclosure worth crediting, with a dedicated gaming port and game acceleration features for a gaming-priority buyer.\n\nThe small review base is a genuine limitation for such a new product, weigh this against the gaming-specific feature set if that's your priority over general Wi-Fi 7 performance.\n\nDedicated gaming port with game acceleration. That's a real strength, but weigh it against the flip side: small review base for such a new product.",
     specs: ["Dual-band only, explicitly 'No 6 GHz' per listing", "Dedicated gaming port and panel", "Game acceleration features", "RGB lighting"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 361 Amazon ratings",
     reviews: "361 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31afKNh9uUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FX9C5QVJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FX9C5QVJ?tag=workcocoon-20",
     description:
       "GL.iNet's router-focused brand, well known among more technical buyers for open firmware flexibility and VPN configuration options beyond typical consumer router interfaces.\n\nAt this mid-tier, MLO support quality and completeness should be verified beyond simple presence, GL.iNet's more technical audience may find firmware documentation clarifying this more directly than mainstream brands.\n\nStrong VPN configuration options. On the other hand, higher price than mainstream consumer alternatives. Both are worth keeping in mind before deciding.",
     specs: ["Dual-band, verify 6GHz radio presence per current listing", "VPN-focused firmware", "More technical/advanced configuration options", "Solid review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 39 Amazon ratings",
     reviews: "39 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31s79KgGhCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FVB76FH2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FVB76FH2?tag=workcocoon-20",
     description:
       "Four full 2.5GbE ports is a genuine step up from the typical dual-port configuration at this tier, appropriate for a buyer with multiple wired multi-gig devices to connect.\n\nASUS lists MLO support here, but this remains dual-band, meaning MLO's structural cross-band benefit is limited the same way as other BE6500 picks in this guide, verify firmware documentation for actual MLO behavior on this specific model.\n\nA genuine advantage here is that aSUS TUF Gaming brand reliability. The tradeoff is that highest price in this guide.",
     specs: ["Dual-band only", "Four full 2.5GbE ports", "Game Accelerator feature", "ASUS TUF Gaming brand"],

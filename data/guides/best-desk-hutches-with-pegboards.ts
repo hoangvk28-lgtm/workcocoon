@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 330 Amazon ratings",
     reviews: "330 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51y3uAmYlhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9882DJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9882DJK?tag=workcocoon-20",
     description:
       "The largest review base of any pick in this guide, a genuine 4-tier desk hutch with integrated pegboard hooks, hutch shelving capacity evaluated separately from the pegboard's own hook capacity as two distinct storage mechanisms.\n\nThis compounds multiple load types onto the desk itself, verify your desk surface's weight rating against the combined weight of this hutch plus loaded pegboard hooks and shelves.\n\nGenuine 4-tier shelving plus separate pegboard hook capacity. That said, verify desk surface weight rating against the full compounded load. Neither should be a surprise once you know to look for it.",
     specs: ["4-tier wood hutch with pegboard hooks", "38.6-inch width", "Largest review base in this guide", "Two distinct storage mechanisms"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 25 Amazon ratings",
     reviews: "25 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51RvjSX0CeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWM5GS53?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GWM5GS53?tag=workcocoon-20",
     description:
       "A more compact 2-tier hutch design with integrated pegboard and hooks, appropriate for a buyer wanting less compounded desk-surface load than a taller 3-4 tier alternative.\n\nA smaller hutch structure sitting atop the desk creates a less boxed-in feeling and blocks less natural light than a taller unit, a real workspace-feel consideration distinct from pure storage capacity.\n\nWorth calling out specifically: less compounded weight on the desk surface than a taller unit. The catch is smaller review base than the top pick.",
     specs: ["2-tier hutch with pegboard and hook", "Compact vertical profile", "Solid rating with a smaller review base", "Less compounded desk load than taller units"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 1 Amazon rating",
     reviews: "1 rating",
     imageUrl: "https://m.media-amazon.com/images/I/512nPAd1GYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTLWCMVB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTLWCMVB?tag=workcocoon-20",
     description:
       "A genuine metal-frame 3-tier hutch at 45.3 inches, the largest width in this guide, metal construction typically offers better structural stability for a combined hutch-plus-pegboard load than wood alternatives.\n\nWith only a single review, treat this as an emerging option with very limited real-world evidence despite the perfect rating, weigh this against the more proven picks in this guide.\n\nWidest hutch in this guide at 45.3 inches. Set against that, extremely limited review base, only a single rating. Both matter when comparing it to the other picks here.",
     specs: ["Metal-frame 3-tier hutch, black finish", "45.3-inch width, widest in this guide", "Extremely limited review base", "Heavy-duty metal construction"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 5 Amazon ratings",
     reviews: "5 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51OfCUt1ffL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H44STD1G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H44STD1G?tag=workcocoon-20",
     description:
       "A genuinely distinct feature here is the included drawer alongside adjustable shelves, a hutch shelving mechanism distinct from a pegboard's hook capacity, offering enclosed storage alongside open display.\n\nThis is explicitly sized for a 27-inch monitor, verify this fits your specific monitor size and doesn't create an unwanted boxed-in feeling around your screen.\n\nThe standout detail is that adjustable shelves for flexible configuration. Balancing that out, very small review base, weigh the perfect rating with caution.",
     specs: ["Engineered wood hutch with drawer", "Adjustable shelves, sized for 27-inch monitors", "Small but perfect review sample", "Space-saving design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 1 Amazon rating",
     reviews: "1 rating",
     imageUrl: "https://m.media-amazon.com/images/I/51E62mHj2yL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTLV3HDV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTLV3HDV?tag=workcocoon-20",
     description:
       "The white variant of the same metal-frame 3-tier hutch design, appropriate for a lighter desk aesthetic while retaining the same structural stability advantages of metal construction.\n\nA white hutch of this size sitting atop the desk will more visibly show dust than the black variant, per general white-finish maintenance findings, factor this into your cleaning routine.\n\nWhite finish for a lighter desk aesthetic. That's a real strength, but weigh it against the flip side: extremely limited review base, only a single rating.",
     specs: ["Metal-frame 3-tier hutch, white finish", "37.4-inch width", "Extremely limited review base", "Same structural design as the black variant"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41ofaC4xQiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08R3V1YTB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08R3V1YTB?tag=workcocoon-20",
     description:
       "A 16x12 inch double-sided board with a stand, magnetic on the surface per the listing, giving a solid balance of size and price among the double-sided picks here.\n\nWhether both sides are identical blank surfaces or one includes a template isn't detailed in the listing, so check product images if that distinction matters to your use case.",
     specs: ["16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Includes stand", "Balanced size and price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41FLEFa9xDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVM9YJCS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVM9YJCS?tag=workcocoon-20",
     description:
       "Same 16x12 double-sided, magnetic, stand-equipped combination as our overall pick, from a different brand, a nearly equivalent alternative if you prefer AMUSIGHT's specific build.\n\nAs with the pick above, second-side content isn't detailed in the listing, so verify via images if you need a specific template on either face.",
     specs: ["16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Includes stand", "Comparable to our overall pick"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51MYxgVGDSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08V4QSPFD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08V4QSPFD?tag=workcocoon-20",
     description:
       "The only double-sided pick in this guide where the listing explicitly describes calendar content, meaning one side or an included overlay offers monthly or weekly planning structure rather than a blank surface.\n\nThis is the clearest example in this guide of the second side genuinely offering something different from a blank writing surface, verify the exact layout via listing images before buying.",
     specs: ["14\" x 10\" writing surface, double-sided", "Magnetic calendar feature per listing", "Includes stand", "Explicit second-side content"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21u3Y9nx6oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LSDSG52?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LSDSG52?tag=workcocoon-20",
     description:
       "The smallest double-sided pick in this guide, explicitly labeled mini, giving you two small writing surfaces in a minimal desk footprint rather than one larger single-sided board.\n\nGood for separating a quick reminder from a second short note without adding desk space, though exact dimensions aren't stated in the listing.",
     specs: ["Double-sided, explicitly labeled \"mini\"", "Magnetic erasable surface", "Includes stand", "Smallest footprint in this guide"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/4139fisIqSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09VL1QL8F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09VL1QL8F?tag=workcocoon-20",
     description:
       "The lowest price of any double-sided board in this guide, 16x12 inches with a stand, described as portable, suggesting a lighter overall construction.\n\nA reasonable entry point for two writing surfaces without paying for glass or extra features, though as with the other budget picks, second-side content and rotation durability aren't detailed.",
     specs: ["16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Includes stand", "Lowest price in this guide"],

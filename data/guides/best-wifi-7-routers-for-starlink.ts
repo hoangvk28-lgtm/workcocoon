@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "An affordable router appropriate for Starlink households wanting device-capacity and feature improvements over Starlink's built-in Wi-Fi without a large purchase, once Starlink is set to bypass mode.\n\nRemember this router doesn't change Starlink's own uplink speed ceiling, its value here is future-proofing and device compatibility, not raw throughput beyond what Starlink itself delivers.\n\nWorth calling out specifically: high 4.4-star rating with a large review base. The catch is does not improve Starlink's own uplink speed ceiling.",
     specs: ["Dual-band, no 6GHz radio", "4-stream configuration", "2x2.5G + 3x1G ports", "USB 3.0 port"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,324 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "Dual 2.5Gbps ports and stronger coverage make this a solid pick for larger Starlink households wanting more device capacity than an entry-tier router once bypass mode is properly configured.\n\nIf gaming or VPN connections drop unexpectedly after switching routers, check for double-NAT first, since this is the most common cause and is fixed by confirming Starlink is genuinely in bypass mode.\n\nHigh 4.4-star rating with a large review base. Set against that, no 6GHz radio limits full Wi-Fi 7 feature set. Both matter when comparing it to the other picks here.",
     specs: ["Dual-band, no 6GHz radio", "Dual 2.5Gbps ports", "Covers up to 2,400 sq. ft.", "USB 3.0 port"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EClf31jxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=workcocoon-20",
     description:
       "A 3-pack mesh system appropriate for larger Starlink homes where Starlink's built-in router leaves coverage gaps, genuinely extending Wi-Fi throughout the home once bypass mode replaces Starlink's router function.\n\nNewer Starlink hardware includes improved built-in mesh and Wi-Fi, worth checking whether your specific Starlink kit already covers your home adequately before buying a separate mesh system.\n\nThe standout detail is that wired backhaul option for reliable node-to-node connection. Balancing that out, newer Starlink hardware's own mesh may already suffice, verify before buying.",
     specs: ["Dual-band mesh, 3-pack", "2x 2.5G wired backhaul ports", "Covers up to 6,500 sq. ft.", "TP-Link Deco app"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,158 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31cXnHQNtzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKVDZXSN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKVDZXSN?tag=workcocoon-20",
     description:
       "A higher BE5000-rated Deco mesh system appropriate for larger or higher-device-count Starlink households wanting more capacity than the entry-tier Deco 7 BE23 while gaining genuine whole-home coverage.\n\nAny router paired with Starlink is still limited by Starlink's own uplink speed as the actual bottleneck, this router's real value is device capacity and coverage, not exceeding Starlink's satellite-limited throughput.\n\nLarge review base with a high 4.4-star rating. That's a real strength, but weigh it against the flip side: doesn't raise Starlink's own uplink speed ceiling.",
     specs: ["Dual-band mesh", "BE5000 combined rating", "240MHz channel width", "4-stream configuration"],

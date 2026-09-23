@@ -23,7 +23,7 @@ export const products: ProductReviewCardProps[] = [
     brand: "vizzicool",
     price: "$37.99",
     imageUrl: "https://m.media-amazon.com/images/I/41ZSH6V1t6L._SL500_.jpg",
-    affiliateUrl: "https://www.amazon.com/dp/B0FD3828QL?tag=deskfinds0d-20",
+    affiliateUrl: "https://www.amazon.com/dp/B0FD3828QL?tag=workcocoon-20",
     pros: [
       { text: "360 degree adjustable arm swings the tablet into position without touching the base" },
       { text: "Soft washable lap pillow stays comfortable across a full episode or reading session" },
@@ -45,7 +45,7 @@ export const products: ProductReviewCardProps[] = [
     brand: "RIWUCT",
     price: "$34.99",
     imageUrl: "https://m.media-amazon.com/images/I/41thJUd5v9L._SL500_.jpg",
-    affiliateUrl: "https://www.amazon.com/dp/B0H3682CZN?tag=deskfinds0d-20",
+    affiliateUrl: "https://www.amazon.com/dp/B0H3682CZN?tag=workcocoon-20",
     pros: [
       { text: "Built-in snack bowl doubles as a spot for a remote or phone during longer sessions" },
       { text: "360 degree rotating clip switches between portrait and landscape without repositioning the base" },
@@ -67,7 +67,7 @@ export const products: ProductReviewCardProps[] = [
     brand: "KABCON",
     price: "$33.99",
     imageUrl: "https://m.media-amazon.com/images/I/31PbHQcLXWL._SL500_.jpg",
-    affiliateUrl: "https://www.amazon.com/dp/B09T6TG2FK?tag=deskfinds0d-20",
+    affiliateUrl: "https://www.amazon.com/dp/B09T6TG2FK?tag=workcocoon-20",
     pros: [
       { text: "Solid aluminum construction holds an eye-level angle without sagging" },
       { text: "Height and angle are both adjustable, useful for propping on a nightstand while sitting up in bed" },

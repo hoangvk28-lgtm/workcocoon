@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "2,032 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PNTa55d1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4XW9167?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4XW9167?tag=workcocoon-20",
     description:
       "This is a fixed-height L-shaped desk rather than a height-adjustable standing desk, but it earns a spot on this list for buyers weighing storage against sit-stand capability, since its file drawer and two built-in monitor stands offer real storage and surface organization that many standing desk frames lack entirely. The reversible L-shape design also gives more total surface area than most single-motor standing desks, useful if storage is your bigger priority than adjustability.\n\nBecause the height is fixed, there's no motor stability tradeoff to worry about with a loaded drawer, and no floor clearance concern from raising and lowering. If you decide you need height adjustment later, pair a separate standing desk converter with this surface rather than expecting this desk itself to adjust.\n\nA genuine advantage here is that power outlet built into the desk. The tradeoff is not height-adjustable.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "1,754 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41A3q0YLcML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ8SSP2Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ8SSP2Q?tag=workcocoon-20",
     description:
       "Like the Furologee above, this is a fixed-height L-shaped desk, chosen here for buyers who want a fabric drawer and open storage shelves without any of the drawer-versus-motor tradeoffs that come with an adjustable frame. The reversible corner design and built-in power outlet make it flexible for either side of a room.\n\nOpen shelves add visible storage that a closed drawer doesn't, useful for items you want within reach rather than tucked away. As with the Furologee, if height adjustment matters later, plan on adding it separately rather than expecting this desk to convert.\n\nPower outlet included. On the other hand, not height-adjustable. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "365 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/5106rxAZBUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FVDDHRRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FVDDHRRH?tag=workcocoon-20",
     description:
       "Six fabric drawers make this the highest-storage-capacity desk in this list, all built into a fixed-height frame so there's no motor to stress and no floor clearance issue to worry about as the drawers fill up. Storage-heavy desks like this reduce usable desktop surface area by design, since drawer units take up depth that would otherwise be open desktop space. It's also one of the most affordable picks here. If you need this much closed storage on a height-adjustable frame instead, expect to pay significantly more and to actively manage drawer weight and placement to protect motor performance. No motor stability concerns. That's a real strength, but weigh it against the flip side: fixed height only.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "7,239 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+f1oDDjoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B003M96GY0?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B003M96GY0?tag=workcocoon-20",
     description:
       "This is a manually adjustable rolling cart rather than a motorized standing desk, and its low price and small footprint make it a genuinely different category of storage-plus-adjustability than the larger desks on this list. Because the height adjustment is manual, there's no motor to worry about stressing under a loaded shelf, though you should still confirm the shelf itself stays level and doesn't shift as you roll and adjust it.\n\nIts open shelf storage is minimal compared to a drawer-equipped desk, better suited to a laptop, a notebook, and a few accessories than files or heavier equipment. For genuinely tight spaces where a full standing desk doesn't fit, this cart is the most flexible and least expensive option here.\n\nWorth calling out specifically: no motor, so no motor stability concern. The catch is manual adjustment, not motorized.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "2,226 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ikoMgen5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=workcocoon-20",
     description:
       "The HUANUO is a genuine motorized standing desk without built-in storage, included here because its compact 32 inch top and single-motor frame make it a realistic base for pairing with a separate rolling storage cart or under-desk drawer, a common real-world setup for buyers who want both adjustability and storage without an expensive combined unit. Because it's a single-motor frame, an off-center loaded add-on drawer stresses it more than a centered load would, so plan any added storage carefully.\n\nFour memory height presets make repeated sit-stand transitions simple. Before pairing this desk with an under-desk drawer, confirm the combined desktop plus drawer load stays within the frame's stated capacity, and check that any drawer clears the floor at the desk's lowest height setting.\n\nCompact size suits small offices. Set against that, no built-in storage, requires separate cart or drawer. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "222 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XkTgfpQgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FK3DD4F1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FK3DD4F1?tag=workcocoon-20",
     description:
       "Furmax offers a larger 45 by 24 inch top than the HUANUO at a similar price, another genuinely motorized desk without built-in storage that's best paired with a separate cart or under-desk unit. Its four memory height positions work the same way, letting you save your preferred sit and stand heights.\n\nThe larger surface leaves more usable desktop space even after accounting for a paired storage cart taking up some of the footprint beside it. As with any single-motor desk, watch drawer or cart placement to avoid an off-center load that stresses the motor unevenly over time.\n\nA genuine advantage here is that true motorized height adjustment. The tradeoff is no built-in storage.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "311 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WJcV8uQrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVQMQMY2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVQMQMY2?tag=workcocoon-20",
     description:
       "A dual-motor frame handles an off-center loaded drawer or paired storage cart far more evenly than a single-motor desk, since the second motor compensates for the load imbalance a single motor would otherwise absorb alone. At 220 lbs of stated desktop capacity and a 55 by 28 inch surface, the E6 has real headroom to pair with under-desk storage while keeping the combined system load in check.\n\nNo storage is built in, so you'll still need to add your own drawer or cart, and you should still confirm any added unit clears the floor at the desk's lowest height setting. For buyers who want to store meaningfully heavier items than a rolling laptop cart, the dual-motor stability here is worth the higher price.\n\nHigh stated desktop capacity. On the other hand, no built-in storage. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "763 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PnkwnA3VL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09DYF1SRQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09DYF1SRQ?tag=workcocoon-20",
     description:
       "Same dual-motor frame and 220 lb stated desktop capacity as the E6 above, in a solid bamboo desktop with a white frame instead of the standard black one-piece top. The dual motor advantage for off-center storage loads applies equally here, a meaningful stability benefit if you're pairing this desk with an under-desk drawer or filing cart rather than relying on the bare desktop alone.\n\nBamboo is a genuinely more durable and premium desktop material than laminate, though it adds to the price over the standard E6. As with the other motorized desks here, no storage is built in, so budget separately for a cart or drawer and check its floor clearance at your desk's lowest setting.\n\nPremium bamboo desktop material. That's a real strength, but weigh it against the flip side: highest price on this list.",
     specs: [

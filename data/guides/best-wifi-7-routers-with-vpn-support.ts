@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "164 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31UOe1N82FL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D48GS6KB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D48GS6KB?tag=workcocoon-20",
     description:
       "Explicitly marketed for VPN compatibility, appropriate for buyers specifically prioritizing router-level VPN support alongside dual-band Wi-Fi 7 and mesh compatibility.\n\nVerify whether your specific commercial VPN provider supports this router's built-in protocol before buying, since 'VPN support' can mean either client routing or site-to-site remote access depending on the feature set.\n\nThe standout detail is that high 4.3-star rating. Balancing that out, router-based VPN throughput is CPU-limited, verify realistic speed expectations.",
     specs: ["Explicit VPN compatibility", "Dual-band, 6.5 Gbps rated", "Mesh + VPN compatible", "ASUS ecosystem and firmware"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "An affordable router appropriate for buyers wanting basic VPN client functionality without paying for hardware-accelerated encryption they may not need at typical home usage levels.\n\nWithout hardware VPN acceleration, expect sustained VPN speeds meaningfully below this router's rated Wi-Fi speed under real load, worth confirming this tradeoff matches your expectations before buying.\n\nHigh 4.4-star rating with a large review base. That's a real strength, but weigh it against the flip side: likely lacks hardware VPN acceleration, expect CPU-limited throughput under load.",
     specs: ["Basic VPN client support", "Dual-band, no 6GHz radio", "4-stream configuration", "2x2.5G + 3x1G ports"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,324 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "A step up with dual 2.5Gbps ports, appropriate for buyers running VPN traffic more regularly who want more CPU and port headroom than the entry-tier budget pick above.\n\nBenchmark actual VPN throughput on this model rather than assuming its rated Wi-Fi speed applies, since router-based VPN performance is CPU-limited and typically well below the router's headline wireless rating.\n\nHigh 4.4-star rating with a large review base. On the other hand, no 6GHz radio limits full Wi-Fi 7 feature set. Both are worth keeping in mind before deciding.",
     specs: ["VPN client support", "Dual 2.5Gbps ports", "Dual-band, no 6GHz radio", "Covers up to 2,400 sq. ft."],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "1,732 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=workcocoon-20",
     description:
       "A genuine tri-band router with a real 6GHz radio and the largest review base in this guide, appropriate for buyers wanting VPN functionality alongside full Wi-Fi 7 wireless capability rather than a dual-band tradeoff.\n\nFull 2.5G ports support a fast wired VPN gateway setup, though as with any router, actual VPN throughput remains CPU-limited rather than determined by the wireless radio's speed.\n\nA genuine advantage here is that largest review base in this guide for real-world confidence. The tradeoff is that more moderate 4.1-star rating, verify recent reviews.",
     specs: ["VPN client support", "Genuine tri-band with 6GHz radio", "Full 2.5G ports", "BE9300 combined rating, 6-stream"],

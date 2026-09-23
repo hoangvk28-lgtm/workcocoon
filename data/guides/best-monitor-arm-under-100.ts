@@ -43,7 +43,7 @@ export const products: MonitorArm100[] = [
     mount: "C-clamp + grommet",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-huanuo-flowlift-single.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=workcocoon-20",
     whyItWorks:
       "Best-selling monitor arm on Amazon with aerospace-grade aluminum construction 20% thicker than standard budget arms. The wide tilt range (-50 to +85 degrees) accommodates standing desk height changes without needing to readjust. Ships with both C-clamp and grommet mount options. Installation requires only a hex key included in the box.",
     tradeoffs: [
@@ -78,7 +78,7 @@ export const products: MonitorArm100[] = [
     mount: "C-clamp + grommet",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-north-bayou-f80.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B01AI2YGK4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01AI2YGK4?tag=workcocoon-20",
     whyItWorks:
       "Over 17,000 Amazon reviews with 4.5 stars - the most reviewed monitor arm at this price. Steel construction provides rigidity. First reliable monitor arm under $35 that has maintained consistent quality across multiple production batches.",
     tradeoffs: [
@@ -113,7 +113,7 @@ export const products: MonitorArm100[] = [
     mount: "C-clamp + grommet",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-vivo-stand-v001.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00B21TLQU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00B21TLQU?tag=workcocoon-20",
     whyItWorks:
       "22 lb capacity (vs North Bayou's 19.8 lb) and 38\" ultrawide screen support at the same price tier. Built-in cable routing channels keep desk cleaner than external clips. VIVO is a US-based brand with established product support and consistent quality.",
     tradeoffs: [
@@ -143,7 +143,7 @@ export const products: MonitorArm100[] = [
     mount: "C-clamp + grommet",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-vivo-stand-v001w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B083G7G5PK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083G7G5PK?tag=workcocoon-20",
     whyItWorks:
       "White monitor arms under $50 are rare - nearly all budget arms ship in black only. The V001W is the white version of the VIVO V001 with identical specs: 22 lb capacity, 38\" ultrawide support, built-in cable channels. Natural pairing for IKEA white desks, FEZIBO white frames, or white desk accessories.",
     tradeoffs: [
@@ -176,7 +176,7 @@ export const products: MonitorArm100[] = [
     mount: "C-clamp + grommet",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-vivo-stand-v101g1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07L8MLTGS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07L8MLTGS?tag=workcocoon-20",
     whyItWorks:
       "33 lb pneumatic gas spring capacity - the only arm in this guide rated for heavy 34\" and 49\" superultrawide monitors. One-finger adjustment even with a 30 lb 49\" panel. Substantial safety margin for 34\" monitors typically weighing 15-22 lbs. VIVO US support covers this category with consistency.",
     tradeoffs: [
@@ -211,7 +211,7 @@ export const products: MonitorArm100[] = [
     mount: "C-clamp + grommet",
     warranty: "Standard Amazon",
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-amazon-basics-lift-engine-arm.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00MIBN16O?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00MIBN16O?tag=workcocoon-20",
     whyItWorks:
       "Manufactured by the same OEM as the Ergotron LX - the mechanism is identical, the cost is $65-99 vs $140-180 for the Ergotron branded version. Integrated cable management channel (not clips). Aluminum construction. If the primary concern is motion quality - the smoothest one-finger movement at this price - this is the pick.",
     tradeoffs: [
@@ -246,7 +246,7 @@ export const products: MonitorArm100[] = [
     mount: "C-clamp + grommet",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-huanuo-flowlift-dual.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=workcocoon-20",
     whyItWorks:
       "Dual monitor arm under $100 is rare - most dual arms start at $130-150. Shared center post reduces desk footprint vs two separate arms. Independent arm positioning allows asymmetric setups (one monitor straight, one angled). 19.8 lb per arm covers virtually all standard 27\" monitors.",
     tradeoffs: [

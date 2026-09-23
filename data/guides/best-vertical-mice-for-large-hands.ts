@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "The largest body among the picks in this guide, built to support a full palm rest rather than being only marginally bigger than a standard vertical mouse.\n\nThe taller vertical body height genuinely reduces finger stretch to reach the primary buttons for larger hands using a palm grip, though claw-grip users may find the height less suited to their style.\n\nA genuine advantage here is that taller body height reduces finger stretch for palm grip users. The tradeoff is that less suited to a claw grip given the taller body.",
     specs: ["Full-size body with full-palm support", "Taller vertical body height", "Dual 2.4GHz and Bluetooth", "Premium build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "2,295 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31o5C5jFQAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=workcocoon-20",
     description:
       "One of the longest-standing full-size vertical mouse designs in the category, with a body genuinely built for larger hands rather than a recent, untested size claim.\n\nThe wired connection eliminates battery weight, and the established design has a long track record of buyer feedback specifically addressing fit for larger hands.\n\nNo battery weight adds to the lighter overall feel. That said, premium price for a wired-only mouse. Neither should be a surprise once you know to look for it.",
     specs: ["Full-size established body design", "Wired USB connection", "No battery weight", "Premium price point"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "A mid-size body that buyer feedback suggests works reasonably well for larger hands even though it isn't marketed as a large-hand-specific design, at a much lower price than the full-size premium picks.\n\nIf your hands are on the larger end but not extreme, this is a lower-cost option worth trying before committing to a premium full-size pick.\n\nWorth calling out specifically: rechargeable battery. The catch is not marketed or built specifically for large hands.",
     specs: ["Mid-size body", "Rechargeable built-in battery", "2.4GHz wireless receiver", "Budget price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A budget wired pick with a solid review base, offering a reasonably sized body at a low price point for buyers who want to try a vertical grip without paying full-size premium pricing.\n\nCheck current listing dimensions and buyer feedback before assuming this fully accommodates very large hands, since it isn't explicitly marketed as a large-hand-specific design.\n\nNo battery weight. Set against that, not explicitly marketed or sized for large hands. Both matter when comparing it to the other picks here.",
     specs: ["Wired USB connection", "6400 DPI sensor", "Adjustable DPI levels", "Budget price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "461 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DVlxxe4WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=workcocoon-20",
     description:
       "A 6-button vertical body with a wireless connection, offering more programmable options for larger hands that have room to comfortably reach extra side buttons without an overextended grip.\n\nIts smaller review base and more moderate 4.0-star rating are worth weighing against the premium price and extra button count before choosing this over the better-reviewed picks above.\n\nThe standout detail is that rechargeable battery. Balancing that out, smaller review base and more moderate 4.0-star rating.",
     specs: ["6 programmable buttons", "Wireless connectivity", "Rechargeable battery", "Premium price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A rechargeable, budget-to-mid priced option that isn't explicitly marketed for large hands, but its solid review base makes it a reasonable lower-cost pick to try before committing to a premium full-size mouse.\n\nCheck current listing dimensions and buyer feedback specifically from larger-handed users before assuming this fully accommodates a large palm, since it leans more compact than the dedicated full-size picks above.\n\nRechargeable battery. That's a real strength, but weigh it against the flip side: not marketed or built specifically for large hands.",
     specs: ["Rechargeable built-in battery", "2.4GHz wireless dongle", "Compact-to-mid body size", "Budget-to-mid price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "269 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310x3mOUwBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00F0Y3IIW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00F0Y3IIW?tag=workcocoon-20",
     description:
       "A specialist ergonomic design built around adjustable positioning, relevant to larger-handed buyers who want to fine-tune hand placement rather than accept one fixed body shape.\n\nThe premium price and a more moderate 4.1-star rating are worth weighing against the more mainstream, better-reviewed picks in this guide, and the brand's RF wireless connectivity is distinct from typical Bluetooth or 2.4GHz dongle setups.\n\nRF wireless connectivity. On the other hand, more moderate 4.1-star rating than other picks in this guide. Both are worth keeping in mind before deciding.",
     specs: ["Adjustable ergonomic positioning", "RF wireless connectivity", "Specialist ergonomic brand", "Premium price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "247 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31fim6uc3BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0894QX7SK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0894QX7SK?tag=workcocoon-20",
     description:
       "A wired pick with a built-in joystick and 11 programmable buttons, giving larger hands room to spread across more inputs than a typical vertical mouse offers, at a budget-friendly price.\n\nIts vertical tilt angle is less documented than the dedicated ergonomic picks in this guide, so it leans more toward a gaming mouse with vertical-leaning shape than a full ergonomic large-hand design.\n\nA genuine advantage here is that joystick control is a genuinely unique extra. The tradeoff is that vertical tilt angle less documented than dedicated ergonomic picks.",
     specs: ["Built-in joystick control", "11 programmable buttons", "10000 DPI sensor", "Wired USB connection"],

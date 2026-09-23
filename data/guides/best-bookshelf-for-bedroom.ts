@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,846",
     imageUrl: "https://m.media-amazon.com/images/I/41Ed-X-hfmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C88XTSMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C88XTSMM?tag=workcocoon-20",
     description:
       "At just 7.9 inches wide, the SUNMORY is the slimmest bookshelf in this list by a wide margin, making it the pick to reach for when floor space in the bedroom is genuinely scarce. Its branching tree silhouette carries six open tiers, and two small joinable cabinets at the base give you a place to stash odds and ends out of sight rather than leaving everything exposed.\n\nAn MDF build with a solid backboard and an anti-tip kit keeps it steady against a wall, and the rustic brown finish reads warm rather than bulky in a small bedroom.\n\nA genuine advantage here is that two small drawers hide clutter. The tradeoff is narrow shelves limit how large your books or decor can be.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "633",
     imageUrl: "https://m.media-amazon.com/images/I/417aNG95H8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQTL7Z2P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQTL7Z2P?tag=workcocoon-20",
     description:
       "The Casaottima brings built-in RGB LED lighting with 16+ color options and an adjustable switch, turning a simple bookshelf into ambient bedroom lighting after dark. At 7.1 inches deep, it's the thinnest shelf here front-to-back, which matters in a bedroom where you're often navigating around furniture in low light.\n\nThe vintage tree-shaped frame combines engineered wood with a metal skeleton, and non-slip pads plus an anti-tip kit keep it planted even with the added weight of the light strip.\n\nThinnest depth of any pick at 7.1 inches. On the other hand, lED strip needs periodic charging or a power source. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "2,070",
     imageUrl: "https://m.media-amazon.com/images/I/318p7S8kSUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZ3K788H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZ3K788H?tag=workcocoon-20",
     description:
       "Furnulem's corner-fit frame tucks neatly into an unused bedroom corner, and a built-in LED light strip adds a soft glow that doubles as a nightlight. It carries the highest weight capacity among the corner-fit picks in this list at 180 lbs, so it can handle a genuinely full book collection despite the compact triangular footprint.\n\nA clean white finish over a wood-and-metal frame keeps the look bright rather than cluttered, and an anti-toppling device makes it a sensible choice for a bedroom with kids or pets nearby.\n\nBuilt-in LED strip doubles as a nightlight. That's a real strength, but weigh it against the flip side: corner-only shape limits placement flexibility.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "4,299",
     imageUrl: "https://m.media-amazon.com/images/I/41p8nGWmCmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08DR542S9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DR542S9?tag=workcocoon-20",
     description:
       "The NUMENN is the best-selling pick in this list, with over 4,000 ratings backing a strong 4.7-star average, and it works equally well in a bedroom or a home office. An X-shaped back rod eliminates the wobble that plagues cheaper metal-frame shelves, while a 150 lb total capacity across premium metal and teak particle board shelves handles a real book collection with room to spare.\n\nBoth waterproof and anti-scratch coatings help it hold up over years of daily use, and an included anti-tilt kit is worth using in any bedroom.\n\nWorth calling out specifically: x-back rod eliminates wobble common in metal shelves. The catch is not the slimmest option for tight bedroom corners.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "3,341",
     imageUrl: "https://m.media-amazon.com/images/I/416JTTfKnzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CB3BJYX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CB3BJYX6?tag=workcocoon-20",
     description:
       "The Furologee packs a removable fabric drawer into a compact 10.6-inch-deep frame, giving you a place to tuck away small items without adding bulk. That shallow depth makes it easy to slide against a bedroom wall without eating into walking space, and a solid backboard keeps books from sliding off the back of each shelf.\n\nFour adjustable feet let you level it out on uneven flooring, and a waterproof finish over the metal-and-wood frame stands up well to daily bedroom use, all backed by a 150 lb total capacity.\n\nCompact 10.6-inch depth suits tight bedroom walls. Set against that, slightly lower rating than other picks here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "741",
     imageUrl: "https://m.media-amazon.com/images/I/41BOY-DYb9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CWVBV886?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWVBV886?tag=workcocoon-20",
     description:
       "Yoobure's triangular structure adds real stability to a corner-fit design, and curved shelves with rounded edges give it a softer, more finished look than the boxier corner units on this list. Premium wood paired with thick steel supports a 33 lb per-shelf rating for a 165 lb total, plenty for a bedroom book and decor collection.\n\nA clean white finish and no-tool assembly make it one of the easiest and best-looking corner picks here, backed by a strong 4.7-star average and an included anti-tip kit.\n\nA genuine advantage here is that curved, rounded-edge shelves look more refined. The tradeoff is corner-only footprint limits where it can go.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,816",
     imageUrl: "https://m.media-amazon.com/images/I/510fPP+lFkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXDP61M2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXDP61M2?tag=workcocoon-20",
     description:
       "Shintenchi's 5-tier unit rates each shelf for 40 lbs, the highest per-shelf capacity among the standard bedroom bookshelves in this list, for a 200 lb total. FSC-certified wood pairs with a metal frame and an X-shaped back rod, giving it the same anti-wobble reinforcement as the pricier picks here at a lower price.\n\nBoth waterproof and anti-scratch coatings mean it holds up to spills and daily bumps, and its wide 23.6-inch frame gives you more usable shelf surface than the narrower corner and tree-shaped picks on this list.\n\nFSC-certified sustainable wood. On the other hand, wider 23.6-inch footprint needs more wall space than slim picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "746",
     imageUrl: "https://m.media-amazon.com/images/I/31OuUlfdpbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=workcocoon-20",
     description:
       "The only pick in this list with concealing doors, the Shintenchi 6-Tier pairs four open display shelves up top with two enclosed cabinet doors below, giving you a place to hide clutter, chargers, or off-season items completely out of sight. A P2-grade MDF and steel build rates for 300 lbs total, the highest capacity in this entire list.\n\nA fixed support rod eliminates the wobble common in taller units, and the matte black finish reads modern rather than heavy, making it the pick for a bedroom that needs real hidden storage alongside open display space.\n\nHighest total capacity in this list at 300 lbs. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
     specs: [

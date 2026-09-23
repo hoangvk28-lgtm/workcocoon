@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,499 Amazon ratings",
     reviews: "1,499 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uULXHLL1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=workcocoon-20",
     description:
       "The SUNALLY is a tension-rod curtain divider, meaning it wedges between floor and ceiling without drilling and adjusts from 4 to 10 feet tall, the widest height range in this list. This design covers a room from floor to near-ceiling in a way none of the panel screens below can match, which helps more with visual privacy and light blocking than the panel dividers.\n\nBecause it's a hanging curtain rather than a solid panel, it absorbs some sound reflections in the room but should not be expected to block sound between rooms, it has no mass or air gap the way a real partition wall does. It's a strong pick specifically for visual separation and light control in a shared room.\n\nWidest height range in this list, up to 10 feet. That's a real strength, but weigh it against the flip side: fabric curtain absorbs echo but does not block sound between rooms.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,593 Amazon ratings",
     reviews: "1,593 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=workcocoon-20",
     description:
       "This is a single flat panel rather than a folding multi-panel screen, which means it needs a wall or furniture to lean against or a stand to self-support since a single panel can't zig-zag for stability the way a multi-panel screen can. At 71 inches wide and 69.5 inches tall, it's sized to block a desk area from view without needing the floor footprint a folding screen requires.\n\nAs with the other fabric dividers here, it reduces echo in the room but is not a sound-blocking product between rooms. It's best suited as a simple visual backdrop or partial room break rather than a freestanding, self-supporting divider.\n\nWorth calling out specifically: good size for blocking a desk area from view. The catch is less self-supporting stability than a zig-zag multi-panel screen.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 555 Amazon ratings",
     reviews: "555 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=workcocoon-20",
     description:
       "This 4-panel folding screen is the only pick in this list with lockable wheels, letting you reposition it easily between work sessions and then lock it in place rather than relying on a fixed zig-zag stance alone. At 88 inches wide and 6 feet tall, it offers a wide coverage area for a home office corner or a shared studio layout.\n\nLike the other fabric folding screens in this list, it reduces echo and reflections in the room, useful for calming a video call's audio, but it will not stop sound from carrying into an adjacent room, which requires a solid partition with mass rather than a fabric panel screen.\n\nWide 88 inch coverage across 4 panels. Set against that, lower review count than the top curtain and single-panel picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,717 Amazon ratings",
     reviews: "1,717 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31IhKdy8YFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQMR29TC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQMR29TC?tag=workcocoon-20",
     description:
       "This 4-panel fabric screen matches the SUNALLY lockable-wheel pick on width and height, 88 inches wide and 6 feet tall, but skips the lockable wheel feature in favor of a simpler fixed-foot zig-zag stand, which needs a proper accordion angle to self-support without tipping. Its higher review count gives it a more established track record than the newer lockable-wheel pick above.\n\nSame acoustic honesty applies here as the other fabric panel dividers in this list, it will reduce echo and reflections but will not meaningfully block sound from an adjacent room. A solid black finish also makes it a reasonably neutral, non-distracting video call background if positioned a foot or two behind you.\n\nA genuine advantage here is that solid black color works well as a neutral video call background. The tradeoff is no lockable wheels, needs proper zig-zag angle to stay stable.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars from 170 Amazon ratings",
     reviews: "170 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416huFrUlIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DST8SCHS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DST8SCHS?tag=workcocoon-20",
     description:
       "This single fabric panel offers height adjustability, a feature the other single-panel pick in this list doesn't mention, letting you dial in the exact coverage height for your desk setup or video call framing. At 71 by 71 inches it's a nearly square panel, giving broad coverage in both dimensions from a single freestanding piece.\n\nIts rating and review count are both the lowest in this list, worth weighing against the more established picks if buyer track record matters to you. As with the other fabric dividers here, treat it as an echo-reduction and visual-privacy product, not a sound-blocking partition between rooms.\n\nNearly square dimensions give broad coverage. That's a real strength, but weigh it against the flip side: lowest rating and review count in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/41VfgqhYTFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLKWS4VL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLKWS4VL?tag=workcocoon-20",
     description: "Room Divider-Folding Privacy Screens, 6 ft Partition Room Dividers Wall for Separation, Home, measures 6 ft and is built around room divider- this divider is ideal, positioning it for a general-purpose desk accessory buyers specifically.\n\nEASY TO ASSEMBLE- The large room divider is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for a general-purpose desk accessory, though as with any purchase, confirm current price and stock directly on the Amazon listing before ordering.",
     specs: ["6 ft dimensions","ROOM DIVIDER- This divider is ideal","EASY TO ASSEMBLE- The large room divider"],
     pros: ["ROOM DIVIDER- This divider is ideal, confirmed directly in the listing's own spec details","EASY TO ASSEMBLE- The large room divider, confirmed directly in the listing's own spec details","FREESTANDING- This freestanding structure can be used, confirmed directly in the listing's own spec details"],
@@ -225,7 +225,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/4153M0ySOML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCRDT5YV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCRDT5YV?tag=workcocoon-20",
     description: "Room Divider-Folding Privacy Screens, 6 ft Partition Room Dividers Wall for Separation, Home, measures 6 ft and is built around room divider- this divider is ideal, positioning it for a general-purpose desk accessory buyers specifically.\n\nEASY TO ASSEMBLE- The large room divider is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for a general-purpose desk accessory, though as with any purchase, confirm current price and stock directly on the Amazon listing before ordering.",
     specs: ["6 ft dimensions","ROOM DIVIDER- This divider is ideal","EASY TO ASSEMBLE- The large room divider"],
     pros: ["ROOM DIVIDER- This divider is ideal, confirmed directly in the listing's own spec details","EASY TO ASSEMBLE- The large room divider, confirmed directly in the listing's own spec details","FREESTANDING- This freestanding structure can be used, confirmed directly in the listing's own spec details"],
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/51rKMWRfipL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LLC7LKZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LLC7LKZ?tag=workcocoon-20",
     description: "JOSTYLE Rattan Room Divider, 4-Panel Folding Privacy Screen 6ft. Extra Wide measures 6ft and is built around extra-wide privacy screen, positioning it for a general-purpose desk accessory buyers specifically.\n\nZero-Assembly & Portable is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for a general-purpose desk accessory, though as with any purchase, confirm current price and stock directly on the Amazon listing before ordering.",
     specs: ["6ft dimensions","Extra-Wide Privacy Screen","Zero-Assembly & Portable"],
     pros: ["Extra-Wide Privacy Screen, confirmed directly in the listing's own spec details","Zero-Assembly & Portable, confirmed directly in the listing's own spec details","Multiple Scenes IN 1 Screen, confirmed directly in the listing's own spec details"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31tgGY53X0S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0774Y814B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0774Y814B?tag=workcocoon-20",
     description:
       "The largest genuine writing surface among our whiteboard research pool at 17x23 inches, the clear choice if your daily task volume exceeds a handful of items and you need real room to lay them out.\n\nThe magnetic surface with included magnets is genuinely useful for attaching printed or handwritten task cards you move around as status changes, functioning like a kanban-style board even without a printed template.",
     specs: ["17\" x 23\" glass writing surface", "Magnetic surface with magnets included", "Accessory trays included", "Largest surface area in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21yNZpZHGyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01M2DADUX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01M2DADUX?tag=workcocoon-20",
     description:
       "An 18x6 inch glass pad well suited to a short, running list of daily tasks in front of your keyboard, wide enough for several lines of text even though it isn't tall.\n\nIncludes storage and a marker per the listing, useful for keeping your task-tracking marker at hand rather than searching for one each morning.",
     specs: ["18\" x 6\" glass writing surface", "Storage included per listing", "1 dry erase marker included", "Wide format for a running task list"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41p7y7rrfnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CL42YP8H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CL42YP8H?tag=workcocoon-20",
     description:
       "Combines a glass writing surface with a built-in drawer, a practical choice if your task management setup includes physical items like sticky notes, task cards, or a small planner alongside the whiteboard.\n\nThe drawer gives you a place to store those supplies right at the board rather than scattered around your desk.",
     specs: ["Built-in drawer for task supplies", "Glass dry erase surface", "Doubles as keyboard stand", "Black finish"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "The smallest surface area among our task management picks, appropriate if your daily task list is genuinely short, a handful of items rather than a dozen.\n\nLike our other storage pick, the built-in drawer gives a place for supplies, and the compact size keeps it from dominating a small desk.",
     specs: ["Compact glass writing surface", "Built-in drawer", "Doubles as keyboard stand", "Smallest footprint in this guide"],

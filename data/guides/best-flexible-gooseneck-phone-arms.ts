@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,079",
     imageUrl: "https://m.media-amazon.com/images/I/31-9l0KA5YL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07S9JXQP2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07S9JXQP2?tag=workcocoon-20",
     description:
       "With the highest review volume of any gooseneck in this comparison, this arm has the broadest real-world track record for holding position over time. It uses a standard flexible metal core rather than a stiff-core design, meaning it bends more easily with one hand but can drift slightly under heavier phone-plus-case combinations.\n\nIt leads this comparison mainly on build reinforcement and how well it holds a phone steady during touch interaction, worth weighing directly against the SAIJI Gooseneck Bed Phone Holder.\n\nEasy one-handed bending. That's a real strength, but weigh it against the flip side: flexible core drifts more than stiff-core alternatives under heavy phones.",
     specs: ["Long flexible gooseneck","Standard flexible metal core","Desk edge clamp base","Highest review count in this comparison"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "32,606",
     imageUrl: "https://m.media-amazon.com/images/I/31+F3sAWSTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=workcocoon-20",
     description:
       "This is one of the few picks in this comparison to disclose an actual material gauge, an 8.5mm aluminum alloy core the listing states is hard to fracture. At 33.46 inches it offers substantial reach while maintaining a reasonably firm hold, backed by a 12-month replacement warranty against defects.\n\nSet against the Long Gooseneck Phone Arm for Bed and Desk, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: warranty against defects. The catch is clip width narrower than some alternatives.",
     specs: ["8.5mm aluminum alloy core, disclosed gauge","33.46in reach","12-month warranty","Anti-slip base clamp"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "23,326",
     imageUrl: "https://m.media-amazon.com/images/I/31sVYQbspmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=workcocoon-20",
     description:
       "MAGIPEA explicitly markets this arm's stiffness as intentional, using a high-density aluminum alloy core specifically to prevent drooping, a direct answer to the sag problem this whole category is prone to. The tradeoff is that repositioning requires two hands rather than a light one-handed push.\n\nRelative to the SAIJI Gooseneck Bed Phone Holder, this pick leans toward a different priority, whether that's a lower price, a longer reach, or a mounting style suited to a different desk edge.\n\nWide clamp fits thicker desk edges. Set against that, requires two hands to reposition. Both matter when comparing it to the other picks here.",
     specs: ["High-density aluminum alloy core","Intentionally stiff, resists drooping","3in wide base clamp","360° rotation clamp"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "11,813",
     imageUrl: "https://m.media-amazon.com/images/I/31HD++Czq5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9N41MCS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9N41MCS?tag=workcocoon-20",
     description:
       "This arm's nylon-braided outer sleeve is a genuine long-term durability feature, protecting the internal flexible core from abrasion if the arm regularly rubs against a desk edge or nearby objects during repositioning, a wear factor most competitors don't address.\n\nCompared with the MAGIPEA Gooseneck Phone Holder above, this pick trades some of that pick's reach or reinforcement for a different balance of price and simplicity, worth weighing against your own desk setup.\n\nLongest reach in this comparison. That's a real strength, but weigh it against the flip side: higher price than basic goosenecks.",
     specs: ["38in nylon-braided gooseneck","Abrasion-resistant outer sleeve","Standard spring holder clip","Clamp base mount"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,655",
     imageUrl: "https://m.media-amazon.com/images/I/515BergNltL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=workcocoon-20",
     description:
       "Rather than relying on a single flexible core, this arm uses a steel body with shock-absorbing springs and individually adjustable tension knobs at each joint, a genuinely different reinforcement approach that lets you dial in exact firmness per joint rather than relying on uniform material stiffness alone.\n\nSet against the Lamicall Nylon Braided Gooseneck Phone Holder for Bed, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: fine-tunable per-joint tension. The catch is higher price than simpler goosenecks.",
     specs: ["Steel body construction","Shock-absorbing springs","Tension knob at each joint","Foldable for storage"],

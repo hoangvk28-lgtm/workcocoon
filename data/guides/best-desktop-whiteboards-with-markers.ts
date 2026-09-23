@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41StKUeQCkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=workcocoon-20",
     description:
       "The only product in our broader desktop whiteboard research pool whose listing title explicitly states markers are included, five of them per the title, alongside a genuinely glass 8x6 inch surface.\n\nAt this small size, five markers is more than enough for personal desk use, likely enough to share or keep spares on hand well beyond just this one board.",
     specs: ["8\" x 6\" pure glass surface", "5 markers explicitly included per listing", "Black finish", "Lowest price in our marker-focused research"],

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 keeps things simple with print, scan, and copy in a low upfront package, ideal for a household that prints a handful of times a month rather than daily. The included Instant Ink trial gives a soft landing on early ink costs while you gauge your actual usage.\n\nBecause this is a standard cartridge printer rather than an ink-tank model, it fits occasional use better than high volume, cartridges left idle between uses can dry out over weeks, so plan to run a nozzle check before an important print job after a quiet stretch.\n\nWorth calling out specifically: simple setup for infrequent use. The catch is cartridge ink can dry out over long idle stretches.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The TS4320 is one of the least expensive printers in this list, a straightforward inkjet built for compact spaces and easy setup rather than sustained daily use. Duplex printing and built-in copy and scan cover the basics.\n\nFor a quarterly or monthly user, unplugging the printer between uses helps, many inkjets skip periodic auto-clean cycles when unpowered, which reduces the ink wasted maintaining a printer that's mostly sitting idle.\n\nCompact footprint. Set against that, cartridge ink can dry out during long idle periods. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The TS6520's 1.42-inch OLED display makes it easier to check ink status or clear an error without a phone app, useful for an occasional user who might forget how the printer behaves after weeks away from it. Duplex printing and built-in copy and scan round out the basics.\n\nExpect the first print after a long idle period to sometimes show streaks or missing lines from settled ink, running a quick test page before anything important sets the right expectation and catches issues early.\n\nA genuine advantage here is that duplex printing built in. The tradeoff is cartridge ink can dry out with infrequent use.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 includes an automatic document feeder, unusual at this price point, useful for someone who occasionally needs to scan a small stack of pages rather than feeding them one at a time. Mobile printing and built-in fax round out a fuller feature set than most budget printers.\n\nAs a cartridge-based printer, it's better suited to occasional or light use than sustained daily volume, where an ink-tank model would pull ahead on cost per page.\n\nMobile printing from phone or tablet. On the other hand, cartridge ink costs more per page than ink-tank models at real volume. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-ZgpCGxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=workcocoon-20",
     description:
       "The TS3720 strips things down to basic print, scan, and copy at the lowest price in this list, a sensible pick for a household that prints rarely and doesn't want to pay for features they won't use. Setup is straightforward.\n\nBecause a very-low-volume user may go months between print jobs, unplugging the printer when it's not needed and running a quick nozzle check before printing helps avoid streaky first pages from settled ink.\n\nNo unnecessary extra features to pay for. That's a real strength, but weigh it against the flip side: cartridge ink can dry out with infrequent use.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31BXOlNqjZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=workcocoon-20",
     description:
       "The MG3620 emphasizes mobile and tablet printing, useful for someone who occasionally prints a boarding pass, recipe, or PDF straight from a phone rather than a computer. Wireless setup covers the basics for a shared home network.\n\nAt a higher price than the more basic picks in this list, it makes the most sense if tablet or mobile printing convenience specifically matters to you, rather than as a pure low-cost option.\n\nWorth calling out specifically: simple print, scan, copy feature set. The catch is higher price than the more basic picks in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314c84l3lcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=workcocoon-20",
     description:
       "The TS6420 is priced higher than most picks in this list but delivers better photo output, worth it if occasional use for you means printing family photos a few times a year rather than only documents. Print, scan, and copy round out the feature set.\n\nAt this price, it's the priciest cartridge-based option here, so it fits best when photo quality specifically matters more than minimizing upfront spend.\n\nSimple print, scan, copy feature set. Set against that, priciest cartridge-based pick in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51zPjelEtML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=workcocoon-20",
     description:
       "This inkless thermal printer sidesteps the ink dry-out problem entirely, there's no ink to dry out because there isn't any, making it a genuinely different fit for someone who prints extremely rarely, once every few months or less. It supports full 8.5 by 11 inch US Letter and A4 pages over Bluetooth from a phone or laptop.\n\nThe tradeoff is thermal printing quality and paper cost, thermal paper is pricier per page than standard paper and doesn't hold up as well long-term as ink or toner on regular paper, so this suits quick, disposable documents rather than anything you need to keep for years.\n\nA genuine advantage here is that lowest price in this list. The tradeoff is thermal paper costs more per page than standard paper.",
     specs: [

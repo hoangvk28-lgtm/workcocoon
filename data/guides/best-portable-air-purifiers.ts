@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ODC2Uu41L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=workcocoon-20",
     description:
       "A genuinely compact design with a large review base, appropriate for travel or moving between rooms. Affordable price.\n\nA modest CADR here may perform adequately in an enclosed travel space like a car or hotel room, despite being sized for a smaller home area than a full-room rating implies.\n\nThe standout detail is that large, well-established review base. Balancing that out, true kit weight includes cable/adapter, verify total travel weight.",
     specs: ["Compact, portable design", "Large review base", "Affordable", "Personal-zone focused"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,517 Amazon ratings",
     reviews: "5,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414NIpA+xLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=workcocoon-20",
     description:
       "Explicitly marketed as portable with certified True HEPA H13 filtration and a night light, genuinely useful for a hotel room or travel setting. Solid review base.\n\nCheck filter access and replacement availability for ultra-compact portable units, proprietary small filters can be harder to source than room-sized purifier filters.\n\nExplicitly portable design with night light. That's a real strength, but weigh it against the flip side: verify filter replacement availability for this specific compact model.",
     specs: ["True HEPA H13 filter", "Portable, small design", "Night light feature", "Solid review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 4,026 Amazon ratings",
     reviews: "4,026 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41BE3lVftQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide with a solid review base, rated for a substantial home area meaning genuine overkill CADR for the smaller air volume of a car or hotel room.\n\nThis larger rated capacity means real overperformance in the smaller enclosed spaces travel actually involves, genuine headroom beyond what a modest-CADR portable unit provides.\n\nSolid review base. On the other hand, larger and potentially heavier than dedicated ultra-portable picks. Both are worth keeping in mind before deciding.",
     specs: ["Up to 1076 sq ft rated", "Solid review base", "Most affordable in this guide", "High efficiency filter"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,997 Amazon ratings",
     reviews: "2,997 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Apo3YcVHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=workcocoon-20",
     description:
       "A solid review base at an affordable price, compact enough for travel while providing genuine overperformance in a smaller enclosed travel space like a car or hotel room.\n\nRemember that total travel-kit weight should include the cable, adapter, and any carrying case, not just this unit's own listed weight.\n\nA genuine advantage here is that affordable price. The tradeoff is that verify total kit weight including cable and adapter.",
     specs: ["Up to 880 sq ft rated", "Solid review base", "Affordable", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31e6d46ZnyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=workcocoon-20",
     description:
       "A large review base for a small, quiet-focused portable design, genuinely useful in a hotel room where noise matters as much as air cleaning. Affordable price.\n\nQuiet operation matters more in an enclosed travel space where you're often sleeping or working close by, this design prioritizes that consideration.\n\nQuiet-focused design for travel settings. That said, total kit weight not confirmed including accessories. Neither should be a surprise once you know to look for it.",
     specs: ["Small, quiet-focused design", "Large review base", "Affordable", "Compact, portable footprint"],

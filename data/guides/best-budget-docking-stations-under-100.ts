@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1XSKZRJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1XSKZRJ?tag=workcocoon-20",
     description:
       "The Revodok Pro is the cheapest pick in this list and still covers the basics buyers actually need at a desk, a single external display output, USB-A ports, and a compact aluminum shell that stays cool during normal office use. at a budget-friendly price, it's a reasonable entry point if you only need single-monitor output and a few extra ports. Like most hub-style docks in this price range, it draws its power from the laptop itself rather than including its own power brick, so it adds convenience without adding real charging capacity. Treat it as a port expander first and a charging solution second. A genuine advantage here is that compact aluminum build resists heat buildup better than plastic hubs. The tradeoff is that single display output only, no dual-monitor support.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415StnCe4ML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWH4ZZ7T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GWH4ZZ7T?tag=workcocoon-20",
     description:
       "Anker's Nano line trims the dock down to a pocketable size while still packing 8 ports into the shell, useful if you move between a desk and a bag regularly. It supports dual monitor output on top of the standard USB-A and card reader ports found on most hubs in this class. The compact form factor means less surface area to dissipate heat under sustained load, so it's better suited to shorter working sessions than an all-day docked setup. For a lightweight everyday carry dock, that tradeoff is usually worth it. Dual monitor output at a budget-tier. That said, small size limits passive heat dissipation on long sessions. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41HZ73O5J4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXDQS4BD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXDQS4BD?tag=workcocoon-20",
     description:
       "This UGREEN dock specifically advertises dual HDMI at 4K@60Hz, worth calling out because plenty of budget docks quietly cap out at 4K@30Hz once you're running two displays at once. Confirming the full 60Hz spec on both ports upfront saves the disappointment of discovering a laggy second monitor after the return window closes.\n\nTen ports total spread the load across USB-A, HDMI, and card reader connections, giving it a broader everyday port mix than the smaller Nano-class docks. It remains a hub-style, laptop-powered unit rather than a self-powered dock, so don't expect it to meaningfully speed up charging.\n\nWorth calling out specifically: wide 10-port mix for the price. The catch is bus-powered, no independent power supply.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/5190VfU0ZEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2BW24HM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2BW24HM?tag=workcocoon-20",
     description:
       "This 14-in-1 dock is built around broad compatibility across the most common business laptop brands, Dell, Lenovo, and HP, rather than optimizing for one ecosystem. Dual monitor HDMI output covers most home office setups without needing a DisplayPort adapter on hand. With 14 total ports it's the widest port count at a budget-friendly price in this list, though as with the other hub-style docks here, it's bus-powered rather than self-powered. If your laptop's charger is under 65W, don't expect this dock to add meaningful extra charging headroom on top of it. Dual monitor support out of the box. Set against that, bus-powered, no dedicated power brick. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=workcocoon-20",
     description:
       "Anker's full-size 8-in-1 dock trades raw port count for a sturdier build than the cheaper hub-style docks in this list, with better thermal management under sustained daily use. Dual monitor output covers most home office setups without hunting for adapters. It sits in the middle of this list's price range, positioned as the pick for buyers who've had reliability issues with unbranded budget hubs before and want a more established name behind the purchase. It's still bus-powered rather than self-powered, consistent with nearly every dock at a budget-friendly price. The standout detail is that better sustained thermal performance. Balancing that out, fewer ports than the 14-in-1 pick at a higher price.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41iZIRUZlQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GKP61LKH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GKP61LKH?tag=workcocoon-20",
     description:
       "The Selore is the only pick in this list built specifically around triple 4K display output, a feature that typically pushes a dock well past the mark. Fitting it at a budget-friendly price makes it the clear choice if a third monitor is non-negotiable but a full business-tier dock isn't in budget. Driving 3 external 4K displays through a single USB-C connection puts real strain on both bandwidth and heat dissipation, so confirm your laptop's GPU and USB controller actually support triple external displays before buying, not every laptop does regardless of the dock. Single-cable setup for a 3-monitor desk. That's a real strength, but weigh it against the flip side: requires your laptop to actually support triple external displays.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31RkQ3P6p3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08TQPTPCK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08TQPTPCK?tag=workcocoon-20",
     description:
       "The HP Dock G5 is the one true dock in this list rather than a USB-C hub wearing a docking station label, it ships with its own power adapter instead of drawing all its power from the laptop. That distinction matters more than any port count spec, since a self-powered dock can charge your laptop and run peripherals without competing for the same limited wattage. It sits right at the top of this list's budget, and the tradeoff for that independent power supply is a slightly bulkier footprint than the compact hub-style picks. For buyers who plan to leave a dock permanently on their desk, that tradeoff is usually worth it. Enterprise-grade HP build quality. On the other hand, highest price in this list, right at the ceiling. Both are worth keeping in mind before deciding.",
     specs: [

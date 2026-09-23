@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 14,970 Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "A large review base backing Logitech's multi-device switching via their broader ecosystem software, cross-platform behavior between Mac and Windows is a genuine strength given Logitech's established software support across both operating systems.\n\nBattery life implications of maintaining multiple simultaneous device connections were considered here, this premium design's battery management is built to handle multi-pairing without the meaningfully shortened battery life some cheaper multi-device mice experience from maintaining several connection states at once.\n\nGenuine cross-platform Mac/Windows software support. That's a real strength, but weigh it against the flip side: higher price than budget multi-device alternatives.",
     specs: ["Multi-device pairing via Logitech ecosystem", "Cross-platform Mac/Windows support", "Large review base", "Premium build quality"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,639 Amazon ratings",
     reviews: "1,639 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31STveHQ3NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR1K3DM1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR1K3DM1?tag=workcocoon-20",
     description:
       "The lowest price in this guide with genuine dual-mode connectivity, Bluetooth plus a 2.4G receiver counting as two distinct pairing slots, appropriate for a buyer wanting to switch between exactly two devices without paying a premium for more.\n\nSwitching mechanism reliability matters most at this price point, verify current reviews specifically address how smoothly this dual-mode switch operates in practice, since a clunky switching process undermines the core value proposition regardless of price.\n\nSolid review base and rating. On the other hand, only two pairing slots versus more on premium multi-device picks. Both are worth keeping in mind before deciding.",
     specs: ["Dual-mode Bluetooth and 2.4G connectivity", "Lowest price in this guide", "Solid review base", "Ergonomic vertical design"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,670 Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A solid review base combining multi-device pairing with rechargeable battery convenience, avoiding disposable batteries while still offering genuine multi-connection flexibility for buyers rotating between devices throughout the day.\n\nBattery life implications of maintaining multiple simultaneous device connections deserve real consideration, since power consumption can differ from single-pairing designs, this rechargeable format at least avoids the recurring cost of the disposable batteries a heavier multi-device drain might otherwise require.\n\nA genuine advantage here is that rechargeable, avoiding disposable battery costs from multi-connection drain. The tradeoff is that pairing slot count not as explicitly disclosed as some competitors.",
     specs: ["Multi-device pairing, rechargeable battery", "Solid review base", "Ergonomic vertical design", "Budget-friendly price"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,670 Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pLezomU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCBW3B3T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCBW3B3T?tag=workcocoon-20",
     description:
       "A sibling variant sharing the same solid review base and multi-device capability, appropriate for buyers comparing near-identical ProtoArc options with slightly different specific feature emphasis at a similar price point.\n\nWhether all paired devices receive equal feature support, macro keys, media controls, matters for a genuinely fair multi-device experience, verify current documentation confirms consistent functionality across every device you plan to pair rather than assuming the primary device gets preferential treatment.\n\nRechargeable battery for multi-connection convenience. That said, very similar to a sibling ProtoArc product, compare specific listings carefully. Neither should be a surprise once you know to look for it.",
     specs: ["Multi-device pairing, rechargeable battery", "Solid review base", "Ergonomic design", "Comparable to sibling ProtoArc variant"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 580 Amazon ratings",
     reviews: "580 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414syQ3zYiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWQN4VL1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWQN4VL1?tag=workcocoon-20",
     description:
       "Explicitly marketed and disclosed for 3-device pairing directly in the product name, the clearest disclosed pairing slot count of any pick in this guide, addressing the specification-transparency gap most competitors leave ambiguous.\n\nWith a smaller review base than the top picks, this carries less accumulated real-world evidence of the 3-device switching mechanism's long-term reliability, weigh the explicit specification transparency against the more proven larger-review-base alternatives.\n\nWorth calling out specifically: solid rating despite the smaller review base. The catch is smaller review base than the top picks in this guide.",
     specs: ["Explicitly disclosed 3-device pairing", "Bluetooth wireless connectivity", "Smaller but solid review base", "Clearest pairing slot disclosure in this guide"],

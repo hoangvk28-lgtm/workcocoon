@@ -39,7 +39,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.2 stars, 5,342 reviews",
     imageUrl: `${BASE}/devaise-3-drawer-mobile-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE 3 Drawer Rustic Brown earns the top spot because it hits the best intersection of price, practicality, and style. With over 5,300 reviews and a 4.2-star average, it has a much larger feedback base than most competing models in this category. Three drawers give you meaningful storage without the footprint of a four-drawer unit. The bottom drawer is sized for hanging letter or legal-size folders. The mobile base with locking casters lets you slide it under your desk and roll it out when you need access. Buyers consistently note that assembly is straightforward, the finished look is better than expected at this price, and the casters roll smoothly on both hardwood and carpet.",
     tradeoffs: [
@@ -72,7 +72,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.0 stars, 3,262 reviews",
     imageUrl: `${BASE}/vasagle-custos-2-drawer-snow-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BRXQ1DKF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRXQ1DKF?tag=workcocoon-20",
     whyItWorks:
       "At $62.99, the VASAGLE CUSTOS is the most affordable option on this list with the second-highest review count at 3,262. The snow white finish is clean and modern, a natural match for Scandinavian, minimalist, or all-white setups. Two drawers handle light-to-moderate filing - one to two years of active documents without the footprint of a three-drawer unit. VASAGLE is a recognized home furniture brand with a solid track record of consistent quality in the $50 to $100 range.",
     tradeoffs: [
@@ -104,7 +104,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.1 stars, 2,784 reviews",
     imageUrl: `${BASE}/devaise-3-drawer-wood-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09Z2C8N2Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09Z2C8N2Q?tag=workcocoon-20",
     whyItWorks:
       "If you want more storage than two drawers but need a white finish to match your setup, the DEVAISE 3-Drawer White is the natural choice. At 2,784 reviews and 4.1 stars, this is a well-tested product with a strong feedback base for a mid-range cabinet. Rolling casters allow repositioning. The bottom drawer accommodates hanging letter-size folders. The white finish sits alongside the VASAGLE CUSTOS for all-white desk setups, but adds a third drawer for buyers who have outgrown two.",
     tradeoffs: [
@@ -136,7 +136,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/gyiiyuo-2-drawer-extended-desktop.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=workcocoon-20",
     whyItWorks:
       "The GYIIYUO is the most unusual pick on this list. It comes with a 24-inch extended desktop surface that provides a bonus work area or dedicated printer platform without adding extra furniture. If your home office printer currently sits on the floor, a chair, or a makeshift surface, this cabinet solves that problem in a single piece. The desktop extension typically extends to the side, giving a small staging area while the two drawers handle hanging files. For buyers who need both file storage and a printer stand, this eliminates the need to purchase two separate pieces.",
     tradeoffs: [
@@ -168,7 +168,7 @@ export const products: FileCabinet[] = [
     lock: "With Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/devaise-4-drawer-lock-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DBQ6TPDH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBQ6TPDH?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE 4-Drawer with Lock is the only option in this guide that combines four drawers, a cylinder lock, and wood-look aesthetics under $130. Four drawers handle a high volume of physical records - appropriate for power users or small business owners with years of accumulated paperwork. The cylinder lock secures all drawers, making it the right call when document security is a requirement. Rolling casters add mobility. Note: verify current review count on Amazon before ordering, as this model has fewer reviews than the other DEVAISE picks in this guide.",
     tradeoffs: [
@@ -203,7 +203,7 @@ export const metalAlternatives: FileCabinet[] = [
     lock: "With Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/letaya-3-drawer-metal-assembled.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=workcocoon-20",
     whyItWorks:
       "The Letaya earns a place here because it arrives fully assembled, eliminating the flat-pack build entirely. Metal construction handles moisture and heavy use far better than engineered wood. For buyers who prioritize durability over a wood-look aesthetic, or who find flat-pack assembly frustrating, the Letaya is the practical alternative. Three drawers, a lock, and full pre-assembly at delivery make this a strong option for buyers in the right situation.",
     tradeoffs: [
@@ -235,7 +235,7 @@ export const metalAlternatives: FileCabinet[] = [
     lock: "No Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/bynsoe-2-drawer-steel.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D9XYD75W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9XYD75W?tag=workcocoon-20",
     whyItWorks:
       "Budget-friendly metal option at a similar price to the VASAGLE CUSTOS. Choose this over the VASAGLE if durability matters more than aesthetics. Two drawers handle light to moderate filing. Steel construction is more resistant to moisture, dents from daily use, and long-term wear than engineered wood at the same price.",
     tradeoffs: [

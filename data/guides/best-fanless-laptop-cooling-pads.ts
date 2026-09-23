@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41-P9I-xIRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C7BKZ883?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C7BKZ883?tag=workcocoon-20",
     description: "This is a metal laptop riser, not a fan-equipped cooling pad, and it's the only product in our researched pool that is genuinely fanless. It elevates the laptop off the desk surface with an adjustable height and angle, and the top of the stand includes multiple ventilation holes, an open design meant to improve passive airflow underneath the chassis compared to setting a laptop flat on a desk.\n\nIt earns the top spot in this comparison for one main reason. Genuinely fanless, zero added noise or power draw.\n\nWorth knowing before you decide: Foldable design travels easily. On the other side, Not a fan-equipped cooling pad despite general category association. That's the main tradeoff to weigh against everything above.",
     specs: ["Metal construction, no fan","Adjustable height and angle","Ventilated top platform","Foldable, portable design","Supports up to 17.6 lbs"],
     pros: ["Genuinely fanless, zero added noise or power draw","Foldable design travels easily","Sturdy metal build supports substantial weight","Doubles as a general ergonomic laptop stand"],

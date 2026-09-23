@@ -74,7 +74,7 @@ const IMG = {
 };
 
 function amz(asin) {
-  return `https://www.amazon.com/dp/${asin}?tag=deskfinds0d-20`;
+  return `https://www.amazon.com/dp/${asin}?tag=workcocoon-20`;
 }
 
 const guides = {

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "3.7",
     reviews: "922",
     imageUrl: "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=workcocoon-20",
     description:
       "The ES Robbins Extra High Pile mat is the only standard-size pick in this guide actually rated for extra-high pile over 1\", including any padding underneath. At 0.2\" thick vinyl, sized 36\"x48\" plus a lip, its AnchorBar cleats are long enough to reach through deep pile and grip the carpet backing directly.\n\nA beveled edge smooths the chair's transition onto the mat, and it's GREENGUARD Gold certified with no phthalates or cadmium. Made in the USA and backed by a lifetime warranty, it's built for the exact depth of carpet that causes standard mats to fail.\n\nAnchorBar cleats reach through deep pile to the backing. Set against that, lower rating than the dual-use rigid picks in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "123",
     imageUrl: "https://m.media-amazon.com/images/I/61oh0YQV+uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004DRB4OC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004DRB4OC?tag=workcocoon-20",
     description:
       "This Everlife mat carries the same extra-high pile over 1\" rating as the standard-size ES Robbins pick above, but in a much larger 45\"x53\" footprint plus a 25\"x12\" lip. That extra room matters on deep pile, since a larger surface gives the chair more room to roll before running off the edge and back into the pile.\n\nThe same AnchorBar cleats and beveled edge carry over, and ES Robbins backs it with a 'No Crack' lifetime warranty built for multi-shift heavy use. It's Made in the USA, the same as the rest of the ES Robbins lineup in this guide.\n\nA genuine advantage here is that same deep-pile AnchorBar cleat design as the standard-size ES Robbins pick. The tradeoff is smaller review sample than most other picks in this guide.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "1,234",
     imageUrl: "https://m.media-amazon.com/images/I/514JrwWuWeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00620W1U4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00620W1U4?tag=workcocoon-20",
     description:
       "At 60\"x72\", this is the largest single mat in this entire guide, though it's built for medium pile carpet up to 3/4\" rather than extra-high pile. If your carpet measures just under the high-pile threshold, this size gives a shared or multi-position desk far more coverage than any standard-size mat.\n\nAnchorBar cleats and a lifetime 'No Crack' warranty carry over from the rest of the ES Robbins lineup, along with GREENGUARD certification and USA manufacturing. Measure your pile depth carefully before choosing this over the extra-high-pile picks above, since it isn't rated for pile over 3/4\".\n\nGREENGUARD certified and Made in USA. On the other hand, rated only up to 3/4\" pile, not for genuinely deep high pile. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "The MuArts skips cleats entirely in favor of sheer rigidity, a 5mm thick, 54\"x32\" panel rated for 1,400 lbs, the highest capacity in this guide. Because it's rigid and flat rather than flexible vinyl, it resists sinking into carpet the way a thinner mat would, though on genuinely high pile it still won't reach as deep as a cleat-anchored mat designed specifically for that depth.\n\nIt's dual-use on carpet or hard floor and stays crystal clear rather than yellowing over time. This works best as a medium-pile or transitional-pile solution rather than a substitute for the extra-high-pile-rated ES Robbins picks in this guide.\n\nRigid build resists sinking better than flexible vinyl. That's a real strength, but weigh it against the flip side: not cleat-anchored, so it's less suited to genuinely deep high pile than the ES Robbins picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,956",
     imageUrl: "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=workcocoon-20",
     description:
       "The GORILLA GRIP is a 0.087\" thick, 36\"x48\" polycarbonate mat with hundreds of underside spikes, rated for medium or low pile carpet up to 3/4\". It ships completely flat, so there's no waiting for a rolled mat to lie down before use.\n\nIts semi-transparent finish blends into most carpet colors, and it cleans easily. It isn't rated for the extra-high pile depths this guide focuses on, so treat it as the pick for carpet that falls just short of that threshold.\n\nWorth calling out specifically: spiked underside grips up to 3/4\" pile well. The catch is not rated for pile over 3/4\", so it's not a true high-pile solution.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "201",
     imageUrl: "https://m.media-amazon.com/images/I/51UDuDStG2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96LWLZ7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96LWLZ7?tag=workcocoon-20",
     description:
       "The Marvelux is the largest polycarbonate mat in this guide actually rated for high pile, at 48\"x60\" and 0.11\" thick, covering carpet up to 3/4\" including medium and high pile. Its rigidity means it won't sink into thick carpet the way a thinner vinyl mat would, and a studded underside adds grip on top of that rigidity.\n\nA lightly textured top surface adds some rolling feedback compared to a fully smooth mat, and the manufacturing uses 50% renewable energy with a fully recyclable build. If your carpet's pile depth sits right at the edge between medium and high, this is the largest rigid option built to handle it.\n\nRigid build resists sinking into thick carpet. Set against that, rated up to 3/4\", not for genuinely extra-high pile over 1\". Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,085",
     imageUrl: "https://m.media-amazon.com/images/I/41UO1C7z6QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXSFBQLH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXSFBQLH?tag=workcocoon-20",
     description:
       "The Koonmi is the largest and highest-rated glass mat in this guide, 46\"x55\" and 5mm thick, rated for over 1,000 lbs. Glass is rigid enough to bridge medium-depth carpet without sinking, though it's also heavier and can be harder to keep stable on very deep pile than a rigid polycarbonate mat designed specifically for that depth.\n\nA detachable anti-slip pad and polished rounded corners round out the build, and it works on carpet or hard floor. Its size and rating make it a strong dual-use option, but genuinely high or extra-high pile carpet is better served by the cleat-anchored ES Robbins picks in this guide.\n\nA genuine advantage here is that largest glass mat in this guide. The tradeoff is heavier than polycarbonate, can be harder to stabilize on very deep pile.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,486",
     imageUrl: "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=workcocoon-20",
     description:
       "The GLSLAND is the cheapest tempered glass mat in this guide, 36\"x46\" and 5mm thick, rated for 1,200 lbs, the highest capacity among this guide's glass lineup. Like the Koonmi, its rigidity helps it resist sinking into carpet, though genuinely deep high pile still favors a cleat-anchored mat built specifically for that depth.\n\nFour anti-slip pads keep it from sliding, and it's BPA-free, phthalate-free, and odorless. It's dual-use on carpet or hard floor, making it a reasonable middle-ground pick if your carpet is on the deeper side of medium pile but not truly extra-high.\n\nHighest capacity rating among this guide's glass mats. On the other hand, smaller footprint than the Koonmi glass pick. Neither should be a surprise once you know to look for it.",
     specs: [

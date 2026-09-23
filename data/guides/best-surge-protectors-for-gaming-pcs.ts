@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,666 Amazon ratings",
     reviews: "2,666 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eRaMa6u1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=workcocoon-20",
     description:
       "4800 joules, real headroom for the concentrated high-value risk a gaming PC's GPU represents, plus 12 outlets for a full gaming desk with monitors, RGB peripherals, and a webcam. USB-C charging included.\\n\\nCalculate your PC's power supply wattage plus high-refresh monitor(s) and peripherals against both this rating and your circuit's capacity before assuming adequate headroom.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the SUPERDANNY Power Strip Surge Protector.\n\nWorth knowing before you decide: 12 outlets for a full gaming desk setup. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4800 joules","10ft cord, wall mountable","2 USB-C, 2 USB-A","Desk charging station design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 12,520 Amazon ratings",
     reviews: "12,520 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vcM-QMtVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08Z2ZKVXX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08Z2ZKVXX?tag=workcocoon-20",
     description:
       "22 AC outlets and 6 USB ports, genuinely enough for a gaming setup with RGB lighting controllers, a capture card, multiple monitors, and a gaming chair's power features. Explicit 1875W/15A rating disclosed.\\n\\nThe explicit 15A rating helps you verify this strip matches your standard circuit capacity, it won't unlock more power than your circuit itself provides.\n\nSet against the Surge Protector Power Strip 4800J, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Explicit amperage rating for real capacity verification. On the other side, Lower joule rating than the top pick. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["22 AC outlets, 6 USB ports","2100 joules, 1875W/15A explicit rating","6.5ft cord","Strong rating base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "12 outlets and 2700 joules with a large, well-established review base, genuine mid-tier protection for a gaming PC, monitor, and standard peripherals. ETL listed.\\n\\nAppropriate for extended continuous gaming or streaming sessions, verify your GPU's realistic replacement cost against any connected-equipment warranty payout cap.\n\nRelative to the SUPERDANNY Power Strip Surge Protector, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: 12 outlets for a full gaming desk setup. On the other side, Lower joule rating than the top two picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "UL listed with 3,780 joules from an established brand, real build-quality confidence for protecting an expensive gaming rig. 8ft cord for flexible gaming desk placement.\\n\\nHigher price reflects the established brand's build-quality reputation, worth it for buyers specifically prioritizing verified safety certification for a high-value GPU.\n\nCompared with the Power Strip above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: UL listed for verified safety. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules","UL listed, 8ft flat plug cord","Established Belkin brand","Heavy-duty extension cord"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 44,144 Amazon ratings",
     reviews: "44,144 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=workcocoon-20",
     description:
       "8 outlets and 4 USB ports at 2700 joules, genuine surge protection with charging capability for a controller or headset alongside your gaming PC setup. Large, well-established review base.\\n\\nA reasonable value pick if you don't need the maximum 22-outlet capacity of the higher-end alternatives in this guide.\n\nSet against the Belkin 12, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 4 USB ports for controller or headset charging. On the other side, No USB-C port. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports, flat plug","2700 joules, ETL listed","6ft cord","Large review base"],

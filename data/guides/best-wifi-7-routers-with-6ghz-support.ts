@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "1,732 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=workcocoon-20",
     description:
       "A genuine tri-band router with a real 6GHz radio and the largest review base in this guide, appropriate for buyers wanting confirmed 6GHz capability at a mid-range price.\n\nFull 2.5G ports avoid a wired bottleneck against the 6GHz radio's speed, and MLO's cross-band benefit still requires a Wi-Fi 7 MLO-capable client device even with this genuine 6GHz support.\n\nA genuine advantage here is that largest review base in this guide for real-world confidence. The tradeoff is that more moderate 4.1-star rating, verify recent reviews.",
     specs: ["Genuine 6GHz radio, tri-band", "BE9300 combined rating, 6-stream", "Full 2.5G ports", "6 internal antennas"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "320MHz channel width support on the 6GHz band gives this router genuine wide-channel headroom, appropriate for buyers in less-dense environments wanting maximum 6GHz throughput.\n\nWide 6GHz channels perform best in standalone houses with cleaner spectrum, worth knowing that dense apartment settings may not fully realize this headroom regardless of the router's capability.\n\nGenuine 10G port pairs well with high 6GHz throughput. That said, 320MHz channel width is less reliably usable in dense apartment settings. Neither should be a surprise once you know to look for it.",
     specs: ["Genuine 6GHz radio, 320MHz channel width", "Tri-band, 10G + 2.5G ports", "6-stream, BE9700 combined rating", "High 4.3-star rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "92 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41iU+ggyo7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=workcocoon-20",
     description:
       "A newer Wi-Fi 7 chipset generation with genuine 6GHz radio support, appropriate for buyers wanting the latest 6GHz implementation within TP-Link's tri-band lineup.\n\nSmall review base so far given its newer release, worth weighing against the BE550 and BE600's larger track records specifically around real-world DFS interruption frequency.\n\nWorth calling out specifically: high 4.3-star rating despite a smaller review sample. The catch is small review base of 92 ratings, limited DFS-reliability track record.",
     specs: ["Genuine 6GHz radio, tri-band", "BE12000 combined rating", "New Wi-Fi 7 chipset generation", "High 4.3-star rating"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "1,077 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31hsjP9+bQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN8QLS4K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN8QLS4K?tag=workcocoon-20",
     description:
       "A genuine tri-band mesh system carrying the 6GHz radio across whole-home coverage, appropriate for buyers wanting full 6GHz capability throughout a larger home rather than a single router's more limited 6GHz range.\n\n6GHz's shorter range makes mesh a genuinely good pairing for this band specifically, since multiple nodes compensate for the range 6GHz alone would struggle to cover in a larger home.\n\nLarge review base for real-world reliability confidence. Set against that, higher price than a single tri-band router with 6GHz support. Both matter when comparing it to the other picks here.",
     specs: ["Genuine 6GHz radio, tri-band mesh", "BE10000 combined rating, 6-stream", "Large review base", "Whole-home mesh coverage"],

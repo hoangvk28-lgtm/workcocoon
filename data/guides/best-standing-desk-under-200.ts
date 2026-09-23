@@ -45,7 +45,7 @@ export const products: StandingDesk200[] = [
     presets: "4",
     warranty: "3yr frame / 2yr motor",
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-flexispot-en1-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJ2XKJJT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJ2XKJJT?tag=workcocoon-20",
     whyItWorks:
       "FlexiSpot's 3-year frame and 2-year motor warranty is 2-3x longer than competitors at this price tier. The 1-inch thick seamless desktop is sturdier than the 0.75-inch boards on comparable desks. 4 memory presets and anti-collision sensor are standard on EN1. FlexiSpot has a documented US customer support track record spanning multiple product generations.",
     tradeoffs: [
@@ -81,7 +81,7 @@ export const products: StandingDesk200[] = [
     presets: "3",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-fezibo-basic-48x24-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08CBVGXZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08CBVGXZC?tag=workcocoon-20",
     whyItWorks:
       "Most affordable 48x24 electric standing desk consistently in stock across major retailers. Core standing desk functionality at $120-150 - single motor, 3 presets, anti-collision, 176 lb capacity. Available in Rustic Brown, White, Maple, and Black. The 46.5-inch max height covers users up to approximately 6 feet 1 inch at standing ergonomic position.",
     tradeoffs: [
@@ -117,7 +117,7 @@ export const products: StandingDesk200[] = [
     presets: "4",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-shw-48x24-drawer-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07GVRKCWP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07GVRKCWP?tag=workcocoon-20",
     whyItWorks:
       "Built-in drawer and cable management tray at the same price as competing desks without storage. For setups where a desk must also serve as storage - small rooms, bedrooms, apartments - the built-in drawer eliminates the need for a separate drawer unit. Available in Oak, Black, Maple, and Walnut finishes.",
     tradeoffs: [
@@ -155,7 +155,7 @@ export const products: StandingDesk200[] = [
     presets: "4",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-marsail-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BRQFPFX2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRQFPFX2?tag=workcocoon-20",
     whyItWorks:
       "Includes a storage bag and headphone hook at no additional cost - accessories that typically run $15-25 separately. 176 lb capacity and 4 memory presets match the FlexiSpot EN1's specs at $30-50 less. For buyers who want the best-equipped desk at the lowest price and are comfortable with a 1-year warranty from a newer brand, Marsail delivers the most included accessories per dollar.",
     tradeoffs: [
@@ -191,7 +191,7 @@ export const products: StandingDesk200[] = [
     presets: "3",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-fezibo-40x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08D73C9FH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08D73C9FH?tag=workcocoon-20",
     whyItWorks:
       "8 inches narrower than the standard 48-inch desks, making it the right choice for rooms where a 48-inch footprint does not fit. Maintains 176 lb capacity despite the smaller size. Lowest price in this guide at $100-130. The 40-inch surface area works well for single-monitor setups with keyboard and mouse. Not ideal for dual-monitor setups where the 48-inch surface is the minimum recommendation.",
     tradeoffs: [
@@ -228,7 +228,7 @@ export const products: StandingDesk200[] = [
     presets: "4",
     warranty: "1 year",
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-hero.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C8MDMX3D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8MDMX3D?tag=workcocoon-20",
     whyItWorks:
       "27.6-inch minimum seated height is the lowest in this guide - relevant for users under 5 feet 3 inches who need a lower sitting position than most desks allow. The Natural colorway provides a clean light-wood aesthetic that reads as furniture-grade rather than typical budget desk. Available in White, Natural, and Black.",
     tradeoffs: [

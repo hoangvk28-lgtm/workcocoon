@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "762",
     imageUrl: "https://m.media-amazon.com/images/I/41C-eWZ9gfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=workcocoon-20",
     description:
       "This large-diameter metal clamp holder is built to accommodate oversized tumblers and water bottles, not just a standard mug, and carries the strongest combination of rating and review volume in this comparison. The clamp mechanism is metal rather than plastic, a genuine durability advantage under repeated tightening cycles.\\n\\nIt holds a deep, form-fitting cup cavity rather than a shallow ring, a meaningfully more secure design against incidental bumps than the flat-ring holders found on some competitors.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the 360° Rotating Desk Cup Holder.\n\nWorth knowing before you decide: Metal clamp mechanism. On the other side, Bulkier than compact clip designs. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Large-diameter metal clamp","Deep form-fitting cup cavity","No-drill clamp attachment","Fits oversized tumblers/bottles"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "107",
     imageUrl: "https://m.media-amazon.com/images/I/41O6g1jvklL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8M2JYP1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8M2JYP1?tag=workcocoon-20",
     description:
       "This holder rotates 360 degrees on its clamp base, letting you swing the cup out of the way when not in use or reposition it without unclamping. The metal construction matches the top pick's material quality at a similar price point.\n\nSet against the OOKUU Upgraded Large Desk Cup Holder Clamp, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Metal build quality. On the other side, Smaller review count than the top pick. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["360° rotating clamp base","Metal construction","No-drill attachment","Standard cup diameter"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "70",
     imageUrl: "https://m.media-amazon.com/images/I/61tWyW9bgvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=workcocoon-20",
     description:
       "The cheapest pick in this comparison, this clip-on holder still uses a fully covered cavity design for genuine spill resistance rather than a bare-bones flat ring. Its review count is the smallest here, so treat the strong rating with appropriately less confidence than the higher-volume picks.\n\nRelative to the 360° Rotating Desk Cup Holder, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Covered cavity design for spill resistance. On the other side, Small review count limits confidence. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Fully covered cavity design","Clip-on attachment","Compact footprint","Lowest price in this comparison"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "171",
     imageUrl: "https://m.media-amazon.com/images/I/314m46JYkhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=workcocoon-20",
     description:
       "This holder uses heavy-duty plastic rather than metal, a legitimate tradeoff that keeps weight and cost down while the listing states it is reinforced against cracking under a full beverage's weight. It carries the highest rating of any pick in this comparison.\n\nCompared with the HzTinT Large Desk Cup Holder above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Lighter weight than metal alternatives. On the other side, Plastic clamp may wear faster than metal under repeated tightening. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Heavy-duty reinforced plastic","Universal clamp-on base","Large cup diameter","No-drill attachment"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,510",
     imageUrl: "https://m.media-amazon.com/images/I/31XgT+O+XQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=workcocoon-20",
     description:
       "This is a genuine hybrid, combining a covered anti-spill cup cavity with an integrated headphone hanger on the same clamp base, verified as a real combined feature rather than a token add-on given its strong review volume. The combined structure remains stable since the headphone hanger sits above the cup cavity rather than competing for the same clamp point.\n\nSet against the Universal Large Desk Cup Holder Clamp, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Saves a second clamp point on your desk. On the other side, Higher price than single-function holders. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Anti-spill cup cavity","Integrated headphone hanger","Single clamp base for both","White finish"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "117",
     imageUrl: "https://m.media-amazon.com/images/I/51QfNEhRbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCXFJYNK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCXFJYNK?tag=workcocoon-20",
     description:
       "This is the same OOKUU design as our top pick, sold as a 2-pack, useful for a shared desk, a second monitor station, or simply having a backup without buying separately. Per-unit cost works out lower than buying the single OOKUU listing twice.\n\nRelative to the GUNKING Luxury 2, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Proven OOKUU design in both units. On the other side, Unnecessary if you only need one holder. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["2-pack of large metal clamp holders","Deep cup cavity","No-drill attachment","Same design as OOKUU single pack"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "324",
     imageUrl: "https://m.media-amazon.com/images/I/31kr6fpVxgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=workcocoon-20",
     description:
       "This variant of the OOKUU design uses a deeper cavity than the brand's standard holder, better containing a tall tumbler or bottle against tipping. The extra depth is a genuine, verifiable design difference rather than a marketing-only variant name.\n\nCompared with the OOKUU 2 Pack Large Desk Cup Holder above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Proven OOKUU brand quality. On the other side, Higher price than the standard-depth version. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Deeper cup cavity than standard OOKUU","Metal clamp construction","No-drill attachment","Fits tall tumblers"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "5.0",
     reviews: "17",
     imageUrl: "https://m.media-amazon.com/images/I/41L3KdIx3zL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G4QTWVWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G4QTWVWS?tag=workcocoon-20",
     description:
       "This holder discloses a specific 3.9 inch cavity diameter, useful for confirming compatibility with a specific mug or tumbler before buying rather than guessing from vague sizing language. Its perfect rating comes from a very small review count, so treat it as a promising but less-proven option.\n\nSet against the OOKUU Deeper Desk Cup Holder, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Perfect current rating. On the other side, Very small review count. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["3.9in disclosed cavity diameter","Clamp-on attachment","No drilling required","Compact footprint"],

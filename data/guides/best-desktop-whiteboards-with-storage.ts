@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "A genuinely glass whiteboard built around a keyboard stand with an integrated drawer, so the storage is functional rather than decorative, per the listing title.\n\nBecause it also functions as a keyboard stand, it earns its desk space twice over: elevated typing position, a writing surface, and a drawer for supplies in one unit.",
     specs: ["Built-in drawer", "Glass dry erase surface", "Doubles as keyboard stand", "Compact desktop footprint"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41nG4S2IqnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFLB1LPN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFLB1LPN?tag=workcocoon-20",
     description:
       "Goes beyond a basic drawer, bundling a calculator and organizer features alongside the glass writing surface and keyboard stand, per the listing.\n\nThe higher price reflects the calculator and additional organizer accessories, worth it if you'll genuinely use those extras rather than the writing surface alone.",
     specs: ["Organizer features plus calculator", "Glass dry erase surface", "Keyboard stand design", "Markers and eraser included per listing"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41p7y7rrfnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CL42YP8H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CL42YP8H?tag=workcocoon-20",
     description:
       "The lowest price among the genuine storage-drawer picks in this guide, a glass board with keyboard stand and drawer in a black finish, per the listing.\n\nSame general concept as the top pick above, functional drawer plus glass surface plus keyboard stand, at a slightly lower price point.",
     specs: ["Built-in drawer", "Glass dry erase surface", "Keyboard stand design", "Black finish"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21yNZpZHGyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01M2DADUX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01M2DADUX?tag=workcocoon-20",
     description:
       "An 18x6 inch glass pad from Quartet that explicitly includes storage per the listing title, plus one dry erase marker, shaped for placement in front of a keyboard.\n\nThe wide, low-profile shape means the storage here is more likely a slim tray than a deep drawer, worth checking listing images if you need to store bulkier items.",
     specs: ["18\" x 6\" glass writing surface", "Storage included per listing", "1 dry erase marker included", "Established Quartet brand"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41aTFk156tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09C1VT7X8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09C1VT7X8?tag=workcocoon-20",
     description:
       "Functionally similar to our top pick, a genuinely glass board with a built-in drawer and keyboard stand, offered here in a grey finish for buyers wanting a different desk aesthetic.\n\nIf black or white doesn't suit your setup, this is a near-identical storage-drawer option in grey.",
     specs: ["Built-in drawer", "Glass dry erase surface", "Doubles as keyboard stand", "Grey finish"],

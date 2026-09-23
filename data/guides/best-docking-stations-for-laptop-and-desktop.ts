@@ -44,7 +44,7 @@ export const products: LaptopDesktopDock[] = [
     price: "~$249.99",
     priceRange: "~$249.99",
     imageUrl: "https://m.media-amazon.com/images/I/41nIPKpmEQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRDQW4GT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRDQW4GT?tag=workcocoon-20",
     whyItWins: "Based on its listed specs, the AV Access pushes past the StartTech KVM above with support for up to 3 monitors and 8K resolution, plus 6 included DisplayPort cables -- for anyone running a triple-monitor desk that switches between a laptop and desktop, this is the higher-capacity KVM option in this guide.",
     bodyParagraphs: [
       "The included 6 DisplayPort cables are a meaningful convenience for a triple-monitor KVM setup, since sourcing 6 compatible DisplayPort cables separately adds real cost and hassle.",
@@ -80,7 +80,7 @@ export const products: LaptopDesktopDock[] = [
     price: "~$159.99",
     priceRange: "~$159.99",
     imageUrl: "https://m.media-amazon.com/images/I/41Du+XSAPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCXN5P3T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCXN5P3T?tag=workcocoon-20",
     whyItWins: "Based on its listed specs, the iDock P10 brings 2-host KVM switching, dual-monitor support, Gigabit Ethernet, and EDID emulation to a lower price than the StarTech or AV Access 8K docks above, making it the value entry point for anyone who wants true KVM switching without the higher-end price tag.",
     bodyParagraphs: [
       "EDID emulation is a detail worth knowing about: it keeps your monitor resolution and refresh rate settings consistent even when a computer is disconnected and reconnected, which prevents the annoying resolution reset some budget docks suffer from during KVM switching.",
@@ -116,7 +116,7 @@ export const products: LaptopDesktopDock[] = [
     price: "~$18.99",
     priceRange: "~$18.99",
     imageUrl: "https://m.media-amazon.com/images/I/41jX+v0GlYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FFGMGXT1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFGMGXT1?tag=workcocoon-20",
     whyItWins: "This is a single-host dock, not a KVM -- it does not switch between a laptop and desktop with a button the way the picks above do, so it fits this guide's theme less directly. Based on its listed specs, it does support up to 4 monitors across dual HDMI, DisplayPort, and VGA outputs at an unusually low price, which makes it a reasonable pick if you occasionally connect a desktop or laptop to the same multi-monitor array via manual cable swap rather than frequent KVM switching.",
     bodyParagraphs: [
       "VGA output is a notable inclusion at this price -- useful only if you have an older monitor or projector without a digital input, which is increasingly rare but not unheard of in shared or older office setups.",
@@ -152,7 +152,7 @@ export const products: LaptopDesktopDock[] = [
     price: "~$300-350",
     priceRange: "~$300--350",
     imageUrl: `${BASE}/01-best-kvm-startech-usb-c-kvm-dock.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C3MWLCYS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C3MWLCYS?tag=workcocoon-20",
     whyItWins: "The StarTech Dual-Laptop USB-C KVM Docking Station is the most practical solution for a desk that switches between two computers daily. Both computers connect to the dock simultaneously -- one as the active host, one on standby. A button on the dock (or keyboard hotkey) switches the dual 4K60 DisplayPort monitors, keyboard, mouse, and all peripherals from one computer to the other in under a second.",
     bodyParagraphs: [
       "The power delivery is well-designed: the active host receives 90W (enough for MacBook Pro 14\" or any Windows ultrabook), while the standby computer receives 45W to keep it topped up during the switch period. No need to also plug in a separate laptop charger.",
@@ -193,7 +193,7 @@ export const products: LaptopDesktopDock[] = [
     price: "~$160-200",
     priceRange: "~$160--200",
     imageUrl: `${BASE}/02-best-usb4-plugable-usb4-11-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C83ZMZG5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C83ZMZG5?tag=workcocoon-20",
     whyItWins: "If you only need one computer connected to the dock at a time and are willing to swap the upstream cable manually, the Plugable USB4 11-in-1 is the smartest pick. USB4 at 40Gbps matches Thunderbolt 4 bandwidth -- without the TB4 price premium. Two HDMI 2.1 ports support dual monitors at 4K@120Hz, which is genuinely better than the 4K@60Hz cap most docks deliver at this price.",
     bodyParagraphs: [
       "This dock works with both your USB4 or Thunderbolt laptop and, if your desktop has a USB4 or USB-C port, it can connect there too. The 100W power delivery charges most laptops at full speed. The 2.5GbE Ethernet handles high-speed network needs.",
@@ -231,7 +231,7 @@ export const products: LaptopDesktopDock[] = [
     price: "~$150-200",
     priceRange: "~$150--200",
     imageUrl: `${BASE}/03-best-tb4-anker-777-12-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0928W3XHD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0928W3XHD?tag=workcocoon-20",
     whyItWins: "The Anker 777 is the benchmark TB4 dock for a single-computer desk setup -- and it earns a place in this guide because it works with both Thunderbolt 4 laptops and desktops that have Thunderbolt ports. MacBook Pro, MacBook Air, Dell XPS, Lenovo ThinkPad X1 -- any Thunderbolt laptop connects to full desk peripherals via one cable. Desktops with Thunderbolt ports get the same experience.",
     bodyParagraphs: [
       "Twelve ports cover every standard desk peripheral. The downstream Thunderbolt 4 port daisy-chains to a second Thunderbolt device or extends to a third display.",
@@ -269,7 +269,7 @@ export const products: LaptopDesktopDock[] = [
     price: "~$35-55",
     priceRange: "~$35--55",
     imageUrl: `${BASE}/04-best-budget-amazon-basics-6-in-1-usb-c-3-2-10g-hub.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DTTRMCMP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTTRMCMP?tag=workcocoon-20",
     whyItWins: "The Selore 8-in-1 costs $35--55 and delivers the core functionality most dual-computer setups actually need: dual 4K@60Hz HDMI outputs, 100W USB-C power delivery, USB 3.0 ports for keyboard and mouse, and an SD card reader. No Thunderbolt required -- any USB-C laptop connects. Any desktop with a USB-C port connects too.",
     bodyParagraphs: [
       "For a setup where the computers switch infrequently (once a day, not once an hour) and the dock cable swap takes 10 seconds, the $200+ savings over the StarTech KVM dock are difficult to justify. The Selore handles the fundamentals cleanly.",

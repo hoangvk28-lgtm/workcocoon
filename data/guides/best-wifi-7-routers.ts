@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "1,732 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=workcocoon-20",
     description:
       "A genuine tri-band router including the 6GHz radio that defines the Wi-Fi 7 standard, appropriate for buyers wanting the real capability rather than a dual-band product carrying the Wi-Fi 7 label without 6GHz.\n\nFull 2.5G ports across the board prevent the wired bottleneck that undermines many otherwise capable Wi-Fi 7 routers paired with gigabit-only LAN.\n\nFull 2.5G ports avoid the wired bottleneck common on gigabit-only alternatives. That said, more moderate 4.1-star rating, verify current reviews for firmware stability. Neither should be a surprise once you know to look for it.",
     specs: ["Tri-band, genuine 6GHz radio", "BE9300 combined rating", "Full 2.5G Ethernet ports", "6-stream configuration"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "A genuinely affordable entry into Wi-Fi 7 with a high rating and large review base, appropriate for buyers wanting newer-standard features without the tri-band price premium.\n\nThis is a dual-band product, meaning it skips the 6GHz radio entirely, so verify that tradeoff matches your expectations before assuming full Wi-Fi 7 capability.\n\nWorth calling out specifically: genuinely affordable entry point into the Wi-Fi 7 standard. The catch is dual-band means no 6GHz radio, the standard's headline capability is absent.",
     specs: ["Dual-band (no 6GHz radio)", "BE3600 combined rating", "2x 2.5G + 3x 1G ports", "4-stream configuration"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "A genuine 10G port alongside multiple 2.5G LAN ports, appropriate for buyers with fiber plans exceeding 1Gbps or a NAS setup wanting genuinely fast wired transfers.\n\n320MHz channel width support is genuine Wi-Fi 7 capability, though real-world 320MHz operation is less reliable in dense apartment environments than in a standalone house.\n\nMultiple 2.5G LAN ports for a genuinely multi-gig wired network. Set against that, 320MHz reliability drops meaningfully in dense apartment environments. Both matter when comparing it to the other picks here.",
     specs: ["Tri-band with genuine 6GHz radio", "10G port plus 3x 2.5G LAN", "320MHz channel width support", "BE9700 combined rating"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "92 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41iU+ggyo7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=workcocoon-20",
     description:
       "A higher BE12000 combined rating with a genuine 6GHz band, appropriate for buyers with a denser device count wanting more total capacity across bands.\n\nRemember that BE12000 is a combined theoretical sum across all bands, not a speed any single device will reach on its own.\n\nThe standout detail is that higher combined capacity for households with many simultaneous devices. Balancing that out, small review base, verify current reviews before purchase.",
     specs: ["Tri-band with genuine 6GHz radio", "BE12000 combined rating", "Higher total band capacity", "Newer product generation"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "1,373 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21--ly92xtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=workcocoon-20",
     description:
       "A well-reviewed NETGEAR Nighthawk option at a competitive price, appropriate for buyers preferring NETGEAR's firmware and app ecosystem over TP-Link alternatives.\n\nThis is a dual-band product without the 6GHz radio, verify that tradeoff matches what you expect from a Wi-Fi 7 purchase.\n\nCompetitive price for the NETGEAR Nighthawk platform. That's a real strength, but weigh it against the flip side: dual-band means no 6GHz radio, the standard's headline capability is absent.",
     specs: ["Dual-band (no 6GHz radio)", "BE3600 wireless rating", "NETGEAR Nighthawk platform", "Large review base"],

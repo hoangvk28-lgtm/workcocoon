@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "Explicitly marketed for both smoke and odor alongside HEPA filtration, with a large review base and long track record. Filter indicator to track replacement timing.\n\nVerify the specific carbon layer's mass and thickness for your specific odor concern, generic 'for odor' marketing doesn't specify which gas categories the media is actually effective against.\n\nMarketed explicitly for smoke and odor, not just particulates. That said, carbon layer mass and specific gas-type effectiveness not disclosed. Neither should be a surprise once you know to look for it.",
     specs: ["HEPA filter, marketed for smoke and odor", "Air quality monitor, Auto/Eco mode", "3-year warranty", "Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pCHKKqN2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=workcocoon-20",
     description:
       "The same proven combined HEPA and odor-control design in a white finish, appropriate for a lighter aesthetic while keeping the same filtration capability. Same 3-year warranty.\n\nBudget for this combined product's premium over a HEPA-only unit only if your environment genuinely has meaningful odor sources, cooking, smoking, pets, to justify the carbon capability.\n\nWorth calling out specifically: 3-year warranty. The catch is carbon layer mass and specific gas-type effectiveness not disclosed.",
     specs: ["HEPA filter, marketed for smoke and odor", "Air quality monitor, Auto/Eco mode", "3-year warranty", "White finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, verify whether this specific listing includes a genuine carbon layer or is HEPA-focused only before assuming odor-control capability.\n\nAt this budget tier, a thin carbon pre-filter layer, if present, will perform far worse against strong odors than a substantial dedicated carbon stage, set expectations accordingly.\n\nSolid review base. Set against that, verify carbon layer presence and mass before assuming odor control. Both matter when comparing it to the other picks here.",
     specs: ["HEPA filtration (verify carbon layer presence)", "Solid review base", "Budget-friendly", "Compact design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Smart app control with large rated coverage, genuinely useful for monitoring filter status separately if this model uses a combined HEPA and carbon cartridge design. Large review base.\n\nVerify whether the HEPA and carbon components share one combined replacement cartridge or replace independently, a combined cartridge sometimes forces premature replacement of the still-good layer.\n\nThe standout detail is that large rated coverage. Balancing that out, verify combined vs. separate HEPA/carbon replacement schedule.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Higher capacity design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,517 Amazon ratings",
     reviews: "5,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414NIpA+xLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=workcocoon-20",
     description:
       "Certified True HEPA H13 in a genuinely compact, affordable design, though no substantial carbon layer is confirmed on this listing specifically, understand this is a HEPA-focused pick.\n\nIf your primary need is genuinely combined HEPA and carbon capability, verify this listing includes a real carbon stage before assuming it based on general product-category expectations.\n\nPortable with a useful night light feature. That's a real strength, but weigh it against the flip side: no substantial carbon layer confirmed for odor control.",
     specs: ["True HEPA H13 filter", "Night light feature", "Portable, small design", "Solid review base"],

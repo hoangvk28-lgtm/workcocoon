@@ -42,7 +42,7 @@ export const products: HomeOfficeProduct[] = [
     price: "~$60-80",
     priceRange: "~$60--80",
     imageUrl: `${BASE}/01-best-overall-anker-prime-200w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CT2NQ7WG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT2NQ7WG?tag=workcocoon-20",
     whyItWins: "The Anker Prime 200W is the most balanced home office charging station available. It handles a MacBook alongside four other devices with smart power routing that always prioritizes the laptop -- no manual configuration, no guessing which port is fastest. The 200W total output means the laptop charges at a useful rate even when every port is occupied.",
     bodyParagraphs: [
       "The fanless GaN design is the home office detail: no fan hum audible during quiet calls or recordings. The compact 4.4 x 3.0 x 1.4 inch footprint keeps the desk clean for video. One power cord to the wall.",
@@ -79,7 +79,7 @@ export const products: HomeOfficeProduct[] = [
     price: "~$60-80",
     priceRange: "~$60--80",
     imageUrl: `${BASE}/02-best-macbook-pro-16-ugreen-nexode-200w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09MGRNYHH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MGRNYHH?tag=workcocoon-20",
     whyItWins: "If you run a MacBook Pro 16\" as your home office machine, the primary USB-C port spec is the only number that matters -- and the UGREEN Nexode delivers 140W via PD 3.1, the only standard that charges a 16-inch MacBook Pro at full speed. Every competitor at this price tops out at 100W.",
     bodyParagraphs: [
       "The real-world impact: with the Anker Prime 200W at 100W, a MacBook Pro 16\" under heavy load (video export, compiling, running a VM) may still drain battery slightly during charging. With the UGREEN Nexode at 140W, it charges under any load.",
@@ -116,7 +116,7 @@ export const products: HomeOfficeProduct[] = [
     price: "~$120-150",
     priceRange: "~$120--150",
     imageUrl: `${BASE}/03-best-wireless-anker-prime-3-in-1-qi2-25w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F9L1PPPJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9L1PPPJ?tag=workcocoon-20",
     whyItWins: "The Anker Prime 3-in-1 Qi2 25W is the premium wireless desk charger for Apple home office setups. The new Qi2.2 standard delivers 25W wireless charging -- nearly double the previous 15W maximum -- meaning your iPhone charges as fast wirelessly as most wired options. A built-in smart display shows live wattage and temperature. TEC active cooling prevents the thermal throttling that slows down cheaper wireless chargers under sustained desk use.",
     bodyParagraphs: [
       "The relevance for a home office: this charger stays on your desk all day while you are on calls. A phone that charges reliably between calls, without cables, keeps your desk cleaner and your battery topped up during a full work day.",
@@ -153,7 +153,7 @@ export const products: HomeOfficeProduct[] = [
     price: "~$70-100",
     priceRange: "~$70--100",
     imageUrl: `${BASE}/04-best-all-in-one-baseus-nomos-5-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DHV7LR12?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DHV7LR12?tag=workcocoon-20",
     whyItWins: "The Baseus Nomos 5-in-1 is the pick that eliminates the most cables from a home office desk in one product. Two retractable USB-C cables handle the laptop and tablet -- no loose cables on the desk surface. A 15W Qi2 MagSafe pad handles the phone wirelessly. Two more USB ports cover earbuds and accessories. The LCD display shows exactly how much power each device is drawing, which is genuinely useful for a desk that runs 8+ hours.",
     bodyParagraphs: [
       "For a home office where the desk is always occupied and cables tend to accumulate, the retractable design makes a practical daily difference.",
@@ -190,7 +190,7 @@ export const products: HomeOfficeProduct[] = [
     price: "~$28-38",
     priceRange: "~$28--38",
     imageUrl: `${BASE}/05-best-value-tessan-130w-8-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FBW1SPCD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FBW1SPCD?tag=workcocoon-20",
     whyItWins: "For under $38, the TESSAN 130W 8-in-1 delivers a home office charging hub that covers the full device list: three AC outlets for laptop adapter, desk lamp, and any AC-powered accessory; three USB-C ports (primary at 100W); and two USB-A ports. The GaN design runs cooler than non-GaN competitors at this price.",
     bodyParagraphs: [
       "This is the pick for home office setups where the budget does not extend to premium options but the device list is genuinely demanding. Three AC outlets is the feature that separates it from pure USB charging stations -- a home office desk frequently has AC-powered accessories (lamp, speaker, external drive hub) that need outlets alongside the USB charging.",

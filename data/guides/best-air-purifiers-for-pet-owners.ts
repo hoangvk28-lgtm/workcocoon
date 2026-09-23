@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed across hair, dander, and odor together, with by far the largest review base of any pick here as real-world evidence it handles all three reasonably well rather than excelling at just one.\n\nA generalist design like this is a strong starting point, buyers with an especially heavy odor issue may still want a thicker carbon layer pick for longer-lasting odor control.\n\nBy far the largest review base of any pick here. That said, standard carbon layer thickness, not the deepest odor-control pick here. Neither should be a surprise once you know to look for it.",
     specs: ["Washable pre-filter for hair and dander", "True HEPA H13, 99.97% particulate removal", "Largest review base in this guide", "24dB quoted noise level"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "PlasmaWave technology adds a genuine odor-neutralizing layer beyond mechanical carbon filtration alone, a meaningful advantage for a pet owner whose primary complaint is smell rather than visible hair or dander.\n\nA large, well-established review base backs this as a proven pick specifically for the odor side of pet ownership, though it still needs the same regular pre-filter cleaning as any pick here.\n\nWorth calling out specifically: large, well-established review base. The catch is higher price than the top pick.",
     specs: ["PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration", "Multi-stage filtration"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "Explicitly marketed for pet dander with a filter indicator that helps track replacement timing, genuinely useful for an allergy-sensitive household where dander control is the priority over hair or odor alone.\n\nA large review base and 3-year warranty back this as a proven pick specifically for dander-sensitive buyers, though it costs more than the top generalist pick.\n\nFilter indicator helps track replacement timing. Set against that, higher price than the top generalist pick. Both matter when comparing it to the other picks here.",
     specs: ["HEPA filter marketed for pet dander", "Filter indicator for replacement timing", "3-year warranty", "Large review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,559 Amazon ratings",
     reviews: "3,559 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31K9NLoXncL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=workcocoon-20",
     description:
       "HEPASilent technology moves genuinely more air than a standard design, and higher airflow matters more for pet hair specifically since hair particles are physically larger and heavier than dander or odor molecules.\n\nA heavy-shedding-breed household benefits most from this airflow advantage, buyers whose primary issue is odor or dander alone may not need this level of airflow specifically.\n\nThe standout detail is that air quality sensor for real-time monitoring. Balancing that out, highest price in this guide.",
     specs: ["HEPASilent high-airflow technology", "Air quality sensor", "99.97% removal of airborne particulates", "Large-room rated"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large review base at the lowest price in this guide, genuinely capable for a single-pet home with a moderate combined hair, dander, and odor load.\n\nA moderate single-pet load is a reasonable fit here, a multi-pet or heavy-odor household likely needs one of the specialized picks in this guide instead.\n\nLarge, well-established review base. That's a real strength, but weigh it against the flip side: not specialized for heavy odor or heavy shedding.",
     specs: ["True HEPA filtration", "Large review base", "Budget-friendly", "Compact design"],

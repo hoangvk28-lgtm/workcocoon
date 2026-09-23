@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "896",
     imageUrl: "https://m.media-amazon.com/images/I/51YpYvY4LwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=workcocoon-20",
     description:
       "This clamps to your desk underside without drilling, adding two genuine slide-out drawer compartments where none existed before, the clearest match for a buyer specifically wanting a hanging drawer unit rather than an insert tray for an existing drawer.\n\nIt leads this comparison mainly on rated capacity and build reinforcement for a genuinely loaded file collection, worth weighing directly against the INLDY Under Desk Drawer.\n\nTwo compartments for organized storage. That's a real strength, but weigh it against the flip side: bulkier under-desk footprint with two drawers.",
     specs: ["Clamp-on, no drilling","2 separate slide-out drawers","Mesh metal construction","Adds drawer capacity where none existed"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "75",
     imageUrl: "https://m.media-amazon.com/images/I/61-H71DCbEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=workcocoon-20",
     description:
       "A more compact single-drawer alternative to the Homeify pick above, this clamp-on unit carries a higher rating despite a smaller review count, appropriate if you only need one added compartment rather than two.\n\nSet against the Homeify Under Desk Drawer Organizer Clamp, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: no-drill clamp attachment. The catch is smaller review count.",
     specs: ["Clamp-on, no drilling","Single slide-out drawer","Mesh metal construction","Compact under-desk profile"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,000",
     imageUrl: "https://m.media-amazon.com/images/I/51FalFi-PqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005XK3R02?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005XK3R02?tag=workcocoon-20",
     description:
       "Honesty note: this is genuinely a different product from the clamp-on picks above, an insert tray that organizes the inside of an existing desk drawer with adjustable compartments, not a hanging unit that adds a new drawer. It carries the highest rating in this comparison.\n\nRelative to the INLDY Under Desk Drawer, this pick leans toward a different priority, whether that's a lower price, a different attachment method, or a finish suited to a different space.\n\nAdjustable width fits varied drawer sizes. Set against that, requires an existing drawer to organize. Both matter when comparing it to the other picks here.",
     specs: ["In-drawer insert tray, not a hanging unit","Adjustable width, 10.3-16 inches","Customizable compartments","Highest rating here"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "148",
     imageUrl: "https://m.media-amazon.com/images/I/31L34YVEzzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CRT7XZT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CRT7XZT?tag=workcocoon-20",
     description:
       "Also an in-drawer insert tray rather than a hanging unit, this 7-compartment design offers more distinct storage sections than the Officemate tray, at a lower price, for buyers organizing small supplies within an existing drawer.\n\nCompared with the Officemate Expandable Drawer Organizer Tray above, this pick trades some of that pick's capacity or adjustability for a different balance of price and mounting simplicity, worth weighing against your own wall or desk situation.\n\n7 distinct compartments. That's a real strength, but weigh it against the flip side: requires an existing drawer to organize.",
     specs: ["In-drawer insert tray, not a hanging unit","7 compartments","Expandable plastic design","Lowest price here"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "22",
     imageUrl: "https://m.media-amazon.com/images/I/41AwVl4-0IL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSZMWPW2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSZMWPW2?tag=workcocoon-20",
     description:
       "A third interpretation of this ambiguous search: a hanging file organizer rather than a general drawer, purpose-built for hanging documents under the desk. Include this if your actual need is file storage rather than a general small-supply drawer.\n\nSet against the TRU RED Expandable Plastic Drawer Organizer, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: affordable. The catch is small review count limits confidence.",
     specs: ["Under-desk hanging attachment, no drilling","File-specific organizer","Compact profile","Distinct from drawer-style storage"],

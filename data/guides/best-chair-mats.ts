@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "54,421",
     imageUrl: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=workcocoon-20",
     description:
       "This PU vinyl mat is 2.2mm thick in a 36x48 footprint with an extended lip and ramped edges so the carpet-to-mat transition doesn't create a lip that catches your casters. Molded anchor bars and cleats on the underside are built specifically to grip low pile carpet up to 1/4 inch, and the top has an anti-skid finish.\n\nIts 5-year warranty is the longest of any pick in this guide. It's a carpet-only mat, so if your floor is hardwood, tile, or laminate, look at one of the hard-floor or dual-use picks instead.\n\nRamped lip smooths the transition. On the other hand, carpet only, not usable on hard floor. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "MuArts uses a special rigid material 5mm thick in a 54x32 footprint that stays flat rather than curling, and it's rated for 1,400 lbs, the highest capacity in this guide. Because it's rigid instead of flexible vinyl, it performs the same whether it sits on carpet or hard floor.\n\nThat dual-use flexibility makes it a good pick if you move offices or rooms and aren't sure what floor the mat will end up on next. It carries a 12-month warranty, shorter than some of the vinyl carpet-only picks.\n\nWorks on both carpet and hard floor. That's a real strength, but weigh it against the flip side: shorter warranty than the top carpet pick.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "10,646",
     imageUrl: "https://m.media-amazon.com/images/I/51-SqFH4ZoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=workcocoon-20",
     description:
       "Kuyal's mat is 2mm PVC in a 36x48 footprint built specifically for hard floors, with a smooth top and an anti-slide coating on the underside rather than cleats, since hard floor doesn't need fiber grip the way carpet does. A dull polish finish keeps small scratches less visible over time compared to a glossy surface. It's odorless and BPA-free with no lead or cadmium, and at a budget-friendly price it's the cheapest clear hard-floor pick in this guide. Don't use it on carpet, its flat anti-slide coating isn't designed to anchor into carpet fibers. Worth calling out specifically: dull polish finish hides minor scratches. The catch is hard floor only, will not grip carpet.",
     specs: [
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "1,200",
     imageUrl: "https://m.media-amazon.com/images/I/31d9jTEL4sL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00272N7RM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00272N7RM?tag=workcocoon-20",
     description:
       "Floortex builds this polycarbonate mat 0.09 inches thick in a 48x60 footprint, the largest polycarbonate carpet mat in this guide, with a gripper back rated for carpet up to 1/2 inch, covering low and medium pile. Polycarbonate resists impact and wear better than standard PVC over years of daily rolling.\n\nIt's fire-resistant and GREENGUARD certified, both relevant if the mat sits in a shared or regulated workspace, and it carries a 5-year warranty, tied for the longest in this guide.\n\nRated for a wider pile range than most PVC picks. Set against that, most expensive polycarbonate pick in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -175,7 +175,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "201",
     imageUrl: "https://m.media-amazon.com/images/I/51UDuDStG2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96LWLZ7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96LWLZ7?tag=workcocoon-20",
     description:
       "Marvelux's polycarbonate mat is 0.11 inches thick in a 48x60 footprint and rated for carpet up to 3/4 inch, the only pick in this guide's polycarbonate lineup rated for medium and high pile. Its rigidity means it doesn't sink into thick carpet the way a thinner mat would, and a studded underside keeps it anchored. It's made using 50% renewable energy and is 100% recyclable, a detail worth noting if sustainability factors into your purchase. It's the priciest pick in this guide, but it's also solving a problem most competitors don't address at all. A genuine advantage here is that rigid enough to avoid sinking into thick carpet. The tradeoff is most expensive pick in this guide.",
     specs: [
@@ -207,7 +207,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,486",
     imageUrl: "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=workcocoon-20",
     description:
       "GLSLAND's tempered glass mat is 0.2 inches thick in a 36x46 footprint, rated for 1,200 lbs, with 4 anti-slip pads underneath rather than cleats or spikes. Glass is naturally the most durable material category of the 3 in this guide, PVC, polycarbonate, and glass, and it won't scratch, dent, or yellow the way plastic mats eventually do. It's dual-use on carpet or hard floor and BPA-free, phthalate-free, and odorless. It's the cheapest tempered glass pick in this guide, a reasonable entry point if you want glass's durability without the largest glass mat's price. Most durable material category, won't scratch or yellow. On the other hand, heaviest material to move or reposition. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -239,7 +239,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,085",
     imageUrl: "https://m.media-amazon.com/images/I/41UO1C7z6QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXSFBQLH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXSFBQLH?tag=workcocoon-20",
     description:
       "Koonmi's tempered glass mat is 0.2 inches thick in a 46x55 footprint, the largest glass mat in this guide, and rated for over 1,000 lbs. A detachable anti-slip pad underneath lets you position grip exactly where the chair rolls most.\n\nLike the other glass pick in this guide, it's dual-use on carpet or hard floor and has polished rounded corners. Its larger footprint suits bigger desks or setups where the chair covers more ground, at a price that reflects the extra glass and size.\n\nHighest-rated pick in this guide at 4.7 stars. That's a real strength, but weigh it against the flip side: most expensive glass pick in this guide.",
     specs: [
@@ -271,7 +271,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "10,717",
     imageUrl: "https://m.media-amazon.com/images/I/21V7PYvl22L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K95V7X2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07K95V7X2?tag=workcocoon-20",
     description:
       "Lorell's tempered glass mat is 0.25 inches thick, the thickest glass in this guide, in a 46x36 footprint rated for 1,000 lbs and for any floor type, including carpet, hard floor, or even marble. Its scratch-resistant surface and 5-year warranty make it the strongest all-around glass pick in this list.\n\nAvailability on this listing can fluctuate, so confirm current stock and pricing before buying rather than assuming a fixed price. It's the most-reviewed and highest-rated pick in this entire guide, with nearly 10,700 ratings at 4.8 stars.\n\nWorth calling out specifically: thickest glass in this guide. The catch is listing availability can be limited, check price before buying.",
     specs: [

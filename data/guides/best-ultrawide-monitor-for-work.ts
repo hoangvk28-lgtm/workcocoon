@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,460",
     imageUrl: "https://m.media-amazon.com/images/I/51M6nLrVD8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CWQMZPJC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWQMZPJC?tag=workcocoon-20",
     description:
       "The SANSUI is the entry point into a 34\" ultrawide for office work, with a 3440x1440 VA panel and a 200Hz refresh rate that's more than most work tasks need. Color coverage is strong for the price, 97% DCI-P3 and 130% sRGB, useful if your job touches any design or photo review.\n\nPiP and PbP let you view two input sources side by side, handy for a laptop and desktop sharing one screen, and dual HDMI 2.1 ports plus DisplayPort 1.4 cover most office docking setups. It's the cheapest and most-reviewed pick in this guide.\n\nMost-reviewed pick with 4,460 ratings. On the other hand, no USB-C port or Power Delivery. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "210",
     imageUrl: "https://m.media-amazon.com/images/I/41x4uwmvQpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQF8LRGZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQF8LRGZ?tag=workcocoon-20",
     description:
       "The LG 34WR55QK-B is built with genuine office use in mind, its dedicated Reader Mode reduces eye strain specifically during long reading and writing sessions, something few gaming-focused ultrawides bother including. USB-C with 65W Power Delivery charges a standard work laptop over a single cable.\n\nOnScreen Control software lets you adjust picture settings and monitor splits from your desktop, and PbP support covers dual-source workflows. A height and tilt adjustable stand rounds out the ergonomics. It's the highest-rated pick in this entire guide.\n\nReader Mode specifically targets long-session eye strain. That's a real strength, but weigh it against the flip side: 65W PD may not fully power a 16\" MacBook Pro under heavy load.",
     specs: [
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "467",
     imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=workcocoon-20",
     description:
       "The Dell S3425DW pairs a 3440x1440 VA panel with up to 120Hz refresh and a 0.03ms response time, the fastest response time in this entire guide, though that matters less for office work than for gaming. USB-C 65W Power Delivery keeps a laptop charged over a single cable during the workday.\n\nColor accuracy is strong at 99% sRGB and 95% DCI-P3, and Dell's ComfortView Plus low blue-light mode targets eye strain during extended screen time. The Dell Premium Panel warranty covers the panel itself, a reassuring detail for a monitor meant to run all day, every day.\n\nWorth calling out specifically: strong color accuracy for design or photo review work. The catch is no KVM switch or Ethernet passthrough.",
     specs: [
@@ -147,7 +147,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "101",
     imageUrl: "https://m.media-amazon.com/images/I/31nmpKDSrtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D63Y6WYJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D63Y6WYJ?tag=workcocoon-20",
     description:
       "The U3425WE is the only Thunderbolt 4 monitor in this guide, a meaningful upgrade for a professional desk running high-bandwidth peripherals or an external GPU-adjacent workflow. It pairs Thunderbolt 4 with 10 total USB 3.2 Gen2 ports and built-in Ethernet, effectively replacing a separate docking station.\n\nAn IPS panel at 3440x1440 and 120Hz balances color consistency with smooth motion, PbP support handles dual-source viewing, and an ambient light sensor adjusts brightness automatically through the day. A 3-year warranty covers the whole unit.\n\n10 USB ports plus Ethernet replaces a separate dock. Set against that, most expensive 34\"-class pick in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -180,7 +180,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "225",
     imageUrl: "https://m.media-amazon.com/images/I/31jJEMNYH7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRGJF7WL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRGJF7WL?tag=workcocoon-20",
     description:
       "At 5120x1440, the S95UA is built for someone who genuinely needs the extra screen real estate of a 49\" panel, not just the look of one, and its 1000R curve keeps the wide edges from feeling distant. A built-in KVM switch lets you control 2 computers from one keyboard and mouse without a separate hardware switch.\n\nUSB-C Power Delivery hits 90W, the highest wattage in this guide and enough to fully charge a 16\" MacBook Pro under load. Ethernet passthrough, 120Hz refresh, and DisplayHDR 400 round out a spec sheet backed by a B2B 3-year warranty.\n\nA genuine advantage here is that built-in KVM switch for 2-computer desks. The tradeoff is needs a desk with real usable depth, at least 28-30 inches.",
     specs: [
@@ -213,7 +213,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "90",
     imageUrl: "https://m.media-amazon.com/images/I/41A7PYEypCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6QRTBHM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6QRTBHM?tag=workcocoon-20",
     description:
       "The U4924DW is the widest and most port-dense pick in this guide, a 5120x1440 IPS Black panel paired with 11 total USB ports, an automatic KVM switch, and 2.5GbE Ethernet for a desk that needs to be a self-contained productivity hub. USB-C Power Delivery reaches 90W, enough for a 16\" MacBook Pro under full load. IPS Black technology delivers 100% sRGB coverage, the best color accuracy in this guide, a real advantage for design or photo work. Dual 9W speakers round out the package, though at a premium price it's the most expensive pick here by a clear margin. 100% sRGB gives the best color accuracy here. On the other hand, most expensive pick in this guide by a wide margin. Neither should be a surprise once you know to look for it.",
     specs: [

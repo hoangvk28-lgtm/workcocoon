@@ -42,7 +42,7 @@ export const items: EssentialItem[] = [
     brand: "Voncerus",
     price: "$16.99",
     asin: "B0BB5ZBT42",
-    amazonUrl: "https://www.amazon.com/dp/B0BB5ZBT42?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BB5ZBT42?tag=workcocoon-20",
     imageUrl: `${B}/01-voncerus-led-clamp-desk-lamp.webp`,
     intro:
       "Good lighting is the first thing to fix on any desk. Overhead room lighting creates shadows directly where you're reading or writing -- a clamp lamp positions light exactly where you need it without using any desk surface.",
@@ -55,7 +55,7 @@ export const items: EssentialItem[] = [
     budgetAlt: {
       name: "Lepro Clip-On LED Lamp",
       asin: "B09XF23WY2",
-      amazonUrl: "https://www.amazon.com/dp/B09XF23WY2?tag=deskfinds0d-20",
+      amazonUrl: "https://www.amazon.com/dp/B09XF23WY2?tag=workcocoon-20",
       price: "$18–$28",
       why: "Same clamp format and feature set at a lower price point",
     },
@@ -68,7 +68,7 @@ export const items: EssentialItem[] = [
     brand: "Quntis",
     price: "$39.95",
     asin: "B08DKQ3JG1",
-    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=workcocoon-20",
     imageUrl: `${B}/02-quntis-monitor-light-bar.webp`,
     intro:
       "If you use an external monitor for most of your work, a monitor light bar is a smarter choice than a desk lamp -- it clips directly onto the monitor top and illuminates your desk without creating glare on the screen.",
@@ -87,7 +87,7 @@ export const items: EssentialItem[] = [
     brand: "MSVEKT",
     price: "$35–$50",
     asin: "B07XDYHX5B",
-    amazonUrl: "https://www.amazon.com/dp/B07XDYHX5B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07XDYHX5B?tag=workcocoon-20",
     imageUrl: `${B}/03-bamboo-monitor-riser-with-drawer.webp`,
     intro:
       "A monitor stand does two things simultaneously: raises your screen to a better ergonomic height and creates a full-width storage shelf underneath. On a small desk, this trade -- a bit of height for a lot of extra organization -- is almost always worth it.",
@@ -100,7 +100,7 @@ export const items: EssentialItem[] = [
     budgetAlt: {
       name: "Amazon Basics Metal Monitor Stand with Drawer",
       asin: "B07VZPMDV6",
-      amazonUrl: "https://www.amazon.com/dp/B07VZPMDV6?tag=deskfinds0d-20",
+      amazonUrl: "https://www.amazon.com/dp/B07VZPMDV6?tag=workcocoon-20",
       price: "$30–$45",
       why: "Metal build, black finish, same drawer feature at a lower price",
     },
@@ -113,7 +113,7 @@ export const items: EssentialItem[] = [
     brand: "Lamicall",
     price: "$32.99",
     asin: "B08M94BTYC",
-    amazonUrl: "https://www.amazon.com/dp/B08M94BTYC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08M94BTYC?tag=workcocoon-20",
     imageUrl: `${B}/04-lamicall-foldable-laptop-stand.webp`,
     intro:
       "If you work from a laptop, a stand is one of the most impactful purchases you can make. When your laptop sits flat on a desk, the screen top is 4-6 inches below where it should be for a neutral neck position -- you're angling down for every hour you work.",
@@ -132,7 +132,7 @@ export const items: EssentialItem[] = [
     brand: "Nordik",
     price: "$39.97",
     asin: "B0CQBWJK61",
-    amazonUrl: "https://www.amazon.com/dp/B0CQBWJK61?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQBWJK61?tag=workcocoon-20",
     imageUrl: `${B}/05-nordik-felt-leather-desk-mat.webp`,
     intro:
       "A desk mat is the single purchase that makes a setup feel intentional rather than assembled. It creates one clean work zone, protects the desk surface (relevant at any rental inspection), cushions your wrists during long sessions, and provides consistent mouse tracking.",
@@ -151,7 +151,7 @@ export const items: EssentialItem[] = [
     brand: "Cinati",
     price: "$17.99",
     asin: "B0BPLT7T1V",
-    amazonUrl: "https://www.amazon.com/dp/B0BPLT7T1V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BPLT7T1V?tag=workcocoon-20",
     imageUrl: `${B}/06-cinati-under-desk-cable-tray.webp`,
     intro:
       "Cable management is the most underrated desk upgrade. Without it, your power strip, charger bricks, and cable tangle sit in a visible pile that makes the entire setup look chaotic -- and shows in every video call background. A cable tray takes five minutes to install and changes the baseline appearance of the workspace immediately.",
@@ -164,7 +164,7 @@ export const items: EssentialItem[] = [
     budgetAlt: {
       name: "AUSTOR Adhesive Cable Clips 24-Pack",
       asin: "B078WMCWDD",
-      amazonUrl: "https://www.amazon.com/dp/B078WMCWDD?tag=deskfinds0d-20",
+      amazonUrl: "https://www.amazon.com/dp/B078WMCWDD?tag=workcocoon-20",
       price: "$7–$10",
       why: "For routing individual cables along the desk edge -- costs under $10 and eliminates cable fall-off",
     },
@@ -177,7 +177,7 @@ export const items: EssentialItem[] = [
     brand: "Comix",
     price: "$14.99",
     asin: "B077M6M8XY",
-    amazonUrl: "https://www.amazon.com/dp/B077M6M8XY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B077M6M8XY?tag=workcocoon-20",
     imageUrl: `${B}/08-comix-mesh-desk-organizer.webp`,
     intro:
       "A desk organizer works only when it has a specific place for every item you actually use. An organizer that doesn't fit your actual items just creates another surface to pile things on top of.",
@@ -190,7 +190,7 @@ export const items: EssentialItem[] = [
     budgetAlt: {
       name: "mDesign Bamboo Drawer Organizer 2-Pack",
       asin: "B081KBND22",
-      amazonUrl: "https://www.amazon.com/dp/B081KBND22?tag=deskfinds0d-20",
+      amazonUrl: "https://www.amazon.com/dp/B081KBND22?tag=workcocoon-20",
       price: "$14–$18",
       why: "For desk drawers -- bamboo insert trays convert a junk drawer into organized sections",
     },
@@ -203,7 +203,7 @@ export const items: EssentialItem[] = [
     brand: "Anker",
     price: "$35–$50",
     asin: "B014ZQ07NE",
-    amazonUrl: "https://www.amazon.com/dp/B014ZQ07NE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B014ZQ07NE?tag=workcocoon-20",
     imageUrl: `${B}/10-anker-7-port-powered-usb-hub.webp`,
     intro:
       "Modern laptops ship with 2-4 USB ports. A desk setup with a mouse, keyboard, external drive, webcam, card reader, and USB lamp needs 6-8. An unpowered hub draws electricity from your laptop and drops connections under load -- a powered hub has its own AC adapter and stays stable under full use.",
@@ -216,7 +216,7 @@ export const items: EssentialItem[] = [
     budgetAlt: {
       name: "Anker PowerPort 6 Desktop Charger",
       asin: "B00P936188",
-      amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=deskfinds0d-20",
+      amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=workcocoon-20",
       price: "$19–$26",
       why: "6-port 60W USB charging station -- for charging devices only (no data), 4.8 stars at 26K reviews",
     },
@@ -229,7 +229,7 @@ export const items: EssentialItem[] = [
     brand: "Elevation Lab",
     price: "$11.99",
     asin: "B00P31BMHG",
-    amazonUrl: "https://www.amazon.com/dp/B00P31BMHG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00P31BMHG?tag=workcocoon-20",
     imageUrl: `${B}/12-elevation-lab-under-desk-headphone-hook.webp`,
     intro:
       "A headphone hook is one of the cheapest improvements to a desk setup because it removes an item that takes up disproportionate space relative to its usage. Most people rest headphones on the monitor bezel or leave them on the desk, where they occupy roughly the footprint of a small laptop.",
@@ -248,7 +248,7 @@ export const items: EssentialItem[] = [
     brand: "ComfiLife",
     price: "$39.99",
     asin: "B08DHMMBFF",
-    amazonUrl: "https://www.amazon.com/dp/B08DHMMBFF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DHMMBFF?tag=workcocoon-20",
     imageUrl: `${B}/13-comfilife-memory-foam-footrest.webp`,
     intro:
       "A footrest addresses a posture gap that most people don't notice until they sit at a desk for four hours straight. If your desk is at standard height (29-30\") and your feet don't rest flat on the floor at a 90° knee angle in your normal typing position, there's low-level tension building in your lower back that you feel as fatigue by mid-afternoon.",
@@ -267,7 +267,7 @@ export const items: EssentialItem[] = [
     brand: "FUNARTY",
     price: "$15.99",
     asin: "B08QZDK87C",
-    amazonUrl: "https://www.amazon.com/dp/B08QZDK87C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08QZDK87C?tag=workcocoon-20",
     imageUrl: `${B}/14-funarty-artificial-succulents.webp`,
     intro:
       "One small plant is often the difference between a desk that looks functional and one that looks intentional. The case for artificial: real succulents need specific light levels that most desk positions can't provide consistently, and a dying plant looks worse than no plant at all.",
@@ -286,7 +286,7 @@ export const items: EssentialItem[] = [
     brand: "KADAMS",
     price: "$19–$29",
     asin: "B0CTBVXCR7",
-    amazonUrl: "https://www.amazon.com/dp/B0CTBVXCR7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTBVXCR7?tag=workcocoon-20",
     imageUrl: `${B}/15-kadams-pomodoro-cube-timer.webp`,
     intro:
       "Most desk setup guides stop at cable management and forget that the biggest challenge at a desk isn't physical -- it's staying focused. A physical timer changes how you work because it creates a tangible commitment that a phone timer doesn't. When you flip the cube to 25 minutes, you're making a deliberate agreement with yourself in a way that a phone app can't replicate.",

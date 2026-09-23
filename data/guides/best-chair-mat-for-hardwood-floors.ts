@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "12,138",
     imageUrl: "https://m.media-amazon.com/images/I/41R0aNdrj4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CBRY92M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CBRY92M?tag=workcocoon-20",
     description:
       "The SHAREWIN pairs a frosted anti-slip top surface with a smooth underside, giving it better rolling control than most budget mats while still protecting the wood underneath from direct caster contact. At 1.5mm thick and 36x47 inches, it's sized to cover a full swivel radius for most desk chairs.\n\nIt's BPA-free with no volatile toxins and stays fully transparent. Like any standard PVC mat, it's a reasonable choice for engineered hardwood or floors you're not precious about long-term, but buyers with a premium solid hardwood floor may prefer a rubber-backed or glass-level option further down this list for extra peace of mind.\n\nWorth calling out specifically: best rolling control among the budget picks. The catch is standard PVC, not the gentlest option for premium hardwood finishes.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "2,920",
     imageUrl: "https://m.media-amazon.com/images/I/414FROmaZML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FCDNGYB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FCDNGYB?tag=workcocoon-20",
     description:
       "Yecaye's clear PVC mat holds its shape well over time, with a smooth gliding surface that won't curl, bend, or crack the way thinner clear mats can after months of use. Rounded corners make it easy to roll a chair on and off without catching an edge.\n\nAt 1.7mm thick and 36x48 inches, it's a solid everyday pick for hardwood, though standard PVC sitting in one spot for years is worth watching if your floor has an oil or wax finish rather than polyurethane, since these finishes can respond differently to prolonged plastic contact.\n\nRounded, easy-to-roll-over edges. Set against that, standard PVC underside, not rubber. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,457",
     imageUrl: "https://m.media-amazon.com/images/I/517k2eNhAvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07SBVXQ7B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07SBVXQ7B?tag=workcocoon-20",
     description:
       "The Azadx is dual-sided, a smooth side down against the hardwood and a textured matte side up for extra grip under a rolling chair. That reversibility gives it flexibility most single-sided mats in this guide don't offer.\n\nAt 30x48 inches and 0.06 inches thick, it's transparent PVC that works well for everyday hardwood protection. As with the other clear PVC picks here, it's a fine choice for engineered hardwood or a floor you replace or refinish periodically, though a rubber-backed or glass option is the safer long-term bet on a floor you never want to risk.\n\nA genuine advantage here is that reversible design adds grip flexibility. The tradeoff is narrower than the 36\"-wide picks.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,313",
     imageUrl: "https://m.media-amazon.com/images/I/41XIeKF3CtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQ87K7RL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQ87K7RL?tag=workcocoon-20",
     description:
       "The Blvornl's rattan-like woven pattern makes it the most visually distinctive mat in this guide, a real alternative to the plain clear PVC look most competitors default to. Its rubber non-slip base grips the hardwood without needing adhesive, which also means less risk of residue interacting with the floor's finish over time.\n\nAt 0.08 inches thick, it's flame-retardant, waterproof, oil-resistant, and heat-resistant. The rubber base is gentler against a wood finish than a hard plastic underside sitting flush against the floor for years, making it a reasonable middle-ground pick for buyers who want style along with some finish-conscious peace of mind.\n\nRubber base is gentler on hardwood finish long-term than plain PVC. On the other hand, pattern reduces transparency versus fully clear mats. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "849",
     imageUrl: "https://m.media-amazon.com/images/I/41PScNXF1QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCBDMRSS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCBDMRSS?tag=workcocoon-20",
     description:
       "The BARoyal's PVC-plus-rubber construction is a meaningful step up for hardwood specifically, since a rubber backing sitting against your floor's finish for years is generally gentler than a plain PVC underside. It carries the highest star rating of any PVC-based pick in this guide at 4.6, backed by testing through over 10,000 durability cycles per the listing.\n\nCurl-free edges and a water-resistant build hold their shape well over time, and the Espresso color is the only non-clear finish option in this list. Silent glide performance rounds out a mat built for hardwood owners who want PVC-level affordability with more finish-conscious backing than a basic clear mat.\n\nRubber backing is gentler on hardwood finish than plain PVC. That's a real strength, but weigh it against the flip side: smaller review count than the top budget picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "At 5mm thick, the MuArts is the thickest and most rigid pick in this guide short of the glass-hardness and beveled composite options, and it's rated to support up to 1,400 lbs, the highest capacity here. Its rigid, flat-lying design distributes chair weight evenly rather than flexing against the wood the way a thin PVC sheet can.\n\nIt works dual-use on hardwood or carpet, so it's a sensible pick if you move furniture between rooms. The crystal-clear finish and 12-month warranty make it a strong middle-tier choice, though buyers who specifically want to rule out any material reaction with their floor's finish should consider the glass-hardness pick further down this list.\n\nWorth calling out specifically: thickest, most rigid pick short of the glass-level option. The catch is pricier than every basic PVC pick in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "134",
     imageUrl: "https://m.media-amazon.com/images/I/511Loe1T1PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2DV524X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F2DV524X?tag=workcocoon-20",
     description:
       "The MESAILUP is built from a polycarbonate and ceramic composite rated at 4H hardness, glass-level hardness that is the only rating of its kind in this guide, meaning it is far less likely to scratch or chemically react with a hardwood finish the way standard plastic can over years of contact. At 0.25 inches thick, it's also the thickest and most rigid mat in this entire list.\n\nRated for 1,500 lbs and 92-95% transparent, it includes a beveled edge for a smoother roll-on transition and 6 residue-free anti-slip pads that won't leave marks on the finish underneath. This is the pick for anyone with a premium solid hardwood floor who wants the strongest possible peace of mind that a mat will not affect the wood.\n\nLeast likely material to react with any hardwood finish. Set against that, most expensive pick in this guide by a wide margin. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "24",
     imageUrl: "https://m.media-amazon.com/images/I/417+4zxitgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DY2PP1K6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DY2PP1K6?tag=workcocoon-20",
     description:
       "The Gorilla Grip uses PET (polyethylene terephthalate) instead of standard PVC, a material that's inherently more chemically stable against hardwood finishes over long-term contact. It ships completely flat rather than rolled, so there's no waiting for it to lie down or fighting stubborn curl at the edges out of the box.\n\nAt 0.087 inches thick with an ultra-thick double-layer construction, it won't bend, curl, crack, or leave divots, and its slip-resistant backing holds it in place on hardwood. It's a newer, smaller-review-count pick, but the PET material choice makes it a reasonable middle ground between basic PVC and the pricier glass-level option above.\n\nA genuine advantage here is that ships flat, no curling to fight out of the box. The tradeoff is very small review count so far.",
     specs: [

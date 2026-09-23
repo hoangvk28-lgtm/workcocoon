@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319DqCyLa3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=workcocoon-20",
     description:
       "The TR8620a's listing calls out photo and document printing directly alongside AirPrint and Android support, and it includes a standard USB-B port for a wired computer connection. The listing doesn't specify a USB-A host port for flash drive printing, so if direct-from-USB-stick printing is your goal specifically, confirm that feature in the printer's manual before buying rather than assuming it from the listing alone.\n\nFax, auto document feeder, copier, and scanner round out a full home-office feature set. It's a reasonable middle-tier pick if you mainly need a reliable wired USB-B connection with wireless as a backup option.\n\nWorth calling out specifically: full feature set with ADF and fax. The catch is uSB-A flash drive host printing not confirmed on the listing.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "This listing leads with wireless features and the Instant Ink trial, but current DeskJet models include a standard USB-B port for a direct computer connection as well, useful as a fallback if your network wifi ever drops or you'd rather print without relying on a wireless connection at all. A USB-A flash drive host port is not mentioned on this listing.\n\nSetup and daily use stay simple whether you connect over wifi or USB-B. If flash-drive-direct printing is what you actually need, look at the Epson XP-7100 or Brother DCP-L2640DW below instead, both of which more clearly support that use case.\n\nSimple setup for either connection type. Set against that, uSB-A flash drive host printing not confirmed. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "Like the other Canon picks here, the TS6520 includes a standard USB-B port for wired computer printing, and its 1.42-inch OLED display makes it easy to confirm connection status when switching between USB and wifi. This listing does not confirm a USB-A flash drive host port.\n\nThe intuitive control panel and duplex printing round out a solid mid-range pick. If you mainly want the reliability of a wired backup connection with a clear on-screen status readout, this is a stronger pick than the more basic Canon models in this list.\n\nA genuine advantage here is that oLED display clarifies connection status. The tradeoff is uSB-A flash drive host printing not confirmed.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The TR4720 includes an automatic document feeder alongside a standard USB-B wired connection option, useful if you scan multi-page documents regularly and want a dependable wired print path as backup to wifi. A USB-A flash drive host port is not stated on this listing.\n\nBuilt-in fax is a legacy feature most buyers skip, but it doesn't complicate daily use. This is a solid budget pick if your USB need is specifically a wired computer connection rather than flash drive printing.\n\nConfirmed USB-B wired connection. On the other hand, uSB-A flash drive host printing not confirmed. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "This OfficeJet Pro model includes a standard USB-B connection option alongside its ADF and duplex printing, a reasonable choice if your office setup calls for a dependable wired path as a fallback to wireless. The listing does not confirm a USB-A flash drive host port for direct-from-stick printing.\n\nThe 3-month Instant Ink trial and AI-enabled features are separate from its USB connectivity. If flash-drive printing specifically is the goal, the Epson XP-7100 or Brother DCP-L2640DW below are better documented for that use case.\n\nReliable wired fallback option. That's a real strength, but weigh it against the flip side: uSB-A flash drive host printing not confirmed.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "This monochrome laser includes a standard USB-B connection along with wireless and duplex printing, a solid choice if you want a fast, sharp-text printer with a dependable wired option. As a laser printer it avoids ink-drying concerns entirely, which matters for a shared or infrequently used USB-connected setup.\n\nThe listing doesn't specify a USB-A flash drive host port, so treat this as a wired-computer-connection pick rather than a direct-from-stick printing pick. Works with Alexa for voice-triggered print jobs is a separate feature from its USB support.\n\nWorth calling out specifically: no ink-drying concerns for infrequent USB use. The catch is uSB-A flash drive host printing not confirmed.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41qSvRweBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=workcocoon-20",
     description:
       "The MAXIFY MB2720 includes a standard USB-B connection option alongside its scanner, copier, and fax features, useful for a small office that wants a dependable wired print path in addition to wireless. The listing does not confirm a USB-A host port for flash drive printing.\n\nAs a business-oriented MAXIFY model, it's built for more consistent daily use than the basic home picks in this guide. If your office primarily prints from computers over USB rather than from flash drives, this is a reasonable higher-capacity option.\n\nConfirmed USB-B wired connection. Set against that, uSB-A flash drive host printing not confirmed. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/411M0mBMPwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=workcocoon-20",
     description:
       "This is the one listing in this guide that names USB connectivity directly in its title, USB Connect, alongside wireless printing, duplex, scan, and copy. It's aimed at photo printing specifically, so if your USB use case involves printing photos from a computer over a wired connection, this is the most clearly documented option here.\n\nThe listing doesn't specify whether the USB port is a host port for flash drives or strictly a USB-B computer connection, so if flash-drive-direct printing matters to you, confirm that distinction in Epson's product manual before buying.\n\nA genuine advantage here is that strong photo printing quality. The tradeoff is not confirmed whether the USB port supports flash drive host printing.",
     specs: [

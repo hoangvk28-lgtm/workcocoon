@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,801 Amazon ratings",
     reviews: "5,801 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41x468UYHLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=workcocoon-20",
     description:
       "Explicitly Zoom certified, meaning it's passed Zoom's own hardware testing program, not just general USB plug-and-play compatibility. 6 microphones genuinely improve voice isolation for Zoom calls with several people around a table.\n\nLarge, well-established review base, strong real-world evidence this holds up across many Zoom meeting environments.\n\n6 mics for strong voice isolation on Zoom calls. Set against that, not certified for Zoom Rooms specifically, the stricter dedicated-hardware tier. Both matter when comparing it to the other picks here.",
     specs: ["6 microphones, Zoom certified", "Echo cancellation, background noise reduction", "Bluetooth and USB connectivity", "Compact design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 68 Amazon ratings",
     reviews: "68 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31oHJerSTwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=workcocoon-20",
     description:
       "Certified for both Zoom and Google Meet specifically, genuinely useful if your team occasionally uses both platforms rather than exclusively Zoom. 4 noise-cancelling mics with wideband audio for clear call quality.\n\nA smaller review base than the top Anker pick, but dual-platform certification is a real advantage if you're not fully committed to Zoom alone.\n\nA genuine advantage here is that 4 dedicated noise-cancelling mics. The tradeoff is smaller review base than the top Anker pick.",
     specs: ["4 noise-cancelling mics, certified for Zoom and Google Meet", "USB-A and USB-C connections", "Wideband audio", "Portable design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 5,905 Amazon ratings",
     reviews: "5,905 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Hwa9J+9XL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00AQUO5RI?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00AQUO5RI?tag=workcocoon-20",
     description:
       "The highest rating of any pick in this guide on a large, well-established review base, genuinely strong long-term evidence for this certified-for-Zoom-and-Google-Meet design. Portable wireless form factor suits moving between a desk and a meeting room.\n\nAn older but proven design, the large review count reflects years of real-world Zoom call usage.\n\nLarge, well-established review base. On the other hand, older design than the 2025-edition alternatives. Neither should be a surprise once you know to look for it.",
     specs: ["Wireless Bluetooth, certified for Zoom and Google Meet", "Portable conference speaker", "Outstanding sound quality per established reputation", "Long track record"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 127 Amazon ratings",
     reviews: "127 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31E89kCEPNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide, works over standard USB/Bluetooth with Zoom without carrying explicit Zoom certification, general compatibility that's fine for most everyday calls but not the same tested guarantee as a certified device.\n\nAI noise cancellation and full-duplex audio genuinely help call clarity, even without formal Zoom certification.\n\nAI noise cancellation and full-duplex audio. That's a real strength, but weigh it against the flip side: no explicit Zoom certification, general compatibility only.",
     specs: ["AI noise cancellation, full-duplex, general USB/Bluetooth compatibility", "13ft pickup radius, 360° omni mic", "20H call time", "Marketed primarily for Teams, works with Zoom generally"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 435 Amazon ratings",
     reviews: "435 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Iv2SVmQfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09WWYKP42?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09WWYKP42?tag=workcocoon-20",
     description:
       "A genuinely simple USB plug-and-play design, works with Zoom over standard USB audio without any specific setup, a reasonable option if you just need reliable basic call audio rather than certified premium features.\n\nSolid rating base for the price, though it lacks the explicit platform certification of the top picks in this guide.\n\nWorth calling out specifically: solid rating base for the price. The catch is no specific Zoom certification.",
     specs: ["USB plug-and-play, 360° voice pickup", "Built-in microphones", "Compact design", "Budget-friendly"],

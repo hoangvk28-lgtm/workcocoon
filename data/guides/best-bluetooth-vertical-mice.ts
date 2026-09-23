@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "Supports Bluetooth alongside a 2.4GHz receiver, with companion software that handles switching between multiple paired devices from a single button press on the mouse body.\n\nThe exact Bluetooth version isn't independently confirmed here beyond what's stated in the current listing, so check the product page for the current spec if that detail matters to your setup. Reconnection after sleep is generally reported as quick by buyers.\n\nFallback to 2.4GHz dongle if Bluetooth isn't ideal for a task. That's a real strength, but weigh it against the flip side: premium price.",
     specs: ["Bluetooth and 2.4GHz dual connectivity", "Multi-device switching via companion software", "Rechargeable battery", "Premium build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A more compact dual-connectivity option offering the same category of multi-device Bluetooth switching in a smaller body, which suits buyers with average or smaller hands.\n\nAs with its larger sibling, verify the specific Bluetooth version on the current listing rather than assuming a fixed spec, since retail listings are updated over time.\n\nRechargeable battery. On the other hand, mid-to-premium price. Both are worth keeping in mind before deciding.",
     specs: ["Bluetooth and 2.4GHz dual connectivity", "Compact body", "Multi-device software", "Rechargeable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "Brings Bluetooth pairing to a much lower price point than the premium picks in this guide, useful if multi-device switching matters to you but you don't need dedicated software for it.\n\nCheck the current listing for how many devices it can store pairings for and confirm the exact Bluetooth version, since this wasn't independently verified beyond the product title.\n\nA genuine advantage here is that rechargeable battery. The tradeoff is that no dedicated multi-device switching software.",
     specs: ["Bluetooth connectivity", "Rechargeable built-in battery", "Budget-to-mid price point", "Ergonomic vertical design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "461 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DVlxxe4WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=workcocoon-20",
     description:
       "A 6-button layout gives more programmable options over Bluetooth than most budget picks, useful for buyers who want productivity shortcuts across paired devices rather than just basic navigation.\n\nIts review base is smaller and the average rating is more moderate than the other picks in this guide, so weigh that against the extra button count and brand's typical software support before choosing this over a better-reviewed alternative.\n\nRechargeable battery. That said, smaller review base and more moderate 4.0-star rating. Neither should be a surprise once you know to look for it.",
     specs: ["Bluetooth connectivity", "6 programmable buttons", "Rechargeable battery", "Premium price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "57 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ttLEqu0hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=workcocoon-20",
     description:
       "Marketed as wireless and explicitly sized for small to medium hands, though its listing title does not specifically confirm Bluetooth versus a 2.4GHz-only dongle, so we're including it here with that caveat rather than assuming Bluetooth support.\n\nIf multi-device Bluetooth pairing is essential to you, verify this detail directly on the current product page before buying, since we can't confirm it from the title alone.\n\nWorth calling out specifically: very strong review rating. The catch is bluetooth support not independently confirmed from the listing.",
     specs: ["Explicit small/medium hand sizing", "Wireless connectivity, Bluetooth not independently confirmed", "57-degree tilt angle", "Budget price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "116 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XVdqDE3aL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9PDRYZK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9PDRYZK?tag=workcocoon-20",
     description:
       "A wireless gaming-oriented vertical mouse with a 2400 DPI sensor and 5D rocker button, listed as wireless without the title specifically stating Bluetooth, so verify this detail on the current listing rather than assuming it here.\n\nIf confirmed Bluetooth, this is a reasonable crossover pick for buyers who want one mouse that pairs across devices for both office use and casual gaming.\n\nBudget-friendly for the feature set. Set against that, bluetooth support not independently confirmed from the listing. Both matter when comparing it to the other picks here.",
     specs: ["2400 DPI sensor", "5D rocker button", "Wireless connectivity, Bluetooth not independently confirmed", "Small review sample"],

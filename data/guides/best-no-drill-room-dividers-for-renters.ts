@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "1,499 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uULXHLL1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=workcocoon-20",
     description:
       "This is a genuinely no-drill, freestanding tension-rod curtain divider, confirmed by its no-drilling listing name rather than an assumed feature. It presses against the ceiling and floor with spring tension, no wall mount or bracket required, which makes it a straightforward renter setup.\n\nThe real risk with any tension pole is over-tightening it to compensate for a slightly-too-short extension or an uneven ceiling; excess force can crack drywall or a textured ceiling and become a security-deposit issue. Tighten only until the pole stops sliding under a light push test, not as far as the mechanism physically allows. At 4.6 stars across 1,499 ratings, it's the best-reviewed pick in this renter-focused list.\n\nWidest height range for various ceiling heights. That's a real strength, but weigh it against the flip side: over-tightening the tension pole can crack ceilings, follow correct technique.",
     specs: ["No-drilling, confirmed in listing", "4-10 ft adjustable height", "28-114 in adjustable width", "Freestanding tension mount"],
@@ -66,7 +66,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "1,499 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51lroJMQPAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQNP28CD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQNP28CD?tag=workcocoon-20",
     description:
       "For renters who'd rather avoid ceiling contact entirely, this freestanding 4-panel folding screen needs no tension pole, no wall mount, and no ceiling pressure of any kind, it simply stands on its own hinged legs. That removes the ceiling-crack risk that comes with any tension-rod product, at the cost of a shorter, less complete room division.\n\nAt 67 inches tall it leaves a real gap on an 8-foot ceiling and provides visual separation rather than a full floor-to-ceiling divide. It folds to a genuinely narrow stack for transport between apartments, a real plus for renters who move often. At 4.6 stars across 1,499 ratings it matches the top tension-rod pick's rating.\n\nWorth calling out specifically: folds compactly for moving between apartments. The catch is 67 in height leaves an 8 ft+ ceiling gap.",
     specs: ["Zero ceiling contact, no tension pole", "67 in height, 64 in width", "4-panel solid wood hinge construction", "Folds for transport"],
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "1,030 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51-x8nHCvhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZGN4B8V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZGN4B8V?tag=workcocoon-20",
     description:
       "The lowest-priced confirmed no-drill option in this guide, using the same spring-tension mechanism as the SUNALLY above at a smaller 28 to 70-inch width range, suited to a narrower opening rather than a full room split. It's a genuinely freestanding, wall-and-ceiling-safe option when set up correctly.\n\nCheck your ceiling height against the pole's 4-10 foot extension range before buying; a non-standard ceiling height near either extreme of that range gives less margin for a secure, low-tension fit. As with any tension pole, tighten gradually and stop once it holds without excessive force. It carries a strong 4.6-star rating across 1,030 ratings.\n\nGenuinely freestanding, no wall or ceiling drilling. Set against that, narrower 70 in max width limits room-split use. Both matter when comparing it to the other picks here.",
     specs: ["No-drilling, confirmed in listing", "4-10 ft adjustable height", "28-70 in adjustable width", "Freestanding tension mount"],
@@ -100,7 +100,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "987 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EGUD6DJML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH4ZR71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH4ZR71?tag=workcocoon-20",
     description:
       "A confirmed no-drill, freestanding tension curtain rod with a heavier-duty spring than the budget alternatives here, which holds tension more reliably over months of installation without needing to be re-tightened, and without needing to be over-tightened to compensate for a loosening mechanism.\n\nA firmer spring still carries the same ceiling-crack risk if the pole is cranked past what's needed to hold it in place; the correct technique is the same regardless of spring strength: tighten until it stops sliding, not until it stops turning. At 4.5 stars across 987 ratings it's a reliable mid-pack pick for renters planning to leave a divider installed long-term.\n\nA genuine advantage here is that confirmed no-drill, genuinely freestanding. The tradeoff is firmer spring can be harder to install solo.",
     specs: ["No-drilling, confirmed in listing", "4-10 ft adjustable height", "28-114 in adjustable width", "Heavier-duty tension spring"],
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "993 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41L4xWDWLdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH7RGSC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH7RGSC?tag=workcocoon-20",
     description:
       "A confirmed no-drill tension curtain divider in a white finish, sharing the same 4 to 10-foot height range as the other SUNALLY picks here but with a narrower 28 to 70-inch width, better suited to standard-width apartment rooms than a full wide-room split.\n\nThe 4-10 foot range comfortably covers most standard 8-foot apartment ceilings with margin to spare, which reduces the temptation to over-tighten the pole to force a fit. At 4.5 stars across 993 ratings it's a solidly reviewed option in white for renters who want a lighter color than the more common black finish.\n\nWhite finish option, less common in this category. That's a real strength, but weigh it against the flip side: 70 in max width limits it to narrower rooms.",
     specs: ["No-drilling, confirmed in listing", "4-10 ft adjustable height", "28-70 in adjustable width", "White finish"],
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "271 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oONJmhtcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH3TC367?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH3TC367?tag=workcocoon-20",
     description:
       "This confirmed no-drill tension curtain extends up to 171 inches wide, close to 14 feet, for renters splitting a genuinely large studio or open-plan apartment room. The same 4 to 10-foot height range and freestanding tension mechanism apply, no drilling into any wall, floor, or ceiling.\n\nA wider curtain span means more total fabric weight hanging from the rod, worth checking that the rod's stated duty rating comfortably covers a heavier or blackout-style curtain if you plan to add one, since curtain weight limits on tension poles are commonly only 4 to 10 lbs. At 4.5 stars across a smaller 271-rating sample, read the average with some caution given the sample size.\n\nWorth calling out specifically: genuinely freestanding, no wall or ceiling drilling. The catch is smaller 271-rating sample.",
     specs: ["No-drilling, confirmed in listing", "4-10 ft adjustable height", "28-171 in adjustable width", "Freestanding tension mount"],
@@ -151,7 +151,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "1,593 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=workcocoon-20",
     description:
       "A genuinely freestanding single-panel fabric screen with no tension pole and no ceiling contact at all, standing on its own base instead. It's a good pick for renters who specifically want to avoid tension-pole ceiling risk entirely, even a correctly tightened one.\n\nAt 69.5 inches it leaves a real gap below a standard 8-foot ceiling, so treat it as a visual separator rather than a full-height divide. Folding screens like this also need a zig-zag panel arrangement rather than a flat straight line to stay upright; set up straight, a single flat panel is more prone to tipping. At 4.3 stars across the largest sample here, 1,593 ratings, it has solid buyer feedback.\n\nLargest rating base in this guide, 1,593 ratings. Set against that, 69.5 in height leaves an 8 ft+ ceiling gap. Both matter when comparing it to the other picks here.",
     specs: ["Zero ceiling contact, freestanding base", "71 in width, 69.5 in height", "Single-panel fabric design", "No drilling required"],
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "555 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=workcocoon-20",
     description:
       "A freestanding folding screen with lockable wheels attached, no ceiling contact and no drilling, that folds down for transport between apartments while also rolling into position without needing to be picked up and carried each time. This combination of foldability and mobility is useful specifically for renters who move often or rearrange frequently within a lease term.\n\nAt 6 feet tall it comes closer to an 8-foot ceiling than most freestanding folding screens in this category, though a real gap still remains. Fold it down fully and use the casters to roll it, rather than the top edge, when transporting between locations. At 4.2 stars across 555 ratings.\n\nA genuine advantage here is that zero ceiling contact risk. The tradeoff is 4.2 stars, lower rating than the tension-rod picks here.",
     specs: ["Zero ceiling contact, freestanding with wheels", "6 ft (72 in) height, 88 in width", "4-panel with lockable wheels", "Folds for transport, rolls for repositioning"],

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "11,239 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31jbM5vVc0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CH239CN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CH239CN5?tag=workcocoon-20",
     description:
       "This Best Choice Products rocker sits directly on the floor and pivots a full 360 degrees, letting you swivel toward a TV or turn to talk to someone in the room without lifting the chair. It folds flat for storage between sessions, and the cover is machine washable, a rare feature among floor rockers.\n\nWith 11,239 ratings at 4.4 stars, it's the best-selling rocker in this guide by a wide margin. Rated for 300 lbs and available with next-day delivery on many listings, it's the pick for most buyers who want a proven, easy-to-store swivel rocker without paying for extras like speakers.\n\nFull 360° swivel. That's a real strength, but weigh it against the flip side: no built-in speakers or electronics.",
     specs: [
@@ -73,7 +73,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "844 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WdK6FQUKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0899BXLXD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0899BXLXD?tag=workcocoon-20",
     description:
       "The X Rocker Galaxy adds built-in low-latency 2.0 Bluetooth speakers directly into the headrest, connecting wirelessly to a PS5, Xbox, or Switch so the rocking motion doubles as an immersive audio seat. The vegan leather shell folds flat for storage when not in use, the same way the Best Choice Products model does.\n\nAt 4.6 stars, it holds the highest rating in this guide despite a smaller review base of 844 ratings. Rated for 300 lbs and suited to both teens and adults, it's the pick for anyone who specifically wants audio built into the rocking seat itself.\n\nWorth calling out specifically: built-in Bluetooth 2.0 speakers. The catch is fewer ratings (844) than the Best Choice Products floor rocker.",
     specs: [
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "2,257 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31b9qXUr9rL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089B17Z21?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089B17Z21?tag=workcocoon-20",
     description:
       "The Eclipse is X Rocker's step-up rocker design, pairing the same 2.0 headrest speakers as the Galaxy with both Bluetooth and a wired 3.5mm option, useful if your console or PC doesn't support wireless audio reliably. Breathable mesh replaces the Galaxy's vegan leather, and it folds flat the same way for storage.\n\nWith 2,257 ratings at 4.4 stars, it has a more established review base than the Galaxy while keeping the same 300 lb capacity. For buyers who want a wired audio backup option alongside Bluetooth, the Eclipse is the better-proven choice over the Galaxy.\n\nBoth Bluetooth and wired audio options. Set against that, slightly higher price than the Galaxy. Both matter when comparing it to the other picks here.",
     specs: [
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars",
     reviews: "8,705 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416YqWwMTFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYF75L59?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GYF75L59?tag=workcocoon-20",
     description:
       "Where the Best Choice Products and X Rocker models fold for storage, the GTPLAYER is a one-piece rocker built around an adjustable angle limiter that controls exactly how far the seat rocks back, useful if you want to dial in a gentler motion. At 8.6 lbs it's the lightest chair in this guide by a wide margin. With 8,705 ratings, it has the largest review base here after the Best Choice Products floor rocker. Its 200 lb capacity is the lowest in this guide, and the low priced competitively makes it an easy secondary or budget rocker pick. A genuine advantage here is that adjustable rocking angle limiter. The tradeoff is 200 lb capacity, lowest in this guide.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "8,730 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31svghcZskL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B001T4XU2G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B001T4XU2G?tag=workcocoon-20",
     description:
       "The Crew Furniture Classic is a one-piece floor rocker sized for kids and teens, with the safest frame design in this guide since there are no folding hinges, pedestal joints, or moving base parts for small hands to catch on. It rocks gently with the body rather than pivoting on a mechanism, and requires no assembly out of the box. With 8,730 ratings at 4.4 stars, it's the highest-rated rocker in this guide. At a 200 lb capacity and a competitive price, it's built specifically as an entry-level rocking seat for younger gamers rather than a full-size adult chair. No assembly needed. That's a real strength, but weigh it against the flip side: 200 lb capacity limits it to lighter users.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "3,914 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51fgMLstK5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WCTSX7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WCTSX7G?tag=workcocoon-20",
     description:
       "The VITESSE takes rocking in a different direction than the floor rockers above: instead of a fixed rock angle, it reclines from 90 to 180 degrees like a sofa, letting you settle into any position rather than just tipping back and forth. A steel and hardwood frame supports the design, and side storage keeps a controller or remote within reach.\n\nWaterproof PU leather wipes clean easily, and non-marking feet keep it stationary once you've picked an angle. With 3,914 ratings at 4.4 stars and a 10-minute assembly, it's the pick for buyers who want reclining flexibility rather than a fixed rocking motion.\n\nWorth calling out specifically: full 90-180° reclining range. The catch is no true rocking or swivel motion, recline only.",
     specs: [
@@ -193,7 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars",
     reviews: "931 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VosJN1ELL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLG8H23J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLG8H23J?tag=workcocoon-20",
     description:
       "Unlike the floor-level rockers in this guide, the RESPAWN 800 sits on a raised pedestal base that swivels a full 360 degrees and rocks back to 117 degrees, closer to a traditional desk chair height. Flip-up armrests make it easy to get in and out of, and breathable fabric with lumbar support carries over from RESPAWN's larger chairs.\n\nWith a heavy-duty metal frame and no wheels involved, it's built for console setups where you want pedestal-height seating rather than sitting on the floor. At 931 ratings and 4.1 stars, it's less reviewed than the floor rockers here but offers a genuinely different rocking experience.\n\nFull 360° swivel plus 117° rock. Set against that, fewer ratings (931) than floor rocker alternatives. Both matter when comparing it to the other picks here.",
     specs: [
@@ -217,7 +217,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "4,007 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XTooEFbuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9H3PDSY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9H3PDSY?tag=workcocoon-20",
     description:
       "The RESPAWN 900 is the most premium recliner-rocker hybrid in this guide, combining independent recline to 135 degrees, a separate pull-out footrest, and a 360 degree swivel base in one chair. A built-in cup holder and side pouch round out the console-focused design, and it's backed by 4,007 ratings at 4.4 stars. Backed by RESPAWN's 5-year warranty, it's the chair to pick if you want the full range of rocking, swiveling, and reclining motion in a single premium seat rather than choosing between a floor rocker's simplicity and a recliner's comfort. A genuine advantage here is that pull-out footrest included. The tradeoff is most expensive chair in this guide.",
     specs: [

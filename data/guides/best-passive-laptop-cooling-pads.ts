@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41-P9I-xIRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C7BKZ883?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C7BKZ883?tag=workcocoon-20",
     description: "This is a genuinely fanless metal riser, no fan mentioned anywhere in its feature list, that elevates a laptop while its top surface uses multiple ventilation holes to promote passive airflow underneath. Sturdy metal construction supports up to 17.6 lbs.\n\nIt earns the top spot in this comparison for one main reason. Completely silent, genuinely no fan.\n\nWorth knowing before you decide: Foldable for travel. On the other side, Compatible up to 15.6 inches, not larger laptops. That's the main tradeoff to weigh against everything above.",
     specs: ["Metal riser, no fan","Supports up to 17.6 lbs (8kg)","Foldable design","Ventilated top surface"],
     pros: ["Completely silent, genuinely no fan","Foldable for travel","High weight capacity for a passive stand","Anti-skid pads protect the laptop"],

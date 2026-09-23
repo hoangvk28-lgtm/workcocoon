@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 is a cartridge-free ink tank printer, which means there's no subscription model to opt into or out of in the first place; you refill the tanks yourself with bottled ink whenever they run low. This is the most direct way to sidestep the entire subscription question rather than relying on a manufacturer's current marketing stance.\n\nIts scan and copy functions cover everyday home needs, and because there's no cartridge to lock via firmware, buyers avoid the ink-lock uncertainty that can still affect some cartridge-based printers even without an active subscription running.\n\nNo cartridge to firmware-lock. On the other hand, upfront cost higher than the cheapest cartridge inkjets. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31Yt+pSHuGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=workcocoon-20",
     description:
       "Identical in mechanism to the black ET-2800, this white variant gives buyers a color option without any change to the subscription-free ink tank system underneath. Since there's no cartridge involved at all, the subscription question simply doesn't apply to this model.\n\nAs with the black version, it's a straightforward, budget-friendly entry point into ink-tank printing, best suited to light-to-moderate everyday printing rather than high-volume office use.\n\nNo cartridge to firmware-lock. That's a real strength, but weigh it against the flip side: upfront cost higher than the cheapest cartridge inkjets.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41NRmd9wP9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B1J5PYCF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B1J5PYCF?tag=workcocoon-20",
     description:
       "The ET-3850 is a higher-end ink tank model with an ADF and Ethernet port, aimed at a home office that wants subscription-free printing without giving up the productivity features common on cartridge-and-subscription office printers. Like the rest of the EcoTank lineup, there's no cartridge and no subscription tier to navigate.\n\nIts higher price reflects the added scanning and networking capability, so it's worth it mainly for a household or small office that scans multi-page documents regularly and wants a wired connection option alongside wireless.\n\nWorth calling out specifically: aDF for multi-page scanning. The catch is highest price in this list by a wide margin.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The ET-2400 is positioned for everyday home printing at a slightly lower price than the ET-2800, while keeping the same cartridge-free tank system that makes the subscription question moot from the start. It covers print, scan, and copy for a household that prints regularly but doesn't need networking extras.\n\nBecause refills are done with bottled ink rather than cartridges, there's no recurring charge to cancel or manage, just a periodic, self-directed top-off whenever a tank runs low.\n\nNo cartridge to firmware-lock. Set against that, basic feature set, no ADF. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 adds an ADF, Ethernet, and fax on top of the same subscription-free ink tank foundation, making it a well-rounded pick for a home office that wants full document features without a recurring ink charge attached to any of them. Fax remains a legacy feature for most 2026 households, but it's there if you need it.\n\nAs with the rest of the EcoTank lineup, there's genuinely no subscription tier to navigate, ink refills are entirely self-directed and pay-as-you-go by the bottle.\n\nA genuine advantage here is that aDF and Ethernet included. The tradeoff is fax is unused by most 2026 home offices.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "This Brother laser printer does include a Refresh Subscription trial in its listing, but Brother's subscription is opt-in rather than automatically active, and toner cartridges purchased separately work without needing to enroll. Laser toner also lasts far longer between replacements than inkjet cartridges, which naturally reduces how often the subscription question comes up at all.\n\nIf you buy this model, simply skip enrolling in the trial when prompted during setup and purchase standalone toner cartridges as needed instead. That keeps you subscription-free without giving up the laser engine's lower long-run cost per page for text documents.\n\nToner lasts far longer than inkjet cartridges. On the other hand, listing prominently features a subscription trial offer. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "The HL-L3220CDW's listing doesn't push a bundled ink or toner subscription the way some inkjet listings do, and as a color laser printer its toner cartridges are replaced individually as needed rather than through any recurring plan. That makes it a straightforward subscription-free option for buyers who specifically want color laser output.\n\nAs with any cartridge-based printer, it's worth checking Brother's current firmware policy on third-party toner before buying if using non-original cartridges is part of your plan to keep costs down.\n\nToner lasts longer than inkjet cartridges. That's a real strength, but weigh it against the flip side: highest price in this list.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "Brother's INKvestment cartridges are sized larger than standard inkjet cartridges specifically to reduce how often you buy replacements, and this listing doesn't bundle a recurring subscription the way some competing inkjets do. It remains a cartridge-based printer, so it's not as fully subscription-proof as an ink tank model, but it avoids the built-in subscription prompt entirely.\n\nIts 2.7-inch color touchscreen and duplex printing round out a genuinely capable inkjet for a buyer who wants more features than the ink tank picks offer but still wants to avoid a subscription enrollment step.\n\nWorth calling out specifically: larger cartridges reduce replacement frequency. The catch is still cartridge-based, not as inherently subscription-proof as ink tank.",
     specs: [

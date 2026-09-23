@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "Rated at 35 PPM, the MF753Cdw II is the fastest sustained-output pick in this list, but that figure comes from a simplified test document, expect real-world speed on graphics-heavy reports or photo-included pages to run noticeably slower. An automatic document feeder handles multi-page scanning and copying without manual repositioning. It's a significant investment above the other picks here, justified for a home office that regularly prints high page counts rather than occasional documents. The 3-year limited warranty reflects the printer's positioning as a genuine workhorse rather than a light-duty budget model. Full multi-function feature set with ADF. That's a real strength, but weigh it against the flip side: most expensive pick in this list by a wide margin.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "At a rated 19 PPM, the HL-L3220CDW offers meaningfully faster sustained output than any inkjet in this list at roughly half the price of the fastest laser pick above. As with any rated PPM figure, treat it as a best-case number for simple text documents rather than an expectation for image-heavy files.\n\nAutomatic duplex printing and a 250-sheet paper tray reduce interruptions during a print run, letting you queue a larger job without reloading paper partway through. This is a strong middle-ground pick for a home office that needs faster-than-inkjet speed without the MF753Cdw II's price.\n\nWorth calling out specifically: large paper tray reduces mid-job reloading. The catch is no scan or copy functions.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "Most home office printing happens in short bursts, one or two pages at a time between other tasks, which makes first-page-out time, how quickly the first page appears including any warm-up, more relevant than sustained PPM for typical daily use. As a monochrome laser, the DCP-L2640DW's fuser and drum reach printing readiness quickly for that kind of intermittent job.\n\nAutomatic duplex, scan, and copy round out the feature set, and the compact body keeps it desk-friendly despite the added multi-function hardware over a print-only laser.\n\nFull copy, scan, and duplex feature set. Set against that, no color printing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "The INKvestment 5010's automatic 2-sided copy and scan speeds up multi-page document handling compared to single-sided-only inkjets, cutting the number of separate passes needed for a larger job. A 2.7-inch color touchscreen makes queuing and monitoring a print run more direct than a basic button panel.\n\nAs with any inkjet, expect the print head's multiple passes to make sustained speed on longer jobs slower than a comparable laser printer, this is a better fit for a home office prioritizing color print quality alongside reasonable speed than for the fastest possible sustained output.\n\nA genuine advantage here is that color touchscreen for direct job monitoring. The tradeoff is slower sustained speed than any laser pick in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "An automatic document feeder lets the ET-4800 move through multi-page scan and copy jobs without manual repositioning, a real speed advantage over flatbed-only inkjets for document-heavy tasks. Ethernet connectivity adds a more consistent wired option than relying on wireless for a large sustained job.\n\nAs an ink-tank printer it shares the general per-page speed profile of a cartridge inkjet rather than a laser engine, but it avoids the mid-job slowdown of stopping to swap a depleted cartridge during a longer print run.\n\nEthernet option for consistent wired speed. That's a real strength, but weigh it against the flip side: slower sustained per-page speed than any laser pick in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=workcocoon-20",
     description:
       "Automatic duplex printing on the MFC-J1360DW cuts the time a two-sided job takes compared to a manual flip-and-reload process on a non-duplex printer, a genuine speed advantage for a mid-priced inkjet. The 1.8-inch color display keeps job status visible without adding steps.\n\nMost quality modes on inkjet printers trade speed for output sharpness, switching from a fast draft mode to a best-quality mode can take considerably longer per page, worth testing both settings if speed matters for routine printing versus final copies.\n\nWorth calling out specifically: multiple quality modes let you trade speed for sharpness as needed. The catch is best-quality mode is considerably slower than draft mode.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "For the common home office pattern of a single page printed here and there rather than long runs, the PIXMA TR4720's quick readiness from idle matters more than a high sustained PPM figure it doesn't claim. Its automatic document feeder speeds up scanning multi-page documents without repositioning each one manually. It's one of the most affordable picks here, a reasonable trade-off for a home office where individual jobs are small and speed on a single page matters more than throughput on a large batch. Automatic document feeder for faster multi-page scanning. Set against that, not built for sustained high-volume printing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 doesn't advertise a headline speed figure, and for a home office printing occasional documents rather than sustained runs, that's often fine, its readiness from idle is quick enough for most single-job printing needs. AI-capable printing features are optional rather than required. at a budget-friendly price it's the most affordable pick in this list, a reasonable choice for a home office where speed on individual small jobs matters more than sustained throughput, save the pricier laser picks for genuinely high-volume needs. A genuine advantage here is that lowest price in this list. The tradeoff is not built for high-volume sustained printing.",
     specs: [

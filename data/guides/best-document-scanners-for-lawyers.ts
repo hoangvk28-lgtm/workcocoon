@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "A genuine 50-sheet ADF with duplex scanning for contract and pleading batches, though legal-size (8.5x14) ADF path support isn't explicitly confirmed for the full batch feeder here, verify with Epson before assuming standard-speed batch scanning of legal-size documents.\n\nRemember: this scanner does not redact sensitive information, and any 'Bates numbering' capability for your workflow comes from separate legal document management software, not this hardware.\n\nThe standout detail is that tWAIN driver compatible with legal DMS software (verify ISIS separately). Balancing that out, legal-size batch ADF path speed not explicitly confirmed.",
     specs: ["50-sheet ADF, duplex", "TWAIN driver", "Auto crop, blank-page removal", "Legal-size ADF support not explicitly confirmed"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 991 Amazon ratings",
     reviews: "991 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=workcocoon-20",
     description:
       "A 100-sheet feeder at up to 45 ppm, well-suited to a busier firm's document intake volume. Wired USB avoids wireless dropout risk during large litigation-support batch sessions.\n\nSame critical caveats as every pick here: no built-in redaction, and Bates numbering (if your DMS supports it) is a software feature applied after scanning, not something this hardware does natively.\n\nWired USB avoids wireless reliability risk. That's a real strength, but weigh it against the flip side: legal-size ADF path speed not explicitly confirmed.",
     specs: ["100-sheet feeder, up to 45 ppm", "Wired USB, ScanSnap Home software", "One-touch scan-drag-drop", "Auto de-skew, blank-page removal"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,004 Amazon ratings",
     reviews: "1,004 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3ZT5WH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3ZT5WH?tag=workcocoon-20",
     description:
       "Wireless connectivity built in, useful for a firm layout where running USB cables to every attorney's desk isn't practical. If scanning privileged documents over Wi-Fi, verify an actual encryption standard with the manufacturer rather than relying on generic 'secure scanning' language.\n\nSearchable PDF OCR is included, useful for e-discovery workflows, though PDF/A archival compliance for retention rules isn't confirmed.\n\nSearchable PDF OCR aids e-discovery workflows. On the other hand, no verified encryption standard for wireless transmission of privileged documents. Both are worth keeping in mind before deciding.",
     specs: ["Wireless + USB duplex desktop scanner", "TWAIN driver, searchable PDF OCR", "Auto crop, blank-page removal", "Legal-size ADF speed not confirmed"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "A genuinely compact ADF-hopper scanner suited to a smaller firm or solo attorney's desk, with standalone scan-to-cloud filing. As with any wireless scanning of privileged documents, verify actual encryption standards rather than assuming 'secure' marketing language covers it.\n\nSame redaction and Bates numbering caveats apply: neither is a hardware feature of this scanner.\n\nA genuine advantage here is that standalone cloud scanning for e-discovery filing. The tradeoff is that no verified encryption standard for privileged document transmission.",
     specs: ["Compact ADF hopper, 30ppm duplex", "Standalone scan-to-cloud", "Auto de-skew, color optimization", "Handles thick items and cards"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 37 Amazon ratings",
     reviews: "37 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=workcocoon-20",
     description:
       "Direct cloud service scanning without needing a dedicated network folder, a real setup-simplicity win for a smaller practice managing its own document workflow. Duplex scanning and easy setup round out an office-focused design.\n\nSame critical legal caveats apply: no built-in redaction, no confirmed encryption standard for privileged document transmission, verify both separately for your specific compliance needs.\n\nDuplex scanning. That said, smallest review count in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["Direct cloud service scanning", "Duplex, easy setup", "Office-class design", "Newer listing"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 442 Amazon ratings",
     reviews: "442 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418QNsyyrDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=workcocoon-20",
     description:
       "A genuine office-class Canon scanner suited to a law firm's document volume, with bundled OCR for basic searchable-PDF creation useful in discovery document review. A reasonable alternative if you prefer Canon's line specifically.\n\nAs with every pick here, redaction, Bates numbering, and chain-of-custody metadata are software features you'll need to source separately, not scanner hardware capabilities.\n\nWorth calling out specifically: bundled OCR for searchable PDFs useful in discovery. The catch is smaller review count than the Epson/ScanSnap picks.",
     specs: ["Office-class duplex ADF scanner", "Bundled OCR software", "Canon imageFORMULA line", "Business/office-focused design"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "Genuinely portable with a real 20-sheet ADF hopper, useful for an attorney who needs to digitize documents at a client site or off-site deposition location. Explicit 500 scans/day rating helps plan realistic document-review session volume.\n\nSame legal-specific caveats apply, no redaction, and no chain-of-custody metadata confirmed for this consumer-tier device.\n\nExplicit daily volume disclosure for planning. Set against that, lower capacity than the desktop high-volume picks. Both matter when comparing it to the other picks here.",
     specs: ["20-sheet ADF hopper, duplex", "Explicit 500 scans/day rating", "1.7 lb, portable", "USB powered"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 350 Amazon ratings",
     reviews: "350 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31j5kwbaiFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BWNTNGN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BWNTNGN5?tag=workcocoon-20",
     description:
       "Explicit plug-and-scan capability with no software installation required, genuinely useful for a legal office without dedicated IT support managing driver installs across multiple attorney and paralegal workstations. Auto document feeder and duplex scanning round out the design.\n\nSame legal-compliance caveats apply as every pick in this guide, verify redaction and encryption needs through separate specialized software.\n\nThe standout detail is that auto document feeder with duplex. Balancing that out, smaller review count than the Epson/ScanSnap picks.",
     specs: ["Plug-and-scan, no software installation required", "Auto document feeder, duplex", "Office-class design", "No IT setup burden"],

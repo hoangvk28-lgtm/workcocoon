@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41PGP1Co7uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1JNYJJM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1JNYJJM?tag=workcocoon-20",
     description:
       "An individual-seater pod that ships with furniture included, at the same H92in W43in D40in exterior footprint as similar single-person listings in this pool. Amazon's listing does not include a star rating or review count.\n\nFurniture-included is a genuine convenience for a single-occupant setup, but the listing gives no interior clearance figures once acoustic wall panels are accounted for, and no formal STC or NRC data backs the acoustic claim. Confirm floor loading and doorway clearance before delivery given the size of the crate this ships in.\n\nThe standout detail is that exact exterior dimensions disclosed (H92 x W43 x D40in). Balancing that out, no star rating or review count available from Amazon.",
     specs: ["Individual seater personal office", "Exterior dimensions H92in W43in D40in", "Ships with furniture included", "Generic/private-label manufacturer"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31FLR-RdCvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DRNJWS8Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DRNJWS8Q?tag=workcocoon-20",
     description:
       "The largest and most expensive pod in this research pool, sized for 4 to 6 people at H92in W91in D70in exterior dimensions and shipping with a desk included. Amazon's listing does not include a star rating or review count, so group-size claims and build quality are unverified beyond the manufacturer's own description.\n\nA structure this large means real freight delivery logistics, multi-person assembly, and floor-loading verification are not optional, budget for professional installation and confirm ceiling height and doorway clearance well before delivery. Ventilation for a 4-6 person enclosed space over a multi-hour meeting is not addressed in the listing, worth asking the seller about directly.\n\nShips with a desk included. That's a real strength, but weigh it against the flip side: no star rating or review count available from Amazon.",
     specs: ["4 to 6 person capacity", "Exterior dimensions H92in W91in D70in", "Ships with a desk", "Largest and highest-priced pod in this pool"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41yCgSXvpOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW1VSGHG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW1VSGHG?tag=workcocoon-20",
     description:
       "This listing's full title stacks several different marketing names for the same product (studio pod, acoustic enclosure, isolation booth, soundproof chamber, acoustic shelter), a keyword-stuffed pattern common among lower-quality Amazon listings, so treat the branding language itself with some skepticism rather than as a meaningful differentiator. Amazon's listing does not include a star rating or review count.\n\nBeyond the stacked naming, the listing gives no occupancy count, no exterior dimensions, and no acoustic test data, which makes it harder to evaluate against the more detailed listings in this pool. Ask the seller directly for dimensions, ventilation specs, and any sound-isolation test data before ordering.\n\nOne of the available options in a thin niche. On the other hand, keyword-stuffed listing title is a pattern associated with lower-quality listings. Both are worth keeping in mind before deciding.",
     specs: ["Acoustic enclosure / noise isolation framing", "Listing title stacks multiple keyword-style product names", "Generic/private-label manufacturer", "No occupancy count specified"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/411xViXeChL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4412Y7J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4412Y7J?tag=workcocoon-20",
     description:
       "The largest stated occupancy in this research pool at 5 to 7 people, marketed as a mobile focus room for group meetings. Amazon's listing does not include a star rating or review count, and unlike some other large pods in this pool it does not disclose exterior dimensions in the title.\n\nA structure sized for up to 7 occupants raises real ventilation and airflow questions for multi-hour use that the listing does not address, and \"mobile\" in the name should not be assumed to mean lightweight or easy to relocate without professional help given the likely weight of a structure this size. Confirm freight delivery, assembly crew requirements, and floor loading directly with the seller.\n\nA genuine advantage here is that positioned for group meeting and focus-room use cases. The tradeoff is that no star rating or review count available from Amazon.",
     specs: ["5 to 7 person capacity", "Largest stated occupancy in this pool", "Marketed as a \"Mobile Focus Room\"", "No exterior dimensions disclosed in the title"],

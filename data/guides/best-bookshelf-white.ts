@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,049",
     imageUrl: "https://m.media-amazon.com/images/I/5145tO05s8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKRJS67K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKRJS67K?tag=workcocoon-20",
     description:
       "The TUTOTAK is the highest-rated pick in this entire list, and its party trick is a genuinely clever DIY stackable design that lets it split into 2 low end tables or combine into one tall 6-tier bookcase, whichever your space needs right now. At a narrow 14.5 inches wide and 10.7 inches deep, it slots into corners most full-size bookshelves can't touch.\n\nFour adjustable feet and an anti-tilt wall mount kit round out a build that stays stable despite its slim profile, making it an easy top pick for renters or anyone who might rearrange furniture down the line.\n\nA genuine advantage here is that unique stackable design splits into 2 end tables or one tall bookcase. The tradeoff is narrower shelves hold fewer books per tier than wider units.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,757",
     imageUrl: "https://m.media-amazon.com/images/I/41Jl8corSNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9XZZH1W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9XZZH1W?tag=workcocoon-20",
     description:
       "The FOTOSOK gives you a full-size, 6-tier bookcase in the slimmest depth of any full-size pick in this list at just 9.3 inches, so it hugs the wall without eating into floor space. A built-in anti-collapse stability device backs up the open shelving, and each tier is rated to hold 22 lbs.\n\nAt 70.9 inches tall and 23.6 inches wide, it has room for a serious book collection while still fitting cleanly against a wall in a living room, bedroom, or office.\n\nAnti-collapse stability device built in. On the other hand, no enclosed storage. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,846",
     imageUrl: "https://m.media-amazon.com/images/I/41czXLWqp3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D3T2R4L4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D3T2R4L4?tag=workcocoon-20",
     description:
       "The SUNMORY takes a tree-shaped silhouette that's arguably the most visually interesting design in this list, staggering 6 tiers around 2 joinable open storage cabinets at the base. It's built from MDF in a vintage white tone that reads warmer than a stark white finish, all in a tiny 14.6\" x 7.9\" footprint.\n\nSUNMORY backs it with a 2-year warranty plus lifetime support, longer coverage than most competitors offer, and includes an anti-tip kit for safe wall anchoring.\n\n2-year warranty with lifetime support. That's a real strength, but weigh it against the flip side: shorter than the tallest picks at 47.4\".",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,546",
     imageUrl: "https://m.media-amazon.com/images/I/31zaJI1xQdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNJ2SCR9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNJ2SCR9?tag=workcocoon-20",
     description:
       "The VASAGLE CUSTOS carries the highest total capacity among open-shelving white bookcases in this list at 154 lbs, spread across 4 fully adjustable shelves that can be set to 3 different height positions. A footless H-shaped frame gives it a modern look that skips the usual four-leg base.\n\nA slot-in back panel adds rigidity without extra tools, and at 22 lbs per shelf it comfortably handles a mixed load of books, binders, and decor in a Cloud White finish.\n\nWorth calling out specifically: 4 fully adjustable shelves with 3 height positions. The catch is lower star rating than most other picks in this list at 4.3.",
     specs: [
@@ -176,7 +176,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "766",
     imageUrl: "https://m.media-amazon.com/images/I/51v0HhipEKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C5RK4NBT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5RK4NBT?tag=workcocoon-20",
     description:
       "This FOTOSOK pairs 3 open display shelves with 3 smooth-gliding drawers finished with aluminum handles, giving you roughly 100 gallons of combined storage for both displayed and hidden items. An anti-collapse iron plate reinforces the frame, addressing a common weak point on tall bookshelves. At 70.9 inches tall and 23.6 inches wide, it's the best-looking white pick in this list for anyone who wants concealed storage without giving up open shelf display space. Anti-collapse iron plate reinforcement. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -208,7 +208,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "536",
     imageUrl: "https://m.media-amazon.com/images/I/51-W1x24xYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRPKSG14?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRPKSG14?tag=workcocoon-20",
     description:
       "The OSCHF carries the highest total weight capacity in this entire list at 400 lbs, or 80 lbs per shelf, thanks to P2 MDF shelving paired with genuine solid beech wood legs rather than the metal or composite legs found on most competitors. Three side panels on each shelf keep smaller items from sliding off the edges.\n\nRounded corners and a warm white finish give it the most premium, minimalist look among white bookshelves here, and at 31.5 inches wide it holds a serious book collection without towering over the room.\n\nA genuine advantage here is that genuine solid beech wood legs, not composite or metal. The tradeoff is shorter than the tallest picks at 53.94\".",
     specs: [
@@ -240,7 +240,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "499",
     imageUrl: "https://m.media-amazon.com/images/I/41aYIIYxIDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4HK9PTC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4HK9PTC?tag=workcocoon-20",
     description:
       "The Bevfint is both the widest pick in this list at 33 inches and the highest per-shelf capacity among 5-tier white bookshelves at 60 lbs per shelf, a combination that makes it well suited to encyclopedias, binders, and other oversized items most bookshelves can't accommodate. FSC-certified MDF construction backs a sustainable sourcing claim most competitors skip. An anti-tipping device is included for wall anchoring, and 11.8 inches of clearance on each shelf gives even tall hardcovers room to stand upright without leaning. Widest pick in this list at 33\". On the other hand, most expensive pick in this list. Neither should be a surprise once you know to look for it.",
     specs: [

@@ -40,7 +40,7 @@ export const products: ClassHeadphone[] = [
     price: "~$40-60",
     priceRange: "~$40--60",
     imageUrl: `${BASE}/01-best-overall-sony-wh-ch520-wireless.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BS1PRC4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BS1PRC4L?tag=workcocoon-20",
     whyItWins: "The WH-CH520 hits the right combination for most students: lightweight on-ear design (lighter than most wireless headphones), 50-hour battery (charge once a week, not once a day), and a built-in microphone that handles Zoom participation adequately. The USB-C quick charge gives you 90 minutes of battery from a 3-minute charge -- the 'I forgot to charge it' emergency fix.",
     bodyParagraph: "For listening to lectures, the sound is clear and well-balanced without the exaggerated bass of many budget wireless headphones. Professors' voices cut through clearly without manual EQ adjustments. At 147g, significantly lighter than over-ear alternatives -- for 2--3 hour classes, on-ear pressure is less fatiguing.",
     specs: [
@@ -65,7 +65,7 @@ export const products: ClassHeadphone[] = [
     price: "~$25-35",
     priceRange: "~$25--35",
     imageUrl: `${BASE}/02-best-wired-best-mic-logitech-h390-usb-headset.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B000UXZQ42?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000UXZQ42?tag=workcocoon-20",
     whyItWins: "For small seminars, group discussions, language classes, or any class where you are frequently unmuted and speaking -- the dedicated noise-canceling boom mic on the H390 produces noticeably clearer voice than any built-in headphone mic in this price range. Proximity to the mouth is the reason: the boom positions 5--7cm from your lips, capturing voice directly rather than from 15--20cm away.",
     bodyParagraph: "The USB connection works on virtually all modern laptops and Chromebooks. No Bluetooth pairing, no battery -- plug in and use immediately. In-line controls (volume, mute) sit on the cable for quick access without reaching for your keyboard during class.",
     specs: [
@@ -90,7 +90,7 @@ export const products: ClassHeadphone[] = [
     price: "~$35-50",
     priceRange: "~$35--50",
     imageUrl: `${BASE}/03-best-anc-soundcore-anker-q20i.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C3HCD34R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C3HCD34R?tag=workcocoon-20",
     whyItWins: "Active Noise Cancellation (ANC) is not just about music immersion -- for online classes in noisy environments, ANC blocks background before it reaches your ears: roommate on the phone, hallway noise, HVAC hum. The Q20i delivers hybrid ANC (feedforward + feedback mics) at a price where most competitors offer only basic noise isolation.",
     bodyParagraph: "The 40-hour ANC battery is generous -- most ANC headphones sacrifice battery for noise cancellation. Transparency mode lets you hear someone knock on your door or a professor make an announcement without removing the headphones.",
     specs: [
@@ -115,7 +115,7 @@ export const products: ClassHeadphone[] = [
     price: "~$25-35",
     priceRange: "~$25--35",
     imageUrl: `${BASE}/04-best-budget-under-35-jlab-studio-wireless.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07R4BXTPS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07R4BXTPS?tag=workcocoon-20",
     whyItWins: "Under $35, most wireless headphone options involve either poor sound or uncomfortable build. The JLab Studio Wireless avoids both. It folds flat for bag storage, works 30+ hours on a charge, and handles Zoom participation adequately with its built-in mic.",
     bodyParagraph: "At this price point, expectations should be calibrated accordingly: no ANC, basic mic, basic sound. But for students who mostly listen to recorded lectures and attend occasional online sessions, this covers the requirements at the lowest cost.",
     specs: [
@@ -139,7 +139,7 @@ export const products: ClassHeadphone[] = [
     price: "~$30-50",
     priceRange: "~$30--50",
     imageUrl: `${BASE}/05-best-for-long-classes-jlab-studio-pro-wireless.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08LMJS1TR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LMJS1TR?tag=workcocoon-20",
     whyItWins: "The specific gap the JLab Studio Pro fills is comfort over long sessions. The cloud foam + faux leather ear cushions are noticeably softer than the standard foam used on most budget headphones, including the base JLab Studio. For a 3-hour lecture block or a study session that runs into the evening, this difference is felt literally.",
     bodyParagraph: "50-hour battery makes it one of the longest-running wireless headphones at this price. EQ3 sound lets you adjust between signature, bass boost, and balanced -- useful when switching between lecture audio and music during breaks.",
     specs: [
@@ -164,7 +164,7 @@ export const products: ClassHeadphone[] = [
     price: "~$40-55",
     priceRange: "~$40--55",
     imageUrl: `${BASE}/06-best-wired-no-charging-audio-technica-ath-m20x.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00HVLUR18?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00HVLUR18?tag=workcocoon-20",
     whyItWins: "If your priority is hearing lectures, music, and audio content with the best possible fidelity in this price range -- and you plan to use your laptop's built-in mic or a separate microphone for speaking -- the ATH-M20x delivers studio monitor-level accuracy at $40--55. No wireless, no built-in mic, no ANC -- just excellent sound.",
     bodyParagraph: "For music production students, audio engineering courses, or anyone who cares primarily about what they hear, this is the right tool. Pair it with a USB microphone for calls. The closed-back design provides good passive isolation from ambient noise.",
     specs: [

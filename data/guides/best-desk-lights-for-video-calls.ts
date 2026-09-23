@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,366 Amazon ratings",
     reviews: "3,366 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21ZCgx+xmkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B097QZGRCQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B097QZGRCQ?tag=workcocoon-20",
     description:
       "Built by Logitech specifically for streaming and video calls, genuinely engineered diffusion designed to illuminate a face evenly without the harsh shadows a general-purpose desk lamp produces. Established brand with quality LED driver design, meaningfully reducing PWM flicker risk versus unbranded budget lights.\n\nSolid, well-established review base for a premium pick, real evidence of consistent performance across many video call setups.\n\nEstablished brand with quality driver design, lower PWM flicker risk. Set against that, higher price than generic ring lights. Both matter when comparing it to the other picks here.",
     specs: ["Premium LED streaming/video call light", "Engineered face-illumination diffusion", "Quality LED driver design", "Solid review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 895 Amazon ratings",
     reviews: "895 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414WSIzKGyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZMPX2PW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZMPX2PW?tag=workcocoon-20",
     description:
       "Highest rating of any pick in this guide, a genuine dual-purpose design that works as a normal desk lamp for reading and tasks as well as ambient fill light during video calls, though it won't illuminate your face as directly as a purpose-built ring light or streaming panel.\n\nSoft edge-lit design genuinely reduces harsh shadow risk compared to a basic single-bulb desk lamp.\n\nA genuine advantage here is that genuine dual-purpose as both a desk lamp and video call light. The tradeoff is won't illuminate your face as directly as a purpose-built ring light.",
     specs: ["LED desk lamp, soft edge-lit design", "Dual-purpose: task lighting and video call fill light", "Modern style", "Highest rating in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 719 Amazon ratings",
     reviews: "719 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Phq+HhoVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2XMLRL3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2XMLRL3?tag=workcocoon-20",
     description:
       "A disclosed CRI of 97.8, genuinely important for accurate skin tone rendering during video calls, combined with 30 light modes for granular brightness and temperature control. Explicitly designed and marketed for video call use.\n\nQuality LED design at this CRI level generally implies better dimming circuitry, reducing the PWM flicker risk more common in unbranded budget lights.\n\n30 light modes for granular control. On the other hand, higher price than basic ring lights. Neither should be a surprise once you know to look for it.",
     specs: ["CRI 97.8, 30 light modes", "Purpose-built for video calls", "Desk ring light with stand", "Solid review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,872 Amazon ratings",
     reviews: "3,872 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41r5nA1roKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B095741MZS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B095741MZS?tag=workcocoon-20",
     description:
       "A large, well-established review base at a genuinely affordable price for a purpose-built video call desk light with stand. Adjustable color temperature adds flexibility for matching room lighting.\n\nCRI and PWM flicker specs not disclosed, common gaps at this price point, but the large review volume suggests most buyers are satisfied with real-world performance.\n\nGenuinely affordable. That's a real strength, but weigh it against the flip side: cRI not disclosed.",
     specs: ["Desk ring light with stand", "Adjustable color temperature", "Large, well-established review base", "Budget-friendly"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,975 Amazon ratings",
     reviews: "2,975 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WMggt9RXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B087CZ85GV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B087CZ85GV?tag=workcocoon-20",
     description:
       "A 9-inch panel design, genuinely more even facial illumination than a smaller ring light due to its larger diffusion surface. Wide 2500K-6500K color temperature range for matching varied room lighting.\n\nSolid review base, real-world evidence of consistent performance across this larger panel format.\n\nWorth calling out specifically: wide color temperature range. The catch is larger footprint than a compact clip-on or ring light.",
     specs: ["9-inch LED panel, desk stand", "2500K-6500K color temperature range", "Larger diffusion surface than compact ring lights", "Solid review base"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 8,121 Amazon ratings",
     reviews: "8,121 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415a2-2URFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4JTPPYY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4JTPPYY?tag=workcocoon-20",
     description:
       "A traditional 17-inch clamp-mounted desk lamp with stepless dimming, genuinely useful as ambient fill light during video calls if positioned correctly, though its beam angle is designed for illuminating a desk surface, not your face directly, unlike a purpose-built video light.\n\nLarge, well-established review base and a strong rating, real evidence of reliable general-purpose desk lamp performance.\n\nStepless dimming for fine brightness control. Set against that, beam angle designed for desk surface, not face-forward illumination. Both matter when comparing it to the other picks here.",
     specs: ["17-inch clamp-mounted desk lamp", "Stepless dimming", "General-purpose beam angle", "Large, well-established review base"],

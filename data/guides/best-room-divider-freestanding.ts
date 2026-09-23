@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "4,805",
     imageUrl: "https://m.media-amazon.com/images/I/51xVErogV9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00YFQ3F52?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00YFQ3F52?tag=workcocoon-20",
     description:
       "With nearly 4,800 ratings, Legacy Decor's shoji screen is the best-selling freestanding divider in this list by a wide margin. A real solid wood grid, not printed vinyl or laminate, holds translucent rice-paper-style panels that let daylight filter through while still creating a genuine visual boundary.\n\nAt 22 lbs it's the lightest 6-panel wood screen here, and two-way hinges plus a fully assembled, ready-to-unfold design mean it goes from box to standing in minutes.\n\nGenuine solid wood grid, not printed vinyl. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "2,024",
     imageUrl: "https://m.media-amazon.com/images/I/518FUSm-OqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QQ25W3P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07QQ25W3P?tag=workcocoon-20",
     description:
       "RHF's screen is handmade by professional carpenters using a 5-medallion diamond weave pattern in 100% woven fabric over a rattan-style frame, giving it a bohemian, artisanal look most mass-produced fabric screens can't match. Two-way hinges and a fully ready-to-use design mean no assembly. At this price point, it undercuts nearly every other pick in this list while still delivering a genuinely handcrafted appearance, making it the best value for buyers who want a decorative, rustic-leaning divider. Worth calling out specifically: cheapest quality pick in this list. The catch is narrower 63\" width than most other picks.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,590",
     imageUrl: "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=workcocoon-20",
     description:
       "RANTILA takes a different approach with a single 71-inch-wide panel instead of multiple hinged panels, built from HDPE with a steel frame and UV-protected, waterproof fabric. At just 8.8 lbs it's the lightest divider in this entire list, and 4 stiffeners keep the single panel from sagging or toppling.\n\nBecause there's only one panel, there's no zigzag angle needed for stability, making it the simplest to set up and the easiest to move or store when you don't need it.\n\nSingle-panel design needs no angling for stability. Set against that, single panel offers less width coverage per unit than multi-panel screens. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "1,715",
     imageUrl: "https://m.media-amazon.com/images/I/31IhKdy8YFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQMR29TC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQMR29TC?tag=workcocoon-20",
     description:
       "HOMSCREENER's steel-frame screen covers 88 inches wide, the widest 4-panel pick in this list, using a heavier 240g polyester coating than most competing fabric screens. Triple-buckle hinges and extra-wide 17.7-inch feet give it a noticeably more stable base than thinner-footed alternatives.\n\nThe fabric is treated to resist wrinkling, so it looks presentable straight out of the box rather than needing to hang and relax first.\n\nA genuine advantage here is that thicker 240g fabric than most competing screens. The tradeoff is lowest rating in this list at 4.1 stars.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,063",
     imageUrl: "https://m.media-amazon.com/images/I/31WhDsMWr+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B42BP1HF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B42BP1HF?tag=workcocoon-20",
     description:
       "At 120 inches wide, MAYOLIAH is the widest divider in this entire list, built from 180g polyester over an iron powder-coated frame. Because it's a genuine 6-panel design, you're not locked into using all 6, it reconfigures down to 2, 3, 4, or 5 panels depending on how much width you actually need.\n\nWider support feet than a typical 4-panel screen help it stay stable across that longer span, and it's backed by a 1-year warranty, a rarity among the fabric screens in this list.\n\nReconfigurable from 2 to 6 panels for different room widths. That's a real strength, but weigh it against the flip side: large, heavy package to unbox and set up.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "7,623",
     imageUrl: "https://m.media-amazon.com/images/I/51eN5STzThL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0135AV5XC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0135AV5XC?tag=workcocoon-20",
     description:
       "FDW's hand-woven wood mesh is the most-reviewed pick in this entire list at over 7,600 ratings, combining an eco wood frame with a classic woven-mesh panel design that reads as more substantial than a fabric screen without the price of a full solid-wood shoji.\n\nAt 15.4 lbs it folds down compactly for storage, and metal hinges hold up better over repeated folding than the plastic hinges found on some cheaper fabric screens.\n\nWorth calling out specifically: hand-woven mesh looks more substantial than plain fabric. The catch is mesh weave offers less full privacy than a solid panel.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "554",
     imageUrl: "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=workcocoon-20",
     description:
       "SUNALLY is the only divider in this list mounted on lockable wheels, letting you roll it to a new position and lock it in place rather than lifting and repositioning a static base. That's a genuine advantage if your room's layout changes often, like a shared home office that becomes a guest space on weekends.\n\n240g polyester fabric over a powder-coated steel frame with extended, widened feet keeps it stable even with the added weight and mobility of the wheels.\n\nEasiest to reposition of any pick here. Set against that, smallest review sample among the fabric screens at 554 ratings. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "371",
     imageUrl: "https://m.media-amazon.com/images/I/51gHMv9twBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1V2K8XC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1V2K8XC?tag=workcocoon-20",
     description:
       "HOMCOM swaps traditional paper-fiber weave for polypropylene panels on a paulownia wood frame, a durability upgrade since PP resists tearing and moisture far better than paper-based woven screens over time. An arched top design gives it a softer, more finished silhouette than a flat-topped screen.\n\nIt requires no assembly and comes with a 90-day warranty, and the 6-panel width gives it enough coverage for a standard room divide without reaching the extreme widths of the MAYOLIAH.\n\nA genuine advantage here is that arched top adds a more finished silhouette. The tradeoff is second most expensive pick in this list.",
     specs: [

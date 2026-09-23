@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/410d2FTkvML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXZ97PCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXZ97PCG?tag=workcocoon-20",
     description:
       "The K10 HE uses magnetic Hall effect switches instead of standard mechanical contacts, allowing adjustable actuation points and true rapid trigger, a feature that resets the keypress the instant you start releasing rather than waiting for a fixed travel distance. That distinction matters mainly for competitive gaming, where rapid trigger can shave meaningful reaction time off repeated inputs.\n\nIt is hot-swappable despite the magnetic switch design, wireless capable, and built with an aluminum and wood frame that stands out from the all-plastic boards in this list. The full-size layout keeps the number pad for buyers who don't want to give up spreadsheet or numeric input.\n\nHot-swappable despite the magnetic switch design. That's a real strength, but weigh it against the flip side: highest price in this list.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41YovoriX2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCVPGB9N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCVPGB9N?tag=workcocoon-20",
     description:
       "The K2 HE brings the same magnetic Hall effect switch technology and rapid trigger as the K10 HE into a smaller 75-80% layout, aimed at buyers who want the gaming-grade actuation control without a full-size footprint. QMK support gives advanced users deep firmware customization if they're willing to learn the configuration tools.\n\nLike the K10 HE, it pairs over 2.4GHz or Bluetooth 5.2, giving flexibility between a dedicated low-latency dongle connection and a portable Bluetooth pairing for a laptop on the go.\n\nWorth calling out specifically: dual 2.4GHz and Bluetooth 5.2 connectivity. The catch is second-highest price in this list.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41-A9KzCP3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=workcocoon-20",
     description:
       "The K4 fits a near-full 100-key layout into a trimmed 96% frame and connects over Bluetooth 5.1 or a wired USB-C connection, giving you a fallback if the battery runs low mid-session. Bluetooth on a modern mechanical keyboard runs at roughly 8-15ms of latency, noticeably more than a 2.4GHz dongle but still unnoticeable for typing and most everyday use.\n\nAt this price it is the best value pick in this list for anyone who wants real wireless flexibility without paying for Hall effect switches or premium materials.\n\nBest price-to-feature ratio in this list. Set against that, bluetooth latency is higher than a dedicated 2.4GHz dongle. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ssMvj7kFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08MKSNYJD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08MKSNYJD?tag=workcocoon-20",
     description:
       "The standard K10 keeps the full 104-key layout with number pad while adding Bluetooth multitasking support, letting you switch between multiple paired devices without unplugging or re-pairing. A USB-C wired mode is also available, giving the same battery fallback flexibility as its 96% sibling.\n\nWhite LED backlighting and brown tactile switches make it a solid general-purpose choice for anyone who specifically needs the full number pad in a wireless mechanical board.\n\nA genuine advantage here is that multi-device Bluetooth switching. The tradeoff is larger footprint than the compact picks in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41k46NzwzHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LSJ4RHH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LSJ4RHH?tag=workcocoon-20",
     description:
       "The K3 V2 uses low-profile mechanical switches with shorter travel than a standard mechanical keyboard, giving it a slim profile closer to a laptop keyboard while keeping genuine tactile mechanical feedback. That reduced travel also means quieter, faster keypresses, useful for both typing speed and noise-sensitive environments.\n\nIt supports Bluetooth or wired USB connection across an 84-key compact layout, making it one of the more portable wireless mechanical options here for a laptop bag or a minimalist desk setup.\n\nWired USB fallback if Bluetooth battery runs low. That's a real strength, but weigh it against the flip side: not hot-swappable given the low-profile switch design.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41ZdZ-xPxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBZGH5XM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBZGH5XM?tag=workcocoon-20",
     description:
       "The KN85 is the most affordable wireless option in this list and the only budget pick with hot-swappable switch sockets, letting you replace the stock linear switches later without soldering. It connects over Bluetooth, 2.4GHz, or wired USB-C, covering essentially every connection scenario in one board.\n\nA compact 75% layout keeps arrow keys and a few navigation keys while trimming the number pad, and its switch longevity benefits from the hot-swap sockets in a way the sealed budget boards in this category don't offer.\n\nWorth calling out specifically: hot-swappable, rare at this price point. The catch is build materials are more basic than the premium picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FBNsAaL4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LK1P1RD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LK1P1RD?tag=workcocoon-20",
     description:
       "The MX Mechanical is built for office and productivity use rather than gaming, using tactile quiet switches and automatic backlighting that adjusts to ambient light and hand presence. It connects over Bluetooth or Logi Bolt USB receiver with support for switching between up to three paired devices at once.\n\nThis is the most refined, quietest board in this list for an all-day office environment, prioritizing typing comfort and multi-device productivity over gaming features like rapid trigger or high polling rate.\n\nAuto-adjusting backlight is a genuinely useful office feature. Set against that, premium price without any gaming-focused features. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31OJJVgcA9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DSW8TF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DSW8TF?tag=workcocoon-20",
     description:
       "The G515 pairs a tenkeyless layout, no number pad, with Logitech's Lightspeed 2.4GHz wireless, which runs at roughly 1ms of latency, effectively matching a wired connection for gaming and typing alike. Low-profile tactile switches keep the keypress short and relatively quiet compared to a standard-height mechanical switch.\n\nBecause it uses a dedicated 2.4GHz USB receiver rather than Bluetooth, it holds a more stable connection in offices with many competing Bluetooth devices, at the cost of occupying a USB-A port.\n\nA genuine advantage here is that near-zero wireless latency. The tradeoff is 2.4GHz receiver occupies a USB-A port, a tradeoff on port-limited laptops.",
     specs: [

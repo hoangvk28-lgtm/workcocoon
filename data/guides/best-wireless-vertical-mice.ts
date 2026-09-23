@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "Uses a 2.4GHz USB dongle rather than Bluetooth, which tends to give a more consistent connection than Bluetooth in a crowded desk environment with other wireless devices nearby.\n\nIt runs on AA batteries rather than a built-in rechargeable cell, which adds some weight to the body. Check the packaging or listing for whether a dongle storage slot is included before assuming one is.\n\nThe standout detail is that large review base for a wireless budget pick. Balancing that out, aA batteries add weight versus a rechargeable design.",
     specs: ["2.4GHz USB dongle", "AA battery powered", "Right-hand specific", "Budget price point"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "Supports both a 2.4GHz receiver and Bluetooth, letting you choose the more reliable dongle connection for your primary desk and Bluetooth for switching to a laptop or tablet on the go.\n\nIt uses a rechargeable built-in battery rather than AA cells, avoiding the added bulk, and the dongle has a small storage slot inside the mouse body on this model line, worth confirming in the current listing.\n\nRechargeable battery avoids AA bulk. That's a real strength, but weigh it against the flip side: premium price versus dongle-only picks.",
     specs: ["Dual 2.4GHz and Bluetooth connectivity", "Rechargeable built-in battery", "Multi-device pairing", "Premium build"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "Pairs a 2.4GHz dongle connection with a built-in rechargeable battery, which is a genuine advantage over AA-powered wireless mice at a similar price point since it avoids the added weight.\n\nIt does not include Bluetooth, so it's best suited to a single primary desk setup rather than frequent switching between multiple paired devices.\n\nDongle connection tends to be reliable in busy environments. On the other hand, no Bluetooth for multi-device switching. Both are worth keeping in mind before deciding.",
     specs: ["2.4GHz USB dongle", "Rechargeable built-in battery", "Budget price point", "Single-device pairing"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A more compact version of the dual-connectivity approach, supporting both a 2.4GHz dongle and Bluetooth in a smaller body suited to average and smaller hands.\n\nThe rechargeable battery avoids AA bulk, and multi-device software lets you remap buttons per paired device, useful if you regularly switch between a desktop and a laptop.\n\nA genuine advantage here is that rechargeable battery. The tradeoff is that mid-to-premium price versus budget dongle-only picks.",
     specs: ["Dual 2.4GHz and Bluetooth connectivity", "Compact rechargeable body", "Multi-device software", "Mid-to-premium price"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A 2.4GHz dongle-based wireless mouse with a rechargeable battery at a price close to AA-powered budget picks, which is a genuine value combination for buyers who want to avoid battery swaps.\n\nCheck the current listing for dongle storage and specific signal range claims, since real-world range in a cluttered desk setup is usually shorter than an idealized open-space figure.\n\nSolid review rating. That said, no Bluetooth option. Neither should be a surprise once you know to look for it.",
     specs: ["2.4GHz USB dongle", "Rechargeable built-in battery", "Budget-to-mid price point", "Single-device pairing"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "461 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DVlxxe4WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=workcocoon-20",
     description:
       "A 6-button wireless layout gives more programmable shortcuts than most picks in this guide, useful for buyers who want productivity remapping across their wireless setup.\n\nIts review base is smaller and the average rating is more moderate than the other picks here, so weigh that against the extra buttons and rechargeable convenience before choosing this over a better-reviewed alternative.\n\nWorth calling out specifically: rechargeable battery. The catch is smaller review base and more moderate 4.0-star rating.",
     specs: ["Wireless connectivity", "6 programmable buttons", "Rechargeable battery", "Premium price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "57 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ttLEqu0hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=workcocoon-20",
     description:
       "A wireless vertical mouse explicitly sized for small to medium hands, with a very strong review rating though on a small sample size worth weighing against the more established picks in this guide.\n\nCheck the current listing for whether it uses a 2.4GHz dongle, Bluetooth, or both, since this detail matters if you plan to pair it across multiple devices.\n\nVery strong review rating. Set against that, small review sample size, verify current feedback. Both matter when comparing it to the other picks here.",
     specs: ["Explicit small/medium hand sizing", "57-degree tilt angle", "Wireless connectivity", "Budget price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "116 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XVdqDE3aL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9PDRYZK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9PDRYZK?tag=workcocoon-20",
     description:
       "A wireless vertical mouse with a 2400 DPI sensor and a 5D rocker button for extra controls, a reasonable crossover pick if you want a single wireless mouse for both office use and casual gaming.\n\nIts review sample is small, so verify current buyer feedback on wireless connection stability before relying on it for daily use.\n\nThe standout detail is that budget-friendly price for the feature set. Balancing that out, small review sample size, verify current buyer feedback.",
     specs: ["2400 DPI sensor", "5D rocker button for extra controls", "Wireless connectivity", "Small review sample"],

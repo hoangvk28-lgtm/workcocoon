@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/01RmK+J4pJL._SL500_.gif",
-    amazonUrl: "https://www.amazon.com/dp/B0GY6FBTKL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GY6FBTKL?tag=workcocoon-20",
     description: "This is Carbide 3D's enclosed desktop-mill line, distinct from their larger open-frame Shapeoko routers, and comes bundled with both MeshCAM for 3D work and Carbide Create for 2D CAD/CAM rather than requiring a separate software purchase. An MDF wasteboard forms the work surface.\n\nTooling ships with a 1/8 in ER-11 collet and wrenches, plus a 1/8 in ball mill and 1/8 in end mill included standard, giving a genuine starting toolset rather than a bare spindle. The listing is light on dimensional specifics, so confirm exact work-area size against your project needs before buying.",
     specs: ["MeshCAM (3D) + Carbide Create (2D) included","1/8in ER-11 collet + ball mill + end mill included","MDF wasteboard work surface"],
     pros: ["Bundles both 3D and 2D CAM software, no separate purchase needed","Ships with a real starting toolset, not just a bare spindle","Enclosed Nomad line is distinct from Carbide 3D's open Shapeoko"],

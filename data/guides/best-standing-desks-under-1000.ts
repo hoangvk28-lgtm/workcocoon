@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,101 Amazon ratings",
     reviews: "10,101 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Nha7Yua3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0784HWPN6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0784HWPN6?tag=workcocoon-20",
     description:
       "At a competitive price, this converter sits comfortably at a budget-friendly price, well within the lower-price tier that dominates this entire guide. It has a massive review base of over 10,000 ratings, which is a strong signal of consistent quality at this price point. A quick sit-to-stand mechanism and dual monitor support make this a genuine upgrade over the cheapest converters without approaching the higher-end price tiers a budget could technically afford. Since it is a tabletop unit, it needs an existing desk underneath it. Well at a budget-friendly price, in the mid tier of this guide's range. On the other hand, requires an existing desk underneath. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 15,560 Amazon ratings",
     reviews: "15,560 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DEPeG3thL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B075JYG2TB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B075JYG2TB?tag=workcocoon-20",
     description:
       "At a competitive price, this converter is priced well under that price tier where dual motor electric desks typically start, and it has the largest review base of any pick in this guide at over 15,500 ratings. A wide keyboard tray is included, a feature that costs extra on many electric desks in the higher tiers. This is a manual mechanism, not a motorized one, which is the actual tradeoff for the low price rather than any compromise in build quality. If motorized height adjustment is a requirement, look at the electric desks further down this list instead. Massive review base at over 15,500 ratings. That's a real strength, but weigh it against the flip side: manual mechanism, not motorized.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,226 Amazon ratings",
     reviews: "2,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ikoMgen5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=workcocoon-20",
     description:
       "At a competitive price, this is the cheapest desk in this guide and the clearest example of the entry-level tier: single motor, 4 presets, complete desk with the top included. It already includes 4 memory presets, which is the minimum this guide recommends, so you are not sacrificing preset count to hit this price. What you do give up at this tier is desktop size and any accessory features like drawers or built-in power. This is a genuine budget pick, not a compromised version of a pricier desk, since the core electric adjustment works the same way regardless of price tier. Worth calling out specifically: complete desk, top and frame matched. The catch is small 32-inch footprint.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,747 Amazon ratings",
     reviews: "1,747 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k4VBjAQzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=workcocoon-20",
     description:
       "At a competitive price, this desk sits in the low-mid tier and buys you a genuinely larger 55-inch surface compared to the entry-level HUANUO pick, a real feature jump rather than just a different finish. The white gaming-oriented design and electric adjustment come at a modest premium over the cheapest picks. This is a reasonable example of what a roughly this comparison's price range price increase actually buys in this niche, meaningfully more desktop surface, rather than a marginal cosmetic change. Motor warranty details are not specified in the listing. Strong review volume and rating. Set against that, motor warranty not stated on the listing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 11,572 Amazon ratings",
     reviews: "11,572 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415He+cLvaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=workcocoon-20",
     description:
       "At a competitive price, this desk stays at a budget-friendly price while carrying the largest review base in this entire guide, a strong signal of reliability that is not guaranteed just by paying more. It is a solid example of the sub-a competitive tier delivering genuine long-term value rather than a corner-cut product. The 48x24 footprint is a standard mid-size option, and the price includes a complete desk with a matched top, no separate desktop purchase needed. As with most picks in this tier, motor warranty specifics are not listed, so factor that uncertainty into your decision if longevity matters most to you. A genuine advantage here is that at a budget-friendly price with a complete matched desk. The tradeoff is motor warranty not stated on the listing.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,463 Amazon ratings",
     reviews: "8,463 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418JjdqdnpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=workcocoon-20",
     description:
       "At a competitive price, right at the edge of the sub-a competitive tier, this desk buys a thicker splice-board maple top instead of basic laminate, a genuine material upgrade rather than a marginal price bump. It carries a strong review base similar in scale to the ErGear pick just below it in price. That thicker top matters if you plan to add a monitor arm or other grommet-mounted accessories later, since thin desktops are more prone to stripped mounting screws over time. This remains a budget-tier desk overall, just with one meaningful material improvement. High review volume with solid rating. On the other hand, motor warranty not stated on the listing. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 598 Amazon ratings",
     reviews: "598 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41daFWT9JPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=workcocoon-20",
     description:
       "At a competitive price, this is the single most expensive pick in this guide, and it is still less than a quarter of a budget, which underscores how far a genuinely useful standing setup goes without approaching that ceiling. The dual 13 to 30 inch monitor stand built into the riser is the main reason for the higher price relative to the other converters here. Because it is a tabletop converter, it requires an existing desk underneath, and the price premium buys monitor stand flexibility rather than a larger work surface. This is the closest any pick in this guide comes to a genuinely higher price tier, and it is still firmly in budget territory. Highest-tier pick in this guide, still a fraction of a competitive budget. That's a real strength, but weigh it against the flip side: highest price in this guide relative to the other picks.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,316 Amazon ratings",
     reviews: "5,316 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oErF+y4gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=workcocoon-20",
     description:
       "At a competitive price, this desk matches the FEZIBO pick in price while offering a rustic brown finish instead of a maple top, a style choice rather than a functional upgrade. It rounds out the sub-a competitive tier in this guide alongside the HUANUO, ErGear, and FEZIBO picks. The rating here is slightly lower than the other lower-priced picks, worth weighing against the finish if aesthetics are your deciding factor. As with the rest of this tier, motor warranty specifics are not stated on the listing. Worth calling out specifically: matches other lower-priced picks on price. The catch is slightly lower rating than similarly priced picks.",
     specs: [

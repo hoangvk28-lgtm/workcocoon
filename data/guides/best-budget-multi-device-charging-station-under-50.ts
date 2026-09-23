@@ -42,7 +42,7 @@ export const products: MultiCharger[] = [
     usbCPD: "65W",
     watchSupport: false,
     imageUrl: `${BASE}/1-ugreen-nexode-65w-4-port-gan.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B088FHJLR1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B088FHJLR1?tag=workcocoon-20",
     whyItWorks:
       "65W total from a GaN chip charges a MacBook Air overnight, iPhone in under an hour. 3 USB-C ports cover iPhones 15/16, iPads, Android flagships, and MacBooks simultaneously. GaN runs 40% cooler than traditional silicon chargers. Compact, roughly the size of a deck of cards. Frequently on sale for $24–$30.",
     tradeoffs: ["Only 4 total ports, not for 5+ device households", "Only 1 USB-A port, older devices need cable adapter"],
@@ -61,7 +61,7 @@ export const products: MultiCharger[] = [
     usbCPD: "30W",
     watchSupport: false,
     imageUrl: `${BASE}/2-anker-premium-5-port-pd-60w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B072K5ZJXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B072K5ZJXF?tag=workcocoon-20",
     whyItWorks:
       "30W USB-C PD port, the highest-wattage USB-C port under $40 in this category. 4 additional PowerIQ USB-A ports auto-detect each device's optimal charge speed. Desktop design with flat base stays stable. Charges a MacBook Air (2018+) at a slow but steady rate overnight. Anker warranty and support.",
     tradeoffs: ["30W USB-C won't fast-charge a MacBook Pro during active use (needs 61W+)", "USB-A ports split remaining 30W across 4 devices, slower under full load"],
@@ -80,7 +80,7 @@ export const products: MultiCharger[] = [
     usbCPD: "20W",
     watchSupport: true,
     imageUrl: `${BASE}/3-soopii-premium-6-port-watch-arm.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07TWGXN7Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07TWGXN7Q?tag=workcocoon-20",
     whyItWorks:
       "Dedicated Apple Watch charger arm holds your Watch at the correct angle, the only pick in this guide with a built-in Watch arm. Includes 6 short cables (2× Lightning, 2× USB-C, 1× Micro-USB, 1× USB-C to USB-C). 6 charging slots organize phones and tablets vertically. PD 20W USB-C fast-charges modern iPhones. Best for households mixing iPhones, Androids, and Apple Watch.",
     tradeoffs: ["Apple Watch arm is a holder only, you still need your own Watch charger puck", "Larger footprint than UGREEN Nexode"],
@@ -99,7 +99,7 @@ export const products: MultiCharger[] = [
     usbCPD: "None",
     watchSupport: false,
     imageUrl: `${BASE}/4-orico-10-port-120w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B06XL111ZJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06XL111ZJ?tag=workcocoon-20",
     whyItWorks:
       "120W across 10 ports, double the wattage of most budget stations, delivering 12W per port. Handles a family of 4 with phones, tablets, earbuds, and readers simultaneously. Individual port switches on some models let you toggle per slot. Best wattage-per-port ratio in the sub-$50 USB-A category.",
     tradeoffs: ["All USB-A, no USB-C for newer devices", "Larger station requires more desk space", "Priciest pick at $40–$45"],
@@ -118,7 +118,7 @@ export const products: MultiCharger[] = [
     usbCPD: "None",
     watchSupport: false,
     imageUrl: `${BASE}/5-sabrent-10-port-usb-3-hub-hb-b7c3.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=workcocoon-20",
     whyItWorks:
       "Combines USB 3.0 data hub (5Gbps) with 3 dedicated smart charging ports in one unit. Individual power switches and LED indicators for each port. Works with PC, Mac, Xbox, PS5. 60W power adapter included. Best pick if your desk also needs USB 3.0 data expansion (hard drives, printers, keyboards).",
     tradeoffs: ["Only 3 charging ports, 7 ports are data-only", "$45–$50 is the top of this guide's range", "Overkill if you only need charging"],

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 is a standard cartridge inkjet covering print, scan, and copy for at a budget-friendly price, with a 3-month Instant Ink trial that softens the first few months of cartridge cost. It's the cheapest entry point in this list for a household that just needs occasional color and document printing. Because it uses dye-based cartridges rather than an ink tank, infrequent use is the real thing to plan for: nozzles can dry and clog after 2-4 weeks idle, triggering cleaning cycles that burn ink without printing a page. A quick weekly test print avoids most of that waste. Instant Ink trial reduces early cartridge spend. That's a real strength, but weigh it against the flip side: nozzles can dry out with infrequent use.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "A compact cartridge inkjet built for homes without a dedicated office nook, with duplex printing that flips pages automatically instead of requiring a manual reload. Built-in copier and scanner cover the basics without adding a second device.\n\nIt's a standard dye-based cartridge printer, so the same nozzle-drying maintenance applies as any inkjet in this list: a weekly test page or a nozzle check after 2+ weeks idle keeps print quality consistent.\n\nWorth calling out specifically: duplex printing saves paper. The catch is best suited to lighter print volumes.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "This cartridge inkjet steps up with a 1.42-inch OLED display and a more intuitive control panel, useful when more than one person in the household uses the printer and needs a quick, legible menu. Duplex printing and a compact design carry over from the rest of the PIXMA lineup.\n\nIt remains a standard cartridge inkjet, so the same idle-ink math applies as the rest of this list: it's most cost-effective printing well under 100 pages a month rather than sustained daily use.\n\nDuplex printing built in. Set against that, standard cartridges, not an ink-tank system. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 pairs a budget price with an auto document feeder and built-in fax, features usually reserved for pricier office printers. That combination suits households that occasionally scan or fax multi-page documents, like signed forms or school paperwork.\n\nAs a standard cartridge inkjet, it carries the same idle-ink drying consideration as any dye-based printer: expect the occasional wasted cleaning cycle if it sits unused for weeks between print jobs.\n\nA genuine advantage here is that built-in fax, useful for households that still need it. The tradeoff is fax is a feature most households won't use in 2026.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "This is a genuine ink-tank printer, not a cartridge inkjet, refilling from bottles instead of replaceable cartridges. That difference matters for households printing more than 20-30 pages a month, where the per-page ink cost runs meaningfully lower than any cartridge printer in this list over a year or two.\n\nInk-tank printers still aren't fully maintenance-free: a common misconception is that tank ink never dries out, but it can settle and clog nozzles if the printer sits idle for 4+ weeks, so an occasional test print still matters.\n\nNo cartridges to buy or replace. That's a real strength, but weigh it against the flip side: higher upfront price than the cartridge picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31Yt+pSHuGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=workcocoon-20",
     description:
       "Identical hardware and ink-tank engine to the black ET-2800 above, offered here in a white finish for households that prefer it to match their desk or home office decor. The cost-per-page and maintenance profile are the same as the black version.\n\nWe list both finishes separately since color choice is a genuine factor for some buyers, but the underlying printer, ink system, and idle-ink guidance are identical to the black model.\n\nWorth calling out specifically: white finish for a different aesthetic. The catch is higher upfront price than the cartridge picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "A slightly cheaper ink-tank model than the ET-2800, aimed at everyday home printing rather than heavier document scanning needs, with print, scan, and copy but a simpler feature set overall. It's still a genuine ink-tank printer, not a cartridge model.\n\nFor households comparing a budget laser against an ink-tank printer at low-to-moderate volume, this is one of the more accessible ink-tank entry points, and it avoids the cartridge idle-drying issue that affects every non-tank pick in this list.\n\nNo cartridges to buy or replace. Set against that, fewer features than the ET-2800. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "HP's ink-tank entry in this list ships with 2 years of ink included, the longest bundled ink supply of any pick here, alongside print, scan, and copy over 2.4GHz wireless. It's the lowest-priced genuine ink-tank printer in this roundup.\n\nLike the Epson ink-tank picks, it avoids standard cartridge idle-drying risk, though the included wireless is 2.4GHz only, worth checking against your router setup before buying if you rely on a 5GHz network band.\n\nA genuine advantage here is that lowest price among the ink-tank options. The tradeoff is 2.4GHz-only wireless, no 5GHz band.",
     specs: [

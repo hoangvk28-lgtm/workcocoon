@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,467 Amazon ratings",
     reviews: "3,467 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rIE-toOYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=workcocoon-20",
     description:
       "900W of real capacity and 10 outlets, genuinely enough headroom and plug count for a PC plus two or three monitors and basic peripherals, the combined draw of a multi-monitor setup adds up faster than single-monitor UPS sizing accounts for.\n\nPure sine wave and APFC compatibility protect a modern PC power supply, while the outlet count means you won't run out of battery-backed plugs partway through wiring up your desk.\n\n10 outlets, genuinely enough for a multi-monitor desk. On the other hand, highest price in this guide. Both are worth keeping in mind before deciding.",
     specs: ["1500VA/900W", "10 outlets", "Pure sine wave, APFC compatible", "Coax/Ethernet surge protection"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 11,256 Amazon ratings",
     reviews: "11,256 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31DYxDN0bTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N19W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N19W?tag=workcocoon-20",
     description:
       "12 outlets, the most of any pick in this guide, genuinely useful when a multi-monitor setup means plugging in two or three monitors, a PC, speakers, and a dock all on the same UPS. Largest review base here as evidence of long-term reliability.\n\n1000W real capacity gives real headroom above the typical combined draw of a 2-3 monitor desk setup.\n\nA genuine advantage here is that largest review base, strong long-term evidence. The tradeoff is that bulkier mini-tower form factor.",
     specs: ["1500VA/1000W", "12 outlets", "AVR included", "UL certified"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 13,112 Amazon ratings",
     reviews: "13,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31p-5+FvTgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06VY6FXMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06VY6FXMM?tag=workcocoon-20",
     description:
       "The single largest review base across this entire UPS lineup, strong evidence this capacity tier handles multi-monitor desk setups reliably in the real world. 900W real capacity at a notably lower price than the pure sine wave equivalent.\n\nCheck outlet count against your specific monitor count and peripherals before buying, more monitors means more battery-backed plugs needed, not just more watts.\n\n900W real capacity at a lower price than pure sine wave. That said, not pure sine wave. Neither should be a surprise once you know to look for it.",
     specs: ["1500VA/900W", "AVR included", "Multiple outlets", "Well-established APC BX series"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,697 Amazon ratings",
     reviews: "2,697 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VPmugfqML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=workcocoon-20",
     description:
       "600W real capacity, appropriate for a two-monitor setup with a standard office PC rather than a three-monitor high-performance build. Do the wattage math on your specific monitors (typically 20-40W each) plus PC before assuming this covers your setup.\n\nAVR included handles brownouts without draining the battery, extending real-world runtime for genuine outages.\n\nWorth calling out specifically: aVR extends battery life. The catch is less headroom for a three-monitor or high-performance setup.",
     specs: ["1000VA/600W", "AVR included", "Multiple outlets", "Office electronics rated"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.9 stars from 20 Amazon ratings",
     reviews: "20 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51bQ0-kLFqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJ5WBM5D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJ5WBM5D?tag=workcocoon-20",
     description:
       "1000W real capacity from a 1500VA rating, a strong real-watt-to-VA ratio giving genuine headroom for a multi-monitor desk. Lithium battery chemistry generally handles heat and repeated charge cycles better long-term than lead-acid designs.\n\nA small review base so far given how new this model is, weigh that against the genuinely strong capacity and battery chemistry if you want to try a newer entrant.\n\nLithium battery, better long-term charge-cycle life. Set against that, small review base, less long-term evidence. Both matter when comparing it to the other picks here.",
     specs: ["1500VA/1000W, lithium battery", "Strong real-watt-to-VA ratio", "Surge protection", "Compact for its capacity"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 796 Amazon ratings",
     reviews: "796 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31xnh5VoQ4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=workcocoon-20",
     description:
       "510W real capacity, the entry point in this guide for a two-monitor setup on a tighter budget. Do the wattage math carefully here, this is the lowest-capacity pick in this multi-monitor guide, appropriate only for smaller or lower-power monitors.\n\nAVR included, the same brownout-correction benefit as the higher-capacity APC picks.\n\nThe standout detail is that aVR included. Balancing that out, least headroom of any pick in this guide, verify your monitors' actual wattage.",
     specs: ["850VA/510W", "AVR included", "Compact form factor", "Office electronics rated"],

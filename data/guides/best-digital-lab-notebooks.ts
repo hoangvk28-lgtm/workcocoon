@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41-39oI5gtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B071Y3MSRK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B071Y3MSRK?tag=workcocoon-20",
     description:
       "The Rocketbook Core lets you jot informal lab observations on paper and scan them into a dated cloud folder, a low-cost way to keep a casual digital record. This is a reusable paper notebook (write with a pen, then scan the pages with a phone app to digitize them before wiping the pages clean and reusing the notebook).\n\nThis is not a compliance-grade electronic lab notebook system, there is no audit trail, timestamp verification, or institutional record-keeping built in, just a scanned image of your handwritten page. Appropriate only for personal reference notes or informal observations, not for research requiring regulatory or institutional documentation standards.\n\nFamiliar paper-writing experience for quick observations. That's a real strength, but weigh it against the flip side: not a compliance-grade ELN system, no audit trail or institutional record-keeping.",
     specs: ["Reusable paper notebook, Type 1", "App-connected scanning to cloud services", "Wipe clean and reuse", "Letter size, dotted pages"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31x5OLmX1ZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08HDL3XJR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08HDL3XJR?tag=workcocoon-20",
     description:
       "The reMarkable 2's digital folder organization can help keep informal lab notes sorted by project or date, useful for personal reference across a long-running set of observations. This is a true e-ink digital notebook device (a standalone tablet with an e-paper screen you write on directly with a stylus, with files stored and synced digitally).\n\nAs with the Rocketbook, this is a general-purpose note-taking device, not a specialized ELN system with compliance features like tamper-evident timestamps or institutional audit trails. Its long battery life suits sustained daily journaling in a lab setting, but treat it strictly as an informal personal notebook, not a regulatory record.\n\nWorth calling out specifically: long battery life for sustained daily use. The catch is not a compliance-grade ELN system.",
     specs: ["E-ink digital notebook device, Type 2", "Marker Plus included", "Digital file organization by notebook", "Weeks of battery life"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+UCf2-LrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FM4K63P3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FM4K63P3?tag=workcocoon-20",
     description:
       "The Noteorius set backs up informal lab notes to the cloud the instant you write them, reducing the risk of losing observations to a damaged or lost notebook. This is a smart pen and paper digitizer set (a sensor-equipped pen used with special dot-pattern paper that captures your handwriting in real time and syncs it to an app as you write).\n\nThis real-time backup is a genuine convenience but still does not meet the standards of a compliance-grade electronic lab notebook system, there's no institutional audit trail or regulatory certification involved. Best used for personal reference notes or informal observation logs where losing data would be inconvenient but not a compliance issue.\n\nStill writes on real paper. Set against that, not a compliance-grade ELN system. Both matter when comparing it to the other picks here.",
     specs: ["Smart pen and paper digitizer set, Type 3", "Real-time sync as you write", "App sync with cloud storage", "Pen and folio included"],

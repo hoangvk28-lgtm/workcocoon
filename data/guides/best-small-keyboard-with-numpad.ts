@@ -47,7 +47,7 @@ export const products: NumpadKeyboard[] = [
     hotSwap: true,
     qmkVia: true,
     imageUrl: `${BASE}/01-keychron-v5-max-small-keyboard-with-numpad.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CR16D8R2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR16D8R2?tag=workcocoon-20",
     whyItWorks:
       "Most complete 96% wireless keyboard at this price: tri-mode wireless (2.4 GHz at 1000 Hz polling rate, Bluetooth 5.1 up to 3 devices, USB-C wired), hot-swappable switches, and QMK/VIA for full key remapping. The 96% layout fits a full numpad in a frame about 4 to 5 cm narrower than full-size. Works on Mac, Windows, and Linux out of the box.",
     tradeoffs: [
@@ -82,7 +82,7 @@ export const products: NumpadKeyboard[] = [
     hotSwap: true,
     qmkVia: true,
     imageUrl: `${BASE}/02-keychron-q5-max-small-keyboard-with-numpad.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CR7HN22S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR7HN22S?tag=workcocoon-20",
     whyItWorks:
       "Full aluminum CNC-machined body with double-gasket mounting system reduces typing vibration and noise significantly compared to standard plate-mounted keyboards. At about 2 kg, it gives a premium desk feel. QMK/VIA programmability means every key is remappable. All three wireless modes are included. Same 96% layout as the V5 Max but with premium materials throughout.",
     tradeoffs: [
@@ -118,7 +118,7 @@ export const products: NumpadKeyboard[] = [
     hotSwap: false,
     qmkVia: false,
     imageUrl: `${BASE}/03-amazon-basics-wireless-keyboard-numpad.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07WV5WN7B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WV5WN7B?tag=workcocoon-20",
     whyItWorks:
       "Only option in this roundup making a full compact numpad layout accessible at a minimal budget. 2.4 GHz wireless with plug-and-play USB receiver, compact layout with numpad included. Works out of the box with no software, no setup, and no subscription. Clean quiet low-profile membrane keys for shared workspaces.",
     tradeoffs: [
@@ -155,7 +155,7 @@ export const products: NumpadKeyboard[] = [
     hotSwap: false,
     qmkVia: false,
     imageUrl: `${BASE}/04-perixx-periboard-536b-ergonomic-keyboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D6VWPGPB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D6VWPGPB?tag=workcocoon-20",
     whyItWorks:
       "Solves a problem none of the other picks address: wrist and forearm strain from extended typing. The split ergonomic layout angles both halves outward keeping wrists in a more natural position. The built-in numpad is on the right half and fully integrated. Detachable wrist rest is included. Silent membrane switches are appropriate for shared workspaces. Narrower than standard ergonomic keyboards at 16.34 by 5.71 inches.",
     tradeoffs: [
@@ -191,7 +191,7 @@ export const products: NumpadKeyboard[] = [
     hotSwap: false,
     qmkVia: false,
     imageUrl: `${BASE}/05-logitech-mk470-slim-keyboard-mouse.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07VD4Q84X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VD4Q84X?tag=workcocoon-20",
     whyItWorks:
       "Pairs a compact slim keyboard with numpad with a matching wireless mouse in one USB receiver. For a small desk being built from scratch, the combo eliminates needing to source a compatible mouse separately. Low-profile scissor-switch keys are quiet (Logitech rates them 90% quieter than standard keyboard). Both the keyboard and mouse share one USB port.",
     tradeoffs: [
@@ -229,7 +229,7 @@ export const products: NumpadKeyboard[] = [
     hotSwap: true,
     qmkVia: false,
     imageUrl: `${BASE}/06-keychron-k4-small-mechanical-keyboard-numpad.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=workcocoon-20",
     whyItWorks:
       "One of the first widely available 96% wireless mechanical keyboards. Bluetooth 5.1 connects up to 3 devices. Mac and Windows are both supported with included keycap sets. Hot-swappable sockets on newer versions. 4000 mAh battery rated at up to 240 hours without backlight. Sits between the Amazon Basics and the premium Q5 Max, offering mechanical switches and wireless at a mid-range price.",
     tradeoffs: [
@@ -266,7 +266,7 @@ export const products: NumpadKeyboard[] = [
     hotSwap: false,
     qmkVia: false,
     imageUrl: `${BASE}/07-nulea-wireless-number-pad.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DZGJ5XSX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZGJ5XSX?tag=workcocoon-20",
     whyItWorks:
       "Built for a completely different scenario: you already have a compact keyboard you like (TKL, 65%, or any layout without numpad) and want to add numpad capability without replacing it. Connects via Bluetooth 5.0 or 2.4 GHz dual-mode. The 34 keys cover all standard numpad functions plus arithmetic operators. USB-C rechargeable. Place it to the right when doing data entry and store it in a drawer when not needed.",
     tradeoffs: [

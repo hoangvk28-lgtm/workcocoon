@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31DhuAp0e8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07F7BHWC1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07F7BHWC1?tag=workcocoon-20",
     description:
       "The largest divider in this pool at 47.25 by 23.6 inches, sized for a shared desk or a full-width single desk rather than a narrow accent panel. Clamp-on mounting secures directly to a desk edge instead of relying on freestanding feet.\n\nGiven the wide coverage, this is a stronger fit for separating two coworkers across a shared surface than for a single small desk, where a smaller divider would suffice.\n\nSecure clamp-on mount rather than freestanding feet. On the other hand, highest price in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["47.25\" x 23.6\" panel", "Clamp-on mounting", "Ash gray finish", "No published NRC rating"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/319eZRnokAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07F7LTZ44?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07F7LTZ44?tag=workcocoon-20",
     description:
       "A square 23.6 by 23.6 inch clamp-on divider from the same ReFocus line, sized for a single desk rather than a full shared-surface span. The square proportions give balanced coverage both in height and width.\n\nCheck this divider's height against your own seated eye level, at 23.6 inches tall it may not fully cover the sightline and sound path above it depending on your chair and desk height.\n\nSecure clamp-on mount. That's a real strength, but weigh it against the flip side: height may not fully cover a taller seated eye level.",
     specs: ["23.6\" x 23.6\" panel", "Clamp-on mounting", "Cool gray finish", "No published NRC rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41xx2GRMqaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VBGG5QJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VBGG5QJ?tag=workcocoon-20",
     description:
       "A shorter, more compact clamp-on divider at 23.6 by 16 inches, the lowest-priced clamp-on option in this guide. The 'Raw' designation in the title suggests a simpler finish than the standard ReFocus line.\n\nAt only 16 inches tall, this is the shortest divider in this pool, worth checking carefully against your own seated eye level since a shorter panel leaves more open sound and sightline path above it.\n\nWorth calling out specifically: compact size fits smaller desks. The catch is shortest height in this guide, verify against your seated eye level.",
     specs: ["23.6\" x 16\" panel", "Clamp-on mounting", "Anthracite gray finish", "Lowest price of the clamp-on options"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31ssVs0VXYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4JZCR89?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4JZCR89?tag=workcocoon-20",
     description:
       "The smallest and least expensive divider in this guide at 15.6 by 11.7 inches, suited to a compact accent panel rather than full desk-height coverage. This size is more about softening a single sightline than genuinely dividing two workspaces.\n\nGiven the small footprint, this fits better as a monitor-adjacent accent than a true multi-desk divider, pair it with a larger panel if full coverage is the goal.\n\nSmall footprint fits tight desk spaces. Set against that, coverage is limited given the small dimensions. Both matter when comparing it to the other picks here.",
     specs: ["15.6\" x 11.7\" panel", "Dark grey finish", "Compact footprint", "Lowest price in this guide"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41Ph+OW9tlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DDB8BMCM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DDB8BMCM?tag=workcocoon-20",
     description:
       "A 2-pack sold in multiple width options at a consistent 20 inch height, giving buyers some flexibility to match the divider width to their actual desk rather than being locked into one fixed size.\n\nThe 20 inch height is worth checking against your own seated eye level before ordering, and marketed classroom and remote-learning use suggests this is built more for casual desk separation than heavy-duty office partitioning.\n\nA genuine advantage here is that 2-pack gives coverage for two desks or two sides. The tradeoff is 20 inch height may not cover a taller seated eye level.",
     specs: ["24\"/31\"/39\" W x 20\" H options", "2-pack", "Multiple width sizing", "Marketed for classroom and home office use"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31+5Em6iIAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07F7GHGJ1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07F7GHGJ1?tag=workcocoon-20",
     description:
       "The same 23.6 by 23.6 inch ReFocus clamp-on divider as our second pick, offered here in ash gray rather than cool gray. Functionally identical dimensions and mounting, purely a color preference decision between the two.\n\nCheck this divider's height against your own seated eye level the same way as the cool gray version, since the dimensions and coverage limitations are identical.\n\nAsh gray tone may match more office color schemes. On the other hand, same height limitation as the cool gray version. Neither should be a surprise once you know to look for it.",
     specs: ["23.6\" x 23.6\" panel", "Clamp-on mounting", "Ash gray finish", "Same dimensions as our cool gray pick"],

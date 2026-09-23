@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41nX4myeBUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010HWCE0O?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010HWCE0O?tag=workcocoon-20",
     description: "The only product in this research with 'magnets' explicitly stated in its title, confirming genuine magnetic mounting rather than an inferred or ambiguous claim.\n\nIt earns the top spot in this comparison for one main reason. Genuinely confirmed magnetic mounting, stated explicitly in the title.\n\nWorth knowing before you decide: Kickstand adds a second mounting option. On the other side, Pink color option may not suit all settings. That's the main tradeoff to weigh against everything above.",
     specs: ["8.5 inch LCD screen","Confirmed built-in magnets","Kickstand also included","Instant single-button erase"],
     pros: ["Genuinely confirmed magnetic mounting, stated explicitly in the title","Kickstand adds a second mounting option","Established Boogie Board brand reliability","Stylus included out of the box"],

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "382 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21F-0rmbcOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR381N86?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR381N86?tag=workcocoon-20",
     description: "Corsair's EX400U 2TB is explicitly built with MagSafe compatibility, meaning it is designed to align and attach to a MagSafe-equipped iPhone's magnet array directly, a genuine magnetic-mount feature rather than an implied one.\n\nIt earns the top spot in this comparison for one main reason. Genuinely designed with MagSafe magnetic compatibility.\n\nWorth knowing before you decide: Strong USB4 and Thunderbolt 4 compatible speed alongside the magnetic feature. On the other side, Premium price versus non-magnetic portable SSDs. That's the main tradeoff to weigh against everything above.",
     specs: ["2TB capacity","MagSafe compatible magnetic mount","Up to 4000MB/s read rated","USB4, Thunderbolt 4 compatible, includes 40Gbps cable"],
     pros: ["Genuinely designed with MagSafe magnetic compatibility","Strong USB4 and Thunderbolt 4 compatible speed alongside the magnetic feature","Includes a properly rated cable","Large 2TB capacity for a magnetic-mount drive"],

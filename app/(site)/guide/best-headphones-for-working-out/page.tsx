@@ -424,7 +424,7 @@ export default async function BestHeadphonesForWorkingOutPage() {
           <h2 className="text-xl font-bold text-white mb-2">Browse workout headphones on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">All Prime-eligible. IPX7, IP68, and bone conduction options.</p>
           <a
-            href="https://www.amazon.com/s?k=workout+headphones+ipx7&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=workout+headphones+ipx7&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

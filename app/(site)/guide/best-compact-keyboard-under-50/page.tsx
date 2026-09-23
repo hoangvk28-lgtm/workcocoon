@@ -864,7 +864,7 @@ export default async function BestCompactKeyboardUnder50Page() {
             and hot-swap.
           </p>
           <a
-            href="https://www.amazon.com/s?k=compact+keyboard+under+50&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=compact+keyboard+under+50&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

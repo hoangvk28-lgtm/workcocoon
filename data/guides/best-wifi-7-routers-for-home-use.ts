@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "An affordable entry point appropriate for typical households whose internet plan and device count don't come close to exhausting a mid-tier router's real capacity.\n\nKeeping 2.4GHz intact preserves compatibility with older smart-home devices, a genuine advantage for households running a mix of newer and legacy IoT gadgets.\n\nHigh 4.4-star rating with a large review base. Set against that, no 6GHz radio limits full Wi-Fi 7 feature set. Both matter when comparing it to the other picks here.",
     specs: ["Dual-band, no 6GHz radio", "4-stream configuration", "2x2.5G + 3x1G ports", "USB 3.0 port"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,324 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "Dual 2.5Gbps ports make this a solid pick for a home office needing a reliable wired desk connection for video calls, appropriate for buyers who work from home and want connection stability beyond Wi-Fi alone.\n\nCovering up to 2,400 square feet on paper, real coverage in a concrete or steel apartment building will be meaningfully shorter, worth planning your router's placement relative to your desk accordingly.\n\nThe standout detail is that high 4.4-star rating with a large review base. Balancing that out, no 6GHz radio limits full Wi-Fi 7 feature set.",
     specs: ["Dual-band, no 6GHz radio", "Dual 2.5Gbps ports", "Covers up to 2,400 sq. ft. (lab rated)", "USB 3.0 port"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,977 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/11+EgVZfdVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D955ZMSR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D955ZMSR?tag=workcocoon-20",
     description:
       "For households in a home with concrete or steel construction reducing single-router range room to room, a mesh 3-pack genuinely places coverage where a single unit's 6GHz signal can't reliably reach.\n\nMature app-based parental controls and guest network management make this a genuinely strong fit for typical family home use, though it does require an ongoing eero app account for basic configuration.\n\nMature parental controls and guest network for typical family use. That's a real strength, but weigh it against the flip side: higher cost than a single-router purchase for smaller households.",
     specs: ["Dual-band mesh, 3-pack", "Covers up to 6,000 sq. ft. (lab rated)", "Mature parental controls and guest network", "Seamless single-SSID roaming"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EClf31jxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=workcocoon-20",
     description:
       "A genuinely affordable mesh 3-pack with wired backhaul support for households with existing in-wall wiring, appropriate for buyers wanting whole-home coverage without the eero ecosystem's higher price point.\n\nA good option for households wanting to segment older, legacy smart-home IoT devices onto a separate network from newer Wi-Fi 7 clients, worth checking the Deco app's guest and IoT network options against your specific device list.\n\nWired backhaul option avoids wireless bandwidth tradeoffs. On the other hand, dual-band design skips the 6GHz radio. Both are worth keeping in mind before deciding.",
     specs: ["Dual-band mesh, 3-pack", "2x 2.5G wired backhaul ports", "Covers up to 6,500 sq. ft. (lab rated)", "TP-Link Deco app"],

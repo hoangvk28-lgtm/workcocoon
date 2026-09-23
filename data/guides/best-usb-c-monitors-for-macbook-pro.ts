@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51BiaZGDKRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQPSX5CR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQPSX5CR?tag=workcocoon-20",
     description:
       "A true 4K UHD panel with professional calibration, appropriate for MacBook Pro users whose Thunderbolt bandwidth can fully drive 4K resolution alongside HDR.\n\nExplicit Mac focus and professional-grade color accuracy make this a strong match for MacBook Pro's typical creative professional use case.\n\nThe standout detail is that proArt calibration suited to creative professional workflows. Balancing that out, highest price in this guide by a significant margin.",
     specs: ["27-inch true 4K UHD IPS panel", "HDR support", "ProArt color accuracy calibration", "Explicit Mac compatibility"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41f7dOeOBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=workcocoon-20",
     description:
       "A genuine 4K panel at a highly competitive price, MacBook Pro's Thunderbolt bandwidth easily handles this resolution without the premium price of the ProArt alternative.\n\nExplicitly marketed for MacBook compatibility, a strong value pick for MacBook Pro users not needing professional-tier color calibration.\n\nHighly competitive price for true 4K. That's a real strength, but weigh it against the flip side: no professional-tier color calibration like the ProArt alternative.",
     specs: ["27-inch true 4K (3840x2160) IPS panel", "HDR support", "Explicit Mac compatibility", "USB-C single-cable connectivity"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=workcocoon-20",
     description:
       "A genuinely high 144Hz refresh rate, MacBook Pro's Thunderbolt bandwidth on M1 Pro/Max and later chips generally supports this refresh rate at QHD resolution.\n\nAppropriate for MacBook Pro users wanting smoother motion for creative work like video timeline scrubbing or casual gaming.\n\nQHD resolution for strong productivity workspace. On the other hand, verify your specific MacBook Pro chip variant supports full 144Hz externally. Both are worth keeping in mind before deciding.",
     specs: ["27-inch QHD (2560x1440) panel", "144Hz refresh rate", "USB-C connectivity", "Good Thunderbolt bandwidth match"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41jGkitNULL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LCPY1TR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LCPY1TR?tag=workcocoon-20",
     description:
       "A QHD ProArt panel appropriate for MacBook Pro users wanting professional color calibration at a resolution comfortably within any MacBook Pro's Thunderbolt bandwidth.\n\nQHD resolution avoids any concern about bandwidth limitations even on lower-tier MacBook Pro chip variants.\n\nA genuine advantage here is that proArt color accuracy suited to design work. The tradeoff is that not true 4K, verify this matches your resolution needs.",
     specs: ["27-inch QHD (1440p) IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "Comfortable bandwidth fit for any MacBook Pro"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51+NCPHB1gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=workcocoon-20",
     description:
       "A more accessible ProArt panel for MacBook Pro users, standard 1080p resolution is easily driven by any MacBook Pro's Thunderbolt bandwidth without any compatibility concerns.\n\nProArt calibration credentials make this suitable for design work despite the lower resolution than the 27-inch alternatives.\n\n1080p resolution has zero bandwidth concerns on any MacBook Pro chip. That said, 1080p resolution is modest for a 24-inch professional monitor. Neither should be a surprise once you know to look for it.",
     specs: ["24-inch 1080p IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "No bandwidth concerns on any MacBook Pro"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 11 Amazon ratings",
     reviews: "11 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/211o7kU79XL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B84JLVBZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B84JLVBZ?tag=workcocoon-20",
     description:
       "A dedicated wall-mounted design genuinely built to be installed rather than adapted from a floor unit, freeing real floor area in a small room where every square foot matters.\n\nWall-mounted units are a genuinely smaller product category, expect a smaller review base per model than an equivalent floor-standing purifier, weigh the reviews accordingly.\n\nFrees all floor area in a tight room. Set against that, small review base compared to floor-standing alternatives. Both matter when comparing it to the other picks here.",
     specs: ["Dedicated wall-mounted design", "Frees floor space entirely", "Installed, not freestanding", "Small but positive review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 3 Amazon ratings",
     reviews: "3 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uGnGaebGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09MF98MD2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MF98MD2?tag=workcocoon-20",
     description:
       "A more affordable wall-mounted option than the premium pick, genuinely useful for a small room on a tighter budget still wanting to free floor space.\n\nThe very small review base here means less real-world evidence than an established floor unit, weigh this against the genuine floor-space benefit for your specific small room.\n\nThe standout detail is that frees floor area in a small room. Balancing that out, very small review base, less real-world evidence.",
     specs: ["Wall-mounted design", "More affordable than premium alternatives", "Frees floor space", "Compact profile"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "3.7 stars from 7 Amazon ratings",
     reviews: "7 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ORfA+RcJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DJVKNBGN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJVKNBGN?tag=workcocoon-20",
     description:
       "The most affordable wall-mounted option in this guide, genuinely appropriate for a very small room where a compact wall unit is sufficient rather than a full-capacity floor purifier.\n\nThe lower average rating and very small review base here mean more caution is warranted, this is best treated as a supplemental unit for a small space rather than a primary whole-room solution.\n\nFrees floor space in a very small room. That's a real strength, but weigh it against the flip side: lower average rating than other picks in this guide.",
     specs: ["Compact wall-mounted design", "Lowest price in this guide", "Small footprint", "Budget-friendly"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick here, a compact cylindrical floor unit worth considering if wall mounting isn't strictly required and a small footprint on a shelf or corner works instead.\n\nA compact floor unit like this can sit on a small side table or shelf, achieving some of the same floor-space benefit as wall mounting without the installation and filter-access tradeoffs.\n\nCan sit on a shelf or side table for a similar floor-space benefit. On the other hand, not a true wall-mount, still needs a surface. Both are worth keeping in mind before deciding.",
     specs: ["True HEPA H13, 99.97% particulate removal", "Compact cylindrical footprint, not wall-mounted", "Largest review base in this guide", "24dB quoted noise level"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large, well-established review base at a low price, another compact floor-unit alternative for a small room where a corner or shelf placement is acceptable instead of true wall mounting.\n\nIf floor space is only a mild concern rather than a hard constraint, this proven budget option offers far more real-world evidence than any dedicated wall-mount pick in this guide.\n\nA genuine advantage here is that low price. The tradeoff is that not a true wall-mount, still occupies some surface space.",
     specs: ["True HEPA filtration", "Large review base", "Compact design, not wall-mounted", "Budget-friendly"],

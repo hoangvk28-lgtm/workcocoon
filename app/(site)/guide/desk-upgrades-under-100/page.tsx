@@ -451,7 +451,7 @@ export default async function DeskUpgradesUnder100Page() {
           <p className="text-base font-semibold text-ink mb-1">Browse all desk upgrade products on Amazon</p>
           <p className="text-sm text-ink-secondary mb-5">See current prices, deals, and Prime shipping options</p>
           <a
-            href="https://www.amazon.com/s?k=ergonomic+desk+upgrades&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=ergonomic+desk+upgrades&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl text-sm font-bold text-white transition-all hover:opacity-90"

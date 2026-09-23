@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "3.7 stars from Amazon ratings",
     reviews: "6 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WbZodJeTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H24RR3F2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H24RR3F2?tag=workcocoon-20",
     description:
       "A fully wrapped clamp design, this is the same underlying clamp mechanism as our mounts-without-screws guide rather than a distinct adhesive or friction-only method, adjustable in both height and width for a range of case sizes.\\n\\nThe very small review base means long-term holding reliability over months of use is genuinely unproven here, worth weighing carefully against the more established picks in this guide before committing.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the VIVO Adjustable Clamp before deciding.\n\nWorth knowing before you decide: Height and width adjustable for varied case sizes. On the other side, Very small review base, long-term holding reliability is unproven. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Fully wrapped clamp design","Height and width adjustable","Very small review base","Budget price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "396 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31eCcCtZEoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BHF5W87B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BHF5W87B?tag=workcocoon-20",
     description:
       "The same leg-clamp mechanism covered in our clamp-on and without-screws guides, this pick's much larger review base gives genuinely more confidence in long-term holding reliability than the smaller-volume picks in this guide.\\n\\nAs with any no-drill mount, this clamp-based approach trades some maximum weight capacity for reversible, damage-free installation, verify your case's actual weight fits comfortably within its rated range.\n\nSet against the Under Desk PC Mount & CPU Holder, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Tool-free, fully reversible installation. On the other side, Lower weight capacity than a drilled mount, verify against your case weight. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Leg-clamp, no-drill mechanism","Tool-free installation","Large review base","Budget-friendly"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416Qk72eERL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCY4Q147?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCY4Q147?tag=workcocoon-20",
     description:
       "A strong 4.5-star rating on this no-drill leg-clamp design, explicitly marketed for standing desk use where repeated height cycling puts extra long-term stress on a screw-free connection compared to a fixed-height desk.\\n\\nThe moderate review count is worth weighing against the strong rating, and as a renter-friendly option, genuine damage-free removal deserves verification through current reviews before assuming any no-drill claim guarantees it.\n\nRelative to the VIVO Adjustable Clamp, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Explicitly designed for standing desk height-change durability. On the other side, Moderate review count relative to the largest-volume pick. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["No-drill leg-clamp","Standing desk compatible","Strong rating","Mid-range price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "28 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41n5BLsmv7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLYK9NPM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLYK9NPM?tag=workcocoon-20",
     description:
       "The highest average rating among these no-drill picks, this compact clamp mount is explicitly marketed for standing desk compatibility and No-drill removal, appropriate for renters wanting a reversible install without a large upfront commitment.\\n\\nAs with the other clamp-based no-drill picks here, this is the same underlying mechanism family as our without-screws guide, verify current reviews specifically address long-term holding without loosening over months.\n\nCompared with the JOY worker Under Desk PC Mount for Standing Desk above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Compact footprint suits smaller desk setups. On the other side, Smaller review base limits confidence in long-term holding. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["No-drill compact clamp","Standing desk compatible","Highest rating in this guide","Compact footprint"],

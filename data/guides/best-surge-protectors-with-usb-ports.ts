@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 44,144 Amazon ratings",
     reviews: "44,144 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=workcocoon-20",
     description:
       "8 outlets and 4 USB ports at a genuinely disclosed 2700 joules on the AC side, with a large, well-established review base. ETL listed.\\n\\nVerify whether the USB ports specifically carry any surge protection or rely solely on the AC-side MOV circuitry, a scope distinction most combined units don't clarify.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Power Strip.\n\nWorth knowing before you decide: Large, well-established review base. On the other side, USB-side surge protection scope not explicitly disclosed. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports, flat plug","2700 joules AC-side, ETL listed","6ft cord","Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "12 outlets and 4 USB ports with a large, well-established review base and genuine 2700 joule AC-side protection. ETL listed.\\n\\nAs with any combined unit, the UL/ETL listing here likely covers the AC-outlet performance specifically, not necessarily the USB-side charging circuitry.\n\nSet against the Surge Protector Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Large, well-established review base. On the other side, USB-side protection scope not explicitly disclosed. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 8,127 Amazon ratings",
     reviews: "8,127 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eM1NkEevL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC6GXZSV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC6GXZSV?tag=workcocoon-20",
     description:
       "8 outlets and 2 USB-C ports among 4 total, at a genuinely affordable price with a braided cord for durability. ETL listed.\\n\\nBudget combined units are more likely to cut corners on either the AC-side joule rating or USB-side protection specifically, verify this listing's specific joule number before assuming full coverage.\n\nRelative to the Power Strip, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Braided cord for durability. On the other side, Verify the specific AC-side joule rating for this listing. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports (2 USB-C), flat plug","ETL listed","5ft braided cord","Very affordable"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 6,431 Amazon ratings",
     reviews: "6,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J0Gowt80L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHMG5XHM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHMG5XHM?tag=workcocoon-20",
     description:
       "A genuinely long 15ft braided cord with 8 outlets and 2 USB-C ports among 4 total, useful if your desk sits far from the wall outlet. Strong rating base.\\n\\nThe added cost of USB-C circuitry alongside a long cord and surge protection may mean tradeoffs elsewhere, verify the specific AC-side joule rating for this listing.\n\nCompared with the Surge Protector Power Strip above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: 2 USB-C ports among 4 total. On the other side, Verify specific AC-side joule rating. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports (2 USB-C), flat plug","15ft braided cord","Ultra thin design","Strong rating base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "UL listed with 3,780 joules from an established brand, though this specific listing doesn't confirm USB port inclusion, verify against the exact product page before assuming charging capability alongside the surge protection.\\n\\nEstablished brand reputation gives more confidence that any USB circuitry included meets a reasonable quality bar, even without explicit USB-side protection disclosure.\n\nSet against the Surge Protector Power Strip 15 Ft Cord, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: UL listed for verified AC-side safety. On the other side, Verify USB port inclusion on this specific listing. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules","UL listed, 8ft flat plug cord","Established Belkin brand","Verify USB port inclusion on this listing"],

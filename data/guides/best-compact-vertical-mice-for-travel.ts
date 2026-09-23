@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "674 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31TnFhELhRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZWT3Q2Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZWT3Q2Y?tag=workcocoon-20",
     description:
       "Explicitly designed as a travel mouse with tri-mode connectivity, giving genuine flexibility between Bluetooth and a 2.4GHz dongle depending on what your travel setup needs that day.\n\nBeing genuinely built for travel rather than adapted from a desk-first design, this manages the compact-versus-ergonomic tradeoff better than most, though its vertical angle is naturally shallower than a full-size dedicated ergonomic mouse.\n\nThe standout detail is that compact body designed for packing. Balancing that out, shallower vertical angle than a full-size ergonomic mouse.",
     specs: ["Tri-mode connectivity, Bluetooth and 2.4G", "Compact folding-style travel body", "Purpose-built for travel", "Mid-range price point"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,689 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41HPNeaiKoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07YCFYLVX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07YCFYLVX?tag=workcocoon-20",
     description:
       "A folding design specifically built to minimize bag space, at the lowest price in this guide, with a solid review base for a dedicated travel mouse.\n\nThe folding mechanism trades some vertical angle for genuine flat-pack portability, so buyers prioritizing maximum ergonomic benefit should weigh this against the full-size guides elsewhere in this cluster.\n\nFolding design genuinely minimizes bag space. That's a real strength, but weigh it against the flip side: folding mechanism reduces vertical angle versus non-folding designs.",
     specs: ["Folding compact design", "2.4GHz wireless dongle", "3 adjustable DPI levels", "Budget price point"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "60 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Gy9aIft6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9KFSY9G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9KFSY9G?tag=workcocoon-20",
     description:
       "A sliding 2-in-1 mechanism that expands from a pocket-sized form to a larger usable shape, a genuinely different approach to the compact-versus-ergonomic tension than a fixed-size compact mouse.\n\nThe review sample here is small, so weigh the strong 4.4-star rating against the limited number of reviews, and confirm current charging cable type before buying.\n\nGenuinely pocket-sized when collapsed. On the other hand, small review sample size, verify current feedback. Both are worth keeping in mind before deciding.",
     specs: ["2-in-1 sliding expandable design", "Bluetooth connectivity", "Pocket-sized when collapsed", "Mid-range price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "Not purpose-built as a travel or folding mouse, but its smaller-than-full-size body and rechargeable USB-C-style charging make it a reasonable middle ground for buyers who want more ergonomic angle than the dedicated travel picks offer.\n\nConfirm current charging cable type and dongle storage before relying on this for frequent travel, since it's primarily marketed as a general compact ergonomic mouse rather than travel-specific.\n\nA genuine advantage here is that rechargeable battery. The tradeoff is that not purpose-built or marketed specifically for travel durability.",
     specs: ["Compact rechargeable body", "More pronounced vertical angle than folding travel mice", "2.4GHz wireless dongle", "Budget-to-mid price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "57 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ttLEqu0hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=workcocoon-20",
     description:
       "Explicitly sized for small to medium hands, which naturally overlaps with the compact footprint travelers want, at a very strong review rating though on a small sample size.\n\nIt isn't purpose-built or marketed as a travel mouse specifically, so confirm dongle storage and current charging cable type on the listing before relying on this for frequent packing.\n\nVery strong review rating. That said, small review sample size, verify current feedback. Neither should be a surprise once you know to look for it.",
     specs: ["Explicit small/medium hand sizing", "57-degree tilt angle", "Wireless connectivity", "Budget price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "181 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VQ8m4r1iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F4JNS3PX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F4JNS3PX?tag=workcocoon-20",
     description:
       "The lowest price in this guide, a wired compact mouse with adjustable DPI, useful for travelers who don't mind packing a cable in exchange for zero dongle-loss risk and no charging to manage.\n\nIts 4.1-star rating is more moderate than the other picks here, and being wired rather than wireless is a real tradeoff against the freedom the other picks in this guide offer.\n\nWorth calling out specifically: no dongle to lose or battery to charge while traveling. The catch is more moderate 4.1-star rating than other picks.",
     specs: ["Wired USB connection", "Adjustable DPI", "Compact ergonomic body", "Ultra-budget price point"],

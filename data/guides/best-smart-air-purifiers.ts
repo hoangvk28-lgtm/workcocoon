@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Smart app control with large rated coverage and a large, well-established review base, genuine real-world evidence of reliable smart features. Auto mode adjusts fan speed based on detected air quality.\n\nSensor accuracy isn't independently verified against a reference-grade monitor, treat auto-mode decisions as a useful estimate rather than laboratory-precise measurement.\n\nSmart app control and auto mode. That's a real strength, but weigh it against the flip side: sensor accuracy not verified against a reference-grade monitor.",
     specs: ["Smart app control, auto mode", "Up to 1875 sq ft rated (open room)", "Large review base", "Sensor-based speed adjustment"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A built-in air quality monitor with Auto and Eco modes, a large review base as evidence this sensor-based system has held up over years of real-world use. 3-year warranty.\n\nSensor placement on the unit itself means the displayed reading reflects air quality near the intake specifically, which may not represent the whole room, especially in larger or partitioned spaces.\n\nBuilt-in air quality monitor for real-time feedback. On the other hand, sensor reading reflects intake-proximity conditions, not whole-room. Both are worth keeping in mind before deciding.",
     specs: ["Air quality monitor, Auto/Eco mode", "Up to 1748 sq ft rated (open room)", "3-year warranty", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pCHKKqN2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=workcocoon-20",
     description:
       "The same proven air quality monitor and Auto/Eco mode design in a white finish, appropriate for a lighter aesthetic while keeping the same sensor-based operation. Same 3-year warranty.\n\nSame sensor-placement caveat applies, intake-proximity readings may not represent the whole room, especially in a larger or partitioned space.\n\nA genuine advantage here is that 3-year warranty. The tradeoff is that sensor reading reflects intake-proximity conditions, not whole-room.",
     specs: ["Air quality monitor, Auto/Eco mode", "Up to 1748 sq ft rated (open room)", "3-year warranty", "White finish"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 105,576 Amazon ratings",
     reviews: "105,576 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ezUHfn5wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FJ678YK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FJ678YK?tag=workcocoon-20",
     description:
       "A very large review base with smart and voice control features at an affordable price, genuinely convenient for hands-free adjustment. Compact design.\n\nMore internal electronic complexity, WiFi radio, processor, than a non-smart unit introduces additional potential failure points separate from the core air-purification hardware.\n\nSmart and voice control at an affordable price. That said, added smart circuitry complexity beyond core filtration hardware. Neither should be a surprise once you know to look for it.",
     specs: ["Smart and voice control", "Large review base", "Affordable", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 11,367 Amazon ratings",
     reviews: "11,367 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415AbiHqgpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNDM2RNG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNDM2RNG?tag=workcocoon-20",
     description:
       "A washable pre-filter alongside a solid rating base, genuinely useful for tracking filter status alongside any smart features this model offers. Up to 1073 sq ft rated.\n\nVerify whether this specific model's smart features extend to genuine air-quality sensing or are limited to basic remote control and filter-status notifications.\n\nWorth calling out specifically: washable pre-filter reduces some ongoing cost. The catch is verify extent of smart sensor features vs. basic remote control.",
     specs: ["Washable pre-filter, HEPA filtration", "Up to 1073 sq ft rated", "Solid review base", "Filter status tracking"],

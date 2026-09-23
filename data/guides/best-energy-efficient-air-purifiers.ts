@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "Explicit Eco mode alongside a large rated coverage, genuine real-world evidence from a large review base of efficient operation over years of use. 3-year warranty.\n\nHigh CADR at this rated coverage genuinely supports a favorable CADR-per-watt ratio, more meaningful than raw wattage alone for assessing true efficiency.\n\nExplicit Eco mode for efficient operation. That's a real strength, but weigh it against the flip side: cADR-per-watt not explicitly calculated by the manufacturer.",
     specs: ["Auto/Eco mode", "Up to 1748 sq ft rated (open room)", "3-year warranty", "Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pCHKKqN2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=workcocoon-20",
     description:
       "The same proven Eco-mode design in a white finish, appropriate for a lighter aesthetic while keeping the same efficiency claims and CADR-per-watt profile. Same 3-year warranty.\n\nSame efficiency considerations apply, raw wattage alone doesn't tell you efficiency, this pick's high CADR at this power draw supports a genuinely favorable ratio.\n\n3-year warranty. On the other hand, cADR-per-watt not explicitly calculated by the manufacturer. Both are worth keeping in mind before deciding.",
     specs: ["Auto/Eco mode", "Up to 1748 sq ft rated (open room)", "3-year warranty", "White finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide at an affordable price, appropriately sized for lower wattage draw for its coverage tier. True HEPA H13 filtration.\n\nDon't assume this unit's lower wattage automatically means better efficiency, verify its CADR at that wattage against a larger unit's CADR-per-watt ratio before assuming it's the more efficient choice.\n\nA genuine advantage here is that affordable price. The tradeoff is that cADR-per-watt not independently calculated for comparison.",
     specs: ["True HEPA H13 filter", "Compact, lower wattage design", "Largest review base in this guide", "Affordable"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft, real capacity that supports a genuinely favorable CADR-per-watt ratio if run at an appropriately matched speed for your actual room rather than maxed out unnecessarily.\n\nSmart features add some standby power draw from WiFi circuitry, a minor phantom-load consideration alongside the unit's core operational efficiency.\n\nSmart app control for monitoring. That said, smart WiFi circuitry adds some standby power draw. Neither should be a surprise once you know to look for it.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Higher capacity design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, appropriate if your primary concern is upfront price rather than a verified CADR-per-watt efficiency claim.\n\nAt this budget tier, running cost estimates are rarely provided with clear methodology, calculate your own realistic annual cost based on your actual usage pattern.\n\nWorth calling out specifically: solid review base. The catch is no Eco mode or efficiency claims confirmed.",
     specs: ["HEPA filtration", "Solid review base", "Budget-friendly", "Compact design"],

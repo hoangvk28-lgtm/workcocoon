@@ -45,7 +45,7 @@ export const products: CompactKeyboard[] = [
     qmkVia: true,
     keycaps: "ABS",
     imageUrl: `${BASE}/01-rk-royal-kludge-rk61-compact-keyboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B089GN2KBT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089GN2KBT?tag=workcocoon-20",
     whyItWorks:
       "Tri-mode wireless (Bluetooth 5.0, 2.4 GHz, USB-C wired), hot-swappable switches, QMK/VIA programmability, and RGB backlight all under $45. Connects to three Bluetooth devices simultaneously. Maximum compactness at 60% footprint eliminates cables while saving the most desk space.",
     tradeoffs: [
@@ -81,7 +81,7 @@ export const products: CompactKeyboard[] = [
     qmkVia: true,
     keycaps: "PBT",
     imageUrl: `${BASE}/02-keychron-c3-pro-tkl-keyboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CRDKQNQ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRDKQNQ5?tag=workcocoon-20",
     whyItWorks:
       "Gasket mounting at this price delivers noticeably reduced typing vibration and a premium sound profile that plastic-plate keyboards cannot match. QMK/VIA programmability, hot-swappable switches, and double-shot PBT keycaps at $35 to $40. TKL layout keeps all arrow keys, function row, and navigation cluster. Mac and Windows both supported with included keycap sets.",
     tradeoffs: [
@@ -112,7 +112,7 @@ export const products: CompactKeyboard[] = [
     qmkVia: false,
     keycaps: "ABS",
     imageUrl: `${BASE}/03-rk-royal-kludge-rk68-plus-65-keyboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09DWFDVCH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09DWFDVCH?tag=workcocoon-20",
     whyItWorks:
       "Adds dedicated arrow keys and a few navigation keys over the RK61 in only 2 cm of extra width while keeping tri-mode wireless and hot-swap. 65% is the practical sweet spot for users who need arrows daily without a full TKL footprint. Some versions include USB passthrough ports for additional connectivity on a small desk.",
     tradeoffs: [
@@ -147,7 +147,7 @@ export const products: CompactKeyboard[] = [
     qmkVia: false,
     keycaps: "Scissor",
     imageUrl: `${BASE}/04-logitech-pebble-keys-2-k380s.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BT4DP7SC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BT4DP7SC?tag=workcocoon-20",
     whyItWorks:
       "Only pick in this roundup designed explicitly for cross-platform and multi-device use. Connects to three Bluetooth devices simultaneously and switches between them with a single key press. Logi Bolt 2.4 GHz receiver also supported for low-latency connection. 36-month battery life on two AAA batteries eliminates charging management. Narrowest footprint in this list at 27 cm. Designed for macOS, iOS, and iPadOS alongside Windows with correct key labeling.",
     tradeoffs: [
@@ -183,7 +183,7 @@ export const products: CompactKeyboard[] = [
     qmkVia: false,
     keycaps: "ABS",
     imageUrl: `${BASE}/05-redragon-k552p-tkl-keyboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B019O9BLVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B019O9BLVY?tag=workcocoon-20",
     whyItWorks:
       "Metal top plate adds rigidity that is very rarely found under $35. Hot-swappable switches let you replace or swap without soldering. 18 RGB backlight modes. N-key rollover for full simultaneous keypress registration. Lowest price in this roundup while maintaining a build quality above its price tier.",
     tradeoffs: [
@@ -216,7 +216,7 @@ export const products: CompactKeyboard[] = [
     qmkVia: false,
     keycaps: "ABS",
     imageUrl: `${BASE}/06-epomaker-th80-se-75-keyboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BRZXLTRD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRZXLTRD?tag=workcocoon-20",
     whyItWorks:
       "Most feature-complete keyboard in this roundup. Gasket mounting, NKRO, tri-mode wireless, 4000 mAh battery, Poron and EVA foam dampening layers, south-facing RGB LEDs, and a metal rotary volume knob. 75% layout keeps both the function row and dedicated arrow keys in a frame only 1 cm wider than 65%. Pricing fluctuates and frequent Amazon sales bring it to $40 to $45.",
     tradeoffs: [
@@ -252,7 +252,7 @@ export const products: CompactKeyboard[] = [
     qmkVia: false,
     keycaps: "PBT",
     imageUrl: `${BASE}/07-tecware-phantom-plus-elite-tkl-keyboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BQ2ZFVNN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQ2ZFVNN?tag=workcocoon-20",
     whyItWorks:
       "Brings tri-mode wireless to the TKL layout at under $55, which is genuinely hard to find at this price. 5-pin hot-swappable sockets, double-shot PBT keycaps, and dampened case for a thocky sound profile. For users who want the familiar TKL layout with wireless freedom without paying $80 to $100 for Keychron wireless options.",
     tradeoffs: [

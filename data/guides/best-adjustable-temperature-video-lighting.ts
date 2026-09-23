@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,975 Amazon ratings",
     reviews: "2,975 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WMggt9RXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B087CZ85GV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B087CZ85GV?tag=workcocoon-20",
     description:
       "An explicit 2500K-6500K adjustable range, genuinely the widest Kelvin span disclosed among the picks in this guide, spanning warm incandescent-like tones through cool daylight, real flexibility for matching whatever ambient light your room has.\\n\\n9-inch panel with desk stand provides more even coverage than a small ring light, solid review base as evidence of reliable performance.\n\nIt leads this comparison mainly on review volume and clip-fit reliability across different monitor types, worth weighing directly against the Zoom Lighting for Computer.\n\n9-inch panel for even coverage. That's a real strength, but weigh it against the flip side: larger footprint than a compact clip-on light.",
     specs: ["2500K-6500K adjustable color temperature","9-inch LED panel, desk stand included","Solid review base","Wide Kelvin range"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 719 Amazon ratings",
     reviews: "719 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Phq+HhoVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2XMLRL3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2XMLRL3?tag=workcocoon-20",
     description:
       "A disclosed CRI of 97.8 alongside 30 distinct light modes, genuinely the most granular adjustability in this guide if you want fine control over both color temperature and brightness combinations, not just a wide Kelvin range alone.\\n\\nSolid review base and rating, real evidence this combination of high CRI and mode count performs well in practice.\n\nSet against the RALENO 9\" LED Video Light, the tradeoff here comes down to CRI rating and adjustability versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: 30 light modes for granular adjustability. The catch is kelvin range not as explicitly wide as the RALENO pick.",
     specs: ["CRI 97.8, 30 light modes","Desk ring light with stand","Adjustable color temperature and brightness combinations","Solid review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,872 Amazon ratings",
     reviews: "3,872 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41r5nA1roKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B095741MZS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B095741MZS?tag=workcocoon-20",
     description:
       "A large, well-established review base for a desk ring light with adjustable color temperature, genuine real-world evidence of reliable performance across many home office setups.\\n\\nSpecific Kelvin range not as prominently disclosed as the RALENO pick, but the strong review volume suggests consistent day-to-day satisfaction.\n\nRelative to the Zoom Lighting for Computer, this pick leans toward a different priority, whether that's a lower price, a wider color temperature range, or a different power source.\n\nAdjustable color temperature. Set against that, specific Kelvin range less prominently disclosed. Both matter when comparing it to the other picks here.",
     specs: ["Desk ring light with stand","Adjustable color temperature","Large, well-established review base","Computer/video recording focused"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 105 Amazon ratings",
     reviews: "105 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41g7ORMo68L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F4KR9R2D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F4KR9R2D?tag=workcocoon-20",
     description:
       "A larger 10-inch full-screen ring light design with an included phone holder, genuinely more coverage than a small clip-on ring light, appropriate if you also record with a phone alongside webcam calls.\\n\\nModest review base compared to the top picks, but a reasonable, affordable option for adjustable lighting with a larger light surface.\n\nCompared with the Desk Ring Light with Stand for Computer above, this pick trades some of that pick's proven track record for a different balance of price and features, worth weighing against your own video call setup.\n\nPhone holder for dual webcam/phone recording use. That's a real strength, but weigh it against the flip side: modest review base.",
     specs: ["10-inch full-screen LED ring light","Adjustable color temperature","Phone holder included","Stand included"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 6,958 Amazon ratings",
     reviews: "6,958 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41A4zdsn9bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08YJPJLFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08YJPJLFV?tag=workcocoon-20",
     description:
       "5 dimmable color settings at a genuinely affordable price, a solid entry point for adjustable temperature control if you don't need the widest Kelvin range or highest CRI of the premium picks in this guide.\\n\\nLarge, well-established review base, strong real-world evidence at this price point.\n\nSet against the ALTSON 10in Zoom Lighting for Computer, the tradeoff here comes down to CRI rating and adjustability versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: large, well-established review base. The catch is narrower color range than the premium desk-light picks.",
     specs: ["Ring light, clip-on","5 color temperature settings, 5 brightness levels","Laptop and monitor mount","Very affordable"],

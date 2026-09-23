@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 is the lowest upfront price in this list, and it covers print, scan, and copy for a household that mostly needs occasional convenience printing. The included 3-month Instant Ink trial softens the first cartridge purchase, which matters more for a low-volume buyer who doesn't want to commit to a subscription right away.\n\nAt genuinely low volume, standard cartridges left idle for 2-4 weeks can dry out and trigger a wasted cleaning cycle, so a household printing only a few pages a month should expect to print a test page periodically rather than let it sit untouched.\n\nWorth calling out specifically: instant Ink trial reduces first cartridge spend. The catch is standard cartridges can dry out with infrequent use.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 is built around a compact footprint for homes without a dedicated office nook, with duplex printing so double-sided pages don't need a manual flip. For a low-volume household this is genuinely one of the cheapest ways to own a real printer rather than relying on a library or copy shop.\n\nIt's a light-duty inkjet best kept under roughly 20 pages a month. At that volume the printer will run occasional auto-cleaning cycles between uses, which is a normal part of owning any cartridge inkjet at this tier rather than a defect.\n\nDuplex printing saves paper. Set against that, best suited to lighter print volumes. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The TS6520 adds a 1.42-inch OLED display and a clearer control panel over the base PIXMA models, useful in a household where more than one person prints occasionally and doesn't want to guess at menu icons. Duplex printing and a compact body carry over from the rest of the lineup.\n\nIt remains a standard cartridge inkjet, so the same low-volume math applies: it's most cost-effective well under 100 pages a month, and idle cartridges still need an occasional test print to stay healthy between uses.\n\nA genuine advantage here is that duplex printing built in. The tradeoff is standard cartridges, not an ink-tank system.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 pairs a low-volume-friendly price with an auto document feeder and built-in fax, features usually reserved for pricier office printers. That combination suits a household that only occasionally scans or faxes a multi-page form, like a signed lease or school paperwork, without buying a separate machine for it.\n\nAs a standard inkjet it shares the same idle-ink consideration as any cartridge printer at low volume: expect an occasional wasted cleaning cycle if it sits unused for a few weeks between print jobs.\n\nBuilt-in fax, useful for the rare household that still needs it. On the other hand, fax is a feature most low-volume households won't use. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-ZgpCGxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=workcocoon-20",
     description:
       "The TS3720 strips things down to basic wireless printing, scanning, and copying for the lowest price point of any all-in-one on this list. It's a sensible pick for a household that prints only occasionally and doesn't want to pay for a display or duplex printing it won't use.\n\nBecause it lacks duplex printing, double-sided pages need a manual flip, a fine tradeoff at genuinely low volume where that's rare anyway. Like every inkjet here, plan on an occasional test print to prevent nozzle clogging if it sits idle for weeks.\n\nSimple setup for infrequent use. That's a real strength, but weigh it against the flip side: no auto duplex printing.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31BXOlNqjZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=workcocoon-20",
     description:
       "The MG3620 leans on strong mobile and tablet printing support, a genuine convenience for a low-volume household that prints occasionally straight from a phone rather than sitting down at a computer. Print, scan, and copy round out the basics.\n\nIt costs more upfront than the other PIXMA picks here without adding duplex printing or a display, so it's worth choosing specifically for its mobile printing strength rather than as a default budget pick in this tier.\n\nWorth calling out specifically: simple all-in-one feature set. The catch is pricier than other PIXMA picks without duplex printing.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314c84l3lcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=workcocoon-20",
     description:
       "The TS6420 is the most fully featured all-in-one on this list, aimed at a low-volume household that still wants a display, duplex printing, and solid photo quality in one machine rather than the bare minimum. It's the pick for someone who prints infrequently but wants the printer to feel less basic when they do use it.\n\nThe higher price only makes sense if you'll use the extra features. A household printing a handful of plain text pages a month is better served by a cheaper PIXMA pick in this list.\n\nDuplex printing and a real display. Set against that, highest price among the standard inkjets here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51zPjelEtML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=workcocoon-20",
     description:
       "This is a Bluetooth inkless thermal printer, not a standard inkjet or laser printer, and it's included here specifically for buyers whose real need is portable, occasional printing of letter-size or A4 pages, like boarding passes, worksheets, or quick documents in a car or small apartment. Because it uses heat-sensitive paper instead of ink or toner, it has zero idle-ink risk, which actually makes it a strong fit for extremely low-volume use.\n\nThe tradeoff is real: output quality and paper cost per page do not match a true inkjet or laser printer, and it's not a substitute for a full home printer if you occasionally need photo-quality prints or heavier document volume. Treat it as the pick for someone who prints rarely and wants zero maintenance rather than the best all-around low-volume printer on this list.\n\nA genuine advantage here is that portable, works with phone or laptop. The tradeoff is not a substitute for a full inkjet or laser printer.",
     specs: [

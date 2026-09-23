@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31TEKpDho8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CM23Z5HY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CM23Z5HY?tag=workcocoon-20",
     description:
       "This is a rechargeable 9.5 inch erasable writing notepad with a small built-in digital clock, date, and indoor temperature readout, not a full-screen calendar hub with a monthly grid view. It is genuinely useful as a compact desk memo pad that also shows the time and date at a glance without a separate battery-powered clock taking up space.\\n\\nIt suits office desks and home entryways where a quick note plus a date reference is all that is needed. It does not sync to any calendar account and has no month view, so buyers expecting a Skylight-style touchscreen calendar should look elsewhere in this guide.\n\nIt leads this comparison on the strength of its display size, sync reliability, and household-organization features, worth weighing directly against the JSJGETYI Electronic Desktop Calendar Rechargeable Writing Notepad with Digital Clock Date Time Week Indoor Temperature Display 9.5inch Drawing Pad for Office Home Business.\n\nWorth knowing before you decide: Digital clock, date, and temperature in one small display. On the other side, Not a full-screen digital calendar display. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["9.5 inch rechargeable writing notepad","Digital clock and date display","Indoor temperature readout","Erasable writing surface for office or home use"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41o-gDoZxmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C16TZWCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C16TZWCG?tag=workcocoon-20",
     description:
       "The white version of JSJGETYI's rechargeable 9.5 inch writing notepad, adding a day-of-week readout alongside the digital clock, date, and indoor temperature display. Like its black counterpart, this is an erasable drawing pad with a small digital readout, not a touchscreen calendar with a scrollable month view.\\n\\nThe lighter finish suits a bright home office or shared desk better than the black version for some buyers. It shares the same core limitation as the rest of the JSJGETYI line: no calendar account sync and no month-at-a-glance display.\n\nSet against the JSJGETYI Electronic Calendar with Notepad Digital Clock Date Display Desktop Calendar Rechargeable 9.5inch Writing Board for Office Business Home Decor, the tradeoff here comes down to display size versus wall space and price, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Compact and affordable. On the other side, Not a full-screen digital calendar display. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["9.5 inch rechargeable writing notepad","Digital clock, date, week, and temperature display","White finish","Erasable drawing pad surface"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51RBTmIEkTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G2QWV91F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2QWV91F?tag=workcocoon-20",
     description:
       "This 15.6 inch touchscreen display auto syncs with personal calendar accounts and needs no ongoing subscription, a real cost advantage over calendar hubs that charge a monthly fee for basic sync. It doubles as a digital photo frame when idle and includes built-in chore chart, meal planner, and task and reward tools aimed at shared family or household scheduling.\\n\\nIt mounts to a wall or sits on a desk, giving some flexibility in placement that a fixed picture-frame style calendar cannot match. The tradeoff is a bigger footprint than a phone or tablet screen, so measure your intended spot before buying.\n\nRelative to the JSJGETYI Electronic Desktop Calendar Rechargeable Writing Notepad with Digital Clock Date Time Week Indoor Temperature Display 9.5inch Drawing Pad for Office Home Business, this pick leans toward a different priority, whether that's a more compact footprint, a different sync method, or a simpler feature set.\n\nWorth knowing before you decide: Doubles as a digital photo frame. On the other side, Larger footprint than a paper or phone calendar. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["15.6 inch touchscreen display","No ongoing subscription required","Auto sync with personal calendar accounts","Wall or desk mountable"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41NUEI-nAdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C9V811L6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C9V811L6?tag=workcocoon-20",
     description:
       "Skylight is an established name in this category, and this 15 inch touchscreen display is built specifically around family scheduling, with a chore chart and rewards system alongside genuine sync to personal calendar accounts. The white frame keeps it looking like a picture frame rather than a gadget on a kitchen counter or home office wall.\\n\\nThe premium price reflects the more polished software experience compared to generic 15.6 inch alternatives, and buyers should confirm whether any premium features require an ongoing subscription before purchase. It is a strong fit for households that actively use shared chore and meal-planning tools rather than a simple date display.\n\nCompared with the Kinstone 15.6\" Digital Calendar above, this pick trades some of that pick's screen size or feature depth for a different balance of price and simplicity, worth weighing against your household's actual needs.\n\nWorth knowing before you decide: Genuine sync with personal calendar accounts. On the other side, Premium price versus generic 15.6 inch alternatives. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["15 inch touchscreen display","Chore chart and rewards system","Syncs with personal calendar accounts","White picture-frame style design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41tylq-FSLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FJM4CYWL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FJM4CYWL?tag=workcocoon-20",
     description:
       "A 15.6 inch Full HD 1920x1080 IPS touchscreen at the same size class as the pricier Kinstone and Skylight displays, positioned as a wall or desk electronic calendar with meal planner support. The IPS panel should hold color and brightness well from an angle, useful if it sits somewhere the whole household passes by.\\n\\nThe listing documents fewer named extras than the Kinstone or Skylight lines, so treat it as a straightforward large-screen option rather than a full feature-matched competitor. Confirm current pricing and specific sync capabilities directly on the listing before buying.\n\nSet against the Skylight Calendar, 15\" Touchscreen Digital Calendar & Chore Chart, the tradeoff here comes down to display size versus wall space and price, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Same 15.6 inch size class as pricier competitors. On the other side, Price not independently confirmed at publish time, check current listing. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["15.6 inch Full HD 1920x1080 IPS screen","Touchscreen interactive display","Wall or desk placement","Meal planner support"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/4149-qACFUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F71PYVTZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F71PYVTZ?tag=workcocoon-20",
     description:
       "At 27 inches this is the largest display in this guide by a wide margin, built as a genuine family command center rather than a compact desk accessory. It carries the same chore chart, rewards, and personal calendar account sync as the smaller Skylight models, scaled up so an entire week is legible from across a kitchen or living room.\\n\\nThe charcoal finish and premium price place it firmly in command-center territory rather than a casual desk pick, and it also ships in a classic white finish for buyers who prefer a lighter look. It needs meaningfully more wall space than any other pick here, so confirm clearance before buying.\n\nRelative to the 15.6 Inch Digital Calendar, this pick leans toward a different priority, whether that's a more compact footprint, a different sync method, or a simpler feature set.\n\nWorth knowing before you decide: Genuine sync with personal calendar accounts. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["27 inch touchscreen display","Chore chart and rewards system","Syncs with personal calendar accounts","Charcoal finish, also available in white"],

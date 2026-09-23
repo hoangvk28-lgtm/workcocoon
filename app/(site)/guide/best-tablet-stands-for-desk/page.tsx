@@ -88,7 +88,7 @@ const sections = [
     heading: "Best Overall Tablet Stand for Desk: Lamicall S1",
     sub: "Simple, stable, and compact — the right starting point for most small desk setups.",
     index: 0,
-    amazonUrl: "https://www.amazon.com/s?k=lamicall+tablet+stand+for+desk&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=lamicall+tablet+stand+for+desk&tag=workcocoon-20",
     amazonLabel: "Browse Lamicall Tablet Stands on Amazon",
     also: "Also consider the UGREEN compact stand ($9.99) if you primarily move your stand between locations — it has a slightly smaller footprint and folds even flatter.",
   },
@@ -96,7 +96,7 @@ const sections = [
     heading: "Best Compact Tablet Stand: LISEN Aluminum",
     sub: "A compact aluminum stand for phones, small tablets, and anyone who wants an upgrade over plastic.",
     index: 1,
-    amazonUrl: "https://www.amazon.com/s?k=compact+aluminum+tablet+stand&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=compact+aluminum+tablet+stand&tag=workcocoon-20",
     amazonLabel: "Browse Compact Aluminum Tablet Stands on Amazon",
     also: "Also consider the UGREEN stand ($9.99) if you have a tablet up to 11\" and want the lightest possible option for carrying between locations.",
   },
@@ -104,7 +104,7 @@ const sections = [
     heading: "Best Rotating Tablet Stand: Lamicall 360°",
     sub: "For video calls, shared viewing, and anyone who switches between portrait and landscape often.",
     index: 2,
-    amazonUrl: "https://www.amazon.com/s?k=360+rotating+tablet+stand+for+desk&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=360+rotating+tablet+stand+for+desk&tag=workcocoon-20",
     amazonLabel: "Browse Rotating Tablet Stands on Amazon",
     also: "Also consider the Lamicall S1 if you rarely rotate your screen — you get the same brand quality and stable base for slightly less.",
   },
@@ -112,7 +112,7 @@ const sections = [
     heading: "Best for Large Tablets and Portable Monitors: LISEN Foldable",
     sub: "Handles iPad Pro 12.9\", Surface Pro, and 15.6\" portable monitors while still folding to pocket size.",
     index: 3,
-    amazonUrl: "https://www.amazon.com/s?k=tablet+stand+for+large+tablets+portable+monitor&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=tablet+stand+for+large+tablets+portable+monitor&tag=workcocoon-20",
     amazonLabel: "Browse Large Tablet Stands on Amazon",
     also: "Also consider the Twelve South HoverBar Duo if you want the large tablet raised to eye level on an arm rather than sitting low on the desk surface.",
   },
@@ -120,7 +120,7 @@ const sections = [
     heading: "Best Portable Tablet Stand: UGREEN",
     sub: "The smallest footprint in this guide — easy to carry between desk, library, and class.",
     index: 4,
-    amazonUrl: "https://www.amazon.com/s?k=ugreen+tablet+stand+adjustable&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=ugreen+tablet+stand+adjustable&tag=workcocoon-20",
     amazonLabel: "Browse UGREEN Tablet Stands on Amazon",
     also: "Also consider the Amazon Basics stand if your main use is e-reader or Kindle viewing and you want the lowest-cost option — the UGREEN is more adjustable but both are affordable.",
   },
@@ -128,7 +128,7 @@ const sections = [
     heading: "Best Premium Tablet Stand: Twelve South HoverBar Duo",
     sub: "A weighted arm that positions your iPad at exactly the height and angle you need for desk work and calls.",
     index: 5,
-    amazonUrl: "https://www.amazon.com/s?k=twelve+south+hoverbar+duo&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=twelve+south+hoverbar+duo&tag=workcocoon-20",
     amazonLabel: "Browse Twelve South iPad Stands on Amazon",
     also: "Also consider a LISEN clamp arm mount if you want a flexible arm at a lower price point — the HoverBar Duo is specifically designed for iPad and has a cleaner aesthetic.",
   },
@@ -136,7 +136,7 @@ const sections = [
     heading: "Best Budget Tablet Stand: Amazon Basics Foldable",
     sub: "A simple, affordable stand for occasional desk viewing, Kindle reading, and light use.",
     index: 6,
-    amazonUrl: "https://www.amazon.com/s?k=amazon+basics+tablet+stand+foldable&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=amazon+basics+tablet+stand+foldable&tag=workcocoon-20",
     amazonLabel: "Browse Budget Foldable Tablet Stands on Amazon",
     also: "Also consider the UGREEN stand for a small price increase — it has a better angle range and slightly more stable construction for regular desk use.",
   },
@@ -328,7 +328,7 @@ export default async function BestTabletStandsForDeskPage() {
             <p className="font-semibold text-ink mb-1">Browse all tablet stands for desk on Amazon</p>
             <p className="text-sm text-ink-secondary">Current prices, customer photos, and more options.</p>
           </div>
-          <a href="https://www.amazon.com/s?k=tablet+stands+for+desk&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+          <a href="https://www.amazon.com/s?k=tablet+stands+for+desk&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
             className="shrink-0 inline-flex items-center gap-2 px-5 py-3 rounded-lg text-sm font-bold bg-[#FF9900] text-white hover:bg-[#e68900] transition-colors whitespace-nowrap">
             <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M12.26 18.36C9.18 20.34 4.76 21.38 1 20.16c-.38-.13-.33-.44.08-.35 3.47.67 7.77-.07 10.6-1.82.47-.27.87.17.58.37zm1.06-1.17c-.43-.56-2.85-.27-3.94-.13-.33.04-.38-.25-.08-.46 1.93-1.36 5.1-.97 5.47-.51.37.46-.1 3.63-1.91 5.14-.28.23-.54.11-.42-.2.41-.98 1.32-3.28.88-3.84z"/></svg>
             Shop on Amazon

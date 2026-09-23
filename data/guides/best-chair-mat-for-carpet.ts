@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "54,421",
     imageUrl: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=workcocoon-20",
     description:
       "This PU vinyl mat is 2.2mm thick and measures 36x48 inches with an extended lip and ramped edges so the transition from carpet to mat doesn't create a lip your chair casters catch on. Molded cleats and anchor bars on the underside dig into low pile carpet up to 1/4 inch thick, and the top surface has an anti-skid texture.\n\nIts 5-year warranty is the longest of any pick in this guide, a meaningful detail on a mat that lives under constant rolling pressure. It's built specifically for low pile carpet, so check your carpet's pile height before buying if you're not sure it qualifies.\n\nA genuine advantage here is that ramped lip smooths the carpet-to-mat transition. The tradeoff is only rated for low pile, not medium or high.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "19,120",
     imageUrl: "https://m.media-amazon.com/images/I/312JmZc6DqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BZCYM9X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BZCYM9X?tag=workcocoon-20",
     description:
       "Dimex builds this PVC mat 0.25 inches thick, the thickest PVC mat with a front lip in this guide, in a 36x48 footprint with a 20-inch wide, 10-inch deep front lip that tucks under a desk. Cleated backing anchors it into low pile carpet up to 1/4 inch, and rounded corners reduce a common tripping and curling complaint.\n\nIt's Made in USA, which matters to some buyers on price and quality grounds, and the extra PVC thickness gives it a sturdier feel underfoot than thinner vinyl mats at a similar price.\n\nMade in USA. On the other hand, still rated for low pile only. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "This mat uses a special rigid material 5mm (0.2 inches) thick, the thickest mat in this entire guide, in a 54x32 footprint that stays rigid and flat rather than curling at the edges. It's rated for 1,400 lbs, the highest capacity of any pick here, which matters for heavier chairs or heavier users.\n\nBecause it's rigid rather than rolled vinyl, it works equally well on carpet or hard floor without needing to be flipped, and it carries a 12-month warranty. Its rigidity is a real advantage on carpet since it won't sink into the pile the way a thin flexible mat can.\n\nThickest material in this guide. That's a real strength, but weigh it against the flip side: shortest warranty among the higher-priced picks.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "5,626",
     imageUrl: "https://m.media-amazon.com/images/I/51aIF9KY80L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CC1ZLDL2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CC1ZLDL2?tag=workcocoon-20",
     description:
       "BesWin's PVC mat is 2.2mm thick in a 30x48 footprint with 3mm spikes on the underside designed to grip directly into carpet fibers rather than just sitting on top of them. Pleated corners help it lie flatter than a plain-cut edge, and the construction is BPA-free, phthalate-free, and odorless.\n\nIt's the only no-lip PVC pick in this guide backed by a lifetime warranty, a strong claim at this price point. Give it about 24 hours flat after unboxing before judging whether it lies fully flat, since a rolled mat needs that settling time.\n\nWorth calling out specifically: lowest price among the standard PVC mats. The catch is no front lip for tucking under a desk.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "5,334",
     imageUrl: "https://m.media-amazon.com/images/I/31IK+GtR-sL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07C1VP5Z1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07C1VP5Z1?tag=workcocoon-20",
     description:
       "This PVC mat is 0.11 inches thick with a 36x48 footprint and a tapered front lip measuring 24.7 inches wide by 9.2 inches deep, sized to tuck neatly under most desks. Rounded corners reduce the curling and cracking that square-cut corners are prone to over time. It's rated for low pile carpet up to 1/4 inch, Made in USA, and backed by a 1-year warranty. It's the cheapest Made-in-USA pick in this guide, a good fit if budget matters more than extended coverage. Tapered lip sized to tuck under a desk. Set against that, thinnest material among the PVC picks at 0.11\". Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,956",
     imageUrl: "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=workcocoon-20",
     description:
       "This is a 100% polycarbonate mat, 0.087 inches thick, in a 36x48 footprint with hundreds of spikes across the underside for carpet grip. Polycarbonate is naturally more impact-resistant than PVC, and it ships completely flat rather than rolled, so there's no waiting period for it to relax before it lies flat.\n\nIt's rated for medium to low pile carpet up to 3/4 inch, a wider pile range than most of the PVC picks in this guide, making it a better fit if your carpet has noticeably more cushion underfoot than a thin office-grade low pile.\n\nA genuine advantage here is that rated for a wider pile range than the PVC picks. The tradeoff is pricier than the budget PVC picks.",
     specs: [
@@ -240,7 +240,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "4,591",
     imageUrl: "https://m.media-amazon.com/images/I/21yIdI78BnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1R227SY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1R227SY?tag=workcocoon-20",
     description:
       "Staples' clear vinyl mat is 0.25 inches thick with a 20-inch lip in a 36x48 footprint, and it uses rounded AnchorBar cleats on the underside instead of sharp spikes, a gentler design if bare feet or pets share the space around the desk. It's rated for flat pile carpet up to 1/8 inch, the shallowest pile rating in this guide.\n\nIt's the only GREENGUARD-certified pick in this list, relevant for indoor air quality if the mat sits in a bedroom or shared living space rather than a dedicated office.\n\nRounded cleats are safer around bare feet or pets. On the other hand, shallowest pile rating in this guide at 1/8\". Neither should be a surprise once you know to look for it.",
     specs: [
@@ -272,7 +272,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "1,397",
     imageUrl: "https://m.media-amazon.com/images/I/51zlFzzlTaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8M2JCHR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8M2JCHR?tag=workcocoon-20",
     description:
       "TONOS builds this polycarbonate mat 0.1 inches thick in a 47.5x35.5 footprint, the widest polycarbonate mat with a lip in this guide, with an extended lip designed specifically to tuck under a desk. Enhanced cleats and studs on the underside grip low pile carpet, and the semi-transparent finish wipes clean easily. at a budget-friendly price it undercuts most of the other polycarbonate picks here while still offering more surface area, a reasonable trade if you want polycarbonate's added durability without paying a premium for it. Cheapest polycarbonate pick in this guide. That's a real strength, but weigh it against the flip side: only rated for low pile, unlike the other polycarbonate pick.",
     specs: [

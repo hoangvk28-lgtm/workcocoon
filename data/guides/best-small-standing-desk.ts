@@ -36,7 +36,7 @@ export const products: SmallStandingDesk[] = [
     depth: "24\"",
     heightRange: "28.35\" to 46.46\"",
     imageUrl: `${BASE}/01-ergear-40x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D14WQX8L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D14WQX8L?tag=workcocoon-20",
     whyItWorks:
       "The ErGear 40\" is the compact version of the ErGear 48x24\" - the No.1 Best Seller in Home Office Desks. The 40\" variant carries the same motor platform and frame quality in a width that fits spaces where 48\" does not. At 40\" width, a single-monitor setup is fully comfortable. Dual monitors require arm mounting at this width - two 24\" monitors have a combined width of over 44 inches, making side-by-side impossible without overlap without a monitor arm.",
     tradeoffs: [
@@ -66,7 +66,7 @@ export const products: SmallStandingDesk[] = [
     depth: "21\"",
     heightRange: "Verify current listing",
     imageUrl: `${BASE}/02-huanuo-32-drawers.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G5NJNS61?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G5NJNS61?tag=workcocoon-20",
     whyItWorks:
       "The HUANUO 32\" is the smallest electric standing desk on this list and the only one with built-in drawers. At 32x21\", it is designed for true micro-space use: a bedroom corner, a studio apartment alcove, a dorm desk position beside a bed. The 4.6 stars at 2,045 reviews is a strong trust signal for a specialized small desk. Two drawers at 32\" width is a significant storage-to-footprint ratio - you get storage without adding a separate pedestal. Use with a monitor arm to compensate for the 21\" depth on a 24\" display.",
     tradeoffs: [
@@ -96,7 +96,7 @@ export const products: SmallStandingDesk[] = [
     depth: "24\"",
     heightRange: "28.3\" to 46.5\"",
     imageUrl: `${BASE}/03-claiks-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=workcocoon-20",
     whyItWorks:
       "The Claiks 48\" is the standard-width pick. Amazon's Choice badge at 5,223 reviews is a strong combined trust signal. At 48x24\", it is the minimum standard-size electric standing desk and the correct choice for buyers whose space accommodates 48\" of wall width. The 176 lb max load handles dual-monitor setups comfortably. Note the 46.5\" max height falls short for users 5'11\"+ who need 47\"+ standing height.",
     tradeoffs: [
@@ -125,7 +125,7 @@ export const products: SmallStandingDesk[] = [
     depth: "24\"",
     heightRange: "Verify current listing",
     imageUrl: `${BASE}/04-agilestic-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CSPJR8W8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSPJR8W8?tag=workcocoon-20",
     whyItWorks:
       "The Agilestic is the budget 48\" pick. It holds 4.5 stars across 2,818 reviews - above Claiks's 4.4 stars at a smaller but meaningful sample size. It typically prices below both Claiks and the ErGear 48\", making it the option for buyers who need 48\" width at the lowest possible cost while maintaining a 4.5 star rating.",
     tradeoffs: [
@@ -154,7 +154,7 @@ export const products: SmallStandingDesk[] = [
     depth: "24\"",
     heightRange: "Verify current listing",
     imageUrl: `${BASE}/05-siago-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CTMDZ3DX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTMDZ3DX?tag=workcocoon-20",
     whyItWorks:
       "The SIAGO is the cable management pick. Its listing explicitly highlights cable management as a feature - uncommon among budget electric standing desks. A standing desk that moves up and down has an additional cable challenge that a fixed desk does not: cables run from the desk to the floor, and when the desk rises, those cables pull taut or pool on the floor if too short. The SIAGO's built-in cable routing helps manage this without a separate purchase. At 4.6 stars, it holds the highest rating on the 48\" options.",
     tradeoffs: [
@@ -183,7 +183,7 @@ export const products: SmallStandingDesk[] = [
     depth: "24\"",
     heightRange: "28.3\" to 46.5\"",
     imageUrl: `${BASE}/06-huanuo-40x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F9WS2KDR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9WS2KDR?tag=workcocoon-20",
     whyItWorks:
       "The second 40\" option on this list. Where the ErGear 40\" (Pick 1) carries brand trust from ErGear's established reputation, the HUANUO 40\" differentiates with a published motor endurance claim: tested to 50,000 full-load lifting cycles. At 4 adjustments per day, 50,000 cycles represents 34 years of motor life under normal use. HUANUO's background in monitor accessories means surface stability is generally well-designed. The 28.3\" to 46.5\" height range covers users from sitting to approximately 5'11\" standing height.",
     tradeoffs: [

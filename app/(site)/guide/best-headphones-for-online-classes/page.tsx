@@ -333,7 +333,7 @@ export default async function BestHeadphonesOnlineClassesPage() {
         <section className="mb-14 p-6 rounded-2xl flex flex-col items-center text-center" style={{ background: "linear-gradient(135deg, #FF9900 0%, #e68900 100%)" }}>
           <h2 className="text-xl font-bold text-white mb-2">Browse student headphones on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">Wireless, wired, and ANC options -- all Prime-eligible.</p>
-          <a href="https://www.amazon.com/s?k=headphones+for+online+classes+students&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+          <a href="https://www.amazon.com/s?k=headphones+for+online+classes+students&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
             Shop on Amazon &rarr;
           </a>

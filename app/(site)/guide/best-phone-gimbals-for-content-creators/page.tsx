@@ -452,7 +452,7 @@ export default async function BestPhoneGimbalsPage() {
           <h2 className="text-xl font-bold text-white mb-2">Browse phone gimbals on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">All Prime-eligible. Budget starter to professional bundle options.</p>
           <a
-            href="https://www.amazon.com/s?k=best+phone+gimbal+content+creator&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=best+phone+gimbal+content+creator&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

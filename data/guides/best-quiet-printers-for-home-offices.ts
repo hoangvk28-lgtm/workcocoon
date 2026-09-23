@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "As an inkjet, the DeskJet 4355 relies on a carriage motor moving the print head back and forth rather than a laser printer's fuser and drum assembly, which generally means a steadier, lower hum during a print job rather than a louder mechanical burst. That mechanism alone makes it a reasonable default for a desk near a video call setup. at a budget-friendly price it's also one of the cheapest picks here, so buyers get quieter-mechanism printing without paying a premium. The trade-off is a smaller print job at a time, an inkjet head passing over the page multiple times takes longer than a laser page coming out in one pass. Affordable price for the mechanism type. That's a real strength, but weigh it against the flip side: slower per-page speed than a laser printer.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "Like other inkjets in this list, the PIXMA TR4720 uses a carriage-motor mechanism that runs steadier during a print job than a laser printer's fuser warm-up cycle. Its automatic document feeder is a genuine advantage for a quiet office that scans multi-page documents, it avoids the repeated lid-opening and manual repositioning a flatbed-only scanner requires.\n\nBuilt-in fax is a legacy feature that doesn't add operating noise since it's rarely used. Mobile printing setup follows a short guided process, useful for a home office managing print jobs from a phone during a call.\n\nWorth calling out specifically: automatic document feeder for quieter multi-page scanning. The catch is cartridge-based ink costs more at higher volume.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=workcocoon-20",
     description:
       "The MFC-J1360DW pairs an inkjet's steadier carriage-motor hum with automatic duplex printing, useful for a quiet office that wants double-sided documents without the extra noise and time of manually flipping pages mid-job. A 1.8-inch color display shows plain status information rather than requiring you to interpret indicator lights.\n\nThe included Refresh Subscription trial lets you test automatic ink reordering before committing. As with any inkjet, expect the print head to run for the full duration of a job rather than the shorter burst of a laser engine finishing a page.\n\nAutomatic duplex printing built in. Set against that, higher price than the basic inkjet picks in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "As an ink-tank printer, the ET-2800 uses the same general carriage-motor print mechanism as a cartridge inkjet, so its in-use operating character is similarly steadier than a laser printer's burst noise pattern, without cartridge-swap clicks interrupting a session as often. Scan and copy are built in alongside color printing.\n\nThe ink-tank system also means fewer interruptions overall for a quiet office, refills happen far less often than cartridge swaps, so there are fewer moments of opening the printer and handling components mid-workday.\n\nA genuine advantage here is that fewer interruptions from cartridge swaps. The tradeoff is highest upfront price of the inkjet picks in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 adds an automatic document feeder and Ethernet connectivity on top of the same steadier ink-tank print mechanism as the ET-2800, useful for a shared quiet office scanning multi-page documents regularly. Fax is included as a legacy feature.\n\nEthernet gives a wired networking option for an office that wants a more stable connection than wireless without adding operating noise, since a wired connection doesn't affect the printer's own mechanical sound during a print job.\n\nAutomatic document feeder for quieter multi-page scanning. That's a real strength, but weigh it against the flip side: highest price in this list alongside the ET-2800.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "Laser printers like the DCP-L2640DW sit silent between jobs, then produce a noticeably louder short burst as the fuser warms up and the drum begins rotating, a different noise pattern than an inkjet's steady hum rather than simply louder or quieter overall. For a home office where the printer runs occasionally rather than continuously, that burst-then-silence pattern can actually interrupt a call less often than a longer inkjet job.\n\nDuplex printing, scan, and copy are all included, and pages come out faster once the fuser is warmed up, meaning the noisy portion of the job is shorter in total duration even if louder in the moment.\n\nWorth calling out specifically: silent between print jobs. The catch is louder burst noise during fuser warm-up than a steady inkjet hum.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "The HL-L3220CDW is the only color laser pick in this list, and it shares the same fuser warm-up and drum rotation noise pattern as monochrome laser printers, a short, louder mechanical burst rather than a steady hum, with silence between jobs. A 250-sheet paper tray reduces how often the tray needs reloading, which itself is a source of noise and interruption.\n\nAutomatic duplex printing is built in, and the 19 PPM rated output means the louder burst portion of a job wraps up relatively quickly for routine document volume.\n\nOnly color laser pick in this list. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "A genuine 60-minute continuous run time, the longest confirmed rating in this guide, paired with the highest rating and review base here, real-world evidence this rating holds up beyond a lab test. Its 5-gallon bin is proportionate to a full 60-minute run's shredded volume.\n\nMixed paper weights and staples will still shorten the practical run time somewhat versus the rated 60 minutes, plan for that even with this top pick.\n\nA genuine advantage here is that highest rating and review base here. The tradeoff is that real mixed-paper sessions will still run shorter than the ideal 60-minute rating.",
     specs: ["12-sheet manual feed, P-4 micro-cut", "60-minute continuous run time", "5-gallon pull-out bin, LED indicators", "Destroys CDs/credit cards too"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,748 Amazon ratings",
     reviews: "10,748 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41FCXr1akDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=workcocoon-20",
     description:
       "Matches the top pick's 60-minute run time but at a higher 18-sheet per-pass capacity, meaning more total volume shredded per session if you're feeding continuously. Its 6-gallon bin holding 400+ sheets is the largest capacity-to-run-time match in this guide.\n\nLargest review base here, genuine evidence the 60-minute rating holds up in real bulk-purge use, though mixed paper weights will still shorten it somewhat.\n\nLargest bin capacity in this guide. That said, highest price in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["18-sheet manual feed, P-4 cross-cut", "60-minute continuous run time", "6-gallon bin, 400+ sheets", "62dB, largest review base in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "3.8 stars from 137 Amazon ratings",
     reviews: "137 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+FGUUD5bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GFD6JYH1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GFD6JYH1?tag=workcocoon-20",
     description:
       "A 40-minute continuous run time combined with a 100-sheet auto-feed hopper means genuinely less hands-on effort for a long bulk session than manually feeding a 60-minute manual shredder continuously. Its 4.5-gallon bin auto-shuts-off once removed, a real safety plus.\n\nLowest rating in this guide reflects a smaller, newer listing, weigh that against the genuine hands-free long-run convenience.\n\nWorth calling out specifically: longest auto-feed run time among genuine hopper picks. The catch is lowest rating in this guide.",
     specs: ["100-sheet auto-feed hopper, 6-sheet manual", "40-minute continuous auto run", "4.5-gallon bin, auto-shutoff", "2-year warranty"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,048 Amazon ratings",
     reviews: "1,048 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lBbbWrCsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=workcocoon-20",
     description:
       "At a 30-minute continuous run time, shorter than the two 60-minute picks above, but its 120-sheet hopper capacity means far less total hands-on time for the same document volume, since you're not manually feeding sheet by sheet. Its 6-gallon bin is well-matched to the hopper's output.\n\nA daily volume limit isn't explicitly disclosed here, if you're purging a truly massive backlog across multiple sessions, factor that uncertainty in.\n\nBin proportional to hopper output. Set against that, shorter continuous run time than the top manual-feed picks. Both matter when comparing it to the other picks here.",
     specs: ["120-sheet auto-feed hopper, 12-sheet manual", "30-minute continuous auto run", "6-gallon pull-out bin, 360° casters", "P-4 micro-cut"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,629 Amazon ratings",
     reviews: "1,629 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VvTJMBXPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=workcocoon-20",
     description:
       "A 30-minute auto-feed run at a lower price than the 120-sheet pick, with explicit anti-jam auto-reverse to keep a long session moving without manual intervention. Its 4.2-gallon bin is proportionally smaller, meaning more mid-session emptying during a genuinely large purge.\n\nA reasonable value pick for auto-feed long-run sessions if you don't need the largest hopper capacity.\n\nThe standout detail is that explicit anti-jam auto-reverse keeps long sessions moving. Balancing that out, smaller bin requires more frequent emptying during a long session.",
     specs: ["100-sheet auto-feed hopper, 8-sheet manual", "30-minute continuous auto run", "4.2-gallon bin, bin-full indicator", "Anti-jam auto-reverse"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,061 Amazon ratings",
     reviews: "1,061 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LSE9gHSWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=workcocoon-20",
     description:
       "A 20-minute continuous run time capable of processing up to 1,400 sheets in one session, a genuinely useful middle ground between the shortest budget picks and the premium 60-minute options. A 30-minute cooldown after hitting the limit is on the shorter end for this guide, meaning less total waiting time for a multi-cycle purge.\n\nA reasonable choice if you don't need a full 60 minutes but still want meaningfully more than a 5-6 minute budget shredder offers.\n\nRelatively short 30-minute cooldown. That's a real strength, but weigh it against the flip side: lowest rating among the higher-capacity picks in this guide.",
     specs: ["14-sheet manual feed, P-4 cross-cut", "20-minute continuous run, up to 1,400 sheets/session", "30-minute cooldown", "5.3-gallon bin, casters, ETL listed"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "A 15-minute continuous run time, capable of shredding roughly 900 sheets per cycle when fed steadily, a real step up from the shortest budget picks at a reasonable price. Jam-proof reverse system keeps the session moving without frequent manual clearing.\n\nSolid rating and a reasonable middle-ground choice if 15 minutes covers your typical session length.\n\nReasonable price for the capability. On the other hand, shorter run time than the premium picks in this guide. Both are worth keeping in mind before deciding.",
     specs: ["12-sheet manual feed, P-4 cross-cut", "15-minute continuous run time, ~900 sheets/cycle", "Jam-proof reverse system", "5.5-gallon bin"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31H0gGU7jHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=workcocoon-20",
     description:
       "Included specifically as the honest floor of this guide: at only 6 minutes continuous run time, this is not built for a long document purge, if that's genuinely your need, look to the picks above instead. It's a fine shredder for light, occasional use at the lowest price here.\n\nDon't buy this specifically expecting long-run capability, the 6-minute rating is the shortest in this entire guide by a wide margin.\n\nA genuine advantage here is that compact footprint. The tradeoff is that shortest continuous run time in this guide by a wide margin.",
     specs: ["12-sheet manual feed, P-4 cross-cut", "6-minute continuous run time", "5.5-gallon bin, compact", "Lowest price in this guide"],

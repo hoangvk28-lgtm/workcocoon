@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51C9d8utpcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CSYNVCD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CSYNVCD?tag=workcocoon-20",
     description: "This organizer genuinely includes a built-in wireless charging pad alongside its digital clock, thermometer, and hygrometer display, based on the listing, the only product in our verified pool that combines actual wireless charging with a clock rather than a USB port. Setting a compatible phone on the marked pad charges it without a cable, a real convenience for a desk that's short on outlets or plugged-in chargers.\n\nIt earns the top spot in this comparison for one main reason. Genuine wireless charging pad, not just a USB port.\n\nWorth knowing before you decide: Combines clock, thermometer, hygrometer, and storage in one unit. On the other side, Verify current review data and Qi compatibility on the listing. That's the main tradeoff to weigh against everything above.",
     specs: ["Built-in wireless charging pad","Digital clock, thermometer, hygrometer display","Pencil and stationery holder","Multi-functional desk organizer"],
     pros: ["Genuine wireless charging pad, not just a USB port","Combines clock, thermometer, hygrometer, and storage in one unit","Reduces desk cable clutter for compatible phones","Multi-functional design saves desk space"],

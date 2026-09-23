@@ -68,11 +68,11 @@ export const bestBudget1080pWebcamGuide: Guide = {
 
 | Pick | Best for | Resolution / FPS | Price | |
 |------|---------|-----------------|-------|--|
-| EMEET C960 | Best ultra-budget 1080p | 1080p / 30fps | ~$25-30 | <a href="https://www.amazon.com/dp/B07M6Y7355?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| NexiGo N60 | Budget with wide FOV | 1080p / 30fps | ~$25-35 | <a href="https://www.amazon.com/dp/B088TSR6YJ?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| EMEET C960 2K | Best value 2K under $50 | 2K / 30fps | ~$40-50 | <a href="https://www.amazon.com/dp/B0BX94BJFR?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| Angetube 862 Pro | Only 1080p/60fps pick in this list | 1080p / 60fps | ~$45-55 | <a href="https://www.amazon.com/dp/B09QKR8P6T?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| Logitech C920x | Most proven, best mics | 1080p / 30fps | ~$60-70 | <a href="https://www.amazon.com/dp/B085TFF7M1?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |`,
+| EMEET C960 | Best ultra-budget 1080p | 1080p / 30fps | ~$25-30 | <a href="https://www.amazon.com/dp/B07M6Y7355?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| NexiGo N60 | Budget with wide FOV | 1080p / 30fps | ~$25-35 | <a href="https://www.amazon.com/dp/B088TSR6YJ?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| EMEET C960 2K | Best value 2K under $50 | 2K / 30fps | ~$40-50 | <a href="https://www.amazon.com/dp/B0BX94BJFR?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| Angetube 862 Pro | Only 1080p/60fps pick in this list | 1080p / 60fps | ~$45-55 | <a href="https://www.amazon.com/dp/B09QKR8P6T?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| Logitech C920x | Most proven, best mics | 1080p / 30fps | ~$60-70 | <a href="https://www.amazon.com/dp/B085TFF7M1?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |`,
     },
     {
       heading: "EMEET C960 - Best Ultra-Budget 1080p",
@@ -104,7 +104,7 @@ The dual omnidirectional mics pick up voice clearly enough for daily calls. Not 
 
 **Best for:** Students, anyone buying their first external webcam, dorm setups where the budget is $30 or under.
 
-<a href="https://www.amazon.com/dp/B07M6Y7355?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - EMEET C960</a>
+<a href="https://www.amazon.com/dp/B07M6Y7355?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - EMEET C960</a>
 
 ![EMEET C960 budget 1080p webcam](/images/guides/best-budget-1080p-webcam/best-1080p-webcam-emeet-c960.webp)`,
     },
@@ -138,7 +138,7 @@ The NexiGo N60 and EMEET C960 are direct competitors at the same price. The two 
 
 **Best for:** Users who want the widest angle in a budget webcam - showing a full desk, fitting two people in frame, or screen-sharing demos where background context matters.
 
-<a href="https://www.amazon.com/dp/B088TSR6YJ?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - NexiGo N60</a>
+<a href="https://www.amazon.com/dp/B088TSR6YJ?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - NexiGo N60</a>
 
 ![NexiGo N60 wide FOV budget webcam](/images/guides/best-budget-1080p-webcam/best-1080p-webcam-nexigo-n60.webp)`,
     },
@@ -169,7 +169,7 @@ PDAF autofocus is faster and more accurate than contrast-detection autofocus - i
 
 **Best for:** Home office users on a monitor 1440p or larger, or anyone who wants the sharpest budget webcam image under $50.
 
-<a href="https://www.amazon.com/dp/B0BX94BJFR?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - EMEET C960 2K</a>
+<a href="https://www.amazon.com/dp/B0BX94BJFR?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - EMEET C960 2K</a>
 
 ![EMEET C960 2K webcam for sharp video calls](/images/guides/best-budget-1080p-webcam/best-1080p-webcam-emeet-c960-2k.webp)`,
     },
@@ -205,7 +205,7 @@ The built-in ring light (3 color temps, adjustable brightness) solves dark-room 
 
 **Best for:** Streamers and content creators who need 60fps smooth video, or dark-room setups that benefit from built-in lighting - at under $55.
 
-<a href="https://www.amazon.com/dp/B09QKR8P6T?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Angetube 862 Pro</a>
+<a href="https://www.amazon.com/dp/B09QKR8P6T?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Angetube 862 Pro</a>
 
 ![Angetube 862 Pro 1080p 60fps webcam with ring light](/images/guides/best-budget-1080p-webcam/best-1080p-webcam-angetube-862-pro.webp)`,
     },
@@ -233,7 +233,7 @@ The Logitech C920x is included here as the reference point every other webcam in
 
 **Best for:** Daily professional calls, WFH setups where mic quality matters, anyone who wants a proven webcam that works perfectly out of the box.
 
-<a href="https://www.amazon.com/dp/B085TFF7M1?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Logitech C920x</a>
+<a href="https://www.amazon.com/dp/B085TFF7M1?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Logitech C920x</a>
 
 ![Logitech C920x HD Pro Webcam - benchmark 1080p](/images/guides/best-budget-1080p-webcam/best-1080p-webcam-logitech-c920x.webp)
 

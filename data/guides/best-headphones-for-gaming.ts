@@ -44,7 +44,7 @@ export const products: GamingHeadset[] = [
     hasANC: false,
     score: "9.0/10",
     imageUrl: `${BASE}/1-logitech-g435-lightspeed.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08R8DT7X6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08R8DT7X6?tag=workcocoon-20",
     whyItWorks:
       "Lightspeed 2.4GHz wireless under $50, the only gaming headset at this price with performance indistinguishable from wired latency. Lightest headset in this roundup at 165g, the weight difference becomes genuinely noticeable after 4+ hours compared to heavier designs. 18-hour battery with a 3-minute fast charge giving 3 hours. Dual beamforming mics built into the earcup with no boom arm to break. Simultaneous Bluetooth for switching from PC game audio to a phone call without re-pairing.",
     tradeoffs: [
@@ -79,7 +79,7 @@ export const products: GamingHeadset[] = [
     hasANC: false,
     score: "8.8/10",
     imageUrl: `${BASE}/2-razer-kraken-x-ultralight.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07RMC5BRL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07RMC5BRL?tag=workcocoon-20",
     whyItWorks:
       "Bendable cardioid microphone positions exactly where needed and bends to the correct angle without a locking mechanism to break. 7.1 Surround Sound via Razer Surround software on Windows at no cost. Universal 3.5mm compatibility works on every platform without a dongle or adapter, the most portable pick in this roundup. Oval earcups surround the ear rather than pressing on it, reducing fatigue during long sessions. Lightweight aluminum frame at 250g.",
     tradeoffs: [
@@ -114,7 +114,7 @@ export const products: GamingHeadset[] = [
     hasANC: false,
     score: "9.1/10",
     imageUrl: `${BASE}/3-steelseries-arctis-nova-3.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09ZWMYHCT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09ZWMYHCT?tag=workcocoon-20",
     whyItWorks:
       "ClearCast Gen 2 AI noise-cancelling microphone is the same AI mic technology found in SteelSeries $200+ headsets. It identifies and removes keyboard noise, fan sound, and room echo in real time. USB-C for full-feature PC use and 3.5mm for multi-platform console compatibility. AirWeave memory foam earcups breathe noticeably better than leatherette. Retractable mic disappears into the earcup when not in use. SteelSeries Sonar EQ app controls game, chat, and media volumes independently.",
     tradeoffs: [
@@ -149,7 +149,7 @@ export const products: GamingHeadset[] = [
     hasANC: false,
     score: "9.1/10",
     imageUrl: `${BASE}/4-hyperx-cloud-ii-wireless.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08NTYB4M7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NTYB4M7?tag=workcocoon-20",
     whyItWorks:
       "30-hour battery means daily 4-hour sessions last over a week without charging. DTS Headphone:X 7.1 Spatial Audio is hardware-level surround processing built into the USB dongle, not reliant on software or OS audio settings. 53mm custom HyperX drivers deliver more driver surface area for better low-frequency extension than the 40mm drivers in most budget headsets. Detachable noise-cancelling boom mic so you can remove it when not gaming. HyperX 2-year warranty above average for the gaming headset category.",
     tradeoffs: [
@@ -184,7 +184,7 @@ export const products: GamingHeadset[] = [
     hasANC: false,
     score: "9.2/10",
     imageUrl: `${BASE}/5-hyperx-cloud-alpha-wireless.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09TRW57WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TRW57WB?tag=workcocoon-20",
     whyItWorks:
       "300-hour battery life is the longest single-charge battery in any gaming headset available. At 4 hours per day, this headset charges once every two months. Dual Chamber Drivers separate bass frequencies from mid-high frequencies within the same driver housing, reducing distortion across the frequency range. Detachable noise-cancelling boom mic with DTS 7.1. Solid aluminum frame is significantly more durable than plastic chassis at this price. At current pricing down from $199 MSRP, this is the best-value premium gaming headset in 2026.",
     tradeoffs: [
@@ -219,7 +219,7 @@ export const products: GamingHeadset[] = [
     hasANC: false,
     score: "9.3/10",
     imageUrl: `${BASE}/6-razer-blackshark-v2-pro-2023.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BY1FXC9N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BY1FXC9N?tag=workcocoon-20",
     whyItWorks:
       "HyperClear Super Wideband microphone captures voice at 9.5kHz bandwidth vs 3.5kHz on most gaming headsets. The difference in recorded voice clarity is immediately audible, not subtle. 70-hour wireless battery is the longest real-world battery in this roundup, more than two weeks of daily 4-hour sessions. Razer HyperSpeed 2.4GHz with simultaneous Bluetooth for multi-device use. 50mm Triforce Titanium drivers with separate tweeters, mid-range, and bass elements tuned for competitive FPS audio. SmartSwitch toggles between 2.4GHz and Bluetooth without re-entering pairing menus.",
     tradeoffs: [
@@ -254,7 +254,7 @@ export const products: GamingHeadset[] = [
     hasANC: true,
     score: "9.2/10",
     imageUrl: `${BASE}/7-sony-inzone-h9.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B1TDHLPT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B1TDHLPT?tag=workcocoon-20",
     whyItWorks:
       "PS5 360 Spatial Sound certified with deep system-level integration, spatial audio quality noticeably better than third-party headsets. Active Noise Cancellation reduces ambient sound without removing the headset, the only pick in this roundup with ANC. Flip-to-mute microphone gives physical mute feedback by flipping the boom arm up. Dual connection: 2.4GHz for PC and PS5 gaming, Bluetooth for phone simultaneously. 32-hour battery for daily gaming. Sony gaming audio heritage delivers a well-tuned frequency response across game types.",
     tradeoffs: [

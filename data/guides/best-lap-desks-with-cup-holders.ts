@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "7,477",
     imageUrl: "https://m.media-amazon.com/images/I/41Hk-fkvyYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B074473Z6T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B074473Z6T?tag=workcocoon-20",
     description:
       "This lightweight lap desk includes a built-in cup holder cutout on its surface, positioned to remain reachable without shifting your laptop's balance. At 2.2 pounds and 0.6 inches thick, it is easy to reposition on your lap if you need to adjust for stability.\n\nIts retractable mouse tray is a bonus feature beyond the cup holder itself, and its strong review count gives real confidence in the surface's stability under combined laptop-and-drink use.\n\nWorth calling out specifically: strong review history. The catch is no active cooling fan.",
     specs: ["Built-in cup holder cutout", "Retractable mouse tray", "2.2 lbs, 0.6in thick", "Fits up to 15.6in laptops"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "10,749",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07N9L5934?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07N9L5934?tag=workcocoon-20",
     description:
       "This is the highest-rated and most reviewed pick in this comparison, suggesting strong real-world stability during actual lap use, the core concern for this product category given a lap desk's balance physics differ from a fixed desk-clamped holder.",
     specs: ["Built-in cup holder", "Foldable design", "Highest review count in this comparison", "Stable lap platform"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,312",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQW29RCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQW29RCV?tag=workcocoon-20",
     description:
       "At 23.4 inches wide, this desk offers substantial writing and laptop space alongside its cup holder tray, folding flat for storage between uses. The wider platform provides more stability margin under combined laptop-and-drink weight than a narrower design.",
     specs: ["23.4in wide platform", "Foldable, flat storage", "Cup holder tray", "Bed/lap use"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,230",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BFRHWCFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BFRHWCFV?tag=workcocoon-20",
     description:
       "This lap desk adds a built-in storage drawer alongside its cup holder, genuinely useful for keeping a phone or small accessories within reach while working from a couch or bed, at the cost of additional weight and bulk versus a simpler design.",
     specs: ["Built-in storage drawer", "Cup holder", "Foldable design", "4 USB ports"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,808",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LDHY54T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LDHY54T?tag=workcocoon-20",
     description:
       "Purpose-built for bed use rather than general lap use, this desk's legs provide a more stable base than balancing directly on your legs, meaningfully reducing the spill risk this category is prone to when used on a soft, uneven surface like a mattress.",
     specs: ["Adjustable folding legs for bed use", "Cup holder", "USB charge port", "Height adjustable"],

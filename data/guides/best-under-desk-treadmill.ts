@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "680",
     imageUrl: "https://m.media-amazon.com/images/I/41ZbsmaRmVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GVNFJJSG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GVNFJJSG?tag=workcocoon-20",
     description:
       "At just 4.1 inches tall, this is the thinnest treadmill in this guide, requiring the least vertical clearance under a desk of any pick here. A 2.5HP motor covers a 0.6-4 mph speed range, enough for a steady walking pace during a workday rather than a running workout, and it ships with no assembly required.\n\nA remote control and LED display make it simple to adjust speed without bending down, and it supports up to 265 lbs. It carries the highest rating in this entire guide, backed by a solid review base for its price point.\n\nThinnest profile in this guide at 4.1 inches. That's a real strength, but weigh it against the flip side: top speed capped at 4 mph, a walking pace not a running one.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "486",
     imageUrl: "https://m.media-amazon.com/images/I/51JbSk7t+uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GGB9BV77?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GGB9BV77?tag=workcocoon-20",
     description:
       "This Vhorilix walking pad sits at nearly the same price as our top pick and covers the same 2.5HP, 0.6-4 mph range, with a slim 4.33-inch profile that still slides under most standing desks without issue. Built-in wheels make it easy to reposition or store away when it's not in use.\n\nIt backs its build with a 2-year warranty, the longest coverage among the budget picks in this guide, which matters on a walking pad that will see daily wear from foot traffic. Max user weight is rated at 264 lbs.\n\nWorth calling out specifically: built-in wheels for easy repositioning. The catch is slightly thicker profile than the top-ranked pick.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,226",
     imageUrl: "https://m.media-amazon.com/images/I/41HOnI215TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GGLS9NQV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GGLS9NQV?tag=workcocoon-20",
     description:
       "The Viamotion is the first pick in this guide with a handlebar, useful for balance during startup or for anyone less steady on their feet while walking and typing at the same time. A manually adjustable incline up to 4 degrees adds a bit more workout intensity than the flat budget picks above.\n\nIts brushless motor runs quietly at around 45dB, audible but not disruptive for most calls, and it covers a 0.6-3.8 mph range with a 265 lb max user weight. It's also the most-reviewed pick in this entire guide, giving it the largest track record here.\n\nOnly budget-tier pick with a handlebar and incline. Set against that, slightly slower top speed than the ultra-slim picks at 3.8 mph. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "479",
     imageUrl: "https://m.media-amazon.com/images/I/41PmXBiskHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJRLJVT5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJRLJVT5?tag=workcocoon-20",
     description:
       "This is the only pick in this guide that includes a built-in vibration massage plate alongside the walking belt, letting you switch between walking and a stationary massage session on the same unit. A 2.5HP brushless motor covers 0.6-4 mph, and manual incline goes up to 12% across 2 levels, the deepest incline range in this guide.\n\nA 360-degree removable handlebar and a large LED display round out the feature set, and its 300-350 lb weight capacity range is the highest of any pick here. The distinct pink finish sets it apart visually from the more neutral-colored picks in this guide.\n\nA genuine advantage here is that deepest incline range in this guide at up to 12%. The tradeoff is pricier than the budget and mid-tier picks above.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "161",
     imageUrl: "https://m.media-amazon.com/images/I/31aExAwOKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H6WN93Z7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H6WN93Z7?tag=workcocoon-20",
     description:
       "The WalkingPad Z1 uses a premium aluminum frame that folds 180 degrees to roughly halve its footprint for storage, a real advantage if the treadmill needs to move out of the way between work sessions. Its 1-4 mph range and quiet brushless motor keep it in line with the walking-pace focus of this category.\n\nA 47.6-inch belt gives a bit more stride room than the compact budget picks, and it supports up to 242 lbs. Build quality and the folding mechanism are the main draw here over the cheaper flat-pad options.\n\nPremium aluminum build quality. That's a real strength, but weigh it against the flip side: lower weight capacity than the flat budget picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "996",
     imageUrl: "https://m.media-amazon.com/images/I/31Y8r6RSx1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H6WZ3X5R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H6WZ3X5R?tag=workcocoon-20",
     description:
       "The WalkingPad P1 folds down to roughly half its size on the same aluminum frame construction as the Z1, aimed at buyers who want a compact stored footprint without needing the Z1's higher weight capacity. Its 0.5-3.75 mph range runs on a very quiet brushless motor, and no assembly is required out of the box.\n\nWeight capacity tops out at 220 lbs, the lowest in this guide, so it suits lighter users best. It carries a solid review base at just under 1,000 reviews.\n\nWorth calling out specifically: very quiet brushless motor. The catch is lowest weight capacity in this guide at 220 lbs.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "283",
     imageUrl: "https://m.media-amazon.com/images/I/419oUO9ShtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GHXTT57C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GHXTT57C?tag=workcocoon-20",
     description:
       "The Z1R adds a detachable handlebar to the same 180-degree folding aluminum frame as the Z1, useful for balance or a firmer grip during faster walking. It covers a 1-5 mph range, the widest speed range in this guide, giving it the most flexibility between a slow work-day pace and a brisker walk.\n\nAn 8-layer shock-absorbing belt is the thickest belt construction in this guide, adding cushioning underfoot, and app connectivity lets you track sessions. Max user weight is 242 lbs, matching the Z1.\n\nThickest belt construction in this guide for more cushioning. Set against that, among the pricier picks in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "2",
     imageUrl: "https://m.media-amazon.com/images/I/31wESmkNoZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTH69X4C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTH69X4C?tag=workcocoon-20",
     description:
       "The LifeSpan Fitness TX6 is built around a 4.5HP motor, the most powerful in this entire guide and rated for continuous professional use, paired with a 0.4-6 mph range that's both the widest and fastest top speed here. An aluminum frame and very quiet operation round out a spec sheet aimed squarely at heavy daily office use rather than occasional walking.\n\nWeight capacity tops out at 400 lbs, the highest in this guide. That said, this listing currently has an extremely small review sample of just 2 reviews despite its premium price and established brand name, so its real-world track record on this specific model isn't yet proven the way the higher-volume picks above are, and that should factor into the decision alongside the specs.\n\nA genuine advantage here is that highest weight capacity in this guide at 400 lbs. The tradeoff is extremely small review sample at just 2 reviews, not yet a proven track record.",
     specs: [

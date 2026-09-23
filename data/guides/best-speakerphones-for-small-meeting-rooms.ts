@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,801 Amazon ratings",
     reviews: "5,801 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41x468UYHLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=workcocoon-20",
     description:
       "6 physical microphones genuinely handle voice isolation across a small meeting table with several people, a different challenge from simply picking up sound from a distance. Zoom certified and backed by a large, well-established review base.\n\nGenuinely well-suited to a small dedicated meeting room rather than an open desk, the mic array is built for a table setting.\n\nLarge, well-established review base. Set against that, higher price than budget alternatives. Both matter when comparing it to the other picks here.",
     specs: ["6 microphones, Zoom certified", "Echo cancellation, background noise reduction", "Bluetooth and USB connectivity", "Table-centered design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 127 Amazon ratings",
     reviews: "127 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31E89kCEPNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=workcocoon-20",
     description:
       "An explicit 13ft pickup radius spec, genuinely useful for planning around a small meeting room's actual dimensions, remember this assumes near-ideal conditions, so a room with hard surfaces or glass will perform somewhat below that stated figure.\n\n360° omni mic and full-duplex speaker at a genuinely affordable price for a dedicated small-room device.\n\nA genuine advantage here is that very affordable for a dedicated small-room device. The tradeoff is stated radius assumes near-ideal acoustic conditions, build in margin for hard-surface rooms.",
     specs: ["13ft pickup radius, 360° omni mic", "AI noise cancellation, full-duplex", "20H call time, Bluetooth 5.3", "Budget-friendly"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 68 Amazon ratings",
     reviews: "68 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31oHJerSTwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=workcocoon-20",
     description:
       "4 noise-cancelling mics genuinely suited to a small meeting room's table size, certified for both Zoom and Google Meet if your small room hosts calls on either platform. Full-range 50mm speaker for clear audio playback in an enclosed space.\n\nA smaller review base than the top Anker pick, but dual certification adds real flexibility for a shared small meeting room.\n\nDual platform certification for Zoom and Google Meet. On the other hand, smaller review base than the top Anker pick. Neither should be a surprise once you know to look for it.",
     specs: ["4 noise-cancelling mics, certified for Zoom and Google Meet", "USB-A and USB-C connections", "Full-range 50mm speaker", "Portable design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,596 Amazon ratings",
     reviews: "1,596 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51zfICZQrEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=workcocoon-20",
     description:
       "4 mics with 360° voice pickup at a genuinely affordable price for a small dedicated meeting room, solid review base gives real-world confidence at this budget tier without paying for premium certification.\n\n360° pickup pattern suits a small round table specifically, verify your room's table shape before buying.\n\nSolid review base for the price. That's a real strength, but weigh it against the flip side: no specific platform certification.",
     specs: ["4 mics, 360° voice pickup", "USB and Bluetooth connectivity", "Compact design", "Budget-friendly"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 5,905 Amazon ratings",
     reviews: "5,905 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Hwa9J+9XL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00AQUO5RI?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00AQUO5RI?tag=workcocoon-20",
     description:
       "The highest rating of any pick in this guide on a large, well-established review base, strong long-term evidence of reliable performance in small meeting room settings specifically. Portable wireless design if the room doubles for other uses.\n\nCertified for both Zoom and Google Meet, genuinely flexible for whatever platform your small room's calls run on.\n\nWorth calling out specifically: large, well-established review base. The catch is fewer physical mics than the 6-mic Anker pick.",
     specs: ["Wireless Bluetooth, certified for Zoom and Google Meet", "Portable conference speaker", "Established sound quality reputation", "Long track record"],

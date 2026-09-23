@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41Du+XSAPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCXN5P3T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCXN5P3T?tag=workcocoon-20",
     description:
       "Explicit gigabit Ethernet, EDID emulation, and 65W power delivery all documented together, a genuinely well-rounded feature set for buyers wanting a complete docking solution.\n\nDual monitor and dual PC support round out a robust station for demanding multi-device workflows.\n\nWorth calling out specifically: explicit EDID emulation for persistent window layout across reconnects. The catch is verify the 65W budget is shared across laptop charging and peripherals for your specific setup.",
     specs: ["2 monitors, 2 PC", "Gigabit Ethernet", "EDID emulation", "65W power delivery"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31KfwfvqAqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW2JGRN4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW2JGRN4?tag=workcocoon-20",
     description:
       "A dedicated docking station explicitly built for switching between a laptop and desktop across dual monitors, appropriate for buyers running a hybrid setup.\n\nKVM switching capability adds genuine value for buyers who don't want to physically swap cables when switching between devices.\n\nDual monitor support for a robust hybrid setup. Set against that, higher price than a simpler single-PC docking solution. Both matter when comparing it to the other picks here.",
     specs: ["Dual monitor docking station", "Laptop and desktop switching support", "KVM switching capability", "Higher-end price point"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41NY0yTE9kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DD3X51XS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DD3X51XS?tag=workcocoon-20",
     description:
       "A more budget-friendly docking station with 4K dual-display support, appropriate for buyers switching between two laptops rather than a laptop-and-desktop combination.\n\nCheck current reviews for reports on EDID emulation behavior specifically, since this feature isn't always explicitly documented in every listing.\n\nThe standout detail is that kVM switching between two laptops. Balancing that out, verify EDID emulation behavior through current reviews.",
     specs: ["4K dual-display support", "2-laptop switching", "Budget-friendly relative to premium docks", "KVM switching capability"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/419nisVPE2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GVMKWZRP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GVMKWZRP?tag=workcocoon-20",
     description:
       "Thunderbolt 4 connectivity gives genuinely high bandwidth headroom for demanding three-monitor docking, appropriate for buyers with Thunderbolt-capable laptops wanting maximum performance.\n\nDisplayLink technology adds real flexibility for buyers whose laptops don't natively support driving three external monitors.\n\nSupports three monitors across two laptops. That's a real strength, but weigh it against the flip side: highest price in this guide.",
     specs: ["3 monitors, 2 laptops", "Thunderbolt 4 connectivity", "4K@60Hz support", "DisplayLink technology"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41e02xrYlyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP4PD3SM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP4PD3SM?tag=workcocoon-20",
     description:
       "A premium 4K dual-monitor docking solution for two laptops, appropriate for buyers wanting the sharpest resolution alongside seamless KVM switching between devices.\n\nHigher price reflects the combination of 4K support, dual monitor output, and KVM switching, verify this feature set matches your actual setup needs.\n\nKVM switching between two laptops without cable swapping. On the other hand, higher price than simpler single-laptop docking solutions. Both are worth keeping in mind before deciding.",
     specs: ["4K dual-monitor support", "2-laptop KVM switching", "Higher-end price point", "Dock with switching capability"],

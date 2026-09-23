@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 155 Amazon ratings",
     reviews: "155 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rUtvN6YIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GS9B1X5X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GS9B1X5X?tag=workcocoon-20",
     description:
       "This is the only desk in this guide that explicitly confirms built-in power outlets and a USB-C port directly in its title, making it the clear pick if genuine built-in power is a hard requirement. The listing does not specify surge protection or the exact wattage the USB-C port delivers, so treat it as pass-through power rather than assuming laptop-grade fast charging.\n\nThe review count here is lower than several other picks in this guide, so weigh the strong 4.6 star rating against that smaller sample size. Before relying on the outlet for a monitor, laptop charger, and desk lamp simultaneously, check the total amperage against your actual equipment load rather than assuming the built-in outlet can handle everything at once.\n\nUSB-C port adds device charging without extra cables. Set against that, lower review count than most other picks in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 737 Amazon ratings",
     reviews: "737 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41pe4BGTQxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CR1CM8JK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR1CM8JK?tag=workcocoon-20",
     description:
       "This desk's listing does not confirm a built-in power outlet, so it is included here as a strong desk for other reasons, drawers and a keyboard tray, rather than a genuine outlet recommendation. Do not assume a desk with this much built-in storage also includes power routing just because the two features often appear together on similar products.\n\nIf built-in power matters to you, plan on a separate power strip or clamp-on outlet unless you confirm otherwise directly with the seller. The drawers and keyboard tray here are genuinely well reviewed and worth considering on their own merits.\n\nA genuine advantage here is that solid 4.6 star rating. The tradeoff is built-in power outlet not confirmed in the listing.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 503 Amazon ratings",
     reviews: "503 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41TvmvIlxoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFW9D66S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFW9D66S?tag=workcocoon-20",
     description:
       "Like the AODK pick above, this U-shaped desk's listing does not confirm a built-in power outlet, so we are not marketing it here as an outlet pick despite its overall strength. It has the highest rating in this guide at 4.7 stars, driven by its wraparound U-shape layout and confirmed keyboard tray.\n\nIf you need built-in power specifically, this is not the confirmed option, the Huuger pick above is. Consider this desk on the strength of its layout and tray instead, and plan for a separate power strip if outlets matter.\n\nU-shape adds wraparound work surface. On the other hand, built-in power outlet not confirmed in the listing. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 555 Amazon ratings",
     reviews: "555 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oHg37v77L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=workcocoon-20",
     description:
       "This is a different SKU from the Huuger pick that confirms outlets above, and its own listing does not mention built-in power, instead highlighting 2 hooks and 3 preset heights. Do not assume every desk from the same brand shares the same outlet feature, since this model's description is genuinely different.\n\nThe 27.6-inch depth is the deepest desktop in this guide, which is useful for monitor arm bases and multiple accessories regardless of power routing. If built-in outlets matter, choose the other Huuger pick or plan for a separate power strip with this one.\n\nIncluded hooks for bags or headphones. That's a real strength, but weigh it against the flip side: built-in power outlet not confirmed, despite same brand as the confirmed pick.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 500 Amazon ratings",
     reviews: "500 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41g8lw1sh+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBQ4JX85?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBQ4JX85?tag=workcocoon-20",
     description:
       "This 63-inch L-shaped desk with 4 drawers does not confirm a built-in power outlet in its listing, and its corner layout is the main draw here rather than any power feature. The L-shape gives a genuinely larger total work surface than the straight desks in this guide.\n\nWith 4 drawers built in, cable and power strip placement takes more planning since drawer clearance competes with under-desk space. If built-in power matters, this is not a confirmed pick, consider it for the corner layout and storage instead.\n\nWorth calling out specifically: 4 drawers for built-in storage. The catch is built-in power outlet not confirmed in the listing.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 11,572 Amazon ratings",
     reviews: "11,572 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415He+cLvaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=workcocoon-20",
     description:
       "This desk's listing focuses on its height adjustment and does not confirm a built-in power outlet, despite carrying the largest review base in this entire guide. Its inclusion here is as a reliably reviewed standard desk, not as an outlet recommendation.\n\nIf you want proven reliability at a low price and are fine adding your own power strip, this is a reasonable pick on that basis alone. It should not be confused with the confirmed-outlet Huuger pick at the top of this guide.\n\nAffordable price point. Set against that, built-in power outlet not confirmed in the listing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,463 Amazon ratings",
     reviews: "8,463 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418JjdqdnpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=workcocoon-20",
     description:
       "This desk's splice-board maple top does not come with a confirmed built-in power outlet, and its strength here is desktop material and build quality rather than power routing. It has a strong review base backing its overall fit and finish.\n\nIf you plan to add a monitor arm or other grommet-mounted accessories, the thicker top is a genuine advantage. Pair it with a separate power strip if outlet access matters, since the listing does not confirm one built in.\n\nA genuine advantage here is that high review volume with solid rating. The tradeoff is built-in power outlet not confirmed in the listing.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,747 Amazon ratings",
     reviews: "1,747 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k4VBjAQzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=workcocoon-20",
     description:
       "This 55-inch gaming-oriented desk does not confirm a built-in power outlet, and it is included here for its wide surface and strong rating rather than any power feature. The white finish and dual-monitor-friendly width are the real selling points.\n\nGiven the wider surface, a separate power strip with a longer cable run may be needed to reach all your equipment comfortably. If built-in power is a requirement, this is not the confirmed pick, choose the Huuger option above instead.\n\nStrong review volume and rating. On the other hand, built-in power outlet not confirmed in the listing. Neither should be a surprise once you know to look for it.",
     specs: [

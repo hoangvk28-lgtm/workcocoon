@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "7,081",
     imageUrl: "https://m.media-amazon.com/images/I/51tB64reaAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00A7YV51C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00A7YV51C?tag=workcocoon-20",
     description:
       "With over 7,000 ratings, this Roundhill screen is the best-selling pick in this list by a wide margin. Its printed plum-blossom pattern in red and black over a translucent rice paper panel gives it the most distinctive look here, closer to wall art than a plain divider.\n\nHardwood framing keeps it sturdy despite being the lightest pick in this list at just 11 lbs, and it needs no assembly, so it goes from box to standing divider in minutes.\n\nMost distinctive printed shoji pattern. That's a real strength, but weigh it against the flip side: rice paper panels are translucent, not fully private.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "3,422",
     imageUrl: "https://m.media-amazon.com/images/I/51aORYQ0Y7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01LYKP60O?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01LYKP60O?tag=workcocoon-20",
     description:
       "The Giyano trades the traditional shoji look for an intricate white mosaic chip-themed frame, the most refined and modern design among the group. Pine and MDF construction is wrapped in non-woven fabric panels rather than rice paper, giving it a slightly different texture and feel.\n\nAt 70\"H x 70\"W it's sized to match most standard shoji screens, and like the rest of the Roundhill lineup it needs no assembly out of the box.\n\nWorth calling out specifically: strong 4.6-star rating across 3,422 ratings. The catch is pricier than most other picks in this list.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "984",
     imageUrl: "https://m.media-amazon.com/images/I/51lVjlsR99L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MSXEB3B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MSXEB3B?tag=workcocoon-20",
     description:
       "This cherry-finish screen is the most authentic traditional shoji design in this list, built from real cherry wood with translucent rice paper panels that let natural light filter through rather than blocking it entirely. Two-way hinges let the panels fold in either direction for flexible placement.\n\nAt 15 lbs it's the lightest wood-framed shoji pick here, and it arrives fully assembled. Traditional rice paper shoji does need gentler care than synthetic panels; expect to touch up or replace the paper every couple of years in sun-exposed spots.\n\nTranslucent panels let natural light through. Set against that, rice paper offers light diffusion, not real privacy. Both matter when comparing it to the other picks here.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "7,623",
     imageUrl: "https://m.media-amazon.com/images/I/51eN5STzThL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0135AV5XC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0135AV5XC?tag=workcocoon-20",
     description:
       "The FDW wood mesh screen has more reviews than any other pick in this list at over 7,600, driven by its distinctive hand-woven lattice look that stands apart from both shoji paper and rattan weave designs. Eco wood construction paired with metal hinges keeps it foldable and genuinely lightweight.\n\nThe open mesh pattern trades privacy for airflow and light, more of a visual softener between spaces than a true opaque barrier, which is worth knowing before you buy.\n\nA genuine advantage here is that distinctive hand-woven mesh look. The tradeoff is open mesh pattern offers less visual privacy than solid panels.",
     specs: [
@@ -175,7 +175,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "2,024",
     imageUrl: "https://m.media-amazon.com/images/I/518FUSm-OqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QQ25W3P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07QQ25W3P?tag=workcocoon-20",
     description:
       "At a competitive price, the RHF rattan screen is the cheapest pick in this list without sacrificing craftsmanship, its handmade 5-medallion diamond weave gives it a distinctly boho look that the modern acrylic and shoji picks don't offer. Two-way hinges make it flexible to position around furniture or corners. Rattan and wood construction keeps it lightweight, and like most picks here it arrives needing no assembly, straight out of the box and ready to unfold. Handmade diamond-weave pattern. That's a real strength, but weigh it against the flip side: open weave offers less privacy than solid panels.",
     specs: [
@@ -207,7 +207,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "135",
     imageUrl: "https://m.media-amazon.com/images/I/51j59-Hw-bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNP8K3GC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNP8K3GC?tag=workcocoon-20",
     description:
       "JOSTYLE uses stainless steel 180-degree hinges instead of the standard metal hinges found on most screens in this list, a detail that matters since repeated folding is usually where screen hinges wear out first. Handmade pine framing keeps the natural wood look intact without paint or heavy stain.\n\nNon-woven fabric panels are odor-free out of the box, and like the rest of the shoji-style picks here, it arrives fully assembled and ready to unfold.\n\nWorth calling out specifically: handmade pine construction. The catch is smallest review sample in this list at 135 ratings.",
     specs: [
@@ -239,7 +239,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "350",
     imageUrl: "https://m.media-amazon.com/images/I/51l6YdJzIPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DL95KY4S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DL95KY4S?tag=workcocoon-20",
     description:
       "VEVOR steps up to 6 panels spanning 95.3 inches wide, the widest screen in this list, built for rooms where a standard 4-panel screen wouldn't stretch far enough to fully divide the space. Durable tung wood framing holds up better against humidity than typical pine.\n\n360-degree bidirectional hinges are the most flexible in this list, letting panels fold either direction freely, and waterproof fabric panels add some resilience the paper-based shoji screens don't have.\n\nMost flexible 360° bidirectional hinges. Set against that, shorter 66.9\" height than most other picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -271,7 +271,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "69",
     imageUrl: "https://m.media-amazon.com/images/I/51eRFao9PCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F32JPNGD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F32JPNGD?tag=workcocoon-20",
     description:
       "Svimi is the only frosted acrylic pick in this list, a genuinely different material category from every wood, rattan, and fabric screen above it. Premium acrylic panels are rated roughly 3 times more durable than glass and shatter-resistant, a real advantage over the paper and fabric panels that dominate the rest of this list.\n\nThe frosted finish diffuses light beautifully while staying stain-resistant, and its black metal frame gives it the most modern, minimalist look here, closer to a design piece than a traditional screen.\n\nA genuine advantage here is that more durable and shatter-resistant than glass. The tradeoff is most expensive pick in this list.",
     specs: [

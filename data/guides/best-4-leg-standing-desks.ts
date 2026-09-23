@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,226 Amazon ratings",
     reviews: "2,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ikoMgen5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=workcocoon-20",
     description:
       "This compact 32-inch electric frame targets buyers with a small desktop who still want push-button height adjustment. It includes 4 memory height presets, which is enough for most people who alternate between one sitting and one standing position throughout the day. The listing does not specify a leg configuration, so it should not be assumed to be a 4-leg frame.\n\nAt this size it works well in a dorm room or a tight corner where a full-width frame would not fit. Buyers who need to support dual monitors or a heavier off-center load should check the rated capacity carefully before relying on this size frame.\n\nSimple 4-preset memory control. That's a real strength, but weigh it against the flip side: leg configuration not confirmed on the listing.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 4,345 Amazon ratings",
     reviews: "4,345 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Wq-+TZNRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08C2LC3H2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08C2LC3H2?tag=workcocoon-20",
     description:
       "This is a frame-only kit rated for desktops up to 70.8 by 31.5 inches, with a 225-pound capacity that covers most home office setups. As a dual-motor frame it is built as a standard 2-leg design, one motor per leg, not a 4-leg frame, and buyers should not read dual motor as a signal of extra legs.\n\nBecause it ships without a desktop, you need to already have a top that matches the frame's width range or plan to buy one separately. The 225-pound capacity gives some headroom for a monitor arm or two, which lighter frames in this list do not offer.\n\nWorth calling out specifically: wide desktop compatibility range. The catch is not a 4-leg design despite dual motors.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 222 Amazon ratings",
     reviews: "222 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XkTgfpQgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FK3DD4F1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FK3DD4F1?tag=workcocoon-20",
     description:
       "The Furmax comes as a complete 45 by 24 inch desk with the top already included, which simplifies buying compared to frame-only kits. It has 4 height position memory settings and a rustic brown finish. The listing gives no frame-leg detail, so it should be treated as an unconfirmed configuration rather than assumed to be a 4-leg design.\n\nAt 45 inches wide it is a reasonable middle ground between the compact HUANUO pick and full-width home office desks. The lower review count compared to other picks here is worth weighing against the solid 4.6 star average.\n\nGood mid-size footprint for a home office. Set against that, leg configuration not confirmed on the listing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 547 Amazon ratings",
     reviews: "547 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41S5Krgo22L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQNV8WBS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQNV8WBS?tag=workcocoon-20",
     description:
       "This frame's biggest advantage is range, it fits desktops anywhere from 44 to 90 inches wide, and its 264-pound capacity is the highest rated capacity in this guide. Like the other dual-motor frames here, this is a standard 2-leg design, one motor per leg, not a genuine 4-leg frame despite the extra lift power.\n\nThat wide compatibility range makes it useful if you are not sure of your exact desktop width yet or plan to upgrade to a larger top later. The tradeoff is that a wider desktop overhanging a narrower leg spread can feel less stable, so match the frame width to your desktop size rather than just relying on the stated range.\n\nA genuine advantage here is that wide 44-90 inch desktop compatibility. The tradeoff is not a true 4-leg frame despite dual motors.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 353 Amazon ratings",
     reviews: "353 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/312SqhEUIaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D21VTP3R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D21VTP3R?tag=workcocoon-20",
     description:
       "This frame uses T-shaped legs, which is a stability feature built into a standard 2-leg frame, not a 4-leg design, and it should not be marketed as 4-leg even though the T-shaped base adds ground contact points. It supports desktops up to 75 by 35 inches and uses a brushless motor rated to 220 pounds.\n\nThe automotive-grade steel construction is a reasonable stability upgrade over basic frames at this price, and the T-shaped feet do help resist tipping on level floors. On uneven floors, check whether the included feet have independent leveling adjustment, since T-shaped legs with more contact points can be more sensitive to floor unevenness than a simple 2-point base.\n\nBrushless motor rated for quieter, smoother lift. On the other hand, t-shaped legs are not the same as a genuine 4-leg frame. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 311 Amazon ratings",
     reviews: "311 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WJcV8uQrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVQMQMY2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVQMQMY2?tag=workcocoon-20",
     description:
       "The E6 is a full 55 by 28 inch desk with a 3-stage dual motor frame and a rated capacity of 220 pounds, coming with both the desktop and frame included. Like other dual-motor picks here it is a standard 2-leg C-frame design, not a 4-leg frame, and the 3-stage column construction is what gives it a taller adjustment range rather than extra legs.\n\nMemory height presets make it simple to switch between sit and stand positions throughout the day. It ships in two boxes and, being one of the more elaborate frames in this guide, assembly runs closer to 60 to 90 minutes and is easier with two people given the number of bolts involved.\n\n3-stage column gives a taller adjustment range. That's a real strength, but weigh it against the flip side: higher price than frame-only or smaller options.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 763 Amazon ratings",
     reviews: "763 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PnkwnA3VL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09DYF1SRQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09DYF1SRQ?tag=workcocoon-20",
     description:
       "This is the same 3-stage dual motor frame as the standard E6, upgraded with a solid bamboo desktop instead of a laminate top, and a white frame option. It carries the same 220-pound capacity and 2-leg frame design as its sibling, dual motor here means one motor per leg, not a 4-leg frame.\n\nThe bamboo top is the main reason to pay more here, giving a warmer, more natural look and generally holding up well to daily use. Like the standard E6 it ships in two boxes and assembly is a similarly involved 60 to 90 minute process best done with a second person.\n\nWorth calling out specifically: same reliable 220 lb capacity as the standard E6. The catch is highest price in this guide.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 7,239 Amazon ratings",
     reviews: "7,239 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+f1oDDjoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B003M96GY0?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B003M96GY0?tag=workcocoon-20",
     description:
       "This is a rolling cart on casters, not a 4-leg or even a 2-leg fixed standing desk frame, and it should not be compared directly against the other picks in this guide as if it were the same category of product. It gives sit-to-stand height adjustment through a manual mechanism and includes storage, at a fraction of the price of a fixed frame.\n\nFor buyers who want mobility around a room, or who cannot commit to a stationary frame in a small space, this is a genuinely useful alternative rather than a compromise. It will not offer the stability of a bolted frame at a full desk width, so it suits a laptop and light accessories rather than a full dual-monitor setup.\n\nMobile, easy to move between rooms. Set against that, not a 4-leg or 2-leg fixed frame, a different product category entirely. Both matter when comparing it to the other picks here.",
     specs: [

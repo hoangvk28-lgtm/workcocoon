@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "24,107",
     imageUrl: "https://m.media-amazon.com/images/I/41pt-JSZM8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00EDTE2Q2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00EDTE2Q2?tag=workcocoon-20",
     description:
       "The Furinno Turn-S-Tube Wide TV Stand is by far the most-reviewed grey TV stand on Amazon, with over 24,000 ratings backing up its simple, no-frills design. Four open shelves in a black and grey combination fit a TV up to 55 inches, and rounded safety corners cut down on sharp edges around the piece.\n\nThe frame is FSC-certified and goes together tool-free in about 10 minutes, which makes it an easy first apartment or dorm pick. A 1-year warranty backs the build, and while it lacks enclosed storage, the open shelving keeps a streaming box, router, and game console all within easy reach.\n\nTool-free assembly in about 10 minutes. Set against that, no enclosed storage, everything sits on open shelves. Both matter when comparing it to the other picks here.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,399",
     imageUrl: "https://m.media-amazon.com/images/I/51eM2j8dEoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LTCXX5X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LTCXX5X?tag=workcocoon-20",
     description:
       "The YESHOMY Grey Wash Barn Door TV Stand fits TVs up to 65 inches behind a pair of sliding barn doors finished in a distinctive grey wash that reads more rustic than the flat grey tones on some competitors. Adjustable interior shelving lets you configure the enclosed space around a cable box, gaming console, or media accessories.\n\nCable routing holes keep wiring tucked away, and the overall proportions land squarely in farmhouse-modern territory. At 58 inches wide, it suits a mid-size living room without overwhelming the wall, and the barn door styling gives it a distinct look next to plainer flat-panel stands.\n\nA genuine advantage here is that adjustable interior shelving. The tradeoff is smaller review sample than the Furinno budget pick.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,137",
     imageUrl: "https://m.media-amazon.com/images/I/51tMrZuG0UL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQMDQ9G9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQMDQ9G9?tag=workcocoon-20",
     description:
       "The JUMMICO Grey Mid-Century TV Stand fits TVs up to 65 inches and swaps traditional handles for push-to-open cabinet doors, giving the front a cleaner, handle-free look that suits mid-century minimalist rooms. Five floor-protecting legs distribute weight evenly and keep the frame stable on hardwood or laminate flooring.\n\nCable management holes route wiring behind the two enclosed cabinets, and the tabletop is rated to hold up to 220 pounds, more than enough margin for a large TV plus a soundbar. At 4.5 stars, it holds one of the stronger ratings in this list, and the combination of push-to-open doors and a solid 220 lb rating makes it a standout at its price point.\n\n220 lb tabletop capacity, high for its price. On the other hand, push-to-open doors can be less convenient with full hands than a pull handle. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,681",
     imageUrl: "https://m.media-amazon.com/images/I/51IKM2VXu7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BSR7W2MZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BSR7W2MZ?tag=workcocoon-20",
     description:
       "The YESHOMY Grey Sliding Barn Door TV Stand fits TVs up to 65 inches and stands taller than most picks here at 27.6 inches, putting the screen closer to a comfortable sofa eye line. Metal-rail sliding barn doors glide open without swinging into the room, which saves floor clearance in tighter layouts compared to standard hinged cabinet doors.\n\nAdjustable interior shelving accommodates different equipment sizes, and cable routing holes keep cords organized at the back. With 1,681 ratings at 4.5 stars, it carries a solid, well-established review base, and the farmhouse grey finish matches the styling of its sibling barn door model above while adding extra height.\n\nTaller 27.6 inch height for a more comfortable eye line. That's a real strength, but weigh it against the flip side: higher price than the shorter YESHOMY barn door pick above.",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,803",
     imageUrl: "https://m.media-amazon.com/images/I/41ntioa1yFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4Z8Q1GK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4Z8Q1GK?tag=workcocoon-20",
     description:
       "The VASAGLE Grey Barn Door TV Stand fits TVs up to 65 inches and splits storage across 4 flexible compartments plus an adjustable shelf, giving more configuration options than most single-cabinet barn door designs. Sleek metal knobs contrast against the cozy farmhouse grey finish, and the tabletop supports up to 170 pounds.\n\nBuilt from premium particleboard and MDF, the frame holds up well to daily use, and cable routing keeps wiring tidy behind the closed doors. At 4.6 stars across 1,803 ratings, it has both a strong rating and a solid review base, making it one of the more well-rounded picks in this list for buyers who want maximum interior flexibility.\n\nWorth calling out specifically: strong 4.6 star rating with a solid review base. The catch is barn doors still limit access to one cabinet side at a time.",
     specs: [
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,010",
     imageUrl: "https://m.media-amazon.com/images/I/41Wc4UcBmZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP16T67B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP16T67B?tag=workcocoon-20",
     description:
       "The LINSY HOME Washed Grey TV Stand fits TVs up to 75 inches and carries a 360 pound weight capacity, the highest of any stand in this list by a wide margin. A washed grey and brown vintage blend gives it a slightly warmer look than the flat grey finishes elsewhere here, and 2 glass cabinet doors reveal contents while still keeping them enclosed.\n\nThree height-adjustable shelves let you reconfigure the interior, and the surface resists water and general wear. At 66 inches wide and 22 inches deep, it's one of the larger-footprint stands in this list, suited to bigger living rooms with a large TV and additional stacked media equipment.\n\nGlass cabinet doors show contents while staying enclosed. Set against that, most expensive pick in this list aside from the LED option. Both matter when comparing it to the other picks here.",
     specs: [
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "120",
     imageUrl: "https://m.media-amazon.com/images/I/51NqQi5WU8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1CPSHSQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1CPSHSQ?tag=workcocoon-20",
     description:
       "The YITAHOME Grey LED TV Stand with Outlets fits TVs up to 75 inches and is the tallest pick in this list at 32 inches, plus it's the only one here with built-in power. Multi-color LED lighting sets an ambient glow behind the TV, while 2 built-in AC outlets and 2 USB ports let you charge devices or plug in a streaming box without running an extension cord across the room.\n\nTwo tempered glass doors add a premium look up front, and 3 adjustable shelves inside handle different equipment sizes. It's the priciest pick in this list, but between the LED lighting, integrated power, and tall 32 inch profile, it's built for buyers who want their TV stand to double as a design centerpiece.\n\nA genuine advantage here is that multi-color LED lighting for ambiance. The tradeoff is most expensive pick in this list.",
     specs: [
@@ -280,7 +280,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "603",
     imageUrl: "https://m.media-amazon.com/images/I/41Btet45+eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F83ZMQ65?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F83ZMQ65?tag=workcocoon-20",
     description:
       "The Luplom Rustic Grey TV Stand is the most affordable pick in this list at a budget-friendly price, sized for TVs up to 50 inches in smaller bedrooms or apartments. A metal frame paired with engineered wood shelving gives it an industrial look, and 3 open shelves keep a streaming box, router, and game console all within easy reach. Eight adjustable anti-wobble feet compensate for uneven flooring, and assembly takes about 20 minutes. At 100 pounds of stated capacity and a compact 45 inch width, it's built for small rooms rather than large living spaces, and it's a straightforward, no-frills option for anyone who just needs a simple stand under a smaller TV. 8 adjustable feet handle uneven flooring. On the other hand, smallest max TV size in this list at 50 inches. Neither should be a surprise once you know to look for it.",
     specs: [

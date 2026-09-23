@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The TR4720 is a wireless all-in-one with an auto document feeder, which is a genuinely useful feature at this price for scanning multi-page documents straight from an iPhone camera roll or a stack of paper. It supports standard wireless printing over the same network your iPhone or iPad connects to, and the Canon PRINT app adds scan-to-cloud and mobile document capture on top of that.\n\nBuilt-in fax is a legacy feature most buyers will never use, but it does not add meaningfully to the cost. The compact footprint and low price make it a sensible starting point for a shared apartment or dorm printer that mainly needs to handle occasional iOS printing rather than heavy daily volume.\n\nAuto document feeder is rare at this price. On the other hand, cartridge-based ink costs more per page over time. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41uW+KOhmiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=workcocoon-20",
     description:
       "The TS5320 is listed with AirPrint support directly, which means it can print from an iPhone or iPad's native share sheet without opening the Canon PRINT app first, a real convenience for quick jobs like printing a boarding pass or a PDF attachment. Alexa compatibility adds voice-triggered print commands for households already using a smart speaker.\n\nThe five-color individual ink system lets you replace only the color that runs out rather than a combined cartridge, which can reduce waste over time. It lacks an automatic document feeder, so scanning multiple pages means lifting the lid and repositioning each sheet by hand.\n\nIndividual ink tanks reduce waste. That's a real strength, but weigh it against the flip side: no auto document feeder for multi-page scans.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41QF6tPh3FL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07W69LJ41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07W69LJ41?tag=workcocoon-20",
     description:
       "This is the white version of the TS5320, carrying the same AirPrint listing, individual ink tanks, and Alexa compatibility as its black counterpart, but in a finish that blends better with a white desk or light-colored home office. The Canon PRINT app remains available for scan-to-cloud and status monitoring beyond what AirPrint's basic print command covers.\n\nLike the black model, it uses a flatbed scanner without an auto document feeder, so bulk scanning from a stack of pages is slower than on printers with a feeder built in. For buyers whose main use case is printing directly from an iPhone or iPad rather than heavy scanning, that tradeoff matters less.\n\nWorth calling out specifically: white finish suits light desk setups. The catch is no auto document feeder.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 replaces disposable ink cartridges with refillable ink tanks, which sharply lowers the cost per page for anyone printing regularly from an iPhone or iPad, such as recipes, school assignments, or travel documents. It connects over standard wireless printing and pairs with the Epson Smart Panel app for scan-to-cloud and remote print monitoring from iOS.\n\nThe upfront price is higher than a cartridge printer, but for households that print often, the ink savings typically offset that within the first year or two. It does not include an automatic document feeder, so multi-page scanning is manual.\n\nNo cartridges to replace or run out of. Set against that, higher upfront price than cartridge models. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 is HP's entry-level all-in-one, pairing standard wireless printing with the HP Smart app for iOS, which handles setup, print job monitoring, and mobile document scanning through the iPhone or iPad camera. HP has historically had more mixed offline-connectivity reports on forums compared to Canon and Epson, worth knowing going in even though most users won't run into it. A 3-month Instant Ink trial is included, which auto-ships replacement cartridges but converts to a paid subscription unless canceled, so mark a calendar reminder if you don't want ongoing billing. It is one of the cheapest ways into a wireless all-in-one for occasional iOS printing. A genuine advantage here is that hP Smart app handles setup and scanning. The tradeoff is instant Ink trial auto-converts to paid unless canceled.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=workcocoon-20",
     description:
       "The Work Smart 1360 adds automatic duplex printing, letting an iPhone or iPad print job come out double-sided without manually flipping paper, useful for anyone printing longer documents to save paper. Its 1.8 inch color display makes checking print status and ink levels easier than squinting at small icon-only screens on cheaper models.\n\nBrother's mobile printing works through the standard iOS print flow, and a Refresh Subscription trial for ink is included, which like other ink subscription trials converts to paid billing unless canceled. Buyers wanting subscription-free ink from day one should watch for that renewal date.\n\nColor display for easy status checks. On the other hand, refresh Subscription trial auto-converts unless canceled. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 steps up from the ET-2800 with an automatic document feeder and fax, aimed at buyers who scan or copy multi-page documents regularly from an iPhone or iPad alongside printing. Like the ET-2800, it uses refillable ink tanks instead of cartridges, keeping the cost per page low for households with steady print volume.\n\nEthernet support is a nice option for a shared home office where multiple devices need a stable wired connection alongside wireless iOS printing. The Epson Smart Panel app covers remote scanning and print monitoring, matching the rest of the EcoTank lineup.\n\nLow cost per page from refillable tanks. That's a real strength, but weigh it against the flip side: highest price in this list alongside the ET-2800.",
     specs: [

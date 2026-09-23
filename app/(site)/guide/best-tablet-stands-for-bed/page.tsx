@@ -209,7 +209,7 @@ export default async function BestTabletStandsForBedPage() {
               <strong className="text-ink">Also consider: </strong>
               KDD Tablet Pillow Holder ($24.99) adds storage pockets and a stylus slot - better if you use a stylus regularly. ERGONOV Pillow Stand ($15.98) includes a snack bowl and rotating clip for extra versatility at a lower price.
             </p>
-            <a href="https://www.amazon.com/s?k=tablet+pillow+stand&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+            <a href="https://www.amazon.com/s?k=tablet+pillow+stand&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 mt-3 px-4 py-2 rounded-lg bg-[#FF9900] text-white text-sm font-bold hover:bg-[#e68900] transition-colors">
               Browse Pillow Tablet Stands on Amazon
             </a>
@@ -230,7 +230,7 @@ export default async function BestTabletStandsForBedPage() {
               <strong className="text-ink">Also consider: </strong>
               Lamicall Gooseneck Phone Holder ($28.98) is optimized for phones (up to 7&quot;) if you mainly use a smartphone in bed. KDD Gooseneck Tablet Stand ($29.99) has a more rigid arm that handles larger iPads with less sag.
             </p>
-            <a href="https://www.amazon.com/s?k=gooseneck+tablet+holder+for+bed&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+            <a href="https://www.amazon.com/s?k=gooseneck+tablet+holder+for+bed&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 mt-3 px-4 py-2 rounded-lg bg-[#FF9900] text-white text-sm font-bold hover:bg-[#e68900] transition-colors">
               Browse Gooseneck Tablet Holders on Amazon
             </a>
@@ -251,7 +251,7 @@ export default async function BestTabletStandsForBedPage() {
               <strong className="text-ink">Also consider: </strong>
               SAIJI Adjustable Laptop Stand ($31.99) adds 5 height levels and 4 tilt angles - better ergonomics for longer work sessions. The Foldable Lap Desk with Cup Holder ($57.99) is a larger 23&quot; surface with a built-in drink slot.
             </p>
-            <a href="https://www.amazon.com/s?k=tablet+stand+lap&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+            <a href="https://www.amazon.com/s?k=tablet+stand+lap&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 mt-3 px-4 py-2 rounded-lg bg-[#FF9900] text-white text-sm font-bold hover:bg-[#e68900] transition-colors">
               Browse Lap Tablet Stands on Amazon
             </a>
@@ -272,7 +272,7 @@ export default async function BestTabletStandsForBedPage() {
               <strong className="text-ink">Also consider: </strong>
               Lamicall Tablet Floor Stand ($24.99) is a freestanding gooseneck on a weighted base - 63&quot; tall, adjustable from sitting to standing, no clamp needed.
             </p>
-            <a href="https://www.amazon.com/s?k=adjustable+tablet+stands&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+            <a href="https://www.amazon.com/s?k=adjustable+tablet+stands&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 mt-3 px-4 py-2 rounded-lg bg-[#FF9900] text-white text-sm font-bold hover:bg-[#e68900] transition-colors">
               Browse Adjustable Tablet Stands on Amazon
             </a>
@@ -293,7 +293,7 @@ export default async function BestTabletStandsForBedPage() {
               <strong className="text-ink">Also consider: </strong>
               Amazon Basics Multi-Angle Portable Stand ($7.99) is the simplest foldable option - no clamp, fits in a bag, adjusts to multiple angles. Best if you want a pack-and-go solution that works on any flat surface.
             </p>
-            <a href="https://www.amazon.com/s?k=foldable+tablet+stand&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+            <a href="https://www.amazon.com/s?k=foldable+tablet+stand&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 mt-3 px-4 py-2 rounded-lg bg-[#FF9900] text-white text-sm font-bold hover:bg-[#e68900] transition-colors">
               Browse Foldable Tablet Stands on Amazon
             </a>
@@ -349,7 +349,7 @@ export default async function BestTabletStandsForBedPage() {
             <p className="font-semibold text-ink mb-1">Browse all tablet stands for bed on Amazon</p>
             <p className="text-sm text-ink-secondary">See current prices, customer photos, and more options.</p>
           </div>
-          <a href="https://www.amazon.com/s?k=tablet+stands+for+bed&tag=deskfinds0d-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
+          <a href="https://www.amazon.com/s?k=tablet+stands+for+bed&tag=workcocoon-20" target="_blank" rel="nofollow sponsored noopener noreferrer"
             className="shrink-0 inline-flex items-center gap-2 px-5 py-3 rounded-lg text-sm font-bold bg-[#FF9900] text-white hover:bg-[#e68900] transition-colors whitespace-nowrap">
             <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M12.26 18.36C9.18 20.34 4.76 21.38 1 20.16c-.38-.13-.33-.44.08-.35 3.47.67 7.77-.07 10.6-1.82.47-.27.87.17.58.37zm1.06-1.17c-.43-.56-2.85-.27-3.94-.13-.33.04-.38-.25-.08-.46 1.93-1.36 5.1-.97 5.47-.51.37.46-.1 3.63-1.91 5.14-.28.23-.54.11-.42-.2.41-.98 1.32-3.28.88-3.84z"/></svg>
             Shop on Amazon

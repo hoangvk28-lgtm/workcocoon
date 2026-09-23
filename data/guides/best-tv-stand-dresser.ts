@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "7,880 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/411OdMwDcHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B097Y4MLRT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B097Y4MLRT?tag=workcocoon-20",
     description:
       "The WLIVE 7 Drawer at pricing is the lowest-priced option in this roundup and still delivers seven fabric drawers on a sturdy steel frame with a water-resistant wood top. It fits TVs up to 45 inches and assembles in 15 to 20 minutes, which makes it a fast setup for a bedroom or guest room on a tight budget. The fabric drawer bins pull out smoothly and work well for folded clothing, though they trade some rigidity for weight. This is the starting point for anyone who wants a functional dresser and TV stand combo without spending close to six figures on furniture for a single small room. Fast 15-20 minute assembly. Set against that, 45\" max TV size limits larger setups. Both matter when comparing it to the other picks here.",
     specs: [
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "7,880 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41H8gk8T2nL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B8NYH6CC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B8NYH6CC?tag=workcocoon-20",
     description:
       "This is the same WLIVE 7 drawer frame as our budget pick, offered in a clean white finish instead of black and rustic brown. It uses the same seven fabric drawers and fits TVs up to 45 inches, but adds 4-way adjustable feet that make it easier to level on uneven flooring. The white finish suits brighter bedrooms or closets better than darker options, and it works equally well as a plain dresser if the TV top ever goes unused. It matches the black version on price and features, so the choice really comes down to which finish fits the room. A genuine advantage here is that 4-way adjustable feet for uneven floors. The tradeoff is 45\" max TV size limits larger setups.",
     specs: [
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "1,901 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41dXwXVv-JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CWR9TJV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWR9TJV5?tag=workcocoon-20",
     description:
       "The Huuger 63 inch spans nine drawers with a 20 inch depth, closer to a genuine bedroom dresser than most TV stand combos, and it fits TVs from 55 to 70 inches on its wide top. Eight adjustable feet help it sit level, and the included anti-tip hardware matters given the combined weight of a large TV and a full load of drawers. It costs more than the entry-level WLIVE options but supports a 300+ lb capacity across the top and frame, which covers larger TVs and any soundbar or media equipment placed alongside it. This is the pick for anyone replacing a large living room TV stand with a dual-purpose piece. Fits large 55-70\" TVs. On the other hand, 63\" width needs more wall space. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -151,7 +151,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "977 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51sm2V5lIvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DJY1LD1M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJY1LD1M?tag=workcocoon-20",
     description:
       "The Huuger 47 inch LED model adds app-controlled lighting with 6,000 color options, plus a built-in power strip with two AC outlets, two USB ports, and one USB-C port on the frame itself. Six drawers provide clothing storage while the top fits TVs from 43 to 55 inches, a common size range for bedroom setups. The app control lets you sync lighting to music or set a schedule, which is a feature standalone dressers and basic TV stands don't offer. It's a mid-range price for the added electronics, and the built-in outlets remove the need for a separate power strip behind the TV. Built-in AC and USB charging. That's a real strength, but weigh it against the flip side: a competitive price higher than basic models.",
     specs: [
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "2,787 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41GNB+ukutL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D6V1NVM1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D6V1NVM1?tag=workcocoon-20",
     description:
       "The WLIVE 8 drawer adds a 60,000-color LED strip and a charging station with two AC outlets and two USB ports, built directly into the frame near the top surface. Eight drawers give more storage than the entry-level WLIVE models, and the top fits TVs from 45 to 55 inches. It sits between the budget and premium picks in this roundup. The 150 lb weight capacity is lower than the Huuger models, so it suits lighter TVs and typical bedroom electronics rather than a large media setup with multiple devices stacked on top. Worth calling out specifically: built-in LED and charging station. The catch is 150 lb capacity lower than Huuger models.",
     specs: [
@@ -215,7 +215,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "183 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51etHqXwqpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FN3QRCH7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FN3QRCH7?tag=workcocoon-20",
     description:
       "The Furologee 63 inch wraps six drawers in PU leather fronts and adds 60,000+ color LED lighting with three AC outlets and two USB ports built into the frame. Four ventilated open shelves sit alongside the drawers, useful for a cable box, streaming device, or gaming console that needs airflow. It fits TVs from 65 to 70 inches, making it one of the two picks in this roundup built specifically for larger televisions. The PU leather drawer fronts give it a more upscale look than the fabric-drawer options, though leather surfaces need more careful cleaning than fabric. 4 ventilated shelves for media devices. Set against that, only 6 drawers, fewer than most picks here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "4,428 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Z9+nZ6V9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTZT93P7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTZT93P7?tag=workcocoon-20",
     description:
       "The SONGMICS BELLAH uses a premium steel frame across eight drawers and pairs it with app-controlled 60,000-color LED lighting, two AC outlets, a USB port, and a USB-C port. At 57.8 inches wide, it fits TVs up to 65 inches and has the largest review base among the higher-priced picks in this roundup. It's priced toward the top of this lineup, reflecting SONGMICS's reputation for sturdier steel construction than some budget alternatives. The Ink Black finish is understated and works in both bedroom and living room settings. A genuine advantage here is that app-controlled LED and full charging suite. The tradeoff is a higher price point.",
     specs: [
@@ -280,7 +280,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PoO7qfM-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9WV3CQ2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9WV3CQ2?tag=workcocoon-20",
     description:
       "The WLIVE 12 Drawer is the widest and highest-capacity piece in this roundup at 66 inches, with twelve drawers, more than double the entry-level WLIVE models. It pairs that storage with 60,000-color LED lighting and a built-in charging station with two AC outlets and two USB ports, and the top fits TVs from 65 to 75 inches. It's the most expensive pick here, which fits its role as the large-room option in this lineup. Twelve drawers give real dresser-level clothing capacity, but the wide frame needs a correspondingly large wall to sit against without crowding a room. Fits large 65-75\" TVs. On the other hand, a highest price in roundup. Neither should be a surprise once you know to look for it.",
     specs: [

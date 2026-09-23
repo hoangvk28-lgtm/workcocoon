@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 549 Amazon ratings",
     reviews: "549 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41p66KxYQ6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1QNCRFH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1QNCRFH?tag=workcocoon-20",
     description:
       "A genuine dual-function design with a solid review base, appropriate for a home office wanting both particulate filtration and humidity control from a single footprint.\n\nA combo unit means two separate maintenance schedules in one device, not half the upkeep, budget time for both filter replacement and regular water tank cleaning.\n\nGenuine dual-function design in one footprint. That said, two separate maintenance schedules, not less upkeep than two units. Neither should be a surprise once you know to look for it.",
     specs: ["Combined air purifier and humidifier", "Solid review base", "Single footprint for both functions", "Reasonable price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 1,082 Amazon ratings",
     reviews: "1,082 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413ztUazlCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CYHBHRHW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYHBHRHW?tag=workcocoon-20",
     description:
       "A larger review base than the bedroom-specific variant at a lower price, a genuinely proven combo option for a home office on a moderate budget.\n\nA neglected water tank can become a source of mold that the same unit's purifier side then has to filter back out, treat tank cleaning as non-negotiable rather than optional the way filter changes can sometimes be stretched.\n\nWorth calling out specifically: lower price for combined features. The catch is water tank cleaning is non-negotiable maintenance, not optional.",
     specs: ["Combined air purifier and humidifier", "Larger review base than similar variant", "Lower price", "Single footprint"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 320 Amazon ratings",
     reviews: "320 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LumZk9dtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B92W3QYY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B92W3QYY?tag=workcocoon-20",
     description:
       "A 4-in-1 design adding functions beyond just filtration and humidification, appropriate for a buyer wanting the most consolidated single-device solution despite the higher price.\n\nMore functions in one device mean more individual components to maintain, not a shortcut around the two-schedule reality of filter replacement and tank cleaning.\n\nSolid review base for a specialty combo category. Set against that, highest price in this guide. Both matter when comparing it to the other picks here.",
     specs: ["4-in-1 combined functions", "Solid review base", "Higher price for consolidated features", "Multi-function design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 127 Amazon ratings",
     reviews: "127 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41R+N2t3vlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG3PS4FY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG3PS4FY?tag=workcocoon-20",
     description:
       "A mid-range combo option from an established air-quality brand, appropriate for a home office wanting a recognized name in the combo category specifically.\n\nCheck the water tank capacity and stated cleaning interval before buying, larger tanks mean less frequent refilling but the same non-negotiable cleaning cadence.\n\nThe standout detail is that mid-range price for combined features. Balancing that out, lower average rating than the top picks in this guide.",
     specs: ["Combined air purifier and humidifier", "Established brand in air quality category", "Mid-range price", "Solid review base for a combo unit"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars from 221 Amazon ratings",
     reviews: "221 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418o1rKD45L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DPXVHFSB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DPXVHFSB?tag=workcocoon-20",
     description:
       "An accessible price point for a combo unit from a well-known home-goods brand, a reasonable entry option for a home office trying the combo category for the first time.\n\nThe lower average rating here suggests weighing this against the higher-rated picks in this guide, particularly if reliability over time is your priority.\n\nRecognized home-goods brand. That's a real strength, but weigh it against the flip side: lower average rating than other picks in this guide.",
     specs: ["Combined air purifier and humidifier", "Accessible price point", "Recognized home-goods brand", "Single footprint"],

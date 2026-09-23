@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 is small enough to sit on a shelf, a closet ledge, or a small desk without needing dedicated floor space, which matters most in a studio apartment where every surface serves double duty. Print, copy, and scan cover the basics without extra bulk.\n\nWireless printing over a typical apartment's wifi network works reliably at normal in-unit distances, and inkjet mechanisms run quieter than laser printers, a real factor if the printer sits near a sleeping or working space. Its main tradeoff is a small paper tray that needs more frequent refills.\n\nA genuine advantage here is that quieter than laser printers nearby. The tradeoff is small paper tray needs frequent refills.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "In a small apartment, a printer stuck in a far corner from the router, sometimes 20-30 feet away through 1-2 walls, can drop wireless connection on a budget router. The DeskJet 4355 uses HP's standard wifi module, which performs adequately at those distances but benefits from being placed on the same side of the unit as the router when possible.\n\nIt includes a 3-month HP Instant Ink trial and covers print, scan, and copy in a compact body. If your router sits at the opposite end of a studio or one-bedroom, positioning the printer thoughtfully matters more than any single spec on the page.\n\nIncludes a starter ink trial. On the other hand, wifi can weaken through multiple walls at range. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "When a printer lives on a shelf across the room rather than right at hand, its 1.42-inch OLED display lets you check ink levels and print status without walking over to inspect it or pulling out a phone app, a small but real convenience in a compact living space.\n\nIt keeps the same shelf-friendly footprint and quiet inkjet operation as the rest of Canon's compact PIXMA line, with auto duplex printing included. Wireless performance is consistent with typical small-apartment wifi setups.\n\nQuiet inkjet operation. That's a real strength, but weigh it against the flip side: small paper tray.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "If shelf space is truly unavailable, the PIXMA TR4720's auto document feeder and top-loading design still work reasonably well from a low floor placement or a tucked-away corner, as long as there's enough clearance for the paper tray to extend and the ADF lid to open.\n\nFloor placement does collect more dust over time than a shelf, worth factoring into your cleaning routine. Built-in fax and ADF add real function if you scan multi-page documents, and wireless setup follows the standard Canon PRINT app pairing.\n\nWorth calling out specifically: works acceptably in corner or floor placement. The catch is floor placement collects more dust than a shelf.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-ZgpCGxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=workcocoon-20",
     description:
       "The PIXMA TS3720 strips down to the essentials, print, copy, scan, wireless, in the smallest and cheapest body among the full AIOs in this list. Inkjet mechanisms are inherently quieter than laser, and this model's simplicity means less mechanical noise from extra hardware like an ADF or duplexer.\n\nIt's a sensible pick for a small bedroom-office or studio corner where noise near a sleeping or working space is the top priority, though the tradeoff is no auto duplex printing and a small paper tray.\n\nMinimal mechanical noise from simple hardware. Set against that, no automatic duplex printing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "Laser printers like the HL-L2405W run louder during a print job than inkjet models, worth prioritizing placement away from a sleeping area or a video-call setup in a studio apartment. In exchange, it offers a smaller physical footprint than most inkjet AIOs since it skips the scanner bed, and toner never dries out between infrequent print jobs.\n\nIt's print-only with no scan or copy, and Alexa compatibility lets you send a print job without walking over to the device, useful when it's tucked into a less accessible corner.\n\nA genuine advantage here is that toner never dries out from infrequent use. The tradeoff is louder than inkjet during active printing.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51zPjelEtML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=workcocoon-20",
     description:
       "For a truly space-constrained studio where no shelf, floor spot, or under-desk area is realistically free, this inkless thermal printer can live in a drawer and come out only when needed. It supports full 8.5 x 11-inch Letter and A4 pages and connects over Bluetooth rather than wifi, sidestepping any router-distance concerns entirely.\n\nIt's genuinely a specialty pick, print quality and longevity trail a standard inkjet or laser printer since it uses heat-sensitive thermal paper rather than ink or toner. Framed honestly, this is the answer when placement flexibility matters more than daily-driver print quality.\n\nNo wifi range concerns since it pairs via Bluetooth. On the other hand, requires special thermal paper, not standard copy paper. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31BXOlNqjZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=workcocoon-20",
     description:
       "The Pixma MG3620 rounds out a small-space lineup with mobile and tablet printing support and solid photo output quality, useful for a studio apartment resident who occasionally prints photos alongside documents. Its footprint sits comfortably on a shelf or small desk.\n\nAs with other cartridge-based inkjets, it runs quieter than laser and connects over a standard wifi module that performs reliably at typical in-unit distances. It's priced higher than the most basic picks here, reflecting its stronger photo print quality rather than any small-space-specific advantage.\n\nMobile and tablet printing support. That's a real strength, but weigh it against the flip side: pricier than the more basic AIO picks in this list.",
     specs: [

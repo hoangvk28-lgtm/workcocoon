@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "A genuine 50-sheet ADF with duplex scanning, well-suited to a small team's regular document volume without the higher price of enterprise-tier scanners. The TWAIN driver works with most document management software, but if your business specifically adopts an ISIS-dependent DMS platform, budget for a separate licensing cost not included here.\n\nAuto crop and blank-page removal keep batch scanning consistent across a small team's varied document types.\n\nTWAIN driver works with most document management software. That's a real strength, but weigh it against the flip side: iSIS licensing cost not included if your DMS requires it.",
     specs: ["50-sheet ADF, duplex", "TWAIN driver (verify ISIS licensing separately for DMS platforms)", "Auto crop, blank-page removal", "Searchable PDF OCR"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 991 Amazon ratings",
     reviews: "991 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=workcocoon-20",
     description:
       "A 100-sheet feeder rated up to 45 ppm, genuinely suited to a busier small office (like a 10-15 person accounting practice) rather than just a 2-3 person consulting firm. One-touch scan-drag-drop simplifies the workflow for staff without deep scanner expertise.\n\nWired USB only, a real reliability plus for a shared office scanner over wireless connection drops, though multi-user network scan-to-folder setup (shared across several employees) isn't detailed and may need IT configuration.\n\nWired USB avoids wireless reliability issues in a shared office. On the other hand, multi-user network scan-to-folder setup not detailed, may need IT configuration. Both are worth keeping in mind before deciding.",
     specs: ["100-sheet feeder, up to 45 ppm", "Wired USB only, ScanSnap Home software", "One-touch scan-drag-drop", "Auto de-skew, blank-page removal"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,522 Amazon ratings",
     reviews: "6,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=workcocoon-20",
     description:
       "For a genuinely small 2-3 person consulting firm or solo practice, this compact scanner's lower capacity is actually appropriately sized rather than overkill, avoiding paying for enterprise-tier duty cycle you'd never use. Broad Windows/Mac/Linux driver support suits a mixed-OS small office.\n\nLargest review base in this guide, real-world evidence of reliability at this exact small-team scale.\n\nA genuine advantage here is that broad OS driver support for mixed environments. The tradeoff is that single-sheet feed limits capacity for anything beyond a small team.",
     specs: ["Single-sheet feed, compact", "TWAIN/WIA (PC), ICA (Mac), SANE (Linux)", "Largest review base in this guide", "Free iPrint&Scan app"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 37 Amazon ratings",
     reviews: "37 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJWWZ77J?tag=workcocoon-20",
     description:
       "Direct cloud scanning support genuinely simplifies a small business workflow without needing a dedicated server or IT-managed network folder, a real setup-complexity reduction versus multi-user scan-to-folder configurations. Duplex scanning and easy setup round out a genuinely office-focused design.\n\nSmall review count reflects a newer, lower-volume listing, weigh that against the genuine cloud-connectivity convenience for small-business setup simplicity.\n\nDuplex scanning. That said, smallest review count in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["Direct cloud service scanning", "Duplex, easy setup", "Office-class design", "Scans wide variety of documents"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 350 Amazon ratings",
     reviews: "350 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31j5kwbaiFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BWNTNGN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BWNTNGN5?tag=workcocoon-20",
     description:
       "Explicit plug-and-scan capability with no software installation required, a genuine simplicity win for a small business without dedicated IT support to manage driver installations across multiple employee computers. Auto document feeder and duplex scanning round out a solid office-class design.\n\nA reasonable alternative to the cloud-connected R40II if you'd rather avoid any cloud dependency and keep scans local by default.\n\nWorth calling out specifically: auto document feeder with duplex. The catch is smaller review count than the Epson/ScanSnap picks.",
     specs: ["Plug-and-scan, no software installation required", "Auto document feeder, duplex", "Office-class design", "No IT setup burden"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 442 Amazon ratings",
     reviews: "442 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418QNsyyrDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=workcocoon-20",
     description:
       "A genuine office-class Canon scanner suited to small business document volume, with bundled OCR for basic searchable-PDF needs. A reasonable choice if you prefer Canon's imageFORMULA line specifically over Epson/ScanSnap for your small office.\n\nAs with every pick here, verify ISIS licensing costs separately if your business adopts a DMS platform requiring it.\n\nBundled OCR software. Set against that, iSIS licensing cost not addressed. Both matter when comparing it to the other picks here.",
     specs: ["Office-class duplex ADF scanner", "Bundled OCR software", "Canon imageFORMULA line", "Business/office-focused design"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "A genuinely compact ADF-hopper scanner suited to a small business with limited desk space, with standalone scan-to-cloud reducing dependency on a dedicated network folder setup. 30ppm duplex is a reasonable speed for a small team's regular volume.\n\nMulti-user network scan-to-folder configuration (if you go that route instead of cloud) will still need IT setup, factor that into your total setup effort estimate.\n\nThe standout detail is that standalone cloud scanning reduces network setup dependency. Balancing that out, scan-to-folder (vs. cloud) still needs IT setup for multi-user access.",
     specs: ["Compact ADF hopper, 30ppm duplex", "Standalone scan-to-cloud", "Space-saving design", "Auto de-skew, color optimization"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "Wireless connectivity built in, genuinely useful for a small office layout where running a USB cable to every workstation isn't practical. Largest review base among the wireless small-business picks here, real-world evidence of reliable performance at this scale.\n\nAs with any wireless setup involving multiple employees, verify network folder permissions and access are configured correctly, this isn't a plug-and-play multi-user setup out of the box.\n\nWireless connectivity useful for flexible small-office layouts. That's a real strength, but weigh it against the flip side: highest price in this guide.",
     specs: ["Wireless + USB desktop scanner", "TWAIN driver, searchable PDF OCR", "Largest review base among wireless small-business picks", "Auto crop, blank-page removal"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "396 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31eCcCtZEoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BHF5W87B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BHF5W87B?tag=workcocoon-20",
     description:
       "This clamp attaches to the desk leg rather than the desktop edge, sidestepping desk-edge thickness compatibility concerns entirely while still offering tool-free, no-drill installation with a large review base backing its holding reliability.\\n\\nLeg-clamping generally distributes the swinging load differently than a desktop-edge clamp, worth considering if you're specifically concerned about incidental bumps against a mounted tower.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the VIVO Adjustable Clamp before deciding.\n\nWorth knowing before you decide: Large review base for real-world holding reliability. On the other side, Verify your desk leg shape and thickness are compatible. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Clamps to desk leg, not desktop edge","Tool-free installation","Large review base","Budget price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "3.8 stars from Amazon ratings",
     reviews: "12 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31doCXKzW0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GF95FV2V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GF95FV2V?tag=workcocoon-20",
     description:
       "A desktop-edge clamp with swivel action, appropriate for buyers wanting to rotate the case out for cable access, though check your specific desk edge thickness against the clamp's range before ordering.\\n\\nThe smaller review base and more moderate rating here mean holding capacity under a heavy, dynamic load is less proven than the top pick, worth weighing this against the genuine swivel convenience it offers.\n\nSet against the VIVO Adjustable Clamp, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Secure locking mechanism beyond simple friction. On the other side, More moderate rating and smaller review base than the top pick. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Desktop-edge clamp, 3.5-7.8 inch range","Swivel action","Secure locking","Smaller review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "83 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31MLrg3bEyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ4PF7Q7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ4PF7Q7?tag=workcocoon-20",
     description:
       "Marketed specifically as heavy-duty, this desktop clamp fits a wide 14.5 to 22.4 inch tower height range, appropriate for buyers with a taller case wanting genuine clamp-based holding capacity rather than leg-mounting.\\n\\nAt the higher price point in this guide, verify the clamp's contact points against any integrated cable trays or under-desk drawers before finalizing placement, since a wide clamp footprint can conflict with built-in desk features.\n\nRelative to the VIVO Adjustable Clamp, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Thickened, reinforced clamp hardware for heavier loads. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Fits 14.5-22.4 inch tall towers","Heavy-duty no-drill clamp","Thickened clamp hardware","Higher price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416Qk72eERL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCY4Q147?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCY4Q147?tag=workcocoon-20",
     description:
       "A strong 4.5-star rating backs this leg-clamped mount, appropriate for buyers wanting reliable holding without desktop-edge thickness concerns, at a reasonable mid-range price.\\n\\nAs a leg clamp, it's less likely to risk desk-tipping than a desktop-edge clamp on a lighter desk, since the load transfers through the leg's own structural point rather than levering against the desktop edge.\n\nCompared with the TooCust Adjustable Under Desk PC Mount above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Leg-clamp design avoids desktop-edge thickness issues. On the other side, Verify desk leg shape and thickness compatibility. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Clamp-on leg design","Strong rating","Mid-range price","Standing desk compatible"],

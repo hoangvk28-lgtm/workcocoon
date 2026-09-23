@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,226 Amazon ratings",
     reviews: "2,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ikoMgen5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=workcocoon-20",
     description:
       "This is a complete 32-inch desk with the top already attached, which removes any question about crossbar-to-desktop compatibility since the two are sold as a matched unit. It has 4 memory height presets and a compact footprint suited to a small room or dorm corner.\n\nBecause the top ships fixed to this frame, you cannot swap in a different desktop later, so measure your space against the 32-inch width before ordering. The tradeoff for that simplicity is less flexibility if your needs change down the line.\n\nFits small rooms and dorm spaces. That's a real strength, but weigh it against the flip side: top is fixed and cannot be swapped for a larger desktop later.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,747 Amazon ratings",
     reviews: "1,747 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k4VBjAQzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=workcocoon-20",
     description:
       "This is a complete 55-inch desk with the top attached to the frame at the factory, so there is no crossbar width to check against a separate desktop purchase. The white finish and wide surface suit a dual-monitor gaming or home office setup.\n\nSince the top is fixed, grommet placement and cable routing are already built into the design rather than something you configure yourself. If you later want a different material or a narrower footprint, this frame will not accommodate that without replacing the whole unit.\n\nWorth calling out specifically: wide 55-inch surface fits dual-monitor setups. The catch is top cannot be swapped for a different material later.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 11,572 Amazon ratings",
     reviews: "11,572 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415He+cLvaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=workcocoon-20",
     description:
       "This 48 by 24 inch desk ships as a complete unit, so the desktop thickness and grommet layout are already engineered to match the frame's crossbar spacing. It carries the largest review base in this guide by a wide margin, which is a useful signal of consistent real-world fit and finish.\n\nAt 24 inches deep it is on the shallower side for anyone running a full dual-monitor setup with accessories, so measure your desk accessories against that depth before assuming everything will fit. Assembly is a standard single-person job at this size.\n\nNo compatibility guesswork with a pre-matched top. Set against that, 24-inch depth is shallow for accessory-heavy setups. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,463 Amazon ratings",
     reviews: "8,463 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418JjdqdnpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=workcocoon-20",
     description:
       "The splice board design on this 48 by 24 inch desk gives a two-tone maple top over a white frame, and the desktop ships already matched to the crossbar spacing so there is no separate compatibility check needed. It has a strong review base to back up its fit and finish claims.\n\nThe maple laminate top is thicker than budget alternatives, which matters if you plan to add grommet-mounted accessories like a monitor arm, since a thin top can strip screw threads over time. This is a complete desk, not a frame-only kit.\n\nA genuine advantage here is that thicker top better supports grommet-mounted accessories. The tradeoff is fixed top, cannot be swapped for a different size later.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,316 Amazon ratings",
     reviews: "5,316 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oErF+y4gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=workcocoon-20",
     description:
       "This complete 24x48 inch desk pairs a black steel frame with a rustic brown splice-board top, and like the other complete desks here, the top ships already matched to the frame so crossbar width is never a concern. It sits in the same price band as the FEZIBO pick above but with a slightly different aesthetic.\n\nThe rustic brown finish is a reasonable middle ground for a home office that wants warmth without a full wood upgrade. Reviews are solid, though slightly lower than some other picks in this guide, so weigh that against the styling if aesthetics matter to you.\n\nNo compatibility guesswork with a matched top. On the other hand, slightly lower rating than similarly priced picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 155 Amazon ratings",
     reviews: "155 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rUtvN6YIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GS9B1X5X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GS9B1X5X?tag=workcocoon-20",
     description:
       "This 47 by 24 inch complete desk includes built-in power outlets and a USB-C port on the frame itself, which helps with cable routing since you are not running an extension cord across a fixed desktop. The top ships matched to the frame with no compatibility check needed.\n\nThe review count here is the lowest in this guide, so treat the rating as a smaller sample than the other picks. The steel frame is marketed as stable, but with fewer reviews it is harder to confirm long-term durability at the same confidence level as higher-volume picks.\n\nUSB-C port adds device charging without extra cables. That's a real strength, but weigh it against the flip side: lowest review count in this guide, smaller confidence sample.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 555 Amazon ratings",
     reviews: "555 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oHg37v77L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=workcocoon-20",
     description:
       "At 27.6 inches deep, this is the deepest desktop in this guide, which gives noticeably more room for a keyboard, mouse, and monitor arm base without crowding the front edge. It ships as a complete 55 by 28 inch unit with the top pre-matched to the frame.\n\nThe extra depth and width mean this desk needs more floor space than the compact picks above, so measure your room before ordering. It includes 2 hooks and 3 preset heights, which is a step down in preset count from the 4-preset picks elsewhere in this guide.\n\nWorth calling out specifically: extra surface room for accessories and monitor arms. The catch is only 3 height presets versus 4 on other picks.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 598 Amazon ratings",
     reviews: "598 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41daFWT9JPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=workcocoon-20",
     description:
       "This is a tabletop standing desk converter, not a floor-standing frame, and it should not be compared to the other 7 picks as if it were the same product category. It sits on top of an existing desk and includes a dual monitor stand built into the riser mechanism.\n\nFor renters or anyone who cannot bolt a fixed frame to the floor, this is a genuinely useful alternative that requires no assembly beyond unboxing. It will not offer the desktop-size flexibility of a true frame, since it is sized to fit on top of whatever desk you already own.\n\nBuilt-in dual monitor stand saves a separate purchase. Set against that, not a floor-standing frame, a different product category entirely. Both matter when comparing it to the other picks here.",
     specs: [

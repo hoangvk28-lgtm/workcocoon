@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 977 Amazon ratings",
     reviews: "977 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31aDV5B5NkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FB8X43KJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FB8X43KJ?tag=workcocoon-20",
     description:
       "Five full 2.5G ports genuinely support NAS setups with room for the NAS itself plus multiple client devices, a real advantage for multi-client NAS access without needing an additional switch.\n\nGL.iNet's more technical firmware often exposes VLAN and network segmentation options, genuinely relevant for isolating a NAS on its own subnet for security purposes.\n\nA genuine advantage here is that more technical firmware often exposes VLAN/segmentation options. The tradeoff is that link aggregation support should be verified directly with GL.iNet documentation.",
     specs: ["Genuine tri-band, 5×2.5G ports", "VPN-focused, technical firmware options", "Room for NAS plus multiple clients without a switch", "Solid review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 472 Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "A genuine 10G port here is the single biggest NAS-relevant differentiator in this guide, directly relevant for a 10GbE-capable NAS transferring large sustained files.\n\nNAS-to-multiple-client transfer speed depends on switch topology beyond just this router's own multi-gig port, an additional switch may still be needed to fully distribute speed to several simultaneous clients.\n\nFull 320MHz 6GHz channel width. That said, an additional switch may still be needed for multi-client sustained transfers. Neither should be a surprise once you know to look for it.",
     specs: ["Genuine tri-band, 10G port plus 2.5G port and 3×2.5G LAN", "Rated for 2,600 sq ft, 120 devices", "320MHz full 6GHz channel width", "Solid review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 647 Amazon ratings",
     reviews: "647 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21jixzpoeiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK7Q5SCN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK7Q5SCN?tag=workcocoon-20",
     description:
       "Rated for 100 devices with an established Nighthawk brand track record, genuinely capable of handling a NAS alongside typical household device load without saturating the network.\n\nVersioned/incremental backup software from a NAS benefits from consistent low-latency connections more than peak bandwidth alone, this established router's routing stability is a genuine asset for that reliability.\n\nWorth calling out specifically: high device-count rating handles NAS plus household load. The catch is no dedicated 10G port for a 10GbE NAS.",
     specs: ["Genuine tri-band, 9.3Gbps wireless speed", "Rated for 2,500 sq ft, 100 devices", "2.5 Gigabit internet port", "Established Nighthawk brand"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 503 Amazon ratings",
     reviews: "503 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416sP+jL17L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=workcocoon-20",
     description:
       "Two full 10G ports genuinely enable a dedicated 10GbE connection to the NAS itself plus a separate 10G uplink, addressing the switch-topology gap directly for a serious NAS setup.\n\nThis is the most NAS-infrastructure-capable router in this guide, appropriate for a buyer running demanding sustained NAS transfers rather than casual home file storage.\n\nMost NAS-infrastructure-capable pick in this guide. Set against that, highest price in this guide. Both matter when comparing it to the other picks here.",
     specs: ["Genuine tri-band flagship, 2×10G + 4×2.5G ports", "8 high-performance antennas", "LED screen for status monitoring", "Largest port count for serious NAS infrastructure"],

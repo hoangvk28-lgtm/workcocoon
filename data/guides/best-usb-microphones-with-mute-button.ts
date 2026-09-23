@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vZkgLpKmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=workcocoon-20",
     description:
       "The AM8 pairs a dynamic capsule with a front-facing hardware mute button, which cuts the signal directly rather than routing through a software command. A dynamic capsule already rejects more room noise than a condenser, so on calls in an untreated room you'll likely reach for the mute button less often to begin with.\n\nIt ships with a desktop stand rather than a boom arm, and includes a headphone jack for zero-latency monitoring plus RGB lighting. USB or XLR connectivity gives it a clear upgrade path to an audio interface later.\n\nDynamic capsule rejects more background noise. That's a real strength, but weigh it against the flip side: desktop stand only, no boom arm included.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rKkw3TT2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=workcocoon-20",
     description:
       "The AM8T is essentially the AM8's dynamic capsule and hardware mute button bundled with a boom arm, which puts the mute button within easier reach since the mic sits closer to your mouth rather than on a fixed desktop stand. That shorter reach distance is worth factoring in if you plan to mute frequently during a call.\n\nA boom arm this close to your face also means the mute button stays visible in your peripheral vision, which helps you notice its LED state without breaking eye contact with your screen.\n\nWorth calling out specifically: hardware mute, not software-dependent. The catch is bundled boom arm spring tension is lighter duty than a standalone arm.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41WQG5fyf7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=workcocoon-20",
     description:
       "The K688 targets podcast and voice-over recording specifically, combining a dynamic capsule with USB or XLR output and a hardware mute button on the mic body itself. For multi-guest recording sessions, a hardware mute that responds instantly matters more than it does on a single-person call, since a delayed mute can leak a side comment into the recording.\n\nA headphone jack lets you monitor your own voice in real time, and the included boom arm frees up desk space compared to a fixed stand.\n\nBoom arm included for a cleaner desk. Set against that, dynamic capsule needs closer mic positioning than a condenser. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FYNR1PLxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=workcocoon-20",
     description:
       "The TC310+ uses a condenser capsule with a touch-sensitive tap-mute surface rather than a physical click button. A touch mute reacts instantly like a hardware mute, but it also carries a higher accidental-trigger risk since brushing the mic while adjusting the boom arm can toggle it without you noticing.\n\nGain control and an included boom arm round out a budget streaming setup, though the condenser capsule will pick up more room noise than the dynamic picks in this list, which raises how often you'll actually need that mute control.\n\nA genuine advantage here is that boom arm and gain control included. The tradeoff is touch mute has a higher accidental-trigger risk than a click button.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418a-WT28NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0932BCM2T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0932BCM2T?tag=workcocoon-20",
     description:
       "The ZealSound leans on built-in noise cancellation processing along with gain and volume controls and a mute button, aimed at reducing how much unwanted room sound reaches the mic in the first place. That processing can somewhat reduce reliance on the mute button, though it doesn't replace it for full silence during a call.\n\nIt ships as a desktop mic without a boom arm, and works across a wide range of devices including phones and tablets, making it a flexible pick if you record across more than one platform.\n\nNoise cancellation reduces how often mute is needed. On the other hand, no boom arm included. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31pu6SVe35L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01LY6Z2M6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01LY6Z2M6?tag=workcocoon-20",
     description:
       "The Blue Yeti's front-facing mute button is a hardware control with a visible glowing ring around it that changes state when muted, making it one of the more visible mute indicators in this list even at a glance from across a desk. Four selectable pickup patterns also let you narrow input to reduce how much room noise you're capturing before you ever need to mute.\n\nBlue VO!CE software adds real-time voice effects and EQ presets, but as a condenser mic it stays more sensitive to keyboard clatter and room echo than the dynamic picks, worth factoring in if you sit near a mechanical keyboard.\n\n4 pickup patterns to limit room noise before muting. That's a real strength, but weigh it against the flip side: condenser capsule picks up more desk and keyboard noise.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31iHEugSZ6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QLNYBG9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07QLNYBG9?tag=workcocoon-20",
     description:
       "The Yeti Nano shrinks the classic Blue Yeti's front-facing hardware mute button and status ring into a smaller footprint, keeping the same instantly visible mute indicator in a mic that takes up less desk space. Two pickup patterns cover the most common use cases, cardioid for solo calls and omnidirectional for small group recording.\n\nLike the standard Yeti, it's a condenser capsule, so it will pick up more ambient room sound than a dynamic mic, which is worth weighing against how often you'd actually need to hit that mute button during a typical call.\n\nWorth calling out specifically: visible mute status ring, same as the full-size Yeti. The catch is condenser capsule is more room-sensitive than a dynamic mic.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GaUMJg2pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=workcocoon-20",
     description:
       "Unlike every other pick in this list, the K669B's listing makes no mention of a dedicated hardware mute button, so we're including it as the honest budget floor rather than mislabeling it as a mute-button mic. If a hardware mute is the deciding factor, this is not the right pick.\n\nFor buyers who mainly rely on an app-level or keyboard-shortcut mute in Zoom, Teams, or Discord rather than touching the mic itself, that omission matters less. It's a solid metal-body cardioid condenser at a genuinely low price for anyone using this muting workflow instead.\n\nSolid metal build for the price. Set against that, no hardware mute button, unlike every other pick here. Both matter when comparing it to the other picks here.",
     specs: [

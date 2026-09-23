@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31WP4JM4puL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNT2F4Q5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNT2F4Q5?tag=workcocoon-20",
     description:
       "This Rongta 80mm printer covers the standard receipt width most POS software expects by default, which matters because formatting a receipt for a mismatched paper width causes cut-off totals and wasted paper. An automatic cutter trims each receipt cleanly without a manual tear bar, a small detail that speeds up a busy checkout line.\n\nIt connects over USB for a simple counter setup and handles the daily volume of a retail shop or small restaurant without issue. The tradeoff is a slightly larger footprint than the mini printer in this list, so measure your counter space before buying if the surface is tight.\n\nWorth calling out specifically: auto cutter speeds up checkout. The catch is larger footprint than a mini 58mm printer.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ZmM7etUEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08V4H7T47?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08V4H7T47?tag=workcocoon-20",
     description:
       "The RP326 adds cash drawer support alongside USB, serial, and Ethernet interfaces, which makes it a fit for a shop that already runs a kick-open cash drawer at checkout and wants the receipt printer to trigger it directly. This is not something every receipt printer in this list handles out of the box.\n\nIts 80mm width and auto cutter match the standard restaurant and retail workflow, and the multiple interface options give more flexibility for shops networking several registers together rather than running a single standalone counter.\n\nMultiple connection options for networked setups. Set against that, more setup steps than a plug-and-play USB-only printer. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41El+d9Kg4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B099MLDBKJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B099MLDBKJ?tag=workcocoon-20",
     description:
       "This is a shipping label printer rather than a receipt printer, built for a 4x6 format that matches Amazon, Shopify, Etsy, and USPS label sizing directly. Bluetooth connects it to a phone or tablet, which suits a home-based e-commerce seller who packs and labels orders without a dedicated checkout counter.\n\nBecause it prints labels rather than register receipts, it is a poor substitute for a POS receipt printer at a physical counter, but for a seller shipping several packages a day it removes the trip to a shipping store or the cost of pre-printed labels.\n\nA genuine advantage here is that bluetooth makes it easy to print from a phone while packing orders. The tradeoff is not a substitute for a checkout-counter receipt printer.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/516JTpeV2EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DX6RVJF7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DX6RVJF7?tag=workcocoon-20",
     description:
       "This budget 4x6 label printer covers the same core job as the JADENS pick above at a lower price point, printing shipping labels over Bluetooth for a small business packing and shipping its own orders. It skips extras like cash drawer support since it is not designed as a checkout register printer at all.\n\nFor a seller shipping a handful of packages a day rather than running a full retail counter, this is the cheapest way into dedicated label printing without relying on a home inkjet and adhesive label sheets, which cost more per label and print far slower.\n\nBluetooth printing from a phone or tablet. On the other hand, not a receipt printer for a checkout counter. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31bM-Xs2inL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CL481GS1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CL481GS1?tag=workcocoon-20",
     description:
       "The Sunydog mini printer uses 58mm paper, narrower than the 80mm standard, which suits a compact receipt format or a mobile vendor stand rather than a full-size register. Its small footprint and portability fit a market stall, pop-up shop, or side counter where space is limited.\n\nBefore buying, confirm your POS software supports a 58mm receipt template, since some platforms default to 80mm formatting and will cut off content on the narrower paper without a manual template adjustment. This is the lowest-priced pick in this list and the best fit for genuinely low-volume or occasional use.\n\nCompact footprint fits tight counters or mobile stands. That's a real strength, but weigh it against the flip side: 58mm width needs POS software template configuration.",
     specs: [

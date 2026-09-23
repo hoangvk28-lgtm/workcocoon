@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/318aJs9EIHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089424LJL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089424LJL?tag=workcocoon-20",
     description: "Lichamp Desktop Tape Dispenser Holder with Large 3 Inch Core for Masking is our overall pick in this lineup. Lichamp tape dispenser is a handy item that can be placed anywhere. This wonderful item allows you to multi-task while dispensing the required amount of tape.\n\nScotch Desktop Tape Dispenser is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Multi-purpose uses", "One hand dispensing", "Non-skid pad"],
     pros: ["Multi-purpose uses", "One hand dispensing", "Non-skid pad", "High quality blade"],
@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/311xlGoLLDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0006HVL8C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0006HVL8C?tag=workcocoon-20",
     description: "Scotch Desktop Tape Dispenser is the most affordable pick here that still clears the capability floor for this category. Deluxe black desktop tape dispenser with weighted base. Sleek wave design complements any décor.\n\nWeighing this against Lichamp Desktop Tape Dispenser Holder with Large 3 Inch Core for Masking, ideal for easy, one-handed dispensing ends up being the detail that matters most for most buyers.\n\nGo with this pick if you want a genuinely capable pick without paying for headroom you won't use. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Deluxe black desktop tape dispenser with weighted base", "Sleek wave design complements any décor", "Ideal for easy, one-handed dispensing"],
     pros: ["Deluxe black desktop tape dispenser with weighted base", "Sleek wave design complements any décor", "Ideal for easy, one-handed dispensing", "High-quality cutting blade lasts for years"],
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/2174u6P7NCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2ZS1W32?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2ZS1W32?tag=workcocoon-20",
     description: "Scotch Tape Dispenser is a strong alternative worth comparing directly against the top pick. Ideal choice for easy, one-handed dispensing when you need it. A reliable, classic design from scotch brand for your home, office or school.\n\nAgainst Lichamp Desktop Tape Dispenser Holder with Large 3 Inch Core for Masking, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Ideal choice for easy", "Reliable, classic design from scotch brand for your home, office or school", "Features a gentle"],
     pros: ["Ideal choice for easy", "Reliable, classic design from scotch brand for your home, office or school", "Features a gentle", "Easy to refill"],
@@ -74,7 +74,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41zLqKqbp8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC9QKBZ3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC9QKBZ3?tag=workcocoon-20",
     description: "Tape ZOOMIE, Original Viral Desktop Tape Dispenser for Gift Wrapping & Crafts is a strong alternative worth comparing directly against the top pick. Viral & time-saving gadget making waves on tiktok. Stress-free wrapping whether it’s christmas, birthdays, or mother's day, wrapping just a few times a year can still be frustrating.\n\nLichamp Desktop Tape Dispenser Holder with Large 3 Inch Core for Masking is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Viral & time-saving gadget making waves on tiktok", "Stress-free wrapping whether it’s christmas", "Compact & blade-free engineered for ease and safety"],
     pros: ["Viral & time-saving gadget making waves on tiktok", "Stress-free wrapping whether it’s christmas", "Compact & blade-free engineered for ease and safety", "Great for all tape types use standard tape"],
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41xqKni+ogL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005C6DVA8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005C6DVA8?tag=workcocoon-20",
     description: "Start International is the priciest pick in this lineup. Professional tape dispenser with advanced liner removal system that automatically peels and winds protective liner from tape rolls during dispensing. This industrial tape dispenser features robust metal base construction providing superior stability and durability for demanding professional environments.\n\nSet next to Lichamp Desktop Tape Dispenser Holder with Large 3 Inch Core for Masking, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who are willing to spend the most in this comparison for the fuller feature set that comes with it. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Professional tape dispenser with advanced liner removal system", "Heavy duty metal construction", "3 Inch core compatibility & specifications"],
     pros: ["Professional tape dispenser with advanced liner removal system", "Heavy duty metal construction", "3 Inch core compatibility & specifications", "Features lever-action operation allowing precise tape length control without electricity requirements"],
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41A4NZburSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B084ZYH5LH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B084ZYH5LH?tag=workcocoon-20",
     description: "LDS Industry 2 inches Desktop Table Top/Wall Mounted Tape and Label Dispenser is a strong alternative worth comparing directly against the top pick. Stationary type tape dispenser for any tape under 2 inches width. Very sharp and durable stainless steel blade, easy to replace tape rolls.\n\nLichamp Desktop Tape Dispenser Holder with Large 3 Inch Core for Masking lands in a similar spot overall, but the deciding factor between the two is special design for keeping the tape always stay on the dispenser and never fall during working.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Stationary type tape dispenser for any tape under 2 inches width", "Very sharp and durable stainless steel blade", "Heavy duty and very durable"],
     pros: ["Stationary type tape dispenser for any tape under 2 inches width", "Very sharp and durable stainless steel blade", "Heavy duty and very durable", "Special design for keeping the tape always stay on the dispenser and never fall during working"],

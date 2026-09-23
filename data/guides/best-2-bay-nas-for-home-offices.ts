@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 is built around centralizing home office file backup and basic property monitoring in one diskless 2-bay unit, running Synology's DSM software that most first-time NAS buyers find the easiest to learn. It's a value-series model, which keeps the price down but means its RAM is soldered rather than upgradeable.\n\nBuyers should budget for 2 compatible drives on top of the enclosure price, and note that Synology's 2024+ Plus-series models show compatibility warnings for non-Synology drives; the DS223 is more permissive but worth verifying against current drive compatibility lists before buying.\n\nSolid all-around home office backup features. That's a real strength, but weigh it against the flip side: soldered RAM, no upgrade path if you add more apps later.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "UGREEN positions the DXP2800 specifically toward content creators and enthusiasts, and its hardware backs that up with enough processing headroom for photo and video workflows beyond basic file storage. It's diskless, so buyers add their own drives to reach usable capacity.\n\nIts UGREEN NAS OS is newer than Synology's DSM or QNAP's QTS, which means a smaller app ecosystem today but active development. Buyers wanting the most mature software experience should weigh that against its stronger hardware for creative work.\n\nWorth calling out specifically: actively developed UGREEN NAS OS. The catch is smaller software ecosystem than Synology or QNAP.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=workcocoon-20",
     description:
       "The TS-264 ships with a substantial 8GB of RAM out of the box, well ahead of most 2-bay competitors that ship with 1-2GB and expect an upgrade purchase later. That headroom matters if you plan to run Plex, Surveillance Station-style apps, or several containers at once.\n\nQNAP's QTS software has a mature app store, and this Plus-tier unit is built for buyers who know upfront they'll want to expand functionality rather than deciding later and hitting a RAM ceiling.\n\nMature QTS app ecosystem. Set against that, highest price among the value-tier options in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=workcocoon-20",
     description:
       "The TS-216G bakes in 2.5GbE networking at a price close to standard Gigabit-only competitors, which matters because a 2.5GbE NAS only shows real speed gains if your router or switch also supports 2.5GbE, an extra cost many buyers don't budget for upfront. It runs QNAP's QTS software with the same app ecosystem as QNAP's higher-tier units, giving buyers a reasonably capable software experience without QNAP's most expensive hardware tier. A genuine advantage here is that same mature QTS app ecosystem as pricier QNAP units. The tradeoff is 2.5GbE speed gains require a compatible router or switch.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=workcocoon-20",
     description:
       "Asustor markets the Drivestor 2 Gen 2 as its best entry-level personal cloud option, and the price backs that framing up as the cheapest true 2-bay diskless NAS in this list. A quad-core 1.7GHz CPU and 2.5GbE networking are strong specs to find this low in the lineup.\n\nIts 1GB of DDR4 RAM is soldered and on the lean side for running much beyond basic file sharing and 4K media serving, so buyers planning to layer on Plex or multiple containers should budget for a step up rather than expecting this unit to grow with them.\n\n2.5GbE built in even at this price point. That's a real strength, but weigh it against the flip side: 1GB RAM is soldered, no upgrade path.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=workcocoon-20",
     description:
       "TERRAMASTER pairs an Intel x86 quad-core CPU with 4GB of RAM in the F2-425, giving it more raw processing power at this price than most ARM-based 2-bay competitors, which matters for transcoding and running multiple background services smoothly.\n\n2.5GbE networking is included, and TERRAMASTER's TOS software is functional if less polished than Synology's DSM, a fair trade-off for buyers prioritizing hardware specs over software refinement at this price.\n\nWorth calling out specifically: 4GB RAM is generous for this price tier. The catch is tOS software is less refined than Synology DSM.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 matches the Asustor Drivestor 2 on price while supporting up to 64TB of total capacity across its two bays, giving buyers room to grow into larger drives down the road without replacing the enclosure. It's a diskless unit, so both drives are a separate purchase.\n\nAs with the DXP2800 above it, UGREEN's NAS OS is newer than Synology or QNAP's software, a reasonable trade for buyers focused on hardware capacity and price rather than the most mature app ecosystem.\n\nMatches the cheapest entry-level price in this list. Set against that, smaller app ecosystem than Synology or QNAP. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21nJ2B4QOLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CBTVMMLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CBTVMMLB?tag=workcocoon-20",
     description:
       "The DS725+ is Synology's Plus-series 2-bay unit, meaning it carries upgradeable DDR4 RAM rather than the soldered memory found on value-series models like the DS223. That distinction matters directly if you plan to add Plex, Surveillance Station, or other memory-hungry apps down the line.\n\nAs a private cloud unit built for home and small business use, it's also expandable via Synology's expansion units for buyers who outgrow 2 bays. Buyers should verify current drive compatibility, since Synology's 2024+ Plus-series models flag non-Synology drives with compatibility warnings.\n\nA genuine advantage here is that expandable beyond 2 bays as storage needs grow. The tradeoff is most expensive pick in this list.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 127 Amazon ratings",
     reviews: "127 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31E89kCEPNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=workcocoon-20",
     description:
       "Explicit AI noise cancellation filters background sound like typing or HVAC hum from your mic pickup, separate from the full-duplex echo cancellation that keeps your own speaker output from feeding back in. 13ft pickup radius and 360 omni mic genuinely cover a small meeting table.\n\nA genuinely affordable price for the feature set, though the review base is still modest compared to established Jabra and Anker alternatives.\n\nLong 20H call time. Set against that, smaller review base than Jabra/Anker alternatives. Both matter when comparing it to the other picks here.",
     specs: ["AI noise cancellation, full-duplex", "13ft mic pickup radius, 360° omni mic", "20H call time, Bluetooth 5.3", "USB and Bluetooth connectivity"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,801 Amazon ratings",
     reviews: "5,801 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41x468UYHLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=workcocoon-20",
     description:
       "6 physical microphones genuinely improve voice isolation across a table compared to a single-mic design, the real driver of noise-canceling performance in a real conference room, not just a marketing claim. Zoom certification confirms tested compatibility with that specific platform.\n\nLarge, well-established review base gives real-world confidence this holds up across many meeting environments.\n\nA genuine advantage here is that zoom certified for confirmed platform compatibility. The tradeoff is higher price than the Yealink budget option.",
     specs: ["6 microphones, Zoom certified", "Echo cancellation, background noise reduction", "Bluetooth and USB connectivity", "Compact design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 67 Amazon ratings",
     reviews: "67 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31EhqapD3KL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F4GCS5WG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F4GCS5WG?tag=workcocoon-20",
     description:
       "Jabra's 2025 edition brings genuinely refined noise and echo handling from a company with a long track record in professional audio conferencing, worth the premium if call clarity is the priority over price.\n\nStill a newer release with a modest review count so far, weigh that against the strong early rating and Jabra's established reputation.\n\nStrong early rating. On the other hand, highest price in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["Wireless Bluetooth, 2025 edition", "Background noise and echo cancellation", "Premium build quality", "Compact wireless design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 68 Amazon ratings",
     reviews: "68 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31oHJerSTwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=workcocoon-20",
     description:
       "4 noise-cancelling mics with certification for both Zoom and Google Meet specifically, genuinely useful if your team switches between platforms rather than standardizing on one. USB-A and USB-C connections cover most laptop setups.\n\nA smaller review base than the top Anker pick, but dual-platform certification is a real differentiator most single-platform-certified competitors don't offer.\n\n4 dedicated noise-cancelling mics. That's a real strength, but weigh it against the flip side: smaller review base than the top Anker pick.",
     specs: ["4 noise-cancelling mics", "Certified for Zoom and Google Meet", "USB-A and USB-C connections", "Wideband audio"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,596 Amazon ratings",
     reviews: "1,596 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51zfICZQrEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=workcocoon-20",
     description:
       "4 mics with 360° voice pickup at a genuinely affordable price, a solid review base gives real-world confidence at this budget tier. 360° pickup means it's designed for a small round table rather than a directional setup.\n\nNo specific platform certification listed, but works over standard USB/Bluetooth with any video conferencing software.\n\nWorth calling out specifically: solid review base for the price. The catch is no specific platform certification.",
     specs: ["4 mics, 360° voice pickup", "USB and Bluetooth connectivity", "Compact design", "Budget-friendly"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 164 Amazon ratings",
     reviews: "164 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413BTmTk1LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC3XV5DK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC3XV5DK?tag=workcocoon-20",
     description:
       "The highest rating of any pick in this guide, genuine evidence of strong call quality and noise handling from Jabra's refreshed 2025 edition. Portable USB and Bluetooth design suits moving between a desk and a small meeting room.\n\nModest review count as a newer release, but the high rating and Jabra's track record make this a strong portable option.\n\nGenuinely portable for moving between spaces. Set against that, modest review count as a newer release. Both matter when comparing it to the other picks here.",
     specs: ["Portable USB Bluetooth speaker, 2025 edition", "Background noise reduction", "Compact, travel-friendly", "USB and Bluetooth connectivity"],

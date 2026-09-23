@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "554",
     imageUrl: "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=workcocoon-20",
     description:
       "SUNALLY pairs a powder-coated steel frame with 240gsm polyester, the thickest fabric of any 4-panel wheeled divider in this list, so it blocks more light and sightline than the thinner options at a similar price. Each panel rolls on 4 silent PE lockable wheels that won't scratch hardwood or scuff softly across carpet.\n\nExtended, widened feet give it a noticeably steadier stance once the wheels are locked than most 4-panel dividers, and the wrinkle, abrasion, and water-resistant fabric holds up better to daily bumping than a standard folding screen. At 88 inches wide by 72 inches tall, it splits a room cleanly without needing a second unit.\n\nSilent PE wheels that won't scratch floors. That's a real strength, but weigh it against the flip side: only 4 wheels per panel, fewer than some competitors.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "321",
     imageUrl: "https://m.media-amazon.com/images/I/41YngJMiXvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C7BHSXG7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C7BHSXG7?tag=workcocoon-20",
     description:
       "HOMSCREENER's 4-panel divider carries 10 self-locking universal PE castors, the most of any 4-panel pick in this list, spread across a 17.7-inch metal base that's also the longest in the group. That combination makes it the steadiest 4-panel option to roll into place and lock down without it drifting on an uneven floor.\n\nDouble hinges let it fold into L, W, C, or Z configurations, so it can wrap a corner or hug an irregular room shape instead of only standing in a straight line. At 88 inches wide and 71.3 inches tall, it covers roughly the same footprint as the top pick but leans harder into reconfigurability.\n\nWorth calling out specifically: longest 17.7\" metal base for stability. The catch is lower 3.9-star average than most other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "306",
     imageUrl: "https://m.media-amazon.com/images/I/41GuCphr6pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ98HRR5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ98HRR5?tag=workcocoon-20",
     description:
       "Stepping up to 6 panels, this HOMSCREENER divider spans 132 inches wide, the widest pick in this entire list, making it the option for a genuinely large open floor plan a 4-panel unit can't fully close off. It still rolls on 8 self-lockable PE universal wheels, and the 240gsm fabric is the thickest among the 6-panel picks here.\n\nThe steel tube frame is scratch-resistant and rust-proof, a detail worth noting on a wide piece that gets rolled and repositioned more often than a fixed screen. At 72 inches tall it delivers full privacy across the entire width.\n\nThickest fabric in the 6-panel group. Set against that, fewer wheels per panel than the 4-panel options. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "248",
     imageUrl: "https://m.media-amazon.com/images/I/31qktdguQHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BDL4GYLV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BDL4GYLV?tag=workcocoon-20",
     description:
       "Giantex loads its 6-panel, 132-inch beige divider with 14 universal lockable casters, more than any other pick in this list, at 1.5 inches in diameter each. That density of wheels means every panel gets independent rolling and locking, which matters when you're squaring up a long divider across an uneven room.\n\nThe powder-coated metal frame resists rust, and durable buckle connections hold the panels together more securely than simple hinge pins. It configures into either an L or a straight W shape, and the neutral beige tone blends into more decor styles than the black options dominating this list.\n\nA genuine advantage here is that powder-coated rust-resistant frame. The tradeoff is slightly shorter at 68\" than most 6-panel picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "244",
     imageUrl: "https://m.media-amazon.com/images/I/31anmTx6WcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXL5NCN8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXL5NCN8?tag=workcocoon-20",
     description:
       "GOFLAME's grey 4-panel divider rolls on 10 lockable 360-degree swivel wheels with individual brakes on each one, so you can lock down exactly the panels you need steady while leaving others free to adjust. That per-wheel control is unusual at this price point and helps on floors that aren't perfectly level.\n\nIt folds down to just 22 inches wide when not in use, the most compact fold of any pick in this list, making it the easiest to tuck into a closet or behind furniture. L, W, and C-shaped configurations cover most common room layouts at 89 inches wide by 68 inches tall.\n\nFolds down to the most compact width in the 4-panel group at just 22\". That's a real strength, but weigh it against the flip side: shorter 68\" height than the top two 4-panel picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "96",
     imageUrl: "https://m.media-amazon.com/images/I/21MKrKyQK7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG54HMNC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG54HMNC?tag=workcocoon-20",
     description:
       "MAYOLIAH takes a different approach: one large 71-inch-wide panel instead of several folding sections, reaching 75 inches tall, the tallest pick in this entire list. A no-gap design held together with 6 fasteners means there's no seam for anyone to see through, making it the most private option here by design rather than by fabric thickness alone.\n\nFour lockable wheels keep the single panel steady once rolled into place, and the fabric is waterproof and non-see-through even under direct light. It's also the cheapest pick in this list, a strong value if you don't need multiple folding panels.\n\nWorth calling out specifically: no-gap 6-fastener design blocks sightlines completely. The catch is only 4 wheels, fewer than the multi-panel picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "148",
     imageUrl: "https://m.media-amazon.com/images/I/316-kiRX-PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZNRLW9S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZNRLW9S?tag=workcocoon-20",
     description:
       "Kokorona's grey 6-panel divider is the only pick in this list that ships with cover strips designed specifically to hide the gaps between panels, a detail that matters more than it sounds, since folding screens usually leak sightlines right at each hinge. It spans 119 inches wide and 70 inches tall on 180gsm polyester over an iron frame.\n\nSeven sets of lockable wheels roll it into place, and large support feet add extra tip resistance beyond the wheels themselves. The fabric is waterproof and tear-resistant, holding up to the kind of daily bumping a rolling divider takes on more than a fixed screen.\n\n7 lockable wheel sets. Set against that, thinner 180gsm fabric than the 240gsm picks in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "16",
     imageUrl: "https://m.media-amazon.com/images/I/41nRpYgy7WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GK97X5WP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GK97X5WP?tag=workcocoon-20",
     description:
       "This 3-panel HOMSCREENER is the only genuinely soundproof pick in this list, absorbing over 85% of noise thanks to an ECO PET core layered with polyester fabric, a meaningful upgrade over the purely visual privacy every other divider here offers. It's built for a home office or studio where noise bleed, not just sightlines, is the actual problem.\n\nIt also carries the most wheels of any pick in this list at 12 self-locking casters, and zipper connections join the panels more securely than standard hinges. A tackable surface lets you pin fabric swatches or notes directly to the panel, a small bonus most acoustic dividers skip.\n\nA genuine advantage here is that most wheels of any pick at 12. The tradeoff is by far the most expensive pick, over 3x most others in this list.",
     specs: [

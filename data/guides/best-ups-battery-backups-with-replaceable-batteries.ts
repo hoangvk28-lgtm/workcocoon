@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,467 Amazon ratings",
     reviews: "3,467 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rIE-toOYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=workcocoon-20",
     description:
       "Uses the widely available APCRBC163 replacement battery, a standard part sold directly by APC and third parties, meaning genuine long-term cost savings rather than a proprietary cell that erodes the replaceable-battery value proposition. Front USB ports let you charge devices without tapping a protected outlet.\n\nAs a lead-acid design, budget for battery replacement roughly every 3-5 years regardless of how often outages actually occur, this is normal wear, not a defect.\n\nWorth calling out specifically: genuine long-term cost savings versus proprietary replacement cells. The catch is lead-acid battery still needs replacement every 3-5 years regardless of outage frequency.",
     specs: ["1500VA/900W, pure sine wave", "User-replaceable APCRBC163 battery", "Widely available standard replacement part", "3-Year warranty"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 13,112 Amazon ratings",
     reviews: "13,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31p-5+FvTgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06VY6FXMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06VY6FXMM?tag=workcocoon-20",
     description:
       "The largest review base in this guide, and APC's BX series uses standard, widely stocked replacement battery cartridges rather than a proprietary part, genuinely lowering your long-term ownership cost compared to units that lock you into an expensive branded replacement.\n\nStill a lead-acid design, so plan on a replacement cell every 3-5 years as normal wear, the standard part pricing makes that recurring cost predictable rather than punishing.\n\nStandard, affordable replacement battery cartridge. Set against that, not pure sine wave. Both matter when comparing it to the other picks here.",
     specs: ["1500VA/900W", "Standard replaceable battery cartridge", "AVR included", "Widely available replacement part"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,697 Amazon ratings",
     reviews: "2,697 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VPmugfqML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=workcocoon-20",
     description:
       "Same standard, widely available replacement battery approach as its 1500VA sibling, at a lower capacity appropriate for a single-PC setup. Genuine long-term cost predictability rather than a proprietary lock-in cell.\n\nAs with every lead-acid pick in this guide, expect to budget for a replacement cell roughly every 3-5 years as normal age-related wear.\n\nThe standout detail is that appropriately sized for a single-PC setup. Balancing that out, lower capacity than the 1500VA picks.",
     specs: ["1000VA/600W", "Standard replaceable battery", "AVR included", "Office electronics rated"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 796 Amazon ratings",
     reviews: "796 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31xnh5VoQ4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=workcocoon-20",
     description:
       "A compact, lower-capacity option that still uses APC's standard replaceable battery cartridge design, a genuinely lower upfront price without sacrificing the long-term replacement-cost predictability that makes replaceable-battery UPS units worth choosing over sealed alternatives.\n\nAppropriately sized for a modest single-device setup rather than a full desktop with multiple peripherals.\n\nCompact footprint. That's a real strength, but weigh it against the flip side: lower capacity, not for a full multi-device desktop.",
     specs: ["850VA/510W", "Standard replaceable battery", "AVR included", "Compact form factor"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 4,110 Amazon ratings",
     reviews: "4,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pgnLVo0dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=workcocoon-20",
     description:
       "A large review base at a genuinely budget-friendly price, and still built around APC's standard replaceable battery design rather than a sealed unit you'd have to fully replace once the battery ages out.\n\nAppropriately sized for a PC or small NAS device rather than a full desktop setup, the tradeoff for the lower capacity and price.\n\nGenuinely affordable while keeping a standard replaceable battery. On the other hand, lowest capacity among the higher-rated picks here. Both are worth keeping in mind before deciding.",
     specs: ["650VA/390W", "Standard replaceable battery", "Surge protection for PC/NAS", "Budget-friendly"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 29,088 Amazon ratings",
     reviews: "29,088 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41h0sXfkrSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01FWAZEIU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01FWAZEIU?tag=workcocoon-20",
     description:
       "By far the largest review base across every UPS product in this entire batch, remarkably strong real-world evidence at the lowest price point in this guide. Still built around a standard replaceable battery, keeping long-term ownership cost predictable.\n\nEntry-level capacity, genuinely suited to a computer, router, or NAS rather than a full desktop with multiple peripherals.\n\nA genuine advantage here is that most affordable price here. The tradeoff is that lowest capacity in this guide.",
     specs: ["600VA/330W", "Standard replaceable battery", "Battery backup for computer, router, NAS", "Most affordable pick in this guide"],

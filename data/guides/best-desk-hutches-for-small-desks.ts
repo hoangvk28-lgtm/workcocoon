@@ -36,7 +36,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "39,764 reviews",
     imageUrl: `${BASE}/furinno-5shelf-37w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F5GQNHRN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F5GQNHRN?tag=workcocoon-20",
     description:
       "The Furinno 37-inch hutch is a wide open-shelf organizer that fits monitors up to 24 inches with clearance to spare on either side. Its five stacked shelves give vertical storage for books, small bins, and decor without adding any footprint behind the monitor.\n\nAt its price point, the build is lightweight particleboard rather than solid wood, so it handles paper and office supplies well but is not rated for heavy equipment. This hutch suits small desks where the goal is organization and vertical space use rather than structural storage.",
     specs: ["37 inches wide", "5 shelves", "Open design", "FSC-certified wood"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "12,304 reviews",
     imageUrl: `${BASE}/jerry-maggie-adjustable.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07LGCSLVZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07LGCSLVZ?tag=workcocoon-20",
     description:
       "The Jerry and Maggie organizer hutch uses an adjustable-width design so it can be configured to fit a range of small desk surfaces without measuring first. Multiple shelf options let buyers configure it for books, small bins, or supplies depending on what the desk needs. at a budget-friendly price, it is the most affordable full hutch in this roundup and works well for basic vertical storage on a tight budget. Build quality reflects the price, and buyers report it is best suited for lighter items like notebooks, folders, and small decor.",
     specs: ["Adjustable width", "Multiple shelf options", "Compact design"],
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "454 reviews",
     imageUrl: `${BASE}/snughome-4tier-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=workcocoon-20",
     description:
       "The Snughome 4-tier hutch in rustic brown is a sturdy open-shelf organizer that fits desks up to 38.6 inches wide and adds four levels of display and storage space. The rustic brown finish suits natural wood desks and warm-tone home office setups.\n\nAt 4.7 stars across 454 reviews, it earns the highest rating of any hutch in this roundup, suggesting consistent quality control. The four-tier format gives slightly fewer shelves than the Furinno 5-shelf but with a sturdier feel per shelf.",
     specs: ["38.6 inches wide", "4 tiers", "Rustic brown finish"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "321 reviews",
     imageUrl: `${BASE}/snughome-4tier-pegboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CYSXTHCX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYSXTHCX?tag=workcocoon-20",
     description:
       "This Snughome hutch adds a pegboard panel alongside the four open shelves, giving hooks and pegs for hanging headphones, cables, small tools, and accessories at desk height. The 38.6-inch width matches the standard small-desk footprint well and the hook-ready panel reduces clutter on the shelf surfaces themselves. It costs a bit more than the plain rustic model and shares the same four-tier format. Buyers who have a lot of small accessories tend to prefer the pegboard version, while those who want pure shelf space opt for the standard model.",
     specs: ["38.6 inches wide", "4 tiers", "Pegboard panel", "Hook-ready"],
@@ -141,7 +141,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "321 reviews",
     imageUrl: `${BASE}/snughome-black-pegboard.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D9882DJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9882DJK?tag=workcocoon-20",
     description:
       "The black pegboard version of the Snughome hutch brings the same four-shelf, pegboard-panel format in an all-black finish suited to dark or minimal desk setups. It pairs well with black monitors, dark-wood desks, and gaming-adjacent home office configurations. It is the priciest hutch in this roundup, but the black finish is not easily replicated with paint on lighter-finish options. Buyers looking for a cohesive dark-desk look tend to find it worth the premium over the rustic brown models.",
     specs: ["38.6 inches wide", "Black finish", "Pegboard panel"],
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "556 reviews",
     imageUrl: `${BASE}/nutikas-adjustable.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DR31GC3D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR31GC3D?tag=workcocoon-20",
     description:
       "The NUTIKAS organizer extends from 16 to 28 inches wide, making it the most adaptable hutch in this roundup for unusually narrow desks or desks where a full 37-inch hutch would feel oversized. Three shelves give enough vertical storage for reference books, a small plant, and basic supplies. The adjustable range is its main advantage over fixed-width models, and at a budget-friendly price it undercuts the Jerry and Maggie on price. Buyers with desks under 30 inches wide tend to find this format works better than any fixed-width model.",
     specs: ["Adjustable 16-28 inches", "3 shelves", "Compact footprint"],
@@ -192,7 +192,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "770 reviews",
     imageUrl: `${BASE}/furinno-5shelf.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CZNX653N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZNX653N?tag=workcocoon-20",
     description:
       "This compact Furinno hutch offers five open shelves at the lowest price point in the roundup, at a budget-friendly price, making it the most minimal and affordable way to add vertical storage to a small desk. The lightweight build assembles quickly and is easy to reposition if the desk layout changes. It has fewer width options than the 37-inch model and is better suited to desks where the hutch sits off to one side rather than spanning the full width behind a monitor. Buyers who want basic paper and supply storage without spending more than a competitive price rate it well for its intended use.",
     specs: ["5 open shelves", "Lightweight", "Easy assembly"],
@@ -219,7 +219,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "70 reviews",
     imageUrl: `${BASE}/yigang-3tier.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FQC12WFX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQC12WFX?tag=workcocoon-20",
     description:
       "The YIGANG hutch is a 29-inch three-tier option for desks where even a 37-inch hutch would feel wide. At 29 inches it fits comfortably on compact studio desks, narrow writing tables, and side-table workspaces that cannot accommodate wider models.\n\nWith only 70 reviews it is the newest product in this roundup and has the smallest review base, but early ratings hold at 4.2 stars. Buyers who need a specific under-30-inch width and prefer a bookshelf format over an adjustable design tend to favor this model over the NUTIKAS.",
     specs: ["29 inches wide", "3 tiers", "Ultra-compact footprint"],

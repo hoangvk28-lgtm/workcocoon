@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed for pet hair with a washable pre-filter that catches hair before it reaches the HEPA layer, by far the largest review base of any pick here as real-world pet-hair evidence.\n\nPet hair mats a pre-filter mesh faster than dust alone, plan for weekly pre-filter cleaning in a pet home rather than a monthly cadence.\n\nBy far the largest review base of any pick here. Set against that, pre-filter needs weekly attention in pet homes. Both matter when comparing it to the other picks here.",
     specs: ["Washable pre-filter for hair", "True HEPA H13, 99.97% particulate removal", "Largest review base in this guide", "24dB quoted noise level"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,559 Amazon ratings",
     reviews: "3,559 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31K9NLoXncL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=workcocoon-20",
     description:
       "HEPASilent technology moves genuinely more air than a standard HEPA-only design, and higher airflow matters more for pet hair than odor since hair particles are physically larger and heavier than gas molecules.\n\nMore air movement is needed to actually capture hair before it settles, this unit's higher CFM design addresses that specific physics rather than relying on filtration density alone.\n\nThe standout detail is that air quality sensor for real-time monitoring. Balancing that out, higher price than budget alternatives.",
     specs: ["HEPASilent high-airflow technology", "Air quality sensor", "99.97% removal of airborne particulates", "Large-room rated"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large review base at the lowest price in this guide, genuinely capable for a single-pet home with a moderate hair load rather than a heavy multi-pet household.\n\nA single-pet moderate load is a reasonable fit for this unit's standard CFM, a multi-pet or heavy-shedding-breed home likely needs the higher-airflow pick in this guide instead.\n\nLarge, well-established review base. That's a real strength, but weigh it against the flip side: standard CFM, not ideal for heavy multi-pet shedding.",
     specs: ["True HEPA filtration", "Large review base", "Budget-friendly", "Standard CFM airflow"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control, genuine headroom for a multi-pet household where the combined hair load saturates a standard-capacity unit faster.\n\nA multi-pet home with heavy shedding benefits from this extra coverage and airflow headroom, since more pets mean proportionally more hair mass moving through the pre-filter.\n\nSmart app control for monitoring filter status. On the other hand, higher price than budget alternatives. Both are worth keeping in mind before deciding.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Extra headroom for multi-pet loads"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "A large, well-established review base with PlasmaWave technology addressing pet odor alongside hair filtration, a genuinely multi-issue pick for pet owners dealing with both.\n\nPlasmaWave is an added odor-neutralizing layer, it doesn't replace the mechanical pre-filter cleaning that pet hair still requires on a weekly basis.\n\nA genuine advantage here is that plasmaWave addresses pet odor alongside hair filtration. The tradeoff is that higher price than the top pick.",
     specs: ["PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration", "Multi-stage filtration"],

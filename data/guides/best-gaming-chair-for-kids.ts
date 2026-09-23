@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars",
     reviews: "32 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tfWLRqSLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FPQML7T1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FPQML7T1?tag=workcocoon-20",
     description:
       "The HOFFREE RGB LED Gaming Chair is built specifically for kids ages 8 to 15 and pairs 338 RGB lighting modes with a reclining frame that goes from 90 to 155 degrees. A pull-out footrest and included headrest and lumbar pillow support longer gaming or homework sessions, while 2D armrests let growing kids adjust arm height as needed. The SGS-rated gas lift is rated for 100,000 cycles and the frame carries a 350 pound capacity, well above what most kids in this age range require.\n\nAt 4.8 stars, it holds the highest rating of any chair in this guide, backed by an 18-month warranty. For families who want a chair that looks like a true gaming setup piece with light-up styling and a real recline range, the HOFFREE is the top pick.\n\nFull 90-155° recline range. That's a real strength, but weigh it against the flip side: higher price than basic kids chairs.",
     specs: [
@@ -73,7 +73,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "21 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vyqFQ9nhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FLVBYS8R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FLVBYS8R?tag=workcocoon-20",
     description:
       "The HOFFREE Bunny Gaming Chair is designed for a wider age range of 5 to 15 and centers on a cute bunny theme with a vibrating lumbar pillow that adds gentle massage during use. A pocket-spring cushion and 135 degree recline give younger kids a softer, more forgiving seat than typical gaming chair foam, and the headrest adjusts across a 5 centimeter range to fit different heights.\n\nWith a fold-out footrest and 300 pound capacity, it works for kids from early elementary through the young teen years. For parents shopping for a younger child who wants a fun, character-driven chair with a soothing massage feature, this is the pick.\n\nWorth calling out specifically: fits wide age range of 5-15. The catch is lower max recline than HOFFREE RGB model.",
     specs: [
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "413 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J6gH5uEyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DD3LMM35?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DD3LMM35?tag=workcocoon-20",
     description:
       "The PUKAMI Pink Gaming Chair pairs a removable cat-ear headrest with a paw-shaped lumbar pillow for a distinct teen-oriented look, and its SGS-rated steel frame backs that styling with real structural testing. The seat height adjusts from 13.8 to 17.7 inches, a lower range that suits shorter teens better than adult-sized chairs, and the 90 to 135 degree recline covers both upright gaming and relaxed downtime.\n\nWith 413 ratings at 4.7 stars, it's the most reviewed chair aimed specifically at teens in this guide. For teens who want a stylish, well-tested chair sized for a shorter frame, the PUKAMI is a strong choice.\n\n413 ratings at 4.7 stars. Set against that, 300 lb capacity lower than adult chairs. Both matter when comparing it to the other picks here.",
     specs: [
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "534 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51kdVcOX8eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9B3H7ZR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9B3H7ZR?tag=workcocoon-20",
     description:
       "The MEENICE Pink Gaming Chair combines cat-ear detailing, a paw-shaped pillow, and a spring cushion for a plusher seat than foam-only alternatives, with a recline that extends to 145 degrees for more relaxed positions than most kids' chairs in this guide. Linked armrests move together for a coordinated fit, and the breathable fabric covers a reinforced steel frame rated to 300 pounds.\n\nIt carries the most ratings of any product here at 534, with a 4.7 star average, making it the most reviewed pick in the lineup. For families who want the highest review volume alongside cat-themed styling, the MEENICE stands out.\n\nA genuine advantage here is that 145° recline. The tradeoff is highest price among the themed kids' chairs.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "381 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51fovC1Mm7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D8PTW1HV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D8PTW1HV?tag=workcocoon-20",
     description:
       "The BOSMILLER Kids Recliner is purpose-built for a younger age range of 3 to 12, with a 120 pound capacity that reflects its focus on smaller bodies rather than teens. A durable wood frame supports the push-back recline from 90 to 130 degrees, and a folding footrest extends for nap-friendly reclining. Two side cup holders and a storage pocket for books or toys add practical touches for younger kids who need snacks or entertainment nearby.\n\nAt 4.6 stars across 381 ratings, it's a well-reviewed option specifically scaled for younger children rather than a scaled-down adult chair. For parents of kids under 12, the BOSMILLER's size-appropriate build is the main advantage.\n\nCup holders and storage pocket built in. That's a real strength, but weigh it against the flip side: 120 lb capacity limits use as child grows.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "214 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VRjC2Hs5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZRPRY7N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZRPRY7N?tag=workcocoon-20",
     description:
       "The MINPINSER Kids Desk Chair trades gaming chair styling for a breathable mesh build aimed at homework and desk use, with height adjusting from 17.3 to 21.3 inches to grow with a child. Folding armrests tuck away when not needed and the base swivels a full 360 degrees, while an adjustable footrest supports proper leg positioning for kids whose feet don't reach the floor.\n\nRated to 260 pounds and holding 4.6 stars across 214 ratings, it functions as an ergonomic desk chair rather than a recliner. For families prioritizing homework posture over gaming aesthetics, the MINPINSER is the practical pick.\n\nWorth calling out specifically: adjustable footrest for shorter kids. The catch is no recline function.",
     specs: [
@@ -193,7 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars",
     reviews: "8,705 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416YqWwMTFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYF75L59?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GYF75L59?tag=workcocoon-20",
     description:
       "The GTPLAYER Floor Rocker is an ultra-lightweight floor chair at just 8.6 pounds, built as a one-piece design that a kid can move on their own without needing an adult's help. It uses a controlled rocking motion rather than a reclining mechanism, needs no batteries or power, and folds into a compact footprint for easy storage. It's the least expensive chair in this guide and carries 8,705 ratings, by far the highest review count here, with a 4.1 star average. For budget-focused parents who want a simple, portable floor seat rather than a full recliner, the GTPLAYER is the value pick. Only 8.6 lbs, easy for kids to move. Set against that, no recline mechanism, only rocking. Both matter when comparing it to the other picks here.",
     specs: [
@@ -217,7 +217,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "11,239 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41bXp+ka1bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FCSNPV3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FCSNPV3?tag=workcocoon-20",
     description:
       "The Best Choice Products Swivel Floor Chair offers 6 adjustable positions and a full 360 degree swivel base, with no assembly required out of the box. Its cover is machine washable, a practical detail for a chair used by kids, and it folds flat for storage between uses, while the 300 pound capacity means it can be shared across kids and adults in the household.\n\nWith 11,239 ratings and a 4.4 star average, it has the highest review count and one of the higher ratings in this guide. For families who want a versatile floor chair that works for multiple family members, this is the best all-around floor option.\n\nA genuine advantage here is that machine-washable cover. The tradeoff is no RGB or gaming-specific styling.",
     specs: [

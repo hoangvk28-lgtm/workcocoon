@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,320",
     imageUrl: "https://m.media-amazon.com/images/I/31Lfk2K0TgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LCMYT54?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LCMYT54?tag=workcocoon-20",
     description:
       "The VG34VQL1B is the most-reviewed pick in this entire guide, and its 1500R curve, 165Hz refresh rate, and 1ms MPRT response cover the fundamentals most gamers actually need without pushing into QD-OLED pricing. Its 4000:1 contrast ratio is the highest among the VA panels in this list, giving blacks noticeably deeper than a typical IPS ultrawide.\n\nDisplayHDR 400 and a height-adjustable stand round out a monitor that's built to sit at a comfortable eye level for hours-long sessions. It's the safest starting point if you've never owned an ultrawide and want to confirm the format works for you before spending more.\n\nWorth calling out specifically: highest contrast ratio among VA picks here. The catch is 165Hz trails the 180Hz+ panels in this list.",
     specs: [
@@ -94,7 +94,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "604",
     imageUrl: "https://m.media-amazon.com/images/I/41um0FZCuPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZL719V1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZL719V1?tag=workcocoon-20",
     description:
       "The AW3425DWM is the highest-rated monitor in this entire guide, pairing a 180Hz VA panel with 95% DCI-P3 coverage for noticeably richer color than the budget picks above it. It's also the only monitor in this guide with a dedicated console mode, a real advantage if your setup splits time between PC and a console.\n\n3000:1 contrast and 1ms GtG keep fast-paced titles clean, and the height-adjustable stand plus 3-year warranty match what you'd expect from a monitor built to be a long-term daily driver rather than a budget stopgap.\n\nOnly monitor in this guide with a dedicated console mode. Set against that, costs slightly more than the ASUS VG34VQL1B. Both matter when comparing it to the other picks here.",
     specs: [
@@ -126,7 +126,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "245",
     imageUrl: "https://m.media-amazon.com/images/I/41HhRKN-D9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXS8J4Y5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXS8J4Y5?tag=workcocoon-20",
     description:
       "The VG34VQ3B pushes to 180Hz at the same price as the entry-level VG34VQL1B, and adds 4x USB 3.2 ports, the most of any monitor in this guide. That makes it a genuinely useful hub if you're plugging in a webcam, headset dongle, and external drive without reaching for the back of your PC.\n\nBuilt-in speakers mean it can function as a no-frills setup without an external sound source, and the 1500R curve and 90% DCI-P3 keep it competitive with monitors costing more.\n\nA genuine advantage here is that 180Hz at the same price as the entry-level pick. The tradeoff is 90% DCI-P3 is lower than the AW3425DWM's 95%.",
     specs: [
@@ -158,7 +158,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "241",
     imageUrl: "https://m.media-amazon.com/images/I/51Ti7K0xx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTRXPJMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTRXPJMC?tag=workcocoon-20",
     description:
       "The MAG 341CQP is the cheapest way into QD-OLED in this entire guide, and the jump in contrast is immediate: 1,500,000:1 versus the 3000-4000:1 of the VA picks above it. A gentler 1800R curve suits its 175Hz refresh rate well, feeling less aggressive than the 1500R VA panels while still wrapping the edges of the screen into your peripheral vision.\n\n0.03ms response time and HDR400 True Black make fast, dark scenes render cleanly without the smearing VA panels can show, and USB-C keeps cabling simple for a single-cable laptop hookup.\n\nMassive contrast jump over any VA panel here. On the other hand, shorter 2-year warranty than the VA picks' 3-year coverage. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -190,7 +190,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "332",
     imageUrl: "https://m.media-amazon.com/images/I/41ntQSLkfRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F6724X5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F6724X5N?tag=workcocoon-20",
     description:
       "The AW3425DW is the fastest 34-inch QD-OLED in this guide at 240Hz, meaningfully quicker than the 175Hz MSI panel while sharing the same 1,500,000:1 contrast and 1800R gentle curve. 99.3% DCI-P3 coverage and HDR TrueBlack 400 push color accuracy further than any VA pick here. Both G-Sync and FreeSync Premium Pro support mean it syncs cleanly whether you're running an NVIDIA or AMD card, and the 3-year warranty matches the top VA picks rather than the shorter coverage typical of budget OLED monitors. 99.3% DCI-P3, the widest color gamut among the mid-tier picks. That's a real strength, but weigh it against the flip side: over a bit more than the MSI QD-OLED for the refresh rate bump.",
     specs: [
@@ -222,7 +222,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "722",
     imageUrl: "https://m.media-amazon.com/images/I/41Ea5WkWNXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09VQ48X5Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09VQ48X5Q?tag=workcocoon-20",
     description:
       "The AW3423DW is the only monitor in this guide certified G-Sync ULTIMATE, NVIDIA's highest tier of certification, which guarantees a stricter set of variable refresh rate and HDR performance standards than standard G-Sync compatibility. It runs at 175Hz with 0.1ms GtG and 1,000,000:1 contrast, plus 99.3% DCI-P3 for accurate color.\n\nAlienFX RGB lighting and 5 USB ports round out the package, and with 722 reviews it has the largest review base among the QD-OLED picks in this guide, giving buyers more real-world feedback to weigh against the newer, less-reviewed AW3425DW.\n\nWorth calling out specifically: largest review base among QD-OLED picks in this guide. The catch is 175Hz and 0.1ms trail the newer AW3425DW's specs.",
     specs: [
@@ -254,7 +254,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "203",
     imageUrl: "https://m.media-amazon.com/images/I/41BgHCJ9CkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CV1WNF1Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CV1WNF1Q?tag=workcocoon-20",
     description:
       "The 45GS95QE is the only 45-inch pick in this guide and uses an 800R curve, the tightest and most aggressive radius here, giving roughly 12% more screen area than a 49-inch 32:9 panel while still keeping edges within a natural field of view up close. 240Hz and 0.03ms match the fastest 34-inch picks in this list despite the larger panel.\n\n1,500,000:1 contrast, 98.5% DCI-P3, and HDR True Black 400 make it a genuine step up in immersion over any 34-inch pick here, and both G-Sync and FreeSync Premium Pro are supported. Treat this as the middle ground if 34 inches feels too small but a full 49-inch super-ultrawide feels like too much desk commitment.\n\nTightest curve radius in this guide at 800R. Set against that, needs meaningfully more desk depth than any 34-inch pick. Both matter when comparing it to the other picks here.",
     specs: [
@@ -286,7 +286,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "3",
     imageUrl: "https://m.media-amazon.com/images/I/51qaZikp67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G31ZYMW3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G31ZYMW3?tag=workcocoon-20",
     description:
       "The PG34WCDN posts the fastest refresh rate in this entire guide at 360Hz, aimed squarely at competitive esports players who need every frame they can get. DisplayPort 2.1, USB-C at 90W, and a proximity sensor round out a feature set built for a dedicated gaming rig rather than a general-purpose desk monitor.\n\n99% DCI-P3 and HDR500 True Black keep image quality competitive with the rest of the QD-OLED lineup in this guide. Worth noting honestly: this is the most expensive pick here and currently has only 3 reviews on Amazon, a very small sample, so treat the 4.6-star rating as encouraging but not yet statistically meaningful the way the 700+ review picks in this guide are.\n\nA genuine advantage here is that displayPort 2.1 and 90W USB-C for a modern rig. The tradeoff is most expensive pick in this entire guide.",
     specs: [

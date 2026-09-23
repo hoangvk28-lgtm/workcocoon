@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "A monochrome laser brings the lowest cost per page of any technology for high-volume black-and-white output, and the DCP-L2640DW pairs that with automatic duplex printing, copy, and scan in a compact footprint. Toner doesn't dry out between print runs the way inkjet ink can, a real advantage for sustained daily use.\n\nAs volume climbs, expect routine maintenance beyond toner, the paper path and pickup rollers wear over tens of thousands of pages and eventually need replacement, a real cost to budget for alongside toner on a genuinely high-volume machine.\n\nA genuine advantage here is that toner doesn't dry out between long print runs. The tradeoff is no color output.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "The HL-L3220CDW prints a rated 19 pages per minute with duplex support and a 250-sheet paper tray, sized for sustained office output rather than light home use. Wireless and mobile printing round out a straightforward feature set.\n\nColor laser toner costs more per page than mono laser, four toners instead of one, so this fits best when regular color documents, not just occasional color pages, are part of your actual volume rather than every print job.\n\nLarge 250-sheet tray reduces refill frequency. On the other hand, color toner costs meaningfully more per page than mono laser. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "Worth flagging upfront, this is a standard cartridge-based inkjet, not a laser or ink-tank printer, so it doesn't match the duty cycle or cost-per-page profile of the other picks in this high-volume list. It does include an automatic document feeder and duplex printing, and HP markets it as best-for-home-office use with a 3-month Instant Ink trial.\n\nIt earns a spot here as the budget entry point for a household stepping up from occasional to moderate-high volume, but anyone printing consistently in the hundreds of pages a month should expect cartridge costs to add up faster than the laser or EcoTank picks in this list, and should plan to reassess after the Instant Ink trial ends.\n\nAutomatic document feeder and duplex printing included. That's a real strength, but weigh it against the flip side: standard cartridges cost more per page than laser or ink-tank at real high volume.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "Brother's INKvestment cartridges hold significantly more ink than standard cartridges, which narrows the cost-per-page gap with laser and ink-tank printers while keeping inkjet color quality. Automatic 2-sided copy and scan, plus a 2.7-inch color touchscreen, support a busier daily workflow.\n\nIt still doesn't match a mono laser or EcoTank on cost per page at true high volume, but it's a reasonable middle ground for an office that wants better color output than laser can provide alongside high-capacity ink.\n\nWorth calling out specifically: better color output than laser printers. The catch is still costs more per page than laser or ink-tank at true high volume.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "Rated at 35 pages per minute with a 3-year limited warranty, the MF753Cdw II is built for a genuinely high-volume office rather than home use, with an automatic document feeder, fax, copier, and scanner all included. This is the fastest and most office-grade printer in this list.\n\nAt this price and duty cycle, treat it like the workhorse it is, printing consistently near its rated maximum accelerates wear on the fuser and drum, so following the recommended monthly volume range rather than the maximum duty cycle figure extends its working life.\n\nFull office feature set: fax, ADF, copy, scan. Set against that, highest price in this list by a wide margin. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=workcocoon-20",
     description:
       "Rated for up to 3 years of ink refills, the ET-4950 brings ink-tank economics to sustained high-volume color printing, at an 18 page per minute rated speed with an automatic document feeder and 2.4-inch touchscreen. This is the strongest ink-tank pick in this list for genuine office volume.\n\nUnlike a laser printer, there's no toner or drum to think about, but the printhead is integrated into the printer body, so a nozzle check periodically, even during high-volume months, keeps print quality consistent.\n\nA genuine advantage here is that automatic document feeder for multi-page scans. The tradeoff is slower rated speed than the laser picks in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 brings automatic document feeding, fax, and Ethernet to EcoTank's ink economics at a notably lower price than the ET-4950, a strong value pick for an office scaling up from occasional or moderate volume. Ethernet gives a more stable connection than wifi in busier office environments with more network interference.\n\nAt this price point it undercuts every other ink-tank or laser pick here, making it the best entry point into high-volume-friendly ink-tank printing before stepping up to a faster laser or the ET-4950.\n\nAutomatic document feeder and Ethernet included. On the other hand, slower than the laser picks in this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "The Smart Tank 5101 brings ink-tank economics to a smaller footprint and lower price than the Epson EcoTank picks in this list, with 2 years of ink included, a real cost cushion for an office scaling up its print volume. Print, scan, and copy cover the essentials.\n\nWithout an automatic document feeder, it's better suited to high-volume printing than high-volume scanning, and its 2.4GHz-only wireless is worth checking against your office router setup before buying.\n\n2 years of included ink supports sustained volume. That's a real strength, but weigh it against the flip side: no automatic document feeder.",
     specs: [

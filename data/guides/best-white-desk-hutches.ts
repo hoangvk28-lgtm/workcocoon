@@ -35,7 +35,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars",
     reviews: "267 reviews",
     imageUrl: `${BASE}/iotxy-2tier-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CQZR53CV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQZR53CV?tag=workcocoon-20",
     description:
       "The IOTXY hutch pairs a two-tier open shelf base with a grid panel back that accepts five hooks for hanging headphones, bags, or cables. At 37.4 inches wide, it clears a 27-inch monitor comfortably and leaves side shelf space for speakers or plants. The white finish is clean and consistent across the frame and panel. At 4.8 stars and a competitive price with 267 reviews, it earns the highest rating in this roundup. The grid panel adds hanging storage that pure shelf units cannot offer. The price is the highest in the roundup, which is justified by the added utility of the hook panel for home offices needing both shelf and hang storage.",
     specs: ["2-tier design", "Grid panel with 5 hooks", "Fits 27-inch monitor", "37.4 inches wide"],
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "770 reviews",
     imageUrl: `${BASE}/furinno-classic-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CZNX653N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZNX653N?tag=workcocoon-20",
     description:
       "The Furinno Classic hutch delivers five open shelves and an expandable width design at a competitive price, making it the most affordable white desk hutch in this roundup by a large margin. The expandable design adjusts to fit different desk widths, which is a useful feature for irregular or non-standard desk surfaces. At 4.3 stars with 770 reviews, it has the highest review count among white-only hutches here. The particle board construction is lightweight and shows wear over time, but at this price it suits student desks, rental spaces, and setups where spending more cannot be justified.",
     specs: ["5 open shelves", "Expandable design", "White finish", "Lightweight"],
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "556 reviews",
     imageUrl: `${BASE}/nutikas-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DR31GC3D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR31GC3D?tag=workcocoon-20",
     description:
       "The NUTIKAS organizer features an adjustable width across three shelves, letting buyers set the span to match different monitor widths or desk edge positions without a fixed footprint. The white finish and compact design keep the visual profile minimal on the desk surface. At a competitive price and 4.3 stars with 556 reviews, it is well-priced for an adjustable-width hutch. The three-shelf count is lower than most competitors, but the width flexibility is a genuine differentiator for irregular desk setups or buyers who may change their monitor size. Good fit for dorm rooms or small desks.",
     specs: ["Adjustable width", "3 shelves", "White finish", "Compact design"],
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "114 reviews",
     imageUrl: `${BASE}/choochoo-drawer-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CWLCHKZD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWLCHKZD?tag=workcocoon-20",
     description:
       "The ChooChoo white hutch combines five open shelves with a pull-out drawer in a 36.4-inch tall white unit that adds vertical storage above the desk. The drawer handles small concealed items like chargers, cables, and stationery while the shelves handle books, binders, and accessories.\n\nAt 4.6 stars with 114 reviews, the feedback is strong though the review count is modest. This is the only white hutch in this roundup that includes a drawer, making it the right pick when concealed storage is a priority alongside open shelves. The tall profile suits positioning beside rather than directly behind a monitor.",
     specs: ["36.4 inches tall", "5 shelves", "1 drawer", "White finish"],
@@ -141,7 +141,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "321 reviews",
     imageUrl: `${BASE}/snughome-pegboard-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DRVMC5PN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DRVMC5PN?tag=workcocoon-20",
     description:
       "The Snughome pegboard shelf spans 38.6 inches across four tiers and adds a white pegboard back panel for attaching hooks, bins, or shelf accessories. At 38.6 inches, it is wide enough to span a 28-inch monitor and the pegboard adds a customizable vertical storage layer above the shelf tiers. At 4.6 stars with 321 reviews and a competitive price, it offers good value for a wide hutch with pegboard. The white finish is clean and the pegboard panel is the key differentiator over plain shelf units in this price range. Buyers who already use pegboard organization elsewhere will find it integrates naturally with their setup.",
     specs: ["38.6 inches wide", "Pegboard panel", "4 tiers", "White finish"],
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "565 reviews",
     imageUrl: `${BASE}/tangkula-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FCSCMHQC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCSCMHQC?tag=workcocoon-20",
     description:
       "The Tangkula hutch divides its storage into seven cube spaces alongside three adjustable shelves, giving a modular layout that can accommodate differently sized items across a single unit. The adjustable shelves can shift to fit taller books or decorative pieces, adding flexibility that fixed-shelf units lack. At a competitive price and 4.5 stars with 565 reviews, it has the second-highest review count in this roundup. The cube-plus-shelf combination suits home offices that mix reference books with accessories and want organizational flexibility without committing to a fixed shelf height configuration.",
     specs: ["7 cube spaces", "3 adjustable shelves", "White finish"],
@@ -193,7 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "120 reviews",
     imageUrl: `${BASE}/vevor-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DWSJLCML?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWSJLCML?tag=workcocoon-20",
     description:
       "The VEVOR white hutch offers five shelves in a compact white unit at a competitive price with 4.7 stars. The high rating stands out given the modest price, reflecting consistent buyer satisfaction with the build quality relative to expectations at this tier. At 120 reviews, the dataset is smaller than most picks in this roundup, but the rating signal is strong. The five shelves in a compact footprint suit small desks where vertical space is more available than horizontal desk real estate. A clean, simple white option for buyers prioritizing rating quality over review volume.",
     specs: ["5 shelves", "White finish", "Compact hutch design"],
@@ -220,7 +220,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "206 reviews",
     imageUrl: `${BASE}/nromant-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CN4H17QL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN4H17QL?tag=workcocoon-20",
     description:
       "The Nromant white bookshelf provides six individual shelf slots across a 3-tier layout, the most open storage positions of any white hutch in this roundup. The additional shelf over five-shelf competitors creates extra organizational categories without requiring a significantly larger footprint. At a competitive price and 4.5 stars with 206 reviews, it is priced in the mid-range. Buyers who prioritize shelf count over drawers or special features will find the six-slot layout the best available in this white finish category. The 3-tier design also adds visual variety compared to single-column shelf units.",
     specs: ["6 shelves", "3-tier design", "White finish"],

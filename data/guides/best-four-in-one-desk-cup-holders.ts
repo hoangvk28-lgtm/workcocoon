@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,491",
     imageUrl: "https://m.media-amazon.com/images/I/41Ut4+ko99L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C77YK94D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C77YK94D?tag=workcocoon-20",
     description:
       "This pick's four functions are a rotating cup holder, a headphone hanger, an accessory hook, and the under-desk clamp mount itself, each independently verifiable against its strong review history, the highest volume of any 4-in-1 pick in this comparison.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the KDD 4.\n\nWorth knowing before you decide: Each function independently verified as genuine. On the other side, Bulkier under-desk footprint than a simple clamp. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Rotating cup holder","Headphone hanger","Accessory hook","Under-desk clamp mount"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,491",
     imageUrl: "https://m.media-amazon.com/images/I/412z4nVerUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C77Z8WMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C77Z8WMM?tag=workcocoon-20",
     description:
       "This pick's four functions are a cup holder, a headphone hanger, and two dedicated wire routing holes, a genuinely distinct combination from the standard KDD 4-in-1 above, swapping the general accessory hook for cable-specific management.\n\nSet against the KDD 4, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Same strong review history as the base KDD design. On the other side, Similar price to the standard 4-in-1. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Cup holder","Headphone hanger","2 wire routing holes","Under-desk clamp mount"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "89",
     imageUrl: "https://m.media-amazon.com/images/I/51C8lJCJtrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FPDDQ29F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FPDDQ29F?tag=workcocoon-20",
     description:
       "This pick's combination centers on a dual-slot design, a large primary cup slot rated for up to 40oz, a secondary small-item slot, plus the clamp attachment and metal construction as the remaining functional elements the listing counts toward its combined framing.\n\nRelative to the KDD 4, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Large primary cup capacity. On the other side, Smaller review count than the KDD lineup. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Primary slot fits cups up to 40oz","Secondary slot for small items","Metal clamp construction","No-drill attachment"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "162",
     imageUrl: "https://m.media-amazon.com/images/I/41z6n2eEheL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=workcocoon-20",
     description:
       "This pick's four functions are a large-capacity cup holder rated to 40oz, headphone hanging, an accessory hook, and metal clip attachment, verified against a solid review history. It's the most expensive pick here, reflecting its largest disclosed cup capacity in this comparison.\n\nCompared with the Dual Slots Clip On Metal Desk Cup Holder above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Genuine combined organizer function. On the other side, Most expensive pick here. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Metal clip attachment","Rated for cups up to 40oz","Headphone hanger","Accessory hook"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "3.9",
     reviews: "14",
     imageUrl: "https://m.media-amazon.com/images/I/41k4318vh1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GFVV4QXV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GFVV4QXV?tag=workcocoon-20",
     description:
       "Honesty note: this pick's rating (3.9) and very small review count (14) are the weakest of any product in this cup holder research batch, so we include it with appropriate caution. Its four functions per the listing are a cup holder, headphone hanger, detachable pen holder, and under-desk clamp mount.\n\nSet against the 4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Detachable pen holder is a distinct combined function. On the other side, Lowest rating in this entire comparison. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Cup holder","Headphone hanger","Detachable pen holder","Under-desk clamp mount"],

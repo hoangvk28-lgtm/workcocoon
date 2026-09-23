@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41StKUeQCkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=workcocoon-20",
     description:
       "The smallest stated dimension in our entire whiteboard product pool at 8x6 inches, explicitly labeled \"mini\" in the listing and genuinely glass, so it holds up better against ghosting than a melamine equivalent.\n\nFive markers are included per the listing, making this a low-commitment, ready-to-use purchase rather than one requiring separate accessory shopping.",
     specs: ["8\" x 6\" pure glass surface", "Explicitly labeled \"mini\" in listing", "5 markers included", "Lowest price in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31xK08Bp9kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=workcocoon-20",
     description:
       "At 9.5x6.7 inches, this is noticeably larger than our smallest pick above (roughly 40% more surface area by our estimate), so it sits at the upper edge of what we'd still call mini rather than the deepest end of the tier.\n\nIt includes a reversible wood stand, something the smaller 8x6 pick's listing doesn't mention, a genuine tradeoff of slightly less portability for a stand that helps it stand upright on its own.",
     specs: ["9.5\" x 6.7\" glass writing surface", "Reversible wood stand included", "Marker and eraser included", "Black glass finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21u3Y9nx6oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LSDSG52?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LSDSG52?tag=workcocoon-20",
     description:
       "Explicitly labeled \"mini\" in its own listing title, this is the only double-sided board in this guide, giving you two small writing surfaces, useful for separating a reminder from a quick sketch or note without adding desk footprint.\n\nIt includes a stand per the listing, and the magnetic surface adds flexibility for holding small notes, though exact dimensions aren't broken out in the title, so compare against our other picks' stated sizes if precise measurements matter.",
     specs: ["Double-sided, explicitly labeled \"mini\"", "Magnetic erasable surface", "Includes stand", "Exact dimensions not stated in listing"],

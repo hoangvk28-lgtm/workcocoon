@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 12,520 Amazon ratings",
     reviews: "12,520 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vcM-QMtVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08Z2ZKVXX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08Z2ZKVXX?tag=workcocoon-20",
     description:
       "2100 joules with 22 outlets and 6 USB ports, real capacity though shared across a potentially very large device count. Explicit 1875W/15A rating for capacity verification.\\n\\nWith this many outlets, the per-device protection depth is genuinely diluted, calculate your realistic device count against this shared budget rather than assuming 2100 joules protects each device fully.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Anker Power Strip with 2000J Surge Protector.\n\nWorth knowing before you decide: Highest outlet count at this joule tier. On the other side, Per-device protection depth is diluted across many outlets. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["22 AC outlets, 6 USB ports","2100 joules, 1875W/15A explicit rating","6.5ft cord","Strong rating base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 2,685 Amazon ratings",
     reviews: "2,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+9526RvLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXPRK65X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXPRK65X?tag=workcocoon-20",
     description:
       "8 outlets at 2000 joules from an established Anker brand, a more moderate outlet count than the 22-outlet alternative, meaning genuinely less per-device dilution for a smaller realistic device combination.\\n\\nConsider whether two lower-joule single-outlet units protecting your two most valuable devices independently might offer better risk distribution than this shared 8-outlet budget.\n\nSet against the SUPERDANNY Power Strip Surge Protector, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Genuine 2000 joule surge protection. On the other side, Fewer outlets than the 22-outlet alternative. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 AC outlets, 2000 joules","Established Anker brand","20W output","5ft cord"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 19,608 Amazon ratings",
     reviews: "19,608 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eIUhRPqpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09SG2Q23M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09SG2Q23M?tag=workcocoon-20",
     description:
       "12 AC outlets at 2100 joules with the largest review base of any pick at this tier, genuine real-world evidence of reliability. Established Anker brand.\\n\\nCalculate your realistic device combination against this shared budget, this middle outlet count offers a genuine balance between capacity and per-device dilution.\n\nRelative to the Anker Power Strip with 2000J Surge Protector, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Established Anker brand reputation. On the other side, No USB ports. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 AC outlets, 2100 joules","Established Anker brand","Largest review base at this tier","20W output"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 535 Amazon ratings",
     reviews: "535 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3148JhvbR6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=workcocoon-20",
     description:
       "4000 joules, genuinely above the 2000-joule tier, real extra headroom if 2000 joules feels marginal for your specific realistic device combination. 12 outlets, 8ft cord.\\n\\nDoubling from 2000 to 4000 joules doesn't linearly double protection duration, the actual benefit depends on your typical local surge event size.\n\nCompared with the Anker Power Strip with 2100J Surge Protector above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: Longer 8ft cord for placement flexibility. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4000 joules","8ft cord","Rectangle form factor","Amazon Basics brand"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 4,600 Amazon ratings",
     reviews: "4,600 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3197O4VZHDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKR7B9T9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKR7B9T9?tag=workcocoon-20",
     description:
       "A more compact 6-outlet design at 300 joules, below the 2000-joule tier this guide primarily covers, worth considering only if a much lighter device combination fits your actual needs at a lower price.\\n\\nIf your realistic use case is closer to a single or two-device setup, a lower-joule dedicated pick may actually offer better per-device protection depth than sharing a large 2000-joule budget across many outlets.\n\nSet against the Amazon Basics 12, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Compact 6-outlet design. On the other side, Well below the 2000-joule tier this guide focuses on. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["6 AC outlets, 300 joules","Established Anker brand","20W output","5ft cord"],

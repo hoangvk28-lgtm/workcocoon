@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 5,130 Amazon ratings",
     reviews: "5,130 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Y8l6bTK5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKXKG135?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKXKG135?tag=workcocoon-20",
     description:
       "A large review base backing this quad-panel design, genuinely tests real-world bandwidth handling and combined weight support across thousands of actual four-panel setups.\n\nThe listed driver requirement is worth taking seriously, verify your laptop's GPU and available ports can handle all four panels at your intended resolution before buying.\n\nProven combined weight and bandwidth handling. That's a real strength, but weigh it against the flip side: highest price in this guide by a significant margin.",
     specs: ["15.6-inch, quad-panel configuration", "Driver required", "Large review base", "Premium price"],

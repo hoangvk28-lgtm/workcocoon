@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The DXP4800 Plus pairs an Intel Pentium Gold 5-core CPU with 4 drive bays, enough horsepower to hardware-transcode a 4K stream while still serving direct play requests to other rooms at the same time. That combination is what actually separates a premium Plex NAS from a budget one, not the brand name on the case.\n\nFour bays give real capacity headroom for a growing media library, and the Intel chip means hardware transcoding is available if a Plex Pass subscription is added later. Buyers who only ever stream to direct-play-capable clients will still get full value from the extra bays for expansion.\n\n4 bays leave room for a growing library. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
     specs: [
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=workcocoon-20",
     description:
       "QNAP's TS-264-8G ships with 8GB of RAM out of the box, a meaningful advantage for anyone running a Plex library with 5,000 or more items, since metadata indexing for large libraries is genuinely RAM-hungry. Combined with an Intel-class processor, it's built to hardware transcode without leaning on the CPU alone.\n\nTwo bays keep the footprint compact for a home office rather than a media closet, and the extra RAM headroom also helps if Plex is run alongside other containerized apps on the same box.\n\nWorth calling out specifically: built for genuine hardware transcoding. The catch is only 2 bays limits total raw capacity.",
     specs: [
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "The DXP2800 sits between the budget ARM boxes and the full Intel 4-bay units in this list, giving content creators enough processing headroom for a mixed workload of media editing and Plex serving without paying for 4 bays they may not fill right away.\n\nIt's a sensible middle pick for anyone who wants some transcoding capability without committing to the largest and most expensive enclosure in this roundup.\n\nEnough headroom for occasional transcoding. Set against that, only 2 bays caps total capacity. Both matter when comparing it to the other picks here.",
     specs: [
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=workcocoon-20",
     description:
       "The F2-425 is the cheapest Intel x86 quad-core NAS in this list, and that matters because an Intel chip is what actually enables hardware transcoding down the line, ARM chips simply can't do it regardless of subscription status. At 4GB RAM it's suited to a moderate library rather than a massive one.\n\n2.5GbE networking is also built in, which is the networking tier this guide recommends once more than one 4K stream needs to run to different rooms at the same time.\n\nA genuine advantage here is that 2.5GbE networking supports multi-room 4K. The tradeoff is 4GB RAM is tighter for very large libraries.",
     specs: [
@@ -170,7 +170,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=workcocoon-20",
     description:
       "A 4K H.265 remux typically needs 50 to 80 Mbps of sustained throughput, which a standard 1GbE connection handles fine for one stream. Once a household wants two or more simultaneous 4K streams in different rooms, a 2.5GbE NAS paired with a 2.5GbE switch removes the network as the bottleneck, and that's exactly what the TS-216G is built around.\n\nIt's a solid pick for a household with multiple TVs pulling from the same library at once, even if the CPU inside leans more toward direct play than heavy transcoding duty.\n\nSolid pick for multi-TV households. That's a real strength, but weigh it against the flip side: cPU favors direct play over heavy transcoding.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=workcocoon-20",
     description:
       "The Drivestor 2 Gen 2 runs a quad-core ARM CPU, which cannot hardware transcode under any circumstance, Plex Pass or not, but that's a non-issue for a household where every client, a modern smart TV, phone, or streaming stick, already supports direct play of H.264 and H.265 files.\n\nAt this price it's an entry point into Plex ownership rather than a media powerhouse, and 2.5GbE networking still keeps it relevant for a single 4K stream without a network bottleneck.\n\nWorth calling out specifically: handles direct play smoothly for compatible clients. The catch is aRM CPU cannot hardware transcode at all.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 supports up to 64TB of raw capacity across its 2 bays, giving it room for a genuinely large media library despite its entry-level price. It's a diskless enclosure, so drives are purchased separately based on how much library headroom is actually needed.\n\nLike the other ARM-based picks in this list, it's built around direct play rather than transcoding, which keeps costs down for households that don't need the CPU horsepower a Plex Pass subscription would otherwise put to use.\n\nSimple, budget-friendly entry point. Set against that, not built for hardware transcoding. Both matter when comparing it to the other picks here.",
     specs: [
@@ -258,7 +258,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The DS223 is primarily built as a backup and file-sharing hub, and Synology's DSM software layer makes running Plex alongside those duties straightforward for buyers who want one box instead of two. Its ARM processor keeps things focused on direct play rather than transcoding.\n\nFor a household that wants a single NAS to both back up computers and quietly run a Plex library for direct-play clients, this covers both jobs without added complexity.\n\nA genuine advantage here is that well-suited to combined backup plus media serving. The tradeoff is not built for hardware transcoding.",
     specs: [

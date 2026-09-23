@@ -45,7 +45,7 @@ export const upgrades: Upgrade[] = [
         id: "huanuo-single-arm",
         name: "HUANUO FlowLift Single Monitor Arm",
         badge: "Best Single Arm Under $50",
-        amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=workcocoon-20",
         imageUrl: `${B}/1A-huanuo-flowlift-single.webp`,
         intro:
           "Gas-spring, rated for 4.4-19.8 lbs, covers 13\"-32\" screens, installs in under 5 minutes with C-clamp or grommet. Tested for 20,000 motion cycles -- more than a decade of daily adjustments. +85/-50 tilt, 90 swivel, 360 rotation.",
@@ -61,7 +61,7 @@ export const upgrades: Upgrade[] = [
         id: "huanuo-dual-arm",
         name: "HUANUO Dual Monitor Stand",
         badge: "Best Dual Arm Under $80",
-        amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=workcocoon-20",
         imageUrl: `${B}/1B-huanuo-dual-monitor-stand.webp`,
         intro:
           "Two fully independent arms off one clamp base -- frees both monitor footprints simultaneously. On a 40\" desk with two monitors, recovers 12-18\" of depth that was previously occupied by two stands.",
@@ -86,7 +86,7 @@ export const upgrades: Upgrade[] = [
         id: "vivo-laptop-arm",
         name: "VIVO Single Laptop Desk Mount",
         badge: "Best Dedicated Laptop Arm",
-        amazonUrl: "https://www.amazon.com/dp/B00CM9NG1W?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B00CM9NG1W?tag=workcocoon-20",
         imageUrl: `${B}/2A-vivo-single-laptop-mount.webp`,
         intro:
           "Holds laptops up to 17\", mounts via C-clamp or grommet -- same installation as a monitor arm. Positions the laptop at secondary display height alongside your main monitor.",
@@ -101,7 +101,7 @@ export const upgrades: Upgrade[] = [
         id: "vivo-combo-stand",
         name: "VIVO Monitor + Laptop Combo Stand",
         badge: "One Arm for Both",
-        amazonUrl: "https://www.amazon.com/dp/B00FOTABWY?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B00FOTABWY?tag=workcocoon-20",
         imageUrl: `${B}/2B-vivo-combo-stand.webp`,
         intro:
           "Monitor mount and laptop tray off a single clamp -- one installation point for both devices. Laptop tray extends from the same center pole as the monitor mount.",
@@ -127,7 +127,7 @@ export const upgrades: Upgrade[] = [
         id: "trueque-km23",
         name: "Trueque KM23 Wireless Keyboard + Mouse",
         badge: "Best All-Around Combo",
-        amazonUrl: "https://www.amazon.com/dp/B0C9DQPTLM?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B0C9DQPTLM?tag=workcocoon-20",
         imageUrl: `${B}/3A-trueque-km23.webp`,
         intro:
           "Full-size wireless keyboard with built-in wrist rest, a phone holder slot, and quiet keystrokes. Mouse included. The phone holder on the frame keeps your phone at eye level beside your screen without a separate stand.",
@@ -143,7 +143,7 @@ export const upgrades: Upgrade[] = [
         id: "wave-keys-combo",
         name: "Wave Keys Wireless Keyboard + Mouse",
         badge: "Best Wave Design",
-        amazonUrl: "https://www.amazon.com/dp/B0DX791FXY?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B0DX791FXY?tag=workcocoon-20",
         imageUrl: `${B}/3B-wave-keys-combo.webp`,
         intro:
           "Classic wave/curve layout across key rows -- the ergonomic principle that reduces wrist pronation during long typing sessions. Cushioned palm rest wider and softer than most budget keyboards.",
@@ -159,7 +159,7 @@ export const upgrades: Upgrade[] = [
         id: "purple-ergonomic-combo",
         name: "Wireless Ergonomic Keyboard + Mouse (Color Options)",
         badge: "Best for Color Options",
-        amazonUrl: "https://www.amazon.com/dp/B0BVC3NDLZ?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B0BVC3NDLZ?tag=workcocoon-20",
         imageUrl: `${B}/3C-purple-ergonomic-combo.webp`,
         intro:
           "Same wave-key ergonomic concept with integrated wrist rest, in a split colorblock design. Available in purple and other colors for setups where desk aesthetic matters.",
@@ -183,7 +183,7 @@ export const upgrades: Upgrade[] = [
       {
         id: "premium-wrist-armrest",
         name: "Premium Adjustable Wrist Rest Armrest",
-        amazonUrl: "https://www.amazon.com/dp/B010UKQ5QM?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B010UKQ5QM?tag=workcocoon-20",
         imageUrl: `${B}/4-premium-wrist-rest-armrest.webp`,
         intro:
           "Clamps to the desk edge and provides a padded forearm support platform that rotates to follow your arm as you move. Height adjustable. Works as a desk armrest or chair armrest replacement.",
@@ -208,7 +208,7 @@ export const upgrades: Upgrade[] = [
         id: "mount-it-footrest",
         name: "Mount-It! Ergonomic Under-Desk Footrest",
         badge: "3-Height Adjustable",
-        amazonUrl: "https://www.amazon.com/dp/B08WRK72KF?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B08WRK72KF?tag=workcocoon-20",
         imageUrl: `${B}/5-mount-it-3-height-footrest.webp`,
         intro:
           "Three height levels (2.75\", 4.75\", 6.75\") and adjustable tilt angle let you dial in exact foot position for your height and chair. Textured surface promotes gentle foot movement for better circulation. Also functions as a laptop stand on top.",
@@ -233,7 +233,7 @@ export const upgrades: Upgrade[] = [
         id: "satechi-108w",
         name: "Satechi 108W Pro USB-C Desktop Charger",
         badge: "Best Premium Single-Outlet Solution",
-        amazonUrl: "https://www.amazon.com/dp/B082TL2J9D?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B082TL2J9D?tag=workcocoon-20",
         imageUrl: `${B}/6A-satechi-108w-pro.webp`,
         intro:
           "Two USB-C PD ports (90W + 18W) and one USB-A replace your laptop charger, phone charger, and tablet charger with a single compact unit. 90W port charges MacBook Pro M-series from 0-50% in approximately 30-40 minutes.",
@@ -250,7 +250,7 @@ export const upgrades: Upgrade[] = [
         id: "anker-9in1",
         name: "Anker 9-in-1 Power Strip 100W",
         badge: "Best Combo Power + USB Hub",
-        amazonUrl: "https://www.amazon.com/dp/B0CSFQQVVT?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B0CSFQQVVT?tag=workcocoon-20",
         imageUrl: `${B}/6B-anker-9-in-1-100w.webp`,
         intro:
           "3 AC outlets + 2 USB-A + 4 USB-C ports (100W total) in one compact strip with 300J surge protection. Everything -- laptop, phones, tablets, desk lamp, monitors -- off one strip.",
@@ -275,7 +275,7 @@ export const upgrades: Upgrade[] = [
         id: "sabrent-10port",
         name: "Sabrent 10-Port USB 3.0 Hub",
         badge: "Best Powered Desktop Hub",
-        amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=workcocoon-20",
         imageUrl: `${B}/7-sabrent-10-port-hub.webp`,
         intro:
           "10 ports (7 data + 3 smart charging) with individual LED-lit switches per port. Individual port switches let you power-cycle a single device without physically disconnecting it -- useful for restarting a USB drive or reconnecting a finicky peripheral.",
@@ -300,7 +300,7 @@ export const upgrades: Upgrade[] = [
         id: "dline-cable-box",
         name: "D-Line Cable Management Box Large",
         badge: "Best for Full Power Strips",
-        amazonUrl: "https://www.amazon.com/dp/B00B1EO1Z4?tag=deskfinds0d-20",
+        amazonUrl: "https://www.amazon.com/dp/B00B1EO1Z4?tag=workcocoon-20",
         imageUrl: `${B}/8-d-line-cable-box-large.webp`,
         intro:
           "Fits power strips up to 14\" long (most 6- and 8-outlet strips). Two cable routing openings on each end. Interior height accommodates USB brick adapters sitting alongside the power strip. Exterior looks like a small box -- not obviously a cable hider.",
@@ -375,19 +375,19 @@ export const beforeYouBuy = [
 ];
 
 export const quickReference = [
-  { upgrade: "1A - Single monitor arm", name: "HUANUO FlowLift Single", id: "huanuo-single-arm", amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=deskfinds0d-20" },
-  { upgrade: "1B - Dual monitor arm", name: "HUANUO Dual Monitor Stand", id: "huanuo-dual-arm", amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=deskfinds0d-20" },
-  { upgrade: "2A - Laptop arm", name: "VIVO Single Laptop Mount", id: "vivo-laptop-arm", amazonUrl: "https://www.amazon.com/dp/B00CM9NG1W?tag=deskfinds0d-20" },
-  { upgrade: "2B - Monitor + laptop combo", name: "VIVO Combo Stand", id: "vivo-combo-stand", amazonUrl: "https://www.amazon.com/dp/B00FOTABWY?tag=deskfinds0d-20" },
-  { upgrade: "3A - Wireless ergonomic KB", name: "Trueque KM23", id: "trueque-km23", amazonUrl: "https://www.amazon.com/dp/B0C9DQPTLM?tag=deskfinds0d-20" },
-  { upgrade: "3B - Wave layout KB", name: "Wave Keys Combo", id: "wave-keys-combo", amazonUrl: "https://www.amazon.com/dp/B0DX791FXY?tag=deskfinds0d-20" },
-  { upgrade: "3C - Color option KB", name: "Purple Ergonomic Combo", id: "purple-ergonomic-combo", amazonUrl: "https://www.amazon.com/dp/B0BVC3NDLZ?tag=deskfinds0d-20" },
-  { upgrade: "4 - Wrist + arm support", name: "Premium Wrist Rest Armrest", id: "premium-wrist-armrest", amazonUrl: "https://www.amazon.com/dp/B010UKQ5QM?tag=deskfinds0d-20" },
-  { upgrade: "5 - Footrest", name: "Mount-It! 3-Height Footrest", id: "mount-it-footrest", amazonUrl: "https://www.amazon.com/dp/B08WRK72KF?tag=deskfinds0d-20" },
-  { upgrade: "6A - USB-C charging station", name: "Satechi 108W Pro", id: "satechi-108w", amazonUrl: "https://www.amazon.com/dp/B082TL2J9D?tag=deskfinds0d-20" },
-  { upgrade: "6B - Power + USB hub", name: "Anker 9-in-1 100W", id: "anker-9in1", amazonUrl: "https://www.amazon.com/dp/B0CSFQQVVT?tag=deskfinds0d-20" },
-  { upgrade: "7 - Powered USB hub", name: "Sabrent 10-Port Hub", id: "sabrent-10port", amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=deskfinds0d-20" },
-  { upgrade: "8 - Cable management", name: "D-Line Cable Box Large", id: "dline-cable-box", amazonUrl: "https://www.amazon.com/dp/B00B1EO1Z4?tag=deskfinds0d-20" },
+  { upgrade: "1A - Single monitor arm", name: "HUANUO FlowLift Single", id: "huanuo-single-arm", amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=workcocoon-20" },
+  { upgrade: "1B - Dual monitor arm", name: "HUANUO Dual Monitor Stand", id: "huanuo-dual-arm", amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=workcocoon-20" },
+  { upgrade: "2A - Laptop arm", name: "VIVO Single Laptop Mount", id: "vivo-laptop-arm", amazonUrl: "https://www.amazon.com/dp/B00CM9NG1W?tag=workcocoon-20" },
+  { upgrade: "2B - Monitor + laptop combo", name: "VIVO Combo Stand", id: "vivo-combo-stand", amazonUrl: "https://www.amazon.com/dp/B00FOTABWY?tag=workcocoon-20" },
+  { upgrade: "3A - Wireless ergonomic KB", name: "Trueque KM23", id: "trueque-km23", amazonUrl: "https://www.amazon.com/dp/B0C9DQPTLM?tag=workcocoon-20" },
+  { upgrade: "3B - Wave layout KB", name: "Wave Keys Combo", id: "wave-keys-combo", amazonUrl: "https://www.amazon.com/dp/B0DX791FXY?tag=workcocoon-20" },
+  { upgrade: "3C - Color option KB", name: "Purple Ergonomic Combo", id: "purple-ergonomic-combo", amazonUrl: "https://www.amazon.com/dp/B0BVC3NDLZ?tag=workcocoon-20" },
+  { upgrade: "4 - Wrist + arm support", name: "Premium Wrist Rest Armrest", id: "premium-wrist-armrest", amazonUrl: "https://www.amazon.com/dp/B010UKQ5QM?tag=workcocoon-20" },
+  { upgrade: "5 - Footrest", name: "Mount-It! 3-Height Footrest", id: "mount-it-footrest", amazonUrl: "https://www.amazon.com/dp/B08WRK72KF?tag=workcocoon-20" },
+  { upgrade: "6A - USB-C charging station", name: "Satechi 108W Pro", id: "satechi-108w", amazonUrl: "https://www.amazon.com/dp/B082TL2J9D?tag=workcocoon-20" },
+  { upgrade: "6B - Power + USB hub", name: "Anker 9-in-1 100W", id: "anker-9in1", amazonUrl: "https://www.amazon.com/dp/B0CSFQQVVT?tag=workcocoon-20" },
+  { upgrade: "7 - Powered USB hub", name: "Sabrent 10-Port Hub", id: "sabrent-10port", amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=workcocoon-20" },
+  { upgrade: "8 - Cable management", name: "D-Line Cable Box Large", id: "dline-cable-box", amazonUrl: "https://www.amazon.com/dp/B00B1EO1Z4?tag=workcocoon-20" },
 ];
 
 export const faq: Array<{ q: string; a: string }> = [

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FBNsAaL4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LK1P1RD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LK1P1RD?tag=workcocoon-20",
     description:
       "The MX Mechanical uses a low-profile tactile mechanical switch, not a dedicated silent switch, so it should be judged as a quiet low-profile board rather than labeled with a specific silent-switch technology. Shorter key travel on a low-profile switch naturally produces less bottom-out noise than a taller standard-height switch, which is a large part of why it reads as quiet in practice.\n\nMulti-device Bluetooth and a Logi Bolt receiver let it pair with up to 3 computers, and the illuminated keys add usability in dim rooms. It is the most expensive board in this list, priced for build quality and multi-device convenience as much as for noise reduction.\n\nMulti-device switching across up to 3 computers. That's a real strength, but weigh it against the flip side: not a true silent-switch mechanical keyboard, quieter by design rather than dampened.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31hUfgJWI9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08Z7J4KV3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08Z7J4KV3?tag=workcocoon-20",
     description:
       "The G413 TKL SE uses standard-height mechanical switches without a specific silent or whisper-quiet designation in its listing, so it belongs in this list as a compact tenkeyless option rather than a top silent pick. Its smaller TKL footprint means fewer large stabilized keys than a full-size board, which cuts down on stabilizer rattle even without a dedicated silent switch.\n\nA solid aluminum-alloy top plate gives it a sturdier feel than plastic-cased budget boards. It suits buyers who want a compact, no-frills mechanical board and are willing to add a desk mat or switch pads to bring the noise down further.\n\nWorth calling out specifically: sturdy aluminum-alloy top plate. The catch is no silent or whisper-quiet switch marketing, standard mechanical noise level.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41k2EfHnvpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZGDPT4M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZGDPT4M?tag=workcocoon-20",
     description:
       "SteelSeries markets the Apex 3 with a \"Whisper Quiet Gaming Switch\" directly in its listing, which is the closest match in this list to an actual quiet-switch claim from the manufacturer rather than a general mechanical keyboard sold as an assumption of quiet. IP32 water resistance is a useful bonus for a desk near a drink or in a humid room.\n\nA magnetic wrist rest is included, and 10-zone RGB adds customization. Since this is branded switch marketing rather than a published dB figure, treat \"whisper quiet\" as directionally true rather than a guaranteed silent-switch experience.\n\nIP32 water resistance. Set against that, \"Whisper quiet\" is a brand claim, not an independently measured dB figure. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GdrDKwGaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B2DMKFM5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B2DMKFM5?tag=workcocoon-20",
     description:
       "This board uses Keychron's K Pro Brown switch, a tactile switch with a light bump, not a silent-dampened switch. Tactile switches are naturally quieter than clicky switches because there is no click jacket, but they are noisier than a true silent linear switch since the bump mechanism itself creates friction noise on every press.\n\nHot-swappable sockets mean you can later replace the Brown switches with a silent linear switch if office noise becomes a bigger concern. A physical volume knob and full QMK/VIA remapping round out a board built for customization first, quiet second.\n\nA genuine advantage here is that hot-swappable, upgradeable to a true silent switch later. The tradeoff is tactile bump adds friction noise a true silent linear switch avoids.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413s7zLyA1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14L7VZ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D14L7VZ6?tag=workcocoon-20",
     description:
       "The wireless V6 Max ships with Gateron Brown switches, the same tactile category as the wired Keychron picks in this list, so its noise profile sits in the same middle ground between clicky and silent. Going wireless removes a corded video-call mic pickup concern, since a Bluetooth board sitting further from a boom arm mic reduces how much stem noise the microphone actually captures.\n\nHot-swap sockets and QMK remapping carry over from the wired V6 lineup. Pair this with a desk mat if you want the tactile Brown feel with less bottom-out noise for calls.\n\nHot-swappable if you want to try a silent switch later. That's a real strength, but weigh it against the flip side: still a tactile switch, not silent-dampened.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41mtObU8cAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXX499PC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXX499PC?tag=workcocoon-20",
     description:
       "The MX Keys S Mac is a low-profile scissor-switch keyboard, not a mechanical switch keyboard at all, so it should be evaluated as a quiet typing option rather than compared directly against the mechanical Brown, Red, or Blue switches elsewhere in this list. Scissor switches have no click jacket and no long-travel mechanical stem, which makes them one of the quietest typing experiences available, closer to a laptop keyboard than a desktop mechanical board.\n\nBuilt specifically for Mac with a Space Grey finish and rechargeable battery, it is the pick for buyers who want the quietest possible typing feel and do not need switch customization or a mechanical feel at all.\n\nWorth calling out specifically: mac-optimized layout and shortcuts. The catch is not a mechanical keyboard, no tactile bump or hot-swap option.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41kuxJTAsdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B2DPFWGR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B2DPFWGR?tag=workcocoon-20",
     description:
       "This is the same K Pro Brown tactile switch as the Knob Version at a lower price, since it drops the volume knob and stays wired. As a tactile switch it produces more friction noise than a true silent linear switch, but noticeably less than a clicky Blue switch would on the same board.\n\nHot-swap sockets and QMK/VIA support are unchanged from the pricier V6 variants, so the upgrade path to a silent switch later is still available. It is a reasonable middle ground for buyers who want a full-size tactile board without paying for extras they will not use.\n\nHot-swappable, upgradeable to a silent switch later. Set against that, still a tactile switch, not silent. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31qNb+bxSwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=workcocoon-20",
     description:
       "The K668 uses a Red linear switch, which has no tactile bump and no click jacket, making it inherently quieter than either a clicky Blue or a tactile Brown switch even without silent dampening. Built-in sound-absorbing foam inside the case adds a second layer of noise reduction on top of the switch itself. Hot-swappable sockets let you try a true silent linear switch later if you want to go further, and two included keycap sets add flexibility. at a budget-friendly price, it is the strongest budget option for buyers who want a quieter linear feel without paying for a dedicated silent switch. A genuine advantage here is that sound-absorbing foam adds a second layer of noise reduction. The tradeoff is not a true silent switch, still produces standard mechanical bottom-out noise.",
     specs: [

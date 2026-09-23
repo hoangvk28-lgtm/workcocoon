@@ -143,7 +143,7 @@ If you fall within the 5'7"-6'0" range, a standard fixed-height desk at 29-30" i
 | 5'4"-5'7" | 38-41" (97-104cm) | Mid-range standing desks cover this |
 | 5'8"-5'11" | 40-43" (102-109cm) | Standard standing desk range covers this |
 | 6'0"-6'2" | 43-46" (109-117cm) | Requires standing desk with higher max range |
-| 6'3"-6'5" | 46-49" (117-124cm) | Need high-range standing desk ([FlexiSpot E7](https://www.amazon.com/s?k=flexispot+e7+standing+desk&tag=deskfinds0d-20), etc.) |
+| 6'3"-6'5" | 46-49" (117-124cm) | Need high-range standing desk ([FlexiSpot E7](https://www.amazon.com/s?k=flexispot+e7+standing+desk&tag=workcocoon-20), etc.) |
 | Over 6'5" | 49"+ | Verify max height before buying any standing desk |
 
 Most standing desks have a height range of approximately 27"-47". Users under 5'3" and over 6'3" should verify the specific min/max heights before purchasing, as some budget models have more limited ranges.

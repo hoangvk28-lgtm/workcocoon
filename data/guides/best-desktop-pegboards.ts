@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ll21hyHHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=workcocoon-20",
     description:
       "This is a clamp-mounted panel, not a truly freestanding board, worth knowing since it needs a compatible desk edge rather than sitting loose. In exchange, the clamp mount adds real stability that a loose freestanding frame wouldn't offer once the board is loaded with hooks and monitor arms.\n\nThe 43 x 34 inch panel is large enough for realistic desk-back organization without consuming excessive depth, and the metal build resists the sag lighter freestanding frames can develop.\n\nLarge panel without excessive desk-depth consumption. That's a real strength, but weigh it against the flip side: not truly freestanding, requires a compatible desk edge for the clamp.",
     specs: ["43 x 34 inch metal panel", "Clamp-mounted, not freestanding", "Dual monitor stand built in", "LED lighting included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51v-7P2kqkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=workcocoon-20",
     description:
       "Three clamp points instead of one give this board meaningfully more resistance to the tipping leverage a loaded vertical panel creates, useful for anyone planning to hang a shelf as well as hooks.\n\nThe included storage shelf projects forward from the board, which adds more leverage than hooks alone, so it's worth checking the shelf's own weight rating rather than assuming the board's general capacity covers it.\n\nSteel build holds up to repeated hook reconfiguration. On the other hand, small review count so far, worth treating as an early signal. Both are worth keeping in mind before deciding.",
     specs: ["47 x 31 inch steel panel", "Triple clamp mount", "2 monitor mounts included", "Storage shelf included"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KLj-p7YnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=workcocoon-20",
     description:
       "A large clamp-mounted panel at a notably low price for its 59 x 35 inch size, appropriate for buyers who want maximum hanging surface without paying for a shelf or LED lighting.\n\nWith only a handful of reviews so far, it's worth treating the rating as preliminary and confirming the clamp fits your specific desk edge thickness before ordering.\n\nA genuine advantage here is that no-drill clamp mount avoids permanent desk modification. The tradeoff is that very small review base, verify current feedback before buying.",
     specs: ["59 x 35 inch steel panel", "No-drill clamp mount", "Dual monitor stand", "Movable partition hooks"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "134 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KnBv2BIKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CLWM7K88?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CLWM7K88?tag=workcocoon-20",
     description:
       "This isn't a board itself but an articulating monitor mount designed to attach to an existing pegboard with 1-inch hole spacing, useful for buyers who already own a panel and want to add a monitor arm without drilling a new hole in the desk.\n\nBecause it depends on the host board's hole pattern, it's worth confirming your existing pegboard uses standard spacing rather than a proprietary hook system before buying this separately.\n\nFits a wide range of screen sizes up to 32 inches. That said, only works with boards using standard 1-inch hole spacing. Neither should be a surprise once you know to look for it.",
     specs: ["Fits pegboards up to 0.25 inch thick", "1 inch hole spacing required", "Fits screens up to 32 inches", "Articulating arm"],

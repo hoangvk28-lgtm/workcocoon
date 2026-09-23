@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,522 Amazon ratings",
     reviews: "6,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=workcocoon-20",
     description:
       "At under a foot long and 1.5 lb, this is genuinely compact, but that footprint savings comes with a real ADF-capacity tradeoff versus a full-size desktop scanner, this is a single-sheet-fed design, not a multi-sheet hopper. Color scans run at the same speed as black-and-white, a genuine plus.\n\nMicro USB 3.0 powered with no external adapter needed, and broad Windows/Mac/Linux driver support via TWAIN/WIA/ICA/SANE, a real compatibility plus for this size class.\n\nUSB-powered, no external adapter needed. That's a real strength, but weigh it against the flip side: single-sheet feed, not a multi-sheet hopper.",
     specs: ["Single-sheet feed, under 1 ft long, 1.5 lb", "Micro USB 3.0 powered, no external adapter", "Color scan speed matches black-and-white", "TWAIN/WIA/ICA/SANE drivers"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 2,294 Amazon ratings",
     reviews: "2,294 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415ddFXTF8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=workcocoon-20",
     description:
       "The duplex version of the rank-1 pick, scanning both sides in one pass, with an explicit Desk Saving Design claimed to reduce desk footprint by roughly 11 inches versus a standard placement, a genuinely disclosed space-saving figure rather than a vague marketing claim.\n\nSame single-sheet feed limitation as its simplex sibling, this trades multi-sheet hopper capacity for the compact form factor, expect to feed documents individually rather than loading a stack.\n\nDuplex scanning in a single pass. On the other hand, single-sheet feed, no multi-sheet hopper. Both are worth keeping in mind before deciding.",
     specs: ["Duplex, single-sheet feed, ~11 inches less desk space claimed", "Micro USB 3.0 powered", "Color scan speed matches black-and-white", "TWAIN/WIA/ICA/SANE drivers"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "This is a genuinely space-saving design that still keeps a real ADF hopper (not single-sheet feed), a meaningful step up in unattended batch capacity over the Brother compact picks above, at a real price premium. Up to 30ppm duplex with a single touch to start.\n\nHandles thick items and plastic cards alongside standard paper, and connects via USB or Wi-Fi, though as with any wireless scanner, sustained high-DPI color batches are safer over the wired connection.\n\nA genuine advantage here is that 30ppm duplex is genuinely fast for this size class. The tradeoff is that highest price among the compact picks in this guide.",
     specs: ["Space-saving ADF hopper design, up to 30ppm duplex", "USB or Wi-Fi, works without a computer via cloud", "Auto de-skew, color optimization, blank-page removal", "Handles thick items and plastic cards"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VnXqJ86dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=workcocoon-20",
     description:
       "Identical specs to the rank-3 pick in a black finish, the same space-saving ADF hopper design with up to 30ppm duplex scanning and USB/Wi-Fi connectivity. Choose based on finish preference, the underlying hardware and tradeoffs are the same.",
     specs: ["Space-saving ADF hopper design, up to 30ppm duplex", "USB or Wi-Fi, works without a computer via cloud", "Auto de-skew, color optimization, blank-page removal", "Handles thick items and plastic cards"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "A genuine 20-sheet ADF (a real hopper, larger than the single-sheet Brother picks) in a lightweight, USB-powered body, with an explicit 500 scans/day suggested daily volume, a rare and useful disclosure at this size class. Duplex scanning and built-in software round out a well-equipped compact pick.\n\nAt 1.7 lb this is genuinely take-anywhere portable, a real plus for home offices, classrooms, and remote work.\n\nExplicit daily volume disclosure. That said, lower rating than the ScanSnap picks. Neither should be a surprise once you know to look for it.",
     specs: ["20-sheet ADF hopper, duplex, USB-powered", "Explicit 500 scans/day suggested daily volume", "Built-in software, no installation needed", "1.7 lb, portable"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21YnTPRESJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "Marketed as the fastest and lightest mobile single-sheet-fed scanner in its class, with a genuinely quick single-page scan time of 5.5 seconds, useful for repeated small jobs throughout a day rather than one large batch. Handles documents up to 8.5x72 inches, useful for long receipts.\n\nUSB-powered with no external adapter, and includes Nuance OCR for searchable PDFs, a genuinely complete package at the lowest price in this guide.\n\nWorth calling out specifically: fast first-page-out time for repeated small jobs. The catch is single-sheet feed, no multi-sheet hopper.",
     specs: ["Single-sheet feed, 5.5-second per-page scan time", "Handles documents up to 8.5x72 inches", "USB-powered, no adapter needed", "Includes Nuance OCR for searchable PDFs"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 7,159 Amazon ratings",
     reviews: "7,159 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PFgs9o70S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07G5XZVLQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07G5XZVLQ?tag=workcocoon-20",
     description:
       "This is a flatbed scanner, not an ADF-fed document scanner, included here as the honest budget alternative for buyers whose real need is occasional single-page scanning rather than batch document digitization. Auto Scan Mode detects what you're scanning automatically.\n\nGenuinely compact and the cheapest pick in this guide, but don't buy this expecting ADF batch capability, feed one page at a time on the glass.\n\nLargest review base here. Set against that, flatbed only, not an ADF document scanner. Both matter when comparing it to the other picks here.",
     specs: ["Flatbed scanner, not ADF-fed", "Auto Scan Mode detects content type", "USB connectivity", "Largest review base in this guide"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 326 Amazon ratings",
     reviews: "326 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=workcocoon-20",
     description:
       "Included as the honest large-capacity reference point: this 100-sheet-feeder model is not genuinely compact, it's a high-speed desktop scanner. If your priority shifted from footprint to capacity while reading this guide, this is the pick to consider instead of the true compact options above.\n\nA touchscreen and Wi-Fi 6 plus USB-C round out a well-equipped, but decidedly non-compact, alternative.\n\nThe standout detail is that largest feeder capacity by far. Balancing that out, not genuinely compact, this is a full desktop-class scanner.",
     specs: ["100-sheet feeder, up to 45 ppm rated", "Wi-Fi 6 + USB-C, touchscreen", "Not a genuinely compact design", "Multi-feed sensor, brake roller system"],

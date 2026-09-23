@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "428 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tGKIBolqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTQND9BL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTQND9BL?tag=workcocoon-20",
     description:
       "A clamp-on desk-side organizer that attaches to a flat desk edge between 0.4 and 2.2 inches thick, appropriate for buyers wanting a standalone accessory panel rather than relying on an existing pegboard's hole compatibility.\n\nThe large, well-established review base is a useful signal here, since this is a self-contained system rather than a kit that depends on matching a separately purchased board.\n\nLarge, well-established review base. Set against that, fixed system, not expandable with generic third-party pegboard hooks. Both matter when comparing it to the other picks here.",
     specs: ["Fits flat edge 0.4 to 2.2 inches", "White finish", "Clamp-on mount", "Self-contained system"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "428 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ZCA5+OPYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTQ8NWTQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTQ8NWTQ?tag=workcocoon-20",
     description:
       "The same clamp-on desk-side organizer in black, appropriate for buyers who want the identical fit and function but a darker finish to match a black desk setup.\n\nAs with the white version, this is a self-contained system rather than a kit meant to be matched to a separately purchased pegboard, which removes the hole-spacing compatibility question entirely.\n\nThe standout detail is that large, well-established review base shared with the white version. Balancing that out, fixed system, not expandable with generic third-party hooks.",
     specs: ["Fits flat edge 0.4 to 2.2 inches", "Black finish", "Clamp-on mount", "Self-contained system"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oUaLqsLtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=workcocoon-20",
     description:
       "A clamp-on metal shelf that includes a small pegboard section and dedicated pencil holder, useful for buyers wanting a compact organizer with a genuine mix of open shelf and hanging storage.\n\nThe metal build should hold up better under repeated hook use than a plastic accessory kit, though the pegboard section here is small enough that hole-spacing compatibility with third-party hooks is worth double-checking before adding extras.\n\nCombines shelf, pegboard, and pencil holder in one accessory. That's a real strength, but weigh it against the flip side: small pegboard section limits hanging capacity.",
     specs: ["Metal clamp-on shelf", "Small pegboard section", "Dedicated pencil holder", "Compact footprint"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "134 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KnBv2BIKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CLWM7K88?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CLWM7K88?tag=workcocoon-20",
     description:
       "An articulating monitor mount built specifically to attach to an existing pegboard, this is the clearest example in this list of an accessory whose compatibility depends entirely on matching the host board's 1-inch hole spacing.\n\nUseful for buyers who already own a compatible pegboard and want to add a real monitor arm without drilling into the desk directly, but it will not work on a board using a proprietary hook system.\n\nFits a wide range of screen sizes up to 32 inches. On the other hand, only compatible with boards using standard 1-inch hole spacing. Both are worth keeping in mind before deciding.",
     specs: ["Fits pegboards up to 0.25 inch thick", "Requires 1 inch hole spacing", "Fits screens up to 32 inches", "Articulating arm"],

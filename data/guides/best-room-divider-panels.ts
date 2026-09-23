@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,934",
     imageUrl: "https://m.media-amazon.com/images/I/31UuCvUo-LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSBQFNNY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSBQFNNY?tag=workcocoon-20",
     description:
       "With nearly 2,000 ratings, the RANTILA 4-panel is the best-selling divider in this list, and it earns that spot with a 240gsm polyester fabric, the thickest fabric among the 4-panel picks here, over a steel frame. Thicker fabric means less see-through and less sag over months of folding and unfolding.\n\nTriple-buckle hinges at each joint keep the panels from drooping, and RANTILA extends the foot pads wider and longer than most 4-panel competitors, making this the most stable option in the list relative to its size. At 89\"W x 71\"H, it splits a standard room without feeling oversized.\n\nThickest 240gsm fabric among the 4-panel picks. That's a real strength, but weigh it against the flip side: 4 panels cover less width than the 6-panel picks.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,590",
     imageUrl: "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=workcocoon-20",
     description:
       "This single large panel from RANTILA swaps fabric for HDPE plastic sheeting over a steel frame, which makes it both UV-protected and fully waterproof, useful if it's going near a sunny window or a bathroom doorway. At just 8.8 lbs it's the lightest divider in this entire list, easy to carry one-handed and reposition on a whim.\n\nFour internal stiffeners keep the single 71\"W x 69.5\"H panel from bowing despite its flexible material, and that flexibility is actually a selling point: it can curve slightly to fit an irregular corner in a way a rigid 4-panel screen can't.\n\nWorth calling out specifically: uV-protected and waterproof HDPE material. The catch is single panel offers less width flexibility than multi-panel screens.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "1,715",
     imageUrl: "https://m.media-amazon.com/images/I/31IhKdy8YFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQMR29TC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQMR29TC?tag=workcocoon-20",
     description:
       "HOMSCREENER stretches its 4 panels to 88 inches wide, the widest 4-panel divider in this list, so it covers more floor width without adding a fifth or sixth panel to store and fold. The 240gsm polyester fabric carries the thickest PA coating of any pick here, which helps it resist wrinkling and shrug off the occasional splash.\n\nThe 17.7-inch feet are the longest in this list, giving the tall 71.3\" panels a wide, stable base, and triple-buckle hinges at every joint keep the whole run from sagging in the middle the way thinner-hinged screens do.\n\nLongest 17.7\" feet for extra base stability. Set against that, lowest star rating in this list at 4.1. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "598",
     imageUrl: "https://m.media-amazon.com/images/I/310HEt62n8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DNPJ9FQY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DNPJ9FQY?tag=workcocoon-20",
     description:
       "At 136 inches unfolded, VEVOR's 4-panel screen is the widest divider in this entire list by a wide margin, wide enough to fully close off a large open-plan room in a single run. Oxford fabric over an iron frame blocks light noticeably better than the thinner polyester used elsewhere here, useful for a bedroom nook that needs real darkness.\n\nThe fabric is also waterproof, and VEVOR builds each section into a W-shaped fold pattern rather than a flat zigzag, which distributes weight across more contact points and keeps the extra-wide span from swaying when someone brushes past it.\n\nA genuine advantage here is that oxford fabric blocks light more effectively than standard polyester. The tradeoff is extra-wide span needs significant floor space when unfolded.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,063",
     imageUrl: "https://m.media-amazon.com/images/I/31WhDsMWr+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B42BP1HF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B42BP1HF?tag=workcocoon-20",
     description:
       "MAYOLIAH's hinge system lets you reconfigure the screen anywhere from 2 to 6 panels, the most flexible setup in this list, so the same divider can shrink down for a small reading nook or extend to its full 120-inch width for a larger split. That range is genuinely useful if you're not sure yet how much width you'll need.\n\n180gsm polyester over an iron frame is thinner than the 240gsm fabric on the top 4-panel picks, but MAYOLIAH compensates with wider support feet and backs the whole thing with a 1-year warranty, longer than most of the budget picks in this list.\n\nWidest 6-panel pick at 120 inches. That's a real strength, but weigh it against the flip side: 180gsm fabric is thinner than the top 4-panel picks.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "113",
     imageUrl: "https://m.media-amazon.com/images/I/51Ohm2ia0FL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2V5MWTT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2V5MWTT?tag=workcocoon-20",
     description:
       "DECOLAB takes a completely different approach: instead of hinged fold-out panels, this is a modular standing panel that connects to additional units with neodymium magnets, the only pick in this list built this way. That makes it easy to add or remove panels later without dealing with a fixed hinge count.\n\nThe 100% polyester surface is made from recyclable PET fabric and is flame retardant certified to California TB 117-2013, the only pick in this list with a stated fire-safety certification, worth prioritizing if the divider will sit somewhere with real fire risk. It's also tackable, so it can double as a pinboard, and it carries the longest warranty here at 3 years.\n\nWorth calling out specifically: flame-retardant certified to CAL TB 117-2013. The catch is most expensive per-panel price in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "554",
     imageUrl: "https://m.media-amazon.com/images/I/31LNiAecNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GG9TW8MK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GG9TW8MK?tag=workcocoon-20",
     description:
       "SUNALLY pairs a full 6-panel, 132-inch-wide screen with silent PE lockable wheels on the base, the only wheeled divider in this list, so it can be rolled between rooms or out of the way entirely without lifting a heavy fabric-and-steel frame. Locking the wheels once it's positioned keeps it from drifting during daily use.\n\nThe 240gsm fabric is the thickest of any 6-panel pick here, matched with extended, widened feet for extra ground contact despite the added weight of the wheel casters. It's a strong fit for anyone who repositions their divider often, a studio apartment, a shared home office, or a space that changes layout week to week.\n\nSilent lockable wheels for easy repositioning. Set against that, wheels add height and bulk versus a flat-footed divider. Both matter when comparing it to the other picks here.",
     specs: [

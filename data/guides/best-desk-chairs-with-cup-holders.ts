@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "4,180",
     imageUrl: "https://m.media-amazon.com/images/I/31irI2uhBtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B001YJGDY8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B001YJGDY8?tag=workcocoon-20",
     description:
       "This is the one genuinely relevant product for this search, an armrest-mounted cup holder originally designed for wheelchairs and mobility scooters but compatible with many standard office chair armrests given its 'nearly universal' fit claim and strong review history.\n\nBe aware this attaches to your existing chair's armrest rather than being a built-in feature, so verify your specific chair's armrest shape and width before ordering.\n\nStrong review history. That's a real strength, but weigh it against the flip side: not a built-in chair feature, an add-on accessory.",
     specs: ["Armrest-mounted clamp", "Nearly universal fit per listing", "Originally designed for wheelchairs/scooters", "Compatible with many standard chair armrests"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "3,873",
     imageUrl: "https://m.media-amazon.com/images/I/31TCjuvei2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GDFRLKPV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GDFRLKPV?tag=workcocoon-20",
     description:
       "Honesty note: this well-reviewed PU leather chair does not include a built-in cup holder as a standard feature. We include it because it's a genuinely strong desk chair with adjustable arms, useful if you plan to pair it with the armrest cup holder accessory above.",
     specs: ["PU leather upholstery", "Adjustable arms", "All-black finish", "No built-in cup holder"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,953",
     imageUrl: "https://m.media-amazon.com/images/I/51cXeitIZML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGXH8F67?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGXH8F67?tag=workcocoon-20",
     description:
       "Honesty note: this ergonomic mesh chair also does not include a built-in cup holder. Its flip-up armrests may or may not be compatible with the clamp-style cup holder accessory above depending on the armrest's exact width and shape, so verify before buying both together.",
     specs: ["Ergonomic mesh back", "Flip-up armrests", "Breathable design", "No built-in cup holder"],

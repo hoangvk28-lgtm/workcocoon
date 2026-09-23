@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/316tpuWileL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=workcocoon-20",
     description:
       "This is the one printer in this guide that's genuinely wireless-free by design, its listing states wired connection only with a USB cable included, no wifi radio to disable or worry about. Automatic duplex printing and fast laser text output round out a solid home-office pick for anyone who wants wifi off the table permanently, not just switched off in a menu.\n\nBecause it's a monochrome laser, there's no ink to dry out during infrequent use, and print quality for text stays sharp regardless of connection type. It won't scan or copy, this is a print-only device, so pair it with a separate scanner if you need those functions.\n\nFast, sharp laser text output. Set against that, print only, no scan or copy. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "This is a wifi-capable printer, not a wireless-free one, but its wifi radio can be switched off in the settings menu while keeping full functionality over its USB-B wired connection. That flexibility is worth having, if you later decide you want wireless printing after all, it's already built in rather than requiring a new printer.\n\nAs a monochrome laser with duplex printing, copy, and scan built in, it's a fuller-featured option than the wired-only HP pick above for buyers willing to run it with wifi disabled. Works with Alexa is a wireless-dependent feature that won't function with wifi off, worth knowing if that's part of your household setup.\n\nA genuine advantage here is that fast, sharp laser text output. The tradeoff is not wireless-free by design, wifi has to be manually disabled.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "This wifi-capable color laser can be run wired-only over its USB-B connection with wifi disabled in the settings, a reasonable choice if you want color laser output without keeping the wireless radio active. At 35 PPM it's the fastest pick in this guide, useful for a small office with real print volume.\n\nAuto document feeder, scanner, copier, and fax are all included, making this the most feature-complete option here for a buyer who specifically needs color and speed and doesn't mind managing wifi settings themselves. The 3-year limited warranty is a meaningful backing at this price point.\n\nFull functionality over wired USB-B with wifi off. On the other hand, not wireless-free by design. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/411M0mBMPwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=workcocoon-20",
     description:
       "This listing explicitly calls out USB Connect alongside its wireless capability, and like the other wifi-capable picks here, its wifi radio can be turned off while the USB-B connection continues to work normally for computer printing. It's the photo-focused option in this guide, worth considering if inkjet color and photo quality matter more to you than laser speed.\n\nDuplex printing, scan, and copy are all included. Since it's an inkjet rather than a laser, plan to run occasional nozzle-check cycles if it sits idle for more than a couple of weeks, regardless of whether wifi is enabled or disabled.\n\nStrong photo printing quality. That's a real strength, but weigh it against the flip side: not wireless-free by design.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41qSvRweBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=workcocoon-20",
     description:
       "The MAXIFY MB2720 is a wifi-capable business printer that can be run over its wired USB-B connection with wifi disabled, keeping scanner, copier, and fax functions fully intact. It's a mid-priced option for a small office that wants a fuller feature set than the basic wired HP LaserJet pick without the cost of the Canon color laser above.\n\nAs a business-oriented model, it's built for steadier daily use than typical home inkjets. If fax specifically is a requirement for your office and you'd rather keep wifi off, this covers that need at a reasonable price.\n\nWorth calling out specifically: full functionality over wired USB-B with wifi off. The catch is not wireless-free by design.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31C067ZosFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=workcocoon-20",
     description:
       "This wifi-capable INKvestment inkjet can run wired-only over USB-B with wifi disabled, while keeping its higher-yield ink cartridge system, INKvestment cartridges are designed to reduce how often you replace ink compared to standard inkjet cartridges. Its 1.8-inch color display and manual feed slot round out a practical everyday feature set.\n\nManual feed slot support means you can run occasional cardstock or envelopes through separately from the main tray, useful for a small office or home setup even with wifi turned off.\n\nFull functionality over wired USB-B with wifi off. Set against that, not wireless-free by design. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "This step-up INKvestment model adds a 2.7-inch color touchscreen and automatic 2-sided copy and scan on top of the same higher-yield ink system as the INKvestment 4355 above, all fully usable over a wired USB-B connection with wifi switched off. The larger touchscreen makes navigating settings, including turning wifi off in the first place, noticeably easier than a basic button interface.\n\nAutomatic duplex scanning is a genuine convenience for multi-page documents that the more basic picks in this guide don't offer, worth the price step up if document scanning is part of your regular workflow.\n\nA genuine advantage here is that automatic duplex scanning included. The tradeoff is not wireless-free by design.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MCIwNDseL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFLM562?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFLM562?tag=workcocoon-20",
     description:
       "The most fully-featured pick in this guide, this wifi-capable OfficeJet Pro includes fax, ADF, and duplex print and scan, all of which continue to work over its wired USB-B connection with wifi disabled. It's positioned for office-level volume, worth the higher price if you need every feature here rather than a subset.\n\nThe 3-month Instant Ink trial and AI-capable features are wireless-adjacent conveniences that mostly assume an active internet connection, so factor that in if you plan to keep wifi off long-term, some smart features may not function as intended without it.\n\nFull core printing functionality over wired USB-B with wifi off. On the other hand, not wireless-free by design. Neither should be a surprise once you know to look for it.",
     specs: [

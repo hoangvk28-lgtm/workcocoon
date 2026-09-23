@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/4155kjpaFaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMQ6SK7W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMQ6SK7W?tag=workcocoon-20",
     description:
       "The WD Red Plus is the only true bare hard drive in this list, a 3.5 inch internal drive you install into a NAS enclosure you already own or are buying separately. It uses CMR (Conventional Magnetic Recording) rather than SMR, which matters directly for RAID reliability since SMR drives can struggle or fail during a RAID rebuild.\n\nIts 256MB cache and 5640 RPM spin speed are tuned for 24/7 NAS duty rather than desktop use, and its workload rating supports the kind of daily backup and file access load a typical home office generates. Buy this only if you already have an empty NAS bay to fill.\n\n256MB cache suited to sustained NAS workloads. That's a real strength, but weigh it against the flip side: requires a separate NAS enclosure you supply yourself.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "The UGREEN DXP2800 is a diskless 2-bay NAS enclosure, meaning it ships with no hard drives included and you supply your own, ideally CMR NAS-rated drives like the WD Red Plus above. It's aimed at content creators who need fast local file access for photo and video libraries rather than pure archival backup.\n\nWith two bays you can run mirrored RAID 1 for redundancy or combine drives for more raw capacity, and the enclosure handles the compute, networking, and drive management while you handle the drive purchase separately.\n\nWorth calling out specifically: rAID 1 support for redundancy across 2 bays. The catch is ships with zero storage, drives are a separate cost.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The DXP4800 Plus is a diskless 4-bay enclosure built around an Intel Pentium Gold 5-core CPU, giving it enough headroom for transcoding, virtualization, or running several services at once alongside file storage. Like every enclosure in this list it ships with no drives, so budget for 4 NAS-rated drives on top of the enclosure price.\n\nFour bays open up RAID 5 or RAID 10 configurations that balance capacity against redundancy far better than a 2-bay unit can, which matters if you're storing home office data you genuinely can't afford to lose.\n\n4 bays enable RAID 5/10 for better redundancy math. Set against that, highest combined cost once 4 drives are added. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 is a lower-cost diskless 2-bay enclosure supporting up to 64TB total once you install your own drives. It's a straightforward entry point for a home office that wants basic NAS redundancy without paying for the extra CPU horsepower of a media-server-focused unit.\n\nAs with every diskless enclosure here, the drives are a separate purchase, budget for 2 NAS-rated drives on top of this price, and check whether SMR or CMR drives are being used before committing them to a RAID array.\n\nA genuine advantage here is that straightforward 2-bay setup for basic redundancy. The tradeoff is diskless, still requires a separate drive purchase.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21KH+uw1QfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FB7KQLR1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FB7KQLR1?tag=workcocoon-20",
     description:
       "The Synology DS225+ is a diskless 2-bay NAS built around an Intel CPU with hardware transcoding, which matters if part of your home office storage doubles as a media server for photos or video. Synology's DSM software is widely regarded as one of the more polished NAS operating systems for setup and ongoing management.\n\nLike the other enclosures here it needs drives supplied separately, and its 2-bay layout keeps redundancy simple with RAID 1 rather than the more complex arrays a 4-bay unit supports.\n\nSynology DSM is a mature, well-documented NAS OS. That's a real strength, but weigh it against the flip side: diskless, drives are an added cost.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=workcocoon-20",
     description:
       "The DS925+ steps up to 4 diskless bays under Synology's DSM platform, giving a growing home office room to add capacity or redundancy without replacing the whole unit later. As with any 4-bay enclosure, RAID 5 or RAID 10 become viable, spreading data across drives so a single drive failure doesn't mean total data loss.\n\nBudget carefully here, 4 NAS-rated drives on top of the enclosure price is a meaningful additional cost, but it buys real headroom for a home office whose storage needs are still expanding.\n\nWorth calling out specifically: synology DSM's mature software ecosystem. The catch is highest enclosure price in this list before drives.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31gLzyv-GtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00JKM0ES2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00JKM0ES2?tag=workcocoon-20",
     description:
       "The BUFFALO LinkStation 210 is a drives-included bundle, a 1-bay NAS enclosure with a 4TB hard drive already installed, so there's no separate drive purchase or RAID configuration needed before first use. It's the simplest entry point in this list for a home office that just wants a network drive that works out of the box.\n\nBecause it's single-bay, there's no RAID redundancy possible, a drive failure means data loss unless you maintain a separate backup, so this suits secondary or backup storage rather than a sole copy of critical files.\n\nSimplest, fastest setup of any pick here. Set against that, single bay means zero RAID redundancy. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41CoDmrFUGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BY7LGMNP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BY7LGMNP?tag=workcocoon-20",
     description:
       "The Synology DS423 is a diskless 4-bay unit positioned for family and small business backup, file sharing, and basic video surveillance storage rather than heavy media transcoding. It's the lower-cost route into Synology's 4-bay lineup compared to the DS925+ above, trading some CPU headroom for a friendlier price.\n\nFour bays still support RAID 5 or RAID 10 once you supply your own drives, giving genuine redundancy options for a home office that wants more protection than a single-bay bundle can offer without the cost of the flagship 4-bay model.\n\nA genuine advantage here is that rAID 5/10 support for real redundancy. The tradeoff is diskless, drives are a separate cost.",
     specs: [

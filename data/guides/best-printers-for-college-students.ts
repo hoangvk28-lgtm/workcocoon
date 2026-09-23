@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "For students without a highly specialized major, the DeskJet 4355 covers print, scan, and copy needs in one compact wireless unit with a 3-month Instant Ink trial included. It's a sensible default when your printing is a general mix of essays, worksheets, and the occasional form rather than anything major-specific.\n\nAfter the included trial, run your own semester page estimate, a typical student prints somewhere in the 200-400 page range per semester, before deciding whether to keep the Instant Ink subscription or switch to buying cartridges as needed.\n\nWorth calling out specifically: included ink trial reduces upfront ink cost. The catch is not optimized for any single major's specific needs.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "Art and design students printing color portfolios, storyboards, or presentation boards need a photo-capable color inkjet more than they need speed or volume, and the PIXMA TS4320's color output handles that better than a monochrome laser ever could. Duplex printing helps when a project calls for printing both sides of thicker paper stock.\n\nColor inkjet cost-per-page runs noticeably higher than a monochrome laser, so this pick fits students whose printing is genuinely color-heavy rather than students defaulting to color for convenience.\n\nDuplex printing for double-sided project pages. Set against that, higher cost-per-page than laser picks in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "Law and business students who print hundreds of pages of case text, readings, or contracts a semester get the biggest cost benefit from a monochrome laser like the HL-L2405W, since laser toner has a dramatically lower cost-per-page than inkjet ink at high volume. Toner also doesn't dry out over breaks, unlike inkjet cartridges.\n\nAt a 200-400 page semester volume, the higher upfront price of a laser printer pays for itself faster than most students expect, especially compared to running an inkjet at the same page count.\n\nA genuine advantage here is that toner doesn't dry out over school breaks. The tradeoff is black and white output only.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "When a professor wants a scanned multi-page handwritten problem set or a signed multi-page form, an auto document feeder like the one on the TR4720 saves real time over feeding pages one at a time on a flatbed. This is a common assignment type in STEM and law coursework that most student printer guides never mention as a purchase factor.\n\nMobile printing support adds flexibility for a student without steady laptop access, and built-in fax covers the rare case a program still requires it for official documents.\n\nMobile printing from a phone. On the other hand, larger footprint than flatbed-only printers. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-ZgpCGxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=workcocoon-20",
     description:
       "The PIXMA TS3720 is the cheapest full all-in-one in this list, covering basic print, scan, and copy needs without the extras that drive up price on other picks. For a student on a tight budget whose printing is mostly short essays and worksheets, it's the lowest financial commitment that still covers the basics.\n\nIt lacks a document feeder and higher-volume features, so it fits a lighter semester print load better than a heavy-reading major's volume.\n\nCompact and easy to fit on a small desk. That's a real strength, but weigh it against the flip side: no auto document feeder.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31BXOlNqjZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=workcocoon-20",
     description:
       "Students issued a school Chromebook or a locked-down Windows build often can't install traditional printer drivers, and the MG3620's mobile and tablet printing support, including Google Cloud Print-style workflows, is built around exactly that kind of device-restricted printing. It's worth checking your specific device's print support before assuming any printer will pair cleanly with a school-managed laptop.\n\nBeyond device compatibility, it covers standard print, scan, and copy needs in a black finish that hides fingerprints better than white models common in this list.\n\nWorth calling out specifically: black finish resists visible smudging. The catch is highest price among the inkjet picks in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51zPjelEtML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=workcocoon-20",
     description:
       "This Bluetooth thermal printer supports full 8.5x11-inch Letter and A4 paper without any ink cartridge, which makes it a genuinely useful backup for a student who mostly relies on library printing but occasionally needs a page in a pinch. It works directly from a phone, which sidesteps device-compatibility questions entirely.\n\nThermal prints are black-and-white and fade over time, so this is not a realistic primary printer for a full course load, more a lightweight supplement for a student with minimal printing needs.\n\nWorks directly from a phone over Bluetooth. Set against that, thermal prints fade over time. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314c84l3lcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=workcocoon-20",
     description:
       "The TS6420 sits at the top of this list's price range with the fullest feature set, a black finish, and Canon's more complete control layout. It suits a group project team or an apartment full of roommates who want one shared printer capable of handling everyone's volume without becoming a bottleneck.\n\nAt this price, it makes the most financial sense split across multiple people rather than bought by a single student with light printing needs.\n\nA genuine advantage here is that good fit for shared group or roommate printing. The tradeoff is highest price in this list.",
     specs: [

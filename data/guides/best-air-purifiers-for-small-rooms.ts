@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ODC2Uu41L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=workcocoon-20",
     description:
       "A genuinely compact design at an affordable price with a large review base, appropriately sized for a small room rather than oversized capacity that would run unnecessarily loud. \n\nCheck for dead zones in small rooms with poor air circulation, closed doors and minimal HVAC airflow can create corners this unit's effective range doesn't fully reach.\n\nWorth calling out specifically: large, well-established review base. The catch is verify dead-zone coverage in rooms with poor circulation.",
     specs: ["Compact small-room design", "Large review base", "Affordable", "Appropriately sized for small spaces"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31e6d46ZnyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=workcocoon-20",
     description:
       "A large review base for a small-room-focused, quiet-emphasis design, genuinely appropriate scale rather than an oversized unit running loud to hit an unnecessary CADR rating.\n\nA small room's proportionally higher occupant-to-volume ratio makes hitting a real air-changes-per-hour target more meaningful here, appropriately sized capacity like this helps achieve that without excess noise.\n\nQuiet-focused design appropriate for small spaces. Set against that, smaller filter media surface area than larger units. Both matter when comparing it to the other picks here.",
     specs: ["Small-room, quiet-focused design", "Large review base", "Affordable", "Compact footprint"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 4,026 Amazon ratings",
     reviews: "4,026 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41BE3lVftQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide with a solid review base, though rated up to 1076 sq ft, meaning it's genuinely oversized capacity for a truly small room if run at the same speed as its rated coverage.\n\nFor a genuinely small room, you can run this at a lower speed than its rated maximum, getting quieter operation while still meeting your actual air-changes-per-hour need.\n\nThe standout detail is that solid review base. Balancing that out, oversized capacity for a truly small room if run at full speed.",
     specs: ["Up to 1076 sq ft rated", "Solid review base", "Most affordable in this guide", "High efficiency filter"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,517 Amazon ratings",
     reviews: "5,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414NIpA+xLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=workcocoon-20",
     description:
       "True HEPA H13 filtration in a genuinely portable, small design with a night light feature, appropriately scaled for a small room rather than an oversized unit. Solid review base.\n\nA small room's higher occupant-to-volume ratio makes actual air changes more perceptibly meaningful, this appropriately-sized unit is designed for that scale specifically.\n\nPortable design with a useful night light feature. That's a real strength, but weigh it against the flip side: lower rating than other picks in this guide.",
     specs: ["True HEPA H13 filter", "Night light feature", "Portable, small design", "Solid review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,997 Amazon ratings",
     reviews: "2,997 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Apo3YcVHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=workcocoon-20",
     description:
       "Rated up to 880 sq ft, still meaningfully larger than a truly small room, meaning genuine headroom to run at a lower, quieter speed for your actual small space. Solid review base at an affordable price.\n\nRunning this below its rated maximum speed for a genuinely small room gets you quieter operation while still meeting your real ACH need.\n\nSolid review base. On the other hand, rated coverage exceeds a truly small room's need. Both are worth keeping in mind before deciding.",
     specs: ["Up to 880 sq ft rated", "Solid review base", "Affordable", "Compact design"],

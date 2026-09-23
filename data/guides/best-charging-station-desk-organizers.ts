@@ -42,7 +42,7 @@ export const products: OrganizerProduct[] = [
     price: "~$55-75",
     priceRange: "~$55--75",
     imageUrl: `${BASE}/01-satechi-7-port-plus-organizer.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08SHRQDJ1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08SHRQDJ1?tag=workcocoon-20",
     whyItWins: "The Satechi 7-Port sits at the intersection of charging muscle and practical organization. Seven USB ports -- including a wireless charging pad on top -- handle any mix of devices. The device slots use Velcro-adjustable dividers, meaning they fit everything from a slim iPhone to a thick-cased iPad. Surge protection and a dedicated cable management channel underneath keep the station from creating the very clutter it is supposed to solve.",
     bodyParagraphs: [
       "What makes Satechi stand out against cheaper organizer-chargers is build quality. The aluminum housing matches the aesthetic of MacBooks and Apple peripherals -- it looks like it belongs on a desk with quality gear, not like an afterthought from a budget accessories bin.",
@@ -80,7 +80,7 @@ export const products: OrganizerProduct[] = [
     price: "~$40-55",
     priceRange: "~$40--55",
     imageUrl: `${BASE}/02-ladstag-15w-wireless-organizer.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D2D332YL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2D332YL?tag=workcocoon-20",
     whyItWins: "The LADSTAG is the best pick for anyone who wants a desk organizer that charges wirelessly without cables to the phone. The 15W wireless pad sits on top -- place your phone face-down, it charges. Meanwhile, the organizer body below holds pens, remotes, and small office supplies in dedicated compartments. Wall-mount brackets are included if you prefer to keep the desk surface completely clear.",
     bodyParagraphs: [
       "The faux leather finish comes in several neutral colors that blend into most desk aesthetics. The 4.8 x 8.35 x 5.39 inch footprint is modest -- similar in base area to a large smartphone -- which means it genuinely fits on desks where space is tight.",
@@ -118,7 +118,7 @@ export const products: OrganizerProduct[] = [
     price: "~$35-45",
     priceRange: "~$35--45",
     imageUrl: `${BASE}/03-bestek-8-port-with-dividers.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B078RHZX95?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B078RHZX95?tag=workcocoon-20",
     whyItWins: "If you manage more cables than wireless pads -- USB-A accessories, older devices, shared desks -- the BESTEK 8-Port is the right organizer-charger. Eight USB ports across a 10.2 x 10.2 cm base, with adjustable device dividers stacked above. The LED charge indicators tell you at a glance which ports are active.",
     bodyParagraphs: [
       "The adjustable dividers are the key practical feature. They slide to accommodate thin phones without cases, bulky-cased phones, small tablets, and anything else that needs to stand upright while charging. On a family desk or a shared workspace where multiple people charge different devices, that flexibility matters.",
@@ -157,7 +157,7 @@ export const products: OrganizerProduct[] = [
     price: "~$45-65",
     priceRange: "~$45--65",
     imageUrl: `${BASE}/04-pout-h3-splitmax-charging-mat.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09ZGK7MVM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09ZGK7MVM?tag=workcocoon-20",
     whyItWins: "The POUT H3 SplitMax takes a fundamentally different approach: instead of a standalone charging unit, it integrates fast wireless charging into a full mouse pad and desk mat surface. A Qi-certified fast wireless charging zone sits flush with the mat surface -- your phone charges when it lands there. A magnetic tray organizer on one edge holds accessories, a pen, or your phone stand while not actively charging.",
     bodyParagraphs: [
       "The result is a desk where no standalone charging unit occupies surface space. The charging is part of the desk surface itself, and the magnetic tray handles the organization role without adding a second footprint.",
@@ -197,7 +197,7 @@ export const products: OrganizerProduct[] = [
     price: "~$30-40",
     priceRange: "~$30--40",
     imageUrl: `${BASE}/05-topmade-4-slot-wireless-organizer.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08YYJ817B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08YYJ817B?tag=workcocoon-20",
     whyItWins: "The TopMade is the most space-efficient organizer-charger in this roundup. Four compartments -- phone charging zone, pen holder, stationery tray, small items slot -- plus a 10W wireless charging base, all in a unit roughly 19.5 x 9.5 x 13.5 cm. The soft velvet lining in each compartment prevents phones and accessories from scratching, which sounds small but matters when you are pulling your phone in and out multiple times a day.",
     bodyParagraphs: [
       "The Qi wireless pad at the base works with any Qi-enabled phone including iPhones (7.5W) and Samsung Galaxy (10W). A dedicated phone stand slot at the side keeps your device upright and readable while charging.",
@@ -237,7 +237,7 @@ export const products: OrganizerProduct[] = [
     price: "~$20-28",
     priceRange: "~$20--28",
     imageUrl: `${BASE}/06-soopii-6-port-usb-organizer.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07TWGXN7Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07TWGXN7Q?tag=workcocoon-20",
     whyItWins: "Under $28, adjustable dividers, six USB ports, and 6 short charging cables included -- ready to use out of the box. The SooPii 6-Port Charging Station Organizer does not try to impress -- it just holds your devices upright and charges them through USB-A at 2.4A per port. For a secondary desk, a kids' charging hub, or a workspace where the budget simply doesn't extend to premium organizer-chargers, this is the honest pick.",
     bodyParagraphs: [
       "The adjustable baffles accommodate six different device sizes simultaneously. LED indicators flag which ports are charging. The 6 short mixed cables included eliminate the first setup friction -- no need to hunt for compatible cables before using it.",

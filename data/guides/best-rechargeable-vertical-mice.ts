@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 14,970 Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "A large review base backing Logitech's premium rechargeable design, USB-C charging confirmed rather than the older micro-USB standard, a genuine convenience for buyers already carrying a USB-C cable for a laptop or phone.\n\nThis mouse can be used while charging via the cable, avoiding the frustration of a wired-only or fully unusable state during a charge cycle, a real usability advantage worth confirming for any rechargeable mouse before you're caught mid-task with a dead battery and no way to keep working.\n\nUSB-C charging matches modern cable standards. Set against that, higher price than budget rechargeable alternatives. Both matter when comparing it to the other picks here.",
     specs: ["USB-C charging", "Usable while charging", "Large review base", "Premium ergonomic design"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 15,431 Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "One of the largest review bases in this guide at a fraction of the premium pick's price, genuinely rechargeable rather than relying on disposable batteries, a meaningful long-term cost saving over a mouse's lifespan.\n\nCharge time and realistic battery life should be weighed against the manufacturer's quoted figure, this large review base gives strong real-world evidence to cross-check against the quoted specification rather than accepting it at face value.\n\nThe standout detail is that meaningfully lower price than premium rechargeable alternatives. Balancing that out, charging cable type should be verified against your existing cables.",
     specs: ["Rechargeable battery", "Comfort-grip design", "One of the largest review bases in this guide", "Budget-friendly price"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,670 Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pLezomU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCBW3B3T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCBW3B3T?tag=workcocoon-20",
     description:
       "A solid review base confirming genuine USB-C charging rather than an older micro-USB connector, a real convenience for buyers standardizing on USB-C cables across their desk accessories.\n\nBattery indicator accuracy matters for avoiding unexpected mid-task power loss, check current reviews specifically for feedback on this mouse's battery warning reliability before assuming the indicator is trustworthy out of the box.\n\nSolid review base and rating. That's a real strength, but weigh it against the flip side: charge-while-in-use capability not explicitly confirmed.",
     specs: ["USB-C charging", "Solid review base", "Ergonomic vertical design", "Budget-friendly price"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,572 Amazon ratings",
     reviews: "1,572 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/317OUYp22fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DM8KRK37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DM8KRK37?tag=workcocoon-20",
     description:
       "The highest average rating among the rechargeable picks in this guide, a genuinely distinct volume knob feature adds practical value beyond the core rechargeable functionality.\n\nThe lowest price in this guide combined with the highest rating suggests strong real value, though the smaller review base means less accumulated long-term evidence of battery degradation than the larger-volume picks.\n\nLowest price in this guide. On the other hand, smaller review base than the larger-volume competitors. Both are worth keeping in mind before deciding.",
     specs: ["Rechargeable, Bluetooth connectivity", "Integrated volume knob", "Highest rating among rechargeable picks", "Lowest price in this guide"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 12,710 Amazon ratings",
     reviews: "12,710 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31UoLhAJ4zL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG5SW7F4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG5SW7F4?tag=workcocoon-20",
     description:
       "A very large review base with a quoted 12-month battery life, meaningfully longer between charges than most rechargeable mice in this guide, a real convenience for buyers wanting to minimize how often they think about charging at all.\n\nThis quoted 12-month figure should still be tested against realistic use conditions rather than accepted at face value, manufacturer battery-life claims commonly assume lighter usage patterns than a genuinely heavy daily user experiences.\n\nA genuine advantage here is that quoted 12-month battery life meaningfully longer than typical. The tradeoff is that realistic battery life under heavy use may fall short of the quoted figure.",
     specs: ["Quoted 12-month battery life", "6 buttons, adjustable DPI", "Very large review base", "Quiet clicks included"],

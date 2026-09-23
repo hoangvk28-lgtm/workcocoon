@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "346",
     imageUrl: "https://m.media-amazon.com/images/I/41h2uXZF6hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CYLG2LCK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYLG2LCK?tag=workcocoon-20",
     description:
       "The HOOBRO stands out for genuine layout flexibility, it can be built as a true corner-hugging L-shape or reconfigured into two parallel straight units if your room layout changes down the line. Particleboard shelves on a metal frame handle 66 lbs per shelf, and a twist-on quick assembly system gets it built without a full toolbox.\n\nAdjustable feet plus an included anti-tip kit round out a rustic brown finish that suits both living rooms and home offices, backed by a solid 4.6-star average across 346 ratings.\n\n66 lb/shelf capacity handles a heavy book collection. That's a real strength, but weigh it against the flip side: pricier than the black version of the same design.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "346",
     imageUrl: "https://m.media-amazon.com/images/I/41m+GnF3MKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLVXXHST?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLVXXHST?tag=workcocoon-20",
     description:
       "This is the same flexible 2-configuration HOOBRO design as our top pick, just finished in matte black and priced a real lower. It's built from engineered wood and metal, still twist-on to assemble, and still ships with adjustable feet and an anti-tip kit for wall anchoring. Per-shelf capacity drops to 44 lbs compared to the rustic brown version's 66, a fair tradeoff given the lower price, and the matte black frame reads more modern than the rustic finish if that suits your room better. Worth calling out specifically: same 2-in-1 L-shape or parallel design as the pricier version. The catch is lower capacity than the rustic brown version at 44 lb/shelf.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "388",
     imageUrl: "https://m.media-amazon.com/images/I/41y9WuFtfCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZNJZVM5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZNJZVM5?tag=workcocoon-20",
     description:
       "The Armocity is built with safety details most corner bookcases skip: a built-in bookend on every shelf keeps books from sliding, and every corner is rounded rather than sharp, a genuine plus if you have young kids running around the house. A 90-degree angled back keeps the whole unit snug against the wall corner.\n\nParts arrive pre-sorted and labeled, and the brand claims roughly 30 minutes for full assembly, the fastest of any pick in this list. The clean white finish also gives it the brightest, most minimalist look here.\n\nRounded child-safe corners. Set against that, slightly more expensive than the HOOBRO picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "394",
     imageUrl: "https://m.media-amazon.com/images/I/51eoRWUlXuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFQGMHDT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFQGMHDT?tag=workcocoon-20",
     description:
       "The IRONCK is the largest standard L-shaped pick in this list, spanning 43.3 inches on one leg and 35.4 inches on the other, with 12 total shelves split across both sides. Each shelf carries a 70 lb rating, the highest of any standard L-shaped bookshelf here, and 2.8-inch baffles along the shelf edges stop items from sliding off. MDF construction sits inside an iron frame with metal sidebar reinforcement for extra rigidity, making this the pick to reach for if you're filling both legs with a genuinely heavy book collection. A genuine advantage here is that 12 total shelves, the most in this list. The tradeoff is most expensive standard L-shaped pick at a competitive price.",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "283",
     imageUrl: "https://m.media-amazon.com/images/I/51sCJJi6aOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FKMDRKR9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FKMDRKR9?tag=workcocoon-20",
     description:
       "This Shintenchi etagere carries the highest total weight rating in this entire list at 750 lbs, backed by 75 lbs per individual shelf. A metal frame with an X-shaped crossbar underneath adds real rigidity to a unit this large, which spans 30.7 inches on each leg and stands over 71 inches tall. Adjustable feet and an included anti-tip kit help keep it stable once loaded up, and at a budget-friendly price it delivers serious capacity for anyone building out a genuine home library across both legs of the L. Largest etagere-style footprint for a serious library. On the other hand, lowest rating in this list at 4.3 stars. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -213,7 +213,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "396",
     imageUrl: "https://m.media-amazon.com/images/I/41YCyk+KRYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FBG8J59M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FBG8J59M?tag=workcocoon-20",
     description:
       "The Huuger is built from FSC-certified wood, meeting sustainable sourcing standards, and pairs it with an X-bar metal frame across 10 open shelves. Like the HOOBRO picks, it can be assembled either as a corner-fit L-shape or reconfigured as a straight 49.4-inch-wide line, making it the most flexible layout option in this list alongside the HOOBRO.\n\nAdjustable feet keep it level, and with 10 total shelves split across a large footprint, it offers plenty of room for books, decor, and storage bins alike.\n\n10 open shelves across a large footprint. That's a real strength, but weigh it against the flip side: large footprint needs either a corner or a long wall run.",
     specs: [
@@ -245,7 +245,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "114",
     imageUrl: "https://m.media-amazon.com/images/I/51X78fYVrbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FD3GW2M3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FD3GW2M3?tag=workcocoon-20",
     description:
       "This IRONCK is the only pick in this list built with enclosed storage, combining 10 open shelves with 2 storage drawers at the base for items you'd rather keep out of sight. Adjustable shelving lets you customize spacing for taller books or decor pieces, and the corner-fit L-shape design makes efficient use of a wall junction.\n\nEngineered wood construction stands 76.37 inches tall, giving it a commanding presence in a home office or living room corner, and the blend of open display plus hidden drawer storage makes it the most complete storage solution here.\n\nWorth calling out specifically: 10 open shelves plus 2 drawers for mixed storage needs. The catch is lower review count than other picks at 114 ratings.",
     specs: [
@@ -277,7 +277,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "12",
     imageUrl: "https://m.media-amazon.com/images/I/51V7xU1pv2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPW4YCFB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPW4YCFB?tag=workcocoon-20",
     description:
       "The FACBOTALL leans into a clean, modern minimalist look with a matte white finish and simple lines that fit a Nordic-inspired home office or living room. Engineered PB wood forms 6 open shelves rated at 44 lbs each, 264 lbs total, standing a tall 73.5 inches to maximize vertical storage in a corner.\n\nTool-free assembly is a nice touch for a unit this size, though it's the newest pick in this list with a limited review sample so far.\n\nTool-free assembly. Set against that, very limited review sample at only 12 ratings. Both matter when comparing it to the other picks here.",
     specs: [

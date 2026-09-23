@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 9,810 Amazon ratings",
     reviews: "9,810 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31wkQYg97oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=workcocoon-20",
     description:
       "Rated 10 sheets with real-world capacity closer to 7-8 with mixed paper, this genuine P-4 cross-cut pick pairs a large 5.5-gallon bin with a strong review base for real-world confidence. Handles junk mail, staples, and credit cards.\n\nA solid all-around choice at this exact capacity tier, higher security than the strip-cut alternatives at a similar price.\n\nStrong review base. That said, short 4-minute continuous run time. Neither should be a surprise once you know to look for it.",
     specs: ["10-sheet rated cross-cut (7-8 realistic with mixed paper)", "P-4 security", "4-minute continuous run time", "5.5-gallon bin"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31jH9nhLBBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKXGNDLT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKXGNDLT?tag=workcocoon-20",
     description:
       "The genuine micro-cut alternative at the same 10-sheet capacity and same 5.5-gallon bin size as the rank-1 pick, a real security-level upgrade for a modest price difference. This is exactly the kind of matched-capacity security comparison this guide's introduction highlights.\n\nHighest rating among the 10-sheet picks here, real evidence this micro-cut mechanism performs reliably despite the tighter blade tolerances that generally come with finer cuts.\n\nWorth calling out specifically: genuine micro-cut security at matched bin capacity vs. the rank-1 pick. The catch is slightly higher price than the rank-1 cross-cut pick.",
     specs: ["10-sheet rated micro-cut, P-4, 5x12mm particles", "5.5-gallon bin, same size as rank 1", "5-minute continuous run time", "1-year professional service"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 4,657 Amazon ratings",
     reviews: "4,657 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31RMWoUZy7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FFJPQGD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FFJPQGD?tag=workcocoon-20",
     description:
       "This is the P-2 strip-cut alternative at the same 10-sheet nominal capacity, priced well below the P-4 picks above, exactly the security-tier spread this guide's introduction flags for this specific capacity level. Handles staples and clips without removal, and runs quietly.\n\nIf security level doesn't need to be P-4, this is a genuinely cheaper, quieter, more fastener-tolerant option at the same rated capacity.\n\nHandles staples/clips without removal. Set against that, p-2 security level, meaningfully lower than the P-4 picks above. Both matter when comparing it to the other picks here.",
     specs: ["10-sheet rated strip-cut, P-2 security", "Low-noise design", "5-minute continuous run time", "3.17-gallon basket"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31AP7IG-MYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NY9W23W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NY9W23W?tag=workcocoon-20",
     description:
       "Rated above the 10-sheet target at 15 sheets, included here because it's commonly compared against 10-sheet picks and its massive review base offers exceptional real-world confidence. A wider 8.7-inch paper entry and 6-gallon bin are genuine steps up for a moderate price increase.\n\nWorth considering if you're deciding between a true 10-sheet pick and stretching slightly for more headroom.\n\nThe standout detail is that wider paper entry and larger bin than true 10-sheet picks. Balancing that out, higher price and capacity tier than this guide's 10-sheet target.",
     specs: ["15-sheet rated cross-cut, P-4, 8.7-inch entry", "20-minute continuous run time", "6-gallon bin", "Massive review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "Rated 12 sheets, just above this guide's 10-sheet target, but included since it's a close comparison point with a notably longer 15-minute continuous run time than the true 10-sheet picks above. Jam-proof reverse and a 5.5-gallon bin round out a well-equipped alternative.\n\nA reasonable choice if run time matters more to you than staying exactly at the 10-sheet nominal capacity.\n\nJam-proof reverse system. That's a real strength, but weigh it against the flip side: rated slightly above this guide's 10-sheet target.",
     specs: ["12-sheet rated cross-cut, P-4", "15-minute continuous run, ~900 sheets/cycle", "5.5-gallon bin, jam-proof reverse", "Solid rating"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31GNS0CdNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=workcocoon-20",
     description:
       "Another close comparison point rated at 12 sheets rather than exactly 10, but with the same massive Amazon Basics review base as the true 10-sheet picks in this brand family. P-3 security, a step below the P-4 rank-1/2 picks.\n\nA reasonable alternative if you want proven Amazon Basics reliability with slightly more capacity headroom, accepting P-3 rather than P-4 security.\n\nLonger run time than the true 10-sheet picks. On the other hand, p-3 security, lower than the P-4 true 10-sheet picks. Both are worth keeping in mind before deciding.",
     specs: ["12-sheet rated cross-cut, P-3 security", "9-minute continuous run time", "5-gallon bin", "Massive review base"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 7,466 Amazon ratings",
     reviews: "7,466 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31AtA7qsSwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08J2N4CS2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08J2N4CS2?tag=workcocoon-20",
     description:
       "Rated 8 sheets, slightly below this guide's 10-sheet target, but included as a compact under-desk alternative with a larger 4-gallon bin than some true 10-sheet picks. P-4 security and ETL certification round out a solid budget-adjacent option.\n\nA reasonable choice if you want a compact footprint and don't mind slightly less capacity than the nominal 10-sheet target.\n\nA genuine advantage here is that larger bin than some true 10-sheet picks. The tradeoff is that rated slightly below this guide's 10-sheet target.",
     specs: ["8-sheet rated cross-cut, P-4", "Compact under-desk design", "5-minute continuous run time", "4-gallon bin, ETL certified"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,061 Amazon ratings",
     reviews: "1,061 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LSE9gHSWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=workcocoon-20",
     description:
       "The highest-capacity comparison point in this guide at 14 sheets, well above the 10-sheet nominal target, with a proportionally longer 20-minute run time. Included as the upper reference for buyers deciding whether to stretch beyond 10 sheets entirely.\n\nLowest rating among the higher-capacity picks here, weigh that against the genuinely higher capacity and run time.\n\nLongest run time among the comparison picks. That said, lowest rating among the higher-capacity picks. Neither should be a surprise once you know to look for it.",
     specs: ["14-sheet rated cross-cut, P-4", "20-minute continuous run, up to 1,400 sheets/session", "5.3-gallon bin, casters", "ETL listed"],

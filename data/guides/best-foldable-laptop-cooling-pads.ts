@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41-P9I-xIRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C7BKZ883?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C7BKZ883?tag=workcocoon-20",
     description: "This product's own listing explicitly describes a \"foldable design\" that allows it to slip into a backpack, the clearest genuine folding claim in our research pool. It has no fan, cooling comes from elevation and open ventilation holes in the metal surface, not active airflow.\n\nIt earns the top spot in this comparison for one main reason. Explicitly and genuinely foldable per its own listing.\n\nWorth knowing before you decide: Compact for backpack storage when folded. On the other side, Cooling benefit is more modest than an active fan pad. That's the main tradeoff to weigh against everything above.",
     specs: ["Explicitly foldable design","Metal riser, no fan","Supports up to 17.6 lbs","Ventilated top surface"],
     pros: ["Explicitly and genuinely foldable per its own listing","Compact for backpack storage when folded","High weight capacity","Anti-skid protection"],

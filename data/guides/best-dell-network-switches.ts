@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/31jzuvOWVzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CM9N3FTL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CM9N3FTL?tag=workcocoon-20",
     description: "Dell's PowerSwitch S6000 is a data-center-class switch offering 32 ports of 40Gb QSFP+ connectivity with dual power supplies for redundancy, the kind of hardware typically found in enterprise server rooms rather than office networks.\n\nAs the only verified Dell switch currently accessible through Amazon's catalog for this cluster, buyers specifically wanting Dell PowerSwitch hardware should also check Dell's direct enterprise channel for new SmartFabric OS10 units, which offer broader model selection and manufacturer support than this single renewed listing.",
     specs: ["32x 40Gb QSFP+ ports, renewed","Dual power supply redundancy","Data-center-class switching"],
     pros: ["Massive 40Gb port density at renewed pricing","Dual PSU redundancy for critical infrastructure","Genuine Dell enterprise hardware"],

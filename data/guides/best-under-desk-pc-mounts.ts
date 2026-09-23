@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "2,617 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41GmNtILiJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MEDE9WO?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MEDE9WO?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, this VIVO mount uses a straightforward under-desk or wall-mount bracket appropriate for a standard mid-tower case rather than an oversized modern build.\\n\\nThe budget price makes it an easy first pick, but verify your specific tower's actual loaded weight, including drives and power supply, against the rated capacity rather than assuming any mid-tower-sized case qualifies.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the VIVO Heavy Duty Adjustable Under before deciding.\n\nWorth knowing before you decide: Lowest price in this guide. On the other side, Rated capacity assumes a standard mid-tower, verify against your actual loaded case weight. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Under-desk or wall mount","Budget price point","Standard mid-tower fit","Massive review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "222 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31t8nBX+HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=workcocoon-20",
     description:
       "A disclosed 66-pound capacity gives real headroom for a heavier modern tower with multiple drives or a large power supply, closer to what a genuinely loaded case weighs than the generic mid-tower assumption most budget mounts are rated against.\\n\\nThe secure locking mechanism is worth noting for stability, though rear-IO access still requires some planning since the case sits closer to the desk underside once locked in place.\n\nSet against the VIVO Black Under Desk and Wall Office PC Mount, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Secure locking beyond simple friction. On the other side, Higher price than the most basic mounts. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 66 lbs capacity","Secure locking mechanism","Adjustable design","Mid-range price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "433 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31DzC4Wn1JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=workcocoon-20",
     description:
       "A 77-pound rated capacity at a mid-range price gives genuine room above what most mid-tower cases weigh even when fully loaded with drives and a full-size power supply.\\n\\nThe adjustable design accommodates a range of case widths, and the strong rating across a sizable review base is worth weighing against the more basic budget picks that carry lower disclosed capacities.\n\nRelative to the VIVO Heavy Duty Adjustable Under, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Strong 4.6-star rating across a sizable review base. On the other side, Verify rear-IO reach with your specific case orientation once mounted. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 77 lbs capacity","Adjustable width design","Strong review rating","Mid-range price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from Amazon ratings",
     reviews: "49 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uzdCGRrbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=workcocoon-20",
     description:
       "The highest average rating in this guide, though from a smaller review base, this mount offers a 66-pound capacity with height adjustment for varied case sizes.\\n\\nGiven the smaller sample size, weigh the strong rating against the larger, more proven review bases of the top two picks before assuming equivalent long-term reliability.\n\nCompared with the Heavy Duty Under Desk PC Holder above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: 66lb capacity covers most loaded mid-tower cases. On the other side, Smaller review base limits confidence versus the top two picks. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Max 66 lbs capacity","Height adjustable","Highest average rating","Smaller review base"],

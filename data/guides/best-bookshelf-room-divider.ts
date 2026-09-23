@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "709",
     imageUrl: "https://m.media-amazon.com/images/I/41tIPFRL6WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=workcocoon-20",
     description:
       "The Furologee's S-shaped silhouette is what makes it a true room divider rather than a wall-hugging bookcase: the curved zigzag of shelves reads well from both sides, so it can sit in the middle of a studio or open floor plan without an obvious 'back.' Six tiers split into two staggered sections for 12 total compartments, and the brand markets it as a triple-purpose piece, working equally well as a wine rack or a TV stand depending on where you place it.\n\nP2-grade MDF panels pair with a powder-coated metal frame for a look that's warmer than typical industrial shelving, and the whole unit is waterproof and scratch-resistant for durability in a busy shared space. An anti-tip kit and non-slip pads come included, and each shelf holds up to 30 lbs for a total capacity of 180 lbs across the unit.\n\nLooks good from both sides, ideal for open floor plans. That's a real strength, but weigh it against the flip side: 180 lb total capacity is modest next to taller straight bookshelves.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "709",
     imageUrl: "https://m.media-amazon.com/images/I/41Afb0kNbFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D3FWVTLL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D3FWVTLL?tag=workcocoon-20",
     description:
       "This is the same S-shaped divider as our top pick, reworked in a Light Black Oak tone that leans more industrial than rustic. The frame's edges are sealed and screw holes are covered for a cleaner finish overall, a small but noticeable upgrade if you plan on viewing the piece from every angle in an open room.\n\nLike the Rustic Brown version, it can be installed vertically as a tall bookshelf or laid on its side horizontally, giving some flexibility in how it divides a space. Six shelves across two staggered sections still add up to 12 compartments, with an anti-tip kit included and each shelf rated for 30 lbs, for 150 lbs total.\n\nWorth calling out specifically: can be installed vertically or laid horizontally. The catch is slightly lower total capacity than the Rustic Brown version.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,431",
     imageUrl: "https://m.media-amazon.com/images/I/41jJ8ERvqQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXXG3HVR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXXG3HVR?tag=workcocoon-20",
     description:
       "The Gadroad steps up in both size and strength compared to the Furologee pair, with a wider 27.6-inch footprint and shelves rated for 44 lbs each, the highest per-shelf capacity of any S-shaped divider in this guide. Engineered wood shelves sit on a metal frame in a geometric zigzag that still functions as a light-permeable room divider despite the added bulk.\n\nA clean white finish gives it a more modern, less rustic feel than the Furologee options, and it comes backed by a 1-year warranty plus round-the-clock customer service, useful reassurance for a piece meant to anchor the middle of a room.\n\nWider 27.6-inch footprint holds more per section. Set against that, larger footprint takes up more floor space than the Furologee. Both matter when comparing it to the other picks here.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "348",
     imageUrl: "https://m.media-amazon.com/images/I/51JOxRZSvmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09X2N5PXG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09X2N5PXG?tag=workcocoon-20",
     description:
       "At 79 inches, the Tribesigns is the tallest solid bookshelf in this guide, and its 8-tier staggered layout is deliberately open-backed so it functions as a room divider without fully blocking light or sightlines the way a solid wall unit would. E1 particle board shelves sit in a heavy-duty metal frame rated for 200 lbs total, and the piece ships with a wall anchor kit for extra stability given its height.\n\nIt also carries the highest customer rating in this entire guide at 4.7 stars. For anyone who wants a divider that reads more like a traditional bookshelf than a curved sculptural piece, but still lets light filter through, this is the strongest option here.\n\nA genuine advantage here is that staggered open-back design lets light pass through. The tradeoff is bulkier footprint than the S-shaped picks.",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "2,231",
     imageUrl: "https://m.media-amazon.com/images/I/51MEtLxD6kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFF2M45V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFF2M45V?tag=workcocoon-20",
     description:
       "The HSH is the tallest bookshelf in this entire guide at 84.4 inches, built around 4 metal frames with X-bracing for stability at that height. P2-grade MDF shelves are rated for a massive 220 lbs each, adding up to 1,320 lbs total, more than enough for a divider loaded with books, bins, and decor on both sides.\n\nAdjustable levelers correct for uneven flooring, and anti-tip kits keep the tall frame secured, both important details for a piece this size standing freely in the middle of a room. It also holds the highest customer rating and review count of any pick in this guide, a strong signal of reliability at scale.\n\nEnormous 1,320 lb total weight capacity. That's a real strength, but weigh it against the flip side: most expensive pick in this guide besides the widest option.",
     specs: [
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "420",
     imageUrl: "https://m.media-amazon.com/images/I/51OXUOdhrKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3J58T4N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3J58T4N?tag=workcocoon-20",
     description:
       "The IRONCK spans 70.9 inches wide, the widest single bookshelf in this guide, making it well suited to splitting a large open room in one continuous piece rather than combining smaller units. Four metal frames support the structure, and unique upright fence panels along each shelf edge stop books and decor from sliding or falling off, a detail none of the other picks here include.\n\nEach shelf is rated for 220 lbs, for 1,320 lbs total, matching the HSH's capacity while offering a much wider footprint. Two anti-toppling brackets anchor the piece for safety when placed freestanding in the middle of a room.\n\nWorth calling out specifically: unique fence panels stop items from falling off. The catch is most expensive pick in this guide.",
     specs: [
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "79",
     imageUrl: "https://m.media-amazon.com/images/I/5173Dik0hvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCGH38DZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCGH38DZ?tag=workcocoon-20",
     description:
       "The Keyluv is the only pick in this guide with 2 enclosed cabinet doors, giving it a mix of open display shelves and private, dust-free storage that the other tall bookshelves here don't offer. It's built around a notably thick 1.1-inch alloy steel frame paired with 0.6-inch particle board shelving, and the brand specifically designed it to be combined with additional units side by side to form a longer room divider.\n\nSix open tiers plus the enclosed cabinet section give 45 lbs of capacity per shelf, for 150 lbs total, and an anti-tip kit keeps the 76-inch frame stable. If you want to close off a portion of your storage while still dividing a room, this is the pick built for that specific use case.\n\nThickest 1.1-inch alloy steel frame in this guide. Set against that, smallest review count in this guide (79 ratings). Both matter when comparing it to the other picks here.",
     specs: [

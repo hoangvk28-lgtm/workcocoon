@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "2,295 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31o5C5jFQAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=workcocoon-20",
     description:
       "One of the longest-standing designs in the vertical mouse category, with a solid, consistent review rating across a meaningful sample size for a wired-only pick.\n\nEliminating battery weight entirely gives a lighter overall feel despite the premium price, and the body's angle is a fixed, well-established design rather than a newer untested one. Check the current listing for cable length before buying if your desk is unusually deep.\n\nLong-established, well-reviewed design. That's a real strength, but weigh it against the flip side: premium price for a wired-only mouse.",
     specs: ["Wired USB connection", "Fixed ergonomic tilt angle", "No battery, lighter body", "Premium price point"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A much lower price than the premium wired pick in this guide, with a genuinely solid review rating across a reasonable sample size for a budget option.\n\nAs with any wired vertical mouse, cable drag pulling the body out of its resting angle is worth checking in buyer feedback, and the cable type here is a standard rather than braided cord, which may move less freely than a braided alternative.\n\nNo battery weight. On the other hand, standard rather than braided cable, may move less freely. Both are worth keeping in mind before deciding.",
     specs: ["Wired USB connection", "6400 DPI sensor", "Standard (non-braided) cable", "Budget price point"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "9,039 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41h3oxMYtPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=workcocoon-20",
     description:
       "The largest review base of the three genuinely wired picks in this guide, at a mid-range price between the budget and premium options.\n\nNo battery weight is a genuine ergonomic upside over wireless alternatives, and the larger review sample gives a more reliable signal on real-world comfort and durability than a smaller sample would.\n\nA genuine advantage here is that no battery weight or bulk. The tradeoff is that cable drag on the tilted resting angle possible, check buyer feedback.",
     specs: ["Wired USB connection", "Ergonomic vertical design", "No battery, lighter body", "Mid-range price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "181 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ebwPVvIjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14D4P98?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D14D4P98?tag=workcocoon-20",
     description:
       "A 6-button layout gives more programmable options than most budget wired picks, at a low price with a strong 4.6-star rating, though on a smaller review sample than the more established picks in this guide.\n\nAs with any wired vertical mouse, check buyer feedback for cable stiffness and whether it interferes with the resting tilt angle during use.\n\nStrong 4.6-star rating. That said, smaller review sample than the top wired picks. Neither should be a surprise once you know to look for it.",
     specs: ["Wired USB connection", "6 programmable buttons", "Ergonomic vertical design", "Budget price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "181 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VQ8m4r1iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F4JNS3PX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F4JNS3PX?tag=workcocoon-20",
     description:
       "The lowest price in this guide for a wired vertical mouse, with adjustable DPI included even at this budget tier, useful for buyers who mainly want to try the wired vertical grip cheaply.\n\nIts 4.1-star rating is more moderate than the other picks here, so weigh the very low price against a smaller review sample and less established brand track record.\n\nWorth calling out specifically: adjustable DPI even at this price tier. The catch is more moderate 4.1-star rating than other wired picks.",
     specs: ["Wired USB connection", "Adjustable DPI", "Ergonomic vertical design", "Ultra-budget price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "247 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31fim6uc3BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0894QX7SK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0894QX7SK?tag=workcocoon-20",
     description:
       "An unusual wired pick with a built-in joystick control and 11 programmable buttons, plus a 10000 DPI sensor that far exceeds the other wired picks in this guide, though it leans more gaming-oriented than purely ergonomic.\n\nCheck the current listing for actual vertical tilt angle, since this model's ergonomic shaping is less documented than the dedicated ergonomic wired picks above.\n\nJoystick control is a genuinely unique input option. Set against that, leans more gaming-oriented than purely ergonomic. Both matter when comparing it to the other picks here.",
     specs: ["Wired USB connection", "Built-in joystick control", "11 programmable buttons", "10000 DPI sensor"],

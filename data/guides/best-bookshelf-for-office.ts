@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,298",
     imageUrl: "https://m.media-amazon.com/images/I/51P0hhxgYxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=workcocoon-20",
     description:
       "The VASAGLE Liry carries the highest total weight capacity in this list at 374.8 lbs, built from particleboard and MDF with three adjustable open shelves up top and an enclosed 2-door cabinet below for files and paperwork you'd rather keep out of view. Its cloud white and warm brown farmhouse styling looks intentional in a home office rather than purely functional.\n\nA 3.5-inch base is specifically designed to let a robot vacuum pass underneath, a small but genuinely useful detail for anyone who keeps their office floor on a cleaning schedule.\n\n2-door cabinet conceals clutter and paperwork. On the other hand, larger footprint than the narrower VASAGLE picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "6,779",
     imageUrl: "https://m.media-amazon.com/images/I/41zgzmQKuwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FR5SMRW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FR5SMRW?tag=workcocoon-20",
     description:
       "With nearly 6,800 ratings and a 4.7-star average, this is the best-selling pick in this entire list. An X-brace reinforcement keeps the wide 26-inch frame from racking under load, and a 22 lb per-shelf rating adds up to 132 lbs total across the alloy steel and particleboard build.\n\nIts industrial rustic brown and steel look suits a home office or a shared workspace equally well, and adjustable feet plus an anti-tip kit round out a build that's proven itself over thousands of reviews.\n\nX-brace reinforcement adds real rigidity. That's a real strength, but weigh it against the flip side: open-shelf design offers no concealed storage.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "2,206",
     imageUrl: "https://m.media-amazon.com/images/I/41dxHGUL7hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NDZ1119?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NDZ1119?tag=workcocoon-20",
     description:
       "This is the compact sibling of VASAGLE's wide bookcase, shrinking the footprint down to just 15.7 inches while keeping the same X-brace reinforcement and alloy steel frame. It's the pick to reach for in a small home office or a corner where the 26-inch version simply won't fit.\n\nDespite the smaller footprint, it holds up to the same 4.7-star rating as its wider counterpart, and adjustable feet plus an anti-tip kit make it just as stable.\n\nWorth calling out specifically: same trusted X-brace reinforcement as the wider model. The catch is narrower shelves hold fewer items per tier.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "2,431",
     imageUrl: "https://m.media-amazon.com/images/I/41kTT7kaFgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BFFFKXRX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BFFFKXRX?tag=workcocoon-20",
     description:
       "IRONCK's doored bookshelf pairs four open display shelves with two concealing doors at the base, giving you a dedicated place to lock away office documents and files during video calls or when clients visit. An MDF build with a tipover-resistance device keeps the tall unit steady.\n\nIndustrial vintage black styling and strengthened hardware make it the most versatile pick here for buyers who want to combine open display with genuine hidden storage in one unit.\n\nIndustrial vintage styling suits a work office. Set against that, highest price point in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "4,474",
     imageUrl: "https://m.media-amazon.com/images/I/31zcIjQrqVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LM3FMXH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LM3FMXH?tag=workcocoon-20",
     description:
       "The open version of IRONCK's bookshelf is the brand's best-selling office option, with over 4,400 ratings and a 4.6-star average. It shares the same 132 lb total capacity and strengthened screw construction as the doored version but skips the cabinet for a cleaner, more open industrial look.\n\nA tipover-resistance device is included as standard, and the vintage black finish and clean lines make it an easy match for most office decor.\n\nA genuine advantage here is that clean industrial lines suit most office styles. The tradeoff is no concealed storage, unlike the doored version.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "4,299",
     imageUrl: "https://m.media-amazon.com/images/I/41p8nGWmCmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08DR542S9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DR542S9?tag=workcocoon-20",
     description:
       "The NUMENN is the best-selling vintage-toned pick in this list, equally suited to an office or a study room, and its 4.7-star average across more than 4,000 ratings makes it one of the most trusted picks here. An X-shaped back rod removes the wobble that plagues cheaper metal-frame shelves.\n\nWaterproof and anti-scratch coatings help it survive the daily wear of an office environment, and its 150 lb total capacity across premium metal and teak particle board handles a real reference library.\n\nWaterproof and scratch-resistant finish. On the other hand, no concealed storage. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,816",
     imageUrl: "https://m.media-amazon.com/images/I/510fPP+lFkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXDP61M2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXDP61M2?tag=workcocoon-20",
     description:
       "Shintenchi rates each shelf for 40 lbs, the highest per-shelf capacity among the standard 5-tier picks in this list, for a 200 lb total. FSC-certified eco wood pairs with a metal frame and X-shaped back rod for the same anti-wobble reinforcement found on pricier office bookshelves.\n\nWaterproof and anti-scratch coatings keep it looking sharp through daily office use, and the wide 23.6-inch frame gives you more usable shelf surface for binders and reference books than the narrower picks on this list.\n\nFSC-certified eco wood. That's a real strength, but weigh it against the flip side: no concealed storage.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "582",
     imageUrl: "https://m.media-amazon.com/images/I/51rHIYOuk6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2KR6BVM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2KR6BVM?tag=workcocoon-20",
     description:
       "The only desktop-mounted pick in this list, the Tangkula hutch sits directly on your desk surface and spans over a 27-inch monitor, turning otherwise wasted vertical desk space into five shelves of storage. Anti-falling baffles and two anti-tip wall anchors keep books and folders from sliding off during use.\n\nRounded corners and an engineered wood build make it a safe, practical addition to a desk that's short on room for a full floor-standing bookcase, ideal for organizing reference books, files, and desk supplies within arm's reach.\n\nWorth calling out specifically: fits directly over a 27-inch monitor. The catch is limited to desktop use, not a floor-standing bookshelf.",
     specs: [

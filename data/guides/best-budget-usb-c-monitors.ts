@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41ye7a0oJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=workcocoon-20",
     description:
       "A genuinely solid IPS panel with a surprisingly high 120Hz refresh rate, proving budget doesn't have to mean a compromised panel type or motion smoothness.\n\nVerify the specific USB-C power delivery wattage still meets your laptop's charging needs before assuming full single-cable operation.\n\nGenuine IPS panel, not a compromised budget panel type. Set against that, verify power delivery wattage against your laptop's charging requirement. Both matter when comparing it to the other picks here.",
     specs: ["24-inch 1080p IPS panel", "120Hz refresh rate", "USB-C connectivity", "Lowest price in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41tqJnA68CL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK46JV64?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK46JV64?tag=workcocoon-20",
     description:
       "A genuine Samsung IPS panel at a compact 22-inch size and accessible price, appropriate for buyers wanting reliable brand quality without a large spend.\n\nA tilt-only stand keeps the design simple and the price low, appropriate for buyers not needing extensive ergonomic adjustability.\n\nThe standout detail is that compact footprint suits smaller desk setups. Balancing that out, tilt-only stand offers less ergonomic adjustability.",
     specs: ["22-inch IPS panel", "Tilt-only stand", "Compact footprint", "Budget-friendly price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/518zREWknqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB8HLNPN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DB8HLNPN?tag=workcocoon-20",
     description:
       "A budget-friendly curved panel with a genuinely high 120Hz refresh rate, appropriate for buyers wanting to try a curved format without a premium price commitment.\n\nAt 27 inches, verify the curvature feels meaningful to you and check the power delivery wattage against your laptop's needs.\n\n120Hz refresh rate for smoother motion. That's a real strength, but weigh it against the flip side: verify power delivery wattage against your laptop's charging requirement.",
     specs: ["27-inch curved panel", "120Hz refresh rate", "USB Type-C connectivity", "Budget-friendly price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41jwWmarZtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZ3KWC3P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZ3KWC3P?tag=workcocoon-20",
     description:
       "A gaming-focused budget variant with a genuinely fast 1ms response time alongside 120Hz refresh rate, appropriate for buyers wanting responsive gaming performance without a premium price.\n\nThis fast response time reduces motion blur during quick on-screen movement, real value for the price point.\n\n120Hz refresh rate for smooth gaming motion. On the other hand, verify power delivery wattage against your laptop's charging requirement. Both are worth keeping in mind before deciding.",
     specs: ["24-inch 1080p IPS panel", "120Hz refresh rate, 1ms response time", "USB-C connectivity", "Gaming-focused build"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41DSJsc4qKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=workcocoon-20",
     description:
       "The most premium pick in this budget guide, still meaningfully more affordable than many QHD alternatives while offering sharper resolution than the 1080p picks above.\n\nBuilt-in speakers add real value at this price point, avoiding the need for separate desk audio equipment.\n\nA genuine advantage here is that built-in speakers avoid separate audio equipment. The tradeoff is that highest price in this guide, though still budget-friendly for QHD.",
     specs: ["27-inch WQHD (2560x1440) panel", "75Hz refresh rate", "USB-C connectivity", "Built-in speakers"],

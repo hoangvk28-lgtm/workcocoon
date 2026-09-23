@@ -43,7 +43,7 @@ export const products: Budget70Headphone[] = [
     battery: "50h with Quick Charge",
     ldac: false,
     imageUrl: `${BASE}/sony-wh-ch520.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BS1PRC4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BS1PRC4L?tag=workcocoon-20",
     whyItWorks:
       "Sony brand engineering at under $60 with multipoint Bluetooth (simultaneous laptop and phone) and Quick Charge (3 min = 60 min); at 147g it is the lightest headphone in this guide; 50h battery per charge; Sony Headphones Connect app adds EQ and DSEE audio enhancement; Bluetooth 5.2; foldable; two of Sony's most valued features enter the sub-$60 bracket here",
     tradeoffs: [
@@ -75,7 +75,7 @@ export const products: Budget70Headphone[] = [
     battery: "14h per charge",
     ldac: false,
     imageUrl: `${BASE}/jabra-move-style-edition.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07MBGDZ1C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07MBGDZ1C?tag=workcocoon-20",
     whyItWorks:
       "Jabra is primarily a business audio brand; their microphone engineering is above consumer brands at this price; delivers clear noise-reduced call quality for online classes and Zoom calls; 140g with fold-flat design; includes 3.5mm AUX cable backup; USB-C charging; the best pick in this guide for anyone who spends significant time on calls",
     tradeoffs: [
@@ -106,7 +106,7 @@ export const products: Budget70Headphone[] = [
     battery: "40h (ANC on) / 60h (ANC off)",
     ldac: false,
     imageUrl: `${BASE}/soundcore-q20i.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C3HCD34R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C3HCD34R?tag=workcocoon-20",
     whyItWorks:
       "4-microphone hybrid ANC (two feedforward outside mics sample noise before it reaches the ear, two feedback mics correct residual noise inside the cup); measurably stronger ANC than single-mic systems; 40h with ANC on, 60h without; Hi-Res Audio certified; transparency mode lets you hear surroundings without removing headphones; app EQ customization; the best over-ear ANC headphone available under $70",
     tradeoffs: [
@@ -142,7 +142,7 @@ export const products: Budget70Headphone[] = [
     battery: "50h (ANC on) / 65h (ANC off)",
     ldac: true,
     imageUrl: `${BASE}/soundcore-space-q45.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B5VHRX7F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B5VHRX7F?tag=workcocoon-20",
     whyItWorks:
       "LDAC codec transmits up to 990kbps vs Bluetooth SBC's 328kbps; on an Android phone or LDAC-compatible source the Space Q45 delivers Hi-Res wireless audio quality that headphones at $100 or more with only SBC or AAC cannot match; adaptive ANC automatically adjusts based on ambient noise; 50h with ANC on; multipoint Bluetooth; MSRP about $100 but regularly drops to $57 to $75; when on sale under $70 this is exceptional value",
     tradeoffs: [
@@ -177,7 +177,7 @@ export const products: Budget70Headphone[] = [
     battery: "N/A",
     ldac: false,
     imageUrl: `${BASE}/audio-technica-ath-m30x.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00HVLUQW8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00HVLUQW8?tag=workcocoon-20",
     whyItWorks:
       "direct upgrade from ATH-M20x with improved drivers, wider frequency response, and better stereo imaging; the same professional monitor architecture used in recording studios and broadcast environments; wider soundstage and more defined instrument separation vs M20x; closed-back design provides excellent passive isolation; includes 6.3mm adapter for studio or interface use; for anyone who produces music, records audio, or listens critically at a desk",
     tradeoffs: [
@@ -208,7 +208,7 @@ export const products: Budget70Headphone[] = [
     battery: "N/A",
     ldac: false,
     imageUrl: `${BASE}/hyperx-cloud-stinger-2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B8PGDMWK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B8PGDMWK?tag=workcocoon-20",
     whyItWorks:
       "HyperX Cloud Series has a decade-long track record in gaming audio; DTS Headphone:X spatial audio delivers positional audio for games and movies; 50mm drivers produce fuller bass response than any headphone in the other categories; swivel-to-mute mic arm eliminates software muting; memory foam ear cushions; works on PC, PS5, PS4, Xbox Series, Nintendo Switch, and mobile via 3.5mm without adapters; the right single headset for students who game and study on the same setup",
     tradeoffs: [
@@ -244,7 +244,7 @@ export const products: Budget70Headphone[] = [
     battery: "30h total (8.5h earbuds + 21h case)",
     ldac: false,
     imageUrl: `${BASE}/samsung-galaxy-buds-fe.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CF7GYNW2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF7GYNW2?tag=workcocoon-20",
     whyItWorks:
       "Galaxy and Android users get seamless one-tap pairing, auto-switching between Galaxy devices (phone, tablet, laptop) without manual Bluetooth re-pairing, and Find My Mobile integration; Samsung ANC reduces low-frequency ambient noise effectively; 3-mic array with wind noise reduction for outdoor calls; MSRP $99 but frequently available at $50 to $70; only valid at sale price, verify before purchasing",
     tradeoffs: [

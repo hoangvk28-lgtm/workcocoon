@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "269 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310x3mOUwBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00F0Y3IIW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00F0Y3IIW?tag=workcocoon-20",
     description:
       "A specialist ergonomic design from a brand known for adjustable-positioning mice, with a structure that supports use by either hand rather than a fixed curve built for one hand only. Verify current ambidextrous compatibility details directly on the listing before buying, since we can't confirm every configuration detail from the title alone.\n\nAs with any ambidextrous or symmetric design, expect a somewhat less pronounced curve and thumb rest shaping than a true handed-specific mouse offers, since a symmetric shape inherently compromises on optimizing for one hand.\n\nRF wireless connectivity. Set against that, more moderate 4.1-star rating than mainstream handed-specific picks. Both matter when comparing it to the other picks here.",
     specs: ["Adjustable, symmetric-capable structure", "RF wireless connectivity", "Specialist ergonomic brand", "Premium price point"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "3.4 stars from Amazon ratings",
     reviews: "8 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310Sf1eVbUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW38N1HQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW38N1HQ?tag=workcocoon-20",
     description:
       "Explicitly labeled as an ambidextrous mouse in its own product title, with a foldable design that also lets you adjust the vertical angle, a genuinely distinct approach from the fixed-structure pick above.\n\nIts review sample is very small and the 3.4-star average is meaningfully lower than most picks across this site's vertical mouse guides, so weigh the explicit ambidextrous labeling and adjustable angle against that limited, more mixed feedback before buying.\n\nThe standout detail is that foldable design allows angle adjustment. Balancing that out, very small review sample and a meaningfully lower 3.4-star average.",
     specs: ["Explicitly labeled ambidextrous design", "Foldable, adjustable vertical angle", "Premium price point", "Small review sample"],

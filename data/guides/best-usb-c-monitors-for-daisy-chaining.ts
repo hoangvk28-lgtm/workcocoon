@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=workcocoon-20",
     description:
       "Dell's business monitor line typically documents MST support clearly, a genuine convenience for buyers specifically planning a daisy-chained multi-monitor setup.\n\nVerify current specs and reviews confirm MST support specifically, since not every port labeled DisplayPort automatically means chaining capability.\n\nA genuine advantage here is that 144Hz refresh rate alongside QHD resolution. The tradeoff is that verify MST support specifically in the current spec sheet before assuming chaining works.",
     specs: ["27-inch QHD (2560x1440) panel", "144Hz refresh rate", "USB-C with documented specs", "Verify MST support before buying"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41DSJsc4qKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=workcocoon-20",
     description:
       "A more budget-friendly QHD option appropriate for buyers building a multi-monitor chain who don't need the highest refresh rate on each linked panel.\n\nSince chained bandwidth is shared, a lower per-monitor refresh rate target can actually make more sense across a multi-monitor chain.\n\n75Hz refresh rate is a realistic target given shared chained bandwidth. That said, verify MST support specifically before buying multiple units for chaining. Neither should be a surprise once you know to look for it.",
     specs: ["27-inch WQHD (2560x1440) panel", "75Hz refresh rate", "USB-C connectivity", "Built-in speakers"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51+NCPHB1gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=workcocoon-20",
     description:
       "ProArt's professional calibration credentials matter for buyers chaining multiple monitors who need consistent color across every panel in the chain.\n\nA 24-inch 1080p resolution reduces per-monitor bandwidth demand, helpful when splitting available bandwidth across a chain.\n\nWorth calling out specifically: 1080p resolution reduces per-monitor bandwidth demand in a chain. The catch is verify MST support specifically in the current spec sheet.",
     specs: ["24-inch 1080p IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "Lower per-monitor bandwidth demand"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41ye7a0oJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=workcocoon-20",
     description:
       "A genuinely budget-friendly 24-inch panel for buyers wanting to test whether a daisy-chained setup suits their workflow before committing to pricier monitors.\n\nVerify MST support explicitly through the manual or manufacturer specs before buying multiple units expecting chaining to work.\n\n120Hz refresh rate at this price point. Set against that, verify MST support explicitly before buying multiple units. Both matter when comparing it to the other picks here.",
     specs: ["24-inch 1080p IPS panel", "120Hz refresh rate", "USB-C connectivity", "Lowest price in this guide"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=workcocoon-20",
     description:
       "A true 4K panel for buyers wanting the sharpest resolution across a chained setup, aware this puts real demand on shared chain bandwidth.\n\nBe realistic that chaining multiple 4K panels at full 120Hz simultaneously is unlikely, verify actual achievable refresh rate across your intended chain length.\n\nThe standout detail is that 99% sRGB coverage for strong color accuracy. Balancing that out, high per-monitor bandwidth demand limits realistic chain length at full spec.",
     specs: ["27-inch true 4K UHD IPS panel", "120Hz refresh rate", "99% sRGB color coverage", "High per-monitor bandwidth demand"],

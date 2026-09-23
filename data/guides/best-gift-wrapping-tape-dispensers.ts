@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41dWHpgrE+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01C5IHGJW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01C5IHGJW?tag=workcocoon-20",
     description: "Scotch Magic Tape is our overall pick in this lineup. Rolls of scotch magic tape with dispenser mends rips and tears acquired during the holidays securely, permanently and invisibly. Use this office tape for permanent, secure paper mending, including mounting, quick fixes, project additions and repairing items like textbooks, library pages, arts and crafts projects or study materials.\n\nTape ZOOMIE, Original Viral Desktop Tape Dispenser for Gift Wrapping & Crafts is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis makes sense for anyone who want the strongest all-around pick in this comparison and would rather not keep shopping around. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Invisible tape", "Use this office tape for permanent"],
     pros: ["Invisible tape", "Use this office tape for permanent", "Straightforward setup based on the listed specs"],
@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41zLqKqbp8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC9QKBZ3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC9QKBZ3?tag=workcocoon-20",
     description: "Tape ZOOMIE, Original Viral Desktop Tape Dispenser for Gift Wrapping & Crafts is a strong alternative worth comparing directly against the top pick. Viral & time-saving gadget making waves on tiktok. Stress-free wrapping whether it’s christmas, birthdays, or mother's day, wrapping just a few times a year can still be frustrating.\n\nAgainst Scotch Magic Tape, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Viral & time-saving gadget making waves on tiktok", "Stress-free wrapping whether it’s christmas", "Compact & blade-free engineered for ease and safety"],
     pros: ["Viral & time-saving gadget making waves on tiktok", "Stress-free wrapping whether it’s christmas", "Compact & blade-free engineered for ease and safety", "Great for all tape types use standard tape"],
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41P-LoXd1LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07DGVNNT9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07DGVNNT9?tag=workcocoon-20",
     description: "Scotch Gift Wrap Tape is a strong alternative worth comparing directly against the top pick. With a unique satin finish scotch gift-wrap tape disappears on most wrapping papers. Your wrapped gift will be polished and ready to give no matter the occasion.\n\nNever be lost without tape while holiday wrapping, which is the main thing that distinguishes this pick from Scotch Magic Tape.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Unique satin finish scotch gift-wrap tape disappears on most wrapping papers", "Your wrapped gift will be polished and ready to give no matter the occasion", "Never be lost without tape while holiday wrapping"],
     pros: ["Unique satin finish scotch gift-wrap tape disappears on most wrapping papers", "Your wrapped gift will be polished and ready to give no matter the occasion", "Never be lost without tape while holiday wrapping", "Simply refill the dispenser with more scotch brand tape to keep creating"],
@@ -74,7 +74,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41m-2BamWzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07YNHMM7R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07YNHMM7R?tag=workcocoon-20",
     description: "Scotch Desktop Tape Dispenser is a strong alternative worth comparing directly against the top pick. Clips to surfaces up to 1.25\" thick. 360-Degree horizontal rotation.\n\nScotch Magic Tape lands in a similar spot overall, but the deciding factor between the two is 180-Degree vertical rotation.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Clips to surfaces up to 1.25\" thick", "360-Degree horizontal rotation", "180-Degree vertical rotation"],
     pros: ["Clips to surfaces up to 1.25\" thick", "360-Degree horizontal rotation", "180-Degree vertical rotation", "Clips to tables, desks, monitor stands, cubicle walls, etc"],
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41gh7ZAWRfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B000Y52D5G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000Y52D5G?tag=workcocoon-20",
     description: "Scotch Magic Tape with Scotch Desktop Dispenser is a strong alternative worth comparing directly against the top pick. Rolls of scotch magic tape and tape dispenser mends rips and tears acquired during the holidays securely, permanently and invisibly. Clear tape that gives you a strong, secure and permanent seal using trusted 3m adhesive technology.\n\nScotch Magic Tape is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Bonds securely", "Matte finish and invisible", "Refill tape"],
     pros: ["Bonds securely", "Matte finish and invisible", "Refill tape", "Additional benefits"],
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/51o8ujCVuBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH5HF9S2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH5HF9S2?tag=workcocoon-20",
     description: "Fast Tape Dispenser for Crafts & Gift Wrapping is a strong alternative worth comparing directly against the top pick. This fast tape dispenser can produce 18 strips of tape in just a few seconds. Featuring an innovative blade-free design, it eliminates the safety hazards caused by the sharp blades of traditional tape cutters.\n\nScotch Magic Tape is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Fast tape dispenser can produce 18 strips of tape in just a few seconds", "Blade-free design for safe use", "Wide compatibility with multiple tapes"],
     pros: ["Fast tape dispenser can produce 18 strips of tape in just a few seconds", "Blade-free design for safe use", "Wide compatibility with multiple tapes", "Compact and portable, space-saving"],

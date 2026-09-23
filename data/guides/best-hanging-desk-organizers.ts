@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "491",
     imageUrl: "https://m.media-amazon.com/images/I/51NHUcgYmoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=workcocoon-20",
     description:
       "Honesty note: this is a wall-mounted organizer, requiring drilling into drywall or a stud, not a desk-edge clamp. Its adjustable 5-tier metal design carries the highest rating in this comparison, well-suited for a genuinely substantial hanging file collection above your desk.\\n\\nEach tier is independently adjustable, letting you customize spacing for different folder or mail sizes rather than accepting a fixed-height layout.\n\nIt leads this comparison mainly on rated capacity and build reinforcement for a genuinely loaded file collection, worth weighing directly against the Kuntine.B Wall File Organizer Office Hanging Magazine Holder.\n\nAdjustable tier spacing. That's a real strength, but weigh it against the flip side: requires drilling, not a no-drill desk clamp.",
     specs: ["Wall-mounted, requires drilling","5 adjustable tiers","Metal construction","Highest rating in this comparison"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "415",
     imageUrl: "https://m.media-amazon.com/images/I/61LUc7Gy89L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNT2HNS1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNT2HNS1?tag=workcocoon-20",
     description:
       "Honesty note: also wall-mounted, not desk-clamped. This is the most affordable well-reviewed pick in this comparison, doubling as a magazine holder alongside standard file storage, useful for mixed document and periodical organization.\n\nSet against the Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: doubles as magazine storage. The catch is requires drilling.",
     specs: ["Wall-mounted, requires drilling","Doubles as magazine holder","Compact profile","Affordable"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "366",
     imageUrl: "https://m.media-amazon.com/images/I/51jmG3xLXjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=workcocoon-20",
     description:
       "This wall-mounted 5-tier organizer adds 5 hooks for hanging keys, small tools, or a lanyard alongside its file storage, a genuine multi-purpose addition beyond pure document organization at the lowest price of the 5-tier options here.\n\nRelative to the Kuntine.B Wall File Organizer Office Hanging Magazine Holder, this pick leans toward a different priority, whether that's a lower price, a different attachment method, or a finish suited to a different space.\n\nHooks add genuine multi-purpose utility. Set against that, requires drilling. Both matter when comparing it to the other picks here.",
     specs: ["Wall-mounted, requires drilling","5 tiers plus 5 hooks","Multi-purpose hanging points","Lowest price of the 5-tier picks"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "280",
     imageUrl: "https://m.media-amazon.com/images/I/51XpqFad+GL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=workcocoon-20",
     description:
       "This 7-tier mesh design offers the highest tier count in this comparison, though the accessibility tradeoff of a taller vertical design means top and bottom tiers require more reach than a compact 3-4 tier alternative.\n\nCompared with the JMHUD 5 above, this pick trades some of that pick's capacity or adjustability for a different balance of price and mounting simplicity, worth weighing against your own wall or desk situation.\n\nAffordable for the capacity. That's a real strength, but weigh it against the flip side: requires drilling.",
     specs: ["Wall-mounted mesh design","7 vertical tiers","Metal wire construction","Affordable"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "199",
     imageUrl: "https://m.media-amazon.com/images/I/51Z7iBgMAJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0856Y4YZD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0856Y4YZD?tag=workcocoon-20",
     description:
       "This is a genuinely different product type: a freestanding desktop organizer that sits on your desk surface rather than hanging from a wall or desk edge, with an internal hanging-file compartment built into its structure. Choose this if you'd rather not drill or clamp anything.\n\nSet against the Simple Trending Wall File Organizer, the tradeoff here comes down to mounting method and tier count versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: genuine hanging-file compartment built in. The catch is consumes desk surface footprint, unlike wall or under-desk mounts.",
     specs: ["Freestanding desktop design, no mounting required","4 compartments with hanging file storage","Letter size compatible","No-drill, no-clamp"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "405",
     imageUrl: "https://m.media-amazon.com/images/I/51Cr5PIjCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=workcocoon-20",
     description:
       "This is the genuine under-desk or desk-edge hanging organizer in this comparison, with 3 vertical mesh trays that hang from a desk edge without drilling into a wall. It's the most premium-priced pick here, reflecting Safco's established office furniture brand positioning.\n\nRelative to the Mind Reader Desktop Organizer with Hanging File Storage, this pick leans toward a different priority, whether that's a lower price, a different attachment method, or a finish suited to a different space.\n\nEstablished brand with solid reviews. Set against that, most expensive pick in this comparison. Both matter when comparing it to the other picks here.",
     specs: ["Desk-edge hanging, no drilling","3 vertical mesh trays","Established Safco brand","Wire mesh construction"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "54",
     imageUrl: "https://m.media-amazon.com/images/I/51YaIGrGE4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQ8CP4RC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQ8CP4RC?tag=workcocoon-20",
     description:
       "This slides onto the underside of your desk without tools, a genuine no-drill, no-clamp attachment method distinct from both the wall-mounted picks and the Safco hanging trays above, though its small review count means less proven long-term reliability.\n\nCompared with the Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays above, this pick trades some of that pick's capacity or adjustability for a different balance of price and mounting simplicity, worth weighing against your own wall or desk situation.\n\nGenuine under-desk mounting. That's a real strength, but weigh it against the flip side: small review count limits confidence.",
     specs: ["Slide-on under-desk attachment, no tools","File organizer plus general storage","Compact under-desk profile","No drilling required"],

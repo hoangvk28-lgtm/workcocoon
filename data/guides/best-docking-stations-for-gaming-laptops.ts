@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21XHCPikLOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKB3GQBM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKB3GQBM?tag=workcocoon-20",
     description:
       "Razer built this dock specifically around gaming hardware, and it shows in the dual 4K 120Hz display support, well ahead of the 60Hz ceiling on most productivity docks and genuinely useful for a gaming laptop's higher refresh rate panel. Fourteen ports cover Type-C, Type-A, HDMI, DP, Ethernet, SD, and a 3.5mm jack in one durable, lightweight housing.\n\nEven so, this dock cannot replace a gaming laptop's original charger during actual gameplay. Most gaming laptops ship with 130-230W chargers, and this dock's charging output, like every dock in this list, falls short of that, so the practical use case is desk productivity with the original charger swapped back in before a serious gaming session.\n\nWidest port selection at 14 total. That said, still cannot replace a 130-230W gaming laptop charger during gameplay. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31hyr0S1C9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTSZC5Y7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTSZC5Y7?tag=workcocoon-20",
     description:
       "The DL7400's triple 4K 60Hz output relies on DisplayLink rather than the laptop's native GPU output alone, which is worth understanding on a gaming laptop. Older gaming laptops without GPU-switching support route external displays through the integrated graphics chip, so display performance through a dock is bottlenecked by that chip's bandwidth regardless of how powerful the discrete GPU inside the laptop is.\n\nA built-in cooling fan is a genuinely useful detail for a 140W-rated dock that may run warm under sustained desk use, and the Smart Display shows real-time connection status. As with every dock here, treat its 140W max as a productivity-charging spec, not a gameplay-session replacement for the laptop's original charger.\n\nWorth calling out specifically: cooling fan helps with sustained desk sessions. The catch is display performance still bottlenecked by integrated graphics on laptops without GPU-switching support.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=workcocoon-20",
     description:
       "This dock is genuinely Thunderbolt certified, a meaningful distinction for gaming laptops that also want to run an eGPU, since an eGPU must connect directly to the laptop's Thunderbolt port rather than through a dock. The correct setup on a dual-Thunderbolt-port gaming laptop is the eGPU plugged into one Thunderbolt port and this dock into the second, never both devices chained through the same port.\n\nOne hundred watts of driverless charging is solid for general productivity but well under what a gaming laptop's stock charger delivers, so plan to swap back to the original charger before extended gaming. Six USB ports, SD, and Ethernet round out a clean, certified Thunderbolt package.\n\nCorrect complement to a direct-connected eGPU on a second Thunderbolt port. Set against that, cannot be used to connect an eGPU itself; eGPUs must go direct to the laptop. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Gpx+DZnSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FFS34WRY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFS34WRY?tag=workcocoon-20",
     description:
       "WAVLINK's 13-in-1 layout supports dual 5K or 4K displays at 60Hz through a DisplayLink chipset, giving a gaming laptop real dual-monitor capability for desk work at a lower price than the Thunderbolt-class picks above. One hundred thirty watts of PD charging is respectable, though it's still far below the 130-230W most gaming laptop chargers deliver during actual gameplay.\n\nBecause display output routes through DisplayLink rather than the laptop's discrete GPU, expect desktop productivity performance rather than gaming-grade frame rates on the external monitors. Five USB ports and Gigabit Ethernet make it a well-rounded, work-focused hub for a gaming laptop that spends most of its time at a desk.\n\nThe standout detail is that 130W PD is a reasonable middle ground for productivity charging. Balancing that out, displayLink-routed output is not suited to gaming-grade frame rates.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/416CtEXAO2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9NQGRR3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9NQGRR3?tag=workcocoon-20",
     description:
       "Eighteen total ports and triple 4K display support make this the widest port selection in this list at its price point, useful for a gaming laptop desk setup with a keyboard, mouse, headset, and multiple monitors all plugged in at once. A 150W power adapter is the second-highest charging spec here, behind only the Anker Prime DL7400.\n\nHigh USB port counts on a dock can create a different problem during actual gaming sessions: heavy PCIe traffic from the laptop under load can compete with the same USB controller handling a headset or controller, occasionally causing brief audio or input dropouts. If that happens, plug game-critical peripherals directly into the laptop's own USB-A ports rather than through this hub, and reserve the dock for non-latency-critical devices.\n\nTriple 4K display support. That's a real strength, but weigh it against the flip side: high USB load under gaming PCIe traffic can cause peripheral dropouts.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41VyJOXfkbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H2YRP5FS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H2YRP5FS?tag=workcocoon-20",
     description:
       "at a budget-friendly price, this is by far the most affordable way to add triple-monitor output to a gaming laptop desk setup, with 3 HDMI and 2 DP ports plus a built-in smart display showing connection status. One hundred watts of PD charging is a reasonable productivity spec for the price, well below what any gaming laptop's stock charger delivers. As a budget pick, its display output is not tuned for gaming-grade refresh rates the way the Razer USB4 Dock's 4K 120Hz spec is, so treat this as a desk-productivity triple-monitor hub rather than a gaming display solution. Gigabit Ethernet and 10Gbps USB A/C ports round out a genuinely well-specced budget option. Smart display adds at-a-glance status. On the other hand, display output not tuned for gaming-grade refresh rates. Both are worth keeping in mind before deciding.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41iZIRUZlQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GKP61LKH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GKP61LKH?tag=workcocoon-20",
     description:
       "Selore's triple-display dock closely mirrors the MOKiN pick above at a slightly lower price, with the same 3 HDMI plus 2 DP layout, 100W PD, and a built-in smart display showing weather and connection status. It gives budget-focused gaming laptop buyers a second option to compare directly.\n\nThe same power delivery reality applies here as with every dock in this list: 100W covers desk productivity charging comfortably but is not a substitute for the laptop's original 130-230W charger during a real gaming session. Gigabit Ethernet and an SD/microSD reader complete a well-rounded budget package.\n\nA genuine advantage here is that smart display shows weather and connection status. The tradeoff is that same power delivery gap as every other pick, not a charger replacement for gaming.",
     specs: [

@@ -38,7 +38,7 @@ export const products: MultiDrawerCabinet[] = [
     drawers: "3 Drawers + Open Shelves",
     rating: "4.1 stars, 2,800+ reviews",
     imageUrl: `${BASE}/devaise-3-drawer-mobile-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE is the most trusted pick in this roundup by a significant margin. With more than 2,800 reviews at 4.1 stars, it has the most validated real-world usage data of any multi-drawer wood-look file cabinet in this format. This is a 3-drawer mobile unit, not a traditional vertical filing cabinet. It sits at desk height on wheels and includes open shelves in addition to the file drawers. The top surface is explicitly positioned as a printer stand. The rustic brown finish with black metal accents follows the farmhouse-industrial style common in the wood-and-metal home office category. Under $100 is excellent value for this feature set.",
     tradeoffs: [
@@ -71,7 +71,7 @@ export const products: MultiDrawerCabinet[] = [
     drawers: "3 Drawers",
     rating: "Check Amazon",
     imageUrl: `${BASE}/vasagle-3-drawer-honey-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=workcocoon-20",
     whyItWorks:
       "The VASAGLE in Honey Brown and Black brings a lighter, warmer farmhouse tone that pairs well with light wood desks, natural oak furniture, and mixed wood-and-metal setups. VASAGLE is a recognized brand in the home office furniture space with a large catalog of well-reviewed wood-and-metal style products. The honey brown plus ink black combination is versatile for farmhouse and Scandinavian-adjacent home offices. Verify the drawer count (2-drawer or 3-drawer) and current price and rating on the Amazon listing before ordering.",
     tradeoffs: [
@@ -102,7 +102,7 @@ export const products: MultiDrawerCabinet[] = [
     drawers: "4 Drawers",
     rating: "4.0 stars, 465 reviews",
     imageUrl: `${BASE}/sauder-clifford-place-4-drawer-grand-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07C659WC3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07C659WC3?tag=workcocoon-20",
     whyItWorks:
       "The Sauder Clifford Place is the only clearly verified 4-drawer vertical cabinet in this roundup with a meaningful review count. At 465 reviews and 4.0 stars, it is the strongest traditional 4-drawer pick available from a recognized brand in the wood-look file cabinet space. The Grand Walnut finish is a dark, warm brown that reads as traditional home office furniture. It suits traditional home offices with dark wood desks, bookshelves, and classic furniture. A 4-drawer vertical cabinet at 50-plus inches provides significant filing capacity for growing document collections.",
     tradeoffs: [
@@ -137,7 +137,7 @@ export const backupProducts: MultiDrawerCabinet[] = [
     drawers: "4 Drawers",
     rating: "4.3 stars, 32 reviews",
     imageUrl: `${BASE}/modernmate-4-drawer-walnut-power-strip.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F29HRN9M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F29HRN9M?tag=workcocoon-20",
     whyItWorks:
       "The ModernMate is included as a backup pick for one specific feature: a built-in power strip integrated into the cabinet. This is the only 4-drawer wood-look cabinet in this list with that capability. However, 32 reviews is insufficient for confident recommendation as a primary pick. Verify current listing for power strip configuration before purchasing.",
     tradeoffs: [
@@ -158,7 +158,7 @@ export const backupProducts: MultiDrawerCabinet[] = [
     drawers: "4 Drawers",
     rating: "4.3 stars, 8 reviews",
     imageUrl: `${BASE}/tribesigns-4-drawer-dark-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G23FCHMG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G23FCHMG?tag=workcocoon-20",
     whyItWorks:
       "Eight reviews is not enough data to recommend this product with confidence. It is included as a backup option for buyers who specifically want a 4-drawer dark walnut vertical cabinet at $219.99 and are comfortable with very limited review validation.",
     tradeoffs: [

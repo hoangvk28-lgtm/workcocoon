@@ -42,7 +42,7 @@ export const products: WirelessProduct[] = [
     price: "~$35-100",
     priceRange: "~$35--100",
     imageUrl: `${BASE}/01-anker-magsafe-3in1-qi2-15w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CF56WHV4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF56WHV4?tag=workcocoon-20",
     whyItWins: "The Anker MagSafe 3-in-1 Qi2 is the best all-round wireless desk charger for Apple households at any price. One compact stand charges your iPhone at 15W via Qi2 magnetic alignment, your Apple Watch on a side puck, and your AirPods on a Qi pad at the base -- simultaneously, from a single USB-C cable.",
     bodyParagraphs: [
       "The stand footprint is roughly 10 x 8 cm. Your phone snaps to the MagSafe pad, stands upright and readable while charging, and stays there. No off-center charging, no cable knocking the phone sideways.",
@@ -81,7 +81,7 @@ export const products: WirelessProduct[] = [
     price: "~$79-119",
     priceRange: "~$79--119",
     imageUrl: `${BASE}/02-belkin-boostcharge-pro-3in1-qi2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CYDDTB8W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYDDTB8W?tag=workcocoon-20",
     whyItWins: "The Belkin BoostCharge Pro is the premium-tier 3-in-1 for desks where the charger is always visible and aesthetics matter. The weighted base does not move when you pick up your phone one-handed -- a detail budget 3-in-1 stands consistently fail at. The adjustable tilt on the iPhone pad lets you set the angle for your line of sight, whether you watch the screen at eye level or need it angled slightly downward.",
     bodyParagraphs: [
       "Belkin's build quality is the differentiator. The cable exits cleanly from the back rather than draping forward. The Watch charging puck retracts neatly when not in use. The overall unit looks intentional on a desk rather than like a $20 phone stand with charging bolted on.",
@@ -121,7 +121,7 @@ export const products: WirelessProduct[] = [
     price: "~$25-45",
     priceRange: "~$25--45",
     imageUrl: `${BASE}/03-lisen-qi2-3in1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D6RJ7XKC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D6RJ7XKC?tag=workcocoon-20",
     whyItWins: "The LISEN Qi2 3-in-1 punches above its price point on two specific desk-friendly details: the metal construction adds enough weight that it stays put on smooth desk surfaces, and the Watch charging puck retracts into the main body when not in use. That second feature -- a retractable Watch charger -- is surprisingly rare, and it makes a genuine difference in how clean the unit looks when you are not actively charging your watch.",
     bodyParagraphs: [
       "The Qi2 certification means iPhones charge at the full 15W with magnetic alignment. Android Qi2 phones get the same 15W treatment. The Apple-inspired silver-and-black metal design reads as a premium accessory at a non-premium price.",
@@ -160,7 +160,7 @@ export const products: WirelessProduct[] = [
     price: "~$20-28",
     priceRange: "~$20--28",
     imageUrl: `${BASE}/04-anker-maggo-qi2-pad-flat.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CMH2JVMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMH2JVMM?tag=workcocoon-20",
     whyItWins: "Sometimes a wireless charger on a desk just needs to do one thing cleanly: charge a phone when it is set face-down or flat. No stand arm, no watch puck, no stack of charging zones -- just a flat pad with magnetic alignment that your phone snaps onto automatically.",
     bodyParagraphs: [
       "The Anker MagGo Qi2 Pad delivers exactly this. Qi2 certification means the full 15W on any Qi2 phone. The magnetic ring centers the phone every time -- no guessing where the sweet spot is. The rubberized base keeps the pad from sliding across desk surfaces.",
@@ -200,7 +200,7 @@ export const products: WirelessProduct[] = [
     price: "~$104-130",
     priceRange: "~$104--130",
     imageUrl: `${BASE}/05-journey-alti-qi2-desk-mat.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BJKHBB82?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BJKHBB82?tag=workcocoon-20",
     whyItWins: "The Journey ALTI approaches wireless desk charging from the opposite end of the spectrum: instead of a standalone unit, it integrates a Qi2 charging zone into a full-size desk mat. The mat covers 68 x 37 cm of desk surface. The charging panel along one edge delivers 15W MagSafe/Qi2 for an iPhone and 5W for AirPods. Your phone does not sit on a pad -- it charges through the mat surface.",
     bodyParagraphs: [
       "The result is a desk with no standalone charging unit at all. The charger is invisible unless you look for it.",
@@ -242,7 +242,7 @@ export const products: WirelessProduct[] = [
     price: "Under $15",
     priceRange: "Under $15",
     imageUrl: `${BASE}/06-anker-313-wireless-pad-budget.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B081TLFTL8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B081TLFTL8?tag=workcocoon-20",
     whyItWins: "Not every desk needs 15W Qi2. If you charge overnight, top up during lunch, or just want a wireless pad as a convenience addition to a wired charging setup, an entry-level Qi pad under $15 does the job. The Anker 313 charges Qi-enabled phones at 5--10W, has a rubberized pad to prevent sliding, and a status LED. That is everything a budget wireless desk charger needs to be.",
     bodyParagraphs: [
       "The charging speed difference from Qi (5--10W) to Qi2 (15W) matters most for short charging windows -- 20-minute meetings, half-hour lunch breaks. If you charge for an hour or more at a stretch, the gap narrows significantly.",

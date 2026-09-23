@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "762",
     imageUrl: "https://m.media-amazon.com/images/I/41C-eWZ9gfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=workcocoon-20",
     description:
       "This holder's large diameter cavity is explicitly built for oversized tumblers, comfortably fitting most Yeti and Stanley coffee tumblers alongside a standard ceramic mug. The staining risk of a coffee spill onto a desk or carpet makes its deep, form-fitting cavity a genuine practical benefit over a shallow ring.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the OOKUU Deeper Desk Cup Holder.\n\nWorth knowing before you decide: Strong tip resistance reduces staining risk. On the other side, Bulkier than compact clip designs. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Large-diameter cavity, fits oversized tumblers","Deep form-fitting cavity","Metal clamp construction","No-drill attachment"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "324",
     imageUrl: "https://m.media-amazon.com/images/I/31kr6fpVxgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=workcocoon-20",
     description:
       "Many popular coffee tumblers, including tall Yeti and Stanley models, are taller than a standard mug, and this deeper cavity variant provides extra containment for that added height, better resisting tip-over from an incidental bump.\n\nSet against the OOKUU Upgraded Large Desk Cup Holder Clamp, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Proven OOKUU brand quality. On the other side, Higher price than the standard-depth version. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Deeper cup cavity for tall tumblers","Metal clamp construction","No-drill attachment","Fits Yeti/Stanley-style tumblers"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "171",
     imageUrl: "https://m.media-amazon.com/images/I/314m46JYkhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=workcocoon-20",
     description:
       "This large-diameter holder accommodates most standard ceramic mugs and mid-size coffee tumblers, carrying the highest rating in this comparison at a lower price than the metal OOKUU picks.\n\nRelative to the OOKUU Deeper Desk Cup Holder, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Fits most standard mugs and mid-size tumblers. On the other side, May not fit the widest oversized tumbler brands. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Large-diameter reinforced cavity","Heavy-duty reinforced plastic","Universal desk-edge fit","No-drill attachment"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,510",
     imageUrl: "https://m.media-amazon.com/images/I/31XgT+O+XQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=workcocoon-20",
     description:
       "This holder's covered cavity handles a coffee mug or tumbler securely while the integrated headphone hanger gives you a place to hang your headset during a coffee break away from your desk, a genuinely useful pairing for a work-from-home coffee routine.\n\nCompared with the Universal Large Desk Cup Holder Clamp above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Headphone hanger useful for coffee break routines. On the other side, Higher price than single-function holders. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Covered cavity, fits mugs and tumblers","Integrated headphone hanger","Strong review history","White finish"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "70",
     imageUrl: "https://m.media-amazon.com/images/I/61tWyW9bgvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=workcocoon-20",
     description:
       "This budget clip's fully covered cavity handles a standard coffee mug securely at the lowest price in this comparison, appropriate if you don't need oversized tumbler compatibility.\n\nSet against the GUNKING Luxury 2, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Covered cavity for spill resistance. On the other side, May not fit oversized coffee tumbler brands. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Fully covered cavity","Clip-on attachment","Compact footprint","Lowest price here"],

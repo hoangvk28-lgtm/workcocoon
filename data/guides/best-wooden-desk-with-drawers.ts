@@ -39,7 +39,7 @@ export const products: WoodenDeskWithDrawers[] = [
     material: "Solid parawood (rubberwood)",
     price: "~$150",
     imageUrl: `${BASE}/02-minimalist_scandinavian_home_office_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00GILGGPI?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00GILGGPI?tag=workcocoon-20",
     whyItWorks:
       "IC International Concepts is one of the few brands on Amazon that builds its entire product line from genuine solid hardwood. The writing desk with drawer uses solid parawood (rubberwood) construction - not a solid wood frame hiding MDF drawer internals. The drawer uses wooden runners in the IC tradition - a traditional construction that works smoothly when properly waxed and is entirely consistent with quality solid wood furniture. IC's design philosophy is restrained: clean lines, natural wood finish, no decorative hardware that dates the piece.",
     tradeoffs: [
@@ -72,7 +72,7 @@ export const products: WoodenDeskWithDrawers[] = [
     material: "Solid parawood (rubberwood), butcher block surface",
     price: "Check current availability",
     imageUrl: `${BASE}/03-minimalist_home_office_design_in_daylight.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0029LHTY8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0029LHTY8?tag=workcocoon-20",
     whyItWorks:
       "The second IC International Concepts entry uses the same solid parawood construction but with a butcher-block surface treatment: visible strips of solid wood running across the full top, bonded edge-to-edge. This is the opposite of veneer - the top surface is solid wood grain all the way through, not a thin facing over engineered board. The butcher-block surface makes this desk more visually distinctive. The listing explicitly states Solid Real Wood and solid hardwood throughout.",
     tradeoffs: [
@@ -105,7 +105,7 @@ export const products: WoodenDeskWithDrawers[] = [
     material: "Solid wood",
     price: "Check current availability",
     imageUrl: `${BASE}/04-cozy_minimalist_home_office_scene.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CT3F17HD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT3F17HD?tag=workcocoon-20",
     whyItWorks:
       "The Vista model from International Concepts is the most storage-capable desk from this brand. Two drawers give the minimum storage needed to keep a home office surface clear: one drawer for stationery and accessories, one for documents or files. As with all IC products, the solid wood commitment applies across the construction. Two-drawer desks in genuine solid wood are uncommon at non-premium pricing - most competitive options at this level use solid wood for the visible frame while cutting costs on the drawer boxes.",
     tradeoffs: [
@@ -137,7 +137,7 @@ export const products: WoodenDeskWithDrawers[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/05-cozy_home_office_corner_with_warm_accents.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJ261M77?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJ261M77?tag=workcocoon-20",
     whyItWorks:
       "The Cttasty solid wood computer desk brings modern desk proportions - wider surface, more drawer storage - to the solid wood category. The construction uses solid wood framing described consistently as solid wood rather than engineered alternatives. For a home office that needs both surface area and multiple storage options, the Cttasty line offers a contemporary aesthetic that IC's more traditional designs don't provide.",
     tradeoffs: [
@@ -167,7 +167,7 @@ export const products: WoodenDeskWithDrawers[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/06-cozy_minimalist_home_office_nook.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CYGTHXWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYGTHXWS?tag=workcocoon-20",
     whyItWorks:
       "The compact Cttasty writing desk variant offers solid wood construction in a smaller footprint. For home offices where surface space is limited - a bedroom desk, a spare room setup, a corner workspace - this delivers drawer storage without requiring the full width of larger models. The writing desk proportions suit users who primarily write or work on a laptop rather than users with a monitor and full peripherals setup.",
     tradeoffs: [
@@ -197,7 +197,7 @@ export const products: WoodenDeskWithDrawers[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/07-cozy_scandinavian_home_office_space.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G2QJ1GMS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2QJ1GMS?tag=workcocoon-20",
     whyItWorks:
       "Votred's solid wood desk takes a minimalist approach: clean lines, solid wood construction, single centered drawer. For users who want a desk that looks uncluttered and stores the minimum essentials - cables, notepad, pen - without the visual weight of multiple drawers and hardware, this is the most restrained option on this list. Single-drawer desks work well in spaces where the desk is visible from multiple angles, such as a living room workspace or bedroom setup.",
     tradeoffs: [
@@ -226,7 +226,7 @@ export const products: WoodenDeskWithDrawers[] = [
     material: "Solid wood",
     price: "Check current price",
     imageUrl: `${BASE}/08-cozy_minimalist_home_office_space.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G64NGRW3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G64NGRW3?tag=workcocoon-20",
     whyItWorks:
       "SanaForm's desk brings contemporary styling to the solid wood with drawers category. The construction uses solid wood framing with a modern finish approach - closer to furniture-store aesthetics than traditional unfinished solid wood. For users who want solid wood material quality but prefer a modern look over IC's traditional minimalism, SanaForm offers an alternative aesthetic without switching to engineered wood.",
     tradeoffs: [

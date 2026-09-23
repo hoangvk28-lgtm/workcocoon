@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "This is a true dedicated monochrome laser engine, and the strongest overall pick here for a home office with real, regular document volume. The drum and toner unit are separate consumables on this model rather than integrated, which keeps replacement costs lower over time since a worn drum doesn't force a full toner swap and vice versa.\n\nLike most laser printers, it ships with a starter toner cartridge rated for meaningfully fewer pages than a full-yield replacement, commonly in the 700-1,000 page range versus roughly 3,000 for a full cartridge, so budget for that first replacement sooner than the box implies. Third-party toner compatibility with Brother printers is generally good, giving you a lower-cost refill path once the starter runs out.\n\nGood third-party toner compatibility. That's a real strength, but weigh it against the flip side: starter toner yields far fewer pages than a full cartridge.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/316tpuWileL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=workcocoon-20",
     description:
       "The lowest-priced true laser printer in this list, the LaserJet M209d is a wired-only monochrome laser with automatic duplex printing. HP has a documented history of restricting third-party and non-HP toner via firmware updates on some models, so budget for genuine HP toner or verify compatibility of any third-party cartridge before relying on it as a cost-saving plan.\n\nCold-start warm-up runs roughly 10-15 seconds, faster if it's only waking from sleep mode rather than a full cold start, a real time saver for a home office printing quick one-off pages throughout the day. Being wired-only removes wifi dropout as a failure point entirely, a tradeoff some home offices will prefer.\n\nWorth calling out specifically: no wifi dropout risk, wired only. The catch is hP has restricted third-party toner via firmware on some models.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "Worth flagging clearly: this is a color laser printer, not a monochrome-only model, and it costs more to run than a true mono laser if you're printing mostly black and white, since it holds four toner cartridges instead of one. In B&W mode it still delivers the same crisp, fused-toner text quality as any laser in this list.\n\nBrother's third-party toner tolerance is generally good, which helps offset the higher cost of maintaining four toner colors instead of one. Choose this over the dedicated mono picks above only if you'll actually use the color capability with some regularity; otherwise the Brother DCP-L2640DW is the more cost-effective choice for a mostly-mono home office.\n\nColor available for occasional use. Set against that, not a true monochrome-only laser, costs more to run for mostly-B&W use. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "Another color laser, not a monochrome-only model, and clearly the most expensive pick in this list, aimed at a home office with real all-in-one needs, an auto document feeder, fax, and 35ppm speed, alongside occasional color. Canon's third-party toner tolerance runs mixed rather than consistently good or bad, so check compatibility of any specific third-party cartridge before buying in bulk.\n\nThe drum unit and toner cartridges are handled separately on this model, which is the better long-term cost structure versus an integrated design where a worn drum forces a full replacement of everything. For a home office genuinely printing mostly black and white text, this is more machine and more cost than necessary; the Brother DCP-L2640DW does that specific job for less than half the price.\n\nA genuine advantage here is that full all-in-one feature set with ADF and fax. The tradeoff is highest price in this list by a wide margin.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MCIwNDseL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFLM562?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFLM562?tag=workcocoon-20",
     description:
       "Flagging this honestly upfront: this is a color inkjet, not a laser printer, and none of this guide's laser-specific advice, on toner cost, drum life, or warm-up time, applies to it. It shows up in monochrome laser printer searches because of its Best-for-Office positioning and duplex printing, but it uses ink cartridges, not toner.\n\nIt's included as an alternative for a home office that wants an auto document feeder and fax alongside decent grayscale output, and doesn't need laser's cost-per-page advantage at their actual print volume. If your office prints text-heavy documents at real volume, a true laser pick above will beat this on both text sharpness and long-term cost.\n\nNo ozone emission concern, unlike laser. That's a real strength, but weigh it against the flip side: not a laser printer, none of this guide's toner-cost math applies.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "Another honest flag: despite the Brother name and higher price point, this is a color inkjet with high-capacity INKvestment cartridges, not a laser printer, and it doesn't share the ozone, drum-unit, or toner-yield considerations this guide is built around. It uses ink, not toner.\n\nIt's a reasonable non-laser option for a home office that wants fewer cartridge replacements and a color touchscreen, without the upfront cost of a color laser. If your home office is specifically shopping for laser technology's toner economics and text quality, this isn't that; one of the true laser picks above will fit better.\n\nWorth calling out specifically: automatic duplex copy and scan. The catch is not a laser printer despite the price point.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41qSvRweBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=workcocoon-20",
     description:
       "Clearly flagged as a non-laser alternative: this is a color inkjet, not a monochrome laser, and it's the lowest-priced pick in this list, with scan, copy, and fax included. It's a genuinely fine choice for a home office with light document needs that doesn't want to spend a competitive price+ on a dedicated laser engine. It does not have laser's toner-based text sharpness, drum longevity, or ozone-free small-room advantage, and idle cartridges can dry out between uses the way toner never does. If your home office is text-heavy and enclosed, one of the true laser picks in this list is the better long-term fit despite the higher sticker price. Full scan, copy, fax feature set. Set against that, not a laser printer, doesn't share this guide's core toner economics. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/411M0mBMPwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=workcocoon-20",
     description:
       "The final honest flag in this list: this is a photo-focused color inkjet, not a laser printer, and it's the least aligned pick here with a monochrome laser search, included only because it appears in the same product searches. It uses ink cartridges and has no toner, drum unit, or ozone consideration at all.\n\nIt earns a spot only for a home office that occasionally needs photo-quality output alongside document printing and is comfortable stepping outside laser technology to get it. For a home office genuinely shopping for a monochrome laser, skip straight to the Brother DCP-L2640DW or HP LaserJet M209d above.\n\nA genuine advantage here is that no ozone emission concern. The tradeoff is not a laser printer, doesn't fit this guide's core use case.",
     specs: [

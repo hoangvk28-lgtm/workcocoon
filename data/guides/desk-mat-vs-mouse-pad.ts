@@ -75,7 +75,7 @@ export const picks: ComparePick[] = [
     price: "$22–$30",
     size: "31.5 × 15.7 in",
     material: "PU leather top, non-slip rubber base",
-    amazonUrl: `https://www.amazon.com/dp/B07D6559YM?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B07D6559YM?tag=workcocoon-20`,
     imageUrl: `${BASE}/01-k-knodel-large-desk-mat.webp`,
     whyItWorks: [
       "Covers the full desk surface — protects from scratches and spills",
@@ -99,7 +99,7 @@ export const picks: ComparePick[] = [
     price: "$18–$25",
     size: "31.5 × 15.7 in",
     material: "PU leather / felt dual-sided",
-    amazonUrl: `https://www.amazon.com/dp/B091F3Y53V?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B091F3Y53V?tag=workcocoon-20`,
     imageUrl: `${BASE}/02-aothia-leather-desk-pad.webp`,
     whyItWorks: [
       "Dual-sided: PU leather for smooth mousing, felt for a softer look",
@@ -121,7 +121,7 @@ export const picks: ComparePick[] = [
     price: "$20–$28",
     size: "35.4 × 17.3 in",
     material: "Premium wool felt",
-    amazonUrl: `https://www.amazon.com/dp/B09MVT9Y98?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B09MVT9Y98?tag=workcocoon-20`,
     imageUrl: `${BASE}/03-dawntrees-felt-desk-mat.webp`,
     whyItWorks: [
       "Wool felt has a premium, textured look that elevates minimalist setups",
@@ -144,7 +144,7 @@ export const picks: ComparePick[] = [
     price: "$10–$18",
     size: "11.6 × 9.1 in standard",
     material: "Consistent textile top, rubber base",
-    amazonUrl: `https://www.amazon.com/dp/B09DV56338?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B09DV56338?tag=workcocoon-20`,
     imageUrl: `${BASE}/04-logitech-studio-series-mouse-pad.webp`,
     whyItWorks: [
       "Consistent surface texture works with all optical and laser mice",
@@ -166,7 +166,7 @@ export const picks: ComparePick[] = [
     price: "$14–$19",
     size: "35.4 × 15.7 in XL",
     material: "Micro-weave cloth, rubber base",
-    amazonUrl: `https://www.amazon.com/dp/B0819ZNG4H?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B0819ZNG4H?tag=workcocoon-20`,
     imageUrl: `${BASE}/05-ktrio-extended-gaming-mouse-pad.webp`,
     whyItWorks: [
       "XL size covers keyboard and mouse zone completely",

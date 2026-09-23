@@ -137,12 +137,12 @@ The pattern is consistent: ergonomic chairs at every price tier deliver more pre
 
 | Price tier | Gaming chair | Ergonomic chair |
 |-----------|-------------|----------------|
-| ~$150 | Basic PU leather, 2D arms, lumbar pillow | [SIHOO M57](https://www.amazon.com/s?k=sihoo+m57+ergonomic+chair&tag=deskfinds0d-20) - full mesh, 3D arms, 2D lumbar, 3-yr warranty |
-| ~$200-250 | Mid gaming, tilt-lock, better PU | [Sihoo Doro C300](https://www.amazon.com/s?k=sihoo+doro+c300+ergonomic+chair&tag=deskfinds0d-20) - dynamic auto-adjust lumbar, 3-yr warranty |
-| ~$350-400 | Premium gaming (SecretLab Titan, etc.) | [Branch Ergonomic Chair](https://www.amazon.com/s?k=branch+ergonomic+chair&tag=deskfinds0d-20) - 7-yr warranty, 3D arms, furniture aesthetic |
-| ~$450-500 | High-end gaming | [Branch Ergonomic Chair Pro](https://www.amazon.com/s?k=branch+ergonomic+chair+pro&tag=deskfinds0d-20) - 5D arms, forward tilt, aluminum base |
+| ~$150 | Basic PU leather, 2D arms, lumbar pillow | [SIHOO M57](https://www.amazon.com/s?k=sihoo+m57+ergonomic+chair&tag=workcocoon-20) - full mesh, 3D arms, 2D lumbar, 3-yr warranty |
+| ~$200-250 | Mid gaming, tilt-lock, better PU | [Sihoo Doro C300](https://www.amazon.com/s?k=sihoo+doro+c300+ergonomic+chair&tag=workcocoon-20) - dynamic auto-adjust lumbar, 3-yr warranty |
+| ~$350-400 | Premium gaming (SecretLab Titan, etc.) | [Branch Ergonomic Chair](https://www.amazon.com/s?k=branch+ergonomic+chair&tag=workcocoon-20) - 7-yr warranty, 3D arms, furniture aesthetic |
+| ~$450-500 | High-end gaming | [Branch Ergonomic Chair Pro](https://www.amazon.com/s?k=branch+ergonomic+chair+pro&tag=workcocoon-20) - 5D arms, forward tilt, aluminum base |
 
-At $150, the ergonomic option ([SIHOO M57](https://www.amazon.com/s?k=sihoo+m57+ergonomic+chair&tag=deskfinds0d-20)) is objectively better for daily work than any gaming chair in the same price range. The $350-400 tier is where gaming chairs ([SecretLab Titan](https://www.amazon.com/s?k=secretlab+titan+evo+gaming+chair&tag=deskfinds0d-20)) first become competitive for users who specifically want the gaming aesthetic and synthetic leather feel.`,
+At $150, the ergonomic option ([SIHOO M57](https://www.amazon.com/s?k=sihoo+m57+ergonomic+chair&tag=workcocoon-20)) is objectively better for daily work than any gaming chair in the same price range. The $350-400 tier is where gaming chairs ([SecretLab Titan](https://www.amazon.com/s?k=secretlab+titan+evo+gaming+chair&tag=workcocoon-20)) first become competitive for users who specifically want the gaming aesthetic and synthetic leather feel.`,
     },
     {
       heading: "When Gaming Chairs Make Sense",
@@ -152,7 +152,7 @@ At $150, the ergonomic option ([SIHOO M57](https://www.amazon.com/s?k=sihoo+m57+
 
 **Aesthetic priority:** If matching a specific color scheme (red/black, white/black) matters more than ergonomics and you sit less than 4 hours daily, the visual impact of gaming chairs is real and legitimate.
 
-**SecretLab-tier gaming chairs specifically:** [SecretLab Titan EVO](https://www.amazon.com/s?k=secretlab+titan+evo&tag=deskfinds0d-20) ($399+) and Noblechairs ICON ($399+) include integrated lumbar systems, good build quality, and PU leather that lasts longer than budget alternatives. These are meaningfully better than typical gaming chairs and a legitimate choice at their price, though still worse for daily 8-hour work than equivalent ergonomic chairs.
+**SecretLab-tier gaming chairs specifically:** [SecretLab Titan EVO](https://www.amazon.com/s?k=secretlab+titan+evo&tag=workcocoon-20) ($399+) and Noblechairs ICON ($399+) include integrated lumbar systems, good build quality, and PU leather that lasts longer than budget alternatives. These are meaningfully better than typical gaming chairs and a legitimate choice at their price, though still worse for daily 8-hour work than equivalent ergonomic chairs.
 
 **Console gaming and TV setups:** For racing game setups, flight sim rigs, or TV/console use where the chair is used reclined and the gaming posture is different from desk work, the gaming chair design can be appropriate.`,
     },
@@ -175,7 +175,7 @@ At $150, the ergonomic option ([SIHOO M57](https://www.amazon.com/s?k=sihoo+m57+
 | Under 2 hrs/day | Gaming chair is fine |
 | 2-4 hrs/day | Ergonomic chair preferred; budget ergonomic at $150 is worth it |
 | 4-6 hrs/day | Ergonomic chair - any model with 3D arms and adjustable lumbar |
-| 6-8+ hrs/day | Ergonomic chair - [Sihoo C300](https://www.amazon.com/s?k=sihoo+doro+c300&tag=deskfinds0d-20) ($200-280) minimum, [Branch Pro](https://www.amazon.com/s?k=branch+ergonomic+chair+pro&tag=deskfinds0d-20) ($499) ideal |
+| 6-8+ hrs/day | Ergonomic chair - [Sihoo C300](https://www.amazon.com/s?k=sihoo+doro+c300&tag=workcocoon-20) ($200-280) minimum, [Branch Pro](https://www.amazon.com/s?k=branch+ergonomic+chair+pro&tag=workcocoon-20) ($499) ideal |
 
 The most common mistake in chair buying: spending $200-300 on a gaming chair with good reviews, sitting in it for 8 hours a day, developing lower back pain after 3-6 months, and then spending $200-300 on an ergonomic chair. The total cost is $400-600 for one chair's worth of ergonomic support.
 

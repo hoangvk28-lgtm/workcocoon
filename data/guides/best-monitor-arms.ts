@@ -39,7 +39,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-J6rY9HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Q8TJ2KL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Q8TJ2KL?tag=workcocoon-20",
     description:
       "The Ergotron LX fits flat, curved, and ultrawide monitors up to 34 inches, with a 7 to 25 lb capacity band that covers nearly every consumer display once you subtract the weight of the stock stand. Standard VESA 75x75mm or 100x100mm mounting means it drops onto almost any monitor without an adapter.\n\nIts gas spring extension is the reference point most other arms on this list get compared against, giving smooth height and depth adjustment without a locking knob. It is priced at the top of this list, which is the tradeoff for a mechanism built to hold tension for years rather than sag after a season of daily use.\n\nSmooth, reliable gas spring mechanism. That's a real strength, but weigh it against the flip side: most expensive single arm in this list.",
     specs: [
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314R591Wn2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSJN4XSX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSJN4XSX?tag=workcocoon-20",
     description:
       "The LX Pro is Ergotron's upgraded version of its standard LX, refined for a 4 to 22 lb range that better matches lighter modern panels once the factory stand is removed. It fits the same flat, curved, and ultrawide monitors up to 34 inches with VESA 75x75mm or 100x100mm mounting.\n\nThe white finish is a deliberate option for buyers matching a lighter desk setup rather than the near-universal matte black arm. At the top of this list on price, it is aimed at buyers who plan to keep the same arm through several monitor upgrades rather than replace it in a couple of years.\n\nWorth calling out specifically: white finish option, uncommon in this category. The catch is highest price in this list.",
     specs: [
@@ -103,7 +103,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FAEzhc2PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=workcocoon-20",
     description:
       "The FlowLift covers 13 to 32 inch monitors and includes both a C-clamp and a grommet base in the box, so it works whether your desk edge is clampable or you would rather run the pole through a cable grommet hole. Rated for 4.4 to 19.8 lbs, it fits the panel weight of most mid-size monitors once the factory stand is off. at a budget-friendly price it undercuts the Ergotron pair by more than a competitive price while still offering VESA mounting and tilt, swivel, and rotation. The tradeoff is a lighter overall build than the premium arms, which shows up most on larger 30\"+ panels pushed toward the top of its weight rating. Strong value at a budget-friendly price. Set against that, lighter-duty build than the Ergotron picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41--azXaNzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GK7FVTR4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GK7FVTR4?tag=workcocoon-20",
     description:
       "The FlowLift Pro's MechaSpring mechanism and tool-free VESA mount are built for buyers who do not want to keep an Allen key around after setup. It covers 13 to 32 inch screens with a 19.8 lb max load and includes both C-clamp and grommet base options. Full tilt, swivel, and rotation adjustment is included at a budget-friendly price, making it one of the cheapest arms on this list with a genuinely tool-free installation. Like the standard FlowLift, its lighter build is best matched to monitors in the 20-27 inch range rather than a heavy 30\"+ ultrawide. A genuine advantage here is that at a budget-friendly price, one of the cheapest picks here. The tradeoff is 19.8 lb cap limits it to lighter and mid-size panels.",
     specs: [
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Wd1NwAowL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQM6QB48?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQM6QB48?tag=workcocoon-20",
     description:
       "ErGear's arm spans 13 to 34 inch screens, the widest stated range of any single-monitor pick in this list, with a tool-free VESA mount and built-in cable management clips. At 19.98 dollars, it is the least expensive arm on this list.\n\nMax VESA is capped at 100x100mm and load capacity at 19.8 lbs, so it fits most panels but is not the pick for a heavy 30\"+ ultrawide. Fast, tool-free installation makes it a reasonable entry point for a first monitor arm before deciding whether to upgrade to a premium gas spring model later.\n\nWidest stated screen range, 13-34\". That's a real strength, but weigh it against the flip side: 100x100mm VESA cap excludes some larger panels.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41muNp04WgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGPZR6P1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGPZR6P1?tag=workcocoon-20",
     description:
       "WALI's mount fits 13 to 34 inch screens and is rated for up to 26.4 lbs, the highest capacity of any budget-tier arm in this list, with standard 32-inch regular-screen coverage and VESA 75/100mm compatibility. That extra headroom matters if your panel runs closer to the heavier end of its stated weight before subtracting the factory stand. It matches the ErGear pick on price while offering a meaningfully higher weight ceiling, making it a strong choice if you are unsure exactly how much your panel weighs without its stock stand attached. Worth calling out specifically: matches the lowest price point in this list. The catch is basic finish and hardware compared to the Ergotron picks.",
     specs: [
@@ -231,7 +231,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=workcocoon-20",
     description:
       "The TitanLift is built specifically for the panels the rest of this list cannot handle, screens up to 49 inches and up to 44 lbs, nearly double the capacity of every other arm here. Aluminum construction and a dual C-clamp base are what make that weight rating realistic rather than a marketing number.\n\nThis is the arm to buy if you run a 34-49 inch ultrawide or curved gaming monitor, since standard arms rated for 20-25 lbs are simply undersized for that panel class even before counting a heavier VESA mount adapter. Max VESA is 100x100mm, so confirm your panel's mounting pattern before buying.\n\nPurpose-built for 34-49\" ultrawide and curved panels. Set against that, overkill and costlier than needed for a standard 24-27\" monitor. Both matter when comparing it to the other picks here.",
     specs: [
@@ -263,7 +263,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41n18T7NMSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G523STF2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G523STF2?tag=workcocoon-20",
     description:
       "The SmooVex fits monitors up to 32 inches using a mechanical spring mount and standard VESA 75/100mm mounting, keeping its footprint and hardware simple compared to the multi-arm and heavy-duty picks in this list. It is a straightforward single-arm option for a standard-size monitor. It sits in the middle of this list's budget tier, positioned for buyers who want a no-frills spring-mounted arm rather than the widest possible screen range or the highest weight ceiling. A genuine advantage here is that standard dual VESA pattern. The tradeoff is no stated weight capacity beyond fitting up to 32\" screens, so confirm your panel's actual weight first.",
     specs: [

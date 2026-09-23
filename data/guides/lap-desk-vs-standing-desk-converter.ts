@@ -75,7 +75,7 @@ export const picks: ComparePick[] = [
     price: "$75–$98",
     surface: "23.6 × 14 in bamboo + metal",
     adjustability: "Height 10–17 in, tilt 0–45°",
-    amazonUrl: `https://www.amazon.com/dp/B086WBG56J?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B086WBG56J?tag=workcocoon-20`,
     imageUrl: `${BASE}/01-saiji-adjustable-bed-tray.webp`,
     whyItWorks: [
       "Independent height and angle adjustment for any posture",
@@ -97,7 +97,7 @@ export const picks: ComparePick[] = [
     price: "$28–$40",
     surface: "19.5 × 14.5 in with wrist rest",
     adjustability: "Fixed angle, 5 color options",
-    amazonUrl: `https://www.amazon.com/dp/B07N9L5934?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B07N9L5934?tag=workcocoon-20`,
     imageUrl: `${BASE}/02-lapgear-home-office-pro.webp`,
     whyItWorks: [
       "Built-in wrist rest reduces fatigue during long typing sessions",
@@ -121,7 +121,7 @@ export const picks: ComparePick[] = [
     price: "$45–$55",
     surface: "23.6 × 13 in bamboo",
     adjustability: "Tilt 0–25°, built-in USB fan",
-    amazonUrl: `https://www.amazon.com/dp/B01MAUGLDO?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B01MAUGLDO?tag=workcocoon-20`,
     imageUrl: `${BASE}/03-nnewvante-bamboo-lap-desk.webp`,
     whyItWorks: [
       "Built-in USB cooling fan prevents laptop overheating during extended sessions",
@@ -144,7 +144,7 @@ export const picks: ComparePick[] = [
     price: "$120–$150",
     surface: "32 × 15.7 in with lower keyboard tray",
     adjustability: "Height 4.7–19.7 in, pneumatic spring",
-    amazonUrl: `https://www.amazon.com/dp/B075JYG2TB?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B075JYG2TB?tag=workcocoon-20`,
     imageUrl: `${BASE}/04-vivo-32-desk-converter.webp`,
     whyItWorks: [
       "Pneumatic spring for smooth one-hand height adjustment",
@@ -167,7 +167,7 @@ export const picks: ComparePick[] = [
     price: "$80–$110",
     surface: "31 × 14 in with keyboard platform",
     adjustability: "Height 4.7–19.7 in, spring-assisted",
-    amazonUrl: `https://www.amazon.com/dp/B08JGXPH84?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B08JGXPH84?tag=workcocoon-20`,
     imageUrl: `${BASE}/05-flexispot-31-converter.webp`,
     whyItWorks: [
       "More affordable than VIVO while keeping spring-assisted lift",

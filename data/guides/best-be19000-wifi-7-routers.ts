@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 503 Amazon ratings",
     reviews: "503 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416sP+jL17L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=workcocoon-20",
     description:
       "The larger review base of the two flagship picks in this guide, with genuine 2×10G ports and 8 high-performance antennas, real hardware capability at this extreme tier.\n\nThe '19000' number decodes into a per-band split across three radios that no single device can achieve simultaneously, an even more exaggerated gap between the marketed figure and achievable real-world speed than lower tiers.\n\n8 antennas for real beamforming capability. Set against that, lower average rating suggests mixed real-world experiences at this extreme tier. Both matter when comparing it to the other picks here.",
     specs: ["Genuine tri-band flagship, 12-stream", "2×10G + 4×2.5G ports", "8 high-performance antennas, LED screen", "Larger review base than the gaming variant"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "3.7 stars from 312 Amazon ratings",
     reviews: "312 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31tjKndkUFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D7MSQG4T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D7MSQG4T?tag=workcocoon-20",
     description:
       "The gaming-focused variant of the same BE19000 flagship platform, adding a dedicated gaming port, panel, and turbo acceleration features at a significant price premium.\n\nThe notably lower average rating here versus the standard variant is worth serious consideration, honestly weigh whether the gaming-specific features justify both the price premium and the lower satisfaction signal from existing buyers.\n\nThe standout detail is that same core hardware capability as the standard BE800. Balancing that out, notably lower average rating than the standard variant at a much higher price.",
     specs: ["Genuine tri-band flagship, 12-stream", "2×10G + 4×2.5G ports, USB 3.0", "Dedicated gaming port and panel", "Turbo acceleration, RGB lighting"],

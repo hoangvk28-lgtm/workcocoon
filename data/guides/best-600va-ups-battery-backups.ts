@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 29,088 Amazon ratings",
     reviews: "29,088 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41h0sXfkrSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01FWAZEIU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01FWAZEIU?tag=workcocoon-20",
     description:
       "By far the largest review base of any UPS across this entire batch of guides, remarkably strong real-world evidence at the 600VA entry tier. 330W real capacity is genuinely enough for a computer, router, or NAS, but not a full desktop with a monitor.\n\nStandard replaceable battery keeps long-term cost predictable once the lead-acid cell ages out on its normal 3-5 year cycle.\n\nThe standout detail is that most affordable pick here. Balancing that out, 330W real capacity, not for a full desktop with monitor.",
     specs: ["600VA/330W real capacity", "Standard replaceable battery", "Computer/router/NAS rated", "Most-reviewed UPS across this batch"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,296 Amazon ratings",
     reviews: "2,296 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oXxtOnuAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00DBAAJQ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00DBAAJQ6?tag=workcocoon-20",
     description:
       "CyberPower's 'Ecologic' line focuses on reduced standby power draw, worth considering if you're optimizing for 24/7 energy cost at this capacity tier rather than just upfront price. LCD display shows load and runtime.\n\nSame realistic capacity expectation as every 600VA pick here, enough for a single low-power device, not a full desktop.\n\nLCD for load/runtime visibility. That's a real strength, but weigh it against the flip side: not pure sine wave.",
     specs: ["600VA class, Ecologic reduced standby draw", "LCD display", "Surge protection", "Compact"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,824 Amazon ratings",
     reviews: "1,824 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41JHxO-mGhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0010DF6UK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0010DF6UK?tag=workcocoon-20",
     description:
       "10 outlets at the 600VA tier, notably more than most competitors offer at this capacity, genuinely useful if you have several low-draw peripherals to plug in. The 3-year warranty with $100,000 connected-equipment insurance adds real peace of mind. 325W real capacity, in line with the typical power factor math for this VA class, size accordingly. 3-year warranty with substantial connected-equipment insurance. On the other hand, 325W real capacity, appropriate only for low-power devices. Both are worth keeping in mind before deciding.",
     specs: ["600VA/325W", "10 outlets", "3-Year warranty, $100,000 connected equipment insurance", "Compact form factor"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,712 Amazon ratings",
     reviews: "2,712 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41RpdrMTUFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07GZR9DSK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07GZR9DSK?tag=workcocoon-20",
     description:
       "A genuinely affordable standby-topology option at this capacity, appropriate if your only need is basic outage protection for a router or single low-power device rather than a PC with any real headroom.\n\nStandby topology means it switches to battery on any sag rather than correcting voltage in-line, a real limitation to understand at this budget tier.\n\nA genuine advantage here is that solid rating base. The tradeoff is that standby topology only, no AVR or in-line correction.",
     specs: ["625VA class, standby topology", "Surge protection", "Compact", "Budget-friendly"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 164 Amazon ratings",
     reviews: "164 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LNvUtwb2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B000BMBT4I?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000BMBT4I?tag=workcocoon-20",
     description:
       "AVR included at this budget capacity tier, correcting minor brownouts in-line without draining the battery, genuinely useful over the ST625U's basic standby-only design. 8 outlets and dataline protection round out a well-equipped budget pick.\n\nSmaller review base than the other 600VA picks in this guide, weigh that against the genuine AVR feature advantage.\n\n8 outlets, dataline protection included. That said, smaller review base than other picks in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["550VA class, AVR included", "8 outlets, dataline protection", "3-Year warranty with insurance", "Compact"],

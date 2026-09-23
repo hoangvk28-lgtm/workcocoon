@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 5,520 Amazon ratings",
     reviews: "5,520 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41zfmPVp5NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FFHG8TZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FFHG8TZ?tag=workcocoon-20",
     description:
       "This listing specifically calls out a US-patented cutter designed to prevent paper jams, a genuine mechanical anti-jam design rather than just a sensor-and-reverse system. Its explicit 3-mode control (Auto, Off, Reverse) gives you manual control to clear anything the patented cutter doesn't prevent.\n\nAt 10 sheets rated capacity, treat that as an upper bound, real-world jam resistance is typically better with 7-8 sheets of standard paper than pushing the full rated 10.\n\nP-4 security level. On the other hand, rated 10-sheet capacity likely overstates real-world jam-free capacity. Both are worth keeping in mind before deciding.",
     specs: ["10-sheet cross-cut, US-patented anti-jam cutter", "P-4 security level", "3-mode control (Auto/Off/Reverse)", "3.43-gallon transparent bin"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,048 Amazon ratings",
     reviews: "1,048 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lBbbWrCsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=workcocoon-20",
     description:
       "The largest auto-feed hopper in this guide, which raises real jam-resistance stakes since a bulk hopper load has more opportunity for a jam than a single manual pass. This listing doesn't detail sensor sensitivity specifically, but the combination of auto-feed plus a separate manual slot for cards and staples suggests the auto path is tuned conservatively for standard paper only.\n\nP-4 micro-cut adds security but also means less foreign-object tolerance than a coarser cut, factor that into your expectations for staple/clip handling in the auto hopper specifically.\n\nA genuine advantage here is that separate manual slot for cards/staples reduces jam risk in the main hopper. The tradeoff is that sensor sensitivity for the auto hopper isn't explicitly detailed.",
     specs: ["120-sheet auto-feed hopper, 12-sheet manual", "P-4 micro-cut", "30 min auto / 10 min manual run time", "6-gallon pull-out bin, 360° casters"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,629 Amazon ratings",
     reviews: "1,629 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VvTJMBXPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=workcocoon-20",
     description:
       "This listing explicitly names an \"Anti-Jam System\" with an auto-reverse function to clear paper when jammed, exactly the jam-sensing-plus-reverse mechanism most \"jam-proof\" marketing actually refers to, disclosed directly here rather than implied. A bin-full indicator helps prevent overflow-related jams too.\n\nAt 100 sheets, similar jam-threshold caveats apply as with the rank-2 pick, treat the rated capacity as an upper bound, not a guaranteed jam-free number.\n\nBin-full indicator reduces overflow jams. That said, rated 100-sheet capacity likely exceeds real-world jam-free capacity with mixed paper. Neither should be a surprise once you know to look for it.",
     specs: ["100-sheet auto-feed hopper, 8-sheet manual", "P-4 micro-cut, explicit Anti-Jam System", "30 min auto / 40 min off", "4.2-gallon bin, bin-full indicator"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "Explicitly listed with anti-jam auto-reverse to clear paper jams, and the highest rating and review base in this guide suggest that system works reliably in real-world use, not just on paper. Destroys CDs and credit cards too, worth noting those items have different jam-resistance characteristics than paper alone.\n\nAt 12 sheets rated capacity, apply the same real-world caution as any pick here, the rated number is an upper bound, not a guarantee.\n\nWorth calling out specifically: long 60-minute run time reduces interruption-related jam risk. The catch is 12-sheet rated capacity likely overstates real-world jam-free capacity.",
     specs: ["12-sheet manual feed, P-4 micro-cut", "Anti-jam auto-reverse, destroys CDs/credit cards", "60-minute continuous run time", "5-gallon bin, LED status indicators"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,748 Amazon ratings",
     reviews: "10,748 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41FCXr1akDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=workcocoon-20",
     description:
       "Auto start and auto-reverse are explicitly named here, protecting against the frustration of paper jams at the highest manual-feed rated capacity in this guide (18 sheets). Overheating and overload protection technology work alongside the anti-jam system, both real mechanisms working together rather than one feature alone.\n\nLargest review base in this guide, a genuinely proven anti-jam track record at scale.\n\nHighest manual-feed rated capacity here. Set against that, 18-sheet rated capacity should be treated as an upper bound, not a real-world guarantee. Both matter when comparing it to the other picks here.",
     specs: ["18-sheet manual feed, P-4 cross-cut", "Auto start/reverse, overheat/overload protection", "60-minute continuous run time", "6-gallon bin, 400+ sheet capacity"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "This listing explicitly brands its feature a \"Jam-Proof System\" with auto start/stop and manual-forward/reverse functions, matching this guide's clarification directly: it's a sensing-and-reverse system, not a mechanical impossibility. A 15-minute continuous run time at a mid-range price rounds out a solid option.\n\nA reasonable mid-price choice between the cheapest and most premium anti-jam picks in this guide.\n\nThe standout detail is that reasonable mid-range price. Balancing that out, still a sensing-and-reverse system, not mechanically jam-proof.",
     specs: ["12-sheet manual feed, P-4 cross-cut", "Named 'Jam-Proof System', auto start/stop/reverse", "15-minute continuous run time, ~900 sheets/cycle", "5.5-gallon bin"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,061 Amazon ratings",
     reviews: "1,061 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LSE9gHSWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=workcocoon-20",
     description:
       "Explicitly named \"Smart Jam-Proof System\" with real-time indicator lights for overheating and overload status, giving you visibility into what's happening rather than just a silent stop. At 14 sheets rated capacity, this sits between the 12-sheet and 18-sheet picks in this guide for real-world jam-threshold expectations.\n\nLowest rating among the higher-capacity picks here, weigh that against the genuinely detailed real-time status indicator system.\n\nHigher rated capacity than the 12-sheet picks. That's a real strength, but weigh it against the flip side: lowest rating among the higher-capacity picks in this guide.",
     specs: ["14-sheet manual feed, P-4 cross-cut", "Smart Jam-Proof System, real-time indicators", "20-minute continuous run, up to 1,400 sheets/session", "5.3-gallon bin, casters"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31H0gGU7jHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=workcocoon-20",
     description:
       "Auto start/stop and manual-forward/reverse functions are explicitly listed here at the lowest price in this guide, a real anti-jam mechanism even at a budget tier. Its short 6-minute continuous run time limits how much you'll shred (and how much jam risk you'll encounter) in one sitting.\n\nA reasonable entry point if you want confirmed anti-jam functionality without paying for the higher-capacity picks above.\n\nConfirmed auto start/stop/reverse anti-jam function. On the other hand, shortest continuous run time in this guide. Both are worth keeping in mind before deciding.",
     specs: ["12-sheet manual feed, P-4 cross-cut", "Auto start/stop/reverse function", "6-minute continuous run time", "5.5-gallon bin, compact"],

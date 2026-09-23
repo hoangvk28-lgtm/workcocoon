@@ -707,7 +707,7 @@ export default async function BestFlexiSpotStandingDeskPage() {
             Filter by size, color, and price. All Prime-eligible options available.
           </p>
           <a
-            href="https://www.amazon.com/s?k=flexispot+standing+desk&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=flexispot+standing+desk&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

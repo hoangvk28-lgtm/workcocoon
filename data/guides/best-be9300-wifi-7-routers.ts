@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,732 Amazon ratings",
     reviews: "1,732 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, a genuine tri-band design with 6 internal antennas, offering real 6GHz radio capability at a real for this tier.\n\nThe slightly lower average rating relative to review volume is worth noting, likely reflecting the broad range of home network conditions this popular model is tested against.\n\nGenuine tri-band with real 6GHz radio. That said, slightly lower average rating than smaller-sample picks. Neither should be a surprise once you know to look for it.",
     specs: ["Genuine tri-band with 6GHz radio", "6-stream, full 2.5G ports", "6 internal antennas", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 647 Amazon ratings",
     reviews: "647 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21jixzpoeiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK7Q5SCN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK7Q5SCN?tag=workcocoon-20",
     description:
       "Rated for 2,500 sq ft and 100 devices, a genuinely larger coverage claim than the top pick, appropriate for a bigger home or higher device-count household at this tier.\n\nNETGEAR's established Nighthawk brand track record and gaming-focused tri-band marketing back this as a solid pick, though the higher price reflects the larger coverage and device-count rating.\n\nWorth calling out specifically: established Nighthawk brand track record. The catch is higher price than the TP-Link Archer BE550.",
     specs: ["Genuine tri-band, 9.3Gbps wireless speed", "Rated for 2,500 sq ft, 100 devices", "2.5 Gigabit internet port", "Gaming-focused tri-band design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 977 Amazon ratings",
     reviews: "977 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31aDV5B5NkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FB8X43KJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FB8X43KJ?tag=workcocoon-20",
     description:
       "Five full 2.5G ports is a genuine differentiator at this tier, appropriate for a buyer with multiple wired multi-gig devices like a NAS, workstation, or additional switch to connect.\n\nGL.iNet's more technical, VPN-focused firmware appeals to buyers wanting deeper configuration control, verify MLO implementation maturity specifically for this chipset given per-vendor variation at this tier.\n\nStrong VPN configuration options. Set against that, less mainstream brand recognition than TP-Link or NETGEAR. Both matter when comparing it to the other picks here.",
     specs: ["Genuine tri-band, 5×2.5G ports", "VPN-focused firmware", "More technical configuration options", "Solid review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 472 Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "Technically a BE9700, included here as a genuine step-up option offering the full 320MHz 6GHz channel width, addressing the very channel-width cap concern that limits some BE6500/BE9300-tier products.\n\nA 10G port is a real differentiator for a buyer with 10-gigabit internet or a 10GbE NAS setup, worth the modest price premium over standard BE9300 picks if that infrastructure matters to you.\n\nThe standout detail is that 10G port for 10-gigabit internet or NAS setups. Balancing that out, technically a step above BE9300 branding.",
     specs: ["Genuine tri-band, full 320MHz 6GHz channel width", "10G port plus 2.5G port and 3×2.5G LAN", "Rated for 2,600 sq ft, 120 devices", "HomeShield security included"],

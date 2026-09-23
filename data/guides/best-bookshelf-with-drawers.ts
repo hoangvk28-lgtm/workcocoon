@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "3,341",
     imageUrl: "https://m.media-amazon.com/images/I/416JTTfKnzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CB3BJYX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CB3BJYX6?tag=workcocoon-20",
     description:
       "The Furologee is the best-selling and cheapest pick in this list, pairing a P2 MDF and metal frame with 5 open shelves and 1 removable soft fabric drawer sized for folded clothes, toys, or loose clutter. The drawer lifts out entirely, which makes it easy to keep clean and safe around toddlers who might otherwise pinch fingers in a sliding mechanism.\n\nAt just 15.4 inches wide, it fits into corners and narrow gaps where bulkier storage furniture won't. Four adjustable feet keep it level on uneven flooring, and the frame is rated for 30 lbs per shelf with an anti-tip kit included for wall-anchoring.\n\nA genuine advantage here is that removable fabric drawer is nursery-safe. The tradeoff is only 1 drawer versus multiple on other picks.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,139",
     imageUrl: "https://m.media-amazon.com/images/I/41t-pnwwXmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDH2V9XF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDH2V9XF?tag=workcocoon-20",
     description:
       "This ladder-style Furologee widens toward the bottom, giving it a distinctive silhouette while also placing more weight capacity where it's needed most. It carries a 215 lb total rating, the highest among the ladder-style bookshelves in this list, and includes the same removable fabric drawer as our top pick.\n\nBackboards run behind each shelf, which stops books and smaller items from sliding off the back rather than just the front and sides. The solid black metal frame and rustic brown shelving give it an industrial look, and four adjustable feet handle uneven floors.\n\nAttractive ladder silhouette. On the other hand, slightly larger footprint than the standard 5-tier Furologee. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,846",
     imageUrl: "https://m.media-amazon.com/images/I/41Ed-X-hfmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C88XTSMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C88XTSMM?tag=workcocoon-20",
     description:
       "The SUNMORY takes a tree-shaped design with 6 tiers branching upward, paired with 2 open storage cabinets at the base that can be joined together into a single wider unit. It's backed by a 2-year warranty with lifetime support, longer and more comprehensive coverage than most bookshelves in this price range. The vintage faux-wood finish gives it a warmer look than the more industrial metal-frame picks in this list, and an anti-tip kit is included for securing it to the wall. at a budget-friendly price, it's one of the better-reviewed options here. Distinctive tree-shaped silhouette. That's a real strength, but weigh it against the flip side: cabinets are open rather than enclosed with doors.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,289",
     imageUrl: "https://m.media-amazon.com/images/I/41mUWMPhk+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CYT23NS9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYT23NS9?tag=workcocoon-20",
     description:
       "The Evermagin is the only pick in this list with a built-in adjustable reading lamp, offering 3 color temperatures so you can switch between warm, neutral, and cool light depending on the time of day. It shares the tree-shaped design of the SUNMORY but adds a single storage drawer at the base for smaller items.\n\nThe 6-tier layout holds an estimated 30 to 50 paperbacks depending on size, and the P2 MDF construction includes an anti-tip kit for wall anchoring. The gift-ready presentation and built-in lighting make it a standout for anyone who reads in low light.\n\nWorth calling out specifically: tree-shaped design with a storage drawer. The catch is most expensive tree-shaped pick in this list.",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "264",
     imageUrl: "https://m.media-amazon.com/images/I/41Kxi8xrdiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFXS9X72?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFXS9X72?tag=workcocoon-20",
     description:
       "The EXPERLAM stands apart as the only genuinely solid pine wood pick in this list, rather than MDF or engineered board, giving it a sturdier, more natural feel. It comes with 4 matching collapsible fabric storage bins with handles that slot directly into the cube openings, plus 2 removable back panels for a more open look when you don't need the backing.\n\nIt's also the most flexible piece here, able to stand vertically, lie horizontally, or serve as a room partition depending on your layout. The odor-free, kid-safe finish and highest rating in this list at 4.7 stars make it a strong pick for anyone prioritizing material quality over price.\n\nIncludes 4 matching fabric storage bins. Set against that, more expensive than most other picks in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "187",
     imageUrl: "https://m.media-amazon.com/images/I/31yQT5-GJBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2KNG8SR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2KNG8SR?tag=workcocoon-20",
     description:
       "At 73.23 inches, the DICTAC is the tallest pick in this list, combining 3 smooth-glide slide-out drawers with 3 tiers of open shelving and a dedicated top storage zone. The engineered wood construction is waterproof and scratch-resistant, which lets it double as a kitchen pantry cabinet or bathroom storage unit rather than being limited to books.\n\nAn anti-tip kit is included given the height, and the tall vertical profile makes efficient use of floor space in rooms where width is at a premium. Reviewers give it a strong 4.7-star average despite a smaller review count so far.\n\nA genuine advantage here is that smooth-glide drawers plus a dedicated top storage zone. The tradeoff is tall profile needs a stable, level floor and wall anchoring.",
     specs: [
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "338",
     imageUrl: "https://m.media-amazon.com/images/I/51e7tFl1xkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DRVY5SQ3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DRVY5SQ3?tag=workcocoon-20",
     description:
       "The FINETONES is the widest pick in this list at 39.4 inches, giving it a double-wide layout with 4 wrap-around drawers plus 8 open shelves for 12 total storage zones. Each shelf is rated to hold roughly 9 to 12 books, and the thickened engineered wood panels keep the frame rigid across such a wide span. Smooth metal handles and an included anti-reverse belt round out the build quality. If you need to consolidate a large book and media collection into one wide piece rather than several narrow ones, this is the roomiest option here. 4 drawers plus 8 open shelves for 12 storage zones. On the other hand, most expensive pick in this list. Neither should be a surprise once you know to look for it.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 6,431 Amazon ratings",
     reviews: "6,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J0Gowt80L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHMG5XHM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHMG5XHM?tag=workcocoon-20",
     description:
       "The longest cord in this guide at 15ft, braided for durability, with 8 outlets and 2 USB-C ports for real capacity at the far end. Strong rating base.\\n\\nGiven the higher stakes of protecting valuable equipment at the end of a long cord run, verify the cord isn't tightly coiled under sustained load, which can build up heat.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Mifaso 2 Pack Power Strip.\n\nWorth knowing before you decide: Braided design resists coiling wear. On the other side, Cord gauge not explicitly disclosed. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["15ft braided cord","8 outlets, 4 USB ports (2 USB-C)","Flat plug","Strong rating base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 10,417 Amazon ratings",
     reviews: "10,417 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DQteekppL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NP57YRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NP57YRG?tag=workcocoon-20",
     description:
       "A 2-pack of 12ft cord strips with genuine 1080 joule surge protection, useful if you need long-reach protection in two separate secondary locations like a workshop or room addition. Strong rating base.\\n\\nThe scenario this pick serves, an older or secondary electrical location, is exactly when surge protection matters most, don't skimp on the joule rating even at this reach.\n\nSet against the Surge Protector Power Strip 15 Ft Cord, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Genuine 1080 joule surge protection. On the other side, Cord gauge not explicitly disclosed. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12ft cord, 2-pack","1080 joules surge protection","Strong rating base","Two units for two locations"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 6,583 Amazon ratings",
     reviews: "6,583 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LXOWiw2vL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZ254SSR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZ254SSR?tag=workcocoon-20",
     description:
       "A 10ft cord, a genuine middle ground between standard and longest available options, with real surge protection at an affordable price. Strong rating base.\\n\\nCheck the specific amperage rating against your intended far-end equipment, since cord length and current-carrying capacity are separate specs.\n\nRelative to the Mifaso 2 Pack Power Strip, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Flat plug for wall clearance. On the other side, Cord gauge and amperage rating not explicitly disclosed. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["10ft cord, flat plug","Surge protector included","Strong rating base","Affordable"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 8,377 Amazon ratings",
     reviews: "8,377 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31owpdc4AGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FPFF7JN8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FPFF7JN8?tag=workcocoon-20",
     description:
       "10ft cord with 6 outlets and 3 USB ports, genuinely more capacity at the far end than a basic single-outlet extension. Strong review base and affordable price.\\n\\nAvoid tightly coiling excess cord under sustained load, and don't run this cord under rugs or through doorways where it can be pinched.\n\nCompared with the SUPERDANNY Extension Cord above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: Affordable for the capacity offered. On the other side, Cord gauge not explicitly disclosed. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["10ft cord, 6 outlets, 3 USB ports","Flat plug","Strong review base","Affordable"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,666 Amazon ratings",
     reviews: "2,666 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eRaMa6u1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=workcocoon-20",
     description:
       "10ft cord with 12 outlets, 2 USB-C ports, and a genuinely high 4800 joule rating, real headroom for demanding equipment at the far end of a long cord run. Wall mountable.\\n\\nHigher joule ratings matter more at longer cord lengths where voltage drop could otherwise affect the surge circuitry's own voltage-sensing baseline.\n\nSet against the 10Ft Extension Cord with Multiple Outlets, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 12 outlets plus 4 USB ports at 10ft reach. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["10ft cord, 12 outlets, 2 USB-C, 2 USB-A","4800 joules","Flat plug, wall mountable","Desk charging station design"],

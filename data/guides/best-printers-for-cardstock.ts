@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 is a compact color inkjet that handles occasional cardstock projects like greeting cards and light invitations through its standard tray, with duplex printing for two-sided cards. Inkjet's mechanical print process is gentler on thick stock than a laser fuser, so cards come out flat rather than warped.\n\nIt is a general-purpose home printer rather than a cardstock specialist, so buyers running frequent heavy stock jobs should expect to check the manual for the maximum supported weight before loading anything past standard cardstock. At this price it is best treated as a starter option for occasional craft projects, not a daily invitation-printing workhorse.\n\nA genuine advantage here is that inkjet avoids the heat-warping risk of laser on thick stock. The tradeoff is no rear straight-feed slot for heavier stock.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 adds an automatic document feeder to the same basic inkjet formula, useful if cardstock printing is only part of your workload and you also scan or copy multi-page documents regularly. It handles light to medium cardstock through its main tray without excessive smudging thanks to inkjet's cooler print process.\n\nLike other general AIO printers in this list, it is not marketed as a dedicated cardstock or specialty-media printer, so buyers planning heavier stock projects like textured invitation cardstock should stick to lighter weights or verify compatibility before a large print run.\n\nInkjet handles light cardstock without warping. On the other hand, no dedicated rear feed for thick stock. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 covers print, scan, and copy in a small chassis and is a reasonable choice for buyers splitting their cardstock projects with occasional photo printing, since both benefit from inkjet's smoother color gradients. A 3-month Instant Ink trial is included, though cardstock printing typically uses more ink per page than plain paper.\n\nAs with the other budget inkjets here, it is a general-purpose AIO rather than a printer engineered specifically for heavy stock, so buyers should stay within light to medium cardstock weights and check the printer's manual for its tray thickness limit before a large batch job.\n\nIncluded Instant Ink trial offsets initial ink cost. That's a real strength, but weigh it against the flip side: no rear straight-feed slot mentioned.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520 steps up from the TS4320 with a 1.42-inch OLED display for easier menu navigation and duplex printing for two-sided cards and invitations. Its inkjet engine handles light cardstock cleanly, and the intuitive control panel makes it easier to select media type settings when switching between plain paper and cardstock.\n\nMedia type settings matter more than most buyers realize, since selecting the correct paper type in the driver adjusts ink volume and drying behavior for thicker stock. It remains a general home AIO printer rather than a specialty cardstock printer, so heavier stock beyond typical greeting-card weight is not guaranteed to feed reliably.\n\nWorth calling out specifically: duplex printing for two-sided cards. The catch is still a general AIO, not a dedicated cardstock printer.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The DCP-L2640DW is a monochrome laser printer, and laser printers use a heated fuser to bond toner to paper, which means cardstock run through a laser engine carries a real risk of heat warping compared to inkjet's cooler process. It suits buyers printing black-and-white cardstock inserts, program booklets, or index-card-style materials where color is not needed.\n\nThis is the pick to choose only if you specifically want laser's crisp, smudge-proof text on lighter cardstock weights and understand the warping tradeoff on heavier stock. For color cardstock projects like invitations, one of the inkjet or ink-tank picks in this list is the safer choice.\n\nDuplex printing built in. Set against that, heat from the laser fuser risks warping thicker cardstock. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The EcoTank ET-2800 replaces disposable cartridges with refillable ink tanks, which matters for anyone printing cardstock regularly, since cardstock projects use more ink per page than plain paper and cartridge costs add up quickly on a craft or small-business card business. Inkjet output keeps thick stock flat rather than heat-warped.\n\nIt does not advertise a dedicated thick-media rear slot, so buyers running heavier invitation or specialty cardstock should test a single sheet through the standard tray first and watch for feed resistance before committing to a full batch.\n\nA genuine advantage here is that inkjet output avoids laser warping. The tradeoff is no confirmed dedicated thick-media feed slot.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 pairs EcoTank's low-cost-per-page ink system with an automatic document feeder, fax, and Ethernet, useful for a home office that mixes cardstock projects with regular document work. The ink-tank system keeps per-sheet cost manageable for anyone printing cardstock in volume.\n\nAs with the ET-2800, there is no advertised dedicated straight-through slot built specifically for very heavy stock, so test a sample sheet before a full run of thicker specialty cardstock, and expect the best results on standard 65lb to 80lb weights rather than the heaviest options on the market.\n\nADF and fax useful for a mixed home office workload. On the other hand, largest footprint in this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31jPKfRqWSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BSMSYM9N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BSMSYM9N?tag=workcocoon-20",
     description:
       "The MegaTank G3270 brings refillable ink-tank economics to a lower price point than the EcoTank picks above, a reasonable option for cardstock and craft printing where ink volume adds up over time. Inkjet's cooler print process keeps cardstock flat, and the tank system avoids the cost spiral of cartridges on ink-heavy card designs.\n\nIt covers print, scan, and copy without a document feeder or fax, so it suits a dedicated crafting or card-printing setup more than a full home-office workflow. As with the other inkjets here, verify a sample sheet's feed before printing a large batch of unusually thick or textured cardstock.\n\nInk-tank economics for volume cardstock printing. That's a real strength, but weigh it against the flip side: no document feeder or fax.",
     specs: [

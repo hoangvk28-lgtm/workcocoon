@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "581 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41fC1Jf3TBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FG2LWB5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FG2LWB5N?tag=workcocoon-20",
     description:
       "This GTPLAYER model combines a 45D pocket spring seat with 30D memory foam and a mesh fabric rated twice as breathable as standard upholstery, aimed squarely at buyers who overheat in PU leather chairs. Self-adjusting linkage armrests move together as you shift position, and it reclines to 135 degrees with a footrest included. At 4.5 stars, it holds the highest rating of any chair in this guide, backed by 581 ratings. With a 300 lb capacity and 1-year warranty It's the pick for buyers who want the best-reviewed breathable fabric chair without paying premium prices. Pocket spring plus memory foam cushioning. That's a real strength, but weigh it against the flip side: fewer ratings (581) than some other GTPLAYER and Dowinx models.",
     specs: [
@@ -73,7 +73,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "2,016 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41o72f-ElIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9YFX3QN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9YFX3QN?tag=workcocoon-20",
     description:
       "This GTPLAYER variant swaps standard mesh for a proprietary Leatheraire fabric also rated twice as breathable as typical upholstery, combined with the same pocket spring cushioning and self-adjusting linkage armrests as its sibling model. A butterfly embroidery detail adds a distinct look, and the frame carries FSC certification for responsibly sourced wood.\n\nWith 2,016 ratings at 4.4 stars, it has a much larger review base than the mesh version above, making it the better-proven pick if you want Leatheraire's texture over mesh. It ships with a 1-year warranty and the same smooth recline as other GTPLAYER models in this guide.\n\nWorth calling out specifically: leatheraire fabric texture with breathability. The catch is slightly higher price than the mesh version.",
     specs: [
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "2,629 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41nlVoDus6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTGBHK2N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTGBHK2N?tag=workcocoon-20",
     description:
       "Dowinx's self-developed breathable mesh is also rated at 2x airflow versus standard fabric, paired with a sofa-like pocket spring seat and a wingless design that widens the usable seat area compared to typical winged gaming chair shapes. It reclines to 135 degrees with a footrest and rests on an FSC-certified frame.\n\nWith 2,629 ratings at 4.3 stars, it sits in the middle of this guide's review counts. The wingless wide seat is the standout feature here, useful for buyers who find traditional wing-back gaming chairs too narrow or confining.\n\nWingless wide seat design. Set against that, 4.3 stars, on the lower end of this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "2,193 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41in1T98NVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRD8344V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRD8344V?tag=workcocoon-20",
     description:
       "This Dowinx model builds on the same pocket spring and wingless wide seat as Pick 3, adding a removable cooling gel pad for dual cooling on top of the fabric's natural breathability. Upscale embroidery detailing distinguishes it visually, and it reclines to 135 degrees with a footrest included.\n\nAt 4.4 stars across 2,193 ratings, it's rated slightly higher than the non-gel Dowinx model above, though at a higher price. For buyers in warm climates or who run hot during long sessions, the added gel pad is the differentiator worth paying extra for.\n\nA genuine advantage here is that 4.4 stars across 2,193 ratings. The tradeoff is higher price than the non-gel Dowinx model.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "419 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413jImEN9HL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D4TKP2M1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D4TKP2M1?tag=workcocoon-20",
     description:
       "This GTPLAYER model swaps mesh or Leatheraire for a soft flannel fabric over an integrated spring system, sized for bigger users with a 350 lb capacity, the second highest in this guide. Embroidery detailing and self-adjusting linkage armrests carry over from GTPLAYER's other fabric chairs, and it reclines further, to 150 degrees. An SGS-rated gas lift backs the higher weight rating, and it ships with a footrest and 1-year warranty. At a competitive price with 419 ratings, it's the more affordable of the two big and tall fabric chairs in this guide. Deeper 150° recline. That's a real strength, but weigh it against the flip side: only 419 ratings, less proven than other GTPLAYER models.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "133 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41aIG29WmgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G2XC9MH2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2XC9MH2?tag=workcocoon-20",
     description:
       "Dowinx uses a premium microsuede fabric here that's both water-resistant and temperature-regulating, a step up from the mesh and flannel used elsewhere in this guide. It's built with the highest capacity of any chair in this list at 440 lbs, paired with an extra-wide 21.5-inch seat and the same pocket spring cushioning as Dowinx's other fabric models.\n\nAn FSC-certified frame and a lifetime warranty, the longest coverage in this guide, back the premium price. At 4.4 stars with 133 ratings, it's less reviewed than most picks here, but the combination of capacity, seat width, and fabric quality makes it the top big and tall pick for buyers who don't mind paying more.\n\nWorth calling out specifically: extra-wide 21.5-inch seat. The catch is only 133 ratings, least proven in this guide.",
     specs: [
@@ -193,7 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars",
     reviews: "237 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Qa+ghgoOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DF2CW7SS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DF2CW7SS?tag=workcocoon-20",
     description:
       "The Ferghana stands apart from every other chair in this guide by using velvet fabric with a fire embroidery design, a distinctly different look from the mesh, suede, and flannel options elsewhere. Dowinx and GTPLAYER models emphasize breathability and cooling, but the Ferghana leans into style, while still including a massage lumbar cushion, footrest, and linkage armrests.\n\nAn SGS-rated gas lift backs the 250 lb capacity, and it ships with a 1-year warranty. At 4.1 stars with 237 ratings, it's the lowest-rated chair in this guide, but for buyers who specifically want a standout velvet look, nothing else here matches it.\n\nDistinct fire embroidery design. Set against that, 4.1 stars, lowest rating in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -217,7 +217,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "391 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+SyqrT5rL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3RJS9CL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3RJS9CL?tag=workcocoon-20",
     description:
       "Secretlab is a top esports chair brand, and the Titan Evo's proprietary SoftWeave fabric is a different tier of material entirely compared to the mesh, suede, and velvet fabrics elsewhere in this guide. 4D armrests, a 4-way adjustable lumbar system, and a magnetic memory foam head pillow round out a chair built for daily, multi-hour use rather than occasional gaming. It reclines to 165 degrees, the deepest in this guide, rated for 285 lbs and backed by a 5-year warranty. It's by far the most expensive chair here, roughly 4 to 7 times the price of most other picks, but it matches that price with build quality and adjustability none of the budget fabric chairs in this guide offer. A genuine advantage here is that deepest recline in this guide at 165°. The tradeoff is most expensive chair in this guide by a wide margin.",
     specs: [

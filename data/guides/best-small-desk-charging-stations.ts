@@ -42,7 +42,7 @@ export const products: SmallDeskCharger[] = [
     price: "~$40-55",
     priceRange: "~$40--55",
     imageUrl: `${BASE}/01-anker-nano-6-in-1-67w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C5QY4BL2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5QY4BL2?tag=workcocoon-20",
     whyItWins: "The Anker Nano 6-in-1 has the smallest footprint of any multi-function charging station we tested: 9.9 x 9.4 cm at the base. That is slightly smaller than a Post-it note. Despite that size, it delivers two USB-C ports, two USB-A ports, and two AC outlets -- making it the most capable charger per square centimeter in this roundup.",
     bodyParagraphs: [
       "The 0.7-inch (1.8 cm) height keeps it from creating a visual obstruction between your keyboard and monitor. On desks where vertical clearance is tight -- say, a desk tucked under a shelf -- that matters as much as the base footprint.",
@@ -81,7 +81,7 @@ export const products: SmallDeskCharger[] = [
     price: "~$30-40",
     priceRange: "~$30--40",
     imageUrl: `${BASE}/02-anker-615-ganprime-65w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09SG359YF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09SG359YF?tag=workcocoon-20",
     whyItWins: "The Anker 615 is designed as a bar -- long and narrow rather than square -- which makes it ideal for placement along the back edge of a small desk where vertical depth is minimal. At 11.9 x 5.9 cm, it slides into the gap behind your keyboard without pushing forward into your working zone.",
     bodyParagraphs: [
       "The GaNPrime technology makes it noticeably cooler and quieter than comparable non-GaN options. Two USB-C ports support Power Delivery, one USB-A covers older devices, and two AC outlets handle any standard adapter. The built-in 3-foot extension cord eliminates the need to position it near a wall outlet -- run the cord down the back of the desk cleanly.",
@@ -120,7 +120,7 @@ export const products: SmallDeskCharger[] = [
     price: "~$30-45",
     priceRange: "~$30--45",
     imageUrl: `${BASE}/03-anker-525-7-in-1-65w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B3HW6MPD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3HW6MPD?tag=workcocoon-20",
     whyItWins: "The Anker 525 takes a different approach to small-desk ergonomics -- it stands upright as a tower, trading horizontal desk space for vertical height. The base is 11.7 x 6.4 cm, similar to the 615, but the footprint feels smaller in practice because the unit's body rises away from the desk surface rather than spreading across it.",
     bodyParagraphs: [
       "Seven total ports -- three AC, two USB-C, two USB-A -- make this the port-richest option in this roundup. If you regularly use a desk lamp, a laptop adapter, and a USB hub alongside your phone charging, the three AC outlets absorb all of it.",
@@ -159,7 +159,7 @@ export const products: SmallDeskCharger[] = [
     price: "~$35-100",
     priceRange: "~$35--100",
     imageUrl: `${BASE}/04-anker-magsafe-3-in-1-qi2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CF56WHV4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF56WHV4?tag=workcocoon-20",
     whyItWins: "On an Apple-ecosystem small desk, the cleanest solution is to remove charging cables entirely. The Anker MagSafe 3-in-1 Qi2 takes up roughly 10 x 8 cm of desk space -- similar to the Anker Nano -- but eliminates three separate charging cables (phone, watch, AirPods). Net result: fewer cables crossing your desk surface.",
     bodyParagraphs: [
       "The vertical stand design means it can sit behind your phone while charging, rather than requiring the phone to lie flat on a pad. Your phone screen faces you, readable without picking it up. Your Apple Watch charges on the side puck. Your AirPods sit on the bottom Qi pad.",
@@ -199,7 +199,7 @@ export const products: SmallDeskCharger[] = [
     price: "Under $20",
     priceRange: "Under $20",
     imageUrl: `${BASE}/05-anker-powerport-5.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00VH8ZW02?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00VH8ZW02?tag=workcocoon-20",
     whyItWins: "The Anker PowerPort 5 is the most affordable option in this roundup and earns its place entirely on footprint and simplicity. Five USB-A ports, a compact base, and an Anker build that has logged millions of units sold -- this is the most well-proven budget charging hub available. Under $20 means the decision is low-risk.",
     bodyParagraphs: [
       "Five USB-A ports at 2.4A each handle phones, earbuds, Kindles, and any USB-A accessory. PowerIQ technology detects each device and delivers its optimal charging speed. The compact desktop form factor tucks into a corner without demanding attention.",

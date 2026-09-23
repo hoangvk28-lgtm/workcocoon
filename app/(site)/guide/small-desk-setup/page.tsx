@@ -309,7 +309,7 @@ export default async function SmallDeskSetupPage() {
           <h2 className="text-xl font-bold text-white mb-2">Ready to upgrade your small desk?</h2>
           <p className="text-white/90 text-sm mb-5">All 15 products are available on Amazon with Prime shipping.</p>
           <a
-            href="https://www.amazon.com/?tag=deskfinds0d-20"
+            href="https://www.amazon.com/?tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

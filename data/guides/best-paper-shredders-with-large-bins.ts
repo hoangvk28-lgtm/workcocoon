@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,748 Amazon ratings",
     reviews: "10,748 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41FCXr1akDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=workcocoon-20",
     description:
       "At 6 gallons holding over 400 sheets, this has the largest confirmed bin capacity in this guide, cross-cut particles pack more densely than strip-cut, so this genuinely holds more source paper than a strip-cut shredder with the same gallon rating would. Its transparent window lets you monitor fill level at a glance rather than guessing.\n\nThe largest review base here reflects real-world satisfaction with both the shredding performance and the bin's capacity holding up to daily use.\n\nCross-cut density packs more source sheets per gallon than strip-cut. That's a real strength, but weigh it against the flip side: larger bin adds real footprint and weight to move.",
     specs: ["6-gallon bin, 400+ sheet capacity", "18-sheet cross-cut, P-4", "60-minute continuous run time", "Transparent fill window, casters"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,048 Amazon ratings",
     reviews: "1,048 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lBbbWrCsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=workcocoon-20",
     description:
       "Also a 6-gallon bin, but paired with micro-cut particles, even more compact than cross-cut for the same original sheet count, meaning this bin can genuinely hold the most source paper per gallon in this entire guide. Sized appropriately for the 120-sheet auto-feed hopper it serves.\n\n360-degree casters help offset the real weight and footprint tradeoff of carrying this much bin capacity around a shared office.\n\nBin sized appropriately for its large auto-feed hopper. On the other hand, same price as the rank-1 pick with a lower rating. Both are worth keeping in mind before deciding.",
     specs: ["6-gallon bin, micro-cut density (most compact per gallon)", "120-sheet auto-feed hopper", "30-minute continuous run time", "360° casters"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,629 Amazon ratings",
     reviews: "1,629 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VvTJMBXPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=workcocoon-20",
     description:
       "A smaller 4.2-gallon bin than the top two picks, but still genuinely sized for its 100-sheet auto-feed hopper, and priced lower than the 6-gallon alternatives. A bin-full indicator helps you catch the right moment to empty rather than overfilling.\n\nA reasonable choice if you want auto-feed convenience with a large-but-not-largest bin at a friendlier price.\n\nA genuine advantage here is that micro-cut density still holds meaningful source-sheet capacity. The tradeoff is that smaller bin than the top two picks in this guide.",
     specs: ["4.2-gallon bin, micro-cut density", "100-sheet auto-feed hopper", "30-minute continuous run time", "Bin-full indicator, casters"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "A 5-gallon bin with the highest rating and review base in this guide, genuinely large even if not the absolute biggest, and its micro-cut density means real capacity per gallon that rivals the larger-rated bins above. LED indicators show bin-full status directly.\n\nA proven, well-trusted pick if you want a large bin without the largest footprint of the rank 1-2 picks.\n\nMicro-cut density gives strong per-gallon capacity. That said, not the absolute largest bin in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["5-gallon bin, micro-cut density", "12-sheet manual feed, P-4", "60-minute continuous run time", "LED bin-full indicator"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "A 5.5-gallon bin at a moderate price, genuinely large for the cost, holding roughly 900 sheets per full cycle when run continuously. Cross-cut particle density here is a reasonable middle ground between the most compact micro-cut picks and looser strip-cut alternatives.\n\nA solid mid-price choice if you want meaningful bin capacity without paying premium prices.\n\nWorth calling out specifically: solid rating. The catch is shorter continuous run time than the premium picks.",
     specs: ["5.5-gallon bin, cross-cut density", "12-sheet manual feed, P-4", "15-minute continuous run time, ~900 sheets/cycle", "Jam-proof reverse system"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31H0gGU7jHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=workcocoon-20",
     description:
       "Also a 5.5-gallon bin, matching the rank-5 pick's capacity at a lower price, but with a shorter 6-minute continuous run time, meaning you'll fill this large bin more gradually across multiple shorter sessions rather than one long run. Its compact overall footprint is a genuine plus for tight spaces despite the large bin.\n\nA reasonable budget pick for buyers who want a large bin in a compact overall unit.\n\nCompact overall footprint despite the bin size. Set against that, shortest continuous run time in this guide, filling the bin takes multiple sessions. Both matter when comparing it to the other picks here.",
     specs: ["5.5-gallon bin, compact overall footprint", "12-sheet manual feed, P-4", "6-minute continuous run time", "Lowest price in this guide"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,061 Amazon ratings",
     reviews: "1,061 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LSE9gHSWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=workcocoon-20",
     description:
       "A 5.3-gallon bin proportioned well against its 14-sheet capacity and 20-minute run time, capable of holding output from up to 1,400 sheets in one session before needing to empty. Casters help offset the weight of a fuller bin when moving it.\n\nLowest rating among the higher-capacity picks here, weigh that against the genuinely well-matched bin-to-capacity ratio.\n\nThe standout detail is that casters help with moving a fuller bin. Balancing that out, lowest rating among the higher-capacity picks in this guide.",
     specs: ["5.3-gallon bin, casters", "14-sheet manual feed, P-4", "20-minute continuous run, up to 1,400 sheets/session", "ETL listed"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31GNS0CdNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=workcocoon-20",
     description:
       "A 5-gallon bin at a very reasonable price, with by far the largest review base of any pick in this entire batch, real evidence of widespread satisfaction across a huge number of buyers. P-3 security is a step below the P-4 picks elsewhere in this guide, worth knowing if security level matters as much as bin size to you.\n\nA reasonable, extremely well-vetted choice if bin size, price, and proven reliability at scale matter most.\n\nReasonable price for the bin size. That's a real strength, but weigh it against the flip side: p-3 security level, lower than the P-4 picks elsewhere in this guide.",
     specs: ["5-gallon bin, P-3 cross-cut", "12-sheet manual feed", "9-minute continuous run time", "4-mode control, LED indicators"],

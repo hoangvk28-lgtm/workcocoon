@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "2,465",
     imageUrl: "https://m.media-amazon.com/images/I/51RK8V634HL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06XYHXP8W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06XYHXP8W?tag=workcocoon-20",
     description:
       "The FitDesk FDX 3.0 packs magnetic resistance across 8 levels into a padded seat with a backrest, plus a built-in laptop tray, a tablet holder, a storage drawer, resistance bands, and a massage roller. It's the most bundled-in unit in this guide, aimed at buyers who want one purchase to cover the bike, the workspace, and a few extras rather than assembling a setup piecemeal.\n\nIts quick-lock folding frame and wheels make it easy to tuck away between sessions, and it fits a wide height range from about 4'10\" to over 6' tall. The tradeoff is a digital monitor that runs on batteries rather than a fixed power source, a minor inconvenience next to the accessory count.\n\nPadded seat with a backrest for longer sitting sessions. Set against that, digital monitor runs on battery power. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,439",
     imageUrl: "https://m.media-amazon.com/images/I/315FE6Y32HL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079P5DJ3H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B079P5DJ3H?tag=workcocoon-20",
     description:
       "The Deskcise Pro V9 pairs 8 levels of magnetic resistance with a desktop that adjusts in two directions, so the work surface can move independently of the seat as you find the right pedaling position. Silent-rolling wheels make it easy to reposition between a standing spot and a seated one without dragging the frame.\n\nIt's TUV SUD certified and backed by a 3-year frame warranty plus a 1-year mechanism warranty, the longest and most-certified coverage of any pick here. Assembly runs about 10 minutes, and it fits users from roughly 5'1\" to 6'2\".\n\nA genuine advantage here is that longest and most-certified warranty coverage in this guide. The tradeoff is narrower height range than the FitDesk FDX 3.0.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,439",
     imageUrl: "https://m.media-amazon.com/images/I/31jo4AAqY3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTZXPS1T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTZXPS1T?tag=workcocoon-20",
     description:
       "This is the identical Deskcise Pro V9 build in a white finish, carrying the same 8-level magnetic resistance, TUV SUD certification, and 300 lb seat capacity with a 50 lb desktop limit. If you'd rather match a lighter room palette without giving up any of the specs, this is the same machine in a different color.\n\nIts footprint runs roughly 5 square feet, the smallest of any pick in this guide, which makes it a reasonable fit for a tight corner where floor space is at a premium.\n\nSmallest floor footprint in this guide. On the other hand, white finish may show scuffs more visibly over time. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Limited",
     imageUrl: "https://m.media-amazon.com/images/I/31N9QQHVzHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G5646DSX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G5646DSX?tag=workcocoon-20",
     description:
       "This is the only pick in this guide that combines a standing desk, a chair, and an exercise bike into a single piece rather than pairing a bike chair with a desk you already own. An engineered wood desktop sits above the same 8-level magnetic resistance system used elsewhere in this lineup, with 4 wheels for repositioning the whole unit.\n\nIt's TUV SUD certified with roughly 15-minute assembly and fits users from about 5'1\" to 6'2\". This white colorway is a newer listing with a limited review count so far, so treat its track record as unproven rather than assuming it performs identically to FLEXISPOT's longer-established Deskcise Pro line.\n\nTUV SUD certified despite being a newer listing. That's a real strength, but weigh it against the flip side: very limited review history at this point, no proven track record yet.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Limited",
     imageUrl: "https://m.media-amazon.com/images/I/41EsIlFYf3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G564WX3G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G564WX3G?tag=workcocoon-20",
     description:
       "This is the identical 3-in-1 standing desk, chair, and bike combo above in a black finish, with the same 8-level resistance, 300 lb seat and 50 lb desktop capacity, 4 wheels, and TUV SUD certification. It's the pick for buyers who want the combined desk, chair, and bike design but prefer a darker finish.\n\nLike the white version, this specific listing also has a very limited review count so far, so weigh that honestly against the more established Deskcise Pro V9 if a longer track record matters to you.\n\nWorth calling out specifically: tUV SUD certified. The catch is very limited review history, no proven track record yet.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "24",
     imageUrl: "https://m.media-amazon.com/images/I/51Fda3llM5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYVWTS7X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GYVWTS7X?tag=workcocoon-20",
     description:
       "This is the only pick in this guide built to pair with a desk you already own rather than including its own desktop, an alloy steel armless frame with low-back lumbar support and an enlarged, ventilated seat. Its roughly 5-square-foot footprint and silent rolling wheels make it easy to slide under an existing standing desk.\n\nAdjustable seat height and back support let it fit a range of desk heights, and it carries a 300 lb max user weight. It holds the highest rating of any pick in this guide, though that comes from a much smaller review sample than the FLEXISPOT and FitDesk units above, so weigh the rating with that context in mind.\n\nDesigned to slide under a desk you already own. Set against that, rating is based on a much smaller review sample than other top picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "36",
     imageUrl: "https://m.media-amazon.com/images/I/41hZwhjJuOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FSD4QC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FSD4QC2C?tag=workcocoon-20",
     description:
       "The HitGo carries a 330 lb max user weight, the highest capacity of any pick in this guide, on a carbon steel frame with 8-level magnetic resistance. A 9-level seat height adjustment from 24.4 to 33.8 inches, combined with 4-way seat movement (up, down, front, back), gives it more fit flexibility than most chair-only bikes.\n\nIt's rated under 30dB and designed to fit under an existing standing desk, with rolling wheels and under 20-minute assembly. Its review count is on the smaller side, so treat the 4.2-star average as an early read rather than a large-sample verdict.\n\nA genuine advantage here is that 9-level seat height plus 4-way seat movement for a precise fit. The tradeoff is smaller review sample than the top-ranked picks.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "434",
     imageUrl: "https://m.media-amazon.com/images/I/41Au8rKfXZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08L45F72S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08L45F72S?tag=workcocoon-20",
     description:
       "This is the only pick in this guide that isn't a bike itself, an aluminum tripod desk stand designed to sit over a spin bike or indoor trainer you already own. A non-slip rubber surface and two water bottle slots keep a laptop and drink steady while you pedal, and it's compatible with Zwift, TrainerRoad, and Wahoo setups.\n\nAt 9.2 lbs with a height-adjustable stand and no assembly required, it's the cheapest and simplest pick here by a wide margin. It only makes sense if you already own a bike or trainer, since it doesn't include one.\n\nLightweight and requires no assembly. On the other hand, doesn't include a bike, only works if you already own one. Neither should be a surprise once you know to look for it.",
     specs: [

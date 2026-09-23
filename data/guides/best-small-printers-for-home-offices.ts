@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520 covers the full range of what a single-person home office needs: color printing, scanning, copying, and auto duplex, all with a 1.42-inch OLED screen for quick status checks without opening a phone app. Its small footprint suits a desk corner rather than a dedicated office nook.\n\nAs a cartridge-based inkjet, standby power draw is on the lower end of what small printers use, typically 1-2 watts, and ink levels are visible right on the screen. It's built for one person's workflow rather than a shared office queue, so a busy 2-3 person setup may find its speed limiting.\n\nFull print, scan, copy functionality. That's a real strength, but weigh it against the flip side: not built for a multi-person print queue.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 delivers the same core inkjet AIO functions as its pricier sibling, print, copy, scan, and duplex printing, without the OLED display, at the lowest price in this list. For a light home-office workload of occasional letters, forms, and the odd scanned document, the missing screen is not a real loss.\n\nInk cartridges for this model are widely available at retail stores, not just online, which matters if you run out unexpectedly and need same-day replacement. Standby draw stays in typical inkjet territory, lower than the laser picks in this list.\n\nWorth calling out specifically: retail-available ink cartridges, not online-only. The catch is no status display screen.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "HP's DeskJet 4355 bundles a 3-month HP Instant Ink trial with its compact color inkjet AIO body, which softens the cost of the first few months of ownership. After the trial, HP Instant Ink cartridge replacements ship automatically based on usage, though that convenience comes with an ongoing subscription cost worth comparing against buying cartridges outright.\n\nLike the other cartridge-based inkjets in this list, standby power draw is modest, and setup runs through the HP Smart app. It's a reasonable single-user pick if the ink subscription model appeals to you.\n\nAutomatic cartridge replacement shipping. Set against that, instant Ink subscription cost after the trial. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 adds an auto document feeder and built-in fax to the standard compact inkjet AIO formula, both genuinely useful for a home office that occasionally needs to scan multi-page contracts or send a fax without lifting the scanner lid page by page.\n\nIt remains a single-user-oriented device rather than a shared-office printer, and its inkjet cartridges carry the same idle-drying risk as other inkjets in this list if print jobs are infrequent. The ADF is the clear reason to choose this over the plainer TS4320 or TS3720.\n\nA genuine advantage here is that built-in fax for occasional home-office needs. The tradeoff is fax is rarely used by most 2026 home offices.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The DCP-L2640DW is the pick in this list built for more than one person relying on the same printer, a mono laser multi-function with duplex printing, copy, and scan that handles a steadier print queue than the inkjet AIOs here. Laser output is also faster page-to-page, which matters when 2-3 people are sending jobs to the same device.\n\nToner cartridges don't dry out between uses the way ink does, a real advantage for a home office where print jobs come in bursts rather than daily. Standby draw runs higher than the inkjets in this list, typically 3-5 watts versus 1-2 watts, worth factoring in if the printer stays plugged in around the clock.\n\nToner never dries out from bursty usage patterns. That's a real strength, but weigh it against the flip side: highest price in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "If your home office doesn't need scanning or copying, the HL-L2405W delivers small-laser speed and toner economics without paying for a multi-function body. It's genuinely smaller than most compact inkjet AIOs since it skips the scanner bed entirely, and it works with Alexa for voice-triggered printing.\n\nBrother toner cartridges for this model are generally available at retail office-supply stores as well as online, which matters if you run low and need same-day replacement rather than waiting on shipping. Standby draw sits in typical small-laser range, higher than the inkjets here but with no idle drying risk.\n\nWorth calling out specifically: toner never dries out from infrequent printing. The catch is no scan or copy capability.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The EcoTank ET-2400 uses refillable ink tanks instead of cartridges, which meaningfully lowers cost per page for anyone printing regularly rather than occasionally, and tanks hold enough ink to last months without needing refill. It supports color printing, scan, and copy, unlike the mono laser picks in this list.\n\nStandby energy draw for ink-tank printers runs closer to typical inkjet levels than laser, but the tank housing adds bulk to the printer body. This is the pick if your home office wants color capability alongside laser-like resistance to ink drying out.\n\nInk tanks resist drying out better than cartridges. Set against that, higher upfront price than cartridge-based inkjets. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31H9Yu3i01L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=workcocoon-20",
     description:
       "The Workforce WF-2930 rounds out its scan, copy, and fax feature set with an auto document feeder and automatic 2-sided printing, plus a 1.4-inch color display for quick status checks. It's positioned as a workhorse for a home office that still occasionally needs to send or receive a fax, a shrinking but not extinct requirement.\n\nAs a cartridge-based inkjet, it carries the same standby draw and idle-drying considerations as the other inkjets in this list. The combination of ADF, duplex, and fax makes it a reasonable single-device pick if you want most home-office document features without stepping up to laser pricing.\n\nA genuine advantage here is that color display for status checks. The tradeoff is ink cartridges can dry out with infrequent use.",
     specs: [

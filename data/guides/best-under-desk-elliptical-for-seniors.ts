@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "16,995",
     imageUrl: "https://m.media-amazon.com/images/I/31DkFSvNqcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B074F1S194?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B074F1S194?tag=workcocoon-20",
     description:
       "The Cubii JR1 offers a manual, low-impact motion across 8 magnetic resistance levels that's gentle on joints, an important factor for anyone easing into more movement rather than jumping into a high-effort routine. Its 18-inch stride and LCD display keep the basics simple to read at a glance.\n\nAt 25.4 lbs and battery powered, it's easy to position without wrestling with a cord, and Bluetooth syncing to the Cubii App is optional rather than required to use the unit. Its 150 lb max user weight is worth checking against your own weight before buying, since it's the lowest capacity in this guide.\n\nSimple LCD display, no app required to use it. That's a real strength, but weigh it against the flip side: requires active pedaling effort, not motorized.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "5,751",
     imageUrl: "https://m.media-amazon.com/images/I/41eMf-mqUQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DF2WS15J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DF2WS15J?tag=workcocoon-20",
     description:
       "The Putnen runs on an electric motor with 12 manual speeds plus 3 automatic programs, so it can move the pedals with or without active effort depending on how you set it. Forward and reverse direction and silent operation make it easy to use during a call without drawing attention.\n\nA remote control means no bending down to change settings, a meaningful convenience for anyone with limited mobility. Its 500 lb max user weight is the highest in this guide, backed by an alloy steel frame and a 2-year warranty, all at the cheapest price among the electric picks here.\n\nWorth calling out specifically: highest weight capacity in this guide at 500 lbs. The catch is smaller review sample than the Cubii JR1.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "6,376",
     imageUrl: "https://m.media-amazon.com/images/I/51rKK7bnSkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CBT7YZG3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CBT7YZG3?tag=workcocoon-20",
     description:
       "The GUGTTR ships fully assembled and runs the same electric motor setup as the Putnen, 12 manual speeds plus 3 automatic programs, with forward and backward direction and silent operation. A 16-inch stride and remote control round out a design built for minimal setup effort.\n\nBacked by a 1-year warranty plus a 3-month return window and lifetime after-sales support, it's the most-reviewed electric pick in this guide. Its 500 lb max user weight matches the Putnen, making either a strong option for higher-capacity needs.\n\nShips fully assembled. Set against that, shorter warranty than the Putnen's 2 years. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,165",
     imageUrl: "https://m.media-amazon.com/images/I/51wVaGt8vjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F32YZ2H7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F32YZ2H7?tag=workcocoon-20",
     description:
       "The MERACH MR-E32 uses a 60W motor with 12 manual speeds and 12 automatic programs, the most program variety in this guide, and is rated at just 15dB, the quietest pick here. That noise level feels nearly silent during a call, an important detail for anyone sharing a room with family or on frequent video calls.\n\nAt only 11 lbs with an alloy steel frame, it's also the lightest pick in this guide, easy to lift and reposition without strain. An LED touchscreen plus a remote cover the controls, backed by a 1-year warranty.\n\nA genuine advantage here is that lightest pick, easiest to lift and reposition. The tradeoff is 250 lb max user weight is lower than the Putnen or GUGTTR.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,558",
     imageUrl: "https://m.media-amazon.com/images/I/51aTXaODIIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCFLWLMW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCFLWLMW?tag=workcocoon-20",
     description:
       "The Yagud runs on electric/air resistance across 13 speeds ranging from 13 to 105 RPM, controlled entirely by remote so there's no bending down to adjust the pace. An LCD tracks time, speed, calories, and distance for basic session logging.\n\nAt just 6.5kg with a built-in carry handle, it's the lightest and most portable pick in this guide, easy to move between rooms or store in a closet. It's also the cheapest pick in this entire guide and tied with the Cubii JR1 for the highest rating.\n\nLightest and most portable, with a built-in carry handle. On the other hand, 200 lb max user weight is on the lower end of this guide. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "14,492",
     imageUrl: "https://m.media-amazon.com/images/I/41P-VnY+6lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009N9PW1Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B009N9PW1Q?tag=workcocoon-20",
     description:
       "The Stamina InMotion E1000 is the only pick in this guide that works both standing and seated, giving flexibility for anyone who wants to alternate positions throughout the day. Manual magnetic resistance across 8 levels with forward and reverse direction keeps the motion adjustable to comfort level.\n\nNon-slip pedals add a stability detail worth noting for anyone concerned about footing, and the müüv app plus LCD cover basic tracking. Unlike the motorized picks in this guide, it still requires active pedaling effort from the user.\n\nNon-slip pedals add footing stability. That's a real strength, but weigh it against the flip side: requires active pedaling effort, no motorized option.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "60",
     imageUrl: "https://m.media-amazon.com/images/I/41vsz0zWT9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMT1XCHJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMT1XCHJ?tag=workcocoon-20",
     description:
       "The LifePro AutoGlide combines an electric motorized mode with a manual mode, 10 speeds in each, and forward/reverse direction across both. It's the only pick in this guide with built-in red light therapy, 630nm and 660nm LEDs on each pedal, marketed for reducing inflammation and supporting rehab, a feature worth researching against your own needs before relying on it.\n\nA remote plus LCD cover controls, and its 500 lb max user weight matches the highest capacity picks in this guide. Worth noting: with only 60 reviews, its track record is far smaller than every other pick here, so treat early impressions with some caution.\n\nWorth calling out specifically: both motorized and manual modes in one unit. The catch is only 60 reviews, far smaller sample than every other pick in this guide.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "976",
     imageUrl: "https://m.media-amazon.com/images/I/41-ppoSRPiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B085DBBQM9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B085DBBQM9?tag=workcocoon-20",
     description:
       "The Exerpeutic 2000M uses an electric motor to move the pedals on its own, controlled by a hand-held remote on a 6-foot cord, the longest remote cord in this guide, useful for anyone who wants the control comfortably within reach at all times. An automatic 15-minute timer keeps sessions simple to manage.\n\nFoldable pedals with adjustable straps work for arms as well as legs, and a floor mat is included. Rated for users up to 286 lbs, its passive movement style makes it a good fit for anyone easing into more activity without active pedaling effort.\n\nFully passive movement, no active pedaling needed. Set against that, 286 lb max user weight is lower than the Putnen or GUGTTR. Both matter when comparing it to the other picks here.",
     specs: [

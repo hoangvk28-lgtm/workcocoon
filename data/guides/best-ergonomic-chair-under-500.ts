@@ -47,7 +47,7 @@ export const products: ErgoChair500[] = [
     seatType: "Foam + mesh back",
     warranty: "3 years",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-sihoo-m18-ergonomic-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07GNDDNMW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07GNDDNMW?tag=workcocoon-20",
     whyItWorks:
       "Entry point to Sihoo's ergonomic line with 3-year warranty at budget pricing. Adjustable lumbar pad moves vertically to position support at your lower back's natural curve. 330 lb capacity on aluminum-reinforced base. Consistent Sihoo build quality across their product line.",
     tradeoffs: [
@@ -86,7 +86,7 @@ export const products: ErgoChair500[] = [
     seatType: "Full mesh",
     warranty: "3 years",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-sihoo-m57-ergonomic-best-mesh-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07BDFW1Y7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BDFW1Y7?tag=workcocoon-20",
     whyItWorks:
       "Full mesh on both back and seat for maximum airflow. 2D lumbar adjusts both height and depth. 3D armrests. Aluminum alloy base. 330 lb. 3-year Sihoo warranty. Best value-to-spec ratio in the entire guide - 3D armrests and 2D lumbar at the Tier 1 price.",
     tradeoffs: [
@@ -123,7 +123,7 @@ export const products: ErgoChair500[] = [
     seatType: "All-mesh",
     warranty: "Lifetime",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-tralt-office-chair-ergonomic-desk-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=workcocoon-20",
     whyItWorks:
       "Lowest-cost chair in this guide with a lifetime warranty claim. 330 lb all-mesh high-back. Adjustable headrest. 14+ color options. Over 3,600 Amazon reviews. For part-time use (under 5 hrs/day), the TRALT covers basic ergonomic needs at minimum spend.",
     tradeoffs: [
@@ -162,7 +162,7 @@ export const products: ErgoChair500[] = [
     seatType: "3.14\" high-density foam",
     warranty: "1 year",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-marsail-ergonomic-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=workcocoon-20",
     whyItWorks:
       "3D armrests and 2D lumbar at $150-$200 with an independent 2D headrest (height + tilt). 3.14-inch high-density foam seat provides more consistent cushioning than standard foam. Better than Sihoo M57 if you prefer foam over mesh seating.",
     tradeoffs: [
@@ -200,7 +200,7 @@ export const products: ErgoChair500[] = [
     seatType: "Memory foam",
     warranty: "1 year",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-duramont-ergonomic-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0797HZ8W1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0797HZ8W1?tag=workcocoon-20",
     whyItWorks:
       "4D lumbar (most axes in this guide including lateral width), memory foam seat conforms over time, rollerblade wheels quiet on hard floors, 155 deg recline (widest in this guide). Best for users on hard floors or who strongly prefer foam over mesh.",
     tradeoffs: [
@@ -237,7 +237,7 @@ export const products: ErgoChair500[] = [
     seatType: "Mesh",
     warranty: "3 years",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-sihoo-doro-c300-ergonomic-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C3T865C2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C3T865C2?tag=workcocoon-20",
     whyItWorks:
       "The most recommended ergonomic chair under $300 across major review sites in 2026. Dynamic weight-sensing lumbar auto-adjusts as you shift posture - no manual readjustment needed. 330 lb, 3-year warranty, 135 deg recline, adjustable headrest. Best lumbar technology under $300.",
     tradeoffs: [
@@ -274,7 +274,7 @@ export const products: ErgoChair500[] = [
     seatType: "Mesh V-back",
     warranty: "Brand warranty",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-holludle-ergonomic-best-mesh-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DGTBNFRP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGTBNFRP?tag=workcocoon-20",
     whyItWorks:
       "V-shaped dual-panel back provides independent support to left and right sides of the spine. 3D lumbar (height + depth + tilt angle) is more precise than 2D. Available in white - the cleanest aesthetic option in this guide. 3D armrests.",
     tradeoffs: [
@@ -311,7 +311,7 @@ export const products: ErgoChair500[] = [
     seatType: "Wide seat pan mesh",
     warranty: "Brand warranty",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-elabest-ergonomic-best-mesh-office-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CH3P8KGT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CH3P8KGT?tag=workcocoon-20",
     whyItWorks:
       "BIFMA 5.1 certified - independently tested to commercial standards (250,000 tilt cycles, 100,000 seat drop tests). Wide seat pan for users with wider hips or thighs. Built for commercial office daily use. Rare certification at under $350.",
     tradeoffs: [
@@ -347,7 +347,7 @@ export const products: ErgoChair500[] = [
     seatType: "Foam with waterfall edge",
     warranty: "7 years",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-branch-ergonomic-chair.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C15CFF58?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C15CFF58?tag=workcocoon-20",
     whyItWorks:
       "7-year warranty (longest in this guide) and furniture-grade aesthetics available in Sand, White, and multiple colorways. Adjustable lumbar depth and 3D armrests. Looks like designer furniture rather than office equipment - best option for home offices visible on video calls.",
     tradeoffs: [
@@ -386,7 +386,7 @@ export const products: ErgoChair500[] = [
     seatType: "Depth-adjustable foam",
     warranty: "7 years",
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-branch-ergonomic-chair-pro.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FMGZFVK9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMGZFVK9?tag=workcocoon-20",
     whyItWorks:
       "Only chair in this guide with 5D armrests (lateral slide adds precise elbow positioning for narrow/wide shoulders), forward seat tilt (reduces hip flexion during active work), adjustable seat depth (16.7\" to 19.7\"), and aluminum alloy base. 14 total adjustment points. 7-year warranty. Best ergonomic features under $500.",
     tradeoffs: [

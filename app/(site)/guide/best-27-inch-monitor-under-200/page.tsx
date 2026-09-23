@@ -780,7 +780,7 @@ export default async function Best27InchMonitorUnder200Page() {
             All Prime-eligible. 1080p and 1440p IPS options compared.
           </p>
           <a
-            href="https://www.amazon.com/s?k=27+inch+monitor+under+200&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=27+inch+monitor+under+200&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

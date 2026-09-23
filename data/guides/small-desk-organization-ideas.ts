@@ -90,7 +90,7 @@ export const products: OrgProduct[] = [
     price: "$18–$30",
     footprint: "Under-desk floor space",
     amazonUrl:
-      "https://www.amazon.com/s?k=stackable+plastic+drawers+desk&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=stackable+plastic+drawers+desk&tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/71Wxh5qmm7L._AC_UL320_.jpg",
     whyItWorks: [
       "Scales to any height - stack 2, 3, or 4 units",
@@ -129,7 +129,7 @@ export const products: OrgProduct[] = [
     price: "$12–$18",
     footprint: "4 x 6 in",
     amazonUrl:
-      "https://www.amazon.com/s?k=compact+mesh+desk+organizer&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=compact+mesh+desk+organizer&tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/91acTNhrcgL._AC_UL320_.jpg",
     whyItWorks: [
       "Small enough to enforce the one-bin rule",
@@ -168,7 +168,7 @@ export const products: OrgProduct[] = [
     price: "$35–$45",
     footprint: "22 x 9 in",
     amazonUrl:
-      "https://www.amazon.com/s?k=bamboo+monitor+riser+drawer&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=bamboo+monitor+riser+drawer&tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/71DAhif-qoL._AC_UL320_.jpg",
     whyItWorks: [
       "Dual function: ergonomic lift + hidden storage in one",
@@ -188,7 +188,7 @@ export const products: OrgProduct[] = [
     price: "$25–$40",
     footprint: "0 (clamped to desk edge)",
     amazonUrl:
-      "https://www.amazon.com/s?k=monitor+arm+clamp+small+desk&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=monitor+arm+clamp+small+desk&tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/61IOtMmY4cL._AC_UY218_.jpg",
     whyItWorks: [
       "Reclaims the full footprint of the monitor stand (8x10 in)",
@@ -227,7 +227,7 @@ export const products: OrgProduct[] = [
     price: "$15–$22",
     footprint: "10 x 13 in",
     amazonUrl:
-      "https://www.amazon.com/s?k=stackable+letter+tray+desk&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=stackable+letter+tray+desk&tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/91e1bxRbTJL._AC_UL320_.jpg",
     whyItWorks: [
       "Forces a limit on paper accumulation",
@@ -247,7 +247,7 @@ export const products: OrgProduct[] = [
     price: "$12–$18",
     footprint: "5 x 10 in",
     amazonUrl:
-      "https://www.amazon.com/s?k=vertical+file+sorter+desk+compact&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=vertical+file+sorter+desk+compact&tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/91ye5zMi1mL._AC_UL320_.jpg",
     whyItWorks: [
       "Keeps multiple paper categories separated without a filing cabinet",

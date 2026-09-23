@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 pairs a reasonable upfront price with EcoTank's refillable ink system, which is where the real cost-per-page savings come from over time. Scan and copy are included, covering the essentials without added bulk.\n\nAt real-world coverage levels rather than the ISO 5 percent test standard, bottled ink here still comes out well ahead of cartridge printers on a per-page basis, especially for anyone printing forms or graphics with heavier ink coverage than plain text.\n\nA genuine advantage here is that bottled ink holds its cost advantage even at heavy coverage. The tradeoff is no automatic document feeder.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31Yt+pSHuGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=workcocoon-20",
     description:
       "This is the same ET-2800 hardware and ink economics as the black model above, just in a white finish for a lighter desk setup. Cost per page, tank capacity, and print quality are identical between the two colors.\n\nPick this one purely on aesthetic preference rather than expecting a different cost-per-page outcome, both share the same refill bottle pricing and coverage.\n\nWhite finish suits a lighter desk aesthetic. On the other hand, no automatic document feeder. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The ET-2400 is the lowest-priced ink-tank printer in this list, built for everyday home printing. Even with a modest upfront cost, it carries the same bottled-refill ink system as pricier EcoTank models, keeping cost per page low.\n\nAt light-to-moderate real-world volume, this typically pays back its price difference over a basic cartridge inkjet within roughly a year, faster if your printing skews toward graphics or forms with heavier coverage.\n\nCheap ink cost per page even at this entry price. That's a real strength, but weigh it against the flip side: no automatic document feeder.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 adds an automatic document feeder, fax, and Ethernet on top of EcoTank's cheap-ink system, at essentially the same price as the entry-level ET-2400. That makes it the strongest value pick here if you need those extra features.\n\nEthernet gives a more stable connection in offices with wifi interference, and the document feeder speeds up scanning multi-page paperwork without extra cost per page over the simpler models.\n\nWorth calling out specifically: automatic document feeder included. The catch is larger footprint than the entry EcoTank models.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "The Smart Tank 5101 undercuts every EcoTank model here on upfront price while including 2 years of ink, a real head start on the cost-per-page math for a new household. Print, scan, and copy cover the essentials.\n\nHP has previously blocked non-HP ink through firmware updates on some models, worth knowing if you were planning to save further with third-party refill bottles rather than sticking with HP's own ink.\n\n2 years of included ink offsets early cost-per-page math. Set against that, 2.4GHz-only wireless can complicate setup on some routers. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31W+8GDKNLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08XZQVWZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08XZQVWZW?tag=workcocoon-20",
     description:
       "Canon's MegaTank system competes directly with Epson EcoTank on cost per page, with the added strength of better photo output than most ink-tank printers in this list. Print, copy, and scan are included with Alexa voice support.\n\nCanon and Epson ink bottles aren't interchangeable, so factor local retail availability into your decision if you're prioritizing quick access to refills over online-only ordering.\n\nA genuine advantage here is that stronger photo quality than most ink-tank AIOs. The tradeoff is no automatic document feeder.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=workcocoon-20",
     description:
       "The ET-4950 is built for higher volume and higher-coverage printing, forms, graphics, colorful documents, where the gap between advertised and real-world cost per page matters most. A 2.4-inch touchscreen and automatic document feeder round out the package.\n\nAt up to 3 years of rated ink refills, this is the pick in this list best suited to someone who wants to think about ink cost as little as possible over a multi-year stretch.\n\nTouchscreen simplifies status and troubleshooting. On the other hand, highest upfront price among the Epson picks besides the ET-4850. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31r7o2eQ5TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N9JMXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N9JMXF?tag=workcocoon-20",
     description:
       "The ET-4850 rounds out the EcoTank lineup here with fax and Ethernet added to the automatic document feeder and cheap-ink base. It's aimed at a small office replacing an aging printer that still needs those legacy connections.\n\nAt the highest price in this list, it makes sense mainly for offices where predictable, low cost-per-page printing across hundreds of pages a month justifies the upfront spend.\n\nFax and Ethernet cover legacy small-office needs. That's a real strength, but weigh it against the flip side: highest price in this list.",
     specs: [

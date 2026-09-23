@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,491",
     imageUrl: "https://m.media-amazon.com/images/I/41Ut4+ko99L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C77YK94D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C77YK94D?tag=workcocoon-20",
     description:
       "This is a genuine under-desk mount, clamping to the underside of your desk edge with a rotating cup holder that swings out when needed. Combined with a headphone hanger, it's a proven hybrid design given its strong review volume, one of the highest in this entire cup holder research batch.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the GUNKING Luxury 2.\n\nWorth knowing before you decide: Rotates for easy retrieval. On the other side, Requires checking knee clearance before mounting. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Under-desk clamp mount","Rotating cup holder","Integrated headphone hanger","No-drill attachment"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,510",
     imageUrl: "https://m.media-amazon.com/images/I/31XgT+O+XQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=workcocoon-20",
     description:
       "This clamp mounts to a desk edge and can be positioned under the desk lip rather than on top, keeping the cup out of sight similarly to a dedicated under-desk design. Its covered cavity provides genuine spill protection for this hidden placement.\n\nSet against the KDD 4, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Covered cavity for spill protection. On the other side, Not purpose-built exclusively for under-desk use. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Edge clamp, mountable under desk lip","Covered anti-spill cavity","Integrated headphone hanger","White finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "53",
     imageUrl: "https://m.media-amazon.com/images/I/31kNuj75XgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FS7RVCMF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FS7RVCMF?tag=workcocoon-20",
     description:
       "Purpose-built for under-desk mounting with genuine 360-degree rotation, this holder is explicitly marketed as space-saving for home office use, addressing the knee-clearance concern directly by letting you rotate it fully out of the way when not retrieving a drink.\n\nRelative to the GUNKING Luxury 2, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Purpose-built for under-desk use. On the other side, Small review count limits confidence. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["360° rotation, purpose-built for under-desk","Space-saving compact design","No-drill clamp","Home office focused"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "14",
     imageUrl: "https://m.media-amazon.com/images/I/413rBD7AS7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHPSSS33?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHPSSS33?tag=workcocoon-20",
     description:
       "This under-table mount discloses a specific 90mm inner diameter and combines a cup holder with a small pen holder attachment, a genuine dual-purpose design for this hidden placement. Its review count is very small, so treat the strong rating as promising but unproven.\n\nCompared with the DecBeLiv 360° Rotating Cup Holder Under Desk above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Combined pen holder is genuinely useful. On the other side, Very small review count. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["90mm inner diameter, disclosed spec","360° rotation","Integrated pen holder","Under-table clamp mount"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "897",
     imageUrl: "https://m.media-amazon.com/images/I/41IGPpikgiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CH9VBM6R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CH9VBM6R?tag=workcocoon-20",
     description:
       "This is the most feature-dense pick in this comparison, combining a cup holder with a rotating headphone hanger and additional controller storage under one clamp base, verified as a genuinely multi-function design given its substantial review count.\\n\\nEach individual function is necessarily more compact than a dedicated single-purpose holder, a real tradeoff for this combined design's desk-space savings.\n\nSet against the FUGEST 360° Rotating Under Table Desk Cup Holder Cup & Pen Holder, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Saves significant desk-edge space. On the other side, Each individual feature is more compact than a dedicated holder. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["5-in-1 combined clamp base","Rotating headphone hanger","Cup holder","Controller/accessory storage"],

@@ -36,7 +36,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "3,135 reviews",
     imageUrl: `${BASE}/strongtek-cherry.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07N1QCJGZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07N1QCJGZ?tag=workcocoon-20",
     description:
       "The StrongTek cherry wood footrest uses a curved rocker base that delivers active balance board movement rather than a static platform. Cherry wood provides structural hardness and visual warmth that foam cannot replicate. At a competitive price and 4.7 stars it is the established choice for a quality wood rocker at a reasonable price. The 350-pound capacity and no-assembly design reflect the straightforward build quality of this model.",
     specs: ["Cherry wood", "Rocker balance board", "350 lb capacity", "18 inches wide"],
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "1,406 reviews",
     imageUrl: `${BASE}/strongtek-adjustable.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09X1RQSPL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09X1RQSPL?tag=workcocoon-20",
     description:
       "The StrongTek adjustable wood footrest adds height settings to the hardwood platform format, using lauan hardwood plywood with three adjustable height positions. The 400-pound capacity reflects sturdier construction than the cherry wood rocker, and anti-slip rubber feet prevent movement on hard floors.\n\nFor users who need a wooden footrest that adapts to different desk and chair heights, the adjustable model provides the flexibility of height adjustment without switching to foam.",
     specs: ["Lauan hardwood plywood", "3 height settings", "400 lb capacity", "Anti-slip rubber feet"],
@@ -70,7 +70,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "542 reviews",
     imageUrl: `${BASE}/strongtek-stepstool.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0985NVG8L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0985NVG8L?tag=workcocoon-20",
     description:
       "The StrongTek 7-inch step stool footrest provides three fixed angle settings at 0, 12, and 17 degrees, offering a different type of adjustment than height settings. The 7-inch height makes it one of the tallest wooden footrests in this roundup and suits users on higher seats who need more significant lift. It is the most affordable StrongTek model with angle adjustment. The multi-purpose design works as both a footrest and a step stool, adding utility beyond the desk setup.",
     specs: ["7 inches tall", "3 angle settings", "Solid wood", "350 lb capacity"],
@@ -87,7 +87,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "262 reviews",
     imageUrl: `${BASE}/strongtek-rocking.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CZ5YDV1L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZ5YDV1L?tag=workcocoon-20",
     description:
       "The StrongTek three-position rocking footrest adds a flat static mode alongside forward and backward rocking, making it more versatile than the single-mode cherry wood rocker. The hardwood construction provides the same durability benefits as other StrongTek models.\n\nFor users who want rocking motion during active work but a stable platform during focused tasks, the three-position design avoids needing to switch between two separate footrests.",
     specs: ["3 positions: fwd rock, bwd rock, flat", "Hardwood", "Non-slip pads", "No assembly"],
@@ -104,7 +104,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "251 reviews",
     imageUrl: `${BASE}/huanuo-bamboo.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DQTJ21TX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQTJ21TX?tag=workcocoon-20",
     description:
       "The HUANUO bamboo footrest uses sustainable bamboo with four height options spanning 3.15 to 6.89 inches and a pebble massage surface. The combination of bamboo material, height adjustment, and massage surface makes this the most feature-rich bamboo option in the roundup. It is the most affordable bamboo footrest with adjustable height. For users who want an eco-friendly material with practical functionality, the HUANUO bamboo model delivers more than a basic bamboo platform.",
     specs: ["Bamboo", "4 heights (3.15 to 6.89 in)", "Pebble massage surface", "Adjustable angle"],
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "226 reviews",
     imageUrl: `${BASE}/amazer-bamboo-cushion.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DXFK7HNP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXFK7HNP?tag=workcocoon-20",
     description:
       "The Amazer bamboo footrest with cushion adds a reversible washable cushion cover to the bamboo rocking design, making the surface comfortable for bare feet without sacrificing the eco-friendly material. The 3-in-1 design covers rocking, static, and multi-angle positions.\n\nFor users who want bamboo aesthetics but find bare bamboo too firm for extended bare-foot use, the cushion version provides a direct solution while keeping the bamboo structure.",
     specs: ["Bamboo with cushion cover", "3-in-1 rock static multi-angle", "Washable cover", "250 lb capacity"],
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "226 reviews",
     imageUrl: `${BASE}/amazer-bamboo.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DXFGXJK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXFGXJK7?tag=workcocoon-20",
     description:
       "The Amazer 2-in-1 bamboo footrest without cushion offers reversible rocking and stationary modes at a lower price than the cushion version. The golden ratio arc design provides smooth rocking motion while non-slip strips keep the footrest in place on hard floors. It is the most affordable bamboo footrest in this roundup. Users who are comfortable with bare bamboo surfaces do not need to pay more for the cushion version.",
     specs: ["Bamboo", "2-in-1 rocking and stationary", "Non-slip strips", "Eco bamboo"],
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "558 reviews",
     imageUrl: `${BASE}/humanscale-fr300.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B000HVI1RG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000HVI1RG?tag=workcocoon-20",
     description:
       "The Humanscale FR300 combines a solid wood frame with a steel-bearing roller mechanism that provides smoother rocking motion than balance board designs. The 3-inch adjustable height range lets users fine-tune positioning without repositioning the entire unit. It is the premium commercial-grade pick for users who spend 8 or more hours at a desk and want the highest-quality wood rocker mechanism available.",
     specs: ["Solid wood with steel frame", "Ball-bearing rollers", "3-inch adjustable height", "Commercial grade"],

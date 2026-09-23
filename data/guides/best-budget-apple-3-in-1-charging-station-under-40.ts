@@ -42,7 +42,7 @@ export const products: Apple3in1[] = [
     foldable: true,
     adapterIncluded: false,
     imageUrl: `${BASE}/1-esr-halolock-foldable-3-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BXBXLVS2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXBXLVS2?tag=workcocoon-20",
     whyItWorks:
       "Made for MagSafe certified, delivers full 15W to iPhone 12–16, not the 7.5W uncertified cap. Folds completely flat to about the size of a credit card stack for travel. Watch charger arm rotates to nightstand mode (horizontal, wakes Watch clock face). Adjustable phone viewing angle for reading or FaceTime while charging. ESR is one of the few budget brands with genuine Apple certification at this price.",
     tradeoffs: ["Apple Watch charger disk not included, bring your own", "15W only, not the 25W CryoBoost in pick #2"],
@@ -61,7 +61,7 @@ export const products: Apple3in1[] = [
     foldable: false,
     adapterIncluded: false,
     imageUrl: `${BASE}/2-esr-25w-cryoboost-3-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CD1X5LKQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CD1X5LKQ?tag=workcocoon-20",
     whyItWorks:
       "25W CryoBoost, fastest MagSafe charging speed available outside Apple's own 30W charger. Built-in cooling fan reduces phone temperature during charging, extending battery longevity. Apple Watch certified fast charge (Series 7–10): 0–80% in ~45 minutes. Stand design keeps phone at ideal viewing angle. At the top of the $40 budget, best charging performance per dollar.",
     tradeoffs: ["Stand design doesn't fold, not ideal for travel", "Cooling fan makes a faint hum in silence", "Requires 50W USB-C adapter for full 25W (adapter not always included)"],
@@ -80,7 +80,7 @@ export const products: Apple3in1[] = [
     foldable: true,
     adapterIncluded: true,
     imageUrl: `${BASE}/3-keepro-ultra-compact-foldable-3-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CTHV6NSD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTHV6NSD?tag=workcocoon-20",
     whyItWorks:
       "Smallest folded footprint in this roundup: 3\"×3\"×0.85\", fits in a shirt pocket. 3.9oz total weight, lighter than most USB-C wall chargers. 15W MagSafe for iPhone + 5W for Apple Watch + 3.5W for AirPods simultaneously. USB-C PD 21W adapter included. Best 3-in-1 for anyone who travels frequently or has minimal desk space.",
     tradeoffs: ["Ultra-compact AirPods pad is small, requires alignment", "15W only, not 25W CryoBoost", "Very small form factor means less surface stability"],
@@ -99,7 +99,7 @@ export const products: Apple3in1[] = [
     foldable: true,
     adapterIncluded: true,
     imageUrl: `${BASE}/4-keepro-travel-stand-3-in-1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G1LGJMRR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1LGJMRR?tag=workcocoon-20",
     whyItWorks:
       "Foldable design with angle-adjustable phone and Watch arms, customizable viewing position. More stable standing form factor than the ultra-compact model, better for a desk. MagSafe magnetic alignment holds iPhone firmly even at steeper angles. Charges all three Apple devices simultaneously. Under $30 makes it the best-value stand-style 3-in-1 in this guide.",
     tradeoffs: ["Slightly larger folded footprint than KEEPRO Ultra-Compact", "Apple Watch disk not included"],
@@ -118,7 +118,7 @@ export const products: Apple3in1[] = [
     foldable: true,
     adapterIncluded: true,
     imageUrl: `${BASE}/5-budget-foldable-3-in-1-with-light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CD3D2DZ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CD3D2DZ5?tag=workcocoon-20",
     whyItWorks:
       "Under $22, lowest price 3-in-1 that still delivers 15W MagSafe. LED indicator light confirms each device is actively charging. Folds flat; compatible with iPhone 12–16, Apple Watch all series, AirPods 3/4/Pro. USB-C power adapter included. Best entry point for users who want to try a 3-in-1 before committing to a pricier model.",
     tradeoffs: ["Build quality is noticeably lighter than ESR and KEEPRO picks", "No brand name recognition, long-term durability less predictable", "Watch arm position is fixed, no angle adjustment"],

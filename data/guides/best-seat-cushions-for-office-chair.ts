@@ -43,7 +43,7 @@ export const products: SeatCushion[] = [
     coccyxCutout: true,
     gelLayer: false,
     imageUrl: `${BASE}/01-xtreme-comforts-memory-foam-budget-non-slip.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B01N2VSUAE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N2VSUAE?tag=workcocoon-20",
     whyItWorks:
       "Good starting pick for testing if a seat cushion helps before committing to more expensive options. Memory foam construction with a coccyx cutout keeps tailbone pressure minimal. Non-slip bottom grips fabric, mesh, and hard seat surfaces. CertiPUR-US certified foam. Removable, washable cover for easy cleaning.",
     tradeoffs: [
@@ -77,7 +77,7 @@ export const products: SeatCushion[] = [
     coccyxCutout: true,
     gelLayer: false,
     imageUrl: `${BASE}/02-comfilife-premium-memory-foam-coccyx.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B010TLSFA6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010TLSFA6?tag=workcocoon-20",
     whyItWorks:
       "Most consistently recommended across independent review sites. 100% memory foam maintains shape longer than budget alternatives. Well-proportioned coccyx cutout geometry creates reliable tailbone suspension. Fits office chairs, car seats, and wheelchairs. Non-slip bottom grips fabric, mesh, and hard surfaces. Removable velour cover for washing.",
     tradeoffs: [
@@ -109,7 +109,7 @@ export const products: SeatCushion[] = [
     coccyxCutout: true,
     gelLayer: true,
     imageUrl: `${BASE}/03-everlasting-comfort-memory-foam-doctor-recommended.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B01EBDV9BU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01EBDV9BU?tag=workcocoon-20",
     whyItWorks:
       "Larger and more pronounced coccyx cutout distributes weight away from the tailbone onto the surrounding thigh and hip area. Effective for sciatica that radiates into the glutes or leg. Doctor-recommended positioning reduces nerve compression from below. Gel-infused foam reduces heat buildup during long sessions. Available in a large size for wider seats.",
     tradeoffs: [
@@ -140,7 +140,7 @@ export const products: SeatCushion[] = [
     coccyxCutout: false,
     gelLayer: false,
     imageUrl: `${BASE}/04-comfilife-premium-comfort-anchor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08QFCL9VR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08QFCL9VR?tag=workcocoon-20",
     whyItWorks:
       "Flat contoured design addresses general fatigue, hip pressure, and numbness rather than specific tailbone pain. Full seat coverage distributes weight evenly across the sit surface. Orthopedic memory foam maintains consistent density under sustained pressure. Best option for 8 or more hours of WFH use without a specific medical complaint.",
     tradeoffs: [
@@ -171,7 +171,7 @@ export const products: SeatCushion[] = [
     coccyxCutout: true,
     gelLayer: true,
     imageUrl: `${BASE}/05-comfilife-gel-memory-foam-cooling-layer.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08HPQVJMW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08HPQVJMW?tag=workcocoon-20",
     whyItWorks:
       "Cooling gel layer on top of a memory foam base reduces heat buildup during long sessions or in warm rooms. U-shaped coccyx cutout provides tailbone suspension. Gel adds a softer initial feel that transitions to supportive foam as it warms to body temperature. Practical upgrade for hot offices, warm climates, or summer WFH use.",
     tradeoffs: [
@@ -203,7 +203,7 @@ export const products: SeatCushion[] = [
     coccyxCutout: false,
     gelLayer: false,
     imageUrl: `${BASE}/06-cushion-lab-patented-pressure-relief.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08J88HV2P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08J88HV2P?tag=workcocoon-20",
     whyItWorks:
       "Proprietary extra-dense charcoal memory foam does not bottom out under sustained pressure, unlike lower-density foam at sub-$50 price points. Flat contoured shape covers the full seat surface targeting hip and thigh pressure evenly. Holds shape significantly longer under 6 to 10 hours of daily use. Patented geometry targets the ischial tuberosities directly. Charcoal foam runs cooler than standard memory foam.",
     tradeoffs: [
@@ -236,7 +236,7 @@ export const products: SeatCushion[] = [
     coccyxCutout: false,
     gelLayer: false,
     imageUrl: `${BASE}/07-c-cushion-lab-pressure-relief-long-sitting.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08RB43TDK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08RB43TDK?tag=workcocoon-20",
     whyItWorks:
       "Same extra-dense memory foam and patented contoured geometry as pick 6 with a specific focus on hip-to-thigh pressure distribution. Better fit for wide chairs or users who find standard cushions leave the seat pan sides unsupported. Consistent long-term shape retention under daily 8-hour use is the primary advantage over sub-$50 alternatives.",
     tradeoffs: [

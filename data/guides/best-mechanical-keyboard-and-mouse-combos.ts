@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Le3Kt7hgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNTN886Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNTN886Y?tag=workcocoon-20",
     description:
       "POP Keys is the one keyboard in this list that genuinely uses mechanical switches, described by Logitech as typewriter-style mechanical keys, paired with the compact POP Mouse over Bluetooth. That makes it the closest thing to an actual mechanical keyboard and mouse combo currently sold as a matched set.\n\nThe mouse itself is a standard optical Bluetooth mouse, not a mechanical-switch mouse, since mechanical mice with true mechanical click mechanisms are a separate, much smaller category. Emoji shortcut keys and a compact, colorful design lean more toward personal and creative use than a serious productivity or gaming setup.\n\nCompact, portable mouse included. That's a real strength, but weigh it against the flip side: the mouse is a standard optical mouse, not mechanical.",
     specs: [
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31qNb+bxSwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=workcocoon-20",
     description:
       "Worth being direct about this one, the K668 is a genuinely mechanical keyboard with hot-swappable red switches and sound-absorbing foam, but the current listing does not include a bundled mouse despite this guide's combo theme. It's included because it's a genuinely strong mechanical board at a low price, and pairing it yourself with a separate mouse is often the more honest path to a real mechanical keyboard setup.\n\nWith 108 keys, 4 extra hotkeys, and two sets of mixed-color keycaps, it's built for buyers who want to customize their setup rather than accept a generic bundled mouse of unknown quality.\n\nWorth calling out specifically: sound-absorbing foam included from the factory. The catch is no mouse included in the current listing.",
     specs: [
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41khzfsV4mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CF3VGQFL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF3VGQFL?tag=workcocoon-20",
     description:
       "Like the K668 above, this Redragon board is a real hot-swappable mechanical keyboard with red switches and double-shot PBT keycaps, but its current listing also doesn't include a mouse. at a budget-friendly price it's the cheapest genuinely mechanical option in this entire guide, worth pairing with a separate budget mouse if a true mechanical feel matters more than getting a matched set. Anti-ghosting and 11 programmable backlight modes add gaming-style extras that a pure office typist may not need, but the hot-swap sockets mean the switches can be changed later without new hardware. Hot-swappable switches for future customization. Set against that, no mouse included in the current listing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31DsgOOj+1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BKVY4WKT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BKVY4WKT?tag=workcocoon-20",
     description:
       "This is a premium combo, but it's built on Logitech's low-profile scissor-switch keyboard, not a mechanical one, paired with the MX Master mouse line. It's the most expensive pick in this guide, and that price buys genuinely excellent ergonomics and precision rather than a mechanical typing feel.\n\nFor buyers who came to this guide expecting mechanical switches, this pick is worth skipping unless build quality and mouse precision matter more to you than the switch technology, in which case it's a legitimately strong performance combo.\n\nA genuine advantage here is that backlit keyboard for low-light offices. The tradeoff is not a mechanical keyboard despite the mechanical combo search intent.",
     specs: [
@@ -173,7 +173,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31proj8-YIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CBPNWCVS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CBPNWCVS?tag=workcocoon-20",
     description:
       "The MK540 is a standard membrane keyboard, not a mechanical one, matched with a full-size mouse in a single wireless receiver setup. It's a reliable, no-frills full-size combo for a home office rather than a mechanical typing experience.\n\nIts main strength is simplicity, one receiver for both devices, a spill-resistant keyboard design, and a comfortable full-size layout with a number pad, all at a mid-range price.\n\nSpill-resistant keyboard construction. That's a real strength, but weigh it against the flip side: not a mechanical keyboard.",
     specs: [
@@ -204,7 +204,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41ofUJaw9XL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089KV4YYX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089KV4YYX?tag=workcocoon-20",
     description:
       "Logitech built the MK295 specifically around SilentTouch technology, reducing keyboard and mouse click noise by a meaningful margin compared to a standard membrane combo. It's not a mechanical keyboard, but for a shared office or a video-call-heavy day, its quietness is arguably a bigger practical win than mechanical switches would be. A full-size layout with a number pad and a single wireless receiver keep the setup simple, and the low price makes it an easy, low-risk pick for a secondary desk. Worth calling out specifically: very affordable at a budget-friendly price. The catch is not a mechanical keyboard.",
     specs: [
@@ -235,7 +235,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31WcNEJA2vL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F36RKWDH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F36RKWDH?tag=workcocoon-20",
     description:
       "The MK250 connects over Bluetooth rather than a USB receiver, which frees up a USB-A port, a genuine advantage on a laptop with limited ports. It's a basic membrane keyboard and mouse pairing, not a mechanical one, aimed squarely at budget desk setups. at a budget-friendly price it's one of the cheapest combos in this list, a reasonable pick for a secondary computer or a spare desk rather than a primary daily-use workstation. Very low price. Set against that, not a mechanical keyboard. Both matter when comparing it to the other picks here.",
     specs: [
@@ -266,7 +266,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41N1LPbRaCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079JLY5M5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B079JLY5M5?tag=workcocoon-20",
     description:
       "The MK270 is the most basic, most affordable combo in this entire list, a standard full-size membrane keyboard and mouse pair connected through a single 2.4GHz USB receiver. It makes no claim to mechanical switches, which makes its listing more honest than several pricier combos that lean on vague combo language.\n\nIt's a fine choice for a spare desk, a guest workstation, or any setup where the priority is a working keyboard and mouse at the lowest possible price, not a premium typing experience.\n\nA genuine advantage here is that reliable single-receiver 2.4GHz connection. The tradeoff is not a mechanical keyboard.",
     specs: [

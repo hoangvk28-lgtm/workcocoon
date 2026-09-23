@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "A widely bought entry point into vertical mice, using a 2.4GHz wireless receiver rather than Bluetooth, which keeps setup simple across most desktops and laptops. The large review base gives a genuinely useful signal for a budget pick in this category.\n\nThe grip angle is moderate rather than extreme, which can make the adjustment period shorter for first-time vertical mouse users. It is right-hand specific, so left-handed buyers should look elsewhere in this cluster.\n\nThe standout detail is that simple 2.4GHz plug-and-play setup. Balancing that out, right-hand only, no left-handed version in this line.",
     specs: ["2.4GHz wireless USB receiver", "Right-hand specific design", "Moderate vertical tilt", "AA battery powered"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "A more pronounced tilt angle than most budget vertical mice, aimed at reducing forearm rotation more aggressively. It supports both a 2.4GHz receiver and Bluetooth, giving flexibility across devices.\n\nThe body is sized for an average to large hand, and the higher price reflects build materials and multi-device software support rather than a fundamentally different mechanism. Expect a longer adjustment period given the steeper angle compared to entry-level picks.\n\nRechargeable battery avoids AA bulk. That's a real strength, but weigh it against the flip side: steeper angle may extend the adjustment period.",
     specs: ["Dual 2.4GHz and Bluetooth connectivity", "Steeper vertical tilt angle", "Rechargeable battery", "Multi-device software support"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "Combines a rechargeable battery with a budget price point, which is a genuine advantage over AA-powered mice at a similar price since it avoids the added weight and periodic battery swaps.\n\nThe body size sits in the middle of the pool, comfortable for a broad range of hand sizes without being marketed toward either extreme. A solid all-around choice if you want rechargeable convenience without paying premium pricing.\n\nStrong review rating across a large sample. On the other hand, no Bluetooth option, receiver only. Both are worth keeping in mind before deciding.",
     specs: ["Rechargeable built-in battery", "2.4GHz wireless receiver", "Mid-size body", "Budget price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A more compact vertical mouse than the MX Vertical, aimed at buyers with average to smaller hands who still want a reduced-rotation grip angle. It uses a gentler tilt than the steeper premium picks.\n\nDual 2.4GHz and Bluetooth connectivity is included, along with software for remapping buttons across multiple paired devices. It is a reasonable middle ground between the entry-level and top-tier premium picks in this guide.\n\nA genuine advantage here is that dual connectivity for multi-device use. The tradeoff is that gentler angle means less pronounced ergonomic benefit than steeper designs.",
     specs: ["Compact vertical body", "Dual 2.4GHz and Bluetooth connectivity", "Gentler tilt angle than premium full-size picks", "Rechargeable battery"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "2,295 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31o5C5jFQAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=workcocoon-20",
     description:
       "One of the longest-standing designs in the vertical mouse category, wired rather than wireless, which eliminates battery weight entirely for a lighter, more consistent feel in hand over long sessions.\n\nThe premium price reflects an established, well-reviewed design rather than a newer untested one. Buyers who want a wireless option should look elsewhere in this guide, since this model is wired-only.\n\nLong-established, well-reviewed design. That said, premium price for a wired-only mouse. Neither should be a surprise once you know to look for it.",
     specs: ["Wired USB connection", "Fixed ergonomic tilt angle", "No battery, lighter body", "Premium price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A 2.4GHz dongle-based wireless mouse with a rechargeable battery at a price close to AA-powered budget picks, a genuine value combination for buyers who want to avoid battery swaps.\n\nThe body is compact relative to the premium picks in this guide, which suits average to smaller hands, though check current listing photos for dongle storage before relying on it for frequent moves around your desk.\n\nWorth calling out specifically: solid review rating. The catch is no Bluetooth option.",
     specs: ["2.4GHz USB dongle", "Rechargeable built-in battery", "Compact body", "Budget-to-mid price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "9,039 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41h3oxMYtPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=workcocoon-20",
     description:
       "A large review base for a wired vertical mouse, sitting at a mid-range price between the cheapest wired picks and the established premium wired design in this guide.\n\nNo battery weight is a genuine ergonomic upside over wireless alternatives, and it works across both desktop and laptop USB-A ports without any pairing steps.\n\nNo battery weight or bulk. Set against that, no wireless option. Both matter when comparing it to the other picks here.",
     specs: ["Wired USB connection", "Ergonomic vertical design", "No battery, lighter body", "Mid-range price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "The lowest price in this guide for a wired vertical mouse, with a 6400 DPI sensor and adjustable DPI switch that gives more sensitivity control than most budget picks.\n\nAs with any wired vertical mouse, cable drag pulling the body out of its resting angle is worth checking in buyer feedback, and the cable here is a standard rather than braided cord.\n\nThe standout detail is that adjustable DPI sensor. Balancing that out, standard rather than braided cable, may move less freely.",
     specs: ["Wired USB connection", "6400 DPI sensor", "Adjustable DPI levels", "Budget price point"],

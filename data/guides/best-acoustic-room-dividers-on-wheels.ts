@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 40 Amazon ratings",
     reviews: "40 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Fu6stedSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C1GFN2YT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C1GFN2YT?tag=workcocoon-20",
     description:
       "A 3-panel design genuinely balances coverage width against a manageable folded footprint, the most common configuration for a shared office needing occasional room division without permanently losing floor space to storage.\n\nSolid rating base for this product category, real-world evidence of reliable wheeled mobility and acoustic performance.\n\nSolid rating base. That's a real strength, but weigh it against the flip side: less coverage than a 4-panel option for a wider space.",
     specs: ["3 panels, wheeled", "Acoustic office divider", "Portable, foldable for storage", "Solid rating base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 4 Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31N6zWVRQ9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2HC56SD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F2HC56SD?tag=workcocoon-20",
     description:
       "Explicitly heavy-duty construction at a lower price than the standard 3-panel top pick, genuinely worth considering if durability under frequent repositioning matters more than acoustic marketing claims. 72-inch height suits standing-height room division.\n\nVery limited review history so far given how new this listing is, weigh the perfect rating against the small sample size.\n\nWorth calling out specifically: lower price than the top pick. The catch is very limited review history.",
     specs: ["3 panels, 72in height, heavy-duty", "Wheeled, acoustic material", "Lower price than the standard top pick", "Standing-height coverage"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 40 Amazon ratings",
     reviews: "40 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Q4uedNnlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLYKSZYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLYKSZYN?tag=workcocoon-20",
     description:
       "A 4th panel genuinely extends coverage width for dividing a larger open office space, at the real tradeoff of a bulkier folded footprint when you push it aside, plan for the extra floor space this needs even when stored.\n\nSame solid rating base as its 3-panel sibling, consistent evidence of reliable performance across this product line.\n\nSolid, consistent rating base. Set against that, bulkier folded footprint than 3-panel alternatives. Both matter when comparing it to the other picks here.",
     specs: ["4 panels, wheeled", "Wider coverage than 3-panel models", "Acoustic office divider", "Solid rating base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 40 Amazon ratings",
     reviews: "40 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415j3VjblVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DPFRWSTM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DPFRWSTM?tag=workcocoon-20",
     description:
       "A near-identical 3-panel design to the top pick at a marginally lower price, a reasonable alternative if this specific listing's current stock or exact panel finish suits your space better.\n\nSame solid rating base as the top pick, genuinely equivalent performance at this capacity tier.\n\nA genuine advantage here is that marginally lower price. The tradeoff is nearly identical to the top pick, compare current stock/finish before choosing.",
     specs: ["3 panels, wheeled", "Acoustic office divider", "Portable, foldable for storage", "Marginally lower price than the top pick"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 2 Amazon ratings",
     reviews: "2 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31QuqUSZuOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2HCQN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F2HCQN2H?tag=workcocoon-20",
     description:
       "A second listing of the same heavy-duty 72-inch design, worth checking for stock availability or a slightly different panel finish if the primary listing is unavailable.\n\nEven smaller review count than its sibling listing, treat the perfect rating as a very early signal rather than a confirmed track record.\n\nLower price than the standard 3-panel top pick. That's a real strength, but weigh it against the flip side: extremely limited review history.",
     specs: ["3 panels, 72in height, heavy-duty", "Wheeled, acoustic material", "Same specs as the primary heavy-duty listing", "Standing-height coverage"],

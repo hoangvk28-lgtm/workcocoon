@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 34,180 Amazon ratings",
     reviews: "4.5 stars from 34,180 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41lDR7qjYlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=workcocoon-20",
     description:
       "This high-back GTPLAYER chair has the largest review base in this entire list by a wide margin, which gives buyers a strong pool of real feedback to check on how its headrest and reclining support hold up over time. Its high-back design and pocket spring lumbar support are built with reclined use in mind, and a fixed high back like this tends to serve a reclined sitting position better than an upright one.\n\nAt 400 pounds stated capacity and a 3D saddle-shaped cushion, it's built for heavier users and longer sessions, and the foot rest pairs naturally with reclining for a genuine lounge-back posture. If you mostly sit upright at a desk rather than reclining, verify the fixed headrest position still lands correctly at your neck height before buying.\n\nFoot rest pairs well with reclined headrest use. That's a real strength, but weigh it against the flip side: fixed headrest position, not height adjustable.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,070 Amazon ratings",
     reviews: "4.5 stars from 3,070 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tzbvyly7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09D33BXHL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09D33BXHL?tag=workcocoon-20",
     description:
       "This executive-style chair's listing focuses on its flip-up arms, PU leather seat, and adjustable lumbar support, but it does not specifically confirm a headrest in the title or description. We're flagging that directly rather than assuming one exists just because the chair has an executive high-back profile, since not every high-back chair includes a dedicated head support panel. If a confirmed headrest is a must-have for you, a universal clip-on aftermarket headrest, typically this comparison's price range is a legitimate way to add neck support to a chair like this one that otherwise scores well on lumbar support, materials, and review volume. Worth calling out specifically: adjustable lumbar support. The catch is listing does not confirm a headrest.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,843 Amazon ratings",
     reviews: "4.5 stars from 3,843 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418u8mAj3QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLX92FFH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLX92FFH?tag=workcocoon-20",
     description:
       "The N-GEN is built as a high-back recliner chair with a footrest, and its high-back profile is designed around reclined use rather than a strictly upright desk posture. A fixed high back like this generally supports the head and neck well when reclined, since the backrest itself extends past shoulder height, though the listing doesn't call out a separate adjustable headrest panel distinct from the backrest.\n\nHeight adjustable and leather covered, it's a comfortable option for buyers who split time between upright work and reclined breaks, but the headrest support here comes from the fixed high-back shape rather than a movable headrest piece, so it serves one position better than a chair with a true adjustable headrest would.\n\nIncludes footrest for lounge-style breaks. Set against that, no separate adjustable headrest panel confirmed. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 16,386 Amazon ratings",
     reviews: "4.4 stars from 16,386 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uXzrx44BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FVXRZJ12?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FVXRZJ12?tag=workcocoon-20",
     description:
       "This GTPLAYER model explicitly states headrest in its listing title, giving it a clearer confirmation than several other picks in this list, and it pairs that with a footrest and lumbar support at a mid-range price. The second largest review base here backs up its listing claims with real buyer feedback.\n\nAt this price the headrest is likely a fixed foam pad rather than one with height or angle adjustment, which works fine for a single sitting position but can worsen forward head posture if the pad protrudes too far forward for your neck length. Test the position against your own posture if possible before assuming a one-size-fits-all fit.\n\nA genuine advantage here is that large review base backing the listing. The tradeoff is headrest likely fixed, not height or angle adjustable.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,783 Amazon ratings",
     reviews: "4.3 stars from 1,783 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/411wlpMNg+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=workcocoon-20",
     description:
       "The Marsail states headrest directly in its listing alongside 3D armrests and a high-back mesh design, making it one of the more clearly confirmed headrest picks in this list. Mesh construction breathes better than foam or leather headrests, which matters over long sessions since a mesh headrest doesn't trap heat against the back of the neck the way a padded foam or leather one can.\n\nThe 3D armrests add strong horizontal and depth arm adjustment alongside the headrest, though the listing doesn't specify whether the headrest itself adjusts in height or angle, so it's likely a fixed-position pad rather than a fully adjustable one.\n\nMesh headrest breathes cooler over long sessions. On the other hand, headrest likely fixed position, not adjustable. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 64,003 Amazon ratings",
     reviews: "4.3 stars from 64,003 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41qkMtzBIdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=workcocoon-20",
     description:
       "The BestOffice has the single largest review count in this entire list, a genuinely useful signal for a budget chair, but its mid-back design and listing make no mention of a headrest at all. A mid-back chair by definition stops below the shoulders, which means it cannot provide any head or neck support on its own regardless of how the backrest is padded.\n\nIf headrest support matters to you but this chair's price and review volume are otherwise appealing, a universal clip-on aftermarket headrest is the realistic path here, since the mid-back frame has nothing built in to modify or extend upward.\n\nVery low price. That's a real strength, but weigh it against the flip side: no headrest, mid-back design offers no head support.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,382 Amazon ratings",
     reviews: "4.3 stars from 5,382 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41b4JMojCoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=workcocoon-20",
     description:
       "The Furmax is a high-back PU leather executive chair, and while a high back generally extends further up than a mid-back model, this listing does not specifically confirm a dedicated headrest panel the way several other picks in this list do. Executive-styled chairs like this one often rely on the tall backrest shape alone rather than a separate adjustable head support piece.\n\nIt's a reasonable pick for buyers prioritizing executive looks and lumbar support who are open to testing the fixed high-back height against their own neck position, or adding a clip-on headrest if the built-in support falls short.\n\nWorth calling out specifically: high back for upper body coverage. The catch is listing does not confirm a dedicated headrest.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,442 Amazon ratings",
     reviews: "4.3 stars from 3,442 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vkBVigJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=workcocoon-20",
     description:
       "This NEO CHAIR is another mid-back mesh chair without any stated headrest, priced nearly identically to the BestOffice pick above it in this list. As a mid-back design, it has no upper backrest extension to modify into head support, so it's simply not built for that use case out of the box.\n\nIt's a reasonable low-cost mesh task chair for buyers who don't specifically need neck support, and like the BestOffice, a universal clip-on aftermarket headrest is the practical route if you want to add one later rather than expecting the frame itself to accommodate it.\n\nMesh back for breathability. Set against that, no headrest, mid-back frame offers no head support. Both matter when comparing it to the other picks here.",
     specs: [

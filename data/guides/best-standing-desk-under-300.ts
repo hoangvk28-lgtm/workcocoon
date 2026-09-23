@@ -45,7 +45,7 @@ export const products: StandingDesk300[] = [
     presets: "4",
     warranty: "2 years",
     imageUrl: `${BASE}/flexispot-en1-48x24-white-maple.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJ2XKJJT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJ2XKJJT?tag=workcocoon-20",
     whyItWorks:
       "One-piece seamless laminate top (no center seam), 176 lb capacity, 4 memory presets, anti-collision sensor, FlexiSpot 2-year warranty. Best value-dense desk under $250. Ships in two boxes, assembles in under an hour. Available in multiple frame/top color combinations.",
     tradeoffs: [
@@ -81,7 +81,7 @@ export const products: StandingDesk300[] = [
     presets: "3",
     warranty: "3 years",
     imageUrl: `${BASE}/vivo-electric-55x24-light-wood-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08RSK243M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08RSK243M?tag=workcocoon-20",
     whyItWorks:
       "Widest desktop in this guide at 55 inches - fits two 24\" monitors side by side with room for keyboard. 48.4\" max height (best in this guide for complete desks) suits users up to 6'2\". 3-year VIVO warranty is the longest in this guide. Anti-collision protection.",
     tradeoffs: [
@@ -119,7 +119,7 @@ export const products: StandingDesk300[] = [
     presets: "4",
     warranty: "1-2 years",
     imageUrl: `${BASE}/fezibo-dual-motor-48x24-white-natural.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08B4M8Z68?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08B4M8Z68?tag=workcocoon-20",
     whyItWorks:
       "Only confirmed dual-motor desk in this guide under $275. Each leg has its own independent motor - eliminates the racking twist that single-motor desks develop over time. Less lateral wobble at full standing height. 27.3\" minimum height suits shorter users. Under 50dB during adjustment.",
     tradeoffs: [
@@ -157,7 +157,7 @@ export const products: StandingDesk300[] = [
     presets: "3",
     warranty: "1 year",
     imageUrl: `${BASE}/shw-48-electric-drawer-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07GVRKCWP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07GVRKCWP?tag=workcocoon-20",
     whyItWorks:
       "Built-in storage drawer and under-desk cable management tray included at base price - features that cost $20-$40 extra on competing desks. Digital LED display showing exact desk height. Multiple finish options (Oak, Maple, Black, White). Second most affordable complete desk here.",
     tradeoffs: [
@@ -192,7 +192,7 @@ export const products: StandingDesk300[] = [
     presets: "2",
     warranty: "2 years",
     imageUrl: `${BASE}/flexispot-ec1-frame-only.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07H8WGW3M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07H8WGW3M?tag=workcocoon-20",
     whyItWorks:
       "Lowest entry price in this guide (frame only). Fits tops from 43-83 inches wide - maximum flexibility for custom or IKEA surfaces. IKEA LINNMON and KARLBY are popular pairings. 47.6\" max height is second highest in this guide - suits most users up to 6'2\". FlexiSpot 2-year warranty.",
     tradeoffs: [
@@ -230,7 +230,7 @@ export const products: StandingDesk300[] = [
     presets: "4",
     warranty: "5 years",
     imageUrl: `${BASE}/vari-essential-48x24-hazel-wood.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09BRF3QFK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09BRF3QFK?tag=workcocoon-20",
     whyItWorks:
       "5-year warranty (2.5-5x longer than all other desks in this guide). Commercial T-style leg frame - the same used in Vari's office furniture line. Tool-free assembly in 30 minutes. Vari is a standing desk specialist brand. Hazel Wood finish suits warm desk aesthetics.",
     tradeoffs: [
@@ -268,7 +268,7 @@ export const products: StandingDesk300[] = [
     presets: "3",
     warranty: "1 year",
     imageUrl: `${BASE}/fezibo-48x24-double-drawer-shelf.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08GL98LG3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08GL98LG3?tag=workcocoon-20",
     whyItWorks:
       "Two built-in drawers plus an open storage shelf - more storage than any other desk in this guide. For a small apartment where the desk must function as both workstation and storage unit, this eliminates the need for a separate drawer unit. 176 lb capacity handles dual monitor setups.",
     tradeoffs: [

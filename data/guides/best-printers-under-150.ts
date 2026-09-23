@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "The HL-L2405W is the only laser printer at this price tier in our lineup, and it changes the running-cost math meaningfully for anyone printing mostly black-and-white text. Toner costs less per page than inkjet cartridges over time, and toner doesn't dry out the way idle ink cartridges can. It skips scan and copy to keep the price at a budget-friendly price, so pair it with a separate scanner if you need one. Mobile printing and wireless setup make it easy to add to a home network without extra cabling. Toner doesn't dry out during slow weeks. Set against that, no scan or copy functions. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GFXE7NdOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00K5UZO0Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00K5UZO0Q?tag=workcocoon-20",
     description:
       "This compact laser undercuts the Brother laser above on price while offering the same core toner economics, up to 19 pages per minute of monochrome output with a lower cost per page than any inkjet in this list. It's print-only, which keeps both the price and the footprint small.\n\nFor anyone deciding between the two laser picks here, this is the better fit if budget matters more than the small speed and build differences the pricier Brother offers.\n\nA genuine advantage here is that low true cost per page for text printing. The tradeoff is no scan or copy.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The TS6520 brings a 1.42-inch OLED display and clearer controls than most inkjets at this tier, with automatic duplex printing plus scan and copy included. It's a well-rounded home printer that balances usability against ongoing ink cost.\n\nColor output still runs on a combined cartridge design common at this price, so heavy single-color printing draws down the whole cartridge faster than a separate-tank system would. For general home use it remains one of the easiest printers in this list to live with day to day.\n\nDuplex printing included. On the other hand, combined color cartridge design. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 keeps an automatic document feeder and built-in fax, features many printers drop well before this price ceiling. That makes it a fit for a home office that still occasionally needs to scan or fax multi-page paperwork. It leaves plenty of budget headroom under the ceiling for anyone deciding whether to spend more elsewhere, like an ink-tank system, once monthly volume is factored in. Full document workflow support. That's a real strength, but weigh it against the flip side: combined color cartridge design.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 covers print, scan, and copy at the lowest price in this list, with a 3-month Instant Ink trial to soften early cartridge cost. It's wireless and simple to set up, a solid entry point for light home printing needs.\n\nIf your household prints only occasionally, this frees up the most budget headroom of any pick here to put toward paper, extra ink, or another desk accessory instead.\n\nWorth calling out specifically: instant Ink trial offsets early ink cost. The catch is combined color cartridge design.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 is the least expensive pick in this list that still includes automatic duplex printing, a genuinely useful feature for anyone printing multi-page documents regularly. Scan and copy are included in a compact, easy-to-set-up design. It leaves the most budget room under the ceiling of any pick here, which is worth considering if you'd rather put the savings toward extra ink or a printer stand instead. Full print, scan, copy function set. Set against that, combined color cartridge design. Both matter when comparing it to the other picks here.",
     specs: [

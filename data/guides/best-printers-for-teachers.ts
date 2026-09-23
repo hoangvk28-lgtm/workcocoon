@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The DCP-L2640DW is built for exactly the kind of steady, high-volume black-and-white printing a classroom generates all year, worksheets, quizzes, and handouts, at a cost per page that a cartridge-based inkjet can't match once volume climbs. Duplex printing, copy, and scan are all built in.\n\nToner doesn't dry out over school breaks the way inkjet cartridges can, a real advantage for a printer that might sit unused for a week over a holiday. This is the pick for a teacher whose district budget can stretch to a laser printer for the classroom itself, or a teacher-purchased unit meant to last multiple school years.\n\nToner survives school breaks without drying out. On the other hand, no color output. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "Color contrast, not full photo accuracy, is what actually matters for printed educational worksheets, diagrams, charts, and color-coded materials need to stay readable, and a color laser like the HL-L3220CDW holds contrast and detail more consistently than a budget color inkjet. A 250-sheet tray absorbs a week's worth of classroom printing without a refill.\n\nThis is the most expensive pick in this list and will likely exceed a single-year stipend on its own, making it a better fit as a school-purchased or shared department printer than a personal buy funded entirely out of pocket.\n\nLarge 250-sheet tray reduces refill frequency. That's a real strength, but weigh it against the flip side: highest price in this list, likely exceeds a stipend alone.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "For the home side of a teacher's workflow, grading rubrics, parent letters, and curriculum prep, the PIXMA TS6520 is a compact, affordable inkjet with a 1.42-inch OLED display that makes it easy to check status without opening an app. Duplex printing and built-in scan and copy cover the essentials.\n\nThis is not built for daily classroom-scale volume, cartridge costs climb fast at that level, but for the lighter, occasional printing a teacher does at home, it's an efficient, budget-friendly choice that leaves stipend money for classroom supplies instead.\n\nWorth calling out specifically: compact enough for a home office or kitchen desk. The catch is not built for classroom-scale daily volume.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31H9Yu3i01L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=workcocoon-20",
     description:
       "For a teacher moving toward paperless grading, the Workforce WF-2930's automatic document feeder makes scanning a stack of student assignments into cloud storage far faster than feeding pages one at a time. Fax is included but rarely used, duplex printing is the feature that actually saves paper on longer packets.\n\nAt this price it's a solid stipend-friendly home printer that also handles occasional classroom-scale scanning tasks, though sustained daily worksheet printing is better handled by a laser printer over the long run.\n\nFits comfortably within a typical stipend budget. Set against that, cartridge ink costs more per page at high volume. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The EcoTank ET-2400 swaps cartridges for refillable ink tanks, which suits a teacher printing steady volume across an entire school year without wanting to repeatedly buy cartridges out of a limited stipend. Bottle refills cost far less per page than the equivalent cartridge volume.\n\nScan and copy are included alongside print, and the higher upfront price is typically recovered well within a school year for a teacher printing color worksheets, charts, or handouts on any kind of regular schedule.\n\nA genuine advantage here is that handles steady color and text worksheet volume well. The tradeoff is higher upfront price than a basic cartridge inkjet.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "With 2 years of ink included, the Smart Tank 5101 is the pick that best fits a stipend-based budget cycle, buy it once and the ink cost is largely covered for the next two school years rather than needing repeat cartridge purchases out of a this comparison's price range annual stipend. Print, scan, and copy cover the core needs. Wireless printing runs on 2.4GHz only, worth checking against a classroom or home router before buying, since some newer routers default to 5GHz-only networks that this printer won't join without adjustment. Ink-tank economics for ongoing worksheet volume. On the other hand, 2.4GHz-only wireless can be a setup snag on some routers. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413Pj7RejfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFH9RYW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFH9RYW?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8139 covers print, scan, copy, and fax with an automatic document feeder, a full feature set for a teacher who handles a mix of signed forms, multi-page packets, and the occasional color handout. A year of Instant Ink is included, offsetting the higher per-cartridge cost of inkjet during that window.\n\nAfter the Instant Ink trial ends, plan for standard cartridge pricing, which makes this a stronger fit for a teacher's home office than for classroom-scale daily printing where a laser or ink-tank pick has lower ongoing cost.\n\nIncluded Instant Ink trial lowers first-year ink cost. That's a real strength, but weigh it against the flip side: inkjet cost per page rises after the Instant Ink trial ends.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The EcoTank ET-2800 brings the same refillable ink-tank economics as the ET-2400 with a slightly updated design, cost per page stays low across a full school year of worksheet and handout printing, both black-and-white and color. Scan and copy round out the feature set.\n\nThe ink tanks give it a larger footprint than a typical compact home printer, worth factoring in if desk space is tight, but for a teacher printing color materials regularly through the year, the ongoing savings outweigh the extra bulk.\n\nWorth calling out specifically: handles both color and black-and-white worksheet volume well. The catch is larger footprint than a compact cartridge inkjet.",
     specs: [

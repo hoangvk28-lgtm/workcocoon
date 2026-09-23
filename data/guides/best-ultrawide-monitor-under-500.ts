@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,460",
     imageUrl: "https://m.media-amazon.com/images/I/51M6nLrVD8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CWQMZPJC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWQMZPJC?tag=workcocoon-20",
     description:
       "At just at a premium price, the SANSUI is the cheapest way into a 3440x1440 ultrawide on this list, and its backing of 4,460 ratings makes it the most-reviewed pick here too. A 200Hz refresh rate and strong 97% DCI-P3 color coverage punch well above its price point. PiP and PbP let you view two input sources at once, and dual HDMI 2.1 ports plus DisplayPort 1.4 cover most setups without needing an adapter. It's the clear budget entry point in this entire guide. Most-reviewed pick with 4,460 ratings. Set against that, no USB-C port. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "2,607",
     imageUrl: "https://m.media-amazon.com/images/I/41pP4kekZ9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08MVBYWGQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08MVBYWGQ?tag=workcocoon-20",
     description:
       "The Odyssey G5's 1000R curve is the most aggressive, most immersive curve in this guide, matching the curvature of the human eye more closely than the 1500R panels elsewhere on this list. That makes a real difference in how wrapped-around the screen feels at close range.\n\nA 3440x1440 VA panel runs at 165Hz with HDR10 support, and FreeSync Premium keeps motion smooth during fast-paced content. It's a strong pick for anyone who wants the deepest curve on a budget.\n\nA genuine advantage here is that 165Hz refresh with FreeSync Premium for smooth motion. The tradeoff is slightly lower rating than several other picks here.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "55",
     imageUrl: "https://m.media-amazon.com/images/I/41sbKOnrFpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FFCKFWQX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFCKFWQX?tag=workcocoon-20",
     description:
       "The AOC CU34G4V pairs a 1500R curve with a 0.5ms MPRT response time, the fastest response time at a budget-friendly price in this entire guide. A 3440x1440 VA panel runs at 180Hz, well ahead of what most budget ultrawides offer. A 130mm height, swivel, and tilt adjustable stand is a genuine standout at this price, since many budget ultrawides ship with fixed-height stands only. FreeSync Premium rounds out the smooth-motion package. 130mm height-adjustable stand, rare at this price. On the other hand, smallest review sample in this guide at 55 ratings. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "245",
     imageUrl: "https://m.media-amazon.com/images/I/41HhRKN-D9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXS8J4Y5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXS8J4Y5?tag=workcocoon-20",
     description:
       "The ASUS TUF VG34VQ3B stands out for connectivity, its 4x USB 3.2 ports are the most of any pick in this guide, useful for charging a controller, plugging in a headset dongle, or connecting peripherals without reaching around to the back of the desk. A 3440x1440 VA panel runs at 180Hz with a 1500R curve.\n\n90% DCI-P3 color coverage is solid for the price, and built-in speakers mean it can work as a standalone display without external audio. A 3-year warranty backs the whole unit.\n\nBuilt-in speakers work without external audio setup. That's a real strength, but weigh it against the flip side: no USB-C or Power Delivery.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "604",
     imageUrl: "https://m.media-amazon.com/images/I/41um0FZCuPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZL719V1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZL719V1?tag=workcocoon-20",
     description:
       "The Alienware AW3425DWM is the highest-rated pick in this entire guide, backed by 604 ratings at 4.6 stars. Its 1500R curved VA panel runs 3440x1440 at 180Hz with a genuinely fast 1ms response time and 3000:1 contrast.\n\nIt's also the only pick in this guide with a dedicated console mode, a real advantage if you're splitting the monitor between a gaming PC and a console. A 3-year warranty adds peace of mind for a monitor built to run heavy gaming sessions.\n\nWorth calling out specifically: only pick here with a dedicated console mode. The catch is no USB-C port.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "210",
     imageUrl: "https://m.media-amazon.com/images/I/41x4uwmvQpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQF8LRGZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQF8LRGZ?tag=workcocoon-20",
     description:
       "The LG 34WR55QK-B is the best pick at a budget-friendly price specifically for work or productivity use, its Reader Mode reduces eye strain during long reading and writing sessions, and USB-C 65W Power Delivery charges a laptop over a single cable. PbP support and OnScreen Control software round out the office-focused feature set. A 3440x1440 VA curved panel runs at 100Hz, noticeably lower than the gaming-focused picks in this list, a fair tradeoff given its productivity-first design. A height and tilt adjustable stand completes the package. USB-C 65W PD charges a laptop over one cable. Set against that, 100Hz is the lowest refresh rate among the gaming-focused picks here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -242,7 +242,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "115",
     imageUrl: "https://m.media-amazon.com/images/I/41x+8KvLpWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DYKJVX71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DYKJVX71?tag=workcocoon-20",
     description:
       "The MSI MAG 346CQ is the only pick in this guide certified for both G-Sync Compatible and FreeSync, a genuine advantage if you're not sure whether your next GPU will be NVIDIA or AMD. A 3440x1440 VA panel runs at 180Hz with a 1ms MPRT response time and 3000:1 contrast. A height-adjustable stand and built-in speakers add convenience without pushing the price up much, keeping it a well-rounded mid-tier gaming pick at a budget-friendly price. A genuine advantage here is that fast 1ms MPRT response time. The tradeoff is smaller review count than the top-tier picks.",
     specs: [
@@ -274,7 +274,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "467",
     imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=workcocoon-20",
     description:
       "The Dell S3425DW is the most premium pick still comfortably at a budget-friendly price in this guide, with a 0.03ms response time that's the fastest in this entire list by a wide margin. A 3440x1440 VA panel runs up to 120Hz, and USB-C 65W Power Delivery adds single-cable laptop charging that most gaming-focused picks here skip. Color accuracy is excellent at 99% sRGB and 95% DCI-P3, and the Dell Premium Panel warranty backs the display itself. It's the pick for buyers who want both gaming-grade speed and productivity features in one screen. USB-C 65W PD, a rare feature among the gaming-focused picks here. On the other hand, most expensive pick in this guide. Neither should be a surprise once you know to look for it.",
     specs: [

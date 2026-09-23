@@ -602,7 +602,7 @@ export default async function ErgonomicDeskSetupPage() {
           <h2 className="text-xl font-bold text-white mb-2">Browse ergonomic desk accessories on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">All products are Prime-eligible with free delivery.</p>
           <a
-            href="https://www.amazon.com/s?k=ergonomic+desk+accessories&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=ergonomic+desk+accessories&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41B+stBkkiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09Q2ZZGH2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09Q2ZZGH2?tag=workcocoon-20",
     description:
       "The A6T is a genuine box-included kit, condenser mic, boom arm, and pop filter, which covers the most common gap in beginner setups where a pop filter is bought as an afterthought. A mute button on the mic body rounds out a setup aimed squarely at first-time streamers and callers.\n\nAt this price point the boom arm's spring is lighter duty than a standalone arm bought separately, so expect some gradual drooping over a long session rather than the rock-solid hold of a premium arm. For casual streaming or calls, that tradeoff is reasonable.\n\nBudget-friendly starter kit price. Set against that, boom arm spring tension is lighter duty, may droop over long sessions. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rKkw3TT2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=workcocoon-20",
     description:
       "The AM8T bundles a dynamic capsule with a boom arm, mute button, and headphone jack for direct monitoring, making it the most complete dynamic-mic kit in this list. Dynamic capsules need closer mic positioning than a condenser, typically 6 to 8 inches from your mouth at roughly a 45-degree off-axis angle, which the included boom arm's reach comfortably accommodates on most standard desks.\n\nUSB or XLR output gives it a real upgrade path if you eventually add an audio interface or mixer, letting you keep the same mic rather than replacing it.\n\nA genuine advantage here is that headphone jack for real-time monitoring. The tradeoff is no pop filter included.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41WQG5fyf7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=workcocoon-20",
     description:
       "The K688 is built specifically around podcast and voice-over recording, with a dynamic capsule, boom arm, mute button, and headphone jack all included in the box. For an L-shaped desk or one with a shelf behind it, check the boom arm's stated reach against your desk depth before buying, kit arms typically extend 30-40cm, which may not leave enough clearance behind a shelf to fully articulate.\n\nUSB or XLR connectivity again gives this kit an upgrade path to a dedicated mixer down the line without replacing the mic itself.\n\nDynamic capsule well suited to voice recording. On the other hand, no pop filter included, worth adding separately for recording. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FYNR1PLxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=workcocoon-20",
     description:
       "At a competitive price, the TC310+ is the lowest-priced complete kit in this list that still genuinely includes a boom arm, condenser mic, gain control, and a tap-mute surface. For a beginner just testing whether streaming or calls are a regular habit, this is a reasonable low-cost way to get a full setup in one box. As with any budget kit, treat the bundled boom arm as a starter piece rather than a long-term one. If you outgrow it, the arm's thread mount is a standard size, so upgrading to a premium standalone arm later while keeping this mic is straightforward. Gain control included. That's a real strength, but weigh it against the flip side: touch mute has a higher accidental-trigger risk than a click button.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41CAkB3jY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01L3LL95O?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01L3LL95O?tag=workcocoon-20",
     description:
       "To be upfront, this is a standalone boom arm, not a mic-and-arm kit, and it belongs in this list as the accessory pick for anyone whose current mic came with only a desktop stand. It's compatible with a wide range of mics including Blue Yeti, HyperX QuadCast, SoloCast, Snowball, FIFINE, and Shure SM7B, covering both common thread sizes.\n\nIf you already own a mic without a bundled arm, this is the straightforward way to add one without replacing the mic entirely, and its better spring tension calibration compared to what ships in budget bundled kits holds position more reliably over a long session.\n\nWorth calling out specifically: better spring tension than arms bundled in budget kits. The catch is does not include a microphone, this is arm-only.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vZkgLpKmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=workcocoon-20",
     description:
       "The AM8 ships with a desktop stand rather than a boom arm, so despite sharing the same dynamic capsule and mute button as its AM8T sibling, it's not a boom-arm kit on its own. It earns a spot here as the pick for buyers who prefer a fixed desktop stand or plan to pair it with the InnoGear arm above.\n\nA headphone jack for monitoring and RGB lighting carry over from the AM8T, and the dynamic capsule keeps the same room-noise rejection advantage.\n\nHeadphone jack for direct monitoring. Set against that, no boom arm included despite similar naming to kit variants. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418a-WT28NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0932BCM2T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0932BCM2T?tag=workcocoon-20",
     description:
       "Like the AM8, the ZealSound is a mic-only pick, its listing doesn't include a boom arm, so it's not a true kit despite sitting in similar search results as one. What it does offer is built-in noise cancellation and broad device compatibility across PC, Mac, iPhone, iPad, and Android.\n\nIf you want this mic on a boom arm, the InnoGear accessory above covers standard thread sizes and is a straightforward add-on rather than starting over with a different mic entirely.\n\nA genuine advantage here is that noise cancellation reduces room pickup. The tradeoff is no boom arm included, despite appearing in kit-adjacent searches.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GaUMJg2pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=workcocoon-20",
     description:
       "The K669B rounds out this list as the cheapest mic-only option, no boom arm and no mute button per its listing, included at this price point. It's a fine standalone condenser for basic recording, but it needs the InnoGear arm above or a similar accessory if you want boom-arm positioning.\n\nWe're including it specifically to illustrate the price gap between a true all-in-one kit and a bare mic, since buyers searching for a kit will otherwise see this listed alongside genuine kits without realizing the arm is missing.\n\nSolid metal build for the price. On the other hand, not a kit, no boom arm or mute button included. Neither should be a surprise once you know to look for it.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "A mechanical-only True HEPA design without any ion-generating or corona-discharge technology, by far the largest review base of any pick here as real-world evidence of reliable, genuinely ozone-free operation.\n\nRelying on mechanical HEPA filtration and activated carbon rather than ion-generation is the most reliable way to avoid ozone byproduct entirely, this unit's design reflects that approach.\n\nBy far the largest review base of any pick here. On the other hand, no smart app control. Both are worth keeping in mind before deciding.",
     specs: ["Mechanical True HEPA H13, no ion generation", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A mechanical HEPA design with an air quality monitor and filter indicator, a large review base and 3-year warranty back this as a proven genuinely ozone-free pick.\n\nVerifying the actual mechanism rather than assuming from branding language alone matters here, this unit's mechanical filtration approach avoids ozone byproduct without relying on ion-generating technology.\n\nA genuine advantage here is that air quality monitor for real-time feedback. The tradeoff is that higher price than the top pick.",
     specs: ["Mechanical HEPA filter, no ion generation", "Air quality monitor, filter indicator", "3-year warranty", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "PlasmaWave technology is marketed under a 'plasma' name, but marketing terms like 'ionic' or 'plasma' don't automatically mean a unit generates ozone, WINIX publishes this technology as producing negligible ozone output.\n\nA large, well-established review base backs this as a proven pick, buyers with heightened ozone sensitivity should still verify current published specifications directly before purchasing.\n\nTrue HEPA filtration as the primary particulate mechanism. That said, 'Plasma' branding requires verifying published ozone specifications directly. Neither should be a surprise once you know to look for it.",
     specs: ["PlasmaWave technology, published as negligible ozone output", "Large, established review base", "True HEPA filtration", "Multi-stage filtration"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "An affordable mechanical HEPA design with a solid review base, genuinely capable for a buyer prioritizing a simple, verified ozone-free filtration approach.\n\nA mechanical-only design avoids the ozone-verification question entirely, since there's no ion-generating technology to check specifications on in the first place.\n\nWorth calling out specifically: more affordable than premium alternatives. The catch is no air quality sensor.",
     specs: ["Mechanical HEPA filtration", "Solid review base", "Budget-friendly", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control and a mechanical True HEPA and carbon design, genuine headroom for a larger room wanting verified ozone-free operation.\n\nA mechanical-only approach scales well to larger rooms without introducing an ion-generating stage that would need separate ozone-output verification.\n\nSmart app control for monitoring. Set against that, higher price than budget alternatives. Both matter when comparing it to the other picks here.",
     specs: ["Up to 1875 sq ft rated (open room)", "Mechanical True HEPA and carbon filtration", "Smart app control", "Large review base"],

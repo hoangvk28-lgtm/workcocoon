@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,070 Amazon ratings",
     reviews: "4.5 stars from 3,070 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tzbvyly7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09D33BXHL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09D33BXHL?tag=workcocoon-20",
     description:
       "This is the highest priced chair in this list, and while that's still well below true premium-brand territory, it packs the strongest combined ergonomic feature set here, adjustable lumbar support, flip-up arms, and a PU leather and mesh hybrid build with an executive profile. The largest review base among the higher-priced picks in this list backs up its real-world durability at this price point. Getting genuine value from any adjustable ergonomic chair, this one included, generally requires an initial setup period of 6 or more individual adjustments and 30 minutes or so to dial in seat height, lumbar depth, and arm position correctly, not just sitting down and expecting instant comfort. Budget for that setup time rather than judging the chair in the first five minutes. A genuine advantage here is that adjustable lumbar support and flip-up arms. The tradeoff is still budget-to-midrange, not true premium-brand pricing.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,572 Amazon ratings",
     reviews: "4.3 stars from 3,572 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31qifS1PZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B41X9SMT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41X9SMT?tag=workcocoon-20",
     description:
       "The Primy is a tall drafting-style chair built for standing desks, extending the usual seat height range with flip-up armrests and an adjustable footrest ring. Fit matters more than brand here, and this chair suits a specific body-plus-desk combination, taller users at a standing desk, better than a general-purpose ergonomic chair built for a standard-height desk would.\n\nLumbar support is included alongside the taller adjustable range, though as with any adjustable chair, expect a real setup period to dial in footrest height, seat height, and lumbar position correctly before it delivers its intended ergonomic value.\n\nFlip-up armrests and adjustable footrest ring. On the other hand, tall design is a specific fit, not general-purpose. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,783 Amazon ratings",
     reviews: "4.3 stars from 1,783 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/411wlpMNg+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=workcocoon-20",
     description:
       "The Marsail leads this list on arm adjustability specifically, with 3D armrests that move up and down, forward and back, and pivot inward or outward, plus a confirmed headrest and high-back mesh design. This kind of multi-axis adjustment is the type of feature that genuinely differentiates an ergonomic chair from a basic task chair, regardless of overall price tier.\n\nMesh breathes cooler than the PU leather picks in this list over long sessions, and the confirmed headrest adds neck support other picks here lack. As with any highly adjustable chair, plan for a proper setup session covering seat height, lumbar depth, arm position, and headrest height rather than a five-minute first impression.\n\nConfirmed headrest. That's a real strength, but weigh it against the flip side: higher price than several other picks.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 2,568 Amazon ratings",
     reviews: "4.2 stars from 2,568 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41g7G7Hgo4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKNN49QP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKNN49QP?tag=workcocoon-20",
     description:
       "This NEO CHAIR pick offers a genuinely useful ergonomic combination for at a budget-friendly price, flip-up armrests, adjustable height, lumbar support, and a high-back mesh design for more upper body coverage than a mid-back alternative. It's a clear value pick in this list rather than a true premium option, and we're honest about that positioning. At this price the flip mechanism and adjustment hardware are more likely to use lower-cost materials than the higher-priced picks in this list, so expect somewhat less long-term durability under frequent daily adjustment in exchange for the lower upfront cost. Worth calling out specifically: high back for more upper body coverage. The catch is lower-cost hardware materials at this price point.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,442 Amazon ratings",
     reviews: "4.3 stars from 3,442 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vkBVigJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=workcocoon-20",
     description:
       "At a competitive price, this is the lowest priced chair in this list, and it's genuinely an entry-level ergonomic chair rather than a premium one, covering the basics of lumbar support, adjustable height, and mesh breathability without additional adjustability like flip-up arms or a headrest. We're including it because it's a fair budget baseline against the more feature-rich picks above it. If your budget is firmly at a budget-friendly price, this is a reasonable starting point for basic ergonomic support, but expect a shorter break-in period assessment since simpler chairs like this typically have less adjustment range to fine-tune over the first 60 to 90 days of regular use. Covers basic lumbar and height adjustment. Set against that, no flip-up arms or headrest. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,382 Amazon ratings",
     reviews: "4.3 stars from 5,382 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41b4JMojCoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=workcocoon-20",
     description:
       "The Furmax leans on executive PU leather styling and a high back rather than a deep adjustable feature set, its listing doesn't confirm flip-up arms or a headrest the way several other picks in this list do. Fit matters more than brand or looks here too, so if your priority is genuinely more adjustment points rather than a polished managerial look, this isn't the strongest ergonomic pick in this list.\n\nIt has a solid review base and reasonable price, and remains a fair option if executive appearance matters as much to you as adjustability, but buyers focused purely on ergonomic feature depth should look at the Marsail or the top pick instead.\n\nA genuine advantage here is that high back for full upper body coverage. The tradeoff is fewer confirmed adjustable ergonomic features than other picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 64,003 Amazon ratings",
     reviews: "4.3 stars from 64,003 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41qkMtzBIdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=workcocoon-20",
     description:
       "The BestOffice has the largest review count in this entire list by a wide margin, a genuinely useful signal for a budget chair even though it's the most basic feature set here, breathable backrest, lumbar support, and adjustable height without arm adjustability or a headrest. This is clearly entry-level, not premium, and we're upfront about that positioning.\n\nAt this price the sponge seat cushioning is more basic than the higher-priced picks' cushioning materials, and there's no adjustable armrest or headrest to fine-tune, so the setup period here is shorter and simpler than for a more feature-rich chair.\n\nVery low price. On the other hand, basic entry-level feature set, not premium. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,442 Amazon ratings",
     reviews: "4.3 stars from 3,442 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XIOlHd8WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FXGB6L96?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FXGB6L96?tag=workcocoon-20",
     description:
       "This NEO CHAIR variant covers similar entry-level ground to the other budget mid-back picks in this list, mesh seat, lumbar support, adjustable height, without flip-up arms or a headrest. It's a reasonable low-cost option for buyers whose priority is basic mesh breathability and lumbar support over deeper ergonomic adjustability. As with the other lower-priced picks in this list, this one is honestly entry-level rather than premium, and buyers wanting a true premium ergonomic experience should weigh the certified refurbished path covered in this guide's advisory section instead of expecting premium-brand performance from any pick at this price. Mesh cushion seat for breathability. That's a real strength, but weigh it against the flip side: no arm adjustability or headrest.",
     specs: [
