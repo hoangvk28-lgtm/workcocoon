@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,732",
     imageUrl: "https://m.media-amazon.com/images/I/419C11rQcXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=workcocoon-20",
     description:
       "At 22 inches with double-ball clamp joints at each segment, this arm is purpose-built for overhead shooting, with an anti-deflection interface designed to stay secure even if accidentally bumped mid-recording. Its 600g load rating accounts for the extra leverage stress of a fully extended overhead reach.\\n\\nThe crab clamp opens to 63.5mm, fitting most desk edges, and twelve silicone contact points prevent both scratching and slippage under the sustained torque of an overhead extension.\n\nIt leads this comparison mainly on build reinforcement and how well it holds a phone steady during touch interaction, worth weighing directly against the NEEWER 22\" Magic Arm with Desk C Clamp.\n\nRated load accounts for extended-reach leverage. That's a real strength, but weigh it against the flip side: most expensive pick in this comparison.",
     specs: ["22in double-ball-joint magic arm","600g rated for overhead leverage","Anti-deflection locking interface","Crab clamp opens to 63.5mm"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "988",
     imageUrl: "https://m.media-amazon.com/images/I/31jBgnNJK5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=workcocoon-20",
     description:
       "This magic arm's anti-twist mounting pins hold the connection firm specifically under the sustained overhead torque this guide focuses on, and it swaps between a phone holder, action camera, or microphone using standard threading. It edges out the SMALLRIG pick slightly on rating.\n\nSet against the SMALLRIG 22\" Magic Arm Clamp, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: anti-twist connection resists overhead torque. The catch is similar high price to SMALLRIG.",
     specs: ["22in magic arm with anti-twist pins","1/4in and 3/8in threads","C clamp desk mount","Multi-device compatible"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,809",
     imageUrl: "https://m.media-amazon.com/images/I/41Gvf-8IhNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXPJZ93B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXPJZ93B?tag=workcocoon-20",
     description:
       "This is a genuinely distinct overhead product combining a 10 inch selfie ring light with an integrated phone mount and tripod stand, purpose-built for overhead streaming, Zoom calls, or TikTok recording where lighting matters as much as camera angle.\\n\\nAs a combined lighting-plus-mount product, verify the light's genuine quality independently, since the mounting arm itself is a secondary feature to the ring light here.\n\nRelative to the NEEWER 22\" Magic Arm with Desk C Clamp, this pick leans toward a different priority, whether that's a lower price, a longer reach, or a mounting style suited to a different desk edge.\n\nGood for streaming and video calls specifically. Set against that, tripod-based, not a desk-clamp arm like the others here. Both matter when comparing it to the other picks here.",
     specs: ["10in selfie ring light integrated","Tripod stand with overhead reach","Phone holder included","Adjustable brightness (per listing)"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "43,079",
     imageUrl: "https://m.media-amazon.com/images/I/31-9l0KA5YL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07S9JXQP2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07S9JXQP2?tag=workcocoon-20",
     description:
       "This long gooseneck arm has the highest review count of any overhead-capable pick in this comparison, extending far enough to reach a genuine top-down angle from a desk-edge clamp. As a gooseneck rather than a magic arm, expect it to hold shape less rigidly under extended overhead extension than the SMALLRIG or NEEWER picks.\\n\\nIt remains a strong budget-conscious option if your overhead use is occasional rather than a daily recording setup.\n\nCompared with the Evershop Ring Light Overhead Camera Phone Mount for Desk above, this pick trades some of that pick's reach or reinforcement for a different balance of price and simplicity, worth weighing against your own desk setup.\n\nMore affordable than magic arm alternatives. That's a real strength, but weigh it against the flip side: less rigid hold than a friction-locked magic arm at full overhead extension.",
     specs: ["Long flexible gooseneck arm","Desk edge clamp base","Highest review count in this cluster","Standard spring phone clip"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "11,813",
     imageUrl: "https://m.media-amazon.com/images/I/31HD++Czq5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9N41MCS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9N41MCS?tag=workcocoon-20",
     description:
       "At 38 inches, this is the longest reach in this comparison, useful for centering an overhead shot over a wide desk when your only available clamp point is at the desk's edge. The nylon-braided sleeve resists the abrasion that comes from routing a long arm across desk objects.\n\nSet against the SAIJI, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: abrasion-resistant construction. The catch is gooseneck design sags more at full extension than a magic arm.",
     specs: ["38in nylon-braided gooseneck","Longest reach in this comparison","Abrasion-resistant sleeve","Standard spring clip"],

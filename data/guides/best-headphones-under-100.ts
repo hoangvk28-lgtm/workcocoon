@@ -43,7 +43,7 @@ export const products: Budget100Headphone[] = [
     battery: "35h with ANC on + Quick Charge",
     ldac: false,
     imageUrl: `${BASE}/sony-wh-ch720n.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BS1QCFHX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BS1QCFHX?tag=workcocoon-20",
     whyItWorks:
       "Sony Dual Noise Sensor Technology with Integrated Processor V1 handles mid-to-high frequency noise (voices, keyboard sounds, ambient chatter) more effectively than the primarily low-frequency ANC of budget brands; this is the same core ANC architecture as the WH-1000XM5 at $350, scaled down; 35 hours with ANC on; Quick Charge delivers 60 minutes from 3 minutes of charging; multipoint Bluetooth; 192g (lightest full-size ANC headphone in the guide); Sony Headphones Connect app with adaptive sound control; MSRP $179 but frequently discounts to $80 to $100",
     tradeoffs: [
@@ -76,7 +76,7 @@ export const products: Budget100Headphone[] = [
     battery: "50h (ANC on) / 70h (ANC off)",
     ldac: false,
     imageUrl: `${BASE}/soundcore-life-q30.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08HMWZBXC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08HMWZBXC?tag=workcocoon-20",
     whyItWorks:
       "Three dedicated ANC modes nobody else in the guide provides: Transport mode optimizes for low-frequency hum (airplane, bus engines), Outdoor mode suppresses traffic and wind, Indoor mode reduces HVAC and office chatter; 50 hours with ANC on (70h without) is the highest ANC battery in the guide; Hi-Res Audio certified 40mm drivers; multipoint Bluetooth; reliably sub-$80 without depending on sale timing; the most reliable value in the under-$100 ANC category",
     tradeoffs: [
@@ -107,7 +107,7 @@ export const products: Budget100Headphone[] = [
     battery: "N/A",
     ldac: false,
     imageUrl: `${BASE}/audio-technica-ath-m40x.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00HVLUR54?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00HVLUR54?tag=workcocoon-20",
     whyItWorks:
       "Step above ATH-M30x with CCAW (Copper-Clad Aluminum Wire) voice coils that respond faster to transients; wider frequency extension to 24kHz; two detachable cables in the box (1.2m straight plus 3m coiled); 90 degree swiveling ear cups for one-ear monitoring during recording; detachable cables eliminate the most common headphone failure point without discarding the headphone; the tool for music production, podcasting, or critical listening at a fixed desk",
     tradeoffs: [
@@ -139,7 +139,7 @@ export const products: Budget100Headphone[] = [
     battery: "70h with ANC on",
     ldac: true,
     imageUrl: `${BASE}/1more-sonoflow.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B7NBXWDV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B7NBXWDV?tag=workcocoon-20",
     whyItWorks:
       "70 hours of ANC battery is by far the longest in the guide and exceptional by any standard; at 4 hours daily use that is more than two weeks between charges with ANC running; DLC (Diamond-Like Carbon) coated driver produces harder more responsive diaphragm movement than standard mylar drivers; combined with LDAC this delivers Hi-Res audio well above most headphones at this price; Bluetooth 5.3; USB-C charging",
     tradeoffs: [
@@ -174,7 +174,7 @@ export const products: Budget100Headphone[] = [
     battery: "N/A",
     ldac: false,
     imageUrl: `${BASE}/akg-k361.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07X2LQRCF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07X2LQRCF?tag=workcocoon-20",
     whyItWorks:
       "AKG professional monitor heritage (Samsung/Harman engineering) that folds flat using 3-position hinges; three interchangeable cables (1.2m straight, 3m coiled, 3m straight) for every use case; Mini-XLR locking connector clicks securely into place eliminating cable-socket looseness over time; frequency response extends to 28kHz; folds flat for commuting without a hard case; the most portable professional studio monitor under $100",
     tradeoffs: [
@@ -205,7 +205,7 @@ export const products: Budget100Headphone[] = [
     battery: "N/A",
     ldac: false,
     imageUrl: `${BASE}/sennheiser-hd-280-pro.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00IT0IHOY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IT0IHOY?tag=workcocoon-20",
     whyItWorks:
       "32dB of passive isolation is a specification that ANC headphones at this price bracket cannot consistently match in practice; the Sony WH-CH720N with ANC on delivers approximately 20 to 25dB in practice; the HD 280 Pro delivers 32dB of physical blocking with zero electronics, microphones, or battery; in continuous production for over 20 years because it is a professional tool used by broadcasters, radio stations, and podcast studios worldwide; frequency response extends to 8Hz low end",
     tradeoffs: [
@@ -242,7 +242,7 @@ export const products: Budget100Headphone[] = [
     battery: "40h (ANC on) / 55h (ANC off)",
     ldac: true,
     imageUrl: `${BASE}/soundcore-space-one.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C6KFZC9Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6KFZC9Z?tag=workcocoon-20",
     whyItWorks:
       "Adaptive ANC automatically adjusts based on ambient noise level without manual mode switching; LDAC codec delivers Hi-Res wireless audio at up to 990kbps; Bluetooth 5.3 (newest spec in the guide); improved voice reduction vs Life Q30; multipoint Bluetooth; 40 hours with ANC on; the best adaptive ANC under $100 for Android users who want both noise cancellation and Hi-Res audio quality",
     tradeoffs: [

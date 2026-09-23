@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "As a monochrome laser with duplex printing built in, the DCP-L2640DW uses a sturdier paper path than most inkjets in its price range, and laser engines generally handle a wider range of paper weights without the curling that trips up inkjet rollers. Its 250-sheet capacity tray reduces how often paper gets refilled, which matters since overfilling a tray is one of the most common jam triggers.\n\nLike any printer, it will still jam if fed damp or curled paper, or if the tray is stuffed past its fill line. Keeping paper stored flat and dry and never exceeding the tray's marked capacity does more for reliability here than any spec on the box.\n\nLarge tray reduces refill-related overfilling. On the other hand, monochrome only. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "The HL-L3220CDW pairs color laser output with a 250-sheet tray and duplex printing, giving it the same paper-path advantages as a monochrome laser without giving up color capability. Its rated 19ppm output means paper moves through the mechanism at a steady, predictable pace, which reduces the chance of paper bunching mid-feed.\n\nColor laser toner cartridges are pricier to replace than mono toner, a tradeoff worth weighing against how often you actually need color. The feed path itself doesn't differ meaningfully from the mono model in this list.\n\nLarge tray capacity. That's a real strength, but weigh it against the flip side: color toner costs more to replace than mono.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "The MCF-J5010DW is an inkjet, so it relies on rollers gripping paper through a curved path rather than a straight laser feed, which makes correct paper loading more important here than on the laser picks. Its 2.7-inch color touchscreen makes it easier to catch and clear a misfeed early instead of forcing paper through blind.\n\nInkjet rollers are more sensitive to humidity swings than laser rollers, so paper stored somewhere humid is more likely to cause a curved-path jam on this model than on the Brother laser printers above it in this list.\n\nWorth calling out specifically: duplex printing built in. The catch is curved inkjet feed path is more humidity-sensitive than laser.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 keeps a simple single-tray feed path without a rear straight-through slot, so its jam resistance comes down mostly to keeping the tray at the correct fill level and using paper within its supported weight range. As a cartridge-free ink tank printer, there's no cartridge-related feed obstruction to worry about, one less variable than standard inkjets.\n\nBecause it lacks a straight-through rear slot for thicker stock, don't push cardstock or heavier specialty paper through the standard tray; stick to regular printer paper for the most reliable results on this model.\n\nSimple, predictable single feed path. Set against that, no rear straight-through slot for thick stock. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 adds an automatic document feeder on top of the ink-tank system, which matters for jam prevention because a well-designed ADF separates sheets one at a time rather than relying on you to feed pages individually. Ethernet support also gives it a more stable wired connection option for a home office that wants to rule out wireless drops as a source of stalled or repeated print jobs.\n\nADFs are still a common jam point if fed stapled pages, torn edges, or stacks that exceed the feeder's rated capacity, so keeping multi-page originals in good condition before scanning matters more here than tray paper quality alone.\n\nA genuine advantage here is that ethernet option avoids wireless-related job stalls. The tradeoff is aDF requires undamaged, unstapled originals to avoid jams.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "At its price point, the PIXMA TR4720 includes an auto document feeder, a genuine convenience for jam-conscious buyers since manually feeding multi-page originals sheet by sheet increases the chance of a skewed feed. Its standard cartridge inkjet mechanism is a simpler, cheaper feed path than the ink-tank models, with fewer moving parts around the ink delivery system itself.\n\nAs a budget printer, its rollers are lighter-duty and will show wear sooner under heavy daily use than the laser or ink-tank picks in this list, so expect jam frequency to creep up with age faster here than on the pricier options.\n\nSimple cartridge feed mechanism. On the other hand, lighter-duty rollers wear faster under heavy use. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 uses a single-tray feed path with no ADF, which actually simplifies where a jam can happen since there's one feed mechanism to keep clean and correctly loaded rather than two. It's a fine fit for a single-desk setup that mostly prints single documents rather than scanning multi-page originals.\n\nBecause it's an entry-level cartridge inkjet, keep paper stacked well below the tray's fill line and store paper away from humid areas like a garage or basement to get the most reliable performance out of it over time.\n\nCompact for small desks. That's a real strength, but weigh it against the flip side: no ADF for multi-page scanning.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=workcocoon-20",
     description:
       "The MFC-J1360DW adds automatic duplex printing and a 1.8-inch color display at a mid-budget price, and the display helps surface a paper-out or misfeed alert faster than a printer with no screen at all. Its LC501 series ink cartridges use a standard feed path similar to the other Brother inkjet in this list.\n\nDuplex printing itself adds a second pass through the feed rollers per sheet, so if you notice more jams specifically on two-sided jobs, switching that particular print job to single-sided is a reasonable workaround rather than a sign the printer is defective.\n\nWorth calling out specifically: duplex printing included. The catch is duplex jobs add a second feed pass per sheet.",
     specs: [

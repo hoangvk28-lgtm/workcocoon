@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "A genuine 50-sheet ADF with duplex scanning and ultrasonic double-feed detection, this is built for sustained batch work rather than the low-DPI simplex conditions most ppm claims are tested under. Switching to 300 DPI color duplex will still run meaningfully slower than the headline speed, budget for that when planning a full workday of archival-quality scans.\n\nThe included TWAIN driver integrates with most document management software, and searchable-PDF OCR output is built in, a genuine time-saver for filing scanned documents directly.\n\nUltrasonic double-feed detection reduces multi-feed risk. On the other hand, real 300 DPI color duplex speed will be well below the headline ppm number. Both are worth keeping in mind before deciding.",
     specs: ["50-sheet ADF, duplex, ultrasonic double-feed detection", "TWAIN driver, searchable PDF OCR", "Epson ScanSmart software", "Auto crop, blank-page removal"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 991 Amazon ratings",
     reviews: "991 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=workcocoon-20",
     description:
       "Rated up to 45 pages per minute with a 100-sheet feeder, this is a genuine high-throughput pick, but that number reflects the low-DPI simplex conditions typical of manufacturer specs, not sustained 300 DPI color duplex archival scanning. One-touch scanning and automatic de-skew/blank-page removal genuinely simplify the workflow.\n\nWired USB connection only here, a real reliability plus for sustained high-speed batches versus wireless transfer bottlenecks at high-DPI color settings.\n\nA genuine advantage here is that wired USB avoids wireless transfer bottlenecks at high DPI. The tradeoff is that rated 45 ppm reflects low-DPI simplex, not sustained color duplex.",
     specs: ["100-sheet feeder, up to 45 ppm rated", "Wired USB only, ScanSnap Home software", "One-touch scan-drag-drop", "Auto de-skew, blank-page removal"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 326 Amazon ratings",
     reviews: "326 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=workcocoon-20",
     description:
       "Also rated 45 ppm duplex with a 100-sheet feeder, but with built-in Wi-Fi 6 as an alternative to wired USB. At high-DPI color settings, generated file sizes (10-30MB per page) can exceed Wi-Fi transfer speed and create a backlog between the scanner and destination folder, use the USB-C connection instead if you need sustained high-speed color batches.\n\nA multi-feed sensor and brake roller system are genuine mechanical features for avoiding jams at high throughput, though faster paper transport at high ppm generally reduces tolerance for curled or mixed-weight paper regardless of brand.\n\nMulti-feed sensor and brake roller system for jam prevention. That said, wi-Fi transfer can bottleneck sustained high-DPI color batches, use USB-C instead. Neither should be a surprise once you know to look for it.",
     specs: ["100-sheet feeder, up to 45 ppm rated, Wi-Fi 6 + USB-C", "Multi-feed sensor, brake roller system", "Touchscreen with customizable profiles", "Cloud service support"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 132 Amazon ratings",
     reviews: "132 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41m9omvtbvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1PMTS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1PMTS?tag=workcocoon-20",
     description:
       "An identical iX2500 to the rank-3 pick under a separate Amazon listing with a smaller review count. Same 45 ppm duplex rating, same Wi-Fi 6 plus USB-C connectivity, and the same real-world caveat: sustained high-DPI color batches are safer over the wired connection.\n\nCompare current pricing between this listing and the rank-3 one before buying, since the underlying hardware is the same.\n\nWorth calling out specifically: wi-Fi 6 plus wired USB-C options. The catch is smaller review count than the other iX2500 listing.",
     specs: ["100-sheet feeder, up to 45 ppm rated, Wi-Fi 6 + USB-C", "Multi-feed sensor, brake roller system", "Touchscreen with customizable profiles", "Cloud service support"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "Actually a different Epson desktop model with wireless connectivity and duplex scanning, the largest review base among the true high-speed desktop picks in this guide. Same real-world caveat applies here as with every pick: color duplex at 300 DPI runs well below any headline low-DPI ppm figure.\n\nA solid choice if you want Epson's desktop-class reliability with wireless as the default connection method.\n\nWireless connectivity built in. Set against that, highest price in this guide. Both matter when comparing it to the other picks here.",
     specs: ["Wireless + USB duplex desktop scanner", "TWAIN driver, searchable PDF OCR", "Auto crop, blank-page removal", "Largest review base among desktop high-speed picks"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "USB-powered with a smaller 20-sheet feeder and up to 12 ppm rated speed, genuinely the most portable pick in this guide but not built for the same sustained high-speed throughput as the desktop picks above. Its explicit 500 scans/day suggested daily volume is a rare, useful disclosure most competitors omit entirely.\n\nA reasonable choice if portability matters more than raw speed, just don't expect desktop-class throughput from this form factor.\n\nThe standout detail is that genuinely portable, USB-powered with no external adapter. Balancing that out, lowest rated speed in this guide at 12 ppm.",
     specs: ["20-sheet feeder, up to 12 ppm rated, USB-powered", "Explicit 500 scans/day suggested daily volume", "Duplex scanning, built-in software", "1.7 lb, portable"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,522 Amazon ratings",
     reviews: "6,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=workcocoon-20",
     description:
       "Rated up to 16 ppm with color scanning at the same speed as black-and-white, a genuine plus for archival color work. Largest review base of the compact picks in this guide, though at 1.5 lb and under a foot long, this is built for portability rather than sustained high-speed batch throughput.\n\nSame color-speed-parity feature makes it a reasonable middle ground if you want faster color scanning than a typical portable unit without a full desktop scanner's bulk.\n\nLargest review base among the compact/portable picks. That's a real strength, but weigh it against the flip side: 16 ppm is well below the desktop high-speed picks in this guide.",
     specs: ["Up to 16 ppm, color speed same as black-and-white", "Micro USB 3.0 powered", "1.5 lb, under 1 ft long", "TWAIN/WIA/ICA/SANE driver support"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 2,294 Amazon ratings",
     reviews: "2,294 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415ddFXTF8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=workcocoon-20",
     description:
       "The duplex version of the rank-7 pick, scanning both sides in a single pass at the same up-to-16 ppm rate, with a Desk Saving Design that reduces desk footprint by roughly 11 inches versus a standard scanner placement. Still a compact/portable unit, not a genuine high-speed desktop scanner.\n\nA reasonable step up from the simplex DS-640 if duplex scanning specifically matters and you're comfortable with the same 16 ppm ceiling.\n\nDesk Saving Design genuinely reduces footprint. On the other hand, same 16 ppm ceiling as the simplex DS-640. Both are worth keeping in mind before deciding.",
     specs: ["Duplex, up to 16 ppm, color speed same as black-and-white", "Desk Saving Design, ~11 inches less desk space", "Micro USB 3.0 powered", "TWAIN/WIA/ICA/SANE driver support"],

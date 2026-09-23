@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ll21hyHHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=workcocoon-20",
     description:
       "A large 43 x 34 inch metal pegboard that combines a privacy panel with built-in dual monitor stands and LED lighting, appropriate for buyers wanting one panel to handle both cable management and desk-back organization.\n\nThe metal construction resists the sag that thinner decorative boards develop over time, and the included accessory set covers a realistic starter setup rather than a token handful of hooks.\n\nMetal construction resists sag better than decorative board. That said, large footprint takes up meaningful desk depth. Neither should be a surprise once you know to look for it.",
     specs: ["43 x 34 inch metal panel", "Dual monitor stand built in", "LED lighting", "4 accessory hooks included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41i2tZZC1xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=workcocoon-20",
     description:
       "A wider 59 x 34 inch version of the same dual-monitor pegboard system, appropriate for buyers with a wide desk who want the panel to span the full width behind two monitors.\n\nThe extra width means more usable hanging area, but it also means more loaded weight sitting further from the desk edge, so a stable desk underneath matters more here than on the narrower version.\n\nWorth calling out specifically: same durable metal build as the narrower version. The catch is higher price than the narrower 43-inch version.",
     specs: ["59 x 34 inch metal panel", "Dual monitor stand built in", "White finish", "Standard hook compatibility, verify pattern"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51v-7P2kqkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=workcocoon-20",
     description:
       "A steel pegboard system mounted with three clamps instead of one, giving meaningfully more resistance to the leverage a vertical board creates once loaded with a shelf and monitor mounts.\n\nThe included storage shelf adds forward-projecting weight, so it's worth checking the shelf's own weight rating separately from the board's general hook capacity before loading it heavily.\n\nSteel construction holds up under repeated hook reconfiguration. Set against that, small review count, worth watching for pattern issues as more buyers weigh in. Both matter when comparing it to the other picks here.",
     specs: ["47 x 31 inch steel panel", "Triple clamp mount", "2 monitor mounts included", "Storage shelf included"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KLj-p7YnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=workcocoon-20",
     description:
       "A large 59 x 35 inch clamp-on steel panel at a notably lower price than most full-size pegboard systems, appropriate for buyers who want size and a privacy panel without paying for extras like LED lighting.\n\nWith a very small review count so far, it's worth treating the rating as an early signal rather than a settled track record, and checking clamp torque against your specific desk edge before committing.\n\nThe standout detail is that no drilling required, clamps directly onto the desk. Balancing that out, very small review base so far, verify current feedback before buying.",
     specs: ["59 x 35 inch steel panel", "No-drill clamp mount", "Dual monitor stand", "Movable partition hooks"],

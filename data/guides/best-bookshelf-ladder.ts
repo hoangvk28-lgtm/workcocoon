@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "19,027",
     imageUrl: "https://m.media-amazon.com/images/I/41dfCyD8qYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B074X7WT6D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B074X7WT6D?tag=workcocoon-20",
     description:
       "The VASAGLE BARNET is by far the most-reviewed pick in this entire list, with over 19,000 ratings backing a 4.7-star average, and it's easy to see why once you look at the build. An X-brace support runs across the alloy steel frame, holding a 213 lb total capacity, and adjustable feet keep it level on uneven flooring.\n\nAt 22 inches wide with 13 inches of spacing between shelves, the widest tier gap among the 4-tier picks here, it comfortably fits taller items like binders or decorative pieces most narrower ladder shelves can't accommodate.\n\nA genuine advantage here is that x-brace reinforcement adds real rigidity. The tradeoff is shortest pick in this list at 54.1\" tall.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "19,027",
     imageUrl: "https://m.media-amazon.com/images/I/41ModNrpWYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2Q7RS3S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2Q7RS3S?tag=workcocoon-20",
     description:
       "This is the same bestselling BARNET design as our top pick, scaled up to a 31.5-inch-wide frame that pushes total capacity to 253 lbs, the highest of any VASAGLE ladder shelf in this list. The wider footprint gives you noticeably more shelf surface per tier without sacrificing the X-brace stability that makes this line so well-reviewed.\n\nIt shares the same 4.7-star rating and massive review count as the narrower version, along with adjustable feet, and it's the pick to reach for if you need more shelf width than the standard 22-inch frame offers.\n\nSame trusted bestseller design in a wider frame. On the other hand, double the price of the narrower 22\" version. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,270",
     imageUrl: "https://m.media-amazon.com/images/I/41L2FUJNdDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C1MTGZSJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C1MTGZSJ?tag=workcocoon-20",
     description:
       "The Hzuaneri is built from FSC-certified engineered wood over a steel frame, and at just 13.4 inches wide it's the slimmest ladder shelf in this list, ideal for a narrow corner or a tight spot beside a couch. X-shaped support bars run through the frame for stability, and 2 built-in hooks near the top give you a spot to hang bags or keys.\n\nAt 63 inches tall, it's also among the tallest narrow picks here, rated for 30 lbs per shelf, 150 lbs total, with an anti-tip kit included for wall anchoring.\n\nSlimmest footprint in this list at 13.4\" wide. That's a real strength, but weigh it against the flip side: lower total capacity than the VASAGLE picks.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,270",
     imageUrl: "https://m.media-amazon.com/images/I/41XV4H7bYWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DW4152BY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DW4152BY?tag=workcocoon-20",
     description:
       "This is the same slim, FSC-certified Hzuaneri design as Pick 3, finished in a bright white oak tone instead of rustic brown. It keeps the same 13.4-inch width, X-shaped support bars, 2 built-in hooks, and 150 lb total capacity, just with a lighter look that suits brighter rooms or coastal-style decor.\n\nIt's an easy pick if you want the same compact, corner-friendly ladder shelf but need it to blend into a whiter or more neutral color scheme.\n\nWorth calling out specifically: fSC-certified sustainable materials. The catch is same lower total capacity as the rustic brown version.",
     specs: [
@@ -180,7 +180,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,139",
     imageUrl: "https://m.media-amazon.com/images/I/41t-pnwwXmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDH2V9XF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDH2V9XF?tag=workcocoon-20",
     description:
       "The Furologee stands out with a removable fabric drawer built into its base, a feature none of the other ladder shelves in this list offer, giving you a spot for items you'd rather keep out of sight. Engineered wood shelves back with solid black metal framing, and backboards run behind every tier for added stability.\n\nIt carries the highest total weight capacity in this list at 215 lbs, and 4 adjustable feet help keep it level, making it the most versatile 5-tier ladder shelf here if you want both open display and hidden storage.\n\nUnique removable fabric drawer for hidden storage. Set against that, lower rating than the VASAGLE and HOOBRO picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -213,7 +213,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "386",
     imageUrl: "https://m.media-amazon.com/images/I/31w6w8Vqx2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C5CQR6ZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5CQR6ZB?tag=workcocoon-20",
     description:
       "At 79 inches tall, this HOOBRO is the tallest ladder shelf in this list, and its slim 9.4-inch depth makes it one of the narrowest too. A no-tool twist assembly system gets it built quickly, and it's genuinely DIY combinable, meaning you can join two or more units together for a custom wall of shelving.\n\nEngineered wood shelves sit on a matte black iron frame rated for 22 lbs per shelf, 132 lbs total, with adjustable feet for leveling on uneven floors.\n\nA genuine advantage here is that fastest no-tool twist assembly. The tradeoff is lower per-shelf capacity than most other picks.",
     specs: [
@@ -246,7 +246,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "373",
     imageUrl: "https://m.media-amazon.com/images/I/41whI381uZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C5DH86H5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5DH86H5?tag=workcocoon-20",
     description:
       "The HOOBRO Arched stands apart visually with a curved top that ties the two side frames together, adding real structural rigidity while giving the whole unit a distinctive vintage silhouette none of the straight-topped ladder shelves in this list can match. Matte black metal contrasts against engineered wood shelving for a look that suits a living room or study.\n\nAssembly uses the same tool-free twist system as the HOOBRO DIY pick, and 13 inches of spacing between shelves comfortably fits taller items like binders or decorative pieces.\n\nNo-tool assembly. On the other hand, pricier than several straight-frame alternatives. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -279,7 +279,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "8,609",
     imageUrl: "https://m.media-amazon.com/images/I/313L+Rlj3NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07PMK78R8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07PMK78R8?tag=workcocoon-20",
     description:
       "Unlike every other pick in this list, which relies on engineered wood or particleboard, the Amazon Basics ladder shelf is built from genuinely solid rubberwood, painted in a rich espresso finish. That makes it the most premium material choice here, and it's backed by a trusted brand name with over 8,600 ratings.\n\nAt 24.8 inches wide, it's also the widest pick in this list, giving each of its 5 tiers a 44 lb capacity, the highest per-shelf rating among the wood-frame picks here, and a freestanding design that doesn't require wall anchoring in most setups.\n\nTrusted Amazon Basics brand with over 8,600 ratings. That's a real strength, but weigh it against the flip side: lowest rating in this list at 4.2 stars.",
     specs: [

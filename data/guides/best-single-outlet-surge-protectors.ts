@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 6,466 Amazon ratings",
     reviews: "6,466 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ovehM96AL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00006B81E?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00006B81E?tag=workcocoon-20",
     description:
       "600 joules dedicated entirely to a single device, real protection-per-device value since there's no shared-load dilution across multiple outlets. Diagnostic LEDs and lifetime guarantee with a competitive price connected equipment insurance.\\\n\\\nCheck whether this compact direct-plug design blocks the second half of a standard duplex wall outlet before assuming both outlet slots remain usable. It leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the [ETL Listed] Cable Matters 1350J Single Outlet Surge Protector. Worth knowing before you decide: Diagnostic LEDs for status visibility. On the other side, May block the adjacent outlet on a standard duplex receptacle. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["Single outlet, 600 joules","Diagnostic LEDs","Lifetime guarantee, $5,000 insurance","Compact direct-plug design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,241 Amazon ratings",
     reviews: "2,241 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31e0JpMEJvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09NP7VSNK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09NP7VSNK?tag=workcocoon-20",
     description:
       "1350 joules dedicated to a single device, more than double the top pick's rating, genuine extra headroom for a particularly valuable single device. ETL listed.\\n\\nCompare this to buying two lower-joule single-outlet units for two devices versus splitting one multi-outlet strip's budget across several, this dedicated approach protects each device independently.\n\nSet against the Eaton Tripp Lite SPIKECUBE Single Outlet Surge Protector Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: ETL listed for verified safety. On the other side, May block the adjacent outlet on a standard duplex receptacle. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["Single outlet, 1350 joules","ETL listed","Compact design","Affordable"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,241 Amazon ratings",
     reviews: "2,241 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/314n2Zz2FhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNW64BPF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNW64BPF?tag=workcocoon-20",
     description:
       "A 2-pack of dedicated 1350 joule single-outlet units, genuinely useful for protecting two separate high-value devices independently rather than sharing one multi-outlet strip's budget. ETL listed.\\n\\nThis is a real cost/space comparison worth making, two single-outlet units versus one multi-outlet strip protecting the same two devices, each approach has different risk-distribution tradeoffs.\n\nRelative to the [ETL Listed] Cable Matters 1350J Single Outlet Surge Protector, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: ETL listed for verified safety. On the other side, Each unit still may block the adjacent outlet. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["2 units, 1350 joules each","ETL listed","Compact design","2-pack value"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 208 Amazon ratings",
     reviews: "208 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21sqvh28s1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1T9R63P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1T9R63P?tag=workcocoon-20",
     description:
       "1050 joules dedicated to a single device at a genuinely affordable price, a solid middle ground between the ultra-budget and premium picks in this guide.\\n\\nSmaller review base as a newer listing, weigh that against the genuinely strong joule rating for a single-device dedicated design.\n\nCompared with the [ETL Listed] Cable Matters 2 above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: Very affordable. On the other side, Smaller review base as a newer product. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["Single outlet, 1050 joules","Compact wall design","Affordable","Solid joule rating for the price"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 5,166 Amazon ratings",
     reviews: "5,166 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31wknFuDByL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Q3DJL3W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Q3DJL3W?tag=workcocoon-20",
     description:
       "A genuinely affordable 4-pack for buyers who want to independently protect several basic devices, though the 245 joule rating is notably lower than the other picks in this guide. ETL listed with an indicator light.\\n\\nAt this lower joule rating, this suits basic electronics like lamps or routers rather than a single high-value device needing maximum dedicated protection.\n\nSet against the TESSAN Single Outlet Wall Surge Protector with 1050J Surge Protector, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: ETL listed with indicator light. On the other side, Lowest joule rating in this guide, best for basic electronics. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["1 outlet each, 245J/125V, 4-pack","ETL listed, indicator light","Grounded outlet wall tap design","Most affordable per-unit price"],

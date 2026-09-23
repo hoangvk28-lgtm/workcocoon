@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31xK08Bp9kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=workcocoon-20",
     description:
       "At 9.5x6.7 inches, this genuinely glass board sits at the larger end of what we're calling small, enough surface for a short list of tasks rather than only a single line.\n\nThe reversible wood stand and black glass finish give it a distinct look, and marker and eraser are included per the listing so it's ready to use immediately.",
     specs: ["9.5\" x 6.7\" glass writing surface", "Reversible wood stand", "Marker and eraser included", "Black glass finish"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "Explicitly labeled small in the listing, this genuinely glass board combines a compact writing surface with a keyboard stand and drawer, useful if you want small size plus storage in one unit.\n\nThe exact surface dimensions aren't broken out separately from the overall product size in the listing, so expect a footprint comparable to our other compact glass picks.",
     specs: ["Compact glass writing surface", "Built-in drawer for storage", "Doubles as keyboard stand", "Explicitly labeled \"small\" in listing"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21DN1-VtYsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MFGICQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MFGICQT?tag=workcocoon-20",
     description:
       "At 9x11 inches, this is actually taller than it is wide, genuinely glass, from established brand Quartet, with a removable clip for holding a sheet of paper alongside the writing surface.\n\nThe vertical orientation gives more room for a running list than a wide, short board of similar total area, worth considering if you write in a list format.",
     specs: ["9\" x 11\" glass writing surface", "Removable paper clip", "Includes marker", "Established Quartet brand"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41aTFk156tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09C1VT7X8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09C1VT7X8?tag=workcocoon-20",
     description:
       "Explicitly labeled small in the listing, this genuinely glass board with a built-in drawer and keyboard stand is offered in a grey finish as an alternate style to our storage pick above.\n\nFunctionally the same small-plus-storage combination, so choose based on which finish fits your desk's look.",
     specs: ["Compact glass writing surface", "Built-in drawer for storage", "Doubles as keyboard stand", "Grey finish, explicitly labeled small"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41StKUeQCkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=workcocoon-20",
     description:
       "At 8x6 inches, this is the smallest board in this guide, and it's the one product here also labeled \"mini\" by its own listing, so it effectively bridges into our separate mini whiteboard guide.\n\nRealistic capacity at this size is a single reminder or short status note rather than a running task list, but the low price and 5 included markers make it an easy low-commitment purchase.",
     specs: ["8\" x 6\" pure glass surface", "5 markers included per listing", "Black finish", "Smallest size in this guide"],

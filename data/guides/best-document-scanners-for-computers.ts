@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "Includes a genuine TWAIN driver for broad document management software compatibility, plus a full-featured Epson ScanSmart software bundle (preview, email, cloud upload, automatic file naming), not just a bare driver. Searchable PDF OCR and Word/Excel conversion are built in.\n\nIf your workflow specifically requires ISIS drivers for an enterprise DMS platform, verify that separately, TWAIN alone (which this uses) won't satisfy an ISIS-only software requirement.\n\nThe standout detail is that tWAIN driver for broad document management compatibility. Balancing that out, tWAIN only, verify separately if your DMS requires ISIS.",
     specs: ["TWAIN driver, full ScanSmart software suite", "Searchable PDF OCR, Word/Excel conversion", "50-sheet ADF, duplex", "Auto crop, blank-page removal"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 991 Amazon ratings",
     reviews: "991 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LZ7HiXsPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWGTB3S3?tag=workcocoon-20",
     description:
       "ScanSnap Home software brings together document, receipt, business card, and photo management in one app, a genuinely fuller feature set than a bare TWAIN driver. Wired USB connection avoids the driver-conflict risk that installing a dedicated scanner alongside an existing all-in-one printer/scanner can sometimes create.\n\nOne-touch scan-drag-drop to favorite apps is a real computer-workflow convenience, though verify ISIS compatibility separately if your specific document management platform requires it.\n\nWired USB reduces driver-conflict risk with existing MFPs. That's a real strength, but weigh it against the flip side: higher price than the Epson pick.",
     specs: ["ScanSnap Home all-in-one software", "Wired USB, no wireless driver complexity", "One-touch scan-drag-drop to apps", "100-sheet feeder"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,522 Amazon ratings",
     reviews: "6,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=workcocoon-20",
     description:
       "Explicitly supports TWAIN/WIA for PC, ICA for Mac, and SANE for Linux, the broadest disclosed driver architecture spread in this guide, genuinely useful if you're running a mixed-OS household or office. The free iPrint&Scan desktop app adds scan-to-destination flexibility beyond a bare driver.\n\nLargest review base in this guide, real-world evidence this driver compatibility holds up across a wide range of computer setups.\n\nLargest review base, proven across many computer setups. On the other hand, no ISIS driver support disclosed for enterprise DMS platforms. Both are worth keeping in mind before deciding.",
     specs: ["TWAIN/WIA (PC), ICA (Mac), SANE (Linux) driver support", "Free iPrint&Scan desktop app", "Image optimization, OCR software included", "Largest review base here"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 2,294 Amazon ratings",
     reviews: "2,294 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415ddFXTF8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R3XYQN?tag=workcocoon-20",
     description:
       "The same broad TWAIN/WIA/ICA/SANE driver spread as the rank-3 pick, with duplex scanning added. A reasonable step up if you want both-sides-in-one-pass scanning while keeping the same broad computer compatibility.",
     specs: ["TWAIN/WIA (PC), ICA (Mac), SANE (Linux) driver support", "Duplex scanning", "Free iPrint&Scan desktop app", "Desk Saving Design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "The powerful scanning software here is built in and requires no separate installation, updating automatically, a genuine reduction in driver-installation friction compared to scanners requiring a full software install. Broad Windows and Mac compatibility disclosed directly.\n\nA reasonable choice if minimizing driver/software installation hassle matters more than deep document-management-platform integration.\n\nA genuine advantage here is that built-in software auto-updates. The tradeoff is that no ISIS driver support disclosed.",
     specs: ["Built-in software, no separate installation", "Broad Windows and Mac compatibility", "20-sheet ADF, duplex", "Auto-updating built-in software"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "TWAIN driver support with wireless connectivity built in, useful if you want the computer to connect to the scanner without a direct USB cable, though be aware installing a dedicated scanner like this alongside an existing all-in-one printer/scanner on the same computer can occasionally create driver conflicts (duplicate device names, wrong device selected).\n\nHighest price and largest review base among the desktop wireless picks here, genuine evidence of computer-compatibility reliability at scale.\n\nTWAIN driver for document management compatibility. That said, highest price in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["TWAIN driver, wireless + USB", "Searchable PDF OCR", "Largest review base among wireless desktop picks", "Auto crop, blank-page removal"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 7,159 Amazon ratings",
     reviews: "7,159 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PFgs9o70S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07G5XZVLQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07G5XZVLQ?tag=workcocoon-20",
     description:
       "A simple USB flatbed scanner with Auto Scan Mode, the cheapest computer-connected pick in this guide and the largest review base here. No document-management-platform integration beyond basic scan-to-PDF/copy/send functions, this is a straightforward pick for basic computer scanning needs.\n\nNo ADF, so batch document scanning isn't this scanner's strength, it's built for occasional single-page or photo scanning connected to a computer.\n\nWorth calling out specifically: largest review base here. The catch is flatbed only, no ADF for document batches.",
     specs: ["USB flatbed, Auto Scan Mode", "PDF, copy, and send functions", "Largest review base in this guide", "Simple plug-and-play"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 326 Amazon ratings",
     reviews: "326 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=workcocoon-20",
     description:
       "The touchscreen here genuinely lets you scan and send to cloud services without a computer at all, a real option if you want to minimize computer-side driver dependency entirely. When connected to a computer, both Wi-Fi 6 and USB-C are available.\n\nA reasonable choice if you want the flexibility to operate independent of a computer's drivers when needed, while still supporting a direct computer connection.\n\nWi-Fi 6 and USB-C options when computer-connected. Set against that, smaller review base than other picks. Both matter when comparing it to the other picks here.",
     specs: ["Touchscreen, works without a computer via cloud", "Wi-Fi 6 + USB-C when computer-connected", "Multi-feed sensor, brake roller system", "100-sheet feeder"],

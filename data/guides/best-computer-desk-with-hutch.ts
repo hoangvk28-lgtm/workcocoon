@@ -39,7 +39,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, gaming finish",
     price: "~$169.99",
     imageUrl: "https://m.media-amazon.com/images/I/51pPkOaKvCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DD6WMFTD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DD6WMFTD?tag=workcocoon-20",
     whyItWorks:
       "We want to be upfront about this pick: based on its real Amazon listing, the EnHomee 71\" is a large L-shaped gaming desk with a long integrated monitor shelf running along the back edge, not a hutch in the traditional sense used elsewhere in this guide. A monitor shelf is a narrow raised platform that lifts one or more monitors and lightweight items like a small speaker or lamp off the desk surface; it does not include the closed cabinets or multi-tier open shelving that define a true hutch like the Bush Home or SEDETA picks above and below.",
     tradeoffs: [
@@ -70,7 +70,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, Bush Home quality tier",
     price: "~$289.99",
     imageUrl: `${BASE}/02-cozy_home_office_with_natural_light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B003UH56T0?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B003UH56T0?tag=workcocoon-20",
     whyItWorks:
       "The Salinas is the highest-trust hutch desk in this category: 4.3 stars at 1,036+ reviews with Amazon's Choice designation indicate consistent quality and buyer satisfaction. The storage configuration is comprehensive - pull-out keyboard tray, drawers, and cabinets. Bush Home's construction standard sits above Sauder's consumer tier. The closed hutch cabinet keeps documents and clutter out of sight, which is useful for home offices that double as video call backgrounds.",
     tradeoffs: [
@@ -103,7 +103,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, Sauder Palladia tier",
     price: "~$585",
     imageUrl: `${BASE}/03-cozy_and_stylish_home_office_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B01K44HV2G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01K44HV2G?tag=workcocoon-20",
     whyItWorks:
       "The Palladia is Sauder's flagship residential furniture line - above their entry-level products in surface durability and construction. For buyers who want the traditional executive hutch desk look with rich dark finish, substantial overhead storage, and multiple drawer configuration, the Palladia delivers that aesthetic. The hutch adds vertical storage including closed cabinets and open display shelving.",
     tradeoffs: [
@@ -137,7 +137,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, farmhouse finish",
     price: "Check current price",
     imageUrl: `${BASE}/04-modern_farmhouse_home_office_design.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DQ9919KS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ9919KS?tag=workcocoon-20",
     whyItWorks:
       "SEDETA has become one of the dominant mid-tier desk brands on Amazon - their brand page shows 10,000+ customer ratings and 50,000+ orders in recent months. For buyers who prioritize brand reliability in a farmhouse-style hutch desk, this is the primary recommendation. The open-shelf hutch means better light transmission to the desk surface and easier access to stored items compared to closed cabinet hutches.",
     tradeoffs: [
@@ -170,7 +170,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, farmhouse finish",
     price: "Check current price",
     imageUrl: `${BASE}/05-cozy_farmhouse_home_office_space.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DNDQSGV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DNDQSGV5?tag=workcocoon-20",
     whyItWorks:
       "For buyers who want SEDETA's farmhouse hutch style without an L-shaped footprint, the 47.2\" straight desk is the answer. At 47.2\" x 21.7\" desktop dimensions, this is the most compact hutch desk on this list - suitable for small bedrooms, study rooms, and apartments where a corner desk is not possible. The SEDETA brand reliability carries to the compact model.",
     tradeoffs: [
@@ -203,7 +203,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, Bush Home quality tier",
     price: "Check current price",
     imageUrl: `${BASE}/06-bright_and_airy_minimalist_home_office.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08MT5G727?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08MT5G727?tag=workcocoon-20",
     whyItWorks:
       "The Bush Home Cabot 60W is Bush Home's L-shaped hutch desk answer - above the SEDETA in material construction and build quality, with a 200 lb desk surface capacity and built-in wire management. The 200 lb capacity is meaningful for home office setups: dual 27\" monitors, monitor arms, speakers, and accessories can approach 50-80 lbs total. The Cabot's rated capacity provides substantial headroom. The transitional design suits home offices that double as video call backgrounds.",
     tradeoffs: [
@@ -235,7 +235,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, Bush Home quality tier",
     price: "Check current availability",
     imageUrl: `${BASE}/07-modern_gaming_setup_with_vibrant_lighting.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08MT2GPBN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08MT2GPBN?tag=workcocoon-20",
     whyItWorks:
       "This bundle combines the Cabot 60W L-shaped desk, the matching hutch, and a 2-drawer lateral file cabinet - a complete office furniture system in one purchase. For home office buyers who need coordinated furniture without the effort of sourcing and matching pieces separately, this bundle solves the problem directly. The lateral file cabinet handles hanging files and archived documents that would otherwise occupy desk drawer space.",
     tradeoffs: [
@@ -267,7 +267,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, farmhouse finish",
     price: "Check current price",
     imageUrl: `${BASE}/08-modern_home_office_with_rustic_charm.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0GWX38YY6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GWX38YY6?tag=workcocoon-20",
     whyItWorks:
       "The SEDETA 67\" is the large farmhouse L-shape option - for buyers who need maximum surface area in the farmhouse aesthetic. At 67 inches on the primary surface, this is the widest farmhouse L-shaped hutch desk on this list. Customer reviews specifically highlight spaciousness and sturdiness as positive attributes. SEDETA brand reliability carries to the large format.",
     tradeoffs: [
@@ -299,7 +299,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, gaming finish",
     price: "Check current availability",
     imageUrl: `${BASE}/09-cozy_farmhouse_style_home_office_space.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FLPXDW77?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FLPXDW77?tag=workcocoon-20",
     whyItWorks:
       "The AODK gaming desk with hutch is the only overtly gaming-styled hutch desk on this list - LED strip, power outlets, 4 drawers, storage shelves, and overhead hutch. This suits gaming rooms or student desks where the hutch provides reference and game storage directly above the gaming surface. AODK brand average is 4.5 stars across their product line.",
     tradeoffs: [
@@ -331,7 +331,7 @@ export const products: HutchDesk[] = [
     material: "Engineered wood, cottage style",
     price: "Check current availability",
     imageUrl: `${BASE}/10-modern_and_serene_home_office_space.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00JZQIV7Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00JZQIV7Y?tag=workcocoon-20",
     whyItWorks:
       "The Bush Home Salinas Small is the compact version of the Salinas line - smaller footprint desk with hutch suited for small bedrooms, apartments, and study rooms where a full-size hutch desk would not fit. Amazon's Choice designation and cottage/farmhouse styling make this a clean small-room option. Bush Home quality standard applies at the smaller size.",
     tradeoffs: [

@@ -44,7 +44,7 @@ export const trays: CableTray[] = [
     mountLabel: "No-drill adhesive",
     cableCapacity: "10–14 cables per tray",
     bestFor: "Renters who want two medium trays without drilling",
-    amazonUrl: "https://www.amazon.com/dp/B0D2WGVR7V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2WGVR7V?tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/41C7Dvfj95L._SL500_.jpg",
     whyItWorks: [
       "No-drill installation across both trays in the pack -- fully reversible for renters",
@@ -68,7 +68,7 @@ export const trays: CableTray[] = [
     mountLabel: "Sticky-back adhesive ties, no drill",
     cableCapacity: "Bundles cables rather than housing them in a tray",
     bestFor: "Buyers who want cable bundling instead of a full tray",
-    amazonUrl: "https://www.amazon.com/dp/B0F3H1XC21?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F3H1XC21?tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/51NhIGfQM+L._SL500_.jpg",
     whyItWorks: [
       "45 pieces of sticky-back Velcro ties plus 2 rolls of extension straps cover multiple cable runs at the lowest price in this guide",
@@ -92,7 +92,7 @@ export const trays: CableTray[] = [
     mountLabel: "Clamp, no drill",
     cableCapacity: "8–12 cables",
     bestFor: "Budget clamp-based mounting without adhesive or screws",
-    amazonUrl: "https://www.amazon.com/dp/B0C8N7DQZV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8N7DQZV?tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/51PtNpYAvIL._SL500_.jpg",
     whyItWorks: [
       "Clamp mounting avoids both adhesive failure and drilling, at a lower price than the Scandinavian Hub clamp tray above",
@@ -239,7 +239,7 @@ export const trays: CableTray[] = [
     mountLabel: "Clamp-on (no drill)",
     cableCapacity: "18–22 cables",
     bestFor: "Standing desk users, desks with 12–20 cables",
-    amazonUrl: "https://www.amazon.com/s?k=stand+up+desk+store+clamp+cable+tray&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=stand+up+desk+store+clamp+cable+tray&tag=workcocoon-20",
     whyItWorks: [
       "Clamps to the desk frame and moves with it during height adjustment",
       "40-inch length covers most desks without additional pieces",
@@ -262,7 +262,7 @@ export const trays: CableTray[] = [
     mountLabel: "2-clip screw mount",
     cableCapacity: "12–15 cables",
     bestFor: "Users who prioritize easy installation and complete cable concealment",
-    amazonUrl: "https://www.amazon.com/s?k=humanscale+neattech+cable+tray&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=humanscale+neattech+cable+tray&tag=workcocoon-20",
     whyItWorks: [
       "Fastest installation: 2 double-clips instead of 4 separate screws",
       "Drop-down access door fully conceals cables when closed",
@@ -286,7 +286,7 @@ export const trays: CableTray[] = [
     mountLabel: "Screw mount (6 screws)",
     cableCapacity: "20–50 cables",
     bestFor: "Minimalist perfectionists, broadcast setups, high-end desks",
-    amazonUrl: "https://www.amazon.com/s?k=btod+ultimate+cable+box&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=btod+ultimate+cable+box&tag=workcocoon-20",
     whyItWorks: [
       "Heavy metal enclosure makes cables completely invisible from all angles",
       "Available in four widths (30, 36, 42, 48 inches)",

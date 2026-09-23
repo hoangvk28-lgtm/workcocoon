@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 796 Amazon ratings",
     reviews: "796 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31xnh5VoQ4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=workcocoon-20",
     description:
       "510W real capacity, right at the top of the typical range for this VA class, genuinely enough headroom for a basic PC and single monitor combination. AVR included corrects brownouts in-line without draining the battery.\n\nHighest rating among the 850VA-class picks in this guide, a genuinely strong track record at this capacity tier.\n\nWorth calling out specifically: aVR included. The catch is not pure sine wave.",
     specs: ["850VA/510W", "AVR included", "Compact form factor", "Office electronics rated"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 4,110 Amazon ratings",
     reviews: "4,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pgnLVo0dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=workcocoon-20",
     description:
       "A large, well-established review base at a genuinely lower price than the BX850M, though at 390W real capacity it sits toward the lower end of this capacity range, verify your specific PC and monitor's combined draw before choosing this over the higher-capacity top pick.\n\nStandard replaceable battery keeps long-term ownership cost predictable.\n\nLower price than the BX850M. Set against that, 390W real capacity, less headroom than the true 850VA-class top pick. Both matter when comparing it to the other picks here.",
     specs: ["650VA/390W", "Standard replaceable battery", "Surge protection", "PC/NAS rated"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 3,792 Amazon ratings",
     reviews: "3,792 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/313IpZaRpEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B085JJZDFK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B085JJZDFK?tag=workcocoon-20",
     description:
       "450W real capacity from an 850VA rating, in line with the typical power factor for this tier, and a strong review base as real-world evidence. Rated for PC, router, and NAS use, genuinely versatile at this capacity.\n\nA lower price than the BX850M top pick, worth considering if you don't need the extra outlet count or AVR feature set.\n\nThe standout detail is that versatile PC/router/NAS rating. Balancing that out, no AVR confirmed.",
     specs: ["850VA/450W", "PC, router, NAS rated", "Surge protection", "Strong review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 896 Amazon ratings",
     reviews: "896 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/317PvPHMHKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N18S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N18S?tag=workcocoon-20",
     description:
       "The only genuinely pure sine wave option at this capacity tier, worth the small price premium if your PC has an APFC power supply, standard on most desktops built in the last decade. AVR included and LCD display for load/runtime visibility.\n\nLower rating than the top APC picks, but the pure sine wave APFC compatibility is a real differentiator most 850VA-class competitors don't offer.\n\nAVR included. That's a real strength, but weigh it against the flip side: lower rating than the top APC picks.",
     specs: ["850VA, PFC sinewave", "AVR included", "LCD display", "APFC compatible"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 543 Amazon ratings",
     reviews: "543 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Y6I8mjmKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B000RZPK1W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000RZPK1W?tag=workcocoon-20",
     description:
       "Intelligent LCD gives real-time visibility into load and runtime, genuinely useful for understanding whether AVR is actively correcting or the unit has switched to battery. AVR included handles brownouts without draining the battery.\n\nSmallest review base of the 850VA-class picks here, weigh that against the genuine display and monitoring feature.\n\nAVR included. On the other hand, smallest review base among 850VA-class picks here. Both are worth keeping in mind before deciding.",
     specs: ["850VA class, AVR included", "Intelligent LCD display", "Surge protection", "Compact"],

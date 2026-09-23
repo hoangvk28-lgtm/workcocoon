@@ -46,7 +46,7 @@ export const mats: DeskMat[] = [
     style: "Vegan leather top, suede non-slip back, stitched edges",
     material: "vegan-leather",
     materialLabel: "Vegan Leather (PU)",
-    amazonUrl: "https://www.amazon.com/dp/B08SK6NNLR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08SK6NNLR?tag=workcocoon-20",
     imageUrl: `${B}/nordik-gray-leather-35x17-best-overall.webp`,
     pros: [
       "Suede non-slip backing actually grips -- zero shifting during full typing sessions",
@@ -81,7 +81,7 @@ export const mats: DeskMat[] = [
     style: "Vegan leather top, natural cork back, stitched edges",
     material: "cork-leather",
     materialLabel: "Cork-Leather",
-    amazonUrl: "https://www.amazon.com/dp/B094JQ2T73?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B094JQ2T73?tag=workcocoon-20",
     imageUrl: `${B}/nordik-cork-leather-35x17-best-eco-friendly.webp`,
     pros: [
       "Natural cork backing replaces synthetic rubber -- renewable, biodegradable",
@@ -116,7 +116,7 @@ export const mats: DeskMat[] = [
     style: "Merino wool felt surface, rubber non-slip back, stitched edges",
     material: "felt",
     materialLabel: "Felt",
-    amazonUrl: "https://www.amazon.com/dp/B09MVT9Y98?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MVT9Y98?tag=workcocoon-20",
     imageUrl: `${B}/dawntrees-felt-36x12-best-felt.webp`,
     pros: [
       "Soft matte felt texture looks genuinely premium in desk setup photos",
@@ -152,7 +152,7 @@ export const mats: DeskMat[] = [
     style: "Precision cloth surface, thick rubber base, stitched edges",
     material: "fabric",
     materialLabel: "Fabric / Cloth",
-    amazonUrl: "https://www.amazon.com/dp/B0FW569CSW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FW569CSW?tag=workcocoon-20",
     imageUrl: `${B}/deskmatec-snow-leopard-best-for-gaming-office.webp`,
     pros: [
       "Precision cloth surface provides consistent, low-friction mouse tracking",
@@ -187,7 +187,7 @@ export const mats: DeskMat[] = [
     style: "PU leather or fabric, non-slip base",
     material: "vegan-leather",
     materialLabel: "PU Leather / Fabric",
-    amazonUrl: "https://www.amazon.com/dp/B0827NT4KZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0827NT4KZ?tag=workcocoon-20",
     imageUrl: `${B}/small-desk-mat-10x12-best-ultra-compact.webp`,
     pros: [
       "The only mat on this list proportioned for desks under 30\" wide",
@@ -222,7 +222,7 @@ export const mats: DeskMat[] = [
     style: "Vegan leather top, felt non-slip back, stitched edges",
     material: "vegan-leather",
     materialLabel: "Vegan Leather (PU)",
-    amazonUrl: "https://www.amazon.com/dp/B086X1HZ8W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B086X1HZ8W?tag=workcocoon-20",
     imageUrl: `${B}/nordik-pebble-black-35x17-best-dark-aesthetic.webp`,
     pros: [
       "Identical build quality to the Alaskan Gray -- same stitching, same durability",
@@ -257,7 +257,7 @@ export const mats: DeskMat[] = [
     style: "Vegan leather top, suede non-slip back, stitched edges",
     material: "vegan-leather",
     materialLabel: "Vegan Leather (PU)",
-    amazonUrl: "https://www.amazon.com/dp/B08SK582M1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08SK582M1?tag=workcocoon-20",
     imageUrl: `${B}/nordik-tangerine-orange-35x17-best-colorful-setup.webp`,
     pros: [
       "Same construction as pick #1 -- all performance and durability benchmarks identical",
@@ -292,7 +292,7 @@ export const mats: DeskMat[] = [
     style: "PU leather top, non-slip base, stitched edges, built-in cable slot",
     material: "vegan-leather",
     materialLabel: "PU Leather",
-    amazonUrl: "https://www.amazon.com/dp/B07N5K716Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07N5K716Y?tag=workcocoon-20",
     imageUrl: `${B}/premium-leather-saddle-brown-best-vintage-look.webp`,
     pros: [
       "Saddle brown leather look develops character over time -- improves with age",

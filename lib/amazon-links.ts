@@ -1,4 +1,4 @@
-const TAG = "deskfinds0d-20";
+import { AMAZON_TAG as TAG } from "@/lib/affiliate";
 
 export const amazonSearchLinks: Record<string, string> = {
   "desk-setup":         `https://www.amazon.com/s?k=desk+setup+essentials&tag=${TAG}`,

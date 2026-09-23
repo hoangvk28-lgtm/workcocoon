@@ -4,6 +4,7 @@ import { Container } from "@/components/layout/Container";
 import { SITE_URL } from "@/lib/seo";
 import { AtAGlance } from "@/components/product/AtAGlance";
 import { AmazonBountyBanner } from "@/components/affiliate/AmazonBountyBanner";
+import { AMAZON_TAG, withAmazonTag } from "@/lib/affiliate";
 
 export interface GuideProduct {
   id: string;
@@ -83,7 +84,7 @@ function ProductSection({ product }: { product: GuideProduct }) {
       <div className="rounded-2xl border border-border bg-white overflow-hidden shadow-card">
         <div className="flex flex-col sm:flex-row gap-5 p-5">
           <a
-            href={product.amazonUrl}
+            href={withAmazonTag(product.amazonUrl)}
             target="_blank"
             rel="noopener noreferrer sponsored"
             className="shrink-0 flex items-center justify-center w-full sm:w-60 h-52 rounded-xl border border-border bg-gray-50 overflow-hidden hover:opacity-90 transition-opacity"
@@ -118,7 +119,7 @@ function ProductSection({ product }: { product: GuideProduct }) {
               {product.bestFor}
             </p>
             <a
-              href={product.amazonUrl}
+              href={withAmazonTag(product.amazonUrl)}
               target="_blank"
               rel="noopener noreferrer sponsored"
               className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-bold text-white hover:opacity-90 transition-opacity w-fit mt-auto"
@@ -447,7 +448,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
         <section className="mb-14 p-6 rounded-2xl flex flex-col items-center text-center" style={{ background: "linear-gradient(135deg, #FF9900 0%, #e68900 100%)" }}>
           <h2 className="text-xl font-bold text-white mb-2">Browse on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">All Prime-eligible options with current pricing.</p>
-          <a href={`https://www.amazon.com/s?k=${amazonQuery}&tag=deskfinds0d-20`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
+          <a href={`https://www.amazon.com/s?k=${amazonQuery}&tag=${AMAZON_TAG}`} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors" style={{ color: "#FF9900" }}>
             Shop on Amazon &rarr;
           </a>
         </section>

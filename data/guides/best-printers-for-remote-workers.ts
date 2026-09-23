@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The DCP-L2640DW is built for a genuine daily home-office workload, with duplex printing, copy and scan built in, and laser toner that handles contracts and reports at a lower cost-per-page than any inkjet in this list. For a remote worker printing in the 30-80 page monthly range, toner also means no dried-out cartridges after a slow week. It's the pricier pick here, but if your employer covers home office equipment, many companies approve printers at a budget-friendly price as an expensable cost, which is worth checking before you pay out of pocket for a laser printer at this tier. Duplex printing built in. On the other hand, highest price in this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520's OLED display makes wireless setup and everyday operation straightforward, useful for a remote worker who wants the printer running before a first video call rather than fighting a driver install. Duplex printing and a full print, copy, scan set cover typical WFH paperwork.\n\nAs a color inkjet, it's better suited to lighter, mixed-document printing than the high daily volume a busy contract or reporting job generates, where the ongoing ink cost adds up faster than toner would.\n\nDuplex printing for double-sided documents. That's a real strength, but weigh it against the flip side: higher cost-per-page than laser at real WFH volume.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413Pj7RejfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFH9RYW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFH9RYW?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8139 covers print, scan, copy, and fax with an automatic document feeder and duplex printing, the fullest feature set in this list for a remote worker whose job still occasionally requires faxing signed documents. A 1-year Instant Ink trial is included to offset early ink cost.\n\nThis is a genuinely business-oriented machine, which makes it a strong candidate for employer equipment reimbursement, many companies approve printers in this price range as a home office expense, worth confirming with your employer before purchase.\n\nWorth calling out specifically: auto document feeder for multi-page scans. The catch is pricier than most inkjet picks in this list.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "The HL-L2405W delivers the same laser cost-per-page advantage as the pricier DCP-L2640DW but drops the copy and scan functions, a reasonable tradeoff if you already have a scanning solution elsewhere and mainly need reliable, low-cost text printing for contracts and reports.\n\nLaser printers also tend to run quieter and more consistently than inkjets during a print job, which matters if your desk sits near where video calls happen and a printer firing up mid-meeting risks being picked up by the mic.\n\nLow cost-per-page for regular text printing. Set against that, no copy or scan function. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The EcoTank ET-2800 replaces disposable ink cartridges with refillable ink tanks, which keeps per-page cost low without switching to monochrome-only laser output, a useful middle ground for a remote worker who occasionally needs color charts or presentation printouts alongside routine paperwork.\n\nThe supertank design does give it a larger footprint than typical compact inkjets, so measure your desk space honestly before buying rather than assuming it matches a standard printer's size.\n\nA genuine advantage here is that no disposable cartridges to replace. The tradeoff is larger physical footprint than compact inkjets.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31H9Yu3i01L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=workcocoon-20",
     description:
       "The Workforce WF-2930 covers print, scan, copy, and fax with an auto document feeder and duplex printing at the lowest price point among the full-featured picks in this list, a solid fit for a remote worker whose WFH print volume sits at the lower end of the typical 30-80 page monthly range.\n\nA 1.4-inch color display keeps day-to-day operation simple, and its compact size fits easily into a home office desk setup without dominating the space.\n\nAuto document feeder included. On the other hand, inkjet cost-per-page is higher than laser at volume. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The EcoTank ET-2400 offers the same cartridge-free refillable ink advantage as the pricier ET-2800 for everyday home printing, slightly undercutting it on price while keeping the same low per-page cost benefit for a remote worker who prints steadily but not at office-level volume.\n\nLike the ET-2800, its ink tank design adds bulk compared to a compact inkjet, so it suits a dedicated home office desk better than a tight shared workspace.\n\nSlightly cheaper than the ET-2800 with the same core benefit. That's a real strength, but weigh it against the flip side: larger footprint than compact inkjets.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "The Smart Tank 5101 ships with 2 years of ink included, which removes ink-buying decisions almost entirely for a remote worker's first two years of ownership, a meaningful convenience for anyone who would rather not think about consumables at all. It covers print, scan, and copy in a refillable tank design similar to the Epson EcoTank line.\n\nAfter the included ink period ends, refills are typically inexpensive compared to cartridge-based printers, keeping long-term cost low for steady WFH printing.\n\nWorth calling out specifically: refillable tank design keeps long-term cost low. The catch is 2.4GHz-only wireless can be slower to pair on dual-band routers.",
     specs: [

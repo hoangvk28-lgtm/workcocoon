@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41mTdQ1WgiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9YBMJDV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9YBMJDV?tag=workcocoon-20",
     description:
       "The NDYIN N80 has the smallest actual stored footprint in this list, small enough to sit in a desk drawer with its charging cable coiled beside it rather than needing dedicated shelf space. It's an inkless thermal printer, meaning it uses heat instead of ink to darken specially coated paper, so it prints black and white only and skips the ink cartridges that take up drawer space on a standard inkjet.\n\nThat inkless design is the main tradeoff to understand before buying: no ink to store or replace, but the specialty thermal paper costs more per sheet than plain printer paper and the output fades over time, so it's better suited to notes and labels you don't need to keep long-term. Bluetooth connectivity and broad device compatibility make it simple to pull out of a drawer and use occasionally.\n\nWorth calling out specifically: fits easily in a standard desk drawer. The catch is black and white output only.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51pOVkHzLVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CYP944DP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYP944DP?tag=workcocoon-20",
     description:
       "The Gloryang includes a carry case, which doubles as tidy drawer or shelf storage at home even if you never take it anywhere, keeping the printer, its cable, and spare thermal paper rolls together in one compact bundle instead of loose in a drawer. Like the NDYIN, it's an inkless thermal printer, so factor in the same black-and-white-only output and fading-over-time tradeoff that comes with skipping ink entirely.\n\nThree rolls of thermal paper are included to start, which is a reasonable stash to keep in the case itself rather than finding separate storage for paper. For a small desk or shared space where tidy storage matters as much as small size, the included case is a genuine advantage over the NDYIN's bare unit.\n\nNo ink cartridges to store separately. Set against that, black and white output only. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The TS4320 is the smallest genuine color inkjet in this list, a real advantage for anyone who wants small-space storage without giving up full-color, ink-based printing the way the thermal picks require. Its compact design still needs room for the paper tray to extend during use and the ink cartridges stored inside the unit, both of which add real footprint that a marketing photo alone doesn't always convey.\n\nDuplex printing is supported, and the compact body stores well on a shelf or in a low desk cabinet, though it's noticeably larger stored than either thermal printer once you account for the paper tray and cartridge compartment. For buyers who need actual color inkjet output in the smallest available body, this is the pick.\n\nA genuine advantage here is that full-color output, unlike the thermal picks. The tradeoff is larger stored footprint than the inkless thermal picks.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 is a compact all-in-one that adds scan and copy functions to a footprint still small enough for a shelf or a small desk corner, though it's meaningfully larger stored than either thermal mini printer once its cartridge compartment and paper tray are factored in. The power cable and printer body together take up more drawer space than the NDYIN or Gloryang, so it's a better fit for permanent shelf placement than drawer storage.\n\nA 3-month Instant Ink trial is bundled in and converts to paid billing unless canceled. For a small space that still needs full scan, copy, and color print functions rather than just occasional black-and-white output, this is a reasonable compact choice.\n\nLow price for a full-featured AIO. On the other hand, larger stored footprint than the thermal mini printers. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The TR4720 fits an auto document feeder into a footprint still reasonable for a small desk, useful if your small space also needs occasional multi-page scanning rather than just printing. That feeder does add a bit of height compared to a flatbed-only compact printer, worth checking against shelf clearance before buying if vertical space is as tight as horizontal space. Its compact footprint stores well on a low shelf, though like the other inkjet AIOs here it needs more space than the two thermal mini printers once cartridges and the paper tray are accounted for. Built-in fax is included but unlikely to matter for most small-space buyers. Low priced competitively. That's a real strength, but weigh it against the flip side: feeder adds height, check shelf clearance.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ZOqtUE8mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1Z1VLV6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1Z1VLV6?tag=workcocoon-20",
     description:
       "The TR160 is built for travel first, and while its lightweight body is genuinely compact, its included battery, charging dock, and cable add real stored footprint that a printer without a battery doesn't carry. If you want a small printer purely for home desk storage, the TR160's travel-focused features are extra bulk you're paying for without using.\n\nIt earns a spot here mainly for buyers who want one printer that works as both a small home printer and a genuinely portable one for occasional trips, since it's the only battery-powered true color inkjet in this list. If you never plan to take it anywhere, the Canon PIXMA TS4320 above is a smaller, cheaper way to get true color inkjet output for a small space.\n\nWorth calling out specifically: doubles as a travel printer if needed. The catch is battery and charging dock add stored footprint you may not need.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 is the largest printer in this list by stored footprint, its refillable ink tanks take up more internal space than a cartridge printer, but it's worth including for small-space buyers who print often enough that low cost per page outweighs the extra shelf space it needs. Unlike either mini thermal pick, it delivers full-color inkjet output without needing to restock cartridges regularly.\n\nIf your small space mainly needs occasional black-and-white printing, the NDYIN or Gloryang thermal printers save far more shelf space. But for anyone printing photos, color documents, or high volume regularly in a small home office, the EcoTank's larger footprint is a worthwhile tradeoff against lower long-run cost.\n\nNo cartridge restocking. Set against that, largest stored footprint in this list. Both matter when comparing it to the other picks here.",
     specs: [

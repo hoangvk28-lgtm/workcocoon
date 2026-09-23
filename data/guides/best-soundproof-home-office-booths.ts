@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31pJxaKyuAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F3W1S3ST?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F3W1S3ST?tag=workcocoon-20",
     description:
       "A single-person soundproof pod booth with acoustic panels, sized for one occupant at H92in W43in D40in exterior dimensions. Amazon's listing does not include a star rating or review count, so buyers are working from the manufacturer's own description rather than verified feedback.\n\nSince acoustic-insulating wall thickness eats into interior space, the usable footprint inside will be meaningfully smaller than the 43in by 40in exterior dimensions suggest, plan a physical mockup or ask the seller for interior clearances before ordering. No formal STC or NRC test data is disclosed for the acoustic claim.\n\nWorth calling out specifically: acoustic panel construction for a single-occupant workspace. The catch is no star rating or review count available from Amazon.",
     specs: ["Single-person workspace", "Exterior dimensions H92in W43in D40in", "Acoustic panel interior", "Generic/private-label manufacturer"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41PGP1Co7uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1JNYJJM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1JNYJJM?tag=workcocoon-20",
     description:
       "An individual-seater pod that ships with furniture included, at the same H92in W43in D40in exterior footprint as similar single-person listings in this pool. Amazon's listing does not include a star rating or review count.\n\nFurniture-included is a genuine convenience for a single-occupant setup, but the listing gives no interior clearance figures once acoustic wall panels are accounted for, and no formal STC or NRC data backs the acoustic claim. Confirm floor loading and doorway clearance before delivery given the size of the crate this ships in.\n\nExact exterior dimensions disclosed (H92 x W43 x D40in). Set against that, no star rating or review count available from Amazon. Both matter when comparing it to the other picks here.",
     specs: ["Individual seater personal office", "Exterior dimensions H92in W43in D40in", "Ships with furniture included", "Generic/private-label manufacturer"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31FLR-RdCvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DRNJWS8Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DRNJWS8Q?tag=workcocoon-20",
     description:
       "The largest and most expensive pod in this research pool, sized for 4 to 6 people at H92in W91in D70in exterior dimensions and shipping with a desk included. Amazon's listing does not include a star rating or review count, so group-size claims and build quality are unverified beyond the manufacturer's own description.\n\nA structure this large means real freight delivery logistics, multi-person assembly, and floor-loading verification are not optional, budget for professional installation and confirm ceiling height and doorway clearance well before delivery. Ventilation for a 4-6 person enclosed space over a multi-hour meeting is not addressed in the listing, worth asking the seller about directly.\n\nThe standout detail is that ships with a desk included. Balancing that out, no star rating or review count available from Amazon.",
     specs: ["4 to 6 person capacity", "Exterior dimensions H92in W91in D70in", "Ships with a desk", "Largest and highest-priced pod in this pool"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F62Z8CFF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F62Z8CFF?tag=workcocoon-20",
     description:
       "A one-to-two-person pod at W55in D48in H92in exterior dimensions, one of the few listings in this pool to explicitly state a small occupancy range rather than a single fixed number. Amazon's listing does not include a star rating or review count.\n\nThe wider W55in footprint compared to the strictly solo pods gives a bit more room for a second occupant or a visitor chair, though interior usable space will still run smaller than the exterior dimensions once acoustic wall thickness is accounted for. No STC/NRC data or ventilation specs are disclosed.\n\nExact exterior dimensions disclosed (W55 x D48 x H92in). That's a real strength, but weigh it against the flip side: no star rating or review count available from Amazon.",
     specs: ["1 to 2 person capacity", "Exterior dimensions W55in D48in H92in", "Acoustic panel interior", "Generic/private-label manufacturer"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 14 Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31d7CVpkJCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FYPHYYRV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FYPHYYRV?tag=workcocoon-20",
     description:
       "A genuine mobile cubicle wall on wheels at a reasonable mid-tier price, strong early rating for a foldable design that provides real room-height visual separation. Foldable for storage when you don't need the divide.\n\nStill not architectural-grade soundproofing, expect meaningful visual privacy and modest sound softening, not true sound transmission blocking.\n\nWheeled and foldable, easy to reposition or store. That's a real strength, but weigh it against the flip side: not architectural-grade soundproofing.",
     specs: ["3-panel foldable partition, wheeled", "Room-height coverage", "Foldable for storage", "Strong early rating"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 562 Amazon ratings",
     reviews: "562 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LNiAecNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GG9TW8MK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GG9TW8MK?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide with a large, well-established review base, 6 panels provide genuine visual privacy at a fraction of the architectural-grade options' price. Wheeled for easy repositioning.\n\nHonestly, 'acoustic' at this price tier means very modest sound softening, this is primarily a visual privacy screen with wheels, not a genuine acoustic solution.\n\nWorth calling out specifically: large, well-established review base. The catch is 'Acoustic' claim is modest at this price tier, primarily a visual screen.",
     specs: ["6 panels, wheeled, black finish", "Budget-friendly", "Large, well-established review base", "Visual privacy focused"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 4 Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31N6zWVRQ9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2HC56SD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F2HC56SD?tag=workcocoon-20",
     description:
       "Heavy-duty construction at a genuinely reasonable middle price between the budget SUNALLY screen and the premium architectural option, standing-height 72-inch coverage suits most room-division needs.\n\nVery limited review history so far, weigh the perfect early rating against this small sample size before treating durability claims as proven.\n\n72in height for standing-height division. Set against that, very limited review history. Both matter when comparing it to the other picks here.",
     specs: ["3 panels, 72in height, heavy-duty", "Wheeled, acoustic material", "Mid-tier price", "Standing-height coverage"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "3.7 stars from 36 Amazon ratings",
     reviews: "36 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vCjliZ9AL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZWN92PX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZWN92PX?tag=workcocoon-20",
     description:
       "By far the largest and most expensive pick in this guide, this is a genuine architectural-grade acoustical partition wall at 8 feet wide, the closest product in this category to real sound transmission reduction rather than just visual privacy.\n\nNotably lower rating than the other picks here despite the premium price and scale, read recent feedback carefully before committing to this investment.\n\nA genuine advantage here is that closest product here to real sound transmission reduction. The tradeoff is notably lower rating than every other pick in this guide.",
     specs: ["8' wide x 6'6\" tall, architectural-grade", "Acoustical partition wall", "Easy roll-up storage", "Flexible arrangement"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 2 Amazon ratings",
     reviews: "2 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31QuqUSZuOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2HCQN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F2HCQN2H?tag=workcocoon-20",
     description:
       "A second listing of the same heavy-duty 72-inch design as rank 3, worth checking if the primary listing is out of stock or if this listing's finish suits your space better.\n\nEven smaller review count than its sibling, treat this as an alternative sourcing option rather than independently verified performance.\n\nReasonable mid-tier price. That's a real strength, but weigh it against the flip side: extremely limited review history.",
     specs: ["3 panels, 72in height, heavy-duty", "Wheeled, acoustic material", "Same specs as the primary listing", "Alternative sourcing option"],

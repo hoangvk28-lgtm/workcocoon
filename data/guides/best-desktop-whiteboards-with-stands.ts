@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31xK08Bp9kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=workcocoon-20",
     description:
       "A genuinely glass board with a reversible wood stand, meaning the stand can be flipped or repositioned per the listing, offering more flexibility than a fixed one-position stand.\n\nThe wood construction gives a different aesthetic than the plastic or metal stands common on other picks in this guide, worth considering if you want the stand itself to look intentional on your desk.",
     specs: ["Reversible wood stand", "9.5\" x 6.7\" glass surface", "Marker and eraser included", "Black glass finish"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41ofaC4xQiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08R3V1YTB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08R3V1YTB?tag=workcocoon-20",
     description:
       "A larger 16x12 inch board with a stand included, at a lower price than most other stand-equipped picks in this guide, giving more writing area per dollar if you don't need glass.\n\nDouble-sided in addition to the stand, so you get two writing surfaces on one freestanding unit.",
     specs: ["Includes stand", "16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Budget-friendly price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41FLEFa9xDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVM9YJCS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVM9YJCS?tag=workcocoon-20",
     description:
       "Same 16x12 size and stand inclusion as our value pick above, from a different brand, giving you a near-identical alternative if you prefer AMUSIGHT's specific build.\n\nThe stand supports the double-sided design, meaning it needs to hold the board steady from either face depending on which side you're using.",
     specs: ["Includes stand", "16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Comparable to our value pick"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "Here the stand does double duty as a keyboard stand, so the board's support structure is also elevating your keyboard, a more integrated use of desk space than a stand that only holds up the board.\n\nGenuinely glass and includes a drawer, so this pick combines stand, storage, and writing surface into one footprint.",
     specs: ["Multi-function keyboard stand design", "Glass dry erase surface", "Built-in drawer", "Compact desktop footprint"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51MYxgVGDSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08V4QSPFD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08V4QSPFD?tag=workcocoon-20",
     description:
       "A 14x10 inch double-sided board with a stand, and the listing specifically calls out a magnetic calendar feature, meaning one side or an included accessory offers calendar-style content, verify via listing images for exact layout.\n\nMid-sized between our compact and larger stand-equipped picks, a reasonable middle ground on footprint.",
     specs: ["Includes stand", "14\" x 10\" writing surface, double-sided", "Magnetic calendar feature per listing", "Mid-sized footprint"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/4139fisIqSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09VL1QL8F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09VL1QL8F?tag=workcocoon-20",
     description:
       "The lowest price of any stand-equipped board in this guide, 16x12 inches, double-sided, magnetic, and explicitly described as portable, suggesting a lighter-weight stand than some competing picks.\n\nA reasonable entry point if you want a freestanding board without paying extra for glass or added features.",
     specs: ["Includes stand", "16\" x 12\" writing surface, double-sided", "Magnetic dry erase surface", "Described as portable per listing"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21u3Y9nx6oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LSDSG52?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LSDSG52?tag=workcocoon-20",
     description:
       "The smallest stand-equipped board in this guide, explicitly labeled mini, meaning the stand footprint itself is likely the smallest here too, though exact dimensions aren't stated.\n\nDouble-sided and magnetic, useful if you want a minimal-footprint freestanding board rather than a larger stand setup.",
     specs: ["Includes stand", "Double-sided, explicitly labeled \"mini\"", "Magnetic erasable surface", "Smallest footprint in this guide"],

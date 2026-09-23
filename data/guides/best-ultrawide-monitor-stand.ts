@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "3,756",
     imageUrl: "https://m.media-amazon.com/images/I/51oe+oiyh9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09QWC568X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09QWC568X?tag=workcocoon-20",
     description:
       "The WESTREE is a riser, not an arm, so no VESA mount is needed, your ultrawide's own base simply sits on top of its 35.8\" x 10.2\" steel-and-wood platform. It holds up to 150 lbs, the highest capacity riser in this list, and assembles in about 2 minutes.\n\nA non-slip surface keeps the monitor from sliding, and the open space underneath fits a keyboard or accessories, adding real desk storage rather than just height. It's the pick for buyers who don't want to deal with VESA compatibility at all.\n\nNo VESA mount required, works with any monitor base. That's a real strength, but weigh it against the flip side: fixed height, no tilt or rotation adjustment.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,588",
     imageUrl: "https://m.media-amazon.com/images/I/41Hhe877YCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYCNPTQQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BYCNPTQQ?tag=workcocoon-20",
     description:
       "The Across-Star is the cheapest and highest-rated riser in this list, and it's the only one here with adjustable length, 32\" to 40\", so it can be sized to fit different desk widths rather than committing to one fixed platform size. Metal and wood construction holds up to 80 lbs.\n\nIts modular 3-piece design makes it easy to assemble or break down, and it still leaves storage space underneath for a keyboard or accessories. This is a riser, not an arm, so it needs no VESA mount at all.\n\nWorth calling out specifically: highest-rated pick in this list at 4.7 stars. The catch is 80 lb capacity is lower than the WESTREE riser above.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "5,275",
     imageUrl: "https://m.media-amazon.com/images/I/311ibCGy9SL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01FE2BCR8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01FE2BCR8?tag=workcocoon-20",
     description:
       "This VIVO is the only pick in this list that's freestanding, it does not clamp to the desk at all, which matters if you're in a rental or office where desk clamping isn't allowed. It supports up to 38\" ultrawide monitors via VESA 75/100mm and lifts 18\", with 360 degree rotation and plus or minus 15 degrees of tilt.\n\nBecause it's an arm-style stand rather than a riser, your monitor needs an actual VESA mount for this to work. Steel construction keeps the base stable despite not being clamped down.\n\nFull height, tilt, and rotation adjustment. Set against that, requires your monitor to have VESA 75/100mm mounting. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "20,268",
     imageUrl: "https://m.media-amazon.com/images/I/31EFNd8CvRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01BO42XK0?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01BO42XK0?tag=workcocoon-20",
     description:
       "This VIVO mount has the tallest pole in this list at 39\", supporting ultrawides up to 38\" at 22 lbs with plus or minus 90 degrees of tilt and full 360 degree rotation. The extra height makes it a strong fit for both sitting and standing desk setups, since it can position the monitor comfortably at either height.\n\nIt's by far the most-reviewed pick in this entire list at over 20,000 ratings, and it mounts via C-clamp or grommet. As a VESA arm rather than a riser, your monitor needs a compatible VESA mount.\n\nA genuine advantage here is that tallest pole here, good for standing desk setups. The tradeoff is 22 lb capacity limits it to 38\" and under.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "2,642",
     imageUrl: "https://m.media-amazon.com/images/I/413JaG+o7sL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00DGTP57A?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00DGTP57A?tag=workcocoon-20",
     description:
       "This is the only pick in this list designed to stack two ultrawide monitors vertically, up to 34\" each, rather than mounting a single wide panel or spreading two side by side. Each arm is rated for 22 lbs on a 28.5\" pole, with plus or minus 15 degrees of tilt and 360 degree rotation on each arm independently.\n\nSteel and aluminum construction mounts via C-clamp or grommet. It's a niche pick, useful specifically for buyers who want two 34\" ultrawides stacked to save desk width rather than a single 49\" super-ultrawide.\n\nSaves desk width compared to side-by-side monitors. That's a real strength, but weigh it against the flip side: only supports up to 34\" per monitor, not 49\" ultrawides.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "121",
     imageUrl: "https://m.media-amazon.com/images/I/4171Hc38M7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09B3LFDXJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09B3LFDXJ?tag=workcocoon-20",
     description:
       "The OImaster is a riser, not an arm, and it's the only one in this list with a built-in USB 3.0 hub plus a USB-C port, adding real functionality beyond just lifting the monitor. It adjusts to 3 height settings, 16.5\", 18.5\", and 20.5\", and holds 50-55 lbs.\n\nABS and metal construction includes a phone holder and a storage drawer, and it folds flat for travel or storage when not in use. No VESA mount is required since your monitor's base rests on top.\n\nWorth calling out specifically: 3 adjustable height settings, more flexible than a fixed riser. The catch is smaller review sample than the other risers.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "406",
     imageUrl: "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=workcocoon-20",
     description:
       "The TitanLift is the true heavy-duty arm-style stand in this list, built to hold screens up to 49\" at 44 lbs with an arm 20% thicker and a base 30% wider than the brand's standard model, engineering aimed directly at the torque sag curved super-ultrawides cause over time. It's been tested through 50,000 movement cycles.\n\nPremium aluminum construction, a dual C-clamp mount, and a 5-year warranty, the longest in this list, back it up. It's also the highest-rated pick in this entire guide at 4.7 stars, and unlike every riser above, it does require your monitor to have a VESA mount.\n\nOnly pick here rated for true 49\" super-ultrawide weight. Set against that, requires a VESA-compatible monitor, unlike the risers above. Both matter when comparing it to the other picks here.",
     specs: [

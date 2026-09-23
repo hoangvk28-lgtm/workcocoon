@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/410Ppc6zuZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D4K6VT83?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D4K6VT83?tag=workcocoon-20",
     description:
       "This is a large (L) size enclosed pod from a generic, private-label manufacturer, marketed for privacy and productivity rather than a specific occupancy count or use case. Amazon's listing does not include a star rating or review count, so there is no independent buyer feedback to weigh against the marketing copy.\n\nThe listing does not disclose ventilation specs, STC or NRC sound ratings, or interior versus exterior dimensions, gaps that are common across this category and worth asking the seller about directly before ordering. As with any large enclosed structure, plan for freight delivery and multi-person assembly.\n\nStraightforward, single-purpose enclosed privacy design. That said, no star rating or review count available from Amazon. Neither should be a surprise once you know to look for it.",
     specs: ["Large (L) size enclosed pod", "Marketed for privacy and productivity", "Generic/private-label manufacturer", "No published exterior dimension breakdown"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41tY3PYt8NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5C1H18W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5C1H18W?tag=workcocoon-20",
     description:
       "This is the one product in the verified pool whose title explicitly claims indoor and outdoor use, marketed as a luxury acoustic pod for meetings and multipurpose home office work. Amazon's listing does not include a star rating or review count.\n\nAn outdoor use claim in a title is not the same as a documented weatherproof rating, before installing outdoors confirm with the seller directly what weatherproofing standard, if any, the pod meets, how its electrical components are protected from moisture, and whether a foundation or anchoring system is included, since none of that is specified in the listing.\n\nWorth calling out specifically: multipurpose framing suits both meetings and general home office work. The catch is no star rating or review count available from Amazon.",
     specs: ["Marketed for indoor and outdoor use", "Multipurpose meeting/home office framing", "Acoustic (\"silence booth\") design", "Generic/private-label manufacturer"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41yCgSXvpOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW1VSGHG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW1VSGHG?tag=workcocoon-20",
     description:
       "This listing's full title stacks several different marketing names for the same product (studio pod, acoustic enclosure, isolation booth, soundproof chamber, acoustic shelter), a keyword-stuffed pattern common among lower-quality Amazon listings, so treat the branding language itself with some skepticism rather than as a meaningful differentiator. Amazon's listing does not include a star rating or review count.\n\nBeyond the stacked naming, the listing gives no occupancy count, no exterior dimensions, and no acoustic test data, which makes it harder to evaluate against the more detailed listings in this pool. Ask the seller directly for dimensions, ventilation specs, and any sound-isolation test data before ordering.\n\nOne of the available options in a thin niche. Set against that, keyword-stuffed listing title is a pattern associated with lower-quality listings. Both matter when comparing it to the other picks here.",
     specs: ["Acoustic enclosure / noise isolation framing", "Listing title stacks multiple keyword-style product names", "Generic/private-label manufacturer", "No occupancy count specified"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F62Z8CFF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F62Z8CFF?tag=workcocoon-20",
     description:
       "A one-to-two-person pod at W55in D48in H92in exterior dimensions, one of the few listings in this pool to explicitly state a small occupancy range rather than a single fixed number. Amazon's listing does not include a star rating or review count.\n\nThe wider W55in footprint compared to the strictly solo pods gives a bit more room for a second occupant or a visitor chair, though interior usable space will still run smaller than the exterior dimensions once acoustic wall thickness is accounted for. No STC/NRC data or ventilation specs are disclosed.\n\nThe standout detail is that exact exterior dimensions disclosed (W55 x D48 x H92in). Balancing that out, no star rating or review count available from Amazon.",
     specs: ["1 to 2 person capacity", "Exterior dimensions W55in D48in H92in", "Acoustic panel interior", "Generic/private-label manufacturer"],

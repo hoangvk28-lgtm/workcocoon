@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 13,957 Amazon ratings",
     reviews: "13,957 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41bsrlr6hiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LZKSMRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LZKSMRH?tag=workcocoon-20",
     description:
       "The largest review base of any clip-on light in this guide, genuine real-world evidence of reliable performance and clip fit across many monitor and laptop types. Ring light design provides even, flattering illumination for video calls.\\n\\nCRI rating isn't explicitly disclosed on this listing, a common gap at this price point, if accurate color rendering is your top priority, compare against picks that do list a CRI number.\n\nIt leads this comparison mainly on review volume and clip-fit reliability across different monitor types, worth weighing directly against the Video Conference Lighting Kit.\n\nEven ring light illumination. That's a real strength, but weigh it against the flip side: cRI rating not explicitly disclosed.",
     specs: ["Ring light, clip-on monitor mount","Video conference lighting kit","Adjustable brightness","Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 6,958 Amazon ratings",
     reviews: "6,958 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41A4zdsn9bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08YJPJLFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08YJPJLFV?tag=workcocoon-20",
     description:
       "5 dimmable color temperature settings and 5 brightness levels genuinely give more control over matching your room's ambient light than a fixed-temperature light, a real advantage for consistent video call appearance across different times of day.\\n\\nStill doesn't disclose a specific CRI number, a common gap even among the more feature-rich clip-on lights at this price point.\n\nSet against the Cyezcor Video Conference Lighting Kit, the tradeoff here comes down to CRI rating and adjustability versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: large, well-established review base. The catch is cRI rating not disclosed.",
     specs: ["Ring light, clip-on","5 color temperature settings, 5 brightness levels","Laptop and monitor mount","Very affordable"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 6,170 Amazon ratings",
     reviews: "6,170 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DFP3dJ-xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2C9QT91?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2C9QT91?tag=workcocoon-20",
     description:
       "The only pick in this guide with an explicit CRI 97+ rating disclosed, genuinely the top choice if accurate skin tone rendering on camera is your priority over just brightness or color options. Rechargeable 2200mAh battery adds cord-free flexibility.\\n\\nHighest rating of any pick in this guide, real evidence this combination of high CRI and portability performs well in practice.\n\nRelative to the Video Conference Lighting Kit, this pick leans toward a different priority, whether that's a lower price, a wider color temperature range, or a different power source.\n\nHighest rating in this guide. Set against that, smaller form factor than dedicated desk ring lights. Both matter when comparing it to the other picks here.",
     specs: ["CRI 97+, explicitly disclosed","Rechargeable 2200mAh battery","3 light modes, tripod adapter included","Clip mount"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,469 Amazon ratings",
     reviews: "1,469 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51taeRRFx3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BLHHV648?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLHHV648?tag=workcocoon-20",
     description:
       "A genuinely compact 5-inch ring light with both clip and stand mounting options, flexible if you want to switch between clipping to a monitor and standing it separately on the desk. Solid, established review base.\\n\\nCRI not explicitly disclosed, weigh the mounting flexibility against the ALTSON pick's disclosed high-CRI spec if color accuracy is the priority.\n\nCompared with the ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip & Camera Tripod Adapter Rechargeable 2200mAh CRI 97+ above, this pick trades some of that pick's proven track record for a different balance of price and features, worth weighing against your own video call setup.\n\nCompact 5-inch size fits tight desk spaces. That's a real strength, but weigh it against the flip side: cRI rating not disclosed.",
     specs: ["5-inch ring light","Clip-on and stand mounting options","Compact desktop design","Solid review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 375 Amazon ratings",
     reviews: "375 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414SjSteZVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F6TYSX29?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F6TYSX29?tag=workcocoon-20",
     description:
       "A straightforward on-camera ring light designed specifically to mount around or near your webcam, genuinely simple setup without the mounting flexibility of the Evershop pick, appropriate if you just want it in one fixed spot near your camera.\\n\\nModest review base compared to the top picks, weigh that against the specific on-camera mounting design if that's exactly what you need.\n\nSet against the Evershop Ring Light for Laptop Desk Clip On, the tradeoff here comes down to CRI rating and adjustability versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: reasonable price. The catch is modest review base compared to top picks.",
     specs: ["Ring light, on-camera monitor mount","Simple, fixed clip design","Video conference focused","Compact"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 152 Amazon ratings",
     reviews: "152 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41P6ZIeAUXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FLPR9ZBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FLPR9ZBK?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide, 360° adjustability lets you angle the light precisely for your specific setup. A genuinely budget-friendly entry point if you just want basic clip-on lighting without premium CRI or color-temperature features.\\n\\nModest review base, but a solid rating for the price, reasonable if budget is the primary constraint.\n\nRelative to the InnoGear Ring Light for Computer On, this pick leans toward a different priority, whether that's a lower price, a wider color temperature range, or a different power source.\n\n360° adjustability for precise angling. Set against that, modest review base. Both matter when comparing it to the other picks here.",
     specs: ["Ring light, 360° adjustable","Clip-on mount","Portable design","Most affordable pick in this guide"],

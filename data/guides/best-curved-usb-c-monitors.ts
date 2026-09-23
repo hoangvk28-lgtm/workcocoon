@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41TB04lWCrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR3YBSL4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR3YBSL4?tag=workcocoon-20",
     description:
       "A genuinely tight 1000R curve radius at 34 inches, appropriate for buyers sitting closer to their desk who want the curve's immersion benefit to feel meaningful rather than subtle.\n\nA very high 180Hz refresh rate adds real value for buyers who also game on this display alongside productivity use.\n\nVery high 180Hz refresh rate for smooth motion. That said, a 1000R curve suits closer viewing distances, verify this matches your desk setup. Neither should be a surprise once you know to look for it.",
     specs: ["34-inch curved UWQHD panel", "1000R curve radius", "180Hz refresh rate", "USB-C connectivity"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=workcocoon-20",
     description:
       "A 34-inch curved WQHD panel with explicit eye comfort features, appropriate for buyers spending long hours in front of the screen for productivity work.\n\nDell's build quality and 120Hz refresh rate give a solid balance of comfort and smooth motion for extended desk sessions.\n\nWorth calling out specifically: 120Hz refresh rate for smoother motion. The catch is verify the specific curve radius matches your desk viewing distance.",
     specs: ["34-inch curved WQHD panel", "120Hz refresh rate", "FreeSync Premium", "Explicit eye comfort features"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/518zREWknqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB8HLNPN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DB8HLNPN?tag=workcocoon-20",
     description:
       "A budget-friendly 27-inch curved panel with a genuinely high 120Hz refresh rate, appropriate for buyers testing whether curved monitors suit their setup without a premium price commitment.\n\nAt 27 inches, verify the curvature feels meaningful to you rather than assuming any curved panel delivers the same immersion benefit as a larger ultrawide.\n\n120Hz refresh rate for smoother motion. Set against that, at 27 inches, the curve benefit is less pronounced than on a larger ultrawide. Both matter when comparing it to the other picks here.",
     specs: ["27-inch curved panel", "120Hz refresh rate", "USB Type-C connectivity", "Budget-friendly price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51jbyzHVvdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=workcocoon-20",
     description:
       "A premium 34-inch curved ultrawide from Samsung's Viewfinity line, HDR10 support adds genuine contrast benefit for both productivity and media consumption.\n\nThe premium price reflects Samsung's panel quality and HDR10 support alongside the ultrawide curved format.\n\nThe standout detail is that samsung panel quality and reliability. Balancing that out, highest price in this guide.",
     specs: ["34-inch curved ultrawide QHD panel", "100Hz refresh rate", "HDR10 support", "USB-C connectivity"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41hpKXhqKnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H1VFKC84?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H1VFKC84?tag=workcocoon-20",
     description:
       "A genuinely massive 49-inch super-ultrawide effectively replacing a dual-monitor setup with one curved panel, appropriate for buyers wanting maximum horizontal workspace.\n\nA 1500R curve radius is gentler than the tightest curves in this guide, appropriate given the greater viewing distance a 49-inch panel typically requires.\n\n1500R curve appropriately gentler for the greater viewing distance. That's a real strength, but weigh it against the flip side: highest price in this guide alongside the Samsung option.",
     specs: ["49-inch curved super-ultrawide panel", "5120x1440 Dual QHD resolution", "1500R curve radius", "HDR400 support"],

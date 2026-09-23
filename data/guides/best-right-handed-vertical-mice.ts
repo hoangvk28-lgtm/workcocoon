@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 53,313 Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, and one of the largest in the entire vertical mouse category overall, this is explicitly marketed and labeled 'right hand' in the product title itself, a genuine example of deliberate right-handed framing rather than an unmarked default.\n\nThis massive review volume represents years of accumulated real-world evidence for the right-hand-optimized ergonomic curve specifically, a meaningfully deeper track record than most competitors can offer for this exact hand-orientation design.\n\nExplicitly labeled right-hand design, not an unmarked default. That said, lower average rating than smaller-sample competitors, weigh the sheer volume against this. Neither should be a surprise once you know to look for it.",
     specs: ["Explicitly labeled 'right hand' design", "By far the largest review base in this guide", "2.4G wireless with USB receiver", "Budget-friendly price"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 13,635 Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A genuinely more refined right-hand-specific ergonomic curve than the basic Anker option, this design also ships in a distinct left-handed variant separately, confirming the right-hand version here represents a deliberately optimized shape rather than a generic default assumed to work for everyone.\n\nThe tradeoff between choosing this deliberately right-hand-optimized design versus a more ambidextrous option is worth understanding, a purpose-built right-hand curve like this generally fits the hand more precisely than a shape designed to accommodate both hands adequately but neither perfectly.\n\nWorth calling out specifically: genuinely refined right-hand-specific ergonomic curve. The catch is higher price than the basic Anker pick.",
     specs: ["Refined right-hand-specific ergonomic curve", "Separate left-handed variant confirms deliberate design", "Large review base", "Premium build quality"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 13,635 Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lhXsHgD-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B098JK6G5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B098JK6G5N?tag=workcocoon-20",
     description:
       "The same proven right-hand-optimized ergonomic curve as the graphite Logitech Lift, in an off-white finish for buyers wanting a lighter desk aesthetic without sacrificing the refined right-hand shape.\n\nSince this shares identical ergonomic engineering with its graphite sibling, the choice between them comes down purely to color preference, confirming color is a cosmetic variant here rather than a functional difference in the right-hand optimization itself.\n\nLarge, well-established review base. Set against that, slightly higher price than the graphite color option. Both matter when comparing it to the other picks here.",
     specs: ["Same right-hand-specific ergonomic curve as graphite variant", "Off-white finish", "Large review base shared with graphite variant", "Premium build quality"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,670 Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A solid review base at an accessible price, this design defaults to right-handed like most of the broader vertical mouse category, appropriate for a buyer who simply wants a reliable right-hand mouse without paying a premium for extra ergonomic refinement or explicit left-hand-variant confirmation.\n\nThe rechargeable battery is a genuine bonus over the disposable-battery Anker pick, though the ergonomic curve itself represents the standard right-hand default found throughout the general vertical mouse category rather than a deliberately distinguished shape.\n\nThe standout detail is that rechargeable, avoiding disposable battery costs. Balancing that out, no separate left-handed variant to confirm deliberate right-hand optimization.",
     specs: ["Standard right-hand default ergonomic curve", "Rechargeable battery", "Solid review base", "Budget-friendly price"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 12,710 Amazon ratings",
     reviews: "12,710 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31UoLhAJ4zL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG5SW7F4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG5SW7F4?tag=workcocoon-20",
     description:
       "A very large review base with 6 buttons offering more programmable options than the simpler right-hand default picks, appropriate for a buyer who wants extra functionality alongside the standard right-hand curve most of this category ships with.\n\nAs with the ProtoArc pick, this represents the general category's unmarked right-hand default rather than an explicitly labeled or specifically refined right-hand design, worth understanding that distinction if you're specifically seeking a deliberately optimized shape over a generic one.\n\n6 buttons for more programmable functionality. That's a real strength, but weigh it against the flip side: no separate left-handed variant to confirm deliberate right-hand optimization.",
     specs: ["Standard right-hand default ergonomic curve", "6 buttons, adjustable DPI", "Very large review base", "Long quoted battery life"],

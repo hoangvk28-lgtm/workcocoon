@@ -1,6 +1,6 @@
 const SUPABASE_URL = "https://xlipolezpdkfmneqkncd.supabase.co";
 const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhsaXBvbGV6cGRrZm1uZXFrbmNkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3OTQ1NjcyOSwiZXhwIjoyMDk1MDMyNzI5fQ.nnQTZfueVnpKwxKkB506BfL1nMlvUFj4aOdlvCyq2mE";
-const TAG = "deskfinds0d-20";
+const TAG = "workcocoon-20";
 const BASE = `https://www.amazon.com/dp`;
 
 const h = {

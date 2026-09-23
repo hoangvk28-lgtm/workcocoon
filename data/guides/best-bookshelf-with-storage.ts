@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "10,020",
     imageUrl: "https://m.media-amazon.com/images/I/41bLosk4A6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08HHKFPMD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08HHKFPMD?tag=workcocoon-20",
     description:
       "The HOMIDEC is the best-selling and cheapest pick in this list by a wide margin, with over 10,000 ratings backing its 6-cube modular design. Each cube measures roughly 30x30x30cm (about 27 liters) and holds up to 15 lbs, and the PP plastic, ABS resin, and metal-frame construction assembles without tools. Because the cubes are fully modular, you can reconfigure the layout to fit a corner, a long wall run, or a narrow gap, and it's compatible with standard 11-inch fabric storage bins if you want to hide contents entirely. For sheer value and flexibility, this is the easiest pick to recommend. Cheapest option in this list. That's a real strength, but weigh it against the flip side: plastic construction feels less premium than wood or MDF picks.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,846",
     imageUrl: "https://m.media-amazon.com/images/I/41Ed-X-hfmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C88XTSMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C88XTSMM?tag=workcocoon-20",
     description:
       "The SUNMORY combines a tree-shaped, 6-tier open shelf design with 2 storage cabinets at the base that can be joined together into one larger enclosed unit. It's backed by a 2-year warranty with lifetime support, more comprehensive coverage than most bookshelves in this price range.\n\nThe vintage faux-wood finish suits tight corners well given its narrow footprint, and an anti-tip kit is included for wall anchoring. It's one of the better-reviewed picks in this list at 4.6 stars.\n\nWorth calling out specifically: tree-shaped design fits tight corners. The catch is cabinets are open rather than door-enclosed.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "2,298",
     imageUrl: "https://m.media-amazon.com/images/I/51P0hhxgYxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=workcocoon-20",
     description:
       "The VASAGLE Liry carries the highest total weight capacity in this list at 374.8 lbs, split across 2 open tiers up top and a 2-door cabinet with 3 adjustable shelves below, offering 5 different height configurations to fit taller or shorter items. The two-tone cloud white and warm brown finish gives it a farmhouse look that suits a wider range of decor than the metal-frame picks here.\n\nA robot-vacuum-friendly 3.5-inch base clearance lets automated vacuums pass underneath without getting stuck, a small but genuinely useful detail. The 2-door cabinet fully hides clutter, unlike the open cabinets on several other picks in this list.\n\nFully enclosed 2-door cabinet hides clutter. Set against that, more expensive than most picks in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "415",
     imageUrl: "https://m.media-amazon.com/images/I/31cCEYTHIgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BWMY3MJH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BWMY3MJH?tag=workcocoon-20",
     description:
       "The Furinno LUDER is built from CARB and FSC-certified composite wood, meaning it meets stricter formaldehyde-emission and sustainable-sourcing standards than most budget bookshelves. It combines 4 open tiers with a single bottom door cabinet for enclosed storage, all within an extremely compact 12-inch-wide footprint.\n\nTotal capacity runs 75 to 95 lbs depending on shelf, modest compared to other picks here, but the tiny footprint makes it one of the few options that genuinely fits in a dorm room or narrow apartment hallway.\n\nA genuine advantage here is that single door cabinet hides bottom-tier storage. The tradeoff is lowest rating in this list at 4.0 stars.",
     specs: [
@@ -180,7 +180,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,257",
     imageUrl: "https://m.media-amazon.com/images/I/31nW-tOFxPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXL3PZKR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXL3PZKR?tag=workcocoon-20",
     description:
       "At just 9.3 inches wide, the FOTOSOK Media Tower is the slimmest pick in this list, built from particleboard with 8 adjustable cubby tiers stacked vertically. Four of the shelves adjust in height, which makes it especially good for organizing CDs, DVDs, or a paperback collection where item sizes vary.\n\nIt also comes with an included iron mounting sheet for wall-mounting, useful if floor space is limited or you want to keep it clear of a baseboard heater or vent. The slim profile means it holds less per shelf than wider picks, but it fits where nothing else will.\n\n8 adjustable tiers for varied item sizes. On the other hand, narrow shelves hold less per tier than wider picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -211,7 +211,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "3,069",
     imageUrl: "https://m.media-amazon.com/images/I/31-8gNCYRGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09DX34YB6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09DX34YB6?tag=workcocoon-20",
     description:
       "The AWTATOS offers the most cubes in this list at 12, each measuring 11.8 inches on every side, built from ABS connectors and PP panels over a metal frame. The DIY layout is both expandable and stackable, so you can start smaller and add more cubes later as storage needs grow.\n\nHigh-foot connectors lift the frame slightly off the floor, which helps resist moisture buildup underneath, and it's compatible with any standard fabric bin if you want a mix of open and hidden cubes. At 11 lbs per cube, it handles books, folded clothes, or bins with room to spare.\n\nExpandable and stackable over time. That's a real strength, but weigh it against the flip side: 11 lb per-cube limit is lower than most enclosed cabinet picks.",
     specs: [
@@ -244,7 +244,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "766",
     imageUrl: "https://m.media-amazon.com/images/I/51v0HhipEKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C5RK4NBT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5RK4NBT?tag=workcocoon-20",
     description:
       "This FOTOSOK tall bookshelf ties for the highest rating in this list at 4.7 stars, combining 3 open baffled shelves with 3 smooth-glide drawers finished in brushed aluminum handles. Baffles along the back of each open shelf stop books from sliding through, and an anti-collapse iron reinforcement plate adds structural rigidity across the 0.6-inch-thick engineered wood panels.\n\nTotal storage works out to roughly 100 gallons combined between the open shelves and drawers, rated for 95 lbs overall. It's a strong pick for anyone who wants a tall storage tower with a mix of open display and enclosed drawer space.\n\nWorth calling out specifically: smooth aluminum-handle drawers. The catch is more expensive than most picks in this list.",
     specs: [
@@ -277,7 +277,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "187",
     imageUrl: "https://m.media-amazon.com/images/I/31yQT5-GJBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2KNG8SR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2KNG8SR?tag=workcocoon-20",
     description:
       "The DICTAC is the most versatile pick in this list, functioning equally well as a pantry cabinet, bathroom storage unit, office shelf, or living room bookcase thanks to its 6 distinct storage zones: 3 slide-out drawers, 3 tiers of open shelving, and a dedicated top storage area. The particle board construction is waterproof and scratch-resistant, which matters if it ends up in a kitchen or bathroom rather than a living room.\n\nAt 73.23 inches tall, it's the tallest pick here, and an anti-tip kit is included given the height. Ties for the top rating in this list at 4.7 stars despite a smaller review sample.\n\n6 distinct storage zones in one unit. Set against that, smallest review sample in this list (187 ratings). Both matter when comparing it to the other picks here.",
     specs: [

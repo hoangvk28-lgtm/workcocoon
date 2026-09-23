@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,489",
     imageUrl: "https://m.media-amazon.com/images/I/41uULXHLL1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=workcocoon-20",
     description:
       "This SUNALLY rod spans 28 to 114 inches wide and 4 to 10 feet tall, the widest coverage in this list, with a stainless steel build rated for 45 lbs of curtain weight. It sets up in both a straight I-shape or an angled L-shape configuration, so it can wrap a corner instead of just running in a straight line.\n\nBecause it works entirely on spring tension, there's no drilling, no wall anchors, and no permanent mark left behind, exactly what a renter needs. You still need to buy curtains separately, the rod alone is just the framework.\n\nBoth I-shape and L-shape configurations for corners. That's a real strength, but weigh it against the flip side: curtains sold separately.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,026",
     imageUrl: "https://m.media-amazon.com/images/I/51-x8nHCvhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZGN4B8V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZGN4B8V?tag=workcocoon-20",
     description:
       "Goovilla's iron tension rod covers a more compact 28 to 70 inch width, well suited to sectioning off a sleeping nook or closet-sized area rather than a whole room. Like the wider SUNALLY, it offers both I-shape and L-shape setups and a 45 lb capacity, entirely without drilling.\n\nAt just over half the price of the wide SUNALLY option, it's the cheapest tension rod in this list, and it detaches into a compact package for storage if you only need the division temporarily.\n\nWorth calling out specifically: both I-shape and L-shape configurations. The catch is narrower 70\" max width limits it to smaller spaces.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "980",
     imageUrl: "https://m.media-amazon.com/images/I/419hFiYpoGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH63QDM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH63QDM?tag=workcocoon-20",
     description:
       "This is the compact sibling of SUNALLY's wide tension rod, covering 28 to 70 inches in the same stainless steel build and 45 lb rating. It's the brand's most popular configuration for a reason: most studio nooks don't actually need a 114-inch span.\n\nThe rod detaches for genuinely compact storage between uses, a real advantage if you're subletting or expect to move within a year and don't want to carry a bulky rod along.\n\nStainless steel build resists rust. Set against that, narrower than the 114\" SUNALLY option. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,955",
     imageUrl: "https://m.media-amazon.com/images/I/41inUBY1siL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVD54V55?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVD54V55?tag=workcocoon-20",
     description:
       "With nearly 2,000 ratings, HORSE SECRET is the most-reviewed tension rod in this list. A 1-inch diameter stainless metal tube feels sturdier in hand than the thinner rods from other brands, and a matte black finish looks less utilitarian than bare steel.\n\nIt covers the same 28 to 70 inch, 4 to 10 foot range as the compact SUNALLY and Goovilla options, with a 40 lb capacity, and mounts entirely on spring tension with zero drilling.\n\nA genuine advantage here is that thicker 1\" diameter feels sturdier. The tradeoff is slightly lower 40 lb capacity than the SUNALLY/Goovilla rods.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "690",
     imageUrl: "https://m.media-amazon.com/images/I/51rv8HmmWoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07NQ855JN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07NQ855JN?tag=workcocoon-20",
     description:
       "JOSTYLE's bamboo screen needs zero assembly and unfolds straight out of the box, with dual-direction hinges that let it bend into whichever angle keeps it standing on its own. At 79.9 inches wide and just 15.4 lbs, it's the lightest folding screen in this list.\n\nNatural bamboo construction gives it a warmer, more organic look than a fabric or metal-frame screen, and it's light enough for one person to reposition without help.\n\nLightest folding screen in this list at 15.4 lbs. That's a real strength, but weigh it against the flip side: bamboo panels are less rigid than a solid wood frame.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "984",
     imageUrl: "https://m.media-amazon.com/images/I/51lVjlsR99L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MSXEB3B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MSXEB3B?tag=workcocoon-20",
     description:
       "Roundhill's shoji screen uses translucent rice-paper-style panels that let daylight pass through while still blocking a direct sightline, a real advantage in a studio where a solid divider can make the whole apartment feel darker and smaller. The cherry wood frame and two-way hinges need no assembly.\n\nAt 72 inches wide and just 15 lbs, it's light enough to reposition on your own, and the Japanese aesthetic reads as intentional decor rather than a makeshift barrier.\n\nWorth calling out specifically: no assembly required. The catch is translucent panels offer visual privacy but not full opacity.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "30",
     imageUrl: "https://m.media-amazon.com/images/I/51SjBA7OMrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GHY9X7RJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GHY9X7RJ?tag=workcocoon-20",
     description:
       "This 6-panel screen is hand-carved with an openwork leaf pattern, letting both light and airflow pass through the solid wood construction while still doubling as a decorative art piece. At 96 inches wide, it's the widest folding screen in this list once fully unfolded.\n\nIt requires no tools to set up, and the carved pattern gives it a boutique, boho look that a plain fabric or bamboo screen can't match, though it comes at a premium price for that detail.\n\nHand-carved openwork lets light and air through. Set against that, most expensive folding screen in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "709",
     imageUrl: "https://m.media-amazon.com/images/I/41tIPFRL6WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=workcocoon-20",
     description:
       "Unlike the screens and rods above, Furologee's S-shaped rack doubles as real storage, holding 30 lbs per shelf for 180 lbs total across its sculptural frame. In a studio where every square foot needs to earn its keep, a divider that's also a bookshelf makes more sense than one that only divides.\n\nIt works upright as a divider, or laid flat as a wine rack or TV stand, giving it more flexibility than a fixed-shape folding screen if your studio layout changes.\n\nA genuine advantage here is that 180 lb total capacity. The tradeoff is narrower footprint than a full-width folding screen.",
     specs: [

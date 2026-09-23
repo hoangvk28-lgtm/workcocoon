@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "PlasmaWave technology adds a genuine odor-neutralizing layer beyond mechanical carbon filtration alone, a large review base backing it as a proven odor-control pick.\n\nPlasmaWave is not an ozone generator in the EPA-flagged sense, it operates differently from ionizer designs that carry the lung-irritant tradeoff at elevated concentrations.\n\nLarge, well-established review base. That's a real strength, but weigh it against the flip side: higher price than budget alternatives.",
     specs: ["PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration", "Multi-stage filtration"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed as an odor eliminator with by far the largest review base of any pick here, a genuinely proven affordable choice for moderate household odor.\n\nActivated carbon has a finite absorption capacity, in a small room with a strong odor source like a litter box, expect faster saturation than the standard replacement estimate assumes.\n\nBy far the largest review base of any pick here. On the other hand, standard carbon layer saturates faster with a strong odor source. Both are worth keeping in mind before deciding.",
     specs: ["True HEPA H13, marketed as odor eliminator", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,384 Amazon ratings",
     reviews: "1,384 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31MxpE4keLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHW2LLSJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHW2LLSJ?tag=workcocoon-20",
     description:
       "An affordable pick appropriate for a smaller room with a moderate odor source, genuinely capable within its rated coverage rather than an intense single-source scenario.\n\nA smaller room with a strong source concentrates odor compounds faster per cubic foot, meaning the carbon layer saturates quicker than in a larger open space with the same source.\n\nA genuine advantage here is that solid review base. The tradeoff is that not specialized for an intense single odor source.",
     specs: ["True HEPA PM2.5 filtration", "Up to 900 sq ft rated (open room)", "Solid review base", "Budget-friendly"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large, well-established review base at a low price, genuinely capable for routine household odor rather than an intense cooking or litter-box source.\n\nRoutine background odor is a reasonable fit here, an intense single source benefits more from a dedicated odor-technology pick like the top choice in this guide.\n\nLow price. That said, not specialized for an intense single odor source. Neither should be a surprise once you know to look for it.",
     specs: ["True HEPA filtration", "Large review base", "Budget-friendly", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control, genuine headroom for a larger space where a strong odor source (cooking, a large litter setup) would otherwise saturate a standard-capacity carbon layer faster.\n\nDilution across more air volume genuinely slows carbon saturation compared to a small standard-capacity unit facing the same intense source.\n\nWorth calling out specifically: smart app control for monitoring. The catch is higher price than budget alternatives.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Extra headroom slows carbon saturation"],

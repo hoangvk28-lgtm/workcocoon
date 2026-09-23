@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31D1tw1HTNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G1C1YNN8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1C1YNN8?tag=workcocoon-20",
     description:
       "The UGREEN NAS DXP4800 Pro is UGREEN's higher-tier 4-bay diskless NAS, stepping up from the DXP4800 Plus with a stronger overall configuration for buyers who want more headroom for RAID setups and multiple apps running at once. Four bays give meaningfully more total capacity and RAID flexibility than any 2-bay unit, at the cost of a larger footprint and higher up-front price.\n\nAs with every pick in this guide, it ships diskless, so budget for four NAS-rated drives on top of the enclosure price, and set aside real time (2-4 hours at minimum) for drive installation, RAID configuration, and OS setup.\n\nStrong value at the top of UGREEN's 4-bay lineup. That's a real strength, but weigh it against the flip side: diskless, four drives adds significantly to the real cost.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The UGREEN NAS DXP4800 Plus runs an Intel Pentium Gold 8505 5-core CPU, strong enough to handle smooth 4K transcoding rather than stuttering the way ARM-based budget units do. That processor tier matters more than bay count for buyers planning to run a media server, since a fast CPU determines whether streaming actually works well.\n\nIt is a 4-bay diskless unit, so four NAS-rated drives are a separate cost, and first-time setup, drive install, RAID configuration, and OS setup, realistically takes 2-4 hours, this is not a plug-and-play device.\n\nWorth calling out specifically: strong CPU-to-price ratio among the 4-bay picks. The catch is diskless, four drives add real cost on top of the enclosure.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31lHPxvOiEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F895RV3K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F895RV3K?tag=workcocoon-20",
     description:
       "The Synology DS425+ is a 4-bay diskless NAS positioned as a private cloud media server for streaming, backup, and file sharing, and it includes access to Synology's DSM software ecosystem, Synology Drive, Synology Photos, and Surveillance Station among its apps. That software polish is a real differentiator if you value a well-documented, beginner-friendly interface over raw price.\n\nAs a diskless unit, four NAS-rated drives are a separate purchase, and DSM's RAID setup, while more approachable than some competitors, still takes real configuration time on first setup.\n\nSolid 4-bay capacity for backup, sharing, and streaming. Set against that, diskless, four drives add real cost. Both matter when comparing it to the other picks here.",
     specs: [
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=workcocoon-20",
     description:
       "The Synology DS925+ is Synology's current-generation 4-bay DiskStation and the most expensive 4-bay pick in this guide, aimed at buyers who want the newest hardware generation and the longest runway of software support and updates ahead of it. It runs the same DSM ecosystem as the rest of Synology's lineup, just on newer internals. Being diskless, four NAS-rated drives are a separate cost on top of the enclosure price, and as with any 4-bay unit, RAID setup and initial configuration take real time, budget a genuine afternoon for it. A genuine advantage here is that longest expected runway of software updates and support. The tradeoff is most expensive 4-bay pick in this guide.",
     specs: [
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21KH+uw1QfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FB7KQLR1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FB7KQLR1?tag=workcocoon-20",
     description:
       "The Synology DS225+ is the cheapest way into the Synology DSM ecosystem in this guide that still comes with real transcoding power, thanks to its Intel CPU and hardware transcoding support. It's a genuine step down in scale from the 4-bay and 6-bay picks above, appropriate for buyers who don't need four or six bays of capacity but still want Intel-level performance.\n\nAs a diskless 2-bay unit, budget for two NAS-rated drives separately, and expect a real 2-4 hour setup window for drive install, DSM configuration, and RAID setup.\n\nCompact 2-bay footprint versus the larger 4-bay/6-bay picks. That's a real strength, but weigh it against the flip side: 2-bay capacity ceiling versus the 4-bay and 6-bay picks.",
     specs: [
@@ -202,7 +202,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 is the cheapest pick in this entire guide and the best true entry-level 2-bay option, positioned as a simple home or office backup hub rather than a media powerhouse. It skips the DS225+'s Intel transcoding CPU in exchange for a meaningfully lower price, a fair tradeoff if your priority is basic file backup and sharing rather than streaming.\n\nBeing diskless, two NAS-rated drives are a separate purchase, and as with any NAS, initial setup and RAID configuration take real time rather than working instantly out of the box.\n\nWorth calling out specifically: simple, reliable entry point into DSM. The catch is no Intel hardware transcoding, unlike the DS225+.",
     specs: [
@@ -233,7 +233,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31WV37V7J7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTZC19FX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTZC19FX?tag=workcocoon-20",
     description:
       "The UGREEN NAS DXP4800 GT is the only AMD-based pick in this guide, running an AMD R2514 CPU rather than the Intel chips found in most of the other 4-bay competitors. It also carries 8GB of DDR4 RAM, the highest RAM among the 4-bay picks in this guide, which matters directly if you plan to run multiple apps simultaneously, file sync, a media server, and backup all at once.\n\nAs a diskless 4-bay desktop NAS, four NAS-rated drives are a separate cost, and RAID setup plus initial OS configuration takes real time on a first setup, typically 2-4 hours minimum.\n\nHighest RAM among all 4-bay picks at 8GB. Set against that, aMD platform has a different software/driver ecosystem than Intel competitors. Both matter when comparing it to the other picks here.",
     specs: [
@@ -264,7 +264,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31zydBlwx2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8BX4RCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8BX4RCV?tag=workcocoon-20",
     description:
       "The UGREEN NAS DXP6800 Plus is the most expensive and highest-capacity pick in this entire guide, a 6-bay desktop NAS with the most bays and the highest capacity ceiling here, built around an Intel i3 1215U 6-core CPU. That combination of six bays and a genuinely capable CPU makes it the clear pick for large media libraries or small offices with multiple simultaneous users.\n\nBeing diskless, six NAS-rated drives is a substantial separate cost on top of the enclosure price, and setting up RAID across six bays takes meaningfully longer than a 2-bay or 4-bay unit, plan for a real block of setup time.\n\nA genuine advantage here is that intel 6-core CPU handles heavy multitasking and transcoding well. The tradeoff is most expensive pick in this guide.",
     specs: [

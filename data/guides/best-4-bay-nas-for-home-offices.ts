@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The DXP4800 Plus pairs a genuinely capable 5-core Intel Pentium Gold processor with 4 drive bays, enough compute headroom to run Plex transcoding, Docker containers, and RAID management simultaneously without the NAS becoming the bottleneck in your workflow.\n\nAs a diskless unit, the enclosure price is only the starting point, budget for 4 NAS-grade drives on top, but the Intel processor and expandable RAM give it a longer useful life than value-tier ARM-based 4-bay units as your home office needs grow.\n\nFull RAID flexibility including RAID 5 and RAID 10. That's a real strength, but weigh it against the flip side: diskless, drives are a significant added cost.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=workcocoon-20",
     description:
       "The DS925+ is Synology's current Plus-series 4-bay, running DSM's polished software with Hybrid RAID (SHR) support that lets you mix and expand drive sizes over time rather than committing to matched drives upfront. That gradual upgrade path is a real advantage over standard RAID 5 for a home office that grows incrementally.\n\nBe aware that Synology's 2024-and-newer Plus-series models show compatibility warnings for non-Synology-branded drives in DSM. The NAS still functions with third-party NAS drives, but Synology-branded drives avoid the warning at a 15-30% price premium.\n\nWorth calling out specifically: mature, polished DSM software. The catch is most expensive pick in this list before drives.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41CoDmrFUGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BY7LGMNP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BY7LGMNP?tag=workcocoon-20",
     description:
       "The DS423 brings Synology's DSM software and 4-bay flexibility to a lower price point than the DS925+, aimed at family and small home office backup, file sharing, and basic video surveillance storage rather than heavy transcoding workloads.\n\nAs a value-series model, it predates the strictest 2024+ drive compatibility warnings, giving more third-party drive flexibility than the newer DS925+. Pair it with 4 NAS-grade drives for a complete, budget-conscious 4-bay setup.\n\nMore relaxed third-party drive compatibility. Set against that, less CPU headroom than the Intel-based DXP4800 Plus. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/310l7keevAS._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K4RC7X9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07K4RC7X9?tag=workcocoon-20",
     description:
       "It's worth being clear about what the TR-004 actually is: a direct-attached storage enclosure connected via USB-C to a single computer, not a network-attached NAS that multiple devices can access over Ethernet. If your home office is a single-user setup, this distinction may not matter much in practice.\n\nHardware RAID across 4 bays gives it real redundancy options despite the USB connection, and it's a genuinely cheaper way to get 4-bay RAID storage if you don't need multi-device network access. It can also serve as expansion storage attached to a QNAP NAS.\n\nA genuine advantage here is that hardware RAID redundancy despite USB connection. The tradeoff is not network-attached, only one computer connects at a time.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21z94zz6wGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTTL9R7Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTTL9R7Z?tag=workcocoon-20",
     description:
       "Similar to the QNAP TR-004, the D4-320 is a direct-attached enclosure, not a network NAS, connecting to a single computer over USB 3.2 Gen2 at up to 10Gbps. It's the cheapest 4-bay storage expansion option in this list.\n\nHot-swap bays make drive replacement straightforward, and plug-and-play setup means no NAS operating system to configure. For a home office that just needs a large, fast local storage pool attached to one workstation, this sidesteps NAS software complexity entirely.\n\n10Gbps USB connection, fast for a direct-attached unit. That's a real strength, but weigh it against the flip side: not network-attached storage.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "It's worth being upfront that the DXP2800 is a 2-bay NAS, not a 4-bay unit, included here for home offices who start researching 4-bay options but realize their actual capacity needs, and budget, fit a smaller 2-drive setup better.\n\nIf you don't need 4 bays of RAID 5 or RAID 10 flexibility and mainly want reliable 2-drive redundancy for a smaller content creation workflow, this UGREEN model gives you a lower entry cost than any 4-bay unit in this list while still supporting RAID 1 mirroring.\n\nWorth calling out specifically: sufficient RAID 1 redundancy for smaller storage needs. The catch is only 2 bays, no RAID 5 or RAID 10 flexibility.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "Like the DXP2800 above, the DH2300 is a 2-bay NAS, not a 4-bay unit, listed here as the most budget-friendly alternative for home offices whose storage needs turn out to be smaller than a 4-bay purchase justifies. It supports up to 64TB across its 2 bays with large enough drives.\n\nIt's a genuinely simple, low-cost entry into networked storage with basic RAID 1 support, well-suited to a first NAS for automatic backup rather than a growing multi-app home office server.\n\nSupports large per-bay drive capacity up to 64TB total. Set against that, only 2 bays, no RAID 5/10 option. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The DS223 rounds out this list as another 2-bay Synology option, not a 4-bay unit, for home offices whose actual need is straightforward file backup and centralized storage rather than the RAID 5/10 flexibility a true 4-bay NAS provides.\n\nSynology's DSM software makes setup approachable for less technical buyers, and 2-drive RAID 1 mirroring covers basic redundancy needs. If your research keeps leading back to 4 bays, use this as the cost baseline for what a much simpler 2-bay setup would cost instead.\n\nA genuine advantage here is that reliable RAID 1 backup redundancy. The tradeoff is only 2 bays, not a substitute for genuine 4-bay expansion needs.",
     specs: [

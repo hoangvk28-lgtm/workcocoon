@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 offers the most mature Time Machine setup workflow in this list, with DSM's Shared Folder wizard including a dedicated Time Machine toggle that configures SMB3 and Bonjour advertising automatically. Setting a per-Mac backup quota is a built-in option in the same wizard rather than a separate manual step.\n\nAs a 2-bay diskless unit, it needs its own drives and RAID 1 configured before it holds real redundancy for your backup history, and 2024+ DSM firmware can flag non-Synology drives with a compatibility warning even though they still work. For a household with 2-3 Macs wanting the smoothest Time Machine setup experience, it's the strongest overall pick.\n\nPer-Mac quota built directly into shared folder creation. That's a real strength, but weigh it against the flip side: diskless, needs 2 drives purchased separately.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "The DXP2800's content-creator-tier CPU handles a large, fast-growing Time Machine sparse bundle without slowing down, which matters if your Mac's internal drive is 1TB or larger and generates a sizable backup history within the first year. UGREEN OS supports SMB3 shares with Time Machine compatibility for macOS clients.\n\nIt costs more than the entry-level 2-bay picks here, so it makes the most sense for a MacBook Pro with a large internal SSD rather than a lightly used MacBook Air. Confirm SMB3 is active in the sharing settings before your first backup, since AFP is being phased out across the industry, not just on Synology.\n\nWorth calling out specifically: snapshot versioning adds protection beyond Time Machine alone. The catch is priciest 2-bay pick in this list.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 is the cheapest diskless 2-bay in this list while still supporting up to 64TB total capacity, giving a single-Mac household room to grow the Time Machine archive over several years without swapping the enclosure. It supports SMB3 shares for Time Machine compatibility through UGREEN's standard OS tools. Its entry-level CPU and RAM keep it best suited to Time Machine as its primary job rather than layering on Plex or surveillance alongside it. For one Mac's automatic backup on a budget, it covers everything Time Machine actually needs. Supports high total capacity for future backup growth. Set against that, entry-level CPU limits running multiple simultaneous services. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=workcocoon-20",
     description:
       "The TS-264 ships with 8GB of RAM, more than any other 2-bay in this list, which matters when you're running separate Time Machine shared folders for multiple Macs at once, each with its own quota and sparse bundle growing independently. QNAP's QTS handles SMB3 Time Machine shares cleanly for each configured Mac. It costs more than double most 2-bay picks here, which makes sense mainly if you have 2 or more Macs backing up simultaneously and want headroom so neither backup slows the other down. For a single Mac, a cheaper pick in this list does the same job for less. A genuine advantage here is that 2.5GbE speeds up first-time full backups on a matching network. The tradeoff is most expensive 2-bay pick in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=workcocoon-20",
     description:
       "The TS-216G's 2.5GbE port meaningfully shortens the first full Time Machine backup, which can otherwise take 8-24 hours over standard gigabit for a 512GB Mac depending on your router. If you have or plan to add a 2.5GbE-capable router or switch, that first backup finishes noticeably faster here than on the gigabit-only picks in this list.\n\nWithout a matching 2.5GbE network, it performs like any standard gigabit 2-bay NAS, so the port only pays off if the rest of your network supports it. Either way, running that first backup over Ethernet rather than Wi-Fi is worth doing regardless of which NAS you choose.\n\nQNAP's app store adds flexibility beyond pure backup. That's a real strength, but weigh it against the flip side: 2.5GbE benefit requires a matching router or switch, an extra cost.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=workcocoon-20",
     description:
       "The Drivestor 2 Gen 2 pairs a quad-core 1.7GHz CPU with 2.5GbE networking at the same price as the UGREEN DH2300, giving Mac buyers a faster network port for the first backup without paying more. ADM OS supports SMB3-based Time Machine shares for macOS clients out of the box. Its 1GB of DDR4 RAM is on the lighter side, which is fine for Time Machine running on its own schedule but leaves little headroom for other always-on apps at the same time. As a first NAS focused on Time Machine specifically, it's a well-balanced budget option. Worth calling out specifically: quad-core CPU handles Time Machine's sparse bundle writes smoothly. The catch is 1GB RAM limits running much beyond Time Machine and light file sharing.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=workcocoon-20",
     description:
       "The F2-425's Intel x86 quad-core CPU and 4GB of RAM give it more headroom than the ARM-based budget picks here, so Time Machine can run in the background while the NAS also handles file sharing or a light media app without either job bogging down. It includes 2.5GbE networking and supports SMB3 Time Machine shares.\n\nTERRAMASTER's TOS software covers standard Time Machine setup, though its app ecosystem and community documentation are smaller than Synology's or QNAP's. For buyers who want Intel-class CPU headroom without paying 4-bay prices, it's a solid middle-tier choice.\n\n2.5GbE networking included. Set against that, smaller software ecosystem than Synology or QNAP. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The DXP4800 Plus is the only 4-bay in this list, built around an Intel Pentium Gold 8505 5-core CPU that comfortably runs Time Machine for several Macs at once, each with its own dedicated shared folder and quota, without one Mac's backup slowing another's. Four bays also allow RAID configurations with better usable-capacity ratios than any 2-bay here.\n\nIt is the most expensive pick in this list before drives are factored in, and 4 matching drives add meaningful cost on top of the enclosure. For a household running Time Machine on 3 or more Macs, the extra bays and CPU headroom are what justify the price.\n\nA genuine advantage here is that 4 bays allow RAID 5/6/10 for better redundancy than a 2-bay. The tradeoff is most expensive enclosure in this list.",
     specs: [

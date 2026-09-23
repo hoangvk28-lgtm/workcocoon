@@ -44,7 +44,7 @@ export const products: WorkoutHeadphone[] = [
     hasANC: false,
     score: "9.0/10",
     imageUrl: `${BASE}/1-soundcore-sport-x10-anker.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09WMJCQRM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09WMJCQRM?tag=workcocoon-20",
     whyItWorks:
       "IPX7 rated, submersible to 1 meter for 30 minutes. Handles rain, heavy sweat, and accidental drops into a sink without damage. Rotating ear hooks adjust to your ear shape for a more stable fit than earbuds without hooks at this price. 9 hours per charge plus 27 hours in the case gives more than 3 full weeks of daily one-hour workouts. Anker-backed reliability with real customer support and warranty coverage. Bass-forward tuning designed for high-energy workouts.",
     tradeoffs: [
@@ -79,7 +79,7 @@ export const products: WorkoutHeadphone[] = [
     hasANC: false,
     score: "9.1/10",
     imageUrl: `${BASE}/2-jbl-endurance-peak-3.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BQPW9R9H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQPW9R9H?tag=workcocoon-20",
     whyItWorks:
       "IP68 is the highest water and dust protection available. Fully submersible and dustproof. No other earbud in this price range matches it. FlexSoft ear hooks adapt to ear shape and create a physical lock that holds through jumping, sprinting, and heavy lifting. 10 hours per bud plus 30 in the case gives 40 hours total, exceptional at under $80. Ambient Aware mode lets outside sound through for safer outdoor use. Powerbank mode lets the case charge your phone during long outdoor sessions.",
     tradeoffs: [
@@ -114,7 +114,7 @@ export const products: WorkoutHeadphone[] = [
     hasANC: true,
     score: "9.0/10",
     imageUrl: `${BASE}/3-jabra-elite-4-active.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09MVGQRDD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MVGQRDD?tag=workcocoon-20",
     whyItWorks:
       "ANC and HearThrough transparency mode in the same earbud. Switch between full noise cancellation for gym focus and open ambient mode for outdoor safety. IP57 covers dust resistance and sweat or rain resistance, handles any workout environment. Secure fit design with multiple wing tip sizes gives best out-of-box fit consistency in the mid-range segment. 7 hours per bud with 28 hours total. Jabra 2-year warranty explicitly covers sweat damage, most brands do not.",
     tradeoffs: [
@@ -149,7 +149,7 @@ export const products: WorkoutHeadphone[] = [
     hasANC: false,
     score: "9.2/10",
     imageUrl: `${BASE}/4-shokz-openrun-pro-2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D2HKCMBP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2HKCMBP?tag=workcocoon-20",
     whyItWorks:
       "Bone conduction technology: pads sit on your cheekbones, not inside your ears. Your ears stay completely open to hear traffic, cyclists, other runners, and coaches. 12 continuous hours is the longest battery in this roundup for a single charge, essential for long runs and multi-hour outdoor sessions. IP55 covers dust resistance and water jets from any direction, handles rain and heavy sweat. Behind-the-neck band does not interfere with sunglasses, helmets, or headbands. No in-ear pressure or ear canal fatigue during long sessions.",
     tradeoffs: [
@@ -184,7 +184,7 @@ export const products: WorkoutHeadphone[] = [
     hasANC: true,
     score: "9.3/10",
     imageUrl: `${BASE}/5-jabra-elite-8-active-gen-2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D5DPFTPB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5DPFTPB?tag=workcocoon-20",
     whyItWorks:
       "IP68 plus MIL-STD-810H military durability standard. The only pick in this guide rated for both maximum water resistance and military-grade shock, vibration, and extreme temperature testing. MultiSensor Voice technology uses 6 microphones for noticeably cleaner call quality in wind, noise, and outdoor environments. Best-in-class ANC for workout earbuds that matches or exceeds Sony and Bose at equivalent price points. HearThrough transparency mode with Spatial Audio sounds natural outdoors. 8+32 hrs total with wireless charging case, the case is also IP67 rated.",
     tradeoffs: [
@@ -217,7 +217,7 @@ export const products: WorkoutHeadphone[] = [
     hasANC: true,
     score: "9.2/10",
     imageUrl: `${BASE}/6-beats-powerbeats-pro-2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DT2344N3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT2344N3?tag=workcocoon-20",
     whyItWorks:
       "Adjustable ear hook plus wing tip gives the most mechanically stable fit for high-impact training, covering jumping, box jumps, burpees, and heavy lifting. Built-in heart rate sensor monitors workout intensity without a separate wearable, syncs with Apple Fitness+ directly. 10 hours per charge plus 40 hours in the case is the highest total battery in this roundup, over a month of daily one-hour sessions. H2 chip with Apple ecosystem integration for hands-free Siri and seamless pairing. ANC designed for dynamic movement does not distort when breathing hard.",
     tradeoffs: [
@@ -252,7 +252,7 @@ export const products: WorkoutHeadphone[] = [
     hasANC: true,
     score: "8.8/10",
     imageUrl: `${BASE}/7-sony-wh-1000xm5.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XS7JWHH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XS7JWHH?tag=workcocoon-20",
     whyItWorks:
       "Industry-leading ANC with QN2e processor delivers the deepest noise cancellation in this guide, best for focused gym sessions in loud environments. 30 continuous hours, no mid-week charging for most users. LDAC codec for hi-res audio when connected to compatible Android devices. Speak-to-Chat automatically pauses music when you talk, useful for gym floor conversations. Multipoint connection stays connected to two devices simultaneously. Excellent call quality with 4-microphone array.",
     tradeoffs: [

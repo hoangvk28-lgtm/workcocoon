@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 623 Amazon ratings",
     reviews: "623 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51m+qsLwPEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CY29ZZ3V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CY29ZZ3V?tag=workcocoon-20",
     description:
       "A genuinely complete L-shaped desk product with drawers, hutch, and storage shelves, the largest review base of any pick in this guide backing its desk-level quality beyond just the pegboard component.\n\nAssembly complexity for this combined desk-and-organization product should be expected to exceed a standalone desk or pegboard purchased separately, budget more assembly time for the full L-shaped structure with integrated storage.\n\nGenuinely complete desk with drawers and hutch, not just a pegboard accessory. Set against that, longer assembly time than a standalone desk or pegboard. Both matter when comparing it to the other picks here.",
     specs: ["L-shaped desk with drawers, hutch, storage shelves", "Largest review base in this guide", "Genuinely complete desk product", "Corner gaming-desk design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 42 Amazon ratings",
     reviews: "42 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Une2rF7sL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G41Y1HV9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G41Y1HV9?tag=workcocoon-20",
     description:
       "A genuine L-shaped office desk with 3 wood drawers and a large bookshelf, evaluated here as a complete desk product with the bookshelf's storage capacity assessed separately from any pegboard hooks.\n\nModularity should be verified for this combined product, whether the bookshelf portion can be removed or is permanently integrated matters for buyers wanting future flexibility to replace either component.\n\nThe standout detail is that large bookshelf adds significant capacity beyond pegboard hooks alone. Balancing that out, smaller review base than the top pick.",
     specs: ["L-shaped desk with 3 wood drawers", "Large integrated bookshelf", "Solid rating with a smaller review base", "Wood drawer construction"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 131 Amazon ratings",
     reviews: "131 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41t8OVejLCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FJ8Y59BJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FJ8Y59BJ?tag=workcocoon-20",
     description:
       "A genuinely complete 71-inch executive desk with a rolling file cabinet, power outlets, CPU stand, and an integrated pegboard, this desk's own quality, surface size, cable management via power outlets, deserves evaluation as the primary product.\n\nThe honest alternative here is buying a standard desk and a separate pegboard for buyers wanting more flexibility, this all-in-one product trades that flexibility for a coordinated single purchase.\n\nRolling file cabinet adds substantial mobile storage. That's a real strength, but weigh it against the flip side: higher desk assembly complexity given the number of integrated components.",
     specs: ["71-inch executive desk", "Rolling file cabinet, power outlets, CPU stand", "Integrated pegboard and storage shelves", "Solid review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 1 Amazon rating",
     reviews: "1 rating",
     imageUrl: "https://m.media-amazon.com/images/I/51s4ME0+FCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTR1898X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTR1898X?tag=workcocoon-20",
     description:
       "A genuinely complete gaming desk with LED lighting, a charging station, hutch, and pegboard organizer, evaluated here as a full workstation product rather than a pegboard-first purchase.\n\nWith only a single review, this carries very limited real-world evidence, treat this as an emerging option to watch rather than a heavily proven pick despite its perfect rating.\n\nLED lighting for a distinct gaming aesthetic. On the other hand, extremely limited review base, only a single rating. Both are worth keeping in mind before deciding.",
     specs: ["39-inch gaming desk with LED lighting", "Charging station, USB-C ports, power strip", "Integrated hutch and pegboard organizer", "Extremely limited review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars from 22 Amazon ratings",
     reviews: "22 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Yvng3j3qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G1MT55BM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1MT55BM?tag=workcocoon-20",
     description:
       "A genuinely distinct electric height-adjustable standing desk with an integrated pegboard and 6 hooks, evaluated as a complete sit-stand desk product with the pegboard as a genuine bonus feature.\n\nThe desk's own stability at various height settings matters more here than the pegboard component alone, verify this electric-adjustable desk's stability across its full height range independently.\n\nA genuine advantage here is that file drawers and storage shelves for real desk organization. The tradeoff is that lower average rating than other picks in this guide.",
     specs: ["Electric height-adjustable L-shaped desk", "Integrated pegboard with 6 hooks", "File drawers and storage shelves", "Power outlets included"],

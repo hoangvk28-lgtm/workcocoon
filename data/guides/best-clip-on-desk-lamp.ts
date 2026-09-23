@@ -48,7 +48,7 @@ export const lamps: ClipLamp[] = [
     brightness: "10 levels",
     colorModes: "3 modes (3000K / 4000K / 6000K)",
     armType: "Metal gooseneck + swing arm",
-    amazonUrl: "https://www.amazon.com/dp/B0BB5ZBT42?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BB5ZBT42?tag=workcocoon-20",
     imageUrl: `${BASE}/voncerus-led-clamp-best-overall.webp`,
     standout:
       "Long flexible metal gooseneck paired with a metal swing arm -- not the flimsy plastic that droops after two weeks. Clamp jaw opens wide enough for desks up to 2 inches thick.",
@@ -79,7 +79,7 @@ export const lamps: ClipLamp[] = [
     brightness: "10 levels",
     colorModes: "3 modes",
     armType: "360 flexible gooseneck",
-    amazonUrl: "https://www.amazon.com/dp/B08T24FJC9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08T24FJC9?tag=workcocoon-20",
     imageUrl: `${BASE}/dpower-48-led-best-budget.webp`,
     standout:
       "48-LED panel distributes light more evenly than single-bulb clip lamps -- less spotlight effect, more diffused task light. Easier on the eyes during long study sessions.",
@@ -110,7 +110,7 @@ export const lamps: ClipLamp[] = [
     brightness: "Stepless (continuous)",
     colorModes: "3 modes",
     armType: "Flexible gooseneck",
-    amazonUrl: "https://www.amazon.com/dp/B08RS1B9S8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08RS1B9S8?tag=workcocoon-20",
     imageUrl: `${BASE}/deeplite-battery-powered-best-cordless.webp`,
     standout:
       "Stepless dimming -- hold the touch button and brightness slides up or down continuously. No preset jumps. Makes finding the exact level that doesn't give you a headache at midnight actually possible.",
@@ -146,7 +146,7 @@ export const lamps: ClipLamp[] = [
     brightness: "Touch dimmable",
     colorModes: "Warm white",
     armType: "Metal gooseneck swing arm",
-    amazonUrl: "https://www.amazon.com/dp/B088GM7X4X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B088GM7X4X?tag=workcocoon-20",
     imageUrl: `${BASE}/10w-swing-arm-best-for-reading.webp`,
     standout:
       "At 10 watts, outputs more light than any other lamp on this list. Metal construction is noticeably sturdier than plastic gooseneck competitors. Rubber-padded clamp grips desks without scratching.",
@@ -177,7 +177,7 @@ export const lamps: ClipLamp[] = [
     brightness: "Adjustable",
     colorModes: "Multiple",
     armType: "360 gooseneck cable",
-    amazonUrl: "https://www.amazon.com/dp/B08RBJCJZR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08RBJCJZR?tag=workcocoon-20",
     imageUrl: `${BASE}/360-rotation-best-for-bunk-beds.webp`,
     standout:
       "360 rotation lets you clip to a bed frame and rotate the head to shine down on your book without disturbing the person below. Cable-style gooseneck adapts to irregular mounting surfaces like headboard rails.",
@@ -207,7 +207,7 @@ export const lamps: ClipLamp[] = [
     brightness: "Adjustable + night light mode",
     colorModes: "Standard + night light",
     armType: "360 flexible gooseneck",
-    amazonUrl: "https://www.amazon.com/dp/B09WTX7S79?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09WTX7S79?tag=workcocoon-20",
     imageUrl: `${BASE}/led-flexible-gooseneck-ultra-compact.webp`,
     standout:
       "The smallest, lightest option on this list. Night-light mode dims way down for soft ambient light when you don't want to wake your roommate.",
@@ -237,7 +237,7 @@ export const lamps: ClipLamp[] = [
     brightness: "Adjustable",
     colorModes: "360 gooseneck",
     armType: "360 flexible gooseneck",
-    amazonUrl: "https://www.amazon.com/dp/B08XQY5LY6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08XQY5LY6?tag=workcocoon-20",
     imageUrl: `${BASE}/eye-caring-gooseneck-eye-strain.webp`,
     standout:
       "Flicker-free light output. Many cheap LED lamps flicker at 50-60Hz -- invisible to the naked eye but picked up by your visual system over long sessions, contributing to headaches and fatigue.",
@@ -267,7 +267,7 @@ export const lamps: ClipLamp[] = [
     brightness: "2 levels",
     colorModes: "Standard",
     armType: "Flexible clip",
-    amazonUrl: "https://www.amazon.com/dp/B01L4BL0E8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01L4BL0E8?tag=workcocoon-20",
     imageUrl: `${BASE}/eazyclips-led-entry-level.webp`,
     standout:
       "The simplicity. One switch, two settings. Plug in, turn on, use it. Works with both USB and AC power -- the most versatile power option on this list.",

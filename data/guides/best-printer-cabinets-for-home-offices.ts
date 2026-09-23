@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51vzgnkbcjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=workcocoon-20",
     description:
       "This is a lateral mobile file cabinet with 3 open drawers, not an enclosed cabinet with doors, and it belongs in this list as a flat-top printer stand and file storage combo rather than as a fully sealed printer cabinet. The open drawer design means no ventilation concerns at all, since nothing about the printer itself is enclosed.\n\nIts rustic brown finish looks like real furniture, and the wide flat top gives a printer a stable, roomy surface while the 3 drawers underneath handle documents, paper, or ink.\n\nWorth calling out specifically: 3 full drawers of genuine file storage. The catch is not an enclosed cabinet, printer stays visible.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31Nz-Myx-1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=workcocoon-20",
     description:
       "The Letaya is a mobile metal file cabinet with 3 lockable drawers and an open flat top, not an enclosed printer cabinet with doors. It fits letter, legal, and A4 documents, and the lock adds real security for sensitive files, a feature most enclosed printer cabinets don't offer at all.\n\nBecause the top is open rather than sealed, a printer placed on it has full airflow, no ventilation planning required, though it also means the printer stays visible rather than hidden away.\n\nFully assembled out of the box. Set against that, not an enclosed cabinet, no doors. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ukHwAN+yL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTNJY2HB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTNJY2HB?tag=workcocoon-20",
     description:
       "Another Letaya lateral file cabinet, this 2-drawer version is again an open-top metal file cabinet rather than an enclosed cabinet with doors. Its slightly smaller 2-drawer footprint suits a home office with less document volume than the 3-drawer version above.\n\nThe lockable drawers keep files secure, and the flat metal top gives a printer a stable, ventilated surface since nothing about the design traps heat or air around the unit.\n\nA genuine advantage here is that locking drawers for security. The tradeoff is not an enclosed cabinet, no doors.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31xyJKdJz-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQJ5WL24?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQJ5WL24?tag=workcocoon-20",
     description:
       "The VASAGLE CUSTOS is explicitly marketed as both a small rolling file cabinet and a printer stand, making it one of the more honestly dual-purpose picks in this list. It is an open-top design rather than a fully enclosed cabinet, sized for A4 and letter-size documents in its 2 drawers.\n\nRolling casters make it easy to reposition, and the matte black finish gives it a clean, modern look that fits most home office styles without drawing attention to itself.\n\nRolling casters for easy repositioning. On the other hand, open-top design, not an enclosed cabinet. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41RwvBmm-PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FKMZ1M3W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FKMZ1M3W?tag=workcocoon-20",
     description:
       "DUMOS built this as an open-top wood file cabinet explicitly positioned as an under-desk printer stand, with 3 drawers for document and supply storage beneath a flat wood-finish top. It is not an enclosed cabinet with doors, so a printer placed on top has open airflow by default.\n\nThe wood finish gives it a warmer look than the metal file cabinets in this list, and its under-desk sizing means it tucks into a knee space rather than sitting out as a standalone piece.\n\n3 drawers of storage below an open top. That's a real strength, but weigh it against the flip side: open-top design, not enclosed with doors.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Aix6uWuJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=workcocoon-20",
     description:
       "The GYIIYUO is an open-top mobile file cabinet with a 24-inch extended desktop surface, larger than a standard file cabinet lid, giving a printer more room than most of the compact drawer units in this list. Fabric-lined drawers hold documents and supplies, and a side bag adds extra catch-all storage.\n\nAs with the other file-cabinet-style picks here, there is no enclosure or door, so ventilation is a non-issue, though the printer sits exposed on top rather than hidden.\n\nWorth calling out specifically: rolls easily on caster base. The catch is open-top design, not an enclosed cabinet.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31QINv8WoNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4KYBC1R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4KYBC1R?tag=workcocoon-20",
     description:
       "With 7 drawers, the OLIXIS offers by far the most individual storage compartments in this list, useful for organizing small supplies, labels, ink cartridges, and paper stock separately rather than lumping everything into 2 or 3 large drawers. It is explicitly marketed as a printer stand, and like the other drawer-based picks here, the top is open rather than enclosed.\n\nRolling wheels make it easy to reposition, and the sheer number of small drawers makes it the most organized option for buyers who accumulate a lot of small printer-adjacent supplies.\n\nGreat for organizing small supplies separately. Set against that, open-top design, not an enclosed cabinet. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31cXnfFFSML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQL795FX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQL795FX?tag=workcocoon-20",
     description:
       "The SISESOL is a narrow, open-top vertical metal file cabinet with a lock, the most budget-friendly locking option in this list. Its slim vertical footprint suits tight home offices better than the wider lateral cabinets above, though that also means less top surface area for a larger printer.\n\nEasy assembly and a straightforward metal build make it a low-fuss pick for buyers who mainly want secure document storage with a flat printer-ready surface on top.\n\nA genuine advantage here is that narrow footprint fits tight spaces. The tradeoff is open-top design, not an enclosed cabinet.",
     specs: [

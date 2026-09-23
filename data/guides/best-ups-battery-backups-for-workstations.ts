@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 602 Amazon ratings",
     reviews: "602 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/319TmSlbEUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B077Y62GSJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B077Y62GSJ?tag=workcocoon-20",
     description:
       "Genuine line-interactive topology, actively regulating voltage through an autotransformer rather than just switching to battery, a real advantage for the sustained heavy and variable loads a workstation running renders or compiles puts on power delivery. SmartConnect adds remote monitoring, so you can check battery health and runtime status without walking over to an unattended machine.\n\nThe highest price in this guide reflects genuine workstation-grade build quality, not just a bigger battery, this is the pick if remote visibility into an overnight render job's power status matters to you.\n\nThe standout detail is that remote monitoring prevents discovering a dead UPS after an overnight job. Balancing that out, highest price in this guide by a wide margin.",
     specs: ["1500VA/900W, line-interactive topology", "SmartConnect cloud monitoring", "Pure sine wave, APFC compatible", "Workstation-grade build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,467 Amazon ratings",
     reviews: "3,467 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rIE-toOYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=workcocoon-20",
     description:
       "900W real capacity and confirmed active-PFC compatibility, genuinely important for a multi-GPU or high-wattage workstation power supply where modified sine wave could trigger buzzing or shutdown under heavy load.\n\nStandby topology rather than line-interactive, a real tradeoff versus the top pick, but at roughly half the price with the same real-watt headroom for most single-workstation setups.\n\nAPFC compatibility important for multi-GPU builds. That's a real strength, but weigh it against the flip side: standby topology, not line-interactive like the top pick.",
     specs: ["1500VA/900W, pure sine wave, standby topology", "APFC compatible", "10 outlets, coax/Ethernet surge protection", "Replaceable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 11,256 Amazon ratings",
     reviews: "11,256 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31DYxDN0bTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N19W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N19W?tag=workcocoon-20",
     description:
       "12 outlets and 1000W real capacity, genuinely useful for a workstation with multiple monitors, external storage, and peripherals all needing battery backup simultaneously. Largest review base in this guide, strong evidence of reliability under sustained real-world use.\n\nAVR handles brownouts without draining the battery, useful for a workstation that stays powered on continuously.\n\n1000W real capacity. On the other hand, standby topology, not line-interactive. Both are worth keeping in mind before deciding.",
     specs: ["1500VA/1000W, PFC sinewave, AVR included", "12 outlets", "UL certified", "Mini tower form factor"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 13,112 Amazon ratings",
     reviews: "13,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31p-5+FvTgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06VY6FXMM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06VY6FXMM?tag=workcocoon-20",
     description:
       "The single largest review base across this entire UPS lineup, strong evidence this capacity holds up for demanding continuous workstation use even without pure sine wave or line-interactive topology.\n\nCheck your workstation's power supply for APFC before relying on this modified sine wave design, if it has one, step up to a pure sine wave pick from this guide instead.\n\nA genuine advantage here is that 900W real capacity at a notably lower price. The tradeoff is that not pure sine wave, verify workstation PSU compatibility first.",
     specs: ["1500VA/900W", "AVR included", "Multiple outlets", "Well-established APC BX series"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.9 stars from 20 Amazon ratings",
     reviews: "20 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51bQ0-kLFqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJ5WBM5D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJ5WBM5D?tag=workcocoon-20",
     description:
       "1000W real capacity, strong headroom for a demanding workstation load, with lithium battery chemistry that generally handles the sustained heat of an always-on workstation environment better than lead-acid designs over the long term.\n\nA small review base given how new this model is, weigh that against its genuinely strong capacity and battery chemistry advantages.\n\nLithium battery, better long-term heat and charge-cycle tolerance. That said, small review base, less long-term evidence for continuous workstation use. Neither should be a surprise once you know to look for it.",
     specs: ["1500VA/1000W, lithium battery", "Strong real-watt-to-VA ratio", "Surge protection", "Compact for its capacity"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,697 Amazon ratings",
     reviews: "2,697 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VPmugfqML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=workcocoon-20",
     description:
       "600W real capacity, appropriate for a lighter workstation load, such as CAD or content work on a single-GPU system, rather than a multi-GPU rendering rig. Don't undersize here, a workstation's sustained load profile is different from a basic desktop's occasional bursts.\n\nAVR included handles brownouts without draining the battery, useful for continuous operation.\n\nWorth calling out specifically: aVR included. The catch is not enough headroom for a multi-GPU rendering rig.",
     specs: ["1000VA/600W", "AVR included", "Multiple outlets", "Office electronics rated"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 223 Amazon ratings",
     reviews: "223 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41aNszeDMHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZHP4N5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZHP4N5T?tag=workcocoon-20",
     description:
       "60 x 24 inches genuinely covers a standard desk width for real visual privacy from neighboring desks, and VIVO's clamp mechanism mounts securely without drilling. Verify your desk edge's thickness fits the clamp's stated range before ordering.\n\nSolid, consistent rating base across VIVO's whole clamp-on panel line, real evidence of reliable mounting hardware.\n\nSecure clamp mount, no drilling or adhesive. Set against that, verify desk edge thickness fits the clamp range before buying. Both matter when comparing it to the other picks here.",
     specs: ["60 x 24 inch panel", "Clamp-on mount, no drilling", "Gray finish", "No adhesive required"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 223 Amazon ratings",
     reviews: "223 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Bt+sW01IL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ5PSVDP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ5PSVDP?tag=workcocoon-20",
     description:
       "The widest clamp-on option in this guide at 71 inches, genuinely necessary coverage for a larger desk or an L-shaped setup where the standard 60-inch panel would leave a visible gap.\n\nSame reliable clamp mechanism as the rest of VIVO's line, verify your desk edge thickness fits before ordering.\n\nThe standout detail is that same reliable clamp mount as the standard-width model. Balancing that out, higher price for the extra width.",
     specs: ["71 x 24 inch panel", "Clamp-on mount, no drilling", "Gray finish", "No adhesive required"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 223 Amazon ratings",
     reviews: "223 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41MyIJ8y2rL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4N5QKC1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4N5QKC1?tag=workcocoon-20",
     description:
       "Identical dimensions and clamp mechanism to the standard gray 60-inch panel, in a dark gray finish that blends better with darker desk setups or office decor.\n\nSame desk-thickness compatibility consideration applies, verify your desk edge before ordering.\n\nSame reliable clamp mechanism. That's a real strength, but weigh it against the flip side: verify desk edge thickness fits the clamp range.",
     specs: ["60 x 24 inch panel, dark gray finish", "Clamp-on mount, no drilling", "No adhesive required", "Same hardware as the gray variant"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 223 Amazon ratings",
     reviews: "223 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51wO7YI9JIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZHPPV9J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZHPPV9J?tag=workcocoon-20",
     description:
       "A much smaller 24 x 24 inch panel at a notably lower price, genuinely appropriate if you only need a targeted privacy screen at one section of your desk rather than full-width coverage.\n\nSame secure clamp mounting as the larger VIVO panels, just at a fraction of the size and cost.\n\nSame reliable clamp mechanism as larger VIVO models. On the other hand, doesn't cover a full desk width. Both are worth keeping in mind before deciding.",
     specs: ["24 x 24 inch panel", "Clamp-on mount, no drilling", "Gray finish", "Compact, budget-friendly"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 58 Amazon ratings",
     reviews: "58 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41mXUjTJozL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DDK7VFNV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DDK7VFNV?tag=workcocoon-20",
     description:
       "A movable rather than fixed-clamp design, genuinely useful if you want to reposition the panel or remove it entirely without unclamping hardware. 48x18 inches suits a mid-size desk section.\n\nSmaller review base than the established VIVO line, but the movable mounting style is a real alternative if you don't want a permanently clamped panel.\n\nA genuine advantage here is that no permanent clamp hardware needed. The tradeoff is that smaller review base than VIVO's established clamp-on line.",
     specs: ["48x18 inch panel, movable partition", "Midnight (dark) finish", "Repositionable design", "No permanent clamp hardware"],

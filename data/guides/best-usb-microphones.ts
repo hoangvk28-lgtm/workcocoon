@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31pu6SVe35L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01LY6Z2M6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01LY6Z2M6?tag=workcocoon-20",
     description:
       "The Blue Yeti remains the most recognizable USB condenser microphone for a reason, with 4 selectable pickup patterns and Blue VO!CE effects software for real-time voice shaping during streams or calls. It plugs in and works immediately on both PC and Mac without a driver install.\n\nBecause it is a sensitive condenser, it performs best in a quieter or lightly treated room and will pick up fan noise, AC units, and desk vibration more readily than a dynamic mic. Pair it with a shock mount or boom arm rather than setting it directly on the desk to avoid picking up keyboard clatter.\n\nA genuine advantage here is that blue VO!CE software adds real-time voice shaping. The tradeoff is condenser sensitivity means it picks up room and desk noise easily.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31iHEugSZ6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QLNYBG9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07QLNYBG9?tag=workcocoon-20",
     description:
       "The Blue Yeti Nano shrinks the classic Yeti body down to a smaller desktop footprint while keeping cardioid and omnidirectional pickup patterns for solo recording or small-room capture. It is a straightforward plug and play condenser for streaming, Discord calls, and podcasting.\n\nLike its larger sibling, the Nano is a condenser and will pick up more of the room than a dynamic mic, so it suits a quieter space or one with some soft furnishings to absorb echo. Its smaller base also makes it easier to fit on a crowded desk next to a keyboard and monitor arm.\n\nSimple 2-pattern selection, easy for beginners. On the other hand, fewer pickup pattern options than the full Yeti. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vZkgLpKmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=workcocoon-20",
     description:
       "The AmpliGame AM8 is a true dynamic microphone, which rejects background noise far better than a condenser and is the more forgiving choice for an untreated bedroom, shared apartment, or a desk near a noisy street. It includes a hardware mute button with instant zero-latency response, RGB lighting, and a headphone jack for direct monitoring.\n\nBecause it offers both USB and XLR outputs, it also functions as an upgrade-path mic, you can start on USB and later move to a full XLR audio interface without buying a new microphone. Its included desktop stand is basic, so a boom arm is worth adding if desk space allows.\n\nHardware mute button has no lag, unlike software mute. That's a real strength, but weigh it against the flip side: less detailed capture than a condenser for treated-room use.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rKkw3TT2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=workcocoon-20",
     description:
       "The AmpliGame AM8T is a dynamic USB/XLR mic that ships as a complete kit with a boom arm included, which matters more than it sounds, a condenser or dynamic mic sitting flat on the desk picks up keyboard clatter and desk vibration that a boom arm decouples entirely. It also includes a hardware mute button and headphone monitoring jack.\n\nLike the AM8, its dynamic capsule handles background noise better than a condenser, making it a solid pick for a desk shared with a mechanical keyboard or in a room without acoustic treatment. The dual USB/XLR output again gives a clear upgrade path to a full audio interface later.\n\nWorth calling out specifically: dynamic capsule suits untreated rooms. The catch is bulkier full kit takes up more desk space when deployed.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41WQG5fyf7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=workcocoon-20",
     description:
       "The K688 pairs a dynamic USB/XLR microphone with a boom arm in one kit, aimed squarely at podcast and voice-over use where consistent mic positioning matters more than pattern flexibility. A hardware mute button and headphone jack round out the core feature set.\n\nAs a dynamic mic it handles an untreated home office better than a condenser, and the boom arm keeps it off the desk surface so typing and desk bumps don't bleed into the recording. The dual USB/XLR output means it can move to a mixer-based setup later without a mic replacement.\n\nDynamic capsule suits podcast and voice-over recording in untreated rooms. Set against that, single fixed cardioid-style pattern, no pattern switching. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GaUMJg2pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=workcocoon-20",
     description:
       "The K669B is the cheapest true condenser mic in this list, built with a metal body and a cardioid pickup pattern aimed at voice recording, meeting audio, and casual streaming. It works across both Mac and Windows without extra driver installation.\n\nAt this price it skips a hardware mute button and headphone monitoring jack, so it is best suited to a genuinely quiet room where you are not relying on real-time mute or in-ear monitoring. Its low cost also makes it a reasonable first mic before deciding whether a dynamic or a pricier condenser fits your setup better.\n\nA genuine advantage here is that metal body feels sturdier than its price suggests. The tradeoff is no hardware mute button.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FYNR1PLxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=workcocoon-20",
     description:
       "The TC310+ pairs a condenser capsule with a boom arm, RGB lighting, and a tap-to-mute button in one budget-friendly streaming bundle. Gain control is built into the base, letting you adjust input level directly instead of relying only on software settings.\n\nBecause it is a condenser, it still benefits from a quieter or lightly treated room, but the included boom arm helps by keeping it off the desk surface and away from keyboard vibration. At this price it is a reasonable way to add a dedicated streaming mic setup without buying stand and mic separately.\n\nTap mute button with visual RGB status indicator. On the other hand, condenser capsule still picks up more room noise than a dynamic mic. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31qpzNSp0LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07GR31BZZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07GR31BZZ?tag=workcocoon-20",
     description:
       "This renewed Blue Yeti gives access to the same multi-pattern condenser capsule as the full-price Blackout model at a lower cost, a reasonable way to get the Yeti's flexibility if a factory-refurbished unit doesn't bother you. It carries the same cardioid, omnidirectional, bidirectional, and stereo pattern options.\n\nAs with any Yeti, room treatment matters more than with a dynamic mic, and a renewed unit is worth checking for the seller's return window before committing. For buyers comfortable with renewed electronics, it is the most affordable way into the Yeti's pattern flexibility in this list.\n\nSame 4-pattern flexibility as the full-price model. That's a real strength, but weigh it against the flip side: renewed condition means checking the seller's return policy closely.",
     specs: [

@@ -39,7 +39,7 @@ export const products: WoodenGamingDesk[] = [
     power: "Built-in outlets",
     material: "Engineered wood, rustic brown laminate",
     imageUrl: `${BASE}/02-modern_gaming_office_with_blue_leds.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D9Q542SF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9Q542SF?tag=workcocoon-20",
     whyItWorks:
       "The Huuger 47\" L-shaped is the entry point for buyers who want the L-shape gaming configuration without committing to a large footprint. At 47 inches on the primary surface, this fits small bedrooms, dorm rooms, and apartment gaming setups where a full 60\"+ L-shaped desk would overwhelm the space. The built-in power outlets follow the standard desk strip format - adequate for accessories, best supplemented with a dedicated surge protector for the PC itself. With ~4.5 stars at 1,310+ reviews, this has the strongest social proof of any gaming desk on this list.",
     tradeoffs: [
@@ -71,7 +71,7 @@ export const products: WoodenGamingDesk[] = [
     power: "Outlets + LED",
     material: "Engineered wood, rustic brown",
     imageUrl: `${BASE}/03-cozy_modern_gaming_corner_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DNJP1FPP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DNJP1FPP?tag=workcocoon-20",
     whyItWorks:
       "The SEDETA L-shaped packs more gaming-specific features than any other desk on this list: hutch (upper shelf storage), pegboard panel (hooks for controllers and accessories), fabric drawers, LED light strip, and power outlet - all in one L-shaped configuration. For gamers building a streaming or content creation setup where visible organization matters, the pegboard plus hutch combination is uniquely practical. The pegboard allows custom hook layouts without adding a separate wall-mounted system.",
     tradeoffs: [
@@ -103,7 +103,7 @@ export const products: WoodenGamingDesk[] = [
     power: "AC outlets + USB-C",
     material: "Engineered wood, thick desktop",
     imageUrl: `${BASE}/04-modern_tech_oasis_with_city_view.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DZWP7K92?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZWP7K92?tag=workcocoon-20",
     whyItWorks:
       "The Huuger 63\" is the step up from the 47\" model in surface area and desktop thickness. At 0.95\" desktop thickness, it is one of the thicker engineered wood tops on this list - relevant for stability with heavy monitor arm setups and for vibration dampening. The USB-C port addition delivers 15W for phone charging. The Amazon's Choice designation and 4.7-star review score at 429+ reviews suggests good quality consistency for this form factor.",
     tradeoffs: [
@@ -135,7 +135,7 @@ export const products: WoodenGamingDesk[] = [
     power: "AC outlets + USB-C",
     material: "Engineered wood, rustic brown",
     imageUrl: `${BASE}/05-cozy_tech_workspace_with_city_view.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F42TSHHB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F42TSHHB?tag=workcocoon-20",
     whyItWorks:
       "The PRAISUN 61\" differentiates on storage configuration: 4 fabric drawers plus 2 height-adjustable shelves. The adjustable shelves are a practical feature - you can set them to clear tall controllers, headphone stands, or game cases rather than being locked into a fixed shelf height. For buyers who prioritize organized storage alongside their gaming setup without the pegboard or hutch system of the SEDETA, the PRAISUN's drawer-plus-adjustable-shelf layout is more flexible than fixed-shelf competitors.",
     tradeoffs: [
@@ -167,7 +167,7 @@ export const products: WoodenGamingDesk[] = [
     power: "Built-in strip + LED",
     material: "Engineered wood",
     imageUrl: `${BASE}/06-modern_gaming_desk_with_led_accents.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F7QSYYB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F7QSYYB1?tag=workcocoon-20",
     whyItWorks:
       "The SEDETA 94.5\" is a category of one on this list: at nearly 8 feet wide, it is designed for two-person gaming setups or single users who want a dual-station layout with maximum surface area. The 8 fabric drawers provide storage for a full dual-gaming setup's accessories. The configuration includes a printer stand, monitor stand, and power strip - nearly a self-contained dual gaming station. For shared gaming rooms or content creators who need one setup for gaming and an adjacent one for editing, this is the practical choice.",
     tradeoffs: [
@@ -201,7 +201,7 @@ export const products: WoodenGamingDesk[] = [
     power: "2 AC outlets + LED strip",
     material: "Engineered wood, vintage finish",
     imageUrl: `${BASE}/07-futuristic_gaming_studio_with_led_lighting.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D5BDY7FJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5BDY7FJ?tag=workcocoon-20",
     whyItWorks:
       "The AODK 79\" occupies the large L-shaped segment: more total surface than most competing L-desks, with 5 drawers across the configuration. The vintage finish (lighter brown, slightly weathered tone) suits gaming setups with a more subdued aesthetic - not the stark dark gaming look, but a warmer wood-look that works in dual-purpose gaming and home office environments. The reversible L-shape means you choose left or right orientation at assembly.",
     tradeoffs: [
@@ -233,7 +233,7 @@ export const products: WoodenGamingDesk[] = [
     power: "Built-in outlets + LED",
     material: "Engineered wood, rustic brown or black",
     imageUrl: `${BASE}/08-modern_gaming_desk_with_neon_accents.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D2HW7THM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2HW7THM?tag=workcocoon-20",
     whyItWorks:
       "The Huuger straight 47\" with 6 drawers is the storage-optimized compact option: 47-inch surface with the highest drawer count of any straight desk on this list. For gamers in small rooms who need organized storage but cannot use an L-shaped configuration, this is the practical compact answer. The 6-drawer configuration covers the full range of gaming desk storage needs from top drawers for frequently accessed accessories to lower drawers for less-used items.",
     tradeoffs: [
@@ -265,7 +265,7 @@ export const products: WoodenGamingDesk[] = [
     power: "1 built-in outlet",
     material: "Engineered wood, professional finish",
     imageUrl: `${BASE}/09-modern_ergonomic_gaming_and_office_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CXDPH3V8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXDPH3V8?tag=workcocoon-20",
     whyItWorks:
       "The AODK 55\" is the least overtly gaming desk on this list - no LED strips, no pegboard, no hutch. It looks like a wooden home office desk that happens to have good gaming specifications. For home offices that double as gaming spaces or gamers who share space with non-gamers, this is the practical choice. The 55-inch surface accommodates single ultrawide (up to 38\") or standard dual 27\" monitors. The 4 drawers include a file drawer, making it genuinely usable as a work desk during business hours.",
     tradeoffs: [
@@ -297,7 +297,7 @@ export const products: WoodenGamingDesk[] = [
     power: "None built-in",
     material: "Engineered wood, laminated rustic brown",
     imageUrl: `${BASE}/10-cozy_modern_gaming_office_setup.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B4JJZBR5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4JJZBR5?tag=workcocoon-20",
     whyItWorks:
       "The SHW Vista is the counter-option to the feature-heavy desks on this list: no LED, no power outlet, no pegboard - just a clean 51\"x51\" L-shaped surface with a built-in monitor riser drawer. For gaming setups that use a separate cable management system, a dedicated surge protector, and wall-mounted lighting, the Vista eliminates the desk-level complexity that the other options add. The monitor riser drawer provides raised monitor placement with storage underneath.",
     tradeoffs: [

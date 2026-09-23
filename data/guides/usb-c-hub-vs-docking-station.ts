@@ -75,7 +75,7 @@ export const picks: ComparePick[] = [
     price: "$28–$40",
     ports: "4K HDMI, 2× USB-A 3.0, USB-C PD, SD/microSD",
     powerDelivery: "85W pass-through",
-    amazonUrl: `https://www.amazon.com/dp/B09GJMRSCY?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B09GJMRSCY?tag=workcocoon-20`,
     imageUrl: `${BASE}/01-anker-341-hub-7-in-1.webp`,
     whyItWorks: [
       "7 ports covers most laptop workflows (display + USB + card reader)",
@@ -101,7 +101,7 @@ export const picks: ComparePick[] = [
     price: "$50–$70",
     ports: "4K HDMI, 2× USB-A 3.0, USB-C PD, Ethernet, SD/microSD",
     powerDelivery: "100W pass-through",
-    amazonUrl: `https://www.amazon.com/dp/B087QZVQJX?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B087QZVQJX?tag=workcocoon-20`,
     imageUrl: `${BASE}/02-anker-555-hub-8-in-1.webp`,
     whyItWorks: [
       "Adds Ethernet over the 341 — faster, more stable internet",
@@ -124,7 +124,7 @@ export const picks: ComparePick[] = [
     price: "$120–$150",
     ports: "2× HDMI 4K, DisplayPort, 3× USB-A, 2× USB-C, Ethernet, SD, Audio",
     powerDelivery: "85W laptop charging",
-    amazonUrl: `https://www.amazon.com/dp/B088F7SY6S?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B088F7SY6S?tag=workcocoon-20`,
     imageUrl: `${BASE}/03-anker-575-dock-13-in-1.webp`,
     whyItWorks: [
       "Dual 4K HDMI + DisplayPort for triple-display setups",
@@ -148,7 +148,7 @@ export const picks: ComparePick[] = [
     price: "$130–$160",
     ports: "2× HDMI, DisplayPort, 3× USB-A, 2× USB-C, Ethernet, SD/microSD, Audio",
     powerDelivery: "100W pass-through",
-    amazonUrl: `https://www.amazon.com/dp/B0BNZ4RY3D?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B0BNZ4RY3D?tag=workcocoon-20`,
     imageUrl: `${BASE}/04-anker-575-hub-12-in-1-triple-display.webp`,
     whyItWorks: [
       "Supports dual 4K@60Hz output — for power users",
@@ -170,7 +170,7 @@ export const picks: ComparePick[] = [
     price: "$35–$50",
     ports: "4K HDMI, 2× USB-A 3.0, USB-C PD, SD/microSD, USB-C data",
     powerDelivery: "100W pass-through",
-    amazonUrl: `https://www.amazon.com/dp/B0BMXR7B2Q?tag=deskfinds0d-20`,
+    amazonUrl: `https://www.amazon.com/dp/B0BMXR7B2Q?tag=workcocoon-20`,
     imageUrl: `${BASE}/05-anker-7-in-1-travel-hub.webp`,
     whyItWorks: [
       "Slim profile fits a laptop sleeve or shirt pocket",

@@ -42,7 +42,7 @@ export const products: DocumentCamera[] = [
     hasWireless: false,
     hasOcr: false,
     imageUrl: `${BASE}/01-inswan-ins-1-8mp-usb-budget.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07PQJZK66?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07PQJZK66?tag=workcocoon-20",
     whyItWorks:
       "Starting point for occasional document sharing without justifying $80+; 8MP resolution with autofocus and built-in LED light; captures clean A4-size stills and live video; connects via USB as plug-and-play in Zoom, Teams, Meet, and Skype; compatible with Windows, Mac, iPad, Chromebook without driver installation; compact footprint takes up minimal desk space.",
     tradeoffs: [
@@ -80,7 +80,7 @@ export const products: DocumentCamera[] = [
     hasWireless: false,
     hasOcr: false,
     imageUrl: `${BASE}/02-ipevo-v4k-pro-8mp-ai-mic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B096TTJ33S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096TTJ33S?tag=workcocoon-20",
     whyItWorks:
       "Most well-rounded document camera for regular home office use; 8MP Sony sensor delivers sharp consistent image quality across different lighting conditions; multi-jointed arm lets you position over documents, objects, or at face height for regular video calls; AI-enhanced microphone with noise cancellation reduces keyboard and room noise noticeably; works with Zoom, Teams, Google Meet, Skype as plug-and-play USB camera.",
     tradeoffs: [
@@ -114,7 +114,7 @@ export const products: DocumentCamera[] = [
     hasWireless: false,
     hasOcr: false,
     imageUrl: `${BASE}/03-inswan-ins-3-handheld-detachable.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09CNY6HM6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CNY6HM6?tag=workcocoon-20",
     whyItWorks:
       "Detachable handheld design; camera head disconnects from stand and can be held, repositioned, or angled at objects from any direction; uniquely suited for hands-on demonstrations: showing underside of a product, demonstrating a repair, rotating a specimen, capturing 3D models from multiple angles; on the stand it functions as standard overhead document camera; autofocus, LED light, built-in microphone included.",
     tradeoffs: [
@@ -149,7 +149,7 @@ export const products: DocumentCamera[] = [
     hasWireless: false,
     hasOcr: true,
     imageUrl: `${BASE}/04-inswan-ins-2-13mp-4k-a3-capture.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B091CWP2JG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B091CWP2JG?tag=workcocoon-20",
     whyItWorks:
       "Closest to a flatbed scanner in a document camera; 13MP sensor captures A3-size pages in single frame at 4K Ultra HD; dual autofocus modes for static document capture and moving objects; included Documate OCR software converts scanned text to editable Word or PDF files at approximately 96% accuracy covering multiple languages; for home offices handling contracts, reports, or multi-page documents, removes need for separate scanner.",
     tradeoffs: [
@@ -184,7 +184,7 @@ export const products: DocumentCamera[] = [
     hasWireless: false,
     hasOcr: false,
     imageUrl: `${BASE}/05-ipevo-v4k-pro-120-wide-fov.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CJLZN3Z5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJLZN3Z5?tag=workcocoon-20",
     whyItWorks:
       "120-degree field of view covers complete open textbook, large A3 sheet, or wide workspace area without raising arm to maximum height; 4K Sony CMOS sensor delivers sharp resolution across full frame; AI noise reduction on microphone handles noisy home office environments; ideal for teachers demonstrating full-page content or researchers working with large reference materials.",
     tradeoffs: [
@@ -218,7 +218,7 @@ export const products: DocumentCamera[] = [
     hasWireless: false,
     hasOcr: false,
     imageUrl: `${BASE}/06-ipevo-vzr-ultra-hdmi-usb.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJVQ11Z1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJVQ11Z1?tag=workcocoon-20",
     whyItWorks:
       "Built for classroom teachers who need to project to screen without routing through laptop; HDMI output connects directly to any projector, monitor, or interactive flat panel with single cable; switch to USB mode and it becomes standard webcam source for video conferencing; 13MP sensor delivers 4K image quality that holds up on large classroom screens; compatible with Mac, Windows, Chromebook in USB mode.",
     tradeoffs: [
@@ -253,7 +253,7 @@ export const products: DocumentCamera[] = [
     hasWireless: true,
     hasOcr: false,
     imageUrl: `${BASE}/07-ipevo-vz-x-wireless-hdmi-usb.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08WWH5SCN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08WWH5SCN?tag=workcocoon-20",
     whyItWorks:
       "Only camera on this list that works wirelessly; in WiFi mode streams directly to iPad, iPhone, Apple TV, or Android device without USB or HDMI cable; right pick for teachers who move around classroom needing camera positioned at student workspace rather than tethered to teacher desk; also supports HDMI direct-to-projector and USB-to-computer modes, making it a three-mode device; setup handled through IPEVO IDocCam app on iOS or Android.",
     tradeoffs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "2,617 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41GmNtILiJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MEDE9WO?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MEDE9WO?tag=workcocoon-20",
     description:
       "This mount's adjustability is primarily width-based, fitting a range of case sizes, with the largest review base in this guide giving real confidence the mechanism holds position reliably under sustained load rather than slipping over time.\\n\\nTool-free adjustment is a genuine convenience, though verify whether repositioning is realistic with the PC already installed, since empty-adjustment ease doesn't always translate to loaded repositioning.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the VIVO Heavy Duty Adjustable Under before deciding.\n\nWorth knowing before you decide: Tool-free width adjustment. On the other side, Adjustability is primarily width-based, not tilt or depth. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Width-adjustable design","Tool-free adjustment","Massive review base","Budget price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "222 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31t8nBX+HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=workcocoon-20",
     description:
       "This mount offers genuine height adjustment alongside its 66-pound capacity, with a secure locking mechanism specifically designed to hold position under the PC's substantial static weight rather than relying on friction alone.\\n\\nThe locking design is a real advantage for loaded repositioning, since a mount that only holds well when empty isn't much use once a heavy tower is actually installed.\n\nSet against the VIVO Black Under Desk and Wall Office PC Mount, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 66lb capacity holds reliably under a genuinely loaded case. On the other side, Higher price than the most basic adjustable picks. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Height-adjustable with locking","Up to 66 lbs capacity","Secure locking mechanism","Mid-range price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from Amazon ratings",
     reviews: "49 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uzdCGRrbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=workcocoon-20",
     description:
       "The highest average rating in this guide, this mount offers height adjustment alongside a 66-pound disclosed capacity, appropriate for buyers wanting an adjustment mechanism proven to hold well under real-world use despite the smaller sample size.\\n\\nAs with any adjustable mount, verify the specific dimension it adjusts, height here rather than depth or tilt, before assuming it solves a positioning need outside that range.\n\nRelative to the VIVO Heavy Duty Adjustable Under, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Height adjustment holds securely under a 66lb rated load. On the other side, Smaller review base limits confidence versus the top picks. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Height adjustable","Max 66 lbs capacity","Highest average rating","Compact design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "28 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41n5BLsmv7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLYK9NPM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLYK9NPM?tag=workcocoon-20",
     description:
       "A strong average rating backs this compact, width-adjustable mount, tool-free and no-drill, appropriate for buyers wanting easy positioning without a permanent installation commitment.\\n\\nThe smaller review base means loaded-repositioning reliability is less proven than the top picks, worth checking current reviews specifically for mentions of holding position with the PC already installed rather than only during initial setup.\n\nCompared with the Heavy Duty Under Desk PC Mount above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Tool-free, no-drill width adjustment. On the other side, Smaller review base limits confidence in loaded-repositioning reliability. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Width-adjustable, no-drill","Tool-free installation","Compact footprint","Solid rating"],

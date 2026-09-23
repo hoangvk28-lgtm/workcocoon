@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520 balances a compact design with a 1.42-inch OLED display that makes it simple for a parent to check status or clear an issue without pulling out a phone app mid-lesson. Duplex printing and built-in copy and scan cover the core homeschool workflow of printing worksheets and scanning completed work.\n\nAs a cartridge-based inkjet, cost per page will run higher than the ink-tank picks below once volume climbs into the hundreds of pages a month, so this fits a homeschool with lighter or more occasional printing needs best, or a household layering it with a shared printer for high-volume days.\n\nWorth calling out specifically: compact footprint fits a small homeschool desk. The catch is cartridge ink costs more per page at high volume.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The EcoTank ET-2400 swaps disposable cartridges for refillable ink tanks, which is exactly the change that makes sense once a homeschool is printing several hundred pages a month across worksheets, coloring pages, and reading material. Bottle refills cost a fraction of what the equivalent cartridge volume would cost over the same stretch.\n\nWith 1 to 3 kids realistically generating 500 to 1,000 color pages a month plus a couple hundred more in black and white, the higher upfront price of an ink-tank printer typically pays itself back well within a homeschool year compared to sticking with cartridges at that volume.\n\nHandles hundreds of worksheet pages a month without cartridge swaps. Set against that, higher upfront price than a basic cartridge inkjet. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 keeps things simple with print, scan, and copy in a low-cost package, plus a 3-month Instant Ink trial that softens the early cartridge cost for a new homeschool setup still figuring out its actual print volume. It is one of the most affordable full all-in-ones in this list.\n\nOnce the Instant Ink trial ends, standard cartridge economics apply, so families printing more than light-to-moderate volume should plan to reassess after the trial period or budget for more frequent cartridge purchases.\n\nA genuine advantage here is that instant Ink trial softens early ink costs. The tradeoff is standard cartridge costs return after the trial period.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 stands out among the budget picks in this list for including an automatic document feeder, genuinely useful for a homeschool parent scanning a stack of completed worksheets or grading records in one pass instead of feeding pages one at a time. Built-in fax is a legacy feature most households won't use, but it doesn't add meaningful cost.\n\nMobile printing lets a parent send a worksheet from a phone or tablet without walking to a desktop computer, a small convenience that matters during a busy lesson block.\n\nLow price for the included feature set. On the other hand, cartridge-based ink costs more at high volume. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31H9Yu3i01L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BDD46HFV?tag=workcocoon-20",
     description:
       "The Workforce WF-2930 packs an automatic document feeder, fax, duplex printing, and a small color display into a budget-friendly all-in-one, a fuller feature set than most printers at this price. Duplex printing helps cut paper use on longer reading assignments or multi-page lesson packets.\n\nLike the other cartridge-based picks in this list, cost per page will run higher than an ink-tank printer once volume climbs, making this best suited to a homeschool with moderate rather than heavy daily printing needs.\n\nDuplex printing saves paper on long assignments. That's a real strength, but weigh it against the flip side: cartridge ink costs more per page at high volume.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31BXOlNqjZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=workcocoon-20",
     description:
       "The PIXMA MG3620 emphasizes mobile and tablet printing, a genuinely useful trait for homeschool curricula delivered as PDFs or apps on an iPad, letting a parent send a worksheet straight from the tablet a kid is already using for lessons. Wireless setup covers the basics for a shared home network.\n\nIt is a print, scan, copy all-in-one without an automatic document feeder or fax, which keeps the design simple but limits it for anyone needing to scan multi-page stacks regularly.\n\nWorth calling out specifically: simple print, scan, copy feature set. The catch is no automatic document feeder for multi-page scans.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "For a homeschool leaning heavily on black-and-white daily worksheets, math drills, spelling lists, reading comprehension pages, a monochrome laser like the DCP-L2640DW brings cost per page down further than even an ink-tank inkjet can manage for pure text. Duplex printing, copy, and scan are all built in.\n\nToner doesn't dry out over summer break the way inkjet ink can, a genuine advantage for a homeschool printer that might sit unused for weeks at a stretch. The trade-off is no color output at all, so pair it with a color-capable printer if art or science visuals are a regular part of your curriculum.\n\nToner survives summer break without drying out. Set against that, no color output at all. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "The Smart Tank 5101 brings ink-tank economics to a lower price than the EcoTank ET-2400, with 2 years of ink included, a meaningful head start for a homeschool budgeting print costs over an entire school year or more. Print, scan, and copy cover the essentials without extra bulk.\n\nWireless printing runs on 2.4GHz only, so check that against your home router setup, some newer routers default to 5GHz on their main network and need a 2.4GHz guest band enabled for this printer to join.\n\nA genuine advantage here is that ink-tank economics for high-volume printing. The tradeoff is 2.4GHz-only wireless can complicate setup on some routers.",
     specs: [

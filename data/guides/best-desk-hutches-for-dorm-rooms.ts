@@ -36,7 +36,7 @@ export const products: GuideProduct[] = [
     rating: "Rating not yet established",
     reviews: "New listing",
     imageUrl: "https://m.media-amazon.com/images/I/51DMrqMbDIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8BPTZ46?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8BPTZ46?tag=workcocoon-20",
     description:
       "The REIBII packs six shelves into a three-tier rustic brown frame, giving it more individual shelf compartments than most hutches in this roundup while keeping the vertical footprint reasonable for a dorm desk. Based on its listed specs, the extra shelf divisions make it easier to separate textbooks by class, keep supplies grouped, and display personal items without everything stacking on top of each other.\n\nThe rustic brown finish pairs with wood-tone or neutral dorm furniture rather than the white finishes several other picks in this guide use, so it suits students who want a warmer look. As a newer listing it does not yet have an established review history, so it is worth checking current buyer feedback before ordering, especially regarding shelf sturdiness at this price.",
     specs: ["3 tiers", "6 shelves", "Rustic brown finish", "Compact footprint"],
@@ -61,7 +61,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "39,764 reviews",
     imageUrl: `${BASE}/furinno-5shelf.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F5GQNHRN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F5GQNHRN?tag=workcocoon-20",
     description:
       "The Furinno 37-inch hutch is the most-reviewed desk hutch available and fits standard dorm desks in the 36-40 inch range without overhanging the sides. Five open shelves give vertical storage for textbooks, a small plant, folders, and desk supplies in a format that takes no floor space.\n\nAt its price point, the build is lightweight particleboard suited for paper and supplies rather than heavy equipment. Dorm buyers who want maximum shelf count at minimum cost consistently rank it as the default choice before looking at pricier alternatives.",
     specs: ["37 inches wide", "5 shelves", "Open design", "Lightweight"],
@@ -87,7 +87,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "564 reviews",
     imageUrl: `${BASE}/choochoo-drawer-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CWLCHKZD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWLCHKZD?tag=workcocoon-20",
     description:
       "The ChooChoo bookshelf adds a pull-out drawer to the standard open-shelf hutch format, giving concealed storage for chargers, cables, earbuds, and small items that would otherwise clutter open shelves. The white finish is neutral and pairs well with most dorm furniture regardless of what the school provides. It costs more than the basic Furinno but the drawer adds real utility for students who need to hide loose items quickly before roommates or RA visits. The 36.4-inch width fits the majority of dorm-issue desks.",
     specs: ["36.4 inches tall", "5 shelves plus 1 drawer", "White finish"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "564 reviews",
     imageUrl: `${BASE}/tangkula-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C2KR6BVM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2KR6BVM?tag=workcocoon-20",
     description:
       "The Tangkula bookshelf is the sturdiest white hutch in this roundup, with an anti-tip kit included for wall anchoring in spaces where stability is a concern. Its three-tier, five-shelf design creates more visual separation between storage zones than single-column hutches, which helps students keep subjects and supplies sorted. It is the premium option in this guide and is best suited for students who plan to use the same hutch for multiple semesters or take it home afterward. The build quality reflects the higher price compared to the Furinno and Jerry and Maggie picks.",
     specs: ["5 shelves", "3-tier design", "White finish", "Anti-tip kit included"],
@@ -141,7 +141,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "193 reviews",
     imageUrl: `${BASE}/hoobro-led-outlets.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CRV7VNDW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRV7VNDW?tag=workcocoon-20",
     description:
       "The HOOBRO bookcase includes a built-in LED light strip, two AC outlets, and two USB ports, which makes it one of the most feature-rich hutches available for dorm use. Students who are short on wall outlets benefit significantly from the two AC outlets built into the shelf, and the LED strip adds ambient lighting without buying a separate lamp. It undercuts the ChooChoo on price while adding more hardware. The two-tier design is simpler than the five-shelf models but trades storage volume for the electrical and lighting features.",
     specs: ["LED light strip", "2 AC outlets", "2 USB ports", "2-tier design"],
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "122 reviews",
     imageUrl: `${BASE}/snughome-31-rustic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D94266LY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D94266LY?tag=workcocoon-20",
     description:
       "The Snughome 31.9-inch hutch is the most compact fixed-width model in this roundup, fitting dorm desks that run under 33 inches wide. The three-tier format and rustic brown finish give a warmer look than the white-finish options and work well with natural-wood or walnut-tone dorm furniture.\n\nAt 4.7 stars it holds the highest rating in this roundup despite having only 122 reviews. Students with shorter desks or who share a desk surface with a roommate tend to prefer the narrower format over a 37-inch model.",
     specs: ["31.9 inches wide", "3 tiers", "Rustic brown finish", "Compact footprint"],
@@ -195,7 +195,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "454 reviews",
     imageUrl: `${BASE}/snughome-38-rustic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=workcocoon-20",
     description:
       "The Snughome 38.6-inch four-tier hutch is the wider version of the compact model above and suits standard dorm desks in the 36-40 inch range. Four open tiers provide enough storage for textbooks, binders, a small speaker, and basic supplies with room to spare for display items.\n\nWith 454 reviews at 4.7 stars, it has the strongest combined review count and rating of any hutch in this dorm roundup. Students who want a rustic-finish hutch wide enough to frame a 24-inch monitor tend to prefer this over the 31.9-inch model.",
     specs: ["38.6 inches wide", "4 tiers", "Rustic brown finish"],
@@ -222,7 +222,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "129 reviews",
     imageUrl: `${BASE}/choochoo-7shelf.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CWKYVDCP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWKYVDCP?tag=workcocoon-20",
     description:
       "The ChooChoo 7-shelf model is the tallest hutch in this roundup at 33.5 inches high, making it one of the few desk hutches that can hold a full semester of textbooks on a single unit. Seven shelves across 37 inches wide gives an unusually high total storage volume compared to four or five-shelf models. It is priced comparably to the ChooChoo drawer model and makes sense for students with large textbook collections who need storage volume over concealed organization. The height means upper shelves may be awkward to access without standing.",
     specs: ["7 shelves", "37 inches wide", "33.5 inches tall", "White finish"],
@@ -249,7 +249,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "134 reviews",
     imageUrl: `${BASE}/marbrasse-drawer-black.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJ8MD6P5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJ8MD6P5?tag=workcocoon-20",
     description:
       "The Marbrasse hutch combines four open tiers with a single drawer in a black finish, making it one of the few black hutches in this roundup that also includes concealed storage. At 40 inches wide it is the widest model here and suits larger dorm desks or shared L-shaped desk surfaces. at a budget-friendly price it is one of the better-value hutches with a drawer, undercutting the ChooChoo drawer model by a wide margin. Students who want a dark-finish hutch with some concealed storage and a wider footprint will find limited competition at this price.",
     specs: ["40 inches wide", "4 tiers", "1 drawer", "Black finish"],

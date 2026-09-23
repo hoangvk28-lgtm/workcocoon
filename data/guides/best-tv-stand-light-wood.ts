@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "157",
     imageUrl: "https://m.media-amazon.com/images/I/41rnAJOsBYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQV27LCS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQV27LCS?tag=workcocoon-20",
     description:
       "The OKD 70 inch Mid Century Fluted Soft-Close TV Stand fits TVs up to 75 inches and pairs true fluted mid-century paneling with quiet soft-close doors, so the doors ease shut instead of slamming. A wide top surface leaves room to display decor, and adjustable interior shelves let you reconfigure storage as your gear changes.\n\nAt 4.7 stars, it ties the VASAGLE pick for the highest rating in this list, though on a smaller sample of 157 ratings. The minimalist natural oak styling pairs well with mid-century or Scandinavian-leaning rooms. For anyone with a TV larger than 65 inches who still wants a genuinely light oak finish, this is the strongest fit.\n\nA genuine advantage here is that fits TVs up to 75 inches. The tradeoff is smaller review sample (157 ratings) than the top pick.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "398",
     imageUrl: "https://m.media-amazon.com/images/I/41gu+B6y7VL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FDGKNN4N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FDGKNN4N?tag=workcocoon-20",
     description:
       "The OKD 70 inch Light Knotty Oak Open Storage TV Stand fits TVs up to 80 inches and stands the tallest in this list at 33 inches, with a 300 pound weight capacity, well above every other pick here. Two enclosed side cabinets flank an open center shelf, giving a mix of concealed and display storage.\n\nWith 398 ratings at 4.7 stars, it has a well-established track record for a taller design. The knotty oak grain is more distinctive and textured than the plainer natural oak finishes above, and a reinforced 3.5 inch plinth base adds stability. For anyone who wants to stack heavier gear or a very large TV, this is the pick with the most margin.\n\nTallest stand here at 33 inches. On the other hand, most expensive pick in this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "233",
     imageUrl: "https://m.media-amazon.com/images/I/51mT11GbcIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H1W6JKZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H1W6JKZW?tag=workcocoon-20",
     description:
       "The VINGLI 55 inch Natural Oak Fluted 4-Door TV Stand fits TVs up to 65 inches and offers 4 separate fluted cabinet doors, more individual storage compartments than most stands in this list. Adjustable interior shelves let you configure each section, and the 30 inch height puts the screen at a more comfortable eye line for sofa viewing.\n\nWith 233 ratings at 4.5 stars, it holds a solid mid-pack rating. The bright natural oak grain and clean mid-century lines pair well with a range of room styles, and the 4-door layout makes it easier to organize gear by type rather than piling everything into one or two cabinets. For buyers who want the most individual storage doors, this is the standout.\n\nTaller 30 inch height for comfortable sofa viewing. That's a real strength, but weigh it against the flip side: max TV size of 65 inches.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "148",
     imageUrl: "https://m.media-amazon.com/images/I/41WINKtMMWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWJZ1PH7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWJZ1PH7?tag=workcocoon-20",
     description:
       "The LINSY HOME 70 inch Fluted Sliding Door Oak TV Stand fits TVs up to 80 inches, the widest supported range in this list, and combines a space-saving fluted sliding door with 4 open shelves for flexible display and storage. Solid wood legs anchor the base, and a gentle curved silhouette softens the overall look.\n\nWith 148 ratings at 4.6 stars, it's built a solid track record as a newer listing. Cable routing keeps wiring tidy behind the unit, and the warm light oak tone pairs the fluted panel look with a practical sliding-door format that saves clearance space. For anyone with a very large TV, this is the light wood pick built to fit it.\n\nWorth calling out specifically: solid wood legs rather than pressboard. The catch is smaller review sample (148 ratings).",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "989",
     imageUrl: "https://m.media-amazon.com/images/I/51WMzKM-PrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BF8PCQWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BF8PCQWS?tag=workcocoon-20",
     description:
       "The SUPERJARE Boho Rattan Natural Oak TV Stand fits TVs up to 65 inches and stands out with woven rattan cabinet doors instead of the fluted or slatted panels found elsewhere in this list, giving it a distinctly boho look. Six solid wood legs support the frame, and adjustable interior shelves let you configure the storage layout.\n\nWith nearly 1,000 ratings at 4.4 stars, it has a solid track record at a budget-friendly price. At just 42 pounds, it's noticeably lighter than most other picks here, making it easy to reposition. Four cable routing holes keep wiring tidy. For buyers on a budget who want a distinctive natural-wood boho look, this is the standout.\n\n6 solid wood legs for a sturdy base. Set against that, max TV size of 65 inches. Both matter when comparing it to the other picks here.",
     specs: [
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "6",
     imageUrl: "https://m.media-amazon.com/images/I/41XGcp3GnIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTPWB2F2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTPWB2F2?tag=workcocoon-20",
     description:
       "The TRIBEWOOD 71 inch 100% Solid Fir Wood TV Stand fits TVs up to 85 inches, the largest supported size in this list, and is genuinely built from solid fir wood rather than engineered MDF or particleboard. That means each unit has a one-of-a-kind natural grain pattern rather than a uniform printed finish.\n\nAt 4.6 stars, early reviews are strong, though the sample of 6 ratings is small since this is a newer listing. The tabletop surface is scratch-resistant, and assembly is simple since the design uses leg-only construction rather than complex panel assembly. At just 35 pounds, it's also the lightest large-format stand in this list. For buyers who specifically want genuine solid wood rather than an engineered wood finish, this is the pick.\n\nA genuine advantage here is that fits the largest TVs in this list, up to 85 inches. The tradeoff is very small review sample (6 ratings) since it's a newer listing.",
     specs: [

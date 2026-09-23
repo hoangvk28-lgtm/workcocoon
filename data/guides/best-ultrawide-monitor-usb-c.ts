@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "210",
     imageUrl: "https://m.media-amazon.com/images/I/41x4uwmvQpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQF8LRGZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQF8LRGZ?tag=workcocoon-20",
     description:
       "The LG 34WR55QK-B is the cheapest USB-C ultrawide in this list while still covering the basics well, a curved VA panel at 3440x1440 and 100Hz with 65W USB-C Power Delivery, enough to charge most laptops through a single cable. Reader Mode reduces blue light for long reading sessions, and PbP lets you view two input sources side by side. LG's OnScreen Control software adds picture and input management from the desktop, and the stand adjusts for height and tilt. It's also the highest-rated pick in this entire guide, making it a strong default choice for a first USB-C ultrawide. Highest-rated pick in this entire guide at 4.6 stars. That's a real strength, but weigh it against the flip side: 65W PD may not fully charge larger 16\" laptops under heavy load.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "467",
     imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=workcocoon-20",
     description:
       "The Dell S3425DW pairs a 3440x1440 curved VA panel with up to 120Hz refresh and a 0.03ms response time, the fastest in this list, making it a stronger fit than the LG above for fast-paced content or gaming alongside productivity work. USB-C delivers 65W of Power Delivery.\n\n99% sRGB and 95% DCI-P3 coverage give it solid color accuracy, and 3000:1 contrast plus built-in speakers round it out. Dell's Premium Panel warranty covers bright-pixel defects, a meaningful backing given how visible a single stuck pixel is on a panel this wide.\n\nWorth calling out specifically: higher refresh rate ceiling than the LG at up to 120Hz. The catch is costs more than the LG above for the same 65W PD.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "328",
     imageUrl: "https://m.media-amazon.com/images/I/51jbyzHVvdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=workcocoon-20",
     description:
       "The ViewFinity S65UA delivers 90W of USB-C Power Delivery, the highest wattage among the 34\" panels in this list and enough to fully charge most laptops through the single cable rather than just topping them up. Its 1000R curve on a 3440x1440, 100Hz VA panel is tuned for an immersive, close-viewing feel.\n\nHDR10 support adds contrast range for media, and a built-in Ethernet port lets it double as a dock for wired networking. TUV-certified eye care and a 3-year warranty round out a monitor built as much for long desk sessions as for its charging capability.\n\nBuilt-in Ethernet doubles as a basic dock. Set against that, lowest rating among the 34\" picks in this list at 4.2 stars. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "306",
     imageUrl: "https://m.media-amazon.com/images/I/41yVOCPk2aL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQQ7H8TZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQQ7H8TZ?tag=workcocoon-20",
     description:
       "The Philips 34E1C5600HE is the only monitor in this list with a built-in webcam, a 5MP camera with Windows Hello facial recognition and a noise-canceling mic, removing the need for a separate webcam on a video-call-heavy desk. It runs a 3440x1440 curved VA panel at 100Hz with 65W USB-C Power Delivery.\n\nDual 5W speakers add basic audio without external speakers, and a 4-year advance replacement warranty is longer than most competitors offer. Its lower rating compared to the rest of this list is worth weighing against the convenience of the integrated webcam.\n\nA genuine advantage here is that windows Hello facial recognition built in. The tradeoff is lowest rating in this entire list at 3.8 stars.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "299",
     imageUrl: "https://m.media-amazon.com/images/I/51djWdwRb-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Y5ZZW3Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Y5ZZW3Y?tag=workcocoon-20",
     description:
       "The Philips 346B1C is the only pick in this list with a built-in KVM switch, letting one keyboard and mouse control two separate computers without extra hardware, paired with a Gigabit Ethernet port for wired networking. USB-C Power Delivery reaches 95W, near the top of this list's wattage range.\n\n119% sRGB and 90% Adobe RGB coverage make it a strong fit for color-sensitive work alongside its multi-computer KVM setup. A 4-year advance replacement warranty backs a monitor clearly built for a dual-PC desk.\n\nNear-top 95W Power Delivery. On the other hand, pricier than the LG, Dell, and Samsung 34\" picks above. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "101",
     imageUrl: "https://m.media-amazon.com/images/I/31nmpKDSrtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D63Y6WYJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D63Y6WYJ?tag=workcocoon-20",
     description:
       "The UltraSharp U3425WE is the only pick in this list with Thunderbolt 4, alongside 10 total USB 3.2 Gen2 ports and Ethernet, built specifically for a professional multi-device desk rather than a single laptop. Its IPS panel runs 3440x1440 at 120Hz, and PbP lets two sources display side by side.\n\nAn ambient light sensor auto-adjusts brightness, and G-Sync compatibility adds smooth gaming performance on top of its productivity focus. A 3-year warranty backs a monitor priced well above the rest of this list, justified mainly by its port density and Thunderbolt bandwidth.\n\nMost total ports among the 34\" panels in this list. That's a real strength, but weigh it against the flip side: most expensive 34\" pick in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "90",
     imageUrl: "https://m.media-amazon.com/images/I/41A7PYEypCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6QRTBHM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6QRTBHM?tag=workcocoon-20",
     description:
       "The UltraSharp U4924DW is the widest pick in this list at 5120x1440 across a full 49\" IPS Black panel, and the most expensive and most port-dense option here, with an automatic KVM switch, Gigabit 2.5GbE Ethernet, and 11 total USB ports. USB-C delivers 90W of Power Delivery.\n\nDual 9W speakers and 100% sRGB coverage round out a panel built for buyers who want a single 49\" super-ultrawide to fully replace a multi-monitor desktop setup. At this size, plan for real desk depth, a 49\" panel needs meaningfully more usable desk space than any 34\" pick in this list.\n\nWorth calling out specifically: automatic KVM switch plus the most total ports here. The catch is most expensive pick in this list by a large margin.",
     specs: [

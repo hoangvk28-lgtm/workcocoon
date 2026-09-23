@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "A steeper tilt angle reduces forearm rotation more than a shallower design, which is a secondary, partial mitigation relevant to tennis elbow discomfort, not a treatment for the underlying tendon strain.\n\nExact click actuation force in grams isn't independently stated for this product, so we don't invent a figure here. It does include adjustable DPI, which can help avoid the larger arm movements that come from a too-low sensitivity setting.\n\nWorth calling out specifically: adjustable DPI helps avoid oversized arm movements. The catch is click actuation force not independently measured or stated.",
     specs: ["Steeper, disclosed tilt angle", "Adjustable DPI", "Rechargeable battery", "Premium build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A more compact, lighter-feeling body than the full-size premium pick, which is a genuine consideration for tennis elbow since mouse body weight is a distinct strain factor from click force.\n\nAdjustable DPI is included, letting you raise sensitivity to reduce how much your forearm has to move for a given cursor distance, a practical software-level mitigation rather than a hardware fix.\n\nAdjustable DPI helps limit forearm movement. Set against that, click actuation force not independently measured. Both matter when comparing it to the other picks here.",
     specs: ["Compact, lighter body", "Adjustable DPI", "Gentler tilt angle", "Rechargeable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "A budget option offering the same general forearm-rotation reduction as pricier picks, at a much lower cost, with a mid-size body that suits a broad range of hands.\n\nAs with any vertical mouse, treat this as a secondary, partial mitigation for tennis elbow discomfort, and consult a doctor or physical therapist if elbow pain is persistent or worsening.\n\nThe standout detail is that rechargeable battery. Balancing that out, click actuation force not independently measured.",
     specs: ["Mid-range tilt angle", "Rechargeable built-in battery", "2.4GHz wireless receiver", "Budget price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "269 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310x3mOUwBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00F0Y3IIW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00F0Y3IIW?tag=workcocoon-20",
     description:
       "A design built around forearm-neutral positioning from a specialist ergonomic brand, relevant to buyers specifically seeking a reduced-rotation grip as a secondary mitigation for tennis elbow discomfort.\n\nThe premium price and a more moderate 4.1-star rating are worth weighing against the more mainstream, better-reviewed picks in this guide. Click actuation force is not independently stated, so verify current buyer feedback for click feel before purchasing.\n\nRF wireless connectivity. That's a real strength, but weigh it against the flip side: more moderate 4.1-star rating than other picks in this guide.",
     specs: ["Forearm-neutral ergonomic positioning", "RF wireless connectivity", "Specialist ergonomic brand", "Premium price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "2,295 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31o5C5jFQAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=workcocoon-20",
     description:
       "A long-established, fixed tilt angle reducing forearm rotation as a secondary mitigation, wired rather than wireless, which eliminates battery weight for a lighter feel across long sessions.\n\nExact click actuation force in grams isn't independently stated for this product. This is not a treatment for tennis elbow, and persistent elbow pain should be evaluated by a doctor or physical therapist.\n\nNo battery weight, a genuine ergonomic upside. On the other hand, click actuation force not independently measured. Both are worth keeping in mind before deciding.",
     specs: ["Fixed, well-documented tilt angle", "Wired USB connection", "No battery, lighter body", "Premium price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A compact, lighter-feeling rechargeable body that reduces forearm rotation at a budget-to-mid price, relevant since mouse body weight is a distinct strain factor from click force for tennis elbow.\n\nAs with any vertical mouse, treat this as a secondary, partial mitigation for tennis elbow discomfort, and consult a doctor or physical therapist if elbow pain is persistent.\n\nA genuine advantage here is that rechargeable battery avoids AA bulk. The tradeoff is that click actuation force not independently measured.",
     specs: ["Compact, lighter body", "Rechargeable built-in battery", "2.4GHz wireless dongle", "Budget-to-mid price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A low-cost wired option with adjustable DPI, letting you raise sensitivity to reduce forearm movement for a given cursor distance, a practical software-level mitigation at a budget price.\n\nAs with every pick here, this is a general consumer product, not a treatment for tennis elbow, and persistent elbow pain should be evaluated by a medical professional.\n\nNo battery weight. That said, click actuation force not independently measured. Neither should be a surprise once you know to look for it.",
     specs: ["Wired USB connection", "6400 DPI adjustable sensor", "Ergonomic vertical design", "Budget price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "3.4 stars from Amazon ratings",
     reviews: "8 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310Sf1eVbUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW38N1HQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW38N1HQ?tag=workcocoon-20",
     description:
       "A foldable ergonomic design that adjusts its vertical angle, giving buyers with tennis elbow the option to dial in a gentler or steeper tilt as symptoms change, rather than committing to one fixed angle.\n\nIts review sample is very small and the 3.4-star average is meaningfully lower than the other picks in this guide, so weigh the adjustable-angle concept carefully against that limited, more mixed feedback before buying.\n\nWorth calling out specifically: foldable design is a genuinely different approach to this niche. The catch is very small review sample and a meaningfully lower 3.4-star average.",
     specs: ["Foldable, adjustable vertical angle", "Ambidextrous design", "Premium price point", "Small review sample"],

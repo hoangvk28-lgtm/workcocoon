@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 leans on HP's straightforward wireless setup flow and simple print, scan, copy button layout, making it a reasonable pick for an elderly relative or someone printing for the first time in years. AI-capable printing features are optional rather than required to get a basic print job done.\n\nCartridge swaps take a couple of minutes with a clearly labeled access door, and the included 3-month Instant Ink trial means a first-time buyer doesn't have to research cartridge purchasing right away. It won't handle high volume well long-term, but for straightforward setup and daily use it's one of the simplest picks here.\n\nQuick cartridge swaps with clear access door. On the other hand, not built for high daily volume. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "Canon markets the PIXMA TS4320 around easy setup, and in practice its compact single-tray design keeps daily operation simple, load paper, hit print, done, without extra trays or settings to manage. Duplex printing is built in without requiring manual page-flipping.\n\nThe companion app handles mobile printing setup in a few steps, and Canon's app has historically drawn fewer complaints about forced account creation than some competitors, worth checking current app store reviews before buying since app quality can shift between updates.\n\nDuplex printing without manual flipping. That's a real strength, but weigh it against the flip side: no automatic document feeder.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "A 1.42-inch OLED display gives the PIXMA TS6520 a real advantage when something goes wrong, plain status messages and error prompts are easier to act on than a cryptic blinking light code, which is where cheaper printers often leave users guessing. Duplex printing and built-in scan and copy round out the feature set.\n\nThe intuitive control panel keeps common tasks a button press away rather than buried in a menu, which matters most in the moment a jam or low-ink warning actually appears.\n\nWorth calling out specifically: intuitive control panel for common tasks. The catch is cartridge ink costs more at high volume.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "The PIXMA TR4720's automatic document feeder simplifies a task that's normally fiddly on budget printers, scanning multiple pages without repositioning each one manually on the glass. Mobile printing setup follows a short, guided process for pairing a phone or tablet.\n\nBuilt-in fax is a legacy holdover most buyers won't touch, but it doesn't complicate daily use. For anyone who scans regularly and wants that specific task to be simple, this is the easiest pick in this list for that job.\n\nGuided mobile printing setup. Set against that, cartridge-based ink costs more at high volume. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "This is the same easy setup and document-feeder convenience as the white PIXMA TR4720 above in a black finish, a straightforward wireless pairing process and simple button layout for everyday printing, scanning, and copying. It's a reliable, low-fuss option for a shared household printer.\n\nAs with the white version, the built-in fax feature is rarely used but doesn't complicate the interface, and mobile printing setup follows the same short, guided steps.\n\nA genuine advantage here is that automatic document feeder included. The tradeoff is cartridge-based ink costs more at high volume.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-ZgpCGxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=workcocoon-20",
     description:
       "With the fewest features of any pick in this list, print, scan, copy, and nothing else, the PIXMA TS3720 has correspondingly little to configure or go wrong. Fewer buttons and no extra modes make it genuinely hard to get lost in a menu.\n\nThis simplicity is a trade-off, no automatic document feeder or fax, but for a buyer who wants a printer that does exactly one job with minimal friction, that's a feature rather than a limitation. It's also the cheapest pick in this list.\n\nLowest price in this list. On the other hand, no automatic document feeder. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31BXOlNqjZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=workcocoon-20",
     description:
       "The MG3620 is built around mobile and tablet printing as its primary interaction model, which suits a buyer who'd rather manage everything from a phone screen than a physical control panel. Setup pairs the printer with Canon's app in a short guided flow.\n\nDaily use then largely happens through the app rather than the printer's own limited controls, a smoother experience for anyone already comfortable with app-based devices, though it depends on the app itself staying reliable and well-maintained over time.\n\nSimple guided app pairing at setup. That's a real strength, but weigh it against the flip side: relies on the companion app staying well-maintained.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314c84l3lcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=workcocoon-20",
     description:
       "The Canon TS6420 keeps the same easy-setup wireless pairing and simple control layout as the other Canon picks in this list, in a slightly more feature-complete all-in-one body with print, scan, and copy built in. It's a reasonable middle ground for someone who wants a bit more capability without stepping up to app-first or ink-tank complexity.\n\nDaily operation stays straightforward with clearly labeled buttons rather than a deep settings menu, and cartridge access follows the same quick swap process as Canon's other budget models in this list.\n\nWorth calling out specifically: clearly labeled controls for daily use. The catch is higher price than the more basic Canon picks in this list.",
     specs: [

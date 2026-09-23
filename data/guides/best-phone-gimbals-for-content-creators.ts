@@ -47,7 +47,7 @@ export const products: PhoneGimbal[] = [
     extensionRod: true,
     battery: "9h",
     imageUrl: `${BASE}/01-zhiyun-smooth-q4-budget-3-axis-foldable.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B17PV8DD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B17PV8DD?tag=workcocoon-20",
     whyItWorks:
       "Right first gimbal for creators wanting to test motorized stabilization before committing to a higher price. 3-axis stabilization handles smooth handheld shots, steady zooms, and controlled pans. Foldable design collapses small enough for a bag pocket. Built-in extension rod doubles as a selfie stick. Compatible with the Zhiyun ZY Cami app for Android and iOS tracking.",
     tradeoffs: [
@@ -82,7 +82,7 @@ export const products: PhoneGimbal[] = [
     extensionRod: true,
     battery: "8h",
     imageUrl: `${BASE}/02-insta360-flow-original-foldable-magnetic-clamp.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C359VCHY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C359VCHY?tag=workcocoon-20",
     whyItWorks:
       "Most portable gimbal on this list. Magnetic phone clamp snaps in and out in a second without screwing or adjusting. Built-in selfie stick extends to 215mm. Folded base acts as a tripod for static desk shots. Insta360 app offers AI tracking, gesture control, and basic editing. Spotlight accessory clips on top for fill light when needed.",
     tradeoffs: [
@@ -118,7 +118,7 @@ export const products: PhoneGimbal[] = [
     extensionRod: true,
     battery: "10h",
     imageUrl: `${BASE}/03-dji-osmo-mobile-7p-anchor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07FTG84SW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FTG84SW?tag=workcocoon-20",
     whyItWorks:
       "Native tracking follows subjects in any app, not just DJI Mimo. 7th-generation stabilization handles fast movement with less overcorrection than previous generations. Built-in fill light with adjustable color temperature is useful for desk content. Extension rod extends for wide angles. Folded base serves as a tripod. Phone charging via the grip keeps battery topped during long sessions.",
     tradeoffs: [
@@ -154,7 +154,7 @@ export const products: PhoneGimbal[] = [
     extensionRod: true,
     battery: "12h",
     imageUrl: `${BASE}/04-insta360-flow-2-pro-360-pan-dockkit.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DPKV8LP7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DPKV8LP7?tag=workcocoon-20",
     whyItWorks:
       "Built around Apple DockKit, the native iOS tracking API that lets the gimbal follow subjects through the iPhone camera app without any third-party software open. For iPhone creators recording in ProRes or directly to third-party apps, this is the cleanest tracking workflow available. 360-degree pan rotation for product shots and environment reveals. Multi-person tracking switches between subjects automatically. Built-in tripod and selfie stick included.",
     tradeoffs: [
@@ -189,7 +189,7 @@ export const products: PhoneGimbal[] = [
     extensionRod: true,
     battery: "12h",
     imageUrl: `${BASE}/05-hohem-isteady-m7-ai-tracker-touchscreen-remote.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DM9177BG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DM9177BG?tag=workcocoon-20",
     whyItWorks:
       "Solves the problem of not being able to see what the camera is tracking when you are in front of it. Detachable 1.4-inch OLED touchscreen remote attaches to the handle or can be held separately up to 32 feet away, giving a live preview of what the camera sees. Native AI tracking module handles people, pets, vehicles, and objects across any app. Built-in fill light with adjustable brightness and color temperature. 500g payload handles most flagship smartphones with cases.",
     tradeoffs: [
@@ -224,7 +224,7 @@ export const products: PhoneGimbal[] = [
     extensionRod: false,
     battery: "13.5h",
     imageUrl: `${BASE}/06-zhiyun-smooth-q5-ultra-fill-light-ai-tracker.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G1SR66JX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1SR66JX?tag=workcocoon-20",
     whyItWorks:
       "13.5-hour battery is the longest on this list. For creators shooting across a full day or covering events running 8 or more hours, this is a meaningful practical advantage. Built-in fill light reaches 226 lux with adjustable color temperature from 2700K to 6200K. Detachable voice remote lets you trigger recording, switch modes, and adjust zoom without touching the phone or handle. Native AI tracker works across apps.",
     tradeoffs: [
@@ -259,7 +259,7 @@ export const products: PhoneGimbal[] = [
     extensionRod: true,
     battery: "10h",
     imageUrl: `${BASE}/07-dji-osmo-mobile-7p-mic-mini-tx-bundle.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DXPNQBYP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXPNQBYP?tag=workcocoon-20",
     whyItWorks:
       "Pairs the Osmo Mobile 7P with a DJI Mic Mini transmitter. The Mic Mini TX clips to clothing and connects to the 3.5mm port, bypassing the built-in phone microphone for cleaner vocal audio. For product reviews, tutorials, and talking-head content, audio quality is as important as video quality. The combined bundle removes the need to research and buy a separate microphone. Everything integrates through DJI Mimo app.",
     tradeoffs: [

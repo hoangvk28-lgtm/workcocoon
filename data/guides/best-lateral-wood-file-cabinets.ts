@@ -38,7 +38,7 @@ export const products: LateralCabinet[] = [
     finish: "Pure White Oak",
     rating: "4.4 stars, 4,283 reviews",
     imageUrl: `${BASE}/bush-home-key-west-white-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B081ZP7MLY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B081ZP7MLY?tag=workcocoon-20",
     whyItWorks:
       "The Bush Home Key West is the strongest pick in this category by the combination of review volume and rating. More than 4,000 buyers have validated this cabinet at 4.4 stars, which is the most reliable quality signal available in the lateral file cabinet category at this price point. The Pure White Oak finish is an engineered wood cabinet with a white oak-look laminate surface that fits well in light, Scandinavian, modern farmhouse, and minimalist home office setups. Full-extension slides and locking drawers are included. The wide flat top works well as a printer stand or monitor surface.",
     tradeoffs: [
@@ -71,7 +71,7 @@ export const products: LateralCabinet[] = [
     finish: "Rustic Brown and Ink Black",
     rating: "4.0 stars, 1,736 reviews",
     imageUrl: `${BASE}/vasagle-lateral-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BDF7Q5YC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BDF7Q5YC?tag=workcocoon-20",
     whyItWorks:
       "The VASAGLE Lateral is the most affordable pick in this roundup with a meaningful review count. At 1,736 reviews and 4.0 stars, it has been validated at scale. The rustic brown wood-look surface and ink black metal frame is a classic farmhouse or industrial-rustic combination that suits warm-toned home offices. Under $120 is the best price-to-style ratio in lateral wood cabinets. VASAGLE is a recognized brand in the wood-and-metal home furniture space, and this cabinet follows their design language consistently.",
     tradeoffs: [
@@ -103,7 +103,7 @@ export const products: LateralCabinet[] = [
     finish: "Chalked Chestnut",
     rating: "4.3 stars, 979 reviews",
     imageUrl: `${BASE}/sauder-edge-water-chalked-chestnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B013GTMOB4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B013GTMOB4?tag=workcocoon-20",
     whyItWorks:
       "The Sauder Edge Water in Chalked Chestnut occupies the warm mid-range of this roundup. Chalked Chestnut is a muted, dusty warm brown with a slightly chalky matte finish closer to a vintage or farmhouse feel than crisp white oak or dark walnut tones. This finish pairs well with whitewashed wood, natural pine, or light brown wood desks. With 979 reviews at 4.3 stars, it has strong validation from a trusted brand. Locking drawers and letter-plus-legal file compatibility are included at this price.",
     tradeoffs: [
@@ -135,7 +135,7 @@ export const products: LateralCabinet[] = [
     finish: "Dark Walnut",
     rating: "4.5 stars, 248 reviews",
     imageUrl: `${BASE}/halitaa-2-drawer-charging-dark-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D95XMLWJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D95XMLWJ?tag=workcocoon-20",
     whyItWorks:
       "The Halitaa is the only pick in this roundup with an integrated charging station. A built-in USB hub or power outlet on a file cabinet that doubles as a desk-side surface is a genuinely useful feature for home offices where power access near the workspace is limited. At 4.5 stars - the highest rating in this roundup - and 248 reviews, it has solid early validation. The dark walnut finish works with contemporary, mid-century, and modern home office setups. Locking drawers are included.",
     tradeoffs: [
@@ -167,7 +167,7 @@ export const products: LateralCabinet[] = [
     finish: "Espresso",
     rating: "4.3 stars, 239 reviews",
     imageUrl: `${BASE}/realspace-magellan-espresso.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00F63RK2W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00F63RK2W?tag=workcocoon-20",
     whyItWorks:
       "The Realspace Magellan in Espresso fills the dark brown, office-espresso finish segment that the other picks do not cover. Espresso is a classic home office tone that pairs with most dark wood desk setups, bookshelves, and traditional office furniture. Realspace is a reliable office furniture brand. At 239 reviews and 4.3 stars, the validation is adequate. Verify current pricing on Amazon before ordering.",
     tradeoffs: [
@@ -198,7 +198,7 @@ export const products: LateralCabinet[] = [
     finish: "Natural Oak",
     rating: "4.5 stars, 136 reviews",
     imageUrl: `${BASE}/t4tream-fluted-lateral-natural-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F8V4GWZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8V4GWZW?tag=workcocoon-20",
     whyItWorks:
       "The T4TREAM stands out visually. Fluted cabinet fronts are a mid-century modern and contemporary design detail that distinguishes this cabinet from the flat-front alternatives in this list. The natural oak finish keeps it light and warm. The large tabletop callout in the listing positions this explicitly for printer or monitor placement. At 136 reviews and 4.5 stars (tied for highest in the roundup), the rating is strong but the sample size is small. Treat this as a solid pick for buyers who prioritize the fluted aesthetic.",
     tradeoffs: [
@@ -230,7 +230,7 @@ export const products: LateralCabinet[] = [
     finish: "Oak Finish",
     rating: "4.2 stars, 143 reviews",
     imageUrl: `${BASE}/martin-huntington-oxford-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B002N1BMGA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B002N1BMGA?tag=workcocoon-20",
     whyItWorks:
       "The Martin Furniture Oxford is the most expensive pick in this roundup and the only one that comes fully assembled. At $499 it positions itself as a premium, furniture-quality piece rather than a flat-pack office product. Martin Furniture has a reputation for better-than-average build quality. The wide lateral format provides a substantial top surface. Verify material specifications on the current Amazon listing before committing to the $499 price.",
     tradeoffs: [

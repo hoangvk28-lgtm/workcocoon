@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ll21hyHHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=workcocoon-20",
     description:
       "A metal panel with dual monitor stands built directly into the frame, appropriate for buyers wanting the arm and hooks in one purchase without matching separate products' hole spacing.\n\nThe metal construction gives real rigidity for handling both the monitor arm's leverage and hook-accessory weight together, though it's worth checking your monitor's VESA pattern against the built-in mount before ordering.\n\nA genuine advantage here is that one purchase avoids matching separate products' hole spacing. The tradeoff is that higher price than a basic hooks-only pegboard.",
     specs: ["43 x 34 inch metal panel", "Dual monitor stands built in", "LED lighting included", "One-purchase combined system"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41i2tZZC1xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=workcocoon-20",
     description:
       "The wider version of the same integrated system, giving more separation between the dual monitor arms and any hooks you hang alongside them, which reduces the interference concern of arms and hooks sharing adjacent board space.\n\nThe higher price reflects the larger panel and dual arms together, worth comparing against buying a separate wide pegboard plus two standalone monitor arms if your priority is pure cost.\n\nCovers a full wide dual-monitor setup in one panel. That said, highest price in this list, compare against buying separately. Neither should be a surprise once you know to look for it.",
     specs: ["59 x 34 inch metal panel", "Dual monitor stands built in", "White finish", "Wider board reduces arm-hook interference"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51v-7P2kqkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=workcocoon-20",
     description:
       "A triple-clamp steel system bundling two monitor mounts, a storage shelf, and pegboard hooks together, appropriate for buyers wanting the most included features for a moderate price relative to the other integrated options.\n\nThe monitor mounts here fit screens up to 32 inches, worth checking this covers your specific monitor size and VESA pattern, and the triple clamp gives real rigidity for the combined arm, shelf, and hook load.\n\nWorth calling out specifically: triple clamp gives real rigidity for the combined load. The catch is small review count so far.",
     specs: ["47 x 31 inch steel panel", "2 monitor mounts, fits up to 32 inch screens", "Storage shelf included", "Triple clamp mount"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "134 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KnBv2BIKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CLWM7K88?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CLWM7K88?tag=workcocoon-20",
     description:
       "Rather than an integrated panel, this is a standalone monitor mount built to attach to an existing pegboard with standard 1-inch hole spacing, the clearest way to compare against buying a combined system.\n\nAt under 30 dollars, this plus a basic pegboard you already own is often meaningfully cheaper than an all-in-one combined system, though it's worth confirming your existing board's rigidity can handle the added arm leverage on top of its hook load.\n\nFits a wide range of screen sizes up to 32 inches. Set against that, only compatible with boards using standard 1-inch hole spacing. Both matter when comparing it to the other picks here.",
     specs: ["Fits pegboards up to 0.25 inch thick", "1 inch hole spacing required", "Fits screens up to 32 inches", "Articulating single-monitor arm"],

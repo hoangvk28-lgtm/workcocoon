@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31pu6SVe35L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01LY6Z2M6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01LY6Z2M6?tag=workcocoon-20",
     description:
       "The Blue Yeti is a true condenser microphone with 4 selectable pickup patterns, cardioid, omnidirectional, bidirectional, and stereo, and Blue VO!CE software for real-time voice shaping. It is the most flexible condenser in this list for switching between solo recording and room capture.\n\nGain staging matters here, set the input gain too high and loud passages clip, too low and you introduce audible noise, a common reason a mic sounds bad even though nothing is actually broken. Start with gain around the midpoint and adjust while monitoring through headphones rather than guessing by ear alone.\n\nBlue VO!CE software adds real-time voice shaping. That's a real strength, but weigh it against the flip side: sensitive capsule picks up untreated-room noise readily.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31iHEugSZ6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QLNYBG9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07QLNYBG9?tag=workcocoon-20",
     description:
       "The Blue Yeti Nano is a true condenser mic in a smaller body, with cardioid and omnidirectional patterns covering the two most common use cases, solo voice and small-room capture. It works as plug and play on both Mac and Windows without extra driver setup.\n\nDriver behavior is worth checking either way, some condenser mics need a driver install on Windows but run plug and play on Mac, or vice versa, so confirm compatibility with your specific OS version before assuming zero setup is required. Its compact footprint makes it easier to fit on a small desk than the full-size Yeti.\n\nWorth calling out specifically: simple 2-pattern selection. The catch is fewer patterns than the full Yeti.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GaUMJg2pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06XCKGLTP?tag=workcocoon-20",
     description:
       "The K669B is a genuine condenser mic in a metal body at the lowest price in this list, with a cardioid pattern for meeting audio, voice recording, and casual streaming. It records at 16-bit, which is fine for most desk use but worth knowing if you plan to do heavier post-production.\n\nSelf-noise is the spec that separates a clean-sounding budget condenser from a hissy one, mics under roughly 20dB-A self-noise sound clean in quiet recordings, while mics above 25dB-A introduce audible hiss. FIFINE does not publish a self-noise figure for this model, so treat it as an unknown at this price rather than assuming it matches pricier condensers.\n\nMetal body feels sturdier than the price suggests. Set against that, 16-bit recording, not 24-bit. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FYNR1PLxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCV74CL7?tag=workcocoon-20",
     description:
       "The TC310+ is a true condenser paired with an included boom arm, RGB lighting, and a tap-to-mute button, aimed at streaming and content creation. Onboard gain control lets you adjust input level at the mic itself rather than relying only on software.\n\nA boom arm matters more on a condenser than on a dynamic mic precisely because the condenser is more sensitive, keeping it off the desk surface reduces the keyboard clatter and desk vibration a flat-mounted condenser would otherwise capture in full detail. This is one of the more complete budget condenser kits in this list.\n\nA genuine advantage here is that onboard gain control for quick adjustment. The tradeoff is condenser sensitivity still needs a reasonably quiet room.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vZkgLpKmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMFQP2ZZ?tag=workcocoon-20",
     description:
       "To be direct, the AM8 is a dynamic microphone, not a condenser, and it earns a spot in this list specifically because condenser sensitivity is not always the right call. If your room picks up rain, a window AC unit, street noise, or a housemate's TV, a dynamic capsule like this one rejects that background noise far better than any condenser above.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rKkw3TT2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C74GYW3J?tag=workcocoon-20",
     description:
       "Also worth flagging honestly, the AM8T is a dynamic mic, not a condenser, but it ships as a complete kit with a boom arm, hardware mute button, and headphone jack included. For a desk with a mechanical keyboard, the combination of a dynamic capsule and a boom arm off the desk surface handles noise better than any condenser in this list, regardless of mounting.\n\nMac vs Windows driver behavior can differ between condenser mics, but dynamic USB mics like this one are generally more plug-and-play consistent across platforms, one more reason to consider it over a condenser in a mixed-noise environment.\n\nDynamic capsule outperforms any condenser here in noisy rooms. On the other hand, not a condenser, captures less room detail. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41WQG5fyf7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D458QDVN?tag=workcocoon-20",
     description:
       "One more honest flag, the K688 is a dynamic mic rather than a condenser, positioned here as the podcast-focused alternative for buyers whose room can't support a condenser's sensitivity. It includes a boom arm, hardware mute button, and headphone jack in one kit.\n\nDynamic mics like this one are generally less picky about gain staging than condensers, since they capture less ambient detail overall, but you should still monitor levels through the headphone jack rather than assuming the default gain is correct for your voice.\n\nDynamic capsule suits untreated home offices. That's a real strength, but weigh it against the flip side: not a condenser, no pattern switching.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31qpzNSp0LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07GR31BZZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07GR31BZZ?tag=workcocoon-20",
     description:
       "This renewed Blue Yeti is a true condenser with the same 4 pickup patterns as the full-price model, cardioid, omnidirectional, bidirectional, and stereo, at a lower price for buyers comfortable with a factory-refurbished unit. Recording is 24-bit/48kHz, matching the non-renewed version's specs.\n\nAs with any condenser, room treatment matters more here than with a dynamic mic, and it's worth checking the seller's return window on a renewed unit before committing. For anyone set on a true condenser rather than one of the dynamic alternatives above, this is the most affordable way into full Yeti pattern flexibility.\n\nWorth calling out specifically: same 4-pattern flexibility as the full-price model. The catch is renewed condition means checking the return policy closely.",
     specs: [

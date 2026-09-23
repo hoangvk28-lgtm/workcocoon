@@ -36,7 +36,7 @@ export const products: DrawerStandingDesk[] = [
     heightRange: "28\" to 47.6\"",
     usbCharging: "2x USB-A + 1x USB-C",
     imageUrl: `${BASE}/01-flexispot-comhar-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08SBL81LT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08SBL81LT?tag=workcocoon-20",
     whyItWorks:
       "The FlexiSpot Comhar is the benchmark for this category. It is the most-reviewed electric standing desk with a built-in integrated drawer on Amazon - the review count reflects buyers who actually use it daily. The integrated drawer is flush-mounted and moves with the desk surface when you raise or lower it. The USB charging ports (2x USB-A plus 1x USB-C) are embedded at the drawer section, routing phone charging cables away from the desktop surface entirely. The 5-year warranty covers both motor and frame.",
     tradeoffs: [
@@ -68,7 +68,7 @@ export const products: DrawerStandingDesk[] = [
     heightRange: "28\" to 47.6\"",
     usbCharging: "2x USB-A + 1x USB-C",
     imageUrl: `${BASE}/02-flexispot-comhar-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FHH3T3BH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHH3T3BH?tag=workcocoon-20",
     whyItWorks:
       "The dark walnut finish variant of the Comhar. Functionally identical to Pick 1 - same drawer design, same motor, same height range, same USB charging ports. The distinction is purely aesthetic: dark walnut surface on a black frame. The black frame conceals cable runs better than white. Dark walnut reads as more premium in a home office context, photographs better, and blends with most room colors. The 2,000+ reviews confirms this is not a new SKU without real-world data.",
     tradeoffs: [
@@ -99,7 +99,7 @@ export const products: DrawerStandingDesk[] = [
     heightRange: "28.3\" to 47.6\"",
     usbCharging: "Verify current listing",
     imageUrl: `${BASE}/03-comhoma-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FQBR2D3M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQBR2D3M?tag=workcocoon-20",
     whyItWorks:
       "COMHOMA hits the same 48x24\" footprint as the Comhar variants but typically comes in at a lower price point, making it the practical budget alternative when the FlexiSpot options exceed your budget. At 4.4 stars across 930+ reviews with 100+ bought per month, the quality signal is solid for the price tier. The anti-collision detection is included, which some cheaper standing desks omit. Price is typically $20 to $50 below the FlexiSpot Comhar for near-identical specs on paper.",
     tradeoffs: [
@@ -130,7 +130,7 @@ export const products: DrawerStandingDesk[] = [
     heightRange: "28\" to 47.2\"",
     usbCharging: "Verify current listing",
     imageUrl: `${BASE}/04-gtplayer-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G1LVMYLZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1LVMYLZ?tag=workcocoon-20",
     whyItWorks:
       "GTPLAYER is best known for gaming chairs but this desk targets buyers who want a white aesthetic with bonus surface accessories. The distinguishing feature is a bundled monitor riser shelf and laptop stand in addition to the built-in drawer. If you need a monitor riser and laptop stand separately, the bundled package eliminates those purchases. At 4.5 stars, it holds the highest average rating on this list. However, the 47.2\" height ceiling is the lowest on the list - confirm it reaches your standing height before ordering.",
     tradeoffs: [
@@ -161,7 +161,7 @@ export const products: DrawerStandingDesk[] = [
     heightRange: "27.5\" to 47.2\"",
     usbCharging: "Integrated outlets + USB-A + USB-C",
     imageUrl: `${BASE}/05-aodk-55-keyboard-tray.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CR1CM8JK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR1CM8JK?tag=workcocoon-20",
     whyItWorks:
       "The AODK is the most feature-complete desk on this list. It is the only 55\" wide option (7\" more than the 48\" picks), combines a built-in drawer with a pull-out keyboard tray, adds power outlets and USB ports, LED lighting, and a monitor stand shelf. The keyboard tray is separate from the drawer - it slides back independently. The built-in power strip eliminates a separate cable block on the surface. For power users and gaming setups where cable management and power access are primary concerns, this handles them in one purchase.",
     tradeoffs: [
@@ -193,7 +193,7 @@ export const products: DrawerStandingDesk[] = [
     heightRange: "28.3\" to 47.6\"",
     usbCharging: "Verify current listing",
     imageUrl: `${BASE}/06-ergear-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F28Q3FZJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F28Q3FZJ?tag=workcocoon-20",
     whyItWorks:
       "ErGear applies their core desk frame - the same motor platform used in the No.1 Best Seller in Home Office Desks - to a drawered configuration. At 4.6 stars with around 580 reviews, the quality signal is strong for the price tier. The 28.3\" to 47.6\" range matches FlexiSpot Comhar and is better than the 47.2\" ceiling of GTPLAYER and AODK. ErGear focuses entirely on desks, unlike GTPLAYER (chairs) - more relevant R and D focus on motor and frame design.",
     tradeoffs: [
@@ -222,7 +222,7 @@ export const products: DrawerStandingDesk[] = [
     heightRange: "Verify current listing",
     usbCharging: "Verify current listing",
     imageUrl: `${BASE}/07-offigo-63-l-shaped.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DBQ4JX85?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBQ4JX85?tag=workcocoon-20",
     whyItWorks:
       "The only L-shaped option on this list. The OffiGo 63\" provides a corner configuration with a built-in drawer, targeting buyers who need the storage of the above picks but also need the surface area of an L-shape. The 500+ bought past month badge is a strong purchase-velocity signal for this specific desk. L-shaped standing desks with built-in drawers are rare in this price range - most competitors offer storage only as a separate floor pedestal that does not rise with the desk.",
     tradeoffs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "2,151 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31epD4k4UcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BBQ3ZYNY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BBQ3ZYNY?tag=workcocoon-20",
     description:
       "Uses a thumb-operated ball design, letting your fingers rest on the main buttons while your thumb controls cursor movement, a genuinely different feel from a finger-operated trackball.\n\nThe strongest review rating among the picks in this guide, with a large enough sample to be a meaningful signal on long-term comfort and tracking reliability. Plan on periodic cleaning under the ball to maintain tracking accuracy over time.\n\nThe standout detail is that thumb-operated design keeps fingers free for buttons. Balancing that out, requires periodic cleaning under the ball for tracking accuracy.",
     specs: ["Thumb-operated ball", "Bluetooth and wireless dongle connectivity", "Ergonomic vertical-leaning body", "Rechargeable-compatible design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "6,267 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31y5fJoYcJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FPFTF4NH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FPFTF4NH?tag=workcocoon-20",
     description:
       "A large review base at a lower price than the top pick, offering the same general trackball-plus-vertical-angle combination for buyers who want to try the category without premium pricing.\n\nAs with any trackball design, expect to clean under the ball periodically as dust builds up, and budget extra time for the adjustment period given the dual learning curve of trackball control and a vertical grip together.\n\nBluetooth connectivity. That's a real strength, but weigh it against the flip side: ball placement and material specifics should be confirmed in the listing.",
     specs: ["Bluetooth connectivity", "Ergonomic vertical-leaning design", "Large review base", "Budget-to-mid price point"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "439 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31bIdCUSj4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D7Q21GG8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D7Q21GG8?tag=workcocoon-20",
     description:
       "Offers adjustable DPI across 5 levels, useful for buyers who want to fine-tune cursor sensitivity for the trackball's different control feel versus a standard sliding mouse.\n\nCheck current listing details for whether the ball is thumb- or finger-operated on this specific model, since that meaningfully changes the hand position and adjustment experience.\n\nVertical ergonomic angle combined with trackball control. On the other hand, smaller review sample than the top two picks. Both are worth keeping in mind before deciding.",
     specs: ["5 adjustable DPI levels", "Vertical trackball design", "Wireless connectivity", "Mid-range price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "491 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31wKwJLWKzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJZBCV44?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJZBCV44?tag=workcocoon-20",
     description:
       "Explicitly designed for thumb-operated ball control, keeping your fingers free to rest on the main buttons rather than reaching to move the ball itself.\n\nA solid review rating for a mid-size sample, and as with any trackball mouse, expect periodic cleaning to keep tracking accurate and budget extra time for the adjustment period given the dual learning curve.\n\nA genuine advantage here is that solid review rating. The tradeoff is that ball material and replacement availability not independently confirmed.",
     specs: ["Explicit thumb-operated ball control", "Wireless connectivity", "Ergonomic vertical design", "Mid-range price point"],

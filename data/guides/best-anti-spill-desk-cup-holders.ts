@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "762",
     imageUrl: "https://m.media-amazon.com/images/I/41C-eWZ9gfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=workcocoon-20",
     description:
       "This holder's mechanism is a genuine deep, form-fitting cavity rather than a shallow ring, meaningfully containing a cup or tumbler on multiple sides against incidental bumps. Its strong combined rating and review volume gives real-world confidence beyond the marketing label alone.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the HzTinT Large Desk Cup Holder.\n\nWorth knowing before you decide: Most proven pick by rating and review volume. On the other side, Bulkier than compact clip designs. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Deep, form-fitting cavity mechanism","Metal clamp construction","No-drill attachment","Fits oversized tumblers"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "70",
     imageUrl: "https://m.media-amazon.com/images/I/61tWyW9bgvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=workcocoon-20",
     description:
       "The word 'fully covered' in this listing's title is a genuine mechanism description, not just marketing language, referring to a cavity that wraps the container more completely than a simple ring. This is the most affordable pick with a verified real anti-spill design.\n\nSet against the OOKUU Upgraded Large Desk Cup Holder Clamp, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Most affordable option here. On the other side, Small review count limits confidence. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Fully covered cavity mechanism","Clip-on attachment","Compact footprint","Lowest price here"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "171",
     imageUrl: "https://m.media-amazon.com/images/I/314m46JYkhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=workcocoon-20",
     description:
       "This large-diameter cavity holder carries the highest rating of any pick in this comparison, suggesting its actual containment mechanism holds up well against real-world incidental bumps despite using plastic rather than metal.\n\nRelative to the HzTinT Large Desk Cup Holder, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Genuine reinforced cavity design. On the other side, Smaller review count than the OOKUU pick. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Large-diameter reinforced cavity","Heavy-duty reinforced plastic","Universal desk-edge fit","No-drill attachment"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,510",
     imageUrl: "https://m.media-amazon.com/images/I/31XgT+O+XQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=workcocoon-20",
     description:
       "This holder's covered cavity design performs consistently across both narrow bottles and wide mugs based on its strong review history, a genuine container-shape versatility test that a mechanism optimized for only one shape would fail. Its headphone hanger is a verified genuine bonus feature, not a token add-on.\n\nCompared with the Universal Large Desk Cup Holder Clamp above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Strong, well-reviewed hybrid design. On the other side, Higher price than single-function holders. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Covered cavity, versatile container shapes","Integrated headphone hanger","Strong review history","White finish"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "324",
     imageUrl: "https://m.media-amazon.com/images/I/31kr6fpVxgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=workcocoon-20",
     description:
       "This variant's deeper cavity is the strongest containment mechanism in this comparison, a genuine, verifiable design difference from the standard-depth OOKUU pick, better resisting tip-over from a harder incidental knock or elbow bump.\n\nSet against the GUNKING Luxury 2, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Proven OOKUU brand quality. On the other side, Higher price than the standard-depth version. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Deepest cup cavity in this comparison","Metal clamp construction","No-drill attachment","Fits tall tumblers"],

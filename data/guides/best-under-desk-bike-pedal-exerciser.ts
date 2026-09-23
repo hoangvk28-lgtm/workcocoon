@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "16,185",
     imageUrl: "https://m.media-amazon.com/images/I/41vbdc4txHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07XLP3WZK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07XLP3WZK?tag=workcocoon-20",
     description:
       "The Vaunn uses manual friction resistance across 5 levels in an alloy steel frame built for basic, no-frills pedaling. An LCD tracks cycle count and calories, and quick-release folding makes it easy to store when not in use.\n\nNon-skid rubber feet keep it planted during use, and at 5.4 lbs it's light enough to move between rooms without effort. It works for both arms and legs, making it flexible beyond just under-desk leg cycling.\n\nQuick-release folding for easy storage. Set against that, friction resistance is louder than magnetic designs in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "18,313",
     imageUrl: "https://m.media-amazon.com/images/I/41+7zbVyflL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07JFTQ2MS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07JFTQ2MS?tag=workcocoon-20",
     description:
       "The himaly Mini uses magnetic belt-drive resistance across 8 levels, quieter than the friction-type designs common at this price point. An LCD covers time, count, calories, and distance, giving a fuller picture of each session than a basic counter.\n\nAnti-slip pedals and a non-slip base add stability, and at 4kg it's easy to lift and reposition. It works for both arms and legs, and it's the most-reviewed magnetic-resistance pick in this guide by a wide margin.\n\nA genuine advantage here is that quieter than friction-based designs. The tradeoff is 4.0 rating is the lowest in this guide.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "9,859",
     imageUrl: "https://m.media-amazon.com/images/I/41cUJFooYIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01E3CPAK0?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01E3CPAK0?tag=workcocoon-20",
     description:
       "The Wakeman uses manual friction resistance with an adjustable dial and a 5-function LCD covering time, rev count, RPM, calories, and scan. It arrives fully assembled out of the box, the only step-free setup among the budget picks in this guide.\n\nA non-slip base and foldable design keep it easy to store, and at 5.82 lbs it moves easily between rooms. It works for arms or legs and is the cheapest pick in this entire guide.\n\nNo assembly required out of the box. On the other hand, friction resistance is louder than magnetic designs. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "8,023",
     imageUrl: "https://m.media-amazon.com/images/I/41EfhD7GoGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C15YQW98?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C15YQW98?tag=workcocoon-20",
     description:
       "The SF-B023005 uses stepless friction resistance across 16 levels for finer control than a stepped dial, in a 2-in-1 design that works for both arms and legs. Bluetooth connects to the SunnyFit App, unlocking over 1,000 workouts plus 10,000 virtual scenic routes, the strongest budget app ecosystem in this guide.\n\nA mesh belt-drive design keeps operation quieter than a standard friction unit, and an LCD covers the core session metrics. At 11.7 lbs, it's light enough to move but sturdier than the entry-level picks below it in price.\n\n16 stepless resistance levels for finer control. That's a real strength, but weigh it against the flip side: pricier than the entry-level friction picks in this guide.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "5,061",
     imageUrl: "https://m.media-amazon.com/images/I/51rsj24ng8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D85WGTCQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D85WGTCQ?tag=workcocoon-20",
     description:
       "The SF-B020026SMART runs magnetic resistance across 8 levels in a 3-in-1 design, arms, legs, and a set of included 20 lb resistance bands, giving it the widest single-unit workout range in this guide alongside the YOSUDA Pro. The SunnyFit App and a whisper-quiet mechanism round out a genuinely feature-complete package.\n\nAt 20.5 lbs with a max user weight of 200 lbs, it's built cordless and portable with a floor stabilizer for added stability during use. It sits at a mid-to-premium price point, reflecting its broader feature set compared to the simpler picks in this guide.\n\nWorth calling out specifically: whisper-quiet magnetic resistance. The catch is pricier than most picks in this guide.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "5,983",
     imageUrl: "https://m.media-amazon.com/images/I/317D79BdGEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BDRFMZK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BDRFMZK?tag=workcocoon-20",
     description:
       "The DeskCycle V2 runs magnetic resistance across 8 levels reaching up to 39 lbs of resistance, the strongest in this guide, driven by a high-inertia flywheel for a smoother pedal feel. Height adjusts from 9 to 10 inches to dial in fit under a specific desk, and it's rated to fit under desks as low as 27 inches.\n\nStrap-in pedals keep feet secure during faster resistance levels, and a detachable LCD stays visible without sitting underfoot. At 24.7 lbs with a 270 lb max user weight, it's the highest-rated pick in this entire guide and widely cited as an editor's pick across review sites.\n\nHighest-rated pick in this entire guide at 4.5 stars. Set against that, pricier than most picks in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "3,559",
     imageUrl: "https://m.media-amazon.com/images/I/51HpgYlwtaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJNPBTJ4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJNPBTJ4?tag=workcocoon-20",
     description:
       "The YOSUDA Pro runs magnetic resistance across 16 levels, tied for the most in this guide, and is rated under 10dB, the quietest pick here, well below the roughly 15dB threshold that feels nearly silent during a call. Bluetooth connects to Kinomap and Zwift, adding structured workout and route options beyond a basic tracking app.\n\nIts 3-in-1 design covers arms, legs, and resistance bands, and dual anti-slip gripper feet plus a non-slip mat keep it stable during use. At 17.9 lbs and shipping 95% pre-assembled, it strikes a strong balance between features and setup convenience for a max user weight of 220 lbs.\n\nA genuine advantage here is that 16 resistance levels, tied for the most in this guide. The tradeoff is 220 lb max user weight is lower than the DeskCycle V2.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "976",
     imageUrl: "https://m.media-amazon.com/images/I/41-ppoSRPiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B085DBBQM9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B085DBBQM9?tag=workcocoon-20",
     description:
       "The Exerpeutic 2000M is the only motorized pick in this guide, using an electric motor to move the pedals rather than requiring active pedaling effort from the user. A remote control on a 6-foot cord adjusts speed, and an automatic 15-minute timer keeps sessions simple to manage.\n\nFoldable pedals with adjustable straps work for arms as well as legs, and a floor mat comes included. Rated for users up to 286 lbs, it suits buyers recovering from an injury or anyone who wants passive movement rather than active pedaling.\n\nRemote control adjusts speed without bending down. On the other hand, passive motion is a different workout than active pedaling. Neither should be a surprise once you know to look for it.",
     specs: [

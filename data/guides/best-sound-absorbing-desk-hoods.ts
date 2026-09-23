@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31pH3EPb-mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=workcocoon-20",
     description:
       "A flat freestanding panel, not a hood, despite the brand name. It sets up on its own support feet beside your desk rather than arching over your workstation.\n\nThe realistic benefit is absorbing some reflected sound and reducing echo reaching your own microphone, not blocking outside noise the way an enclosed hood would.\n\nNo clamping needed. That's a real strength, but weigh it against the flip side: not a genuine hood, despite the brand name.",
     specs: ["Flat freestanding panel, not a canopy", "2-pack, 15.74 x 11.81 x 3.93 inches", "No published NRC rating", "No clamp required"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51xJuQn513L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00P1AJ9N8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00P1AJ9N8?tag=workcocoon-20",
     description:
       "A flat, desk-mounted aluminum panel, again not a canopy structure. It attaches to your desk edge and stands upright rather than arching over the workstation.\n\nVerify the mounting hardware fits your desk edge before ordering, and expect modest absorption near your desk, not genuine enclosure.\n\nWorth calling out specifically: office-standard aluminum finish. The catch is not a hood, verify mounting hardware fits your desk first.",
     specs: ["12\" x 24\" flat panel", "Almond/aluminum construction", "Desk-mounted, not a canopy", "No published NRC rating"],

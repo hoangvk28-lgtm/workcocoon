@@ -20,7 +20,7 @@ export const products: ProductReviewCardProps[] = [
     brand: "Macally",
     imageUrl: "https://m.media-amazon.com/images/I/4113h5+aQlL._SL500_.jpg",
     imageAlt: "Macally small wireless keyboard and mouse combo compact black 78-key",
-    affiliateUrl: "https://www.amazon.com/dp/B081549BN2?tag=deskfinds0d-20",
+    affiliateUrl: "https://www.amazon.com/dp/B081549BN2?tag=workcocoon-20",
     price: "~$30",
     style: "78-key mini layout keyboard + mouse combo · 2.4 GHz wireless via single USB dongle · Quiet click buttons · 3 DPI mouse modes · Windows and Mac compatible",
     pros: [
@@ -48,7 +48,7 @@ export const products: ProductReviewCardProps[] = [
     brand: "CHERRY",
     imageUrl: "https://m.media-amazon.com/images/I/41OX8TMK9iL._SL500_.jpg",
     imageAlt: "CHERRY XTRFY K33 compact wireless 75% mem-chanical keyboard white with RGB lighting",
-    affiliateUrl: "https://www.amazon.com/dp/B0GVTV6H5K?tag=deskfinds0d-20",
+    affiliateUrl: "https://www.amazon.com/dp/B0GVTV6H5K?tag=workcocoon-20",
     price: "~$50",
     style: "75% layout mem-chanical switches · Bluetooth + 2.4 GHz + wired USB-C · RGB lighting · IP54 dust and splash resistant",
     pros: [
@@ -76,7 +76,7 @@ export const products: ProductReviewCardProps[] = [
     brand: "ProtoArc",
     imageUrl: "https://m.media-amazon.com/images/I/41cGFGfjw8L._SL500_.jpg",
     imageAlt: "ProtoArc KM90-A backlit compact Bluetooth keyboard and mouse combo for Mac in space gray",
-    affiliateUrl: "https://www.amazon.com/dp/B0FM71WHJH?tag=deskfinds0d-20",
+    affiliateUrl: "https://www.amazon.com/dp/B0FM71WHJH?tag=workcocoon-20",
     price: "~$39",
     style: "Compact layout keyboard + mouse combo · Backlit keys · Bluetooth multi-device · Rechargeable · Optimized for MacBook Pro/Air and iPad",
     pros: [
@@ -104,7 +104,7 @@ export const products: ProductReviewCardProps[] = [
     brand: "Generic",
     imageUrl: "https://m.media-amazon.com/images/I/41KbDbgNNvL._SL500_.jpg",
     imageAlt: "Ultra-slim black Bluetooth wireless keyboard and mouse combo for tablets and phones",
-    affiliateUrl: "https://www.amazon.com/dp/B0C48RVVM4?tag=deskfinds0d-20",
+    affiliateUrl: "https://www.amazon.com/dp/B0C48RVVM4?tag=workcocoon-20",
     price: "~$18",
     style: "Ultra-slim compact layout + wireless mouse included · Bluetooth only · Rechargeable · iOS, Android, Windows, Mac, and tablet compatible",
     pros: [

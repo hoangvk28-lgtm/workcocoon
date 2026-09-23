@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 8,024 Amazon ratings",
     reviews: "8,024 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51MyIIIO4eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4SZ286V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4SZ286V?tag=workcocoon-20",
     description:
       "A very large review base with adjustable length and swivel angle, genuinely supporting a monitor on top with a laptop positioned below on the same surface, verified as real simultaneous support rather than ambiguous marketing.\n\nIf the laptop is meant to be used as a second screen while the monitor sits above, cable routing and viewing angle for this dual-device setup should be tested, this design's swivel angle helps with laptop screen visibility from a lower position.\n\nGenuinely verified simultaneous laptop and monitor support. That's a real strength, but weigh it against the flip side: verify combined weight rating against your specific laptop and monitor.",
     specs: ["Adjustable length and swivel angle", "Genuine simultaneous laptop and monitor support", "Very large review base", "White finish"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 3,764 Amazon ratings",
     reviews: "3,764 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51oe+oiyh9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09QWC568X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09QWC568X?tag=workcocoon-20",
     description:
       "Explicitly marketed across computer, laptop, printer, and TV use, a genuinely broad multi-purpose design with a large review base backing its versatility claims.\n\nDistinguish this combined product from simply buying a separate monitor riser plus a separate laptop stand, this unit's wood-and-steel surface area genuinely accommodates both device types side by side rather than one on top of the other.\n\nWorth calling out specifically: explicitly marketed for genuine laptop and monitor dual use. The catch is side-by-side placement may need more desk width than a stacked design.",
     specs: ["Wood and steel construction", "Explicitly multi-purpose: computer, laptop, printer, TV", "Large review base", "Rustic brown finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 3,827 Amazon ratings",
     reviews: "3,827 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414y-gW406L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07DJRLCFP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07DJRLCFP?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide with a large review base, genuinely capable of supporting a monitor while leaving desk space below for a laptop.\n\nCombined weight of a laptop plus monitor on the same structural piece should be verified against the point-load concerns established throughout monitor shelf research, verify the specific weight rating for your device combination.\n\nLarge, well-established review base. Set against that, not explicitly marketed for combined laptop-plus-monitor use. Both matter when comparing it to the other picks here.",
     specs: ["Dual monitor support with desk space below", "Most affordable pick in this guide", "Large review base", "Simple, solid design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,039 Amazon ratings",
     reviews: "1,039 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kGJBcPXkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C131DL82?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C131DL82?tag=workcocoon-20",
     description:
       "At 39 inches, genuinely the widest pick in this guide, explicitly marketed for computer, laptop, and TV use in a wooden desktop organizer shelf design.\n\nThis width genuinely helps accommodate a monitor and laptop side by side rather than forcing a stacked arrangement, verify this width suits your specific desk dimensions before buying.\n\nA genuine advantage here is that explicitly marketed for genuine laptop and monitor use. The tradeoff is requires more desk width than compact alternatives.",
     specs: ["39-inch width, widest in this guide", "Wooden construction", "Explicitly marketed for computer, laptop, TV", "Solid review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 316 Amazon ratings",
     reviews: "316 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41TLppPs1WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRHCKDVW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRHCKDVW?tag=workcocoon-20",
     description:
       "A solid review base with a frosted storage drawer in an oak finish, appropriate for a buyer wanting concealed storage alongside genuine monitor and laptop support.\n\nThe honest value comparison here is against buying a separate monitor riser and a separate laptop stand independently, this unit's added drawer storage is a genuine reason to choose the combined product over two separate purchases.\n\nFrosted drawer adds genuine concealed storage value. On the other hand, higher price than the basic combined picks in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["Oak finish, frosted storage drawer", "Genuine monitor and laptop support", "Solid review base", "Structural oak construction"],

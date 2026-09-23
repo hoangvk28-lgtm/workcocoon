@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "57 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ttLEqu0hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=workcocoon-20",
     description:
       "Explicitly marketed and sized for small to medium hands, which is a genuine differentiator in a category where most products are built around an average to large hand.\n\nThe review base is small, so weigh the very strong 4.7-star rating against the limited sample size and check current buyer feedback specifically on scroll wheel reach before buying.\n\nWorth calling out specifically: very strong review rating. The catch is small review sample size, verify current feedback.",
     specs: ["Explicit small/medium hand sizing", "57-degree tilt angle", "Wireless connectivity", "Budget price point"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A more compact body than the brand's full-size premium model, marketed with smaller hands in mind, backed by a large and consistent review base.\n\nThe scroll wheel position on this compact body has generally positive buyer feedback for reach, though we recommend checking current reviews for your specific hand size before assuming it's a perfect fit.\n\nLarge, consistent review base. Set against that, mid-to-premium price versus budget small-hand picks. Both matter when comparing it to the other picks here.",
     specs: ["Compact body", "Dual 2.4GHz and Bluetooth", "Rechargeable battery", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A budget option with a solid review base, offering a smaller overall footprint than the largest vertical mice in this category, though it isn't explicitly marketed toward small hands specifically.\n\nCheck current listing photos and buyer feedback for actual dimensions and scroll wheel reach before assuming a comfortable fit for your hand size.\n\nThe standout detail is that rechargeable battery. Balancing that out, not explicitly marketed as small-hand-specific.",
     specs: ["Compact wireless body", "Rechargeable built-in battery", "Budget-to-mid price point", "Solid review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "A mid-size body that a broad range of buyers, including some with smaller hands, report as comfortable, backed by a large and consistent review base.\n\nThis isn't marketed toward small hands specifically, so treat the mid-size fit as a reasonable middle ground rather than a guaranteed fit if your hands are notably smaller than average.\n\nRechargeable battery. That's a real strength, but weigh it against the flip side: not explicitly marketed or sized for small hands specifically.",
     specs: ["Mid-size body", "Rechargeable built-in battery", "2.4GHz wireless receiver", "Budget price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "181 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VQ8m4r1iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F4JNS3PX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F4JNS3PX?tag=workcocoon-20",
     description:
       "The lowest price in this guide, with a compact wired body and adjustable DPI, a genuine option for buyers with smaller hands who want to try a vertical grip without much financial commitment.\n\nIts 4.1-star rating is more moderate than the other picks here, so weigh the very low price against a smaller review sample and less established brand track record.\n\nCompact body suits smaller hands. On the other hand, more moderate 4.1-star rating than other picks. Both are worth keeping in mind before deciding.",
     specs: ["Wired USB connection", "Adjustable DPI", "Compact ergonomic body", "Ultra-budget price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "9,039 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41h3oxMYtPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=workcocoon-20",
     description:
       "A large review base for a reasonably sized wired body, backed by strong buyer feedback that suggests a comfortable fit across a broad range of hand sizes, including some smaller-handed buyers.\n\nThis isn't marketed toward small hands specifically, so treat it as a reasonable mid-size option rather than a guaranteed fit if your hands are notably smaller than average.\n\nA genuine advantage here is that no battery weight. The tradeoff is that not explicitly marketed or sized for small hands specifically.",
     specs: ["Wired USB connection", "Ergonomic vertical design", "No battery, lighter body", "Mid-range price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A low-cost wired pick with adjustable DPI and a strong review rating, offering a reasonably compact footprint for buyers who want to try a vertical grip without paying a premium.\n\nCheck current listing photos and buyer feedback for actual dimensions and scroll wheel reach before assuming a comfortable fit for smaller hands specifically.\n\nAdjustable DPI sensor. That said, not explicitly marketed as small-hand-specific. Neither should be a surprise once you know to look for it.",
     specs: ["Wired USB connection", "6400 DPI adjustable sensor", "Compact ergonomic body", "Budget price point"],

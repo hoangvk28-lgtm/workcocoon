@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "4,460",
     imageUrl: "https://m.media-amazon.com/images/I/51M6nLrVD8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CWQMZPJC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWQMZPJC?tag=workcocoon-20",
     description:
       "The SANSUI is both the cheapest and most-reviewed curved monitor in this entire guide, with 4,460 ratings backing a 1500R VA panel that runs at 200Hz. That's a genuinely fast refresh rate for the price, paired with 97% DCI-P3 and 130% sRGB coverage that outperforms what you'd expect at a competitive price. 3000:1 contrast, HDR support, and picture-in-picture/picture-by-picture modes round out a feature set that would be respectable even at double the price. It's the easiest recommendation in this guide for anyone trying curved ultrawide for the first time. 200Hz is fast for the price point. Set against that, no stated warranty length in the listing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -93,7 +93,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "245",
     imageUrl: "https://m.media-amazon.com/images/I/41HhRKN-D9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXS8J4Y5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXS8J4Y5?tag=workcocoon-20",
     description:
       "The VG34VQ3B steps up to 180Hz on the same 1500R curve as the SANSUI, and adds 4x USB 3.2 ports, the most of any monitor in this guide. That makes it a practical hub for a webcam, headset dongle, and external drive without reaching behind the PC.\n\nBuilt-in speakers and 90% DCI-P3 round out a monitor built for everyday use rather than a single specialty, and the 3-year warranty gives more long-term confidence than the budget SANSUI's unlisted coverage.\n\nA genuine advantage here is that 180Hz on the same curve radius as the cheaper SANSUI. The tradeoff is costs more than the SANSUI for a similar core spec sheet.",
     specs: [
@@ -125,7 +125,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "21",
     imageUrl: "https://m.media-amazon.com/images/I/41Vs0YWyaYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F237K67L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F237K67L?tag=workcocoon-20",
     description:
       "The FastIPS pick swaps VA for FastIPS, trading VA's deeper native contrast for more consistent, accurate color at wide viewing angles, a real advantage if you edit photos or video and want less color shift when looking at the screen from an angle. It also runs the fastest refresh rate among the non-OLED picks in this guide at 250Hz.\n\n4000:1 contrast is the highest among the IPS-type panels here, closing much of the gap with VA, and 95% DCI-P3 keeps color output competitive with the pricier picks in this list. Its 1500R curve matches the VA panels above it.\n\nHighest contrast among IPS-type panels in this guide. On the other hand, smallest review sample in this guide at only 21 reviews. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -157,7 +157,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "604",
     imageUrl: "https://m.media-amazon.com/images/I/41um0FZCuPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZL719V1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZL719V1?tag=workcocoon-20",
     description:
       "The AW3425DWM is the highest-rated monitor in this entire guide at 4.6 stars, combining a 1500R curved VA panel with 180Hz, 95% DCI-P3, and the only dedicated console mode among the picks here. That console mode alone sets it apart if your setup mixes PC and console gaming.\n\n3000:1 contrast and 1ms GtG keep motion clean, and the height-adjustable stand plus 3-year warranty round out a monitor built to be a long-term daily driver rather than a short-term upgrade.\n\nOnly monitor in this guide with a dedicated console mode. That's a real strength, but weigh it against the flip side: still VA, not the deeper native blacks of the QD-OLED picks here.",
     specs: [
@@ -189,7 +189,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "467",
     imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=workcocoon-20",
     description:
       "The Dell 34 Plus posts the fastest response time in this entire guide at 0.03ms on a 1500R curved VA panel, alongside 99% sRGB and 95% DCI-P3 coverage that beats every other VA pick here. USB-C at 65W lets it charge a connected laptop while driving the display over a single cable. Dell's Premium Panel warranty adds coverage for dead pixels beyond a typical manufacturer warranty, a detail that matters more on a curved panel than buyers usually expect, and its 120Hz refresh rate is a comfortable middle ground for both productivity and casual gaming. Worth calling out specifically: uSB-C 65W for single-cable laptop charging and display. The catch is 120Hz is the lowest refresh rate among the lower-priced picks here.",
     specs: [
@@ -221,7 +221,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "332",
     imageUrl: "https://m.media-amazon.com/images/I/41ntQSLkfRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F6724X5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F6724X5N?tag=workcocoon-20",
     description:
       "The AW3425DW steps up to QD-OLED and a gentler 1800R curve radius, a noticeably softer bend than the 1500R VA panels earlier in this list, and still 34 inches. That gentler curve suits sitting slightly farther back or doing color-critical work where straight-line accuracy matters more than an aggressive wraparound feel.\n\n1,500,000:1 contrast and 240Hz make it the best value QD-OLED in this guide relative to its refresh rate, and 99.3% DCI-P3 plus dual G-Sync and FreeSync Premium Pro support round out a genuinely premium spec sheet at a price well below the 49-inch QD-OLED pick above it.\n\nGentler 1800R curve suited to editing work or sitting farther back. Set against that, over double the price of the VA picks in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -253,7 +253,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,230",
     imageUrl: "https://m.media-amazon.com/images/I/41Q8Bq+heNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDQMQQS2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDQMQQS2?tag=workcocoon-20",
     description:
       "The Odyssey G93SC is the largest curved screen in this entire guide at 49 inches, and its 1800R curve has to wrap around considerably more width than any other pick here, which is part of why the gentler radius works better at this size than a tighter 1000R or 1500R curve would. It's also the most-reviewed 49-inch pick in this guide by a wide margin.\n\n240Hz, 1,000,000:1 contrast, and 99% DCI-P3 keep it competitive with the 34-inch QD-OLED pick above despite the much larger canvas, and picture-by-picture mode makes good use of the extra width by running two sources side by side.\n\nA genuine advantage here is that most-reviewed 49-inch pick in this guide. The tradeoff is needs meaningfully more desk depth than any other pick in this guide.",
     specs: [

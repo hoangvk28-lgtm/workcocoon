@@ -46,7 +46,7 @@ export const products: MechKeyboard100[] = [
     keycaps: "Double-shot",
     imageUrl:
       "https://m.media-amazon.com/images/I/41Lei8oGwfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F38DZG3J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F38DZG3J?tag=workcocoon-20",
     whyItWorks:
       "The Aula F108 Pro is the only full-size, 104-key option in this guide, which matters for buyers who rely on a dedicated number pad for spreadsheet or accounting work rather than the TKL and 75% layouts the rest of this list favors. An 8000mAh battery is roughly double the capacity of the RK84's 4000mAh cell, and the built-in screen displays battery level, connection mode, and basic customization feedback without needing companion software running in the background. Hot-swappable sockets and a knob for quick volume or media control round out the feature set at just under $90.\n\nTriple connectivity (Bluetooth, 2.4GHz, and wired) covers most desk setups, and the RGB backlighting is fully programmable through the board's own controls. The main tradeoff against the 75% and TKL boards elsewhere in this guide is desk footprint: a full-size 104-key layout takes up several extra inches of desk width that a TKL or 75% board would free up.",
     tradeoffs: [
@@ -82,7 +82,7 @@ export const products: MechKeyboard100[] = [
     keycaps: "Round retro-style keycaps",
     imageUrl:
       "https://m.media-amazon.com/images/I/51BdRltoxHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LNFY8Y7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LNFY8Y7?tag=workcocoon-20",
     whyItWorks:
       "This is the only board in this guide built around a typewriter aesthetic, with round retro-profile keycaps and an RGB backlit case designed to stand out visually rather than to chase gasket-mount comfort or hot-swap flexibility. At under $40 it undercuts every other option on this list on price, which makes it a reasonable pick for buyers who want the mechanical-keyboard look and feel for a desk display or lighter-use setup without spending $50 or more.\n\nBlue switches mean an audible click on every keystroke, the same tradeoff flagged elsewhere in this guide's FAQ for anyone sharing a room or taking video calls. The tray mount and lack of hot-swap keep this firmly in budget-novelty territory rather than a daily-driver upgrade pick, but for the specific retro-look use case it fills a niche none of the other picks in this guide address.",
     tradeoffs: [
@@ -118,7 +118,7 @@ export const products: MechKeyboard100[] = [
     keycaps: "PBT",
     imageUrl:
       "https://m.media-amazon.com/images/I/41v3KhzCFRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGGZK4X7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGGZK4X7?tag=workcocoon-20",
     whyItWorks:
       "The ROG Strix Scope II X pairs factory pre-lubed ROG NX Snow V2 linear switches with hot-swap sockets and PBT keycaps, a combination that puts it near the top of this guide's feature list for buyers who want a full-size wired board with a premium switch feel out of the box. Pre-lubed switches mean smoother keystrokes without the aftermarket lubing process some enthusiasts do themselves on cheaper boards, and the gasket-mounted design with sound dampening foam is aimed at reducing the hollow, clacky resonance common on tray-mount boards at this price.\n\nAt just under $95, it is priced close to the ceiling of this guide's under-$100 range, competing directly with the Keychron V1 and Epomaker TH80 Pro for the higher end of the budget. The full-size 100% layout, rather than the 75% layout of the V1 and TH80 Pro, is the deciding factor for buyers who need a dedicated number pad and are willing to trade the smaller footprint for it.",
     tradeoffs: [
@@ -153,7 +153,7 @@ export const products: MechKeyboard100[] = [
     mount: "Tray mount",
     keycaps: "ABS",
     imageUrl: `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-redragon-k552.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B016MAK38U?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B016MAK38U?tag=workcocoon-20",
     whyItWorks:
       "The Redragon K552 has been the standard entry-level mechanical keyboard on Amazon since 2015. Tens of thousands of verified reviews. Metal top frame adds rigidity unusual at this price. Outemu switches are Cherry MX-compatible - keycap replacements work without modification. For a first mechanical keyboard under $35 with a proven track record, no competing option has more documented reliability.",
     tradeoffs: [
@@ -191,7 +191,7 @@ export const products: MechKeyboard100[] = [
     mount: "Gasket mount",
     keycaps: "ABS double-shot",
     imageUrl: `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-keychron-c3-pro.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CRDKQNQ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRDKQNQ5?tag=workcocoon-20",
     whyItWorks:
       "Gasket mount, QMK/VIA programmability, and hot-swap 3/5-pin socket at $40 - a feature set that cost $120+ three years ago. QMK/VIA lets you remap any key using a free browser interface in under 5 minutes - changes persist on the keyboard. Hot-swap means switching from Blue to Brown costs $15-25 in replacement switches and 15 minutes, no soldering. The benchmark for budget mechanical keyboards in 2026.",
     tradeoffs: [
@@ -227,7 +227,7 @@ export const products: MechKeyboard100[] = [
     mount: "Tray mount",
     keycaps: "PBT double-shot dye-sub",
     imageUrl: `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-akko-3087-horizon-ds.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B099F3DPBZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B099F3DPBZ?tag=workcocoon-20",
     whyItWorks:
       "Cherry-profile PBT double-shot keycaps ship with the board - aftermarket equivalents cost $40-60 separately. Akko CS switches come factory pre-lubed, delivering a smoother feel than the Outemu switches found in most boards at this price. Detachable USB-C cable means a damaged cable is a $5 replacement rather than a repair. The Horizon colorway (blue gradient) is a distinctive aesthetic option.",
     tradeoffs: [
@@ -263,7 +263,7 @@ export const products: MechKeyboard100[] = [
     mount: "Tray mount",
     keycaps: "ABS double-shot",
     imageUrl: `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-rk-royal-kludge-rk84.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08M3KPXV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08M3KPXV5?tag=workcocoon-20",
     whyItWorks:
       "Triple-mode wireless (BT 5.0, 2.4GHz, and USB-C) with Bluetooth pairing for 3 devices simultaneously. 4000mAh battery provides 3-6 months of daily use with backlight off, or 1-3 weeks with RGB. The 75% layout retains the F-row and dedicated arrow keys while being 1.5 inches narrower than TKL - the best office compromise for cable-free desks. Hot-swap on a wireless board at this price is uncommon.",
     tradeoffs: [
@@ -301,7 +301,7 @@ export const products: MechKeyboard100[] = [
     mount: "Double-gasket mount",
     keycaps: "PBT double-shot",
     imageUrl: `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-keychron-v1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09NLWG6X1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09NLWG6X1?tag=workcocoon-20",
     whyItWorks:
       "Double-gasket mount, PBT double-shot keycaps, QMK/VIA programmability, and hot-swap 3/5-pin sockets in a 75% form factor. Double-gasket is two layers of silicone dampening - softer and bouncier typing feel than single-gasket designs. The difference is most apparent during 1-2+ hour typing sessions. PBT double-shot legends are a second layer of plastic, not ink or dye - they cannot fade. Most recommended wired mechanical keyboard under $100 for home office daily use.",
     tradeoffs: [
@@ -337,7 +337,7 @@ export const products: MechKeyboard100[] = [
     mount: "PCB-mount with silicone foam",
     keycaps: "PBT double-shot",
     imageUrl: `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-hero.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BML2S3PQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BML2S3PQ?tag=workcocoon-20",
     whyItWorks:
       "Adds three features the RK84 lacks: PBT double-shot keycaps, a physical volume knob, and south-facing RGB LEDs. South-facing LEDs shine through the front of keycaps rather than directly into the user's eyes - more visible legends under the light. Silicone dampening foam reduces hollow resonance. Gateron Pro switches are factory pre-lubed. For wireless buyers who want PBT keycaps plus volume knob plus best feature set under $100, this is the pick.",
     tradeoffs: [

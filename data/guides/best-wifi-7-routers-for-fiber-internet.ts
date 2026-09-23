@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "A genuine 10G port alongside a 2.5G port, appropriate for fiber plans exceeding 1Gbps where a gigabit-only WAN port would otherwise become the real bottleneck.\n\nVerify your specific ISP's fiber plan speed against this router's 10G port capability, and confirm whether your ISP requires PPPoE or VLAN tagging, since not every router supports these configurations out of the box.\n\n320MHz channel width for real wireless headroom on clean spectrum. That said, achieving full multi-gig speed also requires a matching client-device adapter. Neither should be a surprise once you know to look for it.",
     specs: ["10G port + 2.5G port + 3x 2.5G LAN", "Genuine tri-band with 6GHz radio", "320MHz channel width support", "6-stream, BE9700 combined rating"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "92 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41iU+ggyo7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=workcocoon-20",
     description:
       "A newer Wi-Fi 7 chipset generation router appropriate for fiber households wanting the latest hardware, though verify its specific WAN port speed against your actual fiber plan before assuming it avoids a bottleneck.\n\nA router's own CPU-governed NAT and routing throughput ceiling can bottleneck real speed even with an adequate port, worth checking real-world routing throughput reports rather than the port spec alone.\n\nWorth calling out specifically: high 4.3-star rating despite a smaller review sample. The catch is smaller review base limits real-world routing throughput reports.",
     specs: ["Genuine tri-band with 6GHz radio", "BE12000 combined rating", "New Wi-Fi 7 chipset generation", "High 4.3-star rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "402 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31p9QTW8zYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D55SWRSM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D55SWRSM?tag=workcocoon-20",
     description:
       "Dual 10G ports rated up to 7.2 Gbps, appropriate for buyers on high-tier fiber plans wanting genuine multi-gig WAN capability plus flexibility to configure one port as WAN and one as a fast LAN uplink.\n\nMesh compatible for future whole-home expansion, though confirm your specific ISP allows using owned equipment as sole gateway rather than requiring their own hardware in the path.\n\nMesh compatible for future whole-home expansion. Set against that, higher price appropriate mainly for buyers on high-tier fiber plans. Both matter when comparing it to the other picks here.",
     specs: ["Dual 10G ports", "Up to 7.2 Gbps rated", "Mesh compatible", "ASUS ecosystem and firmware"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "503 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416sP+jL17L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=workcocoon-20",
     description:
       "2x10G plus 4x2.5G ports give this router the most wired headroom in this guide, appropriate for very high-tier fiber plans and households with multiple wired devices needing simultaneous multi-gig throughput.\n\nA router's own NAT and routing throughput ceiling is CPU-governed, worth checking real-world routing benchmarks for this model rather than assuming the port specs alone guarantee full fiber-speed throughput.\n\nThe standout detail is that 4x 2.5G ports for multiple simultaneous multi-gig wired devices. Balancing that out, more moderate 4.0-star rating, verify recent reviews.",
     specs: ["2x 10G + 4x 2.5G ports", "Genuine tri-band with 6GHz radio", "12-stream, BE19000 combined rating", "Highest port count in this guide"],

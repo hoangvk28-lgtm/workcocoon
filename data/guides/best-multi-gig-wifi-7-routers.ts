@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 977 Amazon ratings",
     reviews: "977 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31aDV5B5NkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FB8X43KJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FB8X43KJ?tag=workcocoon-20",
     description:
       "Decoded: this is specifically 2.5GbE across all five ports, not 5GbE or 10GbE, five 2.5G ports gives genuine flexibility to designate multiple ports as LAN for internal high-speed transfers.\n\nWith five identical 2.5G ports rather than one distinct WAN port, port role assignment is flexible here, verify current firmware documentation for how WAN/LAN roles are configured on this model.\n\nFive ports allow flexible WAN/LAN role assignment. That said, no 10GbE for buyers who specifically need it. Neither should be a surprise once you know to look for it.",
     specs: ["2.5GbE across 5 ports (decoded)", "Flexible port role assignment", "VPN-focused firmware", "Solid review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,325 Amazon ratings",
     reviews: "1,325 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "Decoded: 2.5Gbps across two dedicated ports, by far the largest review base of any pick in this guide, a genuinely proven affordable entry into multi-gig wired speed.\n\nMost home internet plans remain under 1Gbps even where multi-gig LAN exists for internal use, this pick's dual 2.5G ports are genuinely useful for internal transfers even if your internet plan doesn't need that speed yet.\n\nWorth calling out specifically: affordable entry point into genuine multi-gig speed. The catch is only 2.5GbE, not 5GbE or 10GbE.",
     specs: ["2.5Gbps across 2 ports (decoded)", "Quad-core CPU", "Rated for 2,400 sq ft, 90 devices", "Largest review base in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 647 Amazon ratings",
     reviews: "647 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21jixzpoeiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK7Q5SCN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK7Q5SCN?tag=workcocoon-20",
     description:
       "Decoded: a distinct 2.5 Gigabit internet (WAN) port, clearly labeled for fast internet plans specifically, an established Nighthawk brand backing genuine sustained throughput at this port speed.\n\nReal achieved multi-gig throughput depends on router CPU capability, not just port presence, this router's established processing capability genuinely supports the sustained speed its port spec implies.\n\nEstablished brand backing genuine sustained CPU-supported throughput. Set against that, higher price than budget multi-gig entry points. Both matter when comparing it to the other picks here.",
     specs: ["2.5 Gigabit WAN port (decoded, internet-specific)", "9.3Gbps wireless speed, tri-band", "Rated for 2,500 sq ft, 100 devices", "Established Nighthawk brand"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 472 Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "Decoded: genuinely one 10G port plus a separate 2.5G port and three 2.5G LAN ports, distinct speed tiers clearly worth understanding individually rather than one blanket 'multi-gig' claim.\n\nThe 10G port is typically the WAN-capable port here, while the 2.5G LAN ports serve internal transfers, verify the current documentation for exactly which port serves which purpose on your specific setup.\n\nThe standout detail is that full 320MHz 6GHz channel width. Balancing that out, higher price than pure 2.5GbE multi-gig picks.",
     specs: ["10G port plus 2.5G port and 3×2.5G LAN (decoded, mixed tiers)", "320MHz full 6GHz channel width", "Rated for 2,600 sq ft, 120 devices", "Solid review base"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "243 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41xAYtEPScL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D28PWFMS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D28PWFMS?tag=workcocoon-20",
     description:
       "A compact 17 by 13 inch metal display stand with 12 hooks, sized for a vendor table at a craft show rather than a home desk, and built for showcasing small items like jewelry or accessories for sale.\n\nThe clean white finish and solid 4.6-star rating across a substantial review base make this a reliable choice for a first-time vendor stocking a booth display.\n\nA genuine advantage here is that 12 included hooks cover a realistic small booth display. The tradeoff is that not designed for home desk cable or accessory organization.",
     specs: ["17 x 13 inch tabletop stand", "12 hooks included", "Metal construction", "White finish"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "243 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/511s8JMkbmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D28G6X4W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D28G6X4W?tag=workcocoon-20",
     description:
       "The same 17 by 13 inch metal display stand as the white version, in a black finish that suits darker or more premium-feeling product displays like jewelry or craft goods.\n\nSame 12-hook layout and the identical strong 4.6-star rating, the choice between this and the white version comes down entirely to which finish complements your specific products.\n\nBlack finish suits darker or premium product displays. That said, not designed for home desk cable or accessory organization. Neither should be a surprise once you know to look for it.",
     specs: ["17 x 13 inch tabletop stand", "12 hooks included", "Metal construction", "Black finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "378 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51HfN7wt6vL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP15DGV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP15DGV5?tag=workcocoon-20",
     description:
       "A two-piece set with 20 hooks total specifically suited to keychain or small-item displays, giving more hanging capacity and the flexibility of two separate stands rather than one fixed unit.\n\nWith a strong review base of nearly 400 ratings, this is a proven pick for vendors specifically selling small hanging items like keychains, charms, or similar accessories.\n\nWorth calling out specifically: 20 total hooks suit high-volume small-item inventory. The catch is higher price than the single-stand options.",
     specs: ["2 stands included", "20 hooks total", "Black finish", "Keychain-focused hook design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "146 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Y4wFudmPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBHJ71VB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBHJ71VB?tag=workcocoon-20",
     description:
       "A set of four 12 by 16 inch metal display panels, giving substantially more total display area than the single or double-stand options, appropriate for vendors with a larger booth or retail counter to fill.\n\nThe four-panel set allows arranging displays across a wider table or splitting inventory categories visually, a genuine advantage for a bigger jewelry or accessories booth setup.\n\nMetal build holds up to repeated booth setup and teardown. Set against that, highest price in this list. Both matter when comparing it to the other picks here.",
     specs: ["4 panels, 12 x 16 inches each", "Metal construction", "Black finish", "Jewelry and retail accessory focus"],

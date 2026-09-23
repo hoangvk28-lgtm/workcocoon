@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The DCP-L2640DW is a monochrome laser built for reliable, high-volume printing, and laser toner produces sharp, smudge-proof addresses on envelopes that won't run if they get slightly damp in transit, unlike inkjet. Its multi-function design adds copy and scan for a small business handling mail alongside other paperwork.\n\nBusiness envelope printing benefits from laser's speed and toner durability, but check your manual for the correct envelope loading orientation and any driver-level offset adjustment before a large mailing run, since laser printers still jam on envelopes if the flap orientation or feed guides are wrong.\n\nFast, reliable for high-volume business mail. That's a real strength, but weigh it against the flip side: no color output.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "The HL-L2405W strips down to print-only, which keeps the price lower than the DCP model above while retaining laser's smudge-proof toner advantage for envelope addressing. It is a good fit for a small business or home office that just needs reliable envelope and letter printing without scan or copy functions.\n\nAs a print-only laser, its envelope tray is single-sheet feed only in most configurations, so it suits lower-volume mailing better than a high-throughput business mail operation. Check the manual's diagram for correct flap orientation before your first print run.\n\nWorth calling out specifically: smudge-proof toner for envelope addresses. The catch is no scan or copy.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 is a budget color inkjet all-in-one with an automatic document feeder, useful if envelope printing is only one part of your mailing and paperwork routine. Business #10 envelopes are the most commonly supported size on compact inkjets like this one.\n\nAddress print alignment on inkjet AIOs like this typically needs a manual offset adjustment in the driver settings the first time you print an envelope, since default margins are calibrated for standard letter paper, not envelope dimensions. Check A2 or A7 invitation-size support in the manual before assuming compatibility beyond #10.\n\nADF useful beyond envelope printing. Set against that, manual offset adjustment often needed for alignment. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 is the lowest-cost pick in this list and handles occasional envelope printing for personal invitations and holiday cards through its standard tray. Color inkjet is the right choice when you want a decorative colored address or return-address design rather than plain black text.\n\nLoad envelopes flap-side matching the tray's printed diagram exactly, since inkjet AIOs in this price range are unforgiving about orientation, and double-check the printer's supported envelope size list before ordering invitation-size stationery in bulk.\n\nA genuine advantage here is that color printing for decorative invitation addressing. The tradeoff is envelope orientation must be exact to avoid jams.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 covers print, scan, and copy for buyers who need envelope printing plus general document work in one machine. A 3-month Instant Ink trial is included, and its color inkjet engine works for decorative or business envelope printing alike.\n\nHP's HP Smart app walks through the envelope alignment offset step by step during first setup, which makes calibration easier than manually digging through driver menus on some competing printers. Confirm envelope size compatibility for anything beyond standard #10 before buying for invitation-size mail.\n\nGood for mixed envelope and document printing. On the other hand, ink cost rises after the Instant Ink trial ends. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "The HL-L3220CDW is the only true color laser in this list, delivering fast 19 PPM output with toner-based color that survives handling better than inkjet for professional business envelopes with a printed logo or colored return address. Its 250-sheet tray handles a full day of mail without frequent refills.\n\nThis is the highest-cost pick here, and its size and price only make sense for a business mailing envelopes regularly enough to need color branding at speed. Check Brother's documented envelope feed path and loading diagram before a first large run.\n\nFast 19 PPM output speed. That's a real strength, but weigh it against the flip side: highest price in this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GFXE7NdOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00K5UZO0Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00K5UZO0Q?tag=workcocoon-20",
     description:
       "The imageCLASS LBP6030w is a print-only compact laser at 19 PPM, a budget-friendly way to get toner's smudge-proof reliability for envelope addressing without paying for scan or copy functions you may not need. Its straightforward single-function design keeps setup simple.\n\nAs a compact single-function laser, verify its documented envelope size support and loading orientation before your first run, since compact laser trays vary in how forgiving they are about envelope thickness and flap position.\n\nWorth calling out specifically: compact footprint. The catch is print only, no scan or copy.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520 adds a 1.42-inch OLED display that makes it easier to select envelope mode and confirm settings before printing, reducing the trial-and-error many buyers go through on menu-only inkjets. It supports duplex printing and standard business envelope sizes.\n\nThe intuitive control panel helps with the offset calibration step for address alignment, though invitation or A2/A7 size support should still be checked against the spec sheet before ordering specialty stationery, since compact inkjets vary in which sizes they accept.\n\nDuplex printing support. Set against that, invitation-size envelope support not guaranteed. Both matter when comparing it to the other picks here.",
     specs: [

@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 433 Amazon ratings",
     reviews: "433 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31U1NGkx4qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGQPHDBM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGQPHDBM?tag=workcocoon-20",
     description:
       "The largest review base of any pick in this guide with a genuinely disclosed 77-pound capacity, meaningfully higher than most white mounts on the market, this shares the same core adjustable clamp structure covered in the broader under-desk mount material research rather than representing separate white-specific engineering.\\n\\nA white mount tucked under a desk in a dim space can actually be more visible than a black one against dark shadows and cables, an aesthetic tradeoff worth weighing if you specifically want this accessory to stay unnoticed rather than blend into a lighter-colored desk interior.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the Under Desk PC Mount before deciding.\n\nWorth knowing before you decide: Genuinely disclosed 77lb capacity, well above most competitors. On the other side, White finish is genuinely less discreet than black in a dark under-desk space. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 77lbs load capacity","Adjustable computer tower holder","Largest review base in this guide","White finish"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 36 Amazon ratings",
     reviews: "36 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419ye650cxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQSS7YDX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQSS7YDX?tag=workcocoon-20",
     description:
       "Explicitly fits 3 fixed desk leg sizes, a genuine versatility advantage for buyers unsure of their exact desk leg dimensions or planning to move the mount to a different desk in the future.\\n\\nColor-matching motivation matters here, if your desk is already white or light-colored furniture, this mount's white finish genuinely blends in visually rather than standing out as a mismatched dark accessory against a lighter desk frame.\n\nSet against the Heavy Duty Under Desk PC Holder, Up to 77 lbs Load Capacity, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Solid review base and rating. On the other side, Smaller review base than the top pick. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Fits 3 fixed desk leg sizes","White finish","Solid review base","CPU holder under-desk design"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 80 Amazon ratings",
     reviews: "80 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lQbs8TW9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GHMXC54Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GHMXC54Q?tag=workcocoon-20",
     description:
       "The white variant of a no-drill design sharing the same disclosed 50-pound capacity as its black counterpart, confirming this genuinely is the same underlying structural product with just a different coating.\\n\\nAvailability and price parity with the black variant was confirmed here, this white version carries the same price as the identical black product, no specialty-color premium found for this specific listing.\n\nRelative to the Under Desk PC Mount, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: No price premium confirmed versus the black color option. On the other side, Lower average rating than the top picks in this guide. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["50lb weight capacity","No drilling required","White finish, same as black variant","No price premium versus black"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 46 Amazon ratings",
     reviews: "46 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+gGe7234L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVD4QZ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVD4QZ6?tag=workcocoon-20",
     description:
       "A genuinely high 66-pound weight rating in white, appropriate for a heavier full-tower case where capacity matters more than the discretion tradeoff of choosing a lighter color for a typically hidden accessory.\\n\\nThe fits range of 16.1 to 25.6 inches targets taller full-tower cases specifically, verify your case height falls within this range, this is the same product line covered in our broader no-screw mount research, confirming consistent structural quality regardless of color.\n\nCompared with the TOPSKY Under Desk PC Mount above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Explicitly disclosed weight rating, not a vague claim. On the other side, Smaller review base than the top picks in this guide. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Max 66lbs weight capacity","Fits 16.1-25.6 inch tall cases","White finish","Higher price for higher capacity"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 7 Amazon ratings",
     reviews: "7 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41nnlE-s2-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GX68WXL3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GX68WXL3?tag=workcocoon-20",
     description:
       "The lowest price in this guide with a clamp-on design explicitly marketed for standing desks, a genuine consideration if your desk changes height and needs a mount rated for that repeated movement.\\n\\nWith only 7 reviews, this carries limited real-world evidence of long-term white-finish durability despite the perfect rating, treat this as a promising budget option rather than a heavily proven pick.\n\nSet against the monTEK Under Desk PC Mount, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Explicitly designed for standing desk height changes. On the other side, Very small review base, weigh the perfect rating with appropriate caution. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Clamp-on design for standing desks","Lowest price in this guide","White finish","Small but perfect review sample"],

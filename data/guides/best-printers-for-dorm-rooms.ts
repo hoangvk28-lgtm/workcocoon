@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The Canon PIXMA TS4320 packs printing, copying, and scanning into a compact wireless body that fits the edge of a dorm desk without eating your whole workspace. Duplex printing helps stretch a limited paper supply across a semester of assignments.\n\nSetup uses Canon's standard wireless pairing, which works on most personal-hotspot or WPA2-Personal networks without extra steps. If your dorm runs enterprise wifi, plan on a USB cable as a fallback the first time you connect, since consumer printers like this one are not built to authenticate against WPA2-Enterprise logins directly.\n\nDuplex printing saves paper. Set against that, no direct WPA2-Enterprise login support. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520 adds a 1.42-inch OLED display and a more intuitive control panel over the base TS4320, which matters when a roommate who has never used the printer before needs to figure it out without asking you every time. It still keeps the same compact, duplex-capable design suited to a dorm desk.\n\nBecause it shares the same Canon wireless stack, expect the same WPA2-Enterprise limitation as other consumer inkjets in this list. A phone hotspot or a one-time USB connection to add it to your laptop's printer list is the reliable workaround on campus networks that block direct device pairing.\n\nA genuine advantage here is that duplex printing built in. The tradeoff is costs more than the base TS4320.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "HP markets the DeskJet 4355 as a best-for-home pick, and its scan, copy, and print combo in one compact body covers the core dorm workload without extra bulk. A 3-month Instant Ink trial is included, which offsets some of the early cartridge cost while you figure out your actual print volume.\n\nAfter the trial period, standard HP ink pricing applies, so it is worth calculating your real semester page count before deciding whether to keep the subscription. For a dorm printer that mostly sits idle for weeks at a time, a subscription that ships ink whether you use it or not is not automatically the cheaper option.\n\nCompetitive price for a full all-in-one. On the other hand, instant Ink subscription cost applies after the trial. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 is the only pick in this list with a built-in auto document feeder and fax, which matters if a professor requires scanning a multi-page packet or a signed form rather than a single sheet. Feeding pages one at a time on a flatbed-only scanner gets old fast during finals week.\n\nMobile printing support lets you send documents straight from a phone, useful when your laptop is already tied up with an assignment. It carries the same wireless setup expectations as other consumer printers in this list, so plan on a personal hotspot or USB fallback on enterprise campus networks.\n\nBuilt-in fax for signed forms. That's a real strength, but weigh it against the flip side: larger footprint than flatbed-only models.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-ZgpCGxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=workcocoon-20",
     description:
       "The PIXMA TS3720 strips down to basic home printing in the smallest, lightest body in this list, which is exactly what matters when you are packing a car for the fourth time in four years. Less bulk means less risk of cracking a scanner lid or feed tray during a move-out weekend.\n\nIt trades away the document feeder and higher-end display found on pricier picks, so it suits students whose printing needs are mostly single-page essays and forms rather than scanning-heavy coursework.\n\nWorth calling out specifically: lowest price among the full all-in-ones here. The catch is no auto document feeder.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31BXOlNqjZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010A7TZ76?tag=workcocoon-20",
     description:
       "The Pixma MG3620 leans on strong mobile and tablet printing support, useful if you draft most assignments on a phone or iPad rather than a laptop. It still handles the standard print, scan, and copy trio in a black finish that hides fingerprints better than white models.\n\nIt costs noticeably more than the other inkjets here for a similar core feature set, so it makes the most sense if mobile printing convenience is genuinely a priority rather than an occasional nice-to-have.\n\nBlack finish hides smudges better. Set against that, highest price among the inkjet picks in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51zPjelEtML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=workcocoon-20",
     description:
       "This inkless thermal printer supports full 8.5x11-inch US Letter and A4 paper over Bluetooth, and because it uses heat-sensitive thermal paper instead of ink cartridges, it sidesteps the summer dry-out problem entirely, there is no cartridge to dry out in the first place. Its small, light body is the easiest printer in this list to tuck into a moving box or a backpack.\n\nThe tradeoff is print quality and permanence, thermal prints fade over time and are strictly black-and-white, so this is a backup or emergency printer rather than a primary one for a full course load. It is a genuinely useful second option for a student who mostly relies on campus printing but wants something in the room for a quick page in a pinch.\n\nA genuine advantage here is that extremely light and packable for moves. The tradeoff is thermal prints fade over time.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314c84l3lcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=workcocoon-20",
     description:
       "The TS6420 sits at the top of this list's price range but delivers the most complete feature set, wireless all-in-one printing with a black finish and the fuller control layout Canon's higher tier models use. It is the pick to consider if three or four roommates plan to split the cost and share one printer for the whole year.\n\nAt this price, run the four-year total cost of ownership math before buying, printer plus ink over four years against what your campus charges per semester for library or lab printing. For light printers, buying isn't always the cheaper option, but for a shared room that prints often, splitting this cost across roommates usually wins.\n\nGood candidate for roommate cost-splitting. On the other hand, highest price in this list. Neither should be a surprise once you know to look for it.",
     specs: [

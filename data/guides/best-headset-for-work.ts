@@ -44,7 +44,7 @@ export const products: WorkHeadset[] = [
     weight: "Not specified by manufacturer",
     score: "8.6/10",
     imageUrl: "https://m.media-amazon.com/images/I/41e6a-zo3zL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4QGJ5LQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4QGJ5LQ?tag=workcocoon-20",
     whyItWorks:
       "Tri-mode connectivity covers 2.4GHz dongle, Bluetooth, and a wired 3.5mm fallback, so it pairs with a work laptop, a phone, and a wired backup device without buying separate hardware. Rated for 40+ hours on a charge, longer than every wireless pick in this guide. 50mm drivers deliver clear voice reproduction for calls even though the headset is marketed toward gaming rather than office use.",
     tradeoffs: [
@@ -78,7 +78,7 @@ export const products: WorkHeadset[] = [
     weight: "Not specified by manufacturer",
     score: "8.4/10",
     imageUrl: "https://m.media-amazon.com/images/I/41TSn76LbZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4ND25FT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4ND25FT?tag=workcocoon-20",
     whyItWorks:
       "Dual 3.5mm and USB connectivity means it works on a laptop with either jack type, and USB mode adds 7.1 surround processing on top of tuned 50mm drivers. The boom mic detaches entirely, useful if you want to use the headphones for music without a mic arm in the frame during video calls. Priced under $40, the lowest-cost wired option in this guide besides the H390.",
     tradeoffs: [
@@ -112,7 +112,7 @@ export const products: WorkHeadset[] = [
     weight: "Not specified by manufacturer",
     score: "8.3/10",
     imageUrl: "https://m.media-amazon.com/images/I/41e+IoMn2uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GFDWXFJW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GFDWXFJW?tag=workcocoon-20",
     whyItWorks:
       "Marketed specifically for work use, with Bluetooth connectivity and a noise-cancelling mic aimed at video calls rather than gaming. At roughly $70 it sits in the same price band as the Logitech Zone Vibe 125, positioning it as a direct budget-wireless competitor for remote workers.",
     tradeoffs: [
@@ -145,7 +145,7 @@ export const products: WorkHeadset[] = [
     weight: "250g",
     score: "8.0/10",
     imageUrl: "https://m.media-amazon.com/images/I/41RG7y-pLeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FKTFMH2F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FKTFMH2F?tag=workcocoon-20",
     whyItWorks:
       "At under $20 this is the least expensive pick in this guide, and it still covers the basics well: a unidirectional mic for clearer voice pickup, soft memory-foam earmuffs, and a 250g build that stays comfortable through a full workday. A simple 3.5mm jack means it works on any device with a headphone port, no drivers or pairing required.",
     tradeoffs: [
@@ -179,7 +179,7 @@ export const products: WorkHeadset[] = [
     weight: "~165g",
     score: "8.7/10",
     imageUrl: `${BASE}/1-logitech-h390.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B000UXZQ42?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000UXZQ42?tag=workcocoon-20",
     whyItWorks:
       "Under $40 and completely plug-and-play: no drivers, no app, no setup. Works immediately on Zoom, Teams, Meet, and every other platform via USB-A. Adjustable noise-cancelling boom mic positions directly in front of your mouth, the most reliable background noise reduction available at any price. In-line controls for volume and mute, foam ear cushions with padded headband for all-day comfort. One of the most reviewed USB headsets on Amazon with well-documented long-term reliability.",
     tradeoffs: [
@@ -214,7 +214,7 @@ export const products: WorkHeadset[] = [
     weight: "139g",
     score: "9.0/10",
     imageUrl: `${BASE}/2-jabra-evolve2-30-ms.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08WJSLM56?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08WJSLM56?tag=workcocoon-20",
     whyItWorks:
       "Microsoft Teams Certified with native mute, call answer, and call end button integration. 48% more passive noise isolation than the previous Jabra generation via angled ear cup design. Dual built-in mics with DSP handle background noise better than single boom mics at this price. Lightest wired headset in this guide at 139g, imperceptible during all-day wear. Also certified for Zoom, Google Meet, and Cisco Webex. Jabra 2-year warranty.",
     tradeoffs: [
@@ -249,7 +249,7 @@ export const products: WorkHeadset[] = [
     weight: "~195g",
     score: "9.0/10",
     imageUrl: `${BASE}/3-logitech-zone-vibe-125.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09KGQ4YFQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09KGQ4YFQ?tag=workcocoon-20",
     whyItWorks:
       "25-hour battery covers a full work week without charging mid-week, the longest in any wireless headset under $100. Flip-to-mute boom mic gives physical mute confirmation by flipping the arm up. Multipoint Bluetooth connects to PC and phone simultaneously so you can answer phone calls without disconnecting from your laptop. USB-A and USB-C receiver options for any laptop configuration. 40mm drivers tuned for voice clarity. Under 200g for comfortable all-day wear.",
     tradeoffs: [
@@ -284,7 +284,7 @@ export const products: WorkHeadset[] = [
     weight: "~290g",
     score: "9.1/10",
     imageUrl: `${BASE}/4-anker-powerconf-h700.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B5JLH49X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B5JLH49X?tag=workcocoon-20",
     whyItWorks:
       "VoiceShield AI noise cancellation isolates your voice from keyboard clicks, HVAC, and background noise in real time using machine learning. Meeting transcription via AnkerWork app records calls locally on your device. Digital ANC on the headphone side reduces ambient noise while working. 24-hour battery with 5-minute fast charge giving 3 hours. Charging stand included. USB dongle plus standard Bluetooth for dual connection options.",
     tradeoffs: [
@@ -319,7 +319,7 @@ export const products: WorkHeadset[] = [
     weight: "~175g",
     score: "9.3/10",
     imageUrl: `${BASE}/5-jabra-evolve2-55-ms.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BS79BZQS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BS79BZQS?tag=workcocoon-20",
     whyItWorks:
       "Microsoft Teams Certified with a dedicated Teams button, native mute sync, and call answer from the headset without touching the PC. AirComfort rotating ear cups adjust 15 degrees to any head shape, the most comfortable all-day headset in this guide. 33 hours with ANC on covers more than 4 full workdays per charge. 2.4GHz USB dongle eliminates audio dropouts in congested wireless environments. Dual-device multipoint. Jabra Sound+ app for EQ and firmware updates.",
     tradeoffs: [
@@ -354,7 +354,7 @@ export const products: WorkHeadset[] = [
     weight: "238g",
     score: "9.1/10",
     imageUrl: `${BASE}/6-bose-quietcomfort-45.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B098FKXT8L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B098FKXT8L?tag=workcocoon-20",
     whyItWorks:
       "Bose QuietComfort ANC is one of the most effective noise cancellation implementations available, significantly reducing open-plan office noise and HVAC. Aware Mode transparency lets outside sound through without removing the headset. Lightweight 238g with balanced clamp force, consistently rated among the most comfortable for extended wear. 24 hours ANC on, up to 40 hours ANC off. USB-C charging. Strong call quality via built-in microphone on Zoom, Teams, and Meet.",
     tradeoffs: [
@@ -389,7 +389,7 @@ export const products: WorkHeadset[] = [
     weight: "250g",
     score: "9.2/10",
     imageUrl: `${BASE}/7-sony-wh-1000xm5.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XS7JWHH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XS7JWHH?tag=workcocoon-20",
     whyItWorks:
       "Industry-leading ANC with Auto Noise Canceling Optimizer analyzes ambient noise 700 times per second and adapts the cancellation profile in real time. Precise Voice Pickup with 4 beamforming microphones delivers noticeably better call quality than most consumer headphones. Speak-to-Chat automatically pauses playback and switches to transparency mode when you start talking. Multipoint for two devices simultaneously. 30 hours ANC on, 3-minute charge gives 3 hours. Foldable design for commuters.",
     tradeoffs: [

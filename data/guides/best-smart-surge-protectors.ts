@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 16,442 Amazon ratings",
     reviews: "16,442 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EOcD4mKhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083JKSSR5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083JKSSR5?tag=workcocoon-20",
     description:
       "Genuinely independent per-outlet smart control with a real surge protector included, from a large, well-established review base. Works with Alexa and Google Home without a separate hub.\\n\\nAs with most smart surge protectors, this adds smart outlet control, verify separately whether it offers any actual surge-diagnostics feature versus just scheduling and voice control.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Tapo Smart Wi.\n\nWorth knowing before you decide: Real surge protector included. On the other side, Smart features focus on outlet control, not surge-diagnostics monitoring. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["3 individually controlled smart outlets, surge protector","2 USB ports","Works with Alexa and Google Home, no hub","Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 283 Amazon ratings",
     reviews: "283 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41R2pqpQJxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F5LNYTR7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F5LNYTR7?tag=workcocoon-20",
     description:
       "Matter compatibility future-proofs your smart control across ecosystems, with energy monitoring and genuine surge protection combined. 6 individually controlled outlets.\\n\\nEnergy monitoring here tracks power draw, not MOV degradation status specifically, understand this is smart outlet insight, not smart surge-health diagnostics.\n\nSet against the kasa smart Plug Power Strip KP303, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Energy monitoring alongside surge protection. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["6 individually controlled outlets, surge protection","Matter compatible, energy monitoring","3 USB ports","Works with Alexa, Google Assistant, Siri, Bixby"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 631 Amazon ratings",
     reviews: "631 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31XSIHgsrBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C453CLSY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C453CLSY?tag=workcocoon-20",
     description:
       "6 individually controlled outlets from Amazon's own smart home ecosystem, genuinely tight Alexa integration if that's your primary platform, alongside surge protection. Includes a USB-C port.\\n\\nMore internal electronic complexity (WiFi radio, processor) than a basic surge protector introduces additional potential failure points beyond the MOV components alone.\n\nRelative to the Tapo Smart Wi, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Tight Alexa ecosystem integration. On the other side, Alexa-only, not for Google Home or Apple HomeKit households. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["6 individually controlled outlets, surge protection","3 USB ports (incl. 1 USB-C)","Alexa only, WiFi 2.4GHz","Amazon Basics brand"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 621 Amazon ratings",
     reviews: "621 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pcjVZGZoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CYGSFFFW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CYGSFFFW?tag=workcocoon-20",
     description:
       "Works across Apple HomeKit, Alexa, and Google Home simultaneously, genuinely broad compatibility with surge protection built in. 3 individual smart outlets with 18W fast USB-C charging.\\n\\nAs with most smart surge protectors, the smart features center on outlet control and charging, not MOV health monitoring specifically.\n\nCompared with the Amazon Basics Smart Plug Power Strip with 6 Individually Controlled Outlets and 3 USB Ports above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: 18W fast USB-C charging. On the other side, Smaller review base as a newer product. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["3 individual smart outlets, surge protection","18W fast USB-C charging","Works with Apple HomeKit, Alexa, Google Home","Smart night light feature"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,864 Amazon ratings",
     reviews: "1,864 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41YbTChnPVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B5G6MDQ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B5G6MDQ6?tag=workcocoon-20",
     description:
       "A genuinely useful mix of 4 smart-controlled and 4 always-on outlets with surge protection, appropriate if you want smart control for some devices while keeping critical equipment always powered. Works with Alexa and Google Home.\\n\\n8 outlets total plus 4 USB ports, with the same understanding that smart features here mean outlet control, not surge-health monitoring specifically.\n\nSet against the TP, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Surge protection alongside smart control. On the other side, Only half the outlets are smart-controlled. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["4 smart outlets, 4 always-on outlets, surge protection","4 USB ports","Alexa and Google Home compatible","8 outlets total"],

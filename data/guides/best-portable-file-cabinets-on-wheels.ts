@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "189",
     imageUrl: "https://m.media-amazon.com/images/I/41KwjjYZ6-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DP51HKWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DP51HKWS?tag=workcocoon-20",
     description:
       "This 3-drawer cabinet carries the highest rating in this comparison, with explicitly lockable wheels that prevent unwanted rolling when the cabinet is meant to stay stationary, a genuine stability feature at this larger, heavier scale.",
     specs: ["3 drawers, genuine multi-drawer capacity", "Lockable wheels", "Home office focused", "Highest rating in this comparison"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,935",
     imageUrl: "https://m.media-amazon.com/images/I/31tgxXrxOrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B000K3GBGY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000K3GBGY?tag=workcocoon-20",
     description:
       "Honesty note: this is a single hand-carried box, not a wheeled multi-drawer cabinet, included here as a direct comparison point for buyers deciding whether they actually need cabinet-scale capacity or would be better served by a genuinely portable single box.",
     specs: ["Single box, hand-carried, not wheeled", "Dual lock mechanism", "Letter and legal size", "Reinforced handle"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,526",
     imageUrl: "https://m.media-amazon.com/images/I/51c1uDWDoaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B5STNV6J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B5STNV6J?tag=workcocoon-20",
     description:
       "This sits between a single box and a full multi-drawer cabinet, a 2-layer wheeled design with fireproof marketing, genuinely more substantial than a basic single-compartment box while still smaller than the full 3-drawer cabinet above.",
     specs: ["2-layer wheeled design", "Fireproof-marketed, with lock", "Wheeled base", "Strong review count"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "3.5",
     reviews: "586",
     imageUrl: "https://m.media-amazon.com/images/I/41a1aVHqNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009JY00YE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B009JY00YE?tag=workcocoon-20",
     description:
       "Honesty note: this box's rating (3.5) is the lowest in this comparison, so weigh that carefully against its larger single-box dimensions before choosing it over the genuine multi-drawer Sbanmao cabinet or a smaller, more proven wheeled box.",
     specs: ["Large single wheeled box", "15 x 16 x 14.25 inches", "Established Storex brand", "Wheeled base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "238",
     imageUrl: "https://m.media-amazon.com/images/I/413hAAhO-eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09V16B2ZV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09V16B2ZV?tag=workcocoon-20",
     description:
       "This rolling box explicitly supports both letter and legal size files with fireproof marketing, at a moderate rating and the highest price of any single-box (non-cabinet) pick in this comparison. Verify fireproof rating documentation directly before relying on it for irreplaceable documents.",
     specs: ["Wheeled, letter/legal compatible", "Fireproof-marketed", "Moderate rating", "Single-box scale"],

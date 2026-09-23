@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 4,340 Amazon ratings",
     reviews: "4,340 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31g5Q1uDYCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXP2ZTWB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXP2ZTWB?tag=workcocoon-20",
     description:
       "A genuine desk-edge mount surge protector, damage-free via clamp mounting, with 5 outlets and 40W of USB-C PD charging. Explicit 1.96 inch desk edge thickness rating for verification.\\n\\nMounted at desk-edge height, this position genuinely keeps the indicator light more visible than an under-desk mount, though still less visible than a flat desktop placement.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Mifaso PD30W Desk Clamp Power Strip.\n\nWorth knowing before you decide: Desk-edge position keeps indicator more visible than under-desk. On the other side, Still a semi-permanent mount, risk of install-and-forget neglect. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["Desk edge clamp mount, damage-free","5 outlets, 4 USB-C PD ports","Fits up to 1.96in desk edge","ETL listed"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 769 Amazon ratings",
     reviews: "769 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vu7nVrV6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCZFXDDS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCZFXDDS?tag=workcocoon-20",
     description:
       "A genuinely more affordable damage-free clamp mount with an included surge protector, appropriate if you don't need the higher USB wattage of premium alternatives. Solid early rating.\\n\\nAs with any mounted surge protector, set a reminder to periodically check status rather than relying on passive notice, since mounted units are easy to forget about.\n\nSet against the Jgstkcity Desk Clamp Power Strip USB C, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Surge protector included. On the other side, Smaller review base. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["30W PD charging","Surge protector included","Damage-free clamp mount","Budget-friendly"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "Not a true clamp-mount design, but genuinely worth considering if you need 12 outlets and 2700 joules more than a desk-edge clamp specifically. Large, well-established review base.\\n\\nIf mounted or fixed in position via your own method, apply the same proactive-replacement reminder as any semi-permanent installation.\n\nRelative to the Mifaso PD30W Desk Clamp Power Strip, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: 12 outlets with genuine surge protection. On the other side, Not a true desk-edge clamp mount. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 551 Amazon ratings",
     reviews: "551 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31WV5ahbGyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBSTDM5D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBSTDM5D?tag=workcocoon-20",
     description:
       "A genuine desk mount surge protector with 45W across 8 total USB ports, useful if you charge many devices at once from a fixed desk-mounted position. ETL listed.\\n\\nRenters specifically benefit from pairing this damage-free clamp mount with surge protection, a genuinely useful combination rather than treating mounting and protection as separate feature axes.\n\nCompared with the Power Strip above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: Genuine surge protector included with damage-free mounting. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["4 USB-C, 4 USB-A, 45W total","1875W AC extension cord, surge protector included","ETL listed","Desk mount clamp"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "UL listed with 3,780 joules from an established brand, real confidence if you're fixing this in a semi-permanent desk position with your own mounting solution. 8ft cord for placement flexibility.\\n\\nGiven the install-and-forget risk of any fixed position, this established brand's reliability track record matters more than for a regularly-handled desktop unit.\n\nSet against the Jgstkcity Desk Clamp Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: UL listed for verified safety. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules","UL listed, 8ft flat plug cord","Established Belkin brand","Heavy-duty extension cord"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "70",
     imageUrl: "https://m.media-amazon.com/images/I/61tWyW9bgvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=workcocoon-20",
     description:
       "This is explicitly marketed as clip-on, and the mechanism is genuinely a lighter, more compact clip than the heavier metal clamps found in our clamp-focused guide. The fully covered cavity design still provides real spill protection despite the lighter-duty attachment.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the Universal Large Desk Cup Holder Clamp.\n\nWorth knowing before you decide: Covered cavity for spill resistance. On the other side, Small review count. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Compact clip-on mechanism","Fully covered cavity","Lightweight","Affordable"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "171",
     imageUrl: "https://m.media-amazon.com/images/I/314m46JYkhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=workcocoon-20",
     description:
       "This listing uses \"clamp-on\" in its own title, an honest example of the overlapping terminology this guide addresses, since the mechanism functions identically to the clip-on picks here. It carries the highest rating in this comparison.\n\nSet against the HzTinT Large Desk Cup Holder, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Reinforced for durability. On the other side, Terminology overlaps with 'clamp-on' listings. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Squeeze clip/clamp mechanism","Heavy-duty reinforced plastic","Large cup diameter","No-drill attachment"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "68",
     imageUrl: "https://m.media-amazon.com/images/I/41alv7Sev2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FBRMLLPY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FBRMLLPY?tag=workcocoon-20",
     description:
       "This clip rotates independently of its base, a genuine functional differentiator over a fixed clip. It attaches with the same squeeze-clip mechanism as the other picks in this comparison, sized for standard mugs and tumblers.\n\nRelative to the Universal Large Desk Cup Holder Clamp, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Affordable. On the other side, Small review count. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Rotatable cup cavity","Squeeze clip attachment","Anti-spill covered design","Compact"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "762",
     imageUrl: "https://m.media-amazon.com/images/I/41C-eWZ9gfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=workcocoon-20",
     description:
       "Honesty note: this is genuinely a heavier metal clamp rather than a lightweight clip, included here because it's frequently returned in \"clip-on cup holder\" search results despite the terminology mismatch. If you specifically want the lightest clip mechanism, the HzTinT pick above is the better fit; this pick trades that for a sturdier hold on larger drinks.\n\nCompared with the Desk Cup Holder Clamp above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Metal build sturdier long-term. On the other side, Heavier and bulkier than a genuine lightweight clip. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Metal clamp (heavier than a clip)","Deep form-fitting cavity","No-drill attachment","Fits oversized tumblers"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,510",
     imageUrl: "https://m.media-amazon.com/images/I/31XgT+O+XQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CPBXYH4?tag=workcocoon-20",
     description:
       "This combines a covered cup cavity with an integrated headphone hanger on one clip base, verified as a genuine combined feature given its strong review history. The clip mechanism itself is standard, similar in scale to the other picks in this comparison.\n\nSet against the OOKUU Upgraded Large Desk Cup Holder Clamp, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Saves desk-edge clamp space. On the other side, Higher price than single-function clips. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Anti-spill cup cavity","Integrated headphone hanger","Single clip base for both","White finish"],

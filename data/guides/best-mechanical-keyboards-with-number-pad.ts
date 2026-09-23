@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rjOMIKrmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TR4Y91J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TR4Y91J?tag=workcocoon-20",
     description:
       "The RisoPhy is a genuine 104-key full-size board, so the numpad is not an afterthought bolted onto a smaller layout. Blue switches give it an audibly clicky feel, which is worth knowing if you plan to use the numpad in a shared office or on video calls. An ultra-slim ABS keycap profile keeps the overall footprint low, and spill resistance plus anti-ghosting are useful basics at this price. It is the pick for buyers who want a real numpad without spending close competitively on it. 104-key layout confirmed, not a marketing approximation. That's a real strength, but weigh it against the flip side: blue switches are the loudest switch type, poor for shared spaces.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GdrDKwGaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B2DMKFM5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B2DMKFM5?tag=workcocoon-20",
     description:
       "Keychron lists the V6 Knob Version as a genuine full-size layout, and it adds a physical volume knob above the numpad, a detail most full-size boards skip entirely. Hot-swappable Keychron K Pro Brown switches mean you can change switch feel later without a soldering iron.\n\nQMK and VIA support opens up full key remapping, useful if you want to repurpose numpad keys for macros. It runs wired only, so it is built for a stationary desk setup rather than a laptop that moves around.\n\nWorth calling out specifically: hot-swappable switches for later customization. The catch is wired only, no Bluetooth option on this model.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/413s7zLyA1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14L7VZ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D14L7VZ6?tag=workcocoon-20",
     description:
       "The V6 Max drops the cable in favor of 2.4GHz and Bluetooth connectivity while keeping the confirmed full-size layout and numpad intact, which is rarer than it should be since most brands cut the numpad first to shrink a wireless board. Hot-swappable Gateron Brown switches keep the same customization path as the wired V6.\n\nQMK support carries over for full remapping, and RGB backlighting is included. This is the pick if your desk setup depends on going cable-free without giving up numpad functionality.\n\nDual 2.4GHz and Bluetooth connectivity. Set against that, most expensive pick in this list alongside the Banana switch variant. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41kuxJTAsdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B2DPFWGR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B2DPFWGR?tag=workcocoon-20",
     description:
       "This is the same confirmed full-size V6 platform as the Knob Version without the knob, which brings the price down while keeping hot-swappable Keychron K Pro Brown switches and full QMK/VIA support. The frosted, semi-translucent case is the main cosmetic difference from the solid-black knob variant.\n\nIt stays wired only, which keeps latency and price down compared to the wireless V6 Max. For buyers who want the V6's build and remapping without paying for a knob or wireless radio, this is the more efficient choice.\n\nA genuine advantage here is that hot-swappable switches included. The tradeoff is no volume knob or wireless option.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31qNb+bxSwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=workcocoon-20",
     description:
       "The Redragon K668 is a confirmed 108-key layout, 4 keys more than a standard 104-key full-size board thanks to extra programmable hotkeys above the numpad. Red linear switches keep it quieter than the clicky RisoPhy while still being budget-friendly.\n\nSound-absorbing foam inside the case and hot-swappable sockets are unusual inclusions at this price point, and it ships with two full sets of mixed-color keycaps for easy customization. It is the strongest value pick for buyers who want a full numpad plus extra hotkeys.\n\nSound-absorbing foam and hot-swappable sockets at a budget price. That's a real strength, but weigh it against the flip side: wired only.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31CBQMyMfsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DM8T2YZY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DM8T2YZY?tag=workcocoon-20",
     description:
       "This is the same confirmed full-size V6 Max wireless platform, swapped to Gateron Banana switches, a smooth linear switch instead of the tactile Brown used on the other V6 variants. Linear switches suit fast, repeated numpad entry like data-entry or spreadsheet work better than a tactile bump does.\n\nConnectivity, QMK support, and hot-swap sockets carry over unchanged from the Brown-switch V6 Max. Pick this version specifically if you know you prefer a linear feel over a tactile one for numeric entry.\n\nWorth calling out specifically: smooth linear switch better suited to fast repeated numpad entry. The catch is same premium price as the Brown-switch V6 Max.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FBNsAaL4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LK1P1RD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LK1P1RD?tag=workcocoon-20",
     description:
       "The standard MX Mechanical, as opposed to Logitech's separate MX Mechanical Mini, ships as a full-size board with a numpad, built around a low-profile tactile switch rather than the taller switches used on the Keychron and Redragon picks in this list. That low-profile design suits buyers who want a slimmer typing angle without dropping to a compact layout.\n\nMulti-device Bluetooth pairing and Logi Bolt USB receiver support let it switch between up to 3 computers instantly, a feature none of the other picks here offer. It is the most expensive board in this list, but the build quality and low-profile feel are the trade you are paying for.\n\nMulti-device switching across up to 3 computers. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
     specs: [

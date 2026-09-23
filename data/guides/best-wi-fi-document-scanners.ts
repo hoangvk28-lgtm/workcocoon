@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 326 Amazon ratings",
     reviews: "326 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=workcocoon-20",
     description:
       "Built-in Wi-Fi 6, dual-band capable and more resistant to interference in a crowded 2.4GHz environment than single-band scanners, genuinely useful in a busy home or office Wi-Fi setup. Scans to cloud services standalone, no destination computer needs to stay on for that path specifically.\n\nWPA2-Enterprise (802.1X) corporate network compatibility isn't explicitly confirmed, verify with IT if you're deploying this on a university or corporate network with certificate-based authentication.\n\nStandalone scan-to-cloud doesn't require a host PC to stay on. That's a real strength, but weigh it against the flip side: wPA2-Enterprise/802.1X compatibility not explicitly confirmed.",
     specs: ["Wi-Fi 6, dual-band capable", "Standalone scan-to-cloud", "Touchscreen with personalized profiles", "USB-C fallback available"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 132 Amazon ratings",
     reviews: "132 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41m9omvtbvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1PMTS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1PMTS?tag=workcocoon-20",
     description:
       "The same Wi-Fi 6 iX2500 under a separate listing. Same standalone cloud scanning, same corporate-network caveat, and same USB-C fallback. Compare current pricing against the rank-1 listing before buying.",
     specs: ["Wi-Fi 6, dual-band capable", "Standalone scan-to-cloud", "Touchscreen with personalized profiles", "USB-C fallback available"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "Home-network Wi-Fi with genuine standalone operation for cloud destinations, and Chromebook scanning via the mobile app, a real plus for Chromebook-heavy Wi-Fi networks like classrooms. If you're scanning to a network folder rather than cloud, expect the destination computer to need to stay on and network-discoverable.\n\nSame WPA2-Enterprise caveat as every pick in this guide, verify with IT for corporate/university deployment.\n\nChromebook support via mobile app. On the other hand, scan-to-folder likely requires host PC to stay on and be discoverable. Both are worth keeping in mind before deciding.",
     specs: ["Home-network Wi-Fi", "Standalone scan-to-cloud, Chromebook support", "30ppm duplex", "Auto de-skew, color optimization"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VnXqJ86dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=workcocoon-20",
     description:
       "Identical Wi-Fi capability to the rank-3 pick in a black finish, same standalone cloud scanning and Chromebook support, same scan-to-folder host-PC caveat and unconfirmed 802.1X compatibility.",
     specs: ["Home-network Wi-Fi", "Standalone scan-to-cloud, Chromebook support", "30ppm duplex", "Auto de-skew, color optimization"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "Wi-Fi built into a genuine desktop-class scanner, the largest review base among the Wi-Fi picks in this guide. Whether this scans standalone to cloud or requires a host PC for folder destinations isn't explicitly broken out in the listing, verify your specific workflow's destination type before assuming standalone operation.\n\nA reasonable choice if desktop-class throughput matters more than the standalone-vs-host-PC distinction to your specific use case.\n\nA genuine advantage here is that desktop-class throughput over Wi-Fi. The tradeoff is that standalone vs. host-PC-required scan destinations not explicitly broken out.",
     specs: ["Home-network Wi-Fi + USB desktop scanner", "TWAIN driver, searchable PDF OCR", "Largest review base among Wi-Fi picks", "Auto crop, blank-page removal"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,522 Amazon ratings",
     reviews: "6,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=workcocoon-20",
     description:
       "Included as an honest reference: this is USB-powered only, no Wi-Fi, despite surfacing in general scanner search results touching on this topic. If Wi-Fi specifically is your requirement, look to the ScanSnap or Epson picks above instead.\n\nA genuinely capable compact scanner if wired USB actually suits your workflow better, sidestepping every Wi-Fi caveat in this guide entirely.\n\nBroad OS driver support. That said, not actually a Wi-Fi scanner. Neither should be a surprise once you know to look for it.",
     specs: ["USB-powered only, no Wi-Fi", "Broad Windows/Mac/Linux driver support", "Color scan speed matches black-and-white", "Compact, 1.5 lb"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "Another honest wired reference: this desktop scanner has no Wi-Fi at all, a genuine option if you'd rather sidestep every Wi-Fi network compatibility question and just connect directly via USB. Highest rating in this guide.\n\nIf your priority shifted to wired reliability while reading this guide, this is a strong desktop-class alternative.\n\nWorth calling out specifically: no Wi-Fi network compatibility questions at all. The catch is not actually a Wi-Fi scanner.",
     specs: ["USB-powered only, no Wi-Fi", "TWAIN driver, searchable PDF OCR", "50-sheet ADF, duplex", "Highest rating in this guide"],

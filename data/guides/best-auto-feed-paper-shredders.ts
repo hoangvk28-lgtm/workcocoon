@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,048 Amazon ratings",
     reviews: "1,048 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lBbbWrCsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=workcocoon-20",
     description:
       "This is a genuine auto-feed hopper model, 120 sheets loaded and left to run automatically, plus a separate 12-sheet manual slot for cards and staples. Its 30-minute auto duty cycle means a completely full hopper of light paper can be shredded in one run, but mixed-weight paper (cardstock, folded pages) can trip the thermal limit before the hopper empties.\n\nThe 6-gallon pull-out bin on 360-degree casters is sized appropriately for the hopper capacity, and P-4 micro-cut security is a genuine step up from basic cross-cut for sensitive documents.\n\nP-4 micro-cut security level. That's a real strength, but weigh it against the flip side: mixed-weight paper batches can trip the 30-minute limit before the hopper empties.",
     specs: ["120-sheet auto-feed hopper, 12-sheet manual", "P-4 micro-cut, 4x12mm particles", "30 min auto / 10 min manual run time", "6-gallon pull-out bin, 360° casters"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,629 Amazon ratings",
     reviews: "1,629 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VvTJMBXPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=workcocoon-20",
     description:
       "A genuine 100-sheet auto-feed hopper at a lower price than the rank-1 pick, with an explicit anti-jam auto-reverse function to clear the paper when the sensor detects a jam. Its 4.2-gallon bin is proportionally smaller than the rank-1 pick's, meaning more frequent emptying during a full-hopper run.\n\nSame mixed-paper-batch caution applies here as with any auto-feed hopper, a batch of uniform 20 lb paper runs far more reliably than one mixed with heavier stock.\n\nExplicit anti-jam auto-reverse. On the other hand, smaller bin than the rank-1 pick relative to hopper size. Both are worth keeping in mind before deciding.",
     specs: ["100-sheet auto-feed hopper, 8-sheet manual", "P-4 micro-cut, 4x12mm particles", "30 min auto / 40 min off, 40 min manual off", "4.2-gallon pull-out bin, bin-full indicator"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "3.8 stars from 137 Amazon ratings",
     reviews: "137 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+FGUUD5bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GFD6JYH1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GFD6JYH1?tag=workcocoon-20",
     description:
       "The third and final genuine auto-feed hopper in this guide, with a longer 40-minute continuous run time than the two Bonsaii picks above, plus an explicit under-63dB quiet rating that's genuinely useful for a shared office or home during a call. Its 4.5-gallon bin auto-shuts-off once pulled out, a real safety feature.\n\nThe lowest rating in this guide (3.8 stars) reflects a smaller, less-established listing, weigh that against the genuinely longer run time and quieter operation before choosing this over the more established Bonsaii picks.\n\nA genuine advantage here is that explicit quiet operation rating (<63dB). The tradeoff is that lowest rating in this guide.",
     specs: ["100-sheet auto-feed hopper, 6-sheet manual", "P-4 cross-cut, <63dB noise", "40 min auto continuous run", "4.5-gallon bin, auto-shutoff on removal"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "Included as an example of the exact confusion this guide addresses: this is a manual-feed shredder (12 sheets at a time, fed by hand) that surfaces heavily in auto-feed searches due to its strong overall popularity and rating, not because it has an auto-feed hopper. It doesn't, there's no hopper to load and walk away from.\n\nIt is still a genuinely excellent shredder, the highest-rated pick in this entire guide, with a 60-minute continuous run time and destroys CDs and credit cards, just not what you want if auto-feed specifically is the requirement.\n\nLongest continuous run time among all picks here. That said, not an auto-feed hopper model despite appearing in these searches. Neither should be a surprise once you know to look for it.",
     specs: ["12-sheet MANUAL feed only, no auto hopper", "P-4 micro-cut, destroys CDs/credit cards", "60-minute continuous run time", "5-gallon pull-out bin with LED indicators"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,748 Amazon ratings",
     reviews: "10,748 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41FCXr1akDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=workcocoon-20",
     description:
       "Another manual-feed shredder (18 sheets per pass, fed by hand) that appears in auto-feed searches on the strength of its popularity, not an actual hopper feature. The largest review base in this guide reflects that popularity, this is a genuinely well-regarded shredder, just not an auto-feed one.\n\nIf you clicked into this guide specifically wanting hands-free hopper operation, skip to ranks 1-3, the genuine auto-feed picks.\n\nWorth calling out specifically: 60-minute continuous manual run time. The catch is not an auto-feed hopper model.",
     specs: ["18-sheet MANUAL feed only, no auto hopper", "P-4 cross-cut, 62dB", "60-minute continuous run time", "6-gallon pull-out bin, 400+ sheet capacity"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31H0gGU7jHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=workcocoon-20",
     description:
       "A compact manual-feed shredder, not auto-feed, included as a budget alternative for buyers whose real need is occasional light shredding rather than hands-free bulk processing. Its only 6-minute continuous run time is a real limitation for anything beyond light use.\n\nIf you don't actually shred large volumes regularly, this compact, lower-priced manual option may serve you better than paying more for an auto-feed hopper you'd rarely fill.\n\nCompact size fits under a desk. Set against that, shortest continuous run time in this guide (6 minutes). Both matter when comparing it to the other picks here.",
     specs: ["12-sheet MANUAL feed only, no auto hopper", "P-4 cross-cut", "6-minute continuous run time", "5.5-gallon bin, compact footprint"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "Another manual-feed shredder, but with a notably longer 15-minute continuous run time than the rank-6 compact pick, capable of shredding roughly 900 sheets across a full cycle when fed steadily by hand. Still not an auto-feed hopper, you're doing the feeding.\n\nA reasonable middle-ground manual option if you need more sustained run time than the cheapest compact pick but don't want to pay for genuine hopper automation.\n\nThe standout detail is that jam-proof reverse system. Balancing that out, still requires manual feeding, not an auto-feed hopper.",
     specs: ["12-sheet MANUAL feed only, no auto hopper", "P-4 cross-cut", "15-minute continuous run time, ~900 sheets/cycle", "5.5-gallon bin, jam-proof reverse"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,061 Amazon ratings",
     reviews: "1,061 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LSE9gHSWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=workcocoon-20",
     description:
       "The highest manual-feed capacity among the non-hopper picks in this guide at 14 sheets per pass, with a 20-minute continuous run time capable of processing up to 1,400 sheets in one session when fed steadily. Still not a genuine auto-feed hopper, this is manual feeding with a higher per-pass capacity and longer sustained run time than most alternatives.\n\nA reasonable choice if you want higher manual throughput without the true hands-free hopper feature the top 3 picks offer.\n\nLong 20-minute continuous run time. That's a real strength, but weigh it against the flip side: not an auto-feed hopper, still requires manual feeding.",
     specs: ["14-sheet MANUAL feed, no auto hopper", "P-4 cross-cut", "20 min continuous run, up to 1,400 sheets/session", "5.3-gallon bin, ETL listed, casters"],

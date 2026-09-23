@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rK3ndC8VL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LK3JCHX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LK3JCHX?tag=workcocoon-20",
     description:
       "This is the only keyboard in this list built specifically for Mac from the ground up, with Mac keycap legends, correct media key shortcuts, and low-profile mechanical switches tuned for quiet, precise typing. There's no remapping or third-party software needed to get expected Mac shortcut behavior.\n\nA compact 75 percent layout drops the number pad to save desk space, and it connects wirelessly with a rechargeable battery, making it a clean, native fit for a MacBook or Mac desktop setup.\n\nCorrect Fn-row and media key behavior without remapping. That's a real strength, but weigh it against the flip side: no number pad.",
     specs: [
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41aQEgCoeRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LK63PKB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LK63PKB?tag=workcocoon-20",
     description:
       "Identical hardware to the Space Grey MX Mechanical Mini Mac above, in a lighter Pale Grey finish for buyers matching a bright desk setup. It carries the same Mac-native keycaps, correct shortcut behavior, and low-profile mechanical switches.\n\nChoose this over the Space Grey version purely on color preference, since the switch type, connectivity, and Mac software behavior are otherwise the same.\n\nWorth calling out specifically: correct Fn-row and media key behavior without remapping. The catch is no number pad.",
     specs: [
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41-A9KzCP3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=workcocoon-20",
     description:
       "The K4 packs a full 100-key layout, including arrow keys and a number pad, into a tighter 96 percent footprint than a traditional full-size board, and it explicitly supports Mac alongside Windows. Keychron Super Brown tactile switches give quiet-ish tactile feedback with white LED backlighting.\n\nIt connects over Bluetooth 5.1 or wired USB, letting it pair with a MacBook wirelessly and switch back to wired when the battery runs low, without losing keyboard function either way.\n\nWorks over Bluetooth or wired connection. Set against that, not Mac-native, uses standard Windows-style modifier legends. Both matter when comparing it to the other picks here.",
     specs: [
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41k46NzwzHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LSJ4RHH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LSJ4RHH?tag=workcocoon-20",
     description:
       "The K3 V2 is Keychron's ultra-slim low-profile mechanical board, an 84-key layout that trims a number pad while keeping genuine mechanical switches under a thin, MacBook-like profile. It's explicitly listed as compatible with Mac and Windows.\n\nWhite LED backlighting and both Bluetooth and wired USB connectivity round out a keyboard designed to sit visually close to a Mac laptop's own keyboard height, useful for buyers who dislike a tall keyboard next to a low laptop deck.\n\nA genuine advantage here is that genuine low-profile mechanical switches. The tradeoff is no number pad.",
     specs: [
@@ -173,7 +173,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31QS87iIEQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09JG7KRC7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09JG7KRC7?tag=workcocoon-20",
     description:
       "The C2 is the most affordable pick in this list, a full 104-key wired mechanical keyboard with tactile brown switches, explicitly listed as compatible with Mac. Its full-size layout with a number pad suits spreadsheet and finance work on a Mac desktop.\n\nA USB-C braided cable delivers a stable wired connection, no Bluetooth pairing or battery to manage, which some Mac desktop users prefer for a primary keyboard that never needs charging.\n\nFull-size layout with number pad. That's a real strength, but weigh it against the flip side: wired only, no wireless option.",
     specs: [
@@ -204,7 +204,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41YovoriX2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCVPGB9N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCVPGB9N?tag=workcocoon-20",
     description:
       "The K2 HE uses Hall effect magnetic switches rather than traditional mechanical contact switches, enabling adjustable actuation and Rapid Trigger response that a standard mechanical switch can't match, and it's explicitly listed as compatible with Mac, Windows, and Linux. QMK support adds deep customization for buyers willing to configure it.\n\nIt connects over 2.4GHz or Bluetooth 5.2, and the magnetic switch design is also more resistant to wear over time than a traditional mechanical switch, since there's no physical metal contact point to degrade.\n\nWorth calling out specifically: adjustable actuation point per key. The catch is higher price than standard mechanical picks.",
     specs: [
@@ -235,7 +235,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41PQ6Pcv3UL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14LQ9XW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D14LQ9XW?tag=workcocoon-20",
     description:
       "The V6 Max ships with hot-swappable Gateron Banana switches, meaning the switches themselves can be replaced without soldering if a buyer wants a different feel or a switch fails down the line. It's explicitly compatible with Mac, Windows, and Linux, and runs QMK firmware for full remapping.\n\nA full-size layout with RGB backlighting and 2.4GHz Bluetooth connectivity rounds out a board aimed at buyers who want to tune their keyboard over time rather than commit to fixed switches on day one.\n\nConfirmed Mac, Windows, and Linux support. Set against that, not Mac-native, standard modifier legends. Both matter when comparing it to the other picks here.",
     specs: [
@@ -266,7 +266,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/410d2FTkvML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXZ97PCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXZ97PCG?tag=workcocoon-20",
     description:
       "The K10 HE brings Hall effect magnetic switches and Rapid Trigger to a full-size layout with a number pad, and adds hot-swap sockets so the magnetic switches themselves can still be changed later. It's explicitly listed as compatible with Mac, Windows, and Linux.\n\nAn aluminum and wood frame gives it a heavier, more premium build than the plastic-cased picks in this list, and full-size custom RGB rounds out a board built for buyers who want both spreadsheet-friendly layout and cutting-edge switch technology.\n\nA genuine advantage here is that hot-swappable despite using magnetic switches. The tradeoff is highest price in this list.",
     specs: [

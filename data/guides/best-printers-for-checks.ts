@@ -48,7 +48,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Gl2sOxX9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08MSWMTN6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08MSWMTN6?tag=workcocoon-20",
     description:
       "This is a genuine MICR check printer bundle, an HP DeskJet 3755 factory-paired with VersaCheck Gold check printing software and configured for magnetic ink character recognition printing, the actual technical requirement banks rely on to process a printed check's routing and account numbers. Using regular ink instead of MICR ink is the single most common reason a home-printed check gets rejected or flagged by a bank.\n\nThe bundled VersaCheck Gold software handles check layout, account management, and compatibility with accounting workflows, which matters as much as the hardware itself for reliable check printing. This is the pick to choose if you specifically need to print checks that will clear standard bank processing without manual review.\n\nWorth calling out specifically: bundled software built specifically for check layout and printing. The catch is higher price than a general printer alone.",
     specs: [
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41PDCUzgzrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DJWMNN2M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJWMNN2M?tag=workcocoon-20",
     description:
       "The VersaCheck 4155 MXQ is the second genuine MICR check printer in this list, an all-in-one color printer factory-configured for magnetic ink check printing and bundled with VersaCheck Gold software for Windows. Color output adds the option of printing logos or color-coded check designs alongside the MICR-compliant routing and account line.\n\nLike the DeskJet 3755 MX bundle above, this is a purpose-built check-printing solution rather than a general printer adapted for the task, and it carries a higher price to match that specialization. Choose between the two VersaCheck bundles based on whether you need color output or are satisfied with a simpler monochrome MICR setup.\n\nColor output for logos or check design customization. Set against that, highest price in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "To be clear, this is a general-purpose monochrome laser printer, not a MICR check printer, and it does not print with magnetic ink out of the box. It can be used with third-party pre-printed check paper and check-writing software like QuickBooks if your bank or use case does not require magnetic ink verification, but it will not satisfy a bank's MICR processing requirements on its own.\n\nToner-based laser printing does produce crisp, durable black text that resists smudging, a genuine advantage for check-related documents even without MICR compliance. If magnetic ink compliance matters for your situation, choose one of the two VersaCheck bundles above instead.\n\nA genuine advantage here is that works with QuickBooks and similar check-writing software. The tradeoff is not MICR-capable, cannot print bank-compliant magnetic ink checks.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "This is a general print-only monochrome laser printer, not a MICR check printer, and it does not include magnetic ink capability. It can work with third-party pre-printed check stock and check software if you do not need MICR bank compliance, offering toner's smudge resistance at a budget price well below the dedicated MICR bundles in this list.\n\nBe aware that using this printer for checks that require MICR verification risks bank rejection or manual review delays. It is included here honestly as a lower-cost general option, not as a substitute for a real check printer when magnetic ink compliance is required.\n\nToner resists smudging on check-related documents. On the other hand, not MICR-capable, cannot produce bank-compliant magnetic ink checks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -176,7 +176,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "This is a general color laser printer, not a MICR check printer, and its toner is standard color toner rather than magnetic ink. It can print on third-party check stock alongside check-writing software for businesses that do not require magnetic ink bank verification, with the added benefit of color output for logos or letterhead-style check designs.\n\nIts 250-sheet tray and 19 PPM speed suit a business printing a moderate volume of documents including check paper, but this printer will not satisfy MICR compliance requirements on its own. Businesses that need bank-verified checks should use one of the VersaCheck MICR bundles instead.\n\nFast 19 PPM output speed. That's a real strength, but weigh it against the flip side: not MICR-capable, cannot produce bank-compliant magnetic ink checks.",
     specs: [
@@ -208,7 +208,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "This is a general home color inkjet all-in-one, not a check printer, and it uses standard ink rather than magnetic ink. It can be used with third-party check paper and check-writing software for personal or informal use where MICR bank verification is not required, and its low price makes it an accessible entry point for light, occasional check-related printing.\n\nDo not expect this printer to satisfy bank MICR processing requirements, since regular inkjet ink cannot be read by magnetic ink character recognition equipment the way true MICR ink or toner can. For actual bank-compliant check printing, choose one of the VersaCheck MICR bundles in this list instead.\n\nWorth calling out specifically: included Instant Ink trial offsets initial ink cost. The catch is not MICR-capable, cannot produce bank-compliant magnetic ink checks.",
     specs: [
@@ -240,7 +240,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "This is a general budget inkjet all-in-one, not a check printer, and its ink is standard, not magnetic. An automatic document feeder adds convenience for scanning check-related paperwork, and the printer can be paired with third-party check paper and check software for use cases that do not require MICR bank compliance.\n\nAs with the other general printers in this list, using this printer for checks that require MICR verification carries a real risk of bank rejection or manual review. It belongs in this list only as a budget general-use option, not as a substitute for a true MICR check printer.\n\nADF useful for check-related document scanning. Set against that, not MICR-capable, cannot produce bank-compliant magnetic ink checks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -272,7 +272,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "This is the lowest-cost general printer in this list, not a check printer, and it uses standard color inkjet ink rather than magnetic ink. It can print on third-party check stock with check-writing software for personal use where a bank does not require MICR verification, functioning as a basic entry point rather than a specialized solution.\n\nWe are including it here honestly as a budget general-use alternative, not a genuine check printer. If your bank or business requires MICR-compliant checks, the VersaCheck bundles at the top of this list are the correct choice, not this printer or any of the other general printers alongside it.\n\nA genuine advantage here is that easy setup for light personal use. The tradeoff is not MICR-capable, cannot produce bank-compliant magnetic ink checks.",
     specs: [

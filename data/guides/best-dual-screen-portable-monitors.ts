@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51pij3NpRXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNRNK72C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNRNK72C?tag=workcocoon-20",
     description: "A genuine standalone dual-stacked monitor unit with two 15.6-inch 1080P panels, appropriate for buyers wanting a portable two-screen setup independent of their laptop's own display.\n\nIt earns the top spot in this comparison for one main reason. Genuine standalone dual-screen unit independent of your laptop's own display.\n\nWorth knowing before you decide: Two full 1080P panels for genuine multi-window productivity. On the other side, Higher price than a single 15.6-inch portable monitor. That's the main tradeoff to weigh against everything above.",
     specs: ["Two stacked 15.6-inch 1080P panels","Standalone dual-screen unit","Built-in adjustable stand","USB-C connectivity"],
     pros: ["Genuine standalone dual-screen unit independent of your laptop's own display","Two full 1080P panels for genuine multi-window productivity","Portable design for a two-screen setup on the go","Distinct from a laptop screen extender, works with any USB-C source device"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41TB04lWCrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR3YBSL4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR3YBSL4?tag=workcocoon-20",
     description:
       "A genuinely high 180Hz refresh rate at 34 inches, appropriate for buyers with adequate desk depth wanting both expansive workspace and smooth motion.\n\nA tight 1000R curve suits closer viewing distances, pairing well with a desk depth around the 30-inch minimum this size typically needs.\n\nA genuine advantage here is that good value for the resolution and refresh rate combination. The tradeoff is that verify your desk depth meets the roughly 30-inch minimum this size needs.",
     specs: ["34-inch curved 21:9 ultrawide UWQHD panel", "180Hz refresh rate", "1000R curve radius", "USB-C connectivity"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=workcocoon-20",
     description:
       "Explicit eye comfort features matter more at this larger size, since buyers spending long hours at a 34-inch panel benefit meaningfully from reduced eye strain design.\n\n120Hz refresh rate and FreeSync Premium round out a solid productivity-focused 34-inch panel.\n\n120Hz refresh rate for smoother motion. That said, higher price than the Pixio alternative. Neither should be a surprise once you know to look for it.",
     specs: ["34-inch curved 21:9 ultrawide WQHD panel", "120Hz refresh rate", "FreeSync Premium", "Explicit eye comfort features"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51jbyzHVvdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=workcocoon-20",
     description:
       "A premium 34-inch curved panel from Samsung's Viewfinity line, HDR10 support adds genuine contrast benefit for both productivity and media consumption on the wide canvas.\n\nSamsung's panel quality and reliability make this a strong pick for buyers wanting a premium 34-inch experience.\n\nWorth calling out specifically: samsung panel quality and reliability. The catch is highest price in this guide.",
     specs: ["34-inch curved 21:9 ultrawide QHD panel", "100Hz refresh rate", "HDR10 support", "USB-C connectivity"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=workcocoon-20",
     description:
       "Included as a reference point for buyers whose desk depth doesn't comfortably fit a 34-inch panel's roughly 30-inch minimum requirement.\n\nA true 4K 27-inch panel offers sharp detail and a smaller footprint, worth comparing directly against a 34-inch ultrawide if desk space is limited.\n\nTrue 4K resolution with high refresh rate. Set against that, less horizontal workspace than a true 34-inch ultrawide. Both matter when comparing it to the other picks here.",
     specs: ["27-inch true 4K UHD IPS panel", "120Hz refresh rate", "99% sRGB color coverage", "Smaller footprint than 34-inch"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41hpKXhqKnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H1VFKC84?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H1VFKC84?tag=workcocoon-20",
     description:
       "Included as a reference point for buyers whose desk depth comfortably exceeds 34-inch requirements and might benefit from even more width via a 32:9 super-ultrawide.\n\nIf you have the desk space, this genuinely replaces a dual-monitor setup rather than simply being a bigger version of a 34-inch panel.\n\nThe standout detail is that 1500R curve appropriately gentler for the greater viewing distance. Balancing that out, requires substantially more desk depth and width than a 34-inch panel.",
     specs: ["49-inch curved super-ultrawide panel", "5120x1440 Dual QHD, 32:9 aspect ratio", "1500R curve radius", "HDR400 support"],

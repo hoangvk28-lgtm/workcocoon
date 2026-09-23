@@ -68,12 +68,12 @@ export const bestWebcamForVideoCallsGuide: Guide = {
 
 | Pick | Best for | Resolution | Price | |
 |------|---------|------------|-------|--|
-| NexiGo N60 | Best budget, wide FOV | 1080p / 30fps | ~$25-35 | <a href="https://www.amazon.com/dp/B088TSR6YJ?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| Logitech Brio 100 | Teams/Zoom certified, budget upgrade | 1080p / 30fps | ~$40-50 | <a href="https://www.amazon.com/dp/B0BXGCRRLW?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| EMEET NOVA 4K | 4K sensor, AI framing | 4K / 30fps | ~$50-65 | <a href="https://www.amazon.com/dp/B0CY2C7H6S?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| Anker PowerConf C200 | Best standalone mic | 2K / 30fps | ~$50-60 | <a href="https://www.amazon.com/dp/B09MFMTMPD?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| Logitech C920x | Best overall, proven | 1080p / 30fps | ~$60-70 | <a href="https://www.amazon.com/dp/B085TFF7M1?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
-| Razer Kiyo | Built-in ring light for dark rooms | 1080p / 30fps | ~$60-70 | <a href="https://www.amazon.com/dp/B075N1BYWB?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |`,
+| NexiGo N60 | Best budget, wide FOV | 1080p / 30fps | ~$25-35 | <a href="https://www.amazon.com/dp/B088TSR6YJ?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| Logitech Brio 100 | Teams/Zoom certified, budget upgrade | 1080p / 30fps | ~$40-50 | <a href="https://www.amazon.com/dp/B0BXGCRRLW?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| EMEET NOVA 4K | 4K sensor, AI framing | 4K / 30fps | ~$50-65 | <a href="https://www.amazon.com/dp/B0CY2C7H6S?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| Anker PowerConf C200 | Best standalone mic | 2K / 30fps | ~$50-60 | <a href="https://www.amazon.com/dp/B09MFMTMPD?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| Logitech C920x | Best overall, proven | 1080p / 30fps | ~$60-70 | <a href="https://www.amazon.com/dp/B085TFF7M1?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |
+| Razer Kiyo | Built-in ring light for dark rooms | 1080p / 30fps | ~$60-70 | <a href="https://www.amazon.com/dp/B075N1BYWB?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:5px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap;">Check price on Amazon</a> |`,
     },
     {
       heading: "NexiGo N60 - Best Budget Webcam for Video Calls",
@@ -107,7 +107,7 @@ The 110-degree FOV is the widest in this list - useful for showing a larger room
 
 **Best for:** Teams, students, budget WFH setups where the goal is 1080p on video calls without spending $60.
 
-<a href="https://www.amazon.com/dp/B088TSR6YJ?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - NexiGo N60</a>
+<a href="https://www.amazon.com/dp/B088TSR6YJ?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - NexiGo N60</a>
 
 ![NexiGo N60 webcam review for video calls](/images/guides/best-webcam-for-video-calls/webcam-for-video-calls-nexigo-n60.webp)`,
     },
@@ -143,7 +143,7 @@ The built-in physical privacy shutter (not a clip-on cover) slides over the lens
 
 **Best for:** Corporate WFH setups with Teams or Zoom policies, anyone who wants an official Logitech warranty and certified platform support under $50.
 
-<a href="https://www.amazon.com/dp/B0BXGCRRLW?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Logitech Brio 100</a>
+<a href="https://www.amazon.com/dp/B0BXGCRRLW?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Logitech Brio 100</a>
 
 ![Logitech Brio 100 certified webcam for Microsoft Teams and Zoom](/images/guides/best-webcam-for-video-calls/webcam-for-video-calls-logitech-brio-100.webp)`,
     },
@@ -178,7 +178,7 @@ AI framing automatically adjusts the FOV to keep the speaker in frame when movin
 
 **Best for:** Home office users with a 4K monitor, creators who record locally at 4K, open office setups where background noise interference is an issue.
 
-<a href="https://www.amazon.com/dp/B0CY2C7H6S?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - EMEET NOVA 4K</a>
+<a href="https://www.amazon.com/dp/B0CY2C7H6S?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - EMEET NOVA 4K</a>
 
 ![EMEET NOVA 4K webcam with AI framing for video calls](/images/guides/best-webcam-for-video-calls/webcam-for-video-calls-logitech-c525.webp)`,
     },
@@ -212,7 +212,7 @@ PDAF (Phase Detection Autofocus) is faster than contrast detection - it re-locks
 
 **Best for:** Anyone where audio quality on calls matters as much as video - podcast guests, frequent presenter roles, home offices where background noise is an issue.
 
-<a href="https://www.amazon.com/dp/B09MFMTMPD?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Anker PowerConf C200</a>
+<a href="https://www.amazon.com/dp/B09MFMTMPD?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Anker PowerConf C200</a>
 
 ![Anker PowerConf C200 webcam with AI mic for video calls](/images/guides/best-webcam-for-video-calls/webcam-for-video-calls-anker-powerconf-c200.webp)`,
     },
@@ -247,7 +247,7 @@ Both Zoom and Teams certification are included - the C920x appears in both platf
 
 **Best for:** Daily professional calls, client-facing roles, anyone who wants a webcam that works perfectly with zero configuration and produces consistently good video in any lighting.
 
-<a href="https://www.amazon.com/dp/B085TFF7M1?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Logitech C920x</a>
+<a href="https://www.amazon.com/dp/B085TFF7M1?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Logitech C920x</a>
 
 ![Logitech C920x HD Pro Webcam - best overall for video calls](/images/guides/best-webcam-for-video-calls/webcam-for-video-calls-logitech-c920x.webp)`,
     },
@@ -281,7 +281,7 @@ For video quality alone (ignoring the ring light), the Razer Kiyo is not the bes
 
 **Best for:** Dark home offices, basement desks, or any setup where overhead lighting is unflattering and adding a separate light source is impractical.
 
-<a href="https://www.amazon.com/dp/B075N1BYWB?tag=deskfinds0d-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Razer Kiyo</a>
+<a href="https://www.amazon.com/dp/B075N1BYWB?tag=workcocoon-20" rel="nofollow sponsored noopener noreferrer" target="_blank" style="display:inline-block;background:#FF9900;color:white;padding:8px 18px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;margin:12px 0;">Check price on Amazon - Razer Kiyo</a>
 
 ![Razer Kiyo webcam with built-in ring light for dark rooms](/images/guides/best-webcam-for-video-calls/webcam-for-video-calls-razer-kiyo.webp)
 

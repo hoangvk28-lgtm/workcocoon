@@ -1,5 +1,5 @@
 # Content Gap Research: NAS Storage & Docking Stations (30 Articles)
-WorkCocoon.com | Affiliate tag: deskfinds0d-20
+WorkCocoon.com | Affiliate tag: workcocoon-20
 
 ---
 

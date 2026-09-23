@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41OjvkczeAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H6J86PS3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H6J86PS3?tag=workcocoon-20",
     description:
       "This is the clearest confirmed freestanding design in this guide, with the term used directly in the listing title alongside a queen bed frame and gray wooden door finish. Freestanding here means the cabinet does not require a wall mount bracket, but it still needs wall backing or a floor anchor for tipping stability, and the listing does not specify which.\n\nAs a new listing with no rating history yet, treat this as an unproven product and read any early buyer photos or questions closely before ordering. Confirm the specific anchor method and cabinet base weight with the seller before assuming it is fully self-supporting without any wall contact.\n\nNo wall mount bracket required for basic setup. That's a real strength, but weigh it against the flip side: new listing with no rating history to verify real-world stability.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41NToyVxpBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H6JFQKW7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H6JFQKW7?tag=workcocoon-20",
     description:
       "Flagging this honestly: unlike its sibling Peanu listing above, this one describes a fold out cabinet bed with a built-in shelf but does not use the word freestanding anywhere in the title. It may share the same underlying design as the confirmed freestanding Peanu frame, but that is not stated here, so verify directly with the seller before assuming it needs no wall mount.\n\nLike the confirmed Peanu pick, this is a new listing with no rating history. The built-in shelf is a genuine storage feature, but there is no desk surface, and the freestanding claim specifically needs seller confirmation before you rely on it for a rental where wall mounting is restricted.\n\nWorth calling out specifically: similar design language to the confirmed freestanding Peanu frame. The catch is freestanding claim not explicitly stated in this specific listing.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51UKKBXP5+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H94FKL7V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H94FKL7V?tag=workcocoon-20",
     description:
       "roomfitters explicitly confirms Free Standing in this listing title, paired with a large underbed rattan storage drawer on a queen size cabinet. Like the Peanu freestanding frame, freestanding here means no wall mount bracket, but a floor anchor or wall backing plate is still commonly required for tipping stability, which the listing does not detail.\n\nThis is a new listing with no rating history, so treat the stability and build quality claims as unverified until buyer feedback accumulates. The rattan storage drawer is a genuine functional feature, though there is no desk surface included.\n\nLarge storage drawer included. Set against that, new listing with no rating history. Both matter when comparing it to the other picks here.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51m3v9ZznPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H94DMCSW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H94DMCSW?tag=workcocoon-20",
     description:
       "This is the full-size version of the roomfitters freestanding cabinet above, also explicitly confirming Free Standing in the title, with the same large rattan storage drawer design in a green finish. Full size means a smaller footprint than the queen version, which can matter if floor clearance for the open bed is tight.\n\nLike its queen sibling, this is a new listing with no rating history, so treat build quality and stability claims as unverified for now. Confirm the anchor method with the seller before ordering, especially if you are relying on the freestanding claim to avoid lease restrictions on wall drilling.\n\nA genuine advantage here is that full size footprint requires less floor clearance than queen. The tradeoff is new listing with no rating history.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 120 Amazon ratings",
     reviews: "120 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51jUTZEm-VL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GS52M63V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GS52M63V?tag=workcocoon-20",
     description:
       "Flagging this honestly: the listing does not claim freestanding design at all, and based on standard farmhouse-style murphy bed construction, it most likely requires a conventional wall mount. It appears in this guide's underlying data because it is commonly cross-shopped, but it is not a verified freestanding pick.\n\nWith 120 ratings at 4.0 stars, it has the most established review base among freestanding-adjacent searches in this guide, and includes a built-in charging station. If freestanding design specifically matters to you, confirm directly with the seller rather than assuming this qualifies.\n\nBuilt-in charging station. That's a real strength, but weigh it against the flip side: freestanding design not confirmed, likely requires standard wall mounting.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 19 Amazon ratings",
     reviews: "19 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51JtI3bjGFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=workcocoon-20",
     description:
       "This listing also makes no freestanding claim, so treat it as a standard wall-mounted cabinet bed rather than a verified freestanding option, despite appearing in freestanding-related searches. It includes a charging station and storage drawers in a rattan finish.\n\nWith only 19 ratings, buyer feedback is thin. If avoiding wall mounting for lease reasons is your priority, the confirmed freestanding Peanu or roomfitters picks above are a better fit, provided you also confirm their anchor requirements directly.\n\nWorth calling out specifically: storage drawers add functional space. The catch is freestanding design not confirmed.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,138 Amazon ratings",
     reviews: "2,138 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=workcocoon-20",
     description:
       "Flagging this clearly: this is a wall bed hardware kit explicitly designed to be mounted to a wall, the opposite of freestanding. It appears in this guide's underlying data because it is frequently cross-shopped, but if avoiding wall mounting is your reason for searching freestanding, this pick does not solve that problem.\n\nIt does have the largest review base in this entire guide at 2,138 ratings, and is a well-regarded piston mechanism if you have already decided wall mounting is acceptable in your space.\n\nWell-regarded piston mechanism if wall mounting is acceptable. Set against that, not freestanding, requires standard wall mounting. Both matter when comparing it to the other picks here.",
     specs: [
@@ -259,7 +259,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,610 Amazon ratings",
     reviews: "1,610 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51h1vyv6ZdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=workcocoon-20",
     description:
       "Like the Create-A-Bed kit above, this is explicitly a wall bed frame kit, not a freestanding product, and it appears here only because it is commonly cross-shopped with freestanding searches. It will require standard wall mounting hardware and does not avoid the anchoring question freestanding buyers are typically trying to solve. It is the lowest price in this guide, with a strong 1,610-rating review base, but it is not a fit if avoiding wall mounting is the reason you are shopping for a freestanding murphy bed. A genuine advantage here is that lowest price in this guide. The tradeoff is not freestanding, requires standard wall mounting.",
     specs: [

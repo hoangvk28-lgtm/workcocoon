@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "192 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31eGwNO+AkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVV9KJSN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVV9KJSN?tag=workcocoon-20",
     description:
       "A genuine tri-band gaming router including the 6GHz radio with 320MHz channel width support, appropriate for buyers wanting real Wi-Fi 7 capability rather than gaming-branded dual-band hardware.\n\nVerify the specific LAN port speeds against your wired gaming setup, since a wired connection remains the most reliable latency lever regardless of wireless capability.\n\n320MHz channel width support for maximum near-range throughput. That's a real strength, but weigh it against the flip side: more moderate 4.0-star rating, verify current reviews for firmware stability.",
     specs: ["Tri-band with genuine 6GHz radio", "BE11000 combined rating", "320MHz channel width support", "6-stream configuration"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "402 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31p9QTW8zYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D55SWRSM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D55SWRSM?tag=workcocoon-20",
     description:
       "Dual 10G ports make this the strongest wired-first pick here, appropriate for serious gamers who correctly prioritize a wired Ethernet connection over wireless latency claims.\n\nASUS's router firmware includes mature QoS and gaming prioritization tooling, with a solid review base backing real-world reliability.\n\nMature ASUS firmware with genuine QoS and gaming prioritization tooling. On the other hand, realizing 10G speed requires matching adapter, cable, and switch hardware. Both are worth keeping in mind before deciding.",
     specs: ["2x 10G Ethernet ports", "Up to 7.2 Gbps rated", "ASUS firmware with gaming QoS", "Mesh compatible"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "576 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31gp8DwYtwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPQYSXCW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPQYSXCW?tag=workcocoon-20",
     description:
       "ASUS's flagship ROG Rapture quad-band gaming router, appropriate for buyers with a dense device count wanting maximum total capacity alongside serious gaming features.\n\nQuad-band's real benefit is device capacity in congested environments rather than raw speed, worth understanding before paying this premium.\n\nA genuine advantage here is that aSUS ROG's most mature gaming firmware and prioritization tooling. The tradeoff is that very high price, genuinely overkill for households under 30 connected devices.",
     specs: ["Quad-band (dual 5GHz + 2.4GHz + 6GHz)", "30Gbps combined rating", "ASUS ROG gaming platform", "Mesh compatible"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "58 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41---i6ECYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTTPB4MQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTTPB4MQ?tag=workcocoon-20",
     description:
       "A more affordable gaming-branded router with 2.5G ports included, appropriate for budget-conscious gamers prioritizing a solid wired connection over premium wireless features.\n\nThis is a dual-band product without the 6GHz radio, so verify that tradeoff matches your expectations for a Wi-Fi 7 gaming purchase.\n\nMore affordable entry into gaming-oriented Wi-Fi 7 firmware. That said, dual-band means no 6GHz radio, the standard's headline capability is absent. Neither should be a surprise once you know to look for it.",
     specs: ["Dual-band (no 6GHz radio)", "BE6500 combined rating", "2x 2.5G ports", "Gaming-oriented firmware"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "64 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31kr7811gtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQ6QHTND?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQ6QHTND?tag=workcocoon-20",
     description:
       "The highest-rated pick in this guide with genuine tri-band capability and multi-gigabit ports, appropriate for buyers wanting strong ratings alongside serious wired gaming throughput.\n\nA 10-stream configuration gives real headroom for simultaneous gaming, streaming, and household device activity.\n\nWorth calling out specifically: genuine tri-band with 6GHz for real Wi-Fi 7 gaming capability. The catch is small review base, verify current reviews before purchase.",
     specs: ["Tri-band with genuine 6GHz radio", "BE18000 combined rating", "Multi-gigabit ports", "10-stream configuration"],

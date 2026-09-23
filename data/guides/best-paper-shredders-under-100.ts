@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31QbluTUmKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZ8S34?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZ8S34?tag=workcocoon-20",
     description:
       "At just a competitive price, this is the cheapest genuinely P-4-rated shredder in this guide, with a massive review base offering exceptional real-world confidence at this price point. As with every genuine budget pick, expect a short 3-minute duty cycle and standard (not confirmed hardened) steel blades. Handles credit cards alongside paper, a genuinely useful combination at this price tier. The standout detail is that massive proven review base. Balancing that out, short 3-minute continuous run time.",
     specs: ["8-sheet cross-cut, P-4 high security", "3-minute continuous run time", "3.7-gallon bin", "Massive review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31WGmZ4xo0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LXGNY1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LXGNY1?tag=workcocoon-20",
     description:
       "Identical spec and price to the rank-1 pick, just in white, the same P-4 security, same massive review base, and the same short 3-minute duty cycle typical of this price tier.\n\nChoose based on finish preference, the underlying value proposition is the same.\n\nMassive proven review base. That's a real strength, but weigh it against the flip side: same short 3-minute duty cycle as the rank-1 pick.",
     specs: ["8-sheet cross-cut, P-4 high security", "3-minute continuous run time", "3.7-gallon bin, white finish", "Massive review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 7,466 Amazon ratings",
     reviews: "7,466 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31AtA7qsSwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08J2N4CS2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08J2N4CS2?tag=workcocoon-20",
     description:
       "Explicitly designed to fit under a desk, with a larger 4-gallon bin than the basic Amazon Basics picks at a similar price. P-4 security and ETL certification are genuine value adds at this exact price point.\n\nA reasonable step up if bin size and under-desk fit matter more to you than the absolute lowest price.\n\nLarger 4-gallon bin than the cheapest picks. On the other hand, slightly higher price than the cheapest picks in this guide. Both are worth keeping in mind before deciding.",
     specs: ["8-sheet cross-cut, P-4, compact under-desk design", "5-minute continuous run time", "4-gallon bin, ETL certified", "Lift-off handle"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "At a competitive price, this is the priciest pick in this guide but delivers the longest continuous run time at a budget-friendly price at 15 minutes, capable of roughly 900 sheets per cycle, a genuinely substantial duty cycle for the price ceiling. Jam-proof reverse and a large 5.5-gallon bin round out a strong value proposition near the top of this budget range. A reasonable choice if you're willing to spend closer to the ceiling for meaningfully more run time and capacity than the cheapest picks. A genuine advantage here is that large 5.5-gallon bin. The tradeoff is that priciest pick in this guide, close to the ceiling.",
     specs: ["12-sheet cross-cut, P-4", "15-minute continuous run, ~900 sheets/cycle", "5.5-gallon bin, jam-proof reverse", "Solid rating"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 17,486 Amazon ratings",
     reviews: "17,486 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CCjvn4JRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK73XJCX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK73XJCX?tag=workcocoon-20",
     description:
       "A large review base for this specific price point, with 9-sheet capacity slightly above the basic 8-sheet picks and a 5-minute continuous run time. P-4 security and manual reverse for jam clearing round out a solid mid-budget option.\n\nA reasonable choice if you want slightly more capacity than the cheapest 8-sheet picks without approaching the higher end of this price range.\n\nSlightly higher capacity than the basic 8-sheet picks. That said, same P-4 security ceiling as every pick in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["9-sheet cross-cut, P-4", "5-minute continuous run time, ~180 sheets/cycle", "Compact size (7.34 x 12.2 x 14.88 in)", "Large review base"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 9,810 Amazon ratings",
     reviews: "9,810 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31wkQYg97oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=workcocoon-20",
     description:
       "A genuinely large 5.5-gallon bin at just at a premium price, real value at this budget tier, with 10-sheet capacity and confirmed staple/credit card handling. Strong review base offers real-world confidence in this specific balance of capacity, bin size, and price. A sensible mid-budget pick if bin size matters more to you than run time. Worth calling out specifically: strong review base. The catch is short 4-minute continuous run time.",
     specs: ["10-sheet cross-cut, P-4", "4-minute continuous run time", "5.5-gallon bin", "Handles staples, credit cards"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31GNS0CdNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=workcocoon-20",
     description:
       "The highest sheet capacity at a budget-friendly price in this guide at 12 sheets, with the massive Amazon Basics review base for strong real-world confidence. P-3 security here, a step below the P-4 picks elsewhere in this guide, a real tradeoff at this specific price point. A 9-minute continuous run time is a genuine step up from the shortest budget picks, worth the modest premium over the 8-sheet options. Massive proven review base. Set against that, p-3 security, lower than the P-4 picks elsewhere in this guide. Both matter when comparing it to the other picks here.",
     specs: ["12-sheet cross-cut, P-3 security", "9-minute continuous run time", "5-gallon bin", "Massive review base"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31H0gGU7jHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=workcocoon-20",
     description:
       "A genuinely compact 12-sheet-rated pick with a large 5.5-gallon bin, priced in the middle of this guide's range. Its short 6-minute continuous run time is typical of this price tier, plan for occasional light use rather than large bulk sessions.\n\nA reasonable, well-rated all-around choice for light home-office needs within this budget.\n\nThe standout detail is that large 5.5-gallon bin. Balancing that out, short 6-minute continuous run time typical of this price tier.",
     specs: ["12-sheet cross-cut, P-4", "6-minute continuous run time", "5.5-gallon bin, compact", "Strong rating and review base"],

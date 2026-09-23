@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick here at a budget-friendly price, genuine True HEPA H13 filtration that doesn't cut corners on the core filtration quality despite the budget price. The price cut here is in smart features and app control, not core filtration, factor in the replacement filter cost over a year when comparing this to pricier alternatives. Genuine True HEPA H13 filtration despite budget price. Set against that, no smart app control. Both matter when comparing it to the other picks here.",
     specs: ["True HEPA H13, 99.97% particulate removal", "24dB quoted noise level", "Largest review base in this guide", "Under $90 at time of writing"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large, well-established review base at a low price, genuine True HEPA filtration with a carbon component included at this budget tier.\n\nCheck the manufacturer's stated filter lifespan and current replacement filter price before buying, since ongoing cost over a year can rival the unit's original purchase price.\n\nThe standout detail is that low upfront price. Balancing that out, no filter indicator to track replacement timing.",
     specs: ["True HEPA filtration with carbon component", "Large review base", "Compact design", "Budget-friendly"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 4,454 Amazon ratings",
     reviews: "4,454 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51nlbgobV2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCBC8KKV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCBC8KKV?tag=workcocoon-20",
     description:
       "An affordable option with a solid review base, marketed for a larger room than a typical budget desktop unit while staying at a budget-friendly price. A budget unit at a budget-friendly price can still be genuinely capable for a small-to-medium room, this pick's disclosed coverage rating supports that at its price point. Solid review base. That's a real strength, but weigh it against the flip side: no smart app control.",
     specs: ["HEPA filtration", "Solid review base", "Larger-room marketing at a budget price", "Under $80 at time of writing"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,384 Amazon ratings",
     reviews: "1,384 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31MxpE4keLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHW2LLSJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHW2LLSJ?tag=workcocoon-20",
     description:
       "An affordable pick with a genuine 900 sq ft coverage claim and True HEPA PM2.5 filtration, a solid review base backing its performance at this price tier.\n\nCompare the manufacturer's filter lifespan claim against your actual usage before buying, cooking or pet-heavy homes will need more frequent replacement than the standard estimate.\n\nSolid review base. On the other hand, no smart app control. Both are worth keeping in mind before deciding.",
     specs: ["True HEPA PM2.5 filtration", "Up to 900 sq ft rated (open room)", "Solid review base", "Under $80 at time of writing"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 9,252 Amazon ratings",
     reviews: "9,252 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41zOBElZS-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PJQ3MWB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PJQ3MWB?tag=workcocoon-20",
     description:
       "The lowest price in this guide by a wide margin with a large review base, genuinely appropriate for a desk zone or small personal space on a tight budget.\n\nAt this price point, the ongoing filter replacement cost matters even more proportionally, factor that into your true cost of ownership over a year.\n\nA genuine advantage here is that large, well-established review base. The tradeoff is that lower CADR appropriate only for a desk zone, not a full room.",
     specs: ["Compact desktop footprint", "Large review base", "Lowest price in this guide", "Under $50 at time of writing"],

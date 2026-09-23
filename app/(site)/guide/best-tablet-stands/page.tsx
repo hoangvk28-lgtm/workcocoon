@@ -282,7 +282,7 @@ export default async function BestTabletStandsPage() {
           <p className="text-base font-semibold text-ink mb-1">Browse all tablet stands on Amazon</p>
           <p className="text-sm text-ink-secondary mb-5">See current prices, deals, and Prime shipping options</p>
           <a
-            href="https://www.amazon.com/s?k=tablet+stands&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=tablet+stands&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl text-sm font-bold text-white transition-all hover:opacity-90"

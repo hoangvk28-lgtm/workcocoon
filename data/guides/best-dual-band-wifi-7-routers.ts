@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "A genuinely low-cost entry into Wi-Fi 7 that pairs 2.4GHz and 5GHz radios, skipping 6GHz entirely, appropriate for buyers wanting improved modulation efficiency over Wi-Fi 6 without paying for a radio they may not use.\n\nKeeping 2.4GHz intact means older IoT devices stay compatible, a real advantage over dual-band units that drop 2.4GHz instead, though buyers specifically wanting 6GHz should look elsewhere in this guide's tri-band alternatives.\n\nWorth calling out specifically: keeps 2.4GHz for older IoT and smart-home compatibility. The catch is no 6GHz radio, so MLO's cross-band aggregation benefit isn't available.",
     specs: ["2.4GHz + 5GHz dual-band (no 6GHz)", "4-stream configuration", "2x 2.5G + 3x 1G ports", "USB 3.0 port"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,324 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "A higher BE6500-rated dual-band unit with dual 2.5Gbps ports, appropriate for buyers wanting more headroom than entry-tier dual-band routers while still skipping the 6GHz radio and its price premium.\n\nCovering up to 2,400 square feet on paper, real coverage still depends on wall construction more than the marketed figure, and the dual-band design means the same MLO limitation applies as any 6GHz-less Wi-Fi 7 router.\n\nHigh 4.4-star rating with a large review base. Set against that, no 6GHz radio, so genuine MLO cross-band gains aren't available. Both matter when comparing it to the other picks here.",
     specs: ["2.4GHz + 5GHz dual-band (no 6GHz)", "Dual 2.5Gbps ports", "USB 3.0 port", "Covers up to 2,400 sq. ft."],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "1,373 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21--ly92xtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=workcocoon-20",
     description:
       "A router-only Nighthawk BE3600-class unit for buyers preferring NETGEAR's app and firmware ecosystem over TP-Link at a similarly affordable dual-band price point.\n\nAs with any dual-band Wi-Fi 7 router, verify which two bands are actually paired before buying, since losing 6GHz means losing the standard's headline capability even though the Wi-Fi 7 label still applies.\n\nThe standout detail is that solid 4.3-star rating with a large review base. Balancing that out, no 6GHz radio, effectively Wi-Fi 7 in name only for cross-band features.",
     specs: ["2.4GHz + 5GHz dual-band (no 6GHz)", "BE3600 wireless speed rating", "Router only, no modem", "NETGEAR Nighthawk app support"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "356 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21NuupEXJgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F114274T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F114274T?tag=workcocoon-20",
     description:
       "A higher BE5000-rated Nighthawk dual-band router for buyers wanting more total capacity within the NETGEAR ecosystem than the entry-tier RS90 while still skipping 6GHz.\n\nSmaller review base than other picks here, though the rating itself is solid, worth weighing against the RS90's larger track record if review volume matters to your purchase decision.\n\nSolid 4.3-star rating. That's a real strength, but weigh it against the flip side: no 6GHz radio, so the core Wi-Fi 7 headline feature is absent.",
     specs: ["2.4GHz + 5GHz dual-band (no 6GHz)", "BE5000 wireless speed rating", "Router only, no modem", "NETGEAR Nighthawk app support"],

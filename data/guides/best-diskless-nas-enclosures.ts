@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=workcocoon-20",
     description:
       "The DS925+ is Synology's current 4-bay Plus-series enclosure, the tier that supports upgradeable RAM rather than the soldered memory found on entry Value-series models. That matters if you plan to add Plex, Surveillance Station, or other apps down the road rather than use the NAS purely for backup.\n\nAs a 2024+ Plus-series model, it shows compatibility warnings in DSM for non-Synology drives, a detail Synology doesn't advertise prominently. Synology-branded drives avoid the warning entirely but carry a 15-30% price premium over third-party NAS drives that will still work despite the flag.\n\nFull DSM app ecosystem including Active Backup for Business. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/3117pnUjwGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8814GKB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8814GKB?tag=workcocoon-20",
     description:
       "The DS223j is Synology's entry Value-series 2-bay enclosure, priced well below the Plus-series while still running the same DSM software. It's a genuinely simpler starting point for a first NAS, especially for buyers who just want centralized backup rather than a multi-app home server.\n\nValue-series models carry less restrictive third-party drive compatibility than 2024+ Plus-series units, so a wider range of NAS-grade drives will run without DSM flagging a warning. The trade-off is soldered RAM that can't be upgraded later.\n\nWorth calling out specifically: fewer third-party drive compatibility warnings than Plus-series. The catch is soldered RAM cannot be upgraded later.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41CoDmrFUGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BY7LGMNP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BY7LGMNP?tag=workcocoon-20",
     description:
       "The DS423 sits between the budget DS223j and the Plus-series DS925+, offering 4 bays without the full Plus-series price tag. Four bays open up RAID 5 or SHR with a real spare-drive margin, something a 2-bay enclosure simply cannot do.\n\nIt's positioned for family and small-business backup, video surveillance, and photo storage rather than heavy multi-user app workloads, so it's a sensible pick for buyers who want more bays without paying Plus-series prices for RAM they may not need.\n\nSupports RAID 5 and SHR for real redundancy. Set against that, less CPU power than Plus-series for heavy transcoding. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21nJ2B4QOLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CBTVMMLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CBTVMMLB?tag=workcocoon-20",
     description:
       "The DS725+ starts as a 2-bay enclosure but supports an expansion unit to add more bays later, letting buyers start small and grow into a larger array without replacing the whole NAS. That expandability is unusual at the 2-bay tier and worth the premium over the DS223j for buyers who expect to outgrow 2 bays.\n\nAs a current-generation Plus-series model it carries upgradeable RAM and the same 2024+ third-party drive compatibility warnings as the DS925+, so budget for Synology-branded drives or expect a DSM warning flag with third-party NAS drives.\n\nA genuine advantage here is that upgradeable RAM for future app needs. The tradeoff is pricier than the DS223j for the same starting bay count.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "UGREEN's DH2300 undercuts the Synology DS223j slightly while supporting up to 64TB of raw capacity across its 2 bays. As a non-Synology platform, its own hardware compatibility list applies rather than DSM's drive warnings, so it's worth checking UGREEN's published list before buying drives.\n\nIt's a legitimate lower-cost entry point into 2-bay diskless NAS for buyers who don't need Synology's specific app ecosystem and are comfortable with UGREEN's own NAS OS instead.\n\nSupports up to 64TB raw capacity. That's a real strength, but weigh it against the flip side: smaller app ecosystem than Synology DSM.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/310l7keevAS._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K4RC7X9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07K4RC7X9?tag=workcocoon-20",
     description:
       "The TR-004 is a direct-attached storage enclosure rather than a network NAS, it connects over USB Type-C to a single computer instead of the network, with hardware RAID handled onboard. That makes it a different category from the network-attached picks in this list, useful for buyers who want RAID capacity attached directly to one machine rather than shared storage. At 4 bays for a competitive price it's one of the cheapest ways to add hardware RAID 5 capacity to a single desktop or laptop, but it does not offer the multi-user network access, apps, or remote access that a true NAS enclosure provides. Worth calling out specifically: hardware RAID handled onboard, no network setup needed. The catch is not network-attached, only one host at a time.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21z94zz6wGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTTL9R7Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTTL9R7Z?tag=workcocoon-20",
     description:
       "The D4-320 is the cheapest pick in this entire list at a competitive price, another USB direct-attached enclosure rather than a network NAS, but its USB 3.2 Gen2 Type-C connection runs at 10Gbps, faster than the TR-004's USB Type-C link. That extra bandwidth benefits large sequential transfers to a single connected computer. Like the TR-004, this is DAS, not NAS, so it lacks network sharing, apps, and multi-user access. It's the right pick for buyers who specifically want fast, low-cost RAID expansion for one machine and don't need network storage features. 10Gbps USB 3.2 Gen2 connection outpaces the TR-004's link speed. Set against that, direct-attached only, no network sharing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The DS223 sits above the DS223j in Synology's lineup, marketed specifically around centralizing files, protecting data, and monitoring property, a straightforward pick for buyers whose main goal is automatic backup and file centralization rather than a broad app platform.\n\nIt runs full DSM with RAID 1 support across its 2 bays, giving basic mirrored redundancy for a home or small office backup target. Buyers who outgrow 2 bays later will need to step up to a 4-bay model like the DS423 or DS925+ in this list.\n\nA genuine advantage here is that runs full DSM including monitoring apps. The tradeoff is only 2 bays limits total capacity and RAID options.",
     specs: [

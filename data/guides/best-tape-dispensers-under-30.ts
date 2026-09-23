@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41WzpVk5EIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BTZ9DZ9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BTZ9DZ9B?tag=workcocoon-20",
     description: "Brampton Golf Grip Tape Strips is the top pick in this comparison. Brampton golf grip tape strips offer a superior grip enhancement for all types of golf clubs, improving your swing and precision. These double-sided adhesive strips are simple to apply, perfect for regripping your golf clubs at home, and work perfectly with HF-100 golf grip solvent.\n\nLotFancy Paper Medical Tape is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Grip enhancement", "Easy application", "Durable quality"],
     pros: ["Grip enhancement", "Easy application", "Durable quality", "Professional grade"],
@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/51j2XFJ5nFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FDMHC11?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FDMHC11?tag=workcocoon-20",
     description: "LotFancy Paper Medical Tape is a strong alternative worth comparing directly against the top pick. Medlot is a sub-brand of lotfancy, specializing in medical products.\n\nSet next to Brampton Golf Grip Tape Strips, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Medlot is a sub-brand of lotfancy", "Gentle adhesion & skin-friendly", "Convenient dispenser for easy use"],
     pros: ["Medlot is a sub-brand of lotfancy", "Gentle adhesion & skin-friendly", "Convenient dispenser for easy use", "No residue & easy removal"],
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41su67LLjDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005HYDBAA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005HYDBAA?tag=workcocoon-20",
     description: "Master Magnetics Roll-N-Cut Dispenser With One Flexible Magnet Tape Roll is a strong alternative worth comparing directly against the top pick. Dispenser allows you to \"roll out\" the desired length of magnetic tape and safely and easily cut the magnet with the press of a lever, all in a one-handed operation. Great for hanging photos, flash cards, or other lightweight items.\n\nHeld up against Brampton Golf Grip Tape Strips, both cover the basics equally well, what actually separates them is excellent for a whiteboard, refrigerator, filing cabinets, lockers and more!.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Easy to cut", "Perfect for making flat lightweight items magnetic", "Many applications"],
     pros: ["Easy to cut", "Perfect for making flat lightweight items magnetic", "Many applications", "15 Feet of magnetic tape"],
@@ -74,7 +74,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/415ay0R+9eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0145HCJZ2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0145HCJZ2?tag=workcocoon-20",
     description: "Acrimet Desktop Tape Dispenser Jumbo Size is a strong alternative worth comparing directly against the top pick. Stainless steel blade ensures durability and longevity, offering precise and consistent cutting for hassle-free tape dispensing.\n\nAgainst Brampton Golf Grip Tape Strips, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Durable and long-lasting", "Special blade", "Non-slip base"],
     pros: ["Durable and long-lasting", "Special blade", "Non-slip base", "Easy tape loading"],
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41zLqKqbp8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC9QKBZ3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC9QKBZ3?tag=workcocoon-20",
     description: "Tape ZOOMIE, Original Viral Desktop Tape Dispenser for Gift Wrapping & Crafts is a strong alternative worth comparing directly against the top pick. Viral & time-saving gadget making waves on tiktok. Stress-free wrapping whether it’s christmas, birthdays, or mother's day, wrapping just a few times a year can still be frustrating.\n\nAgainst Brampton Golf Grip Tape Strips, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A tape dispenser's core spindle is sized for a specific width range, a mismatched tape roll either won't mount securely or will unwind unevenly.",
     specs: ["Viral & time-saving gadget making waves on tiktok", "Stress-free wrapping whether it’s christmas", "Compact & blade-free engineered for ease and safety"],
     pros: ["Viral & time-saving gadget making waves on tiktok", "Stress-free wrapping whether it’s christmas", "Compact & blade-free engineered for ease and safety", "Great for all tape types use standard tape"],
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41of6SySqDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B077GCV6PH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B077GCV6PH?tag=workcocoon-20",
     description: "Tape King Packing Tape Dispenser Gun is the premium option here, positioned above the rest on price. From sealing cartons to organizing supplies, this packaging tape with dispenser for packing boxes provides a reliable tool for home, office, shipping supplies and warehouse packaging tasks. This gun tape dispensers with adjustable brake for controlled tension is built for multiple packaging needs, keeping your tape aligned and ready for consistent application on boxes and cartons.\n\nAgainst Brampton Golf Grip Tape Strips, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nReach for this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A 'one-handed' claim needs real base weight to back it up, a light dispenser that slides during pulling isn't actually one-hand functional.",
     specs: ["Versatile packing support", "Comfortable handling", "Practical design"],
     pros: ["Versatile packing support", "Comfortable handling", "Practical design", "Safe and easy to use"],

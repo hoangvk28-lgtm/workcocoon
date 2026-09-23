@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "222 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31t8nBX+HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=workcocoon-20",
     description:
       "A disclosed 66-pound capacity with secure locking, appropriate for a genuinely heavy gaming tower carrying a large GPU, multiple drives, and substantial cooling hardware rather than a generic mid-tower assumption.\\n\\nBefore mounting a showcase gaming build under the desk, weigh honestly whether hiding RGB lighting and a tempered-glass panel out of sight actually fits your reasons for buying that build in the first place.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the Heavy Duty Under Desk PC Holder before deciding.\n\nWorth knowing before you decide: Secure locking mechanism beyond simple friction. On the other side, Under-desk placement hides RGB and glass-panel aesthetics you may have paid extra for. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 66 lbs capacity","Secure locking mechanism","Solid review base","Mid-range price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "433 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31DzC4Wn1JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=workcocoon-20",
     description:
       "The highest disclosed capacity in this guide at 77 pounds, appropriate for the heaviest realistic high-end gaming towers with multi-GPU setups or large custom cooling loops, backed by a sizable review base and strong rating.\\n\\nGaming PCs under sustained load generate the heaviest realistic thermal output of any PC type in this cluster, worth checking your case's specific cooling design tolerates the more limited airflow of an enclosed under-desk location during long gaming sessions.\n\nSet against the VIVO Heavy Duty Adjustable Under, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Strong 4.6-star rating across a sizable review base. On the other side, Enclosed under-desk placement adds real thermal risk under sustained gaming load. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 77 lbs capacity","Adjustable width design","Sizable review base","Strong rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "44 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41H5F8LUWzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWGZCWWX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GWGZCWWX?tag=workcocoon-20",
     description:
       "Vertical or horizontal orientation flexibility at a genuine 77-pound capacity, budget-friendly for buyers wanting to fit a full-tower gaming case in a specific under-desk layout without sacrificing weight headroom.\\n\\nIf your gaming tower carries a heavy graphics card, note that horizontal mounting can shift GPU sag differently since gravity now pulls in a different direction relative to the PCIe slot, worth weighing against vertical mounting for a GPU-heavy build.\n\nRelative to the Heavy Duty Under Desk PC Holder, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Orientation flexibility for varied under-desk layouts. On the other side, Horizontal orientation needs meaningfully more under-desk clearance. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Vertical or horizontal orientation","Up to 77 lbs capacity","Full/mid-tower compatible","Budget-friendly price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from Amazon ratings",
     reviews: "49 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uzdCGRrbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=workcocoon-20",
     description:
       "The highest average rating in this guide, this compact mount handles a 66-pound rated gaming tower with height adjustment, appropriate for buyers wanting the strongest available rating despite a smaller review sample.\\n\\nAdditional RGB and lighting-control cables add real cable-management complexity beyond a standard PC's cable count, plan routing carefully before mounting a fully RGB-equipped build out of sight under the desk.\n\nCompared with the PUTORSEN Under Desk PC Mount for Full/Mid above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: 66lb capacity suits most loaded gaming mid-towers. On the other side, Smaller review base limits confidence versus the top picks. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Max 66 lbs capacity","Height adjustable","Highest average rating","Compact footprint"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 68 Amazon ratings",
     reviews: "68 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31oHJerSTwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BWKTR73Y?tag=workcocoon-20",
     description:
       "Explicitly certified for Google Meet, meaning it's been specifically tested against Google's audio pipeline rather than relying on general USB compatibility alone. 4 noise-cancelling mics with wideband audio genuinely improve call clarity.\n\nBoth USB-A and USB-C connections cover most laptop setups, useful if your team uses a mix of device types for Google Meet calls.\n\n4 dedicated noise-cancelling mics. Set against that, smaller review base than some alternatives. Both matter when comparing it to the other picks here.",
     specs: ["4 noise-cancelling mics, certified for Google Meet and Zoom", "USB-A and USB-C connections", "Wideband audio", "Portable design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 5,905 Amazon ratings",
     reviews: "5,905 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Hwa9J+9XL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00AQUO5RI?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00AQUO5RI?tag=workcocoon-20",
     description:
       "The highest rating of any pick in this guide on a large, well-established review base, strong long-term real-world evidence for this Google Meet certified design. Portable wireless form factor moves easily between desk and meeting room.\n\nA proven, older design whose large review count reflects years of reliable Google Meet call usage.\n\nA genuine advantage here is that large, well-established review base. The tradeoff is older design than 2025-edition alternatives.",
     specs: ["Wireless Bluetooth, certified for Google Meet and Zoom", "Portable conference speaker", "Established sound quality reputation", "Long track record"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,801 Amazon ratings",
     reviews: "5,801 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41x468UYHLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08CV6MGJH?tag=workcocoon-20",
     description:
       "Not specifically certified for Google Meet (it's Zoom certified), but works reliably over standard USB/Bluetooth with Google Meet's browser-based audio, and 6 physical microphones genuinely improve voice isolation for a table of several people.\n\nLarge, well-established review base as evidence of general reliability, even without Google Meet-specific certification.\n\nLarge, well-established review base. On the other hand, not Google Meet certified specifically, only Zoom certified. Neither should be a surprise once you know to look for it.",
     specs: ["6 microphones, Zoom certified", "General Google Meet compatibility via standard USB/Bluetooth", "Echo cancellation, background noise reduction", "Compact design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,596 Amazon ratings",
     reviews: "1,596 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51zfICZQrEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=workcocoon-20",
     description:
       "4 mics with 360° voice pickup at a genuinely affordable price, works with Google Meet over standard USB/Bluetooth without formal certification. Solid review base gives real-world confidence at this budget tier.\n\n360° pickup suits a small round table, verify it fits your specific meeting space shape before buying.\n\nSolid review base for the price. That's a real strength, but weigh it against the flip side: no specific Google Meet certification.",
     specs: ["4 mics, 360° voice pickup", "General Google Meet compatibility", "USB and Bluetooth connectivity", "Budget-friendly"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 435 Amazon ratings",
     reviews: "435 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Iv2SVmQfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09WWYKP42?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09WWYKP42?tag=workcocoon-20",
     description:
       "A genuinely simple USB plug-and-play design, works with Google Meet's browser-based audio without any specific setup, appropriate if you just need reliable basic call audio for occasional Meet calls.\n\nSolid rating base for the price, though it lacks the explicit platform certification of the top picks in this guide.\n\nWorth calling out specifically: solid rating base for the price. The catch is no specific Google Meet certification.",
     specs: ["USB plug-and-play, 360° voice pickup", "Built-in microphones", "Compact design", "Budget-friendly"],

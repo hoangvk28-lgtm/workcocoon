@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 67,972 Amazon ratings",
     reviews: "67,972 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41w1NL7yU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=workcocoon-20",
     description:
       "1080 joules with the largest review base of any pick in this guide, genuine real-world evidence of reliability at this entry-to-mid tier. Braided cord for durability.\\n\\nAppropriate for light-duty electronics, a lamp, a router, basic peripherals, this tier's budget can be depleted faster than a higher-joule pick by a handful of moderate fluctuations.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Mifaso 2 Pack Power Strip.\n\nWorth knowing before you decide: Genuine surge protection at this tier. On the other side, Best scoped to light-duty use, not a full desk setup. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["1080 joules surge protection","Braided 5ft cord","Largest review base in this guide","Budget-friendly"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 10,417 Amazon ratings",
     reviews: "10,417 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DQteekppL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NP57YRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NP57YRG?tag=workcocoon-20",
     description:
       "A 2-pack at 1080 joules each with a genuinely long 12ft cord, useful for reaching distant light-duty outlet needs in two locations. Strong rating base.\\n\\nAt this joule tier, verify UL 1449 specifically rather than assuming any UL marking covers real surge-suppression performance, since budget units at this tier have the most incentive to skip that additional testing cost.\n\nSet against the HANYCONY Surge Protector Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Genuine 1080 joule surge protection. On the other side, No USB ports. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12ft cord, 2-pack","1080 joules surge protection","Strong rating base","Two units for two locations"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 12,978 Amazon ratings",
     reviews: "12,978 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31mmZ8+YtxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKJKL5DF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKJKL5DF?tag=workcocoon-20",
     description:
       "A genuinely short 1ft cord option with surge protection at this budget tier, large review base, ideal if your device sits directly against the wall outlet. Flat plug design.\\n\\nDon't repurpose this from a drawer for new sensitive-equipment protection without knowing its history, a secondhand unit may already have absorbed surges from prior use.\n\nRelative to the Mifaso 2 Pack Power Strip, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Large, well-established review base. On the other side, Only suitable if your device sits very close to the outlet. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["1ft short cord, flat plug","Surge protector included","Large review base","Compact, minimal cord management"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 6,466 Amazon ratings",
     reviews: "6,466 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ovehM96AL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00006B81E?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00006B81E?tag=workcocoon-20",
     description:
       "600 joules dedicated to a single device, below the 1000-joule tier but genuinely undiluted for one piece of light-duty equipment. Diagnostic LEDs and lifetime guarantee with $5,000 insurance.\\\n\\\nSingle-device dedication at this tier means no shared-load depletion across multiple devices, a real advantage even at a lower absolute joule number. Compared with the One Beat Power Strip Surge Protector above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment. Worth knowing before you decide: Diagnostic LEDs for status visibility. On the other side, Below the standard 1000-joule tier. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["Single outlet, 600 joules","Diagnostic LEDs","Lifetime guarantee, $5,000 insurance","Compact direct-plug design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,241 Amazon ratings",
     reviews: "2,241 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31e0JpMEJvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09NP7VSNK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09NP7VSNK?tag=workcocoon-20",
     description:
       "1350 joules, a genuine step above the strict 1000-joule tier, dedicated to a single device at an affordable price. ETL listed.\\n\\nA good option if you want a bit more headroom above the entry tier without stepping all the way up to a 2000-joule multi-outlet strip.\n\nSet against the Eaton Tripp Lite SPIKECUBE Single Outlet Surge Protector Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: ETL listed for verified safety. On the other side, Single outlet only. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["Single outlet, 1350 joules","ETL listed","Compact design","Affordable"],

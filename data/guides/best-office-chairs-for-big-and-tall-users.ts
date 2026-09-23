@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "34,180 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41lDR7qjYlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=workcocoon-20",
     description:
       "The GTPLAYER carries the largest buyer feedback base on this list at a stated 400 lb capacity, which is reassuring context for a heavy-duty claim since a rating backed by tens of thousands of purchases has been stress-tested far more than a newer listing. Its high back and 3D pocket spring lumbar support are built into a saddle-shaped cushion designed for sustained sitting rather than short use.\n\nApply the buffer rule here as anywhere else: treat the 400 lb figure as a ceiling, not a target, and look for roughly 50 lbs of headroom above your actual weight before buying. A folding footrest is included, useful for reclined breaks but not a substitute for a properly sized seat if you're near the top of the stated range.\n\nA genuine advantage here is that high stated capacity for the price. The tradeoff is 400 lb rating still needs a buffer against your actual weight.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "14,478 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41TqMt5cRYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=workcocoon-20",
     description:
       "The GABRYLLY's flip-up arms and 90 to 120 degree tilt lock are aimed at genuinely tall users, not just heavy ones, and its headrest adds support that many big and tall chairs skip. Tall buyers over 6'2\" specifically need a seat height range that extends past the 18 to 20 inch standard max to keep a proper knee angle, and this chair's listing targets that use case directly in its product description.\n\nMesh construction breathes better than PU leather over long sitting sessions, a real comfort factor for all-day use. As with any big and tall chair, confirm the actual seat height range against your own leg length before buying rather than assuming \"big and tall\" branding alone covers a tall user's needs.\n\nHeadrest included. On the other hand, highest price on this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "10,760 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rkQ70Jb6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09B3FJHHT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09B3FJHHT?tag=workcocoon-20",
     description:
       "At a competitive price, and the LEMBERI matches the GTPLAYER's stated 400 lb capacity for roughly half the price, backed by a solid review base of its own. A thickened steel frame and reinforced footrest are called out specifically in the listing, a detail worth noting since frame material is one of the harder specs to verify from photos alone. Linkage armrests and PU leather upholstery round out the build. As with any stated capacity, build in the roughly 50 lb buffer above your actual weight for dynamic loads like dropping into the seat, which create meaningfully more peak force than sitting down slowly. Thickened steel frame called out explicitly. That's a real strength, but weigh it against the flip side: pU leather runs warmer than mesh over long sessions.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "165 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tetnrTgxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GF9TKQTW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GF9TKQTW?tag=workcocoon-20",
     description:
       "This chair carries the highest stated capacity on this list at 500 lbs, with an extra-wide seat and a heavy-duty base with upgraded casters to match. That capacity headroom matters most for users near or above 350 lbs, where even a 50 lb buffer against a 400 lb-rated chair starts to feel tight.\n\nIts review count is far smaller than the top picks above, so weigh the strong 4.6 rating against that lower sample size. Check the warranty terms directly on the listing before buying at this capacity tier, since some big and tall chairs carry a weight claim that outlasts a comparatively short one-year warranty.\n\nWorth calling out specifically: extra wide seat for broader hip width. The catch is much smaller review sample than the top picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "546 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k6biuoUcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F62NG547?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F62NG547?tag=workcocoon-20",
     description:
       "Fizzin pairs a 400 lb stated capacity with breathable mesh and a thickened cushion, a comfort-forward build at a mid-range price. Mesh runs cooler than PU leather over a full workday, worth prioritizing if you're going to be seated for eight or more hours.\n\nIts review count is modest compared to the top two picks, so treat the 4.4 rating as a smaller but still reasonably solid sample. Adjustable lumbar support is included, a feature not every chair at this price point offers standard.\n\nAdjustable lumbar support included. Set against that, smaller review base than the top picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "6,155 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51lpZXXyViL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=workcocoon-20",
     description:
       "TRALT's 330 lb stated capacity sits below the 400 and 500 lb picks above, making it a fit for users comfortably under roughly 280 lbs once you apply the standard buffer rather than anyone pushing the upper range of big and tall sizing. A solid review base of over 6,000 ratings backs the 4.3 star average.\n\nMesh construction and a straightforward wheeled base keep this chair simple and comparatively affordable. If your actual weight is anywhere near this chair's stated limit, one of the 400 or 500 lb rated picks above gives more real headroom.\n\nA genuine advantage here is that mesh breathes better than leather. The tradeoff is lower stated capacity than the other picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "4,362 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412WYSRjpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=workcocoon-20",
     description:
       "This TRALT model leads with adjustable lumbar support rather than a headline weight number, and its listing doesn't advertise a big and tall specific capacity the way the other picks on this list do. That makes it a reasonable option mainly for buyers whose primary concern is lumbar adjustability rather than maximum stated capacity.\n\nA strong review base and consistent 4.3 star rating suggest reliable day-to-day comfort. If weight capacity is your main concern, one of the explicitly rated big and tall picks above is the safer choice.\n\nConsistent rating across a large review base. On the other hand, no explicit big and tall weight rating listed. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "555 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kNDnGgiRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDCQMGSH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDCQMGSH?tag=workcocoon-20",
     description:
       "Indulgear matches the highest stated capacity on this list at 500 lbs, with an adjustable lumbar support, quiet rubber wheels, and a pocket spring cushion. It's a solid alternative to the other 500 lb pick if you prefer a high-back executive look over an extra-wide seat design.\n\nIts review count is modest relative to the top picks, so weigh the 4.3 rating against that smaller sample. As with any high-capacity chair, treat the 500 lb figure as a ceiling and build in a buffer against your actual weight rather than buying right at the limit.\n\nQuiet wheels, useful for shared home offices. That's a real strength, but weigh it against the flip side: smaller review base than the top picks.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KLj-p7YnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=workcocoon-20",
     description:
       "A large steel panel that clamps directly onto a standard desk edge with no drilling, appropriate for buyers wanting maximum hanging surface at a lower price than most full-size systems.\n\nBecause this is a single clamp point holding up a tall vertical panel, it's worth checking your desk edge thickness against the listing before ordering and not loading the far top corners too heavily.\n\nNo drilling required for installation. On the other hand, single clamp point carries more leverage stress on a tall panel. Both are worth keeping in mind before deciding.",
     specs: ["59 x 35 inch steel panel", "No-drill clamp mount", "Dual monitor stand", "Standard flat desk edge required"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.9 stars from Amazon ratings",
     reviews: "66 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31h2QOu6ArL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQJ21TD4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQJ21TD4?tag=workcocoon-20",
     description:
       "A C-clamp mounted tray designed for horizontal, under-desk use rather than vertical hanging, meaningfully lower leverage stress on the clamp than a vertical pegboard carries.\n\nThe high 4.9-star rating with a solid review base suggests the clamp mechanism holds up well for its intended horizontal load, though it isn't designed to substitute for a vertical desk-back pegboard.\n\nA genuine advantage here is that horizontal mounting means lower clamp leverage stress. The tradeoff is that not a vertical hanging pegboard, serves a narrower cable-focused role.",
     specs: ["30.2 inch tray length", "No-drill C-clamp mount", "Horizontal under-desk mounting", "High review rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oUaLqsLtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=workcocoon-20",
     description:
       "A clamp-on metal shelf with a small pegboard section and pencil holder, appropriate for buyers wanting compact desk-edge storage rather than a full vertical panel.\n\nA shelf clamped to the desk edge projects weight outward rather than upward, which is a different leverage profile than a tall vertical pegboard, still worth checking the clamp's rated capacity before loading it heavily.\n\nCombines shelf storage with a small pegboard section. That said, much smaller hanging surface than a full pegboard. Neither should be a surprise once you know to look for it.",
     specs: ["Metal clamp-on shelf", "Small pegboard section", "Pencil holder included", "Compact footprint"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51v-7P2kqkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=workcocoon-20",
     description:
       "Three clamp points spread the leverage stress of a vertical panel across more of the desk edge than a single clamp, meaningfully reducing the risk of one clamp bearing the full load.\n\nThis matters more once monitor mounts and a shelf are added, since each adds its own forward or upward leverage, worth verifying the desk edge has room for all three clamp points before ordering.\n\nWorth calling out specifically: steel build holds up under vertical panel load. The catch is requires more desk edge space for three clamp points.",
     specs: ["47 x 31 inch steel panel", "Triple clamp mount", "2 monitor mounts included", "Storage shelf included"],

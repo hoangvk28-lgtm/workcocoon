@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 263 Amazon ratings",
     reviews: "263 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41jMGauB1nL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLL4H69Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLL4H69Z?tag=workcocoon-20",
     description:
       "This is the only pick in this guide explicitly marketed for two people, with a 78-inch length that gives each person roughly 39 inches of surface, enough for a monitor and keyboard without crowding a shared centerline. It is a fixed-height desk rather than an electric standing desk, so there is no motorized height adjustment.\n\nBecause it is not height adjustable, both people sit at the same fixed height, which works fine if you are similar in height but is a real limitation if you differ by more than a few inches. The rustic wood and metal build is stable across its long span, though a fixed desk this wide should still be checked for center sag if you plan to load it heavily.\n\nWorth calling out specifically: 78-inch length gives real per-person surface area. The catch is fixed height only, no electric sit-stand adjustment.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,226 Amazon ratings",
     reviews: "2,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ikoMgen5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9X3FDYY?tag=workcocoon-20",
     description:
       "This is a single-user electric standing desk with a 32-inch width, well under the 36-inch-plus per-person minimum that makes side-by-side sharing workable. It is included here only as a reference point for how narrow a desk needs to avoid becoming for two people, not as a genuine recommendation for shared use.\n\nIts 4 memory height presets are shared by whoever is at the desk, which is fine for one person but would mean constant re-adjusting between two users with different heights. Treat this as a single-person desk, not a two-person option.\n\nCompact footprint for small rooms. Set against that, 32-inch width is too narrow for two people side by side. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,747 Amazon ratings",
     reviews: "1,747 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k4VBjAQzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=workcocoon-20",
     description:
       "At 55 inches wide, this desk sits right at the edge of workable per-person surface area for two people, giving roughly 27 to 28 inches each, tighter than the 36-inch-plus that comfortable side-by-side use generally needs. It is marketed as a single-user gaming desk, not a two-person desk, so treat any shared use as a tight compromise rather than the intended design.\n\nIt has one set of shared electric height presets, meaning two people of different heights would need to renegotiate the setting every time they swap places. It could work for two people who are close in height and keep setups minimal, like two laptops rather than two full monitor rigs.\n\nA genuine advantage here is that could work as a tight two-person split for minimal setups. The tradeoff is marketed as single-user, not a genuine two-person desk.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 11,572 Amazon ratings",
     reviews: "11,572 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415He+cLvaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=workcocoon-20",
     description:
       "This is a well-reviewed single-user desk at 48 inches wide, still under the roughly 60 to 72 inches needed for two people to each get 30 or more inches of usable surface. It appears in searches for two-person desks mainly because of its width, not because it is designed for shared use.\n\nWith one shared set of height presets and a single cable management channel, this desk is best treated as a solid single-user pick rather than a genuine two-person option. Two people could split it in a pinch for very minimal setups, but it is not what this desk was built for.\n\nSolid mid-size footprint for one person. On the other hand, 48-inch width is tight for genuine two-person use. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,463 Amazon ratings",
     reviews: "8,463 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418JjdqdnpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=workcocoon-20",
     description:
       "Like the ErGear pick above, this is a 48 by 24 inch single-user desk, not a two-person design, and it lacks the surface width, independent presets, or doubled cable capacity that a genuine shared desk needs. Its splice-board maple top is a step up in material over basic laminate.\n\nIf two people were to share this desk, each would get about 24 inches of surface, tight even for two laptops side by side. This is a strong single-user pick that happens to surface in two-person searches due to its width, not a recommendation for actual shared use.\n\nHigh review volume with solid rating. That's a real strength, but weigh it against the flip side: not built for two people, surface too tight if split.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 598 Amazon ratings",
     reviews: "598 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41daFWT9JPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CNH9SQT7?tag=workcocoon-20",
     description:
       "This converter's dual monitor stand supports two displays for one person, not two separate users, and it is worth clarifying that distinction since dual monitor and two-person are easy to conflate in a search. It sits on top of an existing desk rather than being a standalone two-person surface.\n\nAt 42 inches wide with a single riser platform, it has no independent space for a second person's keyboard and mouse. This is a genuinely useful single-user upgrade for someone who wants two screens, not a shared-desk solution.\n\nWorth calling out specifically: no floor assembly needed, sits on existing desk. The catch is dual monitor stand is for one person, not two users.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,316 Amazon ratings",
     reviews: "5,316 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oErF+y4gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=workcocoon-20",
     description:
       "This 24x48 inch desk is another single-user design that surfaces in two-person searches due to its width, but at 48 inches it offers the same tight per-person split as the similarly sized ErGear and FEZIBO picks above. The rustic brown finish gives it a warmer look than plain black or white options.\n\nWith one shared preset set and no doubled cable channel, it is best treated as a solid single-user desk at a reasonable price rather than a two-person recommendation. Two people would each get about 24 inches, workable only for the lightest of setups.\n\nReasonable price for the size. Set against that, not built for two people, tight surface split. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 555 Amazon ratings",
     reviews: "555 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oHg37v77L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=workcocoon-20",
     description:
       "At 55 inches wide and 27.6 inches deep, this is the widest and deepest single-user desk in this guide, which puts it closest to workable two-person dimensions among the non-purpose-built options. It is still marketed as a single-user desk, not a shared design, and includes only one set of height presets.\n\nIf two people share this desk, each gets roughly 27 to 28 inches of width with a genuinely useful 27.6-inch depth, better than the other single-user picks here for fitting two keyboards and monitors. It remains a compromise compared to the purpose-built HSH desk, but the extra depth helps.\n\nA genuine advantage here is that extra depth helps a tight two-person split more than shallower desks. The tradeoff is still marketed and built as single-user, not two-person.",
     specs: [

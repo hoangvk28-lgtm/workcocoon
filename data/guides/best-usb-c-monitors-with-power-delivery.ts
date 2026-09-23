@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41qiWKr6LML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08KFSMGJ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08KFSMGJ8?tag=workcocoon-20",
     description:
       "A large 34-inch curved UWQHD panel with explicit USB-C power delivery branding, appropriate for buyers wanting a big single-cable productivity setup.\n\nVerify the exact PD wattage against your laptop's charging requirement in the fine print, since curved ultrawide monitors in this class often support high but not universal wattage.\n\nWorth calling out specifically: 100Hz refresh rate for smoother motion. The catch is verify exact PD wattage against your laptop's actual charging requirement.",
     specs: ["34-inch curved UWQHD panel", "100Hz refresh rate", "USB-C with power delivery", "VA panel technology"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=workcocoon-20",
     description:
       "Dell's monitor line typically documents power delivery wattage clearly in its spec sheets, a genuine convenience when comparing against your laptop's charging needs.\n\n144Hz refresh rate at QHD resolution adds real value for buyers who also want smooth motion alongside single-cable charging.\n\n144Hz refresh rate alongside QHD resolution. Set against that, still verify the documented wattage against your specific laptop model. Both matter when comparing it to the other picks here.",
     specs: ["27-inch QHD (2560x1440) panel", "144Hz refresh rate", "USB-C with power delivery", "Clearly documented PD wattage"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=workcocoon-20",
     description:
       "A true 4K UHD panel with a genuinely high 120Hz refresh rate, appropriate for buyers wanting the sharpest resolution in this guide alongside single-cable USB-C charging.\n\n99% sRGB coverage gives strong color accuracy for buyers who also do color-sensitive work on this display.\n\nThe standout detail is that 99% sRGB coverage for strong color accuracy. Balancing that out, verify PD wattage against your laptop's specific charging requirement.",
     specs: ["27-inch 4K UHD IPS panel", "120Hz refresh rate", "99% sRGB color coverage", "USB-C with power delivery"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41DSJsc4qKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=workcocoon-20",
     description:
       "A more budget-friendly QHD option with built-in speakers, appropriate for buyers who don't need the highest refresh rate but still want reliable single-cable power delivery.\n\nBuilt-in speakers avoid needing separate desk audio equipment, a genuine convenience for video calls.\n\nBuilt-in speakers avoid separate audio equipment. That's a real strength, but weigh it against the flip side: standard 75Hz refresh rate, not high-refresh gaming tier.",
     specs: ["27-inch WQHD (2560x1440) panel", "75Hz refresh rate", "USB-C with power delivery", "Built-in speakers"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41z0BPiXo6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNQDB6JY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNQDB6JY?tag=workcocoon-20",
     description:
       "A genuine 34-inch curved ultrawide WQHD panel at 100Hz, appropriate for buyers wanting maximum horizontal workspace alongside single-cable USB-C power delivery.\n\nIPS panel technology gives more consistent viewing angles than a VA alternative, worth the trade-off for buyers prioritizing color consistency across the wide curve.\n\nIPS panel for consistent viewing angles across the curve. On the other hand, highest price in this guide. Both are worth keeping in mind before deciding.",
     specs: ["34-inch curved ultrawide WQHD panel", "100Hz refresh rate", "IPS panel technology", "USB-C with power delivery"],

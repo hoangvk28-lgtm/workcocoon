@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21KH+uw1QfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FB7KQLR1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FB7KQLR1?tag=workcocoon-20",
     description:
       "The Synology DS225+ pairs an Intel CPU with hardware transcoding support, meaning it can decode and resize 4K video on the fly for smooth streaming to a phone or smart TV instead of stuttering through it in software. That processor tier matters more than bay count for a lot of home office buyers who plan to run a Plex-style media server alongside file storage. It runs Synology's DSM software ecosystem, which bundles Synology Drive for file sync, Synology Photos for a private photo library, and Surveillance Station for camera feeds. As a diskless 2-bay unit, budget separately for two NAS-grade drives before treating the price as the full cost of ownership. Full DSM software ecosystem included. That's a real strength, but weigh it against the flip side: diskless, drives are a separate a competitive price-200+ per bay expense.",
     specs: [
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 is positioned as a straightforward home or office backup hub, a place to centralize files and keep an eye on shared storage without the added cost of the transcoding-capable DS225+. It is the cheapest entry point into Synology's DSM software ecosystem in this guide, which matters if you value the brand's polished, well-documented interface over raw CPU headroom. As a 2-bay diskless unit, it ships without drives, so plan for two NAS-rated drives on top of the enclosure price. It suits buyers who mainly want reliable file backup and shared access rather than a media server. Worth calling out specifically: straightforward setup for basic file backup and sharing. The catch is lacks the DS225+'s Intel hardware transcoding.",
     specs: [
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "The UGREEN NAS DXP2800 is a 2-bay diskless unit aimed at content creators and storage enthusiasts, running UGREEN's own NASync operating system rather than DSM. It gives buyers who are comfortable stepping outside the Synology ecosystem a dedicated content-creation angle at roughly the same price as the DS225+.\n\nBecause it is diskless, remember to budget for two NAS-grade drives separately, and set aside a real afternoon (2-4 hours is typical) for initial drive install, OS setup, and RAID configuration rather than expecting a plug-and-play experience like a USB external drive.\n\nCompetitive 2-bay footprint. Set against that, nASync has a smaller app ecosystem than DSM. Both matter when comparing it to the other picks here.",
     specs: [
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The UGREEN NAS DH2300 is the cheapest pick in this entire guide, a 2-bay desktop NAS that supports up to 64TB of total capacity once you add drives. It is the best beginner-friendly entry point here for someone who has never set up a NAS before and wants the lowest possible buy-in on the enclosure itself.\n\nBeing diskless and entry-level, expect to add NAS-rated drives separately, and plan on a genuine 2-4 hour setup window for drive installation, OS configuration, and RAID setup, this is a real computer to configure, not a device that just works the moment it's plugged in.\n\nA genuine advantage here is that supports up to 64TB total once drives are added. The tradeoff is lower price reflects a lighter CPU tier than the Synology/Asustor picks.",
     specs: [
@@ -173,7 +173,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31LwADnr-0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C5MB5MTS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5MB5MTS?tag=workcocoon-20",
     description:
       "The Asustor AS5402T is the only pick in this guide with 4x dedicated M.2 NVMe SSD slots for a true read/write cache, on top of an Intel quad-core 2.0GHz CPU and 4GB of DDR4 RAM. It also has 2x 2.5GbE network ports, positioning it for gaming cloud storage and live-stream workflows where fast, low-latency access matters. Keep in mind that most home routers only have 1GbE ports, so those 2.5GbE ports won't show a real speed advantage unless you also upgrade to a 2.5GbE switch, otherwise the faster port sits underused. As a diskless unit, budget for NAS-rated drives separately on top of the enclosure price. Intel quad-core CPU handles transcoding and heavier workloads well. That's a real strength, but weigh it against the flip side: most expensive pick in this guide.",
     specs: [
@@ -205,7 +205,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/316rg+rMUIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHYPGX1M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHYPGX1M?tag=workcocoon-20",
     description:
       "The Asustor Drivestor 2 Pro Gen2 is a 2-bay diskless NAS built around a 1.7GHz quad-core CPU, 2GB of DDR4 RAM, and a single 2.5GbE port, positioned as a small home media server. It sits below the AS5402T in both CPU and RAM tier, which is the right tradeoff if you mainly want reliable file storage and light media playback rather than heavy transcoding or multiple simultaneous apps.\n\nBecause RAM is not as generous here as on higher-tier units, running several apps at once (file sync plus a media server plus backup) is more likely to bottleneck. As with every pick in this guide, it ships diskless, so add NAS-rated drives to your budget.\n\nWorth calling out specifically: 2.5GbE port for faster local transfers on a matching network. The catch is 2GB RAM limits how many apps can run smoothly at once.",
     specs: [
@@ -237,7 +237,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31sl9NJEMFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B091DWPH4T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B091DWPH4T?tag=workcocoon-20",
     description:
       "The BUFFALO LinkStation 720 is the only pick in this entire guide that ships with hard drives already included, 4TB total, which removes the separate drive purchase and the true-cost surprise that comes with every diskless unit above. It is positioned for home office private cloud storage, giving buyers a single, known price rather than an enclosure cost plus a drive-shopping trip.\n\nThat convenience trades off against flexibility, since you can't choose your own drive brand or capacity tier the way you can with a diskless unit, and 4TB is a fixed starting capacity rather than a range you configure yourself.\n\nRemoves the true-cost surprise of diskless NAS units. Set against that, no choice over drive brand or capacity tier. Both matter when comparing it to the other picks here.",
     specs: [
@@ -267,7 +267,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31fB2HcPxtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTX78T19?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTX78T19?tag=workcocoon-20",
     description:
       "The QNAP TS-233-US runs an ARM Cortex-A55 quad-core processor with 2GB of DDR4 RAM, positioning it as an affordable desktop NAS for basic file storage. ARM-based budget NAS units like this one handle everyday file storage and backup fine, but they will stutter or fail outright at 4K video transcoding tasks like running Plex, so this is a pick for storage first, media server second.\n\nAs a diskless 2-bay unit, add NAS-rated drives separately. It's a reasonable budget option if your main use case is centralized backup rather than streaming transcoded video to multiple devices.\n\nA genuine advantage here is that fine for straightforward file storage and backup. The tradeoff is aRM CPU will stutter or fail at 4K transcoding, unlike the Intel-based picks.",
     specs: [

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "550",
     imageUrl: "https://m.media-amazon.com/images/I/61sXblCiKrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B003XR7CE4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B003XR7CE4?tag=workcocoon-20",
     description:
       "The Floortex is the highest-rated pick in this guide, built from 0.11-inch polycarbonate rated for medium and high pile carpet over half an inch deep. Its gripper back holds firmly into the pile so the mat stays put rather than sliding as you roll a chair across it.\n\nPolycarbonate carries roughly twice the impact strength of standard PVC, and this mat is GreenGuard certified, PVC-free, and phthalate-free. It lies flat immediately out of the box rather than needing days to relax, and it's backed by a lifetime warranty, a meaningful reassurance on a mat that has to hold its shape against constant carpet pressure.\n\nWorth calling out specifically: roughly twice the impact strength of standard PVC. The catch is not rated for extra-high pile over 3/4\".",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "201",
     imageUrl: "https://m.media-amazon.com/images/I/51UDuDStG2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96LWLZ7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96LWLZ7?tag=workcocoon-20",
     description:
       "At 48x60 inches, the Marvelux is one of the largest mats in this guide, giving a chair genuine room to roll without running off the edge, a common frustration on undersized mats over thick carpet. It's rated for carpet up to 3/4 inch including padding, a specific and useful spec since padding adds real depth beyond the carpet pile itself.\n\nIts studded gripper back anchors into the pile, and the lightly textured top adds a bit of rolling traction. Marvelux notes it's made using 50% renewable energy and is 100% recyclable, a genuine eco angle among mostly conventional polycarbonate competitors.\n\nRated including padding depth, not just carpet pile. Set against that, lower star rating than the top Floortex pick. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "3.6",
     reviews: "1,031",
     imageUrl: "https://m.media-amazon.com/images/I/31d9jTEL4sL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B003XR480U?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B003XR480U?tag=workcocoon-20",
     description:
       "This larger Floortex pick shares the same 0.11-inch polycarbonate build and roughly twice the impact strength of PVC as the top pick in this guide, but scales up to a 48x60 inch footprint for buyers who need more rolling room on plush, high-pile carpet. It's GREENGUARD certified and 100% recyclable, matching the same eco credentials.\n\nIt lies flat immediately out of the box, no waiting for it to settle. Its star rating trails the smaller Floortex pick somewhat, worth weighing if size isn't a hard requirement for your setup.\n\nA genuine advantage here is that same impact-resistant polycarbonate as the top pick. The tradeoff is lower star rating than the smaller Floortex pick.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "3.7",
     reviews: "922",
     imageUrl: "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=workcocoon-20",
     description:
       "The ES Robbins is the only standard-size pick in this guide rated specifically for extra-high pile carpet over 1 inch including padding, a depth that sinks thinner mats entirely. Its 0.2-inch vinyl construction is nearly double the thickness of the polycarbonate picks above it, giving it the rigidity to stay on top of genuinely deep pile.\n\nAnchorBar cleats grip into the carpet safely underfoot, and it's GREENGUARD Gold certified, phthalate and cadmium free, and Made in USA. Its lifetime No Crack warranty backs a mat built for the deepest carpet this guide covers at a standard 36x48 inch size plus lip.\n\n0.2\" thickness resists sinking into deep pile. On the other hand, lower star rating than the top polycarbonate picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "123",
     imageUrl: "https://m.media-amazon.com/images/I/61oh0YQV+uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004DRB4OC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004DRB4OC?tag=workcocoon-20",
     description:
       "This EverLife pick scales the same extra-high pile rating up to a larger 45x53 inch mat plus a 25x12 inch lip, giving significantly more rolling footprint than the standard-size ES Robbins pick above for buyers who need it. It shares the same 0.2-inch vinyl thickness rated for pile over 1 inch including padding.\n\nAnchorBar cleats and a beveled edge round out the build, and ES Robbins backs it for multi-shift heavy use with the same lifetime No Crack warranty, Made in USA. This is the pick for a larger desk footprint on genuinely deep carpet rather than a compact single-chair zone.\n\nSame 0.2\" thickness rated for pile over 1\". That's a real strength, but weigh it against the flip side: smaller review sample than most picks in this guide.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "3.6",
     reviews: "31",
     imageUrl: "https://m.media-amazon.com/images/I/41GW8CksdVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B003V8WGJ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B003V8WGJ6?tag=workcocoon-20",
     description:
       "At 46x60 inches, this is the largest vinyl mat in this guide, built at 0.17 inches thick and rated for high pile carpet up to 1 inch. Its size makes it a fit for a wide desk setup or a shared workspace where more than one chair needs to roll across the same mat.\n\nAnchorBar cleats grip the carpet, and a beveled Crystal Edge gives a smoother transition rolling onto the mat than a sharp square edge would. It's GREENGUARD Gold certified and backed by the same lifetime No Crack warranty as the other ES Robbins picks in this guide.\n\nWorth calling out specifically: beveled Crystal Edge smooths the roll-on transition. The catch is smallest review count in this guide.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "85",
     imageUrl: "https://m.media-amazon.com/images/I/51k7ILCf31L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96KCL9P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96KCL9P?tag=workcocoon-20",
     description:
       "At 0.2 inches thick, this is the thickest polycarbonate mat in this entire guide, combining polycarbonate's impact resistance with vinyl-level thickness to cover every carpet depth this guide addresses, including very high pile and plush. Its smooth back also makes it dual-use on hard floor, useful if you ever move the mat to a different room.\n\nMarvelux rates it as compatible with underfloor heating and states it will not curl, sink, or crack, direct answers to the two biggest complaints about thin mats on deep carpet. Eco-friendly manufacturing rounds out a spec sheet built for buyers who want the broadest carpet-depth coverage in one mat.\n\nRated for every carpet depth this guide covers. Set against that, second-most expensive pick in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "The MuArts is a genuinely rigid 5mm-thick mat rather than a flexible sheet, which means it sits on top of thick carpet like a rigid platform instead of sinking down into the pile the way a thin, flexible mat would. It's rated for up to 1,400 lbs, the highest capacity in this entire guide, and works dual-use on either carpet or hard floor.\n\nIts crystal-clear finish keeps the carpet visible underneath, and it's backed by a 12-month warranty. It's also the most-reviewed pick in this guide by a wide margin, at 19,765 ratings, making it the pick for buyers who want rigidity and proven popularity at a lower price than the specialty polycarbonate and vinyl options above.\n\nA genuine advantage here is that rigid build resists sinking better than thin flexible mats. The tradeoff is not officially pile-depth-rated like the polycarbonate/vinyl picks.",
     specs: [

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 is Epson's entry-level EcoTank model, cartridge-free by design with refillable ink tanks visible on the front so you can see ink levels at a glance rather than guessing. Scan and copy are included alongside wireless printing for a genuinely capable low-cost home office setup.\n\nAt a lower price than most other EcoTank models in this guide, it's a reasonable starting point for a home office that prints a moderate volume monthly, the math on ink tank payback improves the more you print, so weigh your actual monthly page count against the upfront cost before assuming this is automatically the best value pick.\n\nCartridge-free, refillable ink system. On the other hand, no automatic document feeder. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31Yt+pSHuGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=workcocoon-20",
     description:
       "Identical to the black ET-2800 above in every functional respect, cartridge-free tanks, wireless printing, scan and copy, just in a white finish for a home office that wants a lighter-colored device on the desk. The same value proposition and payback math apply here as the black version.\n\nIf finish color isn't a factor for you, compare current pricing between the two before buying since they're functionally the same printer.\n\nCartridge-free, refillable ink system. That's a real strength, but weigh it against the flip side: no automatic document feeder.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "Positioned specifically for everyday home printing, the ET-2400 is the cheapest EcoTank pick in this guide, cartridge-free with the same refillable tank system as its siblings but a simpler feature set overall. It covers print, scan, and copy over wireless without the extras a busier home office might want.\n\nFor a very light home office, occasional letters, forms, school assignments, this is the lowest upfront cost way into cartridge-free printing, though the payback period stretches out longer at low volume than it would for a heavier user.\n\nWorth calling out specifically: cartridge-free, refillable ink system. The catch is payback period is longer at low print volumes.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 steps up from the entry-level EcoTank models with an automatic document feeder, fax, and Ethernet, features a heavier home office user will actually use even though most buyers skip fax day to day. Ethernet support in particular is useful if you want a wired network connection instead of relying on wifi.\n\nCartridge-free ink tanks keep the same long-term value proposition as the rest of the EcoTank lineup, and at roughly the same price as the basic ET-2800, this is a meaningfully better value if you need ADF or wired networking.\n\nCartridge-free, refillable ink system. Set against that, bulkier than the basic ET-2800 and ET-2400. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=workcocoon-20",
     description:
       "Epson rates the ET-4950's included ink at up to 3 years of typical use before a refill is needed, the longest stated tank life in this guide, backed by a 2.4-inch color touchscreen and auto document feeder for a fuller home office workflow. At 18 PPM it's also faster than the entry-level EcoTank models here.\n\nThis is a meaningfully higher upfront cost than the basic EcoTank picks, so it makes the most financial sense for a home office printing consistently enough to actually reach that 3-year ink runway rather than a very light user who won't come close to using the tank capacity.\n\nA genuine advantage here is that color touchscreen for easier navigation. The tradeoff is highest price among the standard EcoTank picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41NRmd9wP9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B1J5PYCF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B1J5PYCF?tag=workcocoon-20",
     description:
       "The ET-3850 pairs cartridge-free ink tanks with Ethernet, ADF, and mobile printing for a home office that wants a more complete networking and document-handling setup. A bonus black ink bottle and USB cable are included in the box, a modest extra that offsets some of the higher upfront cost.\n\nAt this price tier, the ET-3850 makes the most sense for a home office with genuine higher-volume needs, scanning multi-page documents regularly, wired networking, where the extra features justify paying meaningfully more than the entry-level EcoTank models.\n\nBonus ink bottle included in the box. On the other hand, high upfront price relative to entry-level EcoTank models. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31r7o2eQ5TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N9JMXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N9JMXF?tag=workcocoon-20",
     description:
       "The ET-4850 bundles nearly every feature a home office ink tank printer could offer, scanner, copier, fax, automatic document feeder, and Ethernet, all built around the same cartridge-free tank system as the rest of the EcoTank lineup. It's marketed directly as an office printer rather than a home-first model.\n\nAs with the other higher-priced EcoTank picks here, the value case strengthens the more consistently you print, a home office that uses most of these features regularly will get more out of the higher price than one that only needs basic printing.\n\nEthernet, ADF, and fax all included. That's a real strength, but weigh it against the flip side: high upfront price.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41xOh51IRUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BL466Y41?tag=workcocoon-20",
     description:
       "This is HP's Smart Tank line rather than Epson's EcoTank, the two dominant refillable ink tank systems on the market, and it's the lowest-priced ink tank printer in this guide with 2 years of ink included in the box. Scanner and copier functions round out the all-in-one feature set.\n\nHP notes its wireless is 2.4GHz only, which generally means better range through walls than a dual-band 5GHz printer but a somewhat slower theoretical wireless ceiling, worth knowing if your router setup leans on a 5GHz-only network for other devices. For a home office comparing HP against Epson, this is a reasonable lower-cost starting point.\n\nWorth calling out specifically: 2 years of ink included in the box. The catch is 2.4GHz-only wifi has a lower ceiling than dual-band options.",
     specs: [

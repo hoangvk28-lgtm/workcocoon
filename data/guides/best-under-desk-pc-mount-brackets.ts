@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 551 Amazon ratings",
     reviews: "551 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418wmGky6tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B078JXC9X8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B078JXC9X8?tag=workcocoon-20",
     description:
       "This is genuinely a complete mount solution rather than a standalone bracket component, the steel bracket and adjustable strap ship together with everything needed for installation, no separately sourced desk-attachment hardware required.\\n\\nThe steel bracket material itself is the safety-critical load-bearing component here, and its solid steel construction (rather than a thinner stamped metal or plastic) is a genuine reason this holds up well across its large review base at this price point.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the VIVO Universal UPS before deciding.\n\nWorth knowing before you decide: Solid steel bracket material for real load-bearing safety. On the other side, Universal sizing may need verification against unusually narrow or wide towers. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Complete solution: steel bracket plus adjustable strap","Solid steel construction","Largest review base in this guide","Lowest price in this guide"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 190 Amazon ratings",
     reviews: "190 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Oai8VYjuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08DDK44TY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DDK44TY?tag=workcocoon-20",
     description:
       "A genuinely universal bracket sizing explicitly marketed across UPS units, mini PCs, and even a PlayStation 5, a real differentiator from towers-only brackets given how differently shaped these devices are compared to a standard mid-tower case.\\n\\nThis bracket's adjustable design accommodates the notably different proportions of a mini ITX or SFF build versus a full tower, verify your specific device's dimensions against the listed adjustable range before assuming universal compatibility extends to every device shape.\n\nSet against the VIVO Under, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Solid review base and rating. On the other side, Higher price than the basic strap-and-bracket pick. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Universal bracket for UPS, mini PC, PS5","Adjustable for mini ITX and SFF builds","Solid review base","Complete mount solution"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 55 Amazon ratings",
     reviews: "55 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yEZ7bQp4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FD9XCYM7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FD9XCYM7?tag=workcocoon-20",
     description:
       "This bracket-only product includes screws, meaning it requires the buyer to separately drill into the desk for the actual attachment mechanism, a genuinely different total-purchase consideration than the screw-free complete solutions ranked above it.\\n\\nThe 5-level height adjustment (1.8 to 3.3 inches) targets specifically the flatter, compact form factor of devices like the Mac mini rather than a taller tower, this metal CPU holder's positioning template is a genuinely useful inclusion for precise installation.\n\nRelative to the VIVO Universal UPS, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Positioning template genuinely eases installation accuracy. On the other side, Requires drilling since screws are included as the attachment method. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["5-level height adjustable, 1.8-3.3 inches","Includes screws (requires drilling)","Positioning template included","Metal construction"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 38 Amazon ratings",
     reviews: "38 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41d9ePK-7vL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB5RQH7V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DB5RQH7V?tag=workcocoon-20",
     description:
       "This bracket serves multiple mounting-method categories simultaneously, VESA monitor-arm attachment, under-desk mounting, and wall mounting, a genuine versatility advantage for a buyer whose needs might change or who wants one bracket for multiple small devices over time.\\n\\nExplicitly compatible with NUC-style computers, thin clients, Wi-Fi routers, and cable boxes beyond just a Mac mini, this bracket's broad small-device compatibility list is worth checking against your exact device dimensions since 'small CPU' compatibility varies meaningfully by exact model.\n\nCompared with the Under Desk Mini PC Mount Bracket, 5 above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Lowest price in this guide. On the other side, Smaller review base than the top picks in this guide. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["VESA, under-desk, and wall mount compatible","Fits NUC, thin clients, small CPUs, routers","Lowest price in this guide","Compact bracket design"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 8 Amazon ratings",
     reviews: "8 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41clyyUZ2lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GZW651J5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GZW651J5?tag=workcocoon-20",
     description:
       "An upgraded 6-level height adjustment (versus 5-level on the similarly named competitor above) gives slightly finer positioning control, this heavy-duty metal bracket is the central safety-critical component here, and its metal-not-plastic construction matters given how directly its thickness determines real load-bearing capacity.\\n\\nThe very small review base is a genuine limitation for a newer product in this exact niche, weigh the finer 6-level adjustment against the far more proven 5-level competitor's larger review sample before deciding which matters more for your setup.\n\nSet against the Adjustable Thin Client Mini PC Mount Bracket, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Heavy-duty metal construction for genuine load-bearing safety. On the other side, Very small review base, weigh with appropriate caution. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["6-level height adjustable, 1.8-3.3 inches","Heavy-duty metal construction","Lowest price in this guide","Small but positive review base"],

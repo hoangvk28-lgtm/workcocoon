@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 covers the home-office basics, print, scan, copy, and an auto document feeder for multi-page jobs, at the lowest price in this list. Built-in fax is included too, though most home offices in 2026 will never touch it.\n\nAs a standard cartridge inkjet, its scan resolution is fine for everyday paperwork but isn't the pick for high-fidelity document archiving. It's a solid, low-cost starting point for a single-user home office with light-to-moderate volume.\n\nAuto document feeder for multi-page scans. That's a real strength, but weigh it against the flip side: fax is unused by most home offices in 2026.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520's 1.42-inch OLED display and clearer control panel make it easier for multiple household members to navigate menus without confusion, a real advantage in a shared home office. Duplex printing is built in for double-sided documents.\n\nOver wifi with 2-3 users, expect it to handle print jobs one at a time through its queue without issue at light-to-moderate combined volume; it isn't built for simultaneous heavy jobs from every device at once.\n\nWorth calling out specifically: duplex printing standard. The catch is standard cartridge inkjet, higher cost per page at volume.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "As the only laser printer in this list, the Brother DCP-L2640DW carries the highest rated duty cycle, but that ceiling number describes a maximum, not a healthy recommended volume. Realistic sustained monthly use should sit well under the rated maximum to avoid excess wear.\n\nDuplex printing, wireless and mobile support, and Alexa compatibility round out a genuinely office-grade machine, best suited to a home office with real, sustained text-document volume rather than occasional printing.\n\nLower cost per page at real high-volume use. Set against that, highest upfront price in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125's auto document feeder and duplex printing are built with multi-device home-office setups in mind, and its higher-capacity cartridges hold up well against a print queue fed by 2-3 different household devices over the same wifi network.\n\nIt's rated Best-for-Home Office by HP, and in practice that shows up in steadier queue handling rather than any single standout spec, a solid mid-tier pick between the budget inkjets and the laser printer in this list.\n\nA genuine advantage here is that auto document feeder for scanning multi-page paperwork. The tradeoff is pricier than the basic PIXMA picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125e shares its sibling's auto document feeder and duplex printing at a slightly lower price, with HP's Instant Ink enrollment built into the setup flow. That makes it a good fit for a home office that prints frequently enough to want cartridge costs handled automatically.\n\nBecause it's aimed at more frequent daily use, its consumables are sized to avoid the idle-ink drying issues that affect low-volume inkjets, useful if the home office sees regular, steady printing rather than sporadic bursts.\n\nAuto document feeder built in. That's a real strength, but weigh it against the flip side: ties into HP's Instant Ink enrollment by default.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "For a new home office on a tight setup budget, the DeskJet 4355 covers print, scan, and copy for at a budget-friendly price, with a 3-month Instant Ink trial included. It's a fine starting point for a single desk that doesn't yet need multi-user wifi sharing or high duty cycle. Scan resolution is adequate for everyday paperwork like receipts and forms, though buyers who need sharper OCR accuracy on dense contracts should look at a higher-resolution scanning pick instead. Worth calling out specifically: instant Ink trial softens initial cartridge cost. The catch is not built for multi-user wifi sharing at volume.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320's compact footprint makes it the easiest fit for a home office carved out of a small room or a corner desk, without sacrificing duplex printing or basic scan and copy functions. It's a light-duty machine best matched to a lower monthly volume.\n\nFor security-conscious home offices, keeping any wifi-connected printer, including this one, on an isolated guest network with firmware kept current is a simple, often-overlooked precaution worth taking regardless of which printer you choose.\n\nDuplex printing included. Set against that, lower duty cycle than the office-grade picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31jXroCi2EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C3L93F2Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C3L93F2Q?tag=workcocoon-20",
     description:
       "This is a Bluetooth label maker, not a full home-office printer, and it belongs on this list strictly as a specialty labeling accessory. It's genuinely handy for labeling file folders, storage boxes, and cable bundles around a home office setup. at a budget-friendly price, it's worth adding alongside one of the actual printers above for a household filing system, but it cannot print documents, scans, or full pages, and shouldn't be positioned as a primary home-office printer recommendation. A genuine advantage here is that compact, no desk space required. The tradeoff is cannot print documents or full pages.",
     specs: [

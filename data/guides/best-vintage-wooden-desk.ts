@@ -38,7 +38,7 @@ export const products: VintageDesk[] = [
     style: "Traditional vintage",
     materialReality: "Solid wood + MDF",
     imageUrl: `${BASE}/02-cozy_mid_century_office_corner_with_plants.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00AKKOKRY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00AKKOKRY?tag=workcocoon-20",
     whyItWorks:
       "The SAFAVIEH Landon is the most storage-dense desk on this list: 5 drawers in a 36.2\" width. The design is traditional rather than pure MCM - the styling references Victorian and traditional American writing desks. For buyers who want vintage character, substantial storage, and a compact footprint, the Landon delivers all three. Available in Black, Walnut-tone, and Henna Brown finishes. SAFAVIEH is an established furniture brand with a track record across multiple product lines.",
     tradeoffs: [
@@ -71,7 +71,7 @@ export const products: VintageDesk[] = [
     style: "Mid-century modern",
     materialReality: "Solid wood legs and frame + walnut veneer desktop",
     imageUrl: `${BASE}/03-cozy_home_office_with_vintage_charm.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07FDJT6DC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FDJT6DC?tag=workcocoon-20",
     whyItWorks:
       "The Linon Melissa is the most authentically mid-century modern design on this list: clean horizontal lines, tapered solid wood legs, a simple top surface with no overhead storage, and a warm walnut-tone veneer desktop. The construction is honest: solid wood frame and legs with a walnut veneer desktop surface - a real wood facing over a substrate, giving the desk its warm grain appearance. Linon is an established mid-sized furniture brand with a consistent review history.",
     tradeoffs: [
@@ -102,7 +102,7 @@ export const products: VintageDesk[] = [
     style: "Mid-century modern",
     materialReality: "Walnut laminate top + solid wood tapered legs",
     imageUrl: `${BASE}/04-cozy_farmhouse_writing_nook_with_greenery.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07VYLXDG9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VYLXDG9?tag=workcocoon-20",
     whyItWorks:
       "The Modway Render is the most budget-accessible MCM desk on this list with genuine solid wood tapered legs. The desktop is walnut-colored laminate over a substrate - the surface is not wood, but the legs are real wood. For buyers who want the MCM silhouette at the lowest price on this list, the Render delivers. The laminate desktop is durable and scratch-resistant, which is a practical advantage over veneer or unfinished solid wood tops in daily use.",
     tradeoffs: [
@@ -133,7 +133,7 @@ export const products: VintageDesk[] = [
     style: "Modern-MCM hybrid",
     materialReality: "Wood top + wood base",
     imageUrl: `${BASE}/05-modern_minimalist_home_office_design.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BMB7RXZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BMB7RXZW?tag=workcocoon-20",
     whyItWorks:
       "The SAFAVIEH Bernhart sits between MCM and contemporary minimalism - walnut-tone top with black base, clean lines, no ornate hardware. It reads as MCM-influenced without committing fully to the tapered leg, warm-wood-only aesthetic. For home offices that mix modern and retro elements, the Bernhart's walnut and black combination suits the aesthetic without appearing period-committed.",
     tradeoffs: [
@@ -164,7 +164,7 @@ export const products: VintageDesk[] = [
     style: "Vintage-inspired",
     materialReality: "Solid wood",
     imageUrl: `${BASE}/06-cozy_vintage_style_home_office_retreat.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F8PHCSP7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8PHCSP7?tag=workcocoon-20",
     whyItWorks:
       "The SAFAVIEH Haven is described with solid wood construction - more material integrity than the MDF-component models in this category. The Desert Brown finish gives a warm vintage-toned appearance. Two drawers add practical storage in a vintage-style package. For buyers who want solid wood construction in a vintage-inspired design and need storage, the Haven covers both.",
     tradeoffs: [
@@ -195,7 +195,7 @@ export const products: VintageDesk[] = [
     style: "Mid-century modern",
     materialReality: "Solid wood",
     imageUrl: `${BASE}/07-cozy_modern_workspace_with_natural_light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FMJWHMD4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMJWHMD4?tag=workcocoon-20",
     whyItWorks:
       "The YEXINGlow 47.2\" is the widest desk on this list with solid wood construction and MCM design language - tapered legs, clean lines, two drawers. At 47.2\" wide, this is the most practical single-monitor workstation size in the MCM category on this list. Two drawers in a solid wood MCM desk at this width and price point is uncommon - most MCM desks either sacrifice storage for aesthetics or sacrifice material quality for storage.",
     tradeoffs: [
@@ -226,7 +226,7 @@ export const products: VintageDesk[] = [
     style: "Mid-century modern",
     materialReality: "Solid wood",
     imageUrl: `${BASE}/08-mid_century_modern_study_corner.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FMJVBM8Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMJVBM8Z?tag=workcocoon-20",
     whyItWorks:
       "The 39.4\" variant of the same YEXINGlow MCM desk - 7.8 inches narrower, same solid wood construction and two-drawer configuration. For tight spaces where 47.2\" is too wide, the 39.4\" gives the MCM aesthetic and storage in a genuinely compact footprint. At 39.4\" wide, this is best suited for laptop plus accessories, or a single small monitor (up to 24\") with a monitor arm.",
     tradeoffs: [
@@ -256,7 +256,7 @@ export const products: VintageDesk[] = [
     style: "Cherry traditional (not true MCM)",
     materialReality: "MDF top + solid rubber wood legs",
     imageUrl: `${BASE}/09-cozy_mid_century_modern_home_office.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C6LGPH3L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LGPH3L?tag=workcocoon-20",
     whyItWorks:
       "The Ucerna is labeled mid-century modern but is built around a cherry finish - a red-brown warm tone associated with 1980s American Colonial and traditional styles, not the walnut or teak tones of authentic mid-century Scandinavian design. The construction also reflects its backup status: MDF desktop with solid rubber wood legs. Use this as a backup if the higher-ranked picks are unavailable - the solid rubber wood legs and compact 41\" width give it functional credibility despite the style limitations.",
     tradeoffs: [

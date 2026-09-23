@@ -508,7 +508,7 @@ export default async function BestWirelessChargingStationsPage() {
           <h2 className="text-xl font-bold text-white mb-2">Browse wireless desk chargers on Amazon</h2>
           <p className="text-white/90 text-sm mb-5">Qi2, MagSafe, and 3-in-1 options -- all Prime-eligible.</p>
           <a
-            href="https://www.amazon.com/s?k=wireless+charging+station+desk&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=wireless+charging+station+desk&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

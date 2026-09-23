@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=workcocoon-20",
     description:
       "Anker's 8-in-1 hub is the cheapest way into a dual-monitor setup with a built-in SD card reader in this list, adding 2 HDMI ports, Gigabit Ethernet, and 85W power delivery around that card slot. Like nearly every dock in this price range, the SD reader is UHS-I speed, fine for occasional offloads but not built for a large professional card library. at a budget-friendly price, it's a reasonable pick for someone who occasionally pulls photos off an SD card rather than someone regularly clearing a 128GB card shot in UHS-II mode. A genuine advantage here is that dual HDMI for a 2-monitor setup. The tradeoff is that uHS-I reader speed only, a bottleneck for UHS-II cards.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=workcocoon-20",
     description:
       "Plugable's Thunderbolt 4 dock is built and certified specifically for recent MacBook Air and Pro models, with 100W charging, a single 6K display or dual 4K HDMI outputs, and an SD reader among its 6 USB ports. The Thunderbolt 4 upstream connection is fast, but the SD reader itself still runs at typical UHS-I speed internally.\n\nEven on Thunderbolt-certified docks, the built-in SD reader is usually wired over an internal USB 3.0 path rather than getting a dedicated Thunderbolt lane, so don't expect Thunderbolt-class transfer speeds from the card slot itself.\n\n100W charging covers even power-hungry MacBook Pro models. That said, sD reader speed doesn't scale with the Thunderbolt upstream connection. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31caYnrDSLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQWJNJ21?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQWJNJ21?tag=workcocoon-20",
     description:
       "UGREEN's Revodok Max 213 pairs 40Gbps Thunderbolt 4 with a newer SD/TF 4.0 reader spec, one of the few docks in this list actually built around a faster card interface rather than a generic UHS-I slot bolted onto a hub. Dual 4K or single 8K display output and 2.5 gigabit Ethernet round out a genuinely high-end port selection.\n\nIf your workflow regularly moves large UHS-II or faster card libraries, this is the pick in this list most likely to actually deliver on that speed rather than bottlenecking at the card reader itself.\n\nWorth calling out specifically: 2.5GbE networking outpaces most competing docks. The catch is highest price in this list.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31AV-seE2eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B088F7SY6S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B088F7SY6S?tag=workcocoon-20",
     description:
       "This Anker dock supports triple displays across 2 HDMI and 1 DisplayPort output while still including a standard SD card reader among its 13 ports, aimed at buyers who prioritize screen real estate over card transfer speed. 85W charging and both 10Gbps USB-C and 5Gbps USB-A data ports round out the connectivity.\n\nThe SD reader here is a standard UHS-I convenience slot rather than a speed-focused UHS-II design, so treat it as a backup option, not your primary card offload path if you shoot large files regularly.\n\nFast 10Gbps USB-C data port for external SSDs. Set against that, sD reader is UHS-I convenience speed, not built for fast card libraries. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/5190VfU0ZEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2BW24HM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D2BW24HM?tag=workcocoon-20",
     description:
       "This 14-in-1 dock covers dual 4K HDMI output, Ethernet, 100W passthrough charging, and both SD and TF card slots at the lowest price point among the true dual-monitor picks in this list. It's a practical option for a Dell, Lenovo, or HP laptop user who wants broad port coverage without paying dock-brand premium pricing.\n\nBoth card slots share the same UHS-I speed ceiling as the rest of the budget picks here, so this is a convenience-first dock, not a speed-first one, despite covering both SD and microSD formats.\n\nThe standout detail is that very competitive price for the port count. Balancing that out, uHS-I speed ceiling on both card slots.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41HZ73O5J4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXDQS4BD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXDQS4BD?tag=workcocoon-20",
     description:
       "UGREEN's Revodok Pro 210 packs dual HDMI up to 8K single or 4K dual, 100W PD, Gigabit Ethernet, and an SD/TF 3.0 card reader into a genuinely compact footprint at a budget-friendly price. It's one of the smallest docks in this list, useful if desk space is tight. SD/TF 3.0 is a step up from a bare UHS-I designation in marketing terms, but real-world transfer speed still lands closer to UHS-I territory than a true UHS-II reader, so keep expectations realistic for large card offloads. Lowest price among UGREEN's SD-reader docks in this list. That's a real strength, but weigh it against the flip side: real-world card speed lands closer to UHS-I than true UHS-II.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41iZIRUZlQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GKP61LKH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GKP61LKH?tag=workcocoon-20",
     description:
       "The Selore dock combines triple 4K display support across 3 HDMI and 2 DP outputs with a small always-on smart display showing weather and system info, an unusual extra for a dock in this price range. Its SD/microSD reader sits alongside 10Gbps USB A/C data ports and Gigabit Ethernet.\n\nAs with most docks in this list, the card reader itself is a standard-speed convenience slot rather than the fastest component on the device, the 10Gbps data ports are the better choice for moving large files quickly.\n\nGenuine triple 4K display support. On the other hand, card reader speed is standard, not the dock's strongest feature. Both are worth keeping in mind before deciding.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41VyJOXfkbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H2YRP5FS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H2YRP5FS?tag=workcocoon-20",
     description:
       "MOKiN's dock matches the Selore's triple-display and smart-display feature set with 3 HDMI and 2 DP outputs, 10G USB A/C, Gigabit Ethernet, and both SD and TF card slots, at a slightly higher price. It's built broadly compatible across Mac, Dell, HP, and other major laptop brands.\n\nIf you're deciding between this and the Selore pick, the practical difference for most buyers comes down to brand preference and minor port layout differences rather than card reader speed, both use standard-speed slots.\n\nA genuine advantage here is that triple display plus smart display extra. The tradeoff is that slightly pricier than the comparable Selore pick.",
     specs: [

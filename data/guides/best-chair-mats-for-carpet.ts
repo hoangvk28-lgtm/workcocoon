@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "54,421",
     imageUrl: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=workcocoon-20",
     description:
       "HON's PU vinyl mat runs 2.2mm thick in a 36x48 footprint with an extended lip, ramped edges, and anchor bars underneath built to grip low pile carpet up to 1/4 inch. The anti-skid top surface adds an extra layer of stability once the chair is rolling across it.\n\nA 5-year warranty backs this pick, the longest of any mat in this guide, which matters given how much daily rolling pressure a carpet chair mat absorbs over years of use.\n\nAnti-skid top surface. That's a real strength, but weigh it against the flip side: only rated for low pile carpet.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "This mat uses a rigid special material 5mm thick in a 54x32 footprint, and it's rated for 1,400 lbs, the highest capacity in this guide. Its rigidity keeps it flat rather than curling or sinking into carpet, an advantage over flexible vinyl mats on anything past the flattest pile.\n\nIt's dual-use on carpet or hard floor, so it holds its value if you relocate the setup later, and it's backed by a 12-month warranty.\n\nWorth calling out specifically: rigid construction resists sinking into carpet. The catch is shorter warranty than the HON pick.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,956",
     imageUrl: "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=workcocoon-20",
     description:
       "This 100% polycarbonate mat is 0.087 inches thick in a 36x48 footprint with hundreds of spikes across the underside for carpet grip. Unlike the rolled vinyl mats in this guide, it ships flat, so there's no waiting period before it lies fully flat.\n\nIt's rated for medium or low pile carpet up to 3/4 inch, a notably wider range than the entry-level PVC picks here, making it a solid middle-tier option between basic low-pile mats and the extra-high-pile pick further down this list.\n\nRated for a wider pile range than PVC picks. Set against that, no front lip. Both matter when comparing it to the other picks here.",
     specs: [
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "1,234",
     imageUrl: "https://m.media-amazon.com/images/I/514JrwWuWeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00620W1U4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00620W1U4?tag=workcocoon-20",
     description:
       "ES Robbins builds this vinyl mat 0.13 inches thick in a 60x72 footprint, the largest single mat in this guide by a wide margin, rated for medium pile carpet up to 3/4 inch. AnchorBar cleats on the underside are designed to be safe underfoot rather than sharp spikes, a meaningful detail on a mat this large that may see bare feet nearby.\n\nIt's Made in USA, GREENGUARD certified, and backed by a lifetime 'No Crack' warranty, commercial-grade backing that reflects its higher price and larger commercial-office-style footprint.\n\nA genuine advantage here is that lifetime 'No Crack' warranty. The tradeoff is most expensive pick in this guide.",
     specs: [
@@ -175,7 +175,7 @@ export const products: GuideProduct[] = [
     rating: "3.7",
     reviews: "922",
     imageUrl: "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=workcocoon-20",
     description:
       "This ES Robbins mat is 0.2 inches thick in a 36x48 footprint and is rated for extra-high pile carpet over 1 inch, including padding, the only pick in this entire guide rated for that pile category. Most competing mats top out at low or medium pile, leaving thick, plush, or padded carpet setups with almost no dedicated option, which this mat directly addresses.\n\nAnchorBar cleats keep it safe underfoot, and it's GREENGUARD Gold certified, phthalate and cadmium free, and Made in USA, with a lifetime warranty backing it.\n\nGREENGUARD Gold certified. On the other hand, lowest reviews-to-price ratio in this guide. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -207,7 +207,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "10,717",
     imageUrl: "https://m.media-amazon.com/images/I/21V7PYvl22L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K95V7X2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07K95V7X2?tag=workcocoon-20",
     description:
       "Lorell's tempered glass mat is 6mm thick in a 46x36 footprint, rated for 1,000 lbs and for any floor type, including carpet, hard floor, or marble. Glass sidesteps the whole pile-height question entirely since it sits rigid on top of any carpet without sinking in, and it's scratch-resistant and backed by a 5-year warranty.\n\nAvailability on this specific listing can be limited at times, so confirm current stock and price before buying rather than relying on a fixed number. It's the most-reviewed and highest-rated pick in this guide by a wide margin.\n\nWorks on any carpet pile height without a rating ceiling. That's a real strength, but weigh it against the flip side: listing availability can be limited, confirm price before buying.",
     specs: [
@@ -238,7 +238,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,486",
     imageUrl: "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=workcocoon-20",
     description:
       "GLSLAND's tempered glass mat is 5mm thick in a 36x46 footprint, rated for 1,200 lbs, with 4 anti-slip pads underneath. Like the Lorell pick, glass avoids the pile-height rating question entirely since it stays rigid on top of the carpet rather than needing cleats to dig in. It's BPA-free, phthalate-free, and odorless, and it's dual-use on carpet or hard floor. It's the cheapest tempered glass pick in this guide, a solid entry point into the glass category. Worth calling out specifically: rigid, unaffected by carpet pile height. The catch is smaller footprint than the Lorell glass pick.",
     specs: [
@@ -270,7 +270,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "902",
     imageUrl: "https://m.media-amazon.com/images/I/514z0haVzTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09RN8H3QD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09RN8H3QD?tag=workcocoon-20",
     description:
       "The Anji Mountain mat is jacquard-woven polyester over a PVC core, 0.25 inches thick in a 36x48 footprint, and it's the only pick in this entire guide that looks like a decorative rug rather than a plastic mat. Felt backing plus rubberized non-slip dots hold it in place, and it's hand-crafted rather than mass-molded like the vinyl and polycarbonate picks here.\n\nIt's water-resistant and stain-resistant, and it's rated for low pile carpet or hard surfaces. If blending the mat into the room's decor matters as much as function, this is the only pick in this guide built with that in mind.\n\nWater-resistant and stain-resistant. Set against that, only rated for low pile, not medium or high. Both matter when comparing it to the other picks here.",
     specs: [

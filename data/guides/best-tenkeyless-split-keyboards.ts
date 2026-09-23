@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 9,553 Amazon ratings",
     reviews: "9,553 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41MgdS5CMFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B075GZVD4T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B075GZVD4T?tag=workcocoon-20",
     description:
       "A very large review base confirms this genuinely sits at the TKL-plus-split intersection, no number pad and a real split ergonomic layout combined, at a meaningfully lower price than the flagship options given how limited the product pool at this specific combination tends to be.\n\nThis genuinely doesn't compromise on core split ergonomic quality to achieve its more compact TKL footprint, the split layout retains standard key spacing and a proportioned wrist rest despite the number pad removal, addressing the core tradeoff concern directly for this dual-priority intersection.\n\nGenuinely combines both TKL and split ergonomic features without compromise. That's a real strength, but weigh it against the flip side: no genuine tenting adjustability, only the split-layout benefit.",
     specs: ["Genuine TKL-plus-split intersection", "Very large review base", "Standard key spacing retained", "Wired USB connectivity"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 7,992 Amazon ratings",
     reviews: "7,992 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZWK2TQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZWK2TQT?tag=workcocoon-20",
     description:
       "A very large review base and the highest rating in this guide, worth noting this is technically a full-size split rather than a genuinely tenkeyless design, included here since it represents the premium ceiling buyers at this intersection often compare against for split-layout quality.\n\nApplying the relevant findings from both split-keyboard and TKL research directly, this design's genuine tenting adjustability represents deeper ergonomic engineering than the more strictly compact TKL-split alternatives, a real tradeoff between maximum desk-space efficiency and the deepest ergonomic feature set.\n\nWorth calling out specifically: genuine tenting adjustability beyond just split ergonomics. The catch is not genuinely tenkeyless, retains a full-size layout, verify before assuming this fits the exact TKL-split intersection.",
     specs: ["Full-size split with genuine tenting", "Very large review base", "Highest rating in this guide", "Not strictly tenkeyless, included for comparison"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 60 Amazon ratings",
     reviews: "60 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51yI4NqNkGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BLZPLWX4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLZPLWX4?tag=workcocoon-20",
     description:
       "This is a genuinely compact mechanical keyboard, worth noting it doesn't have a true two-piece split layout, included here as a comparison point for buyers weighing a fully compact design against a genuine split-plus-TKL combination specifically.\n\nRemoving both the number pad and adopting this compact single-body layout compounds real desk-footprint reduction, though without the ergonomic split benefit, this represents one end of the compact-versus-ergonomic tradeoff spectrum this combined category genuinely spans.\n\nMaximum desk-footprint reduction from the fully compact single-body design. Set against that, not a genuine split keyboard, verify this fits your actual need before buying. Both matter when comparing it to the other picks here.",
     specs: ["Compact mechanical layout, not a true split", "Genuine low-profile mechanical switches", "Smaller review base", "Programmable macro keys"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,585 Amazon ratings",
     reviews: "2,585 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tJtjMmKCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FTNMT84?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FTNMT84?tag=workcocoon-20",
     description:
       "The highest average rating in this guide, genuinely tenkeyless but not a split layout, included as a comparison point given the smaller product pool at the exact combined intersection this guide targets specifically.\n\nThis illustrates the honest transparency this guide commits to about the smaller product pool at the genuine TKL-plus-split niche, buyers specifically wanting both features together have fewer options than either category alone, this pick represents the more populated TKL-only side of that spectrum.\n\nA genuine advantage here is that genuine TKL desk-space savings. The tradeoff is not a split keyboard, verify this fits your actual ergonomic need.",
     specs: ["Genuine TKL layout, not split", "Highest rating in this guide", "Solid review base", "IP32 water/dust resistant"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,047 Amazon ratings",
     reviews: "1,047 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31hUfgJWI9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08Z7J4KV3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08Z7J4KV3?tag=workcocoon-20",
     description:
       "Tied for the highest average rating in this guide, another genuinely tenkeyless but non-split mechanical option, included as a final comparison point confirming this guide's transparency about the limited genuine split-plus-TKL product pool specifically.\n\nBuyers choosing this combination are likely prioritizing both ergonomics and desk-space efficiency simultaneously, if that's your genuine dual priority, the Perixx PERIBOARD-512B remains this guide's top recommendation for actually delivering both features together without compromise.\n\nGenuine mechanical switch feedback. That's a real strength, but weigh it against the flip side: not a split keyboard, verify this fits your actual ergonomic need.",
     specs: ["Genuine TKL layout, not split", "Highest rating in this guide", "Genuine mechanical switches", "Solid review base"],

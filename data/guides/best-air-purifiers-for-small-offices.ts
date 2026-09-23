@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "Rated up to 1748 sq ft with an air quality monitor, genuine headroom to account for multiple occupants generating more particulates than the room's square footage alone suggests. Auto and Eco modes, 3-year warranty.\n\nSize this occupancy-adjusted, not just to room square footage, multiple coworkers generate more airborne particulates than a single-person room the same size.\n\nThe standout detail is that real headroom for occupancy-driven particulate generation. Balancing that out, higher price than budget alternatives.",
     specs: ["Up to 1748 sq ft rated (open room)", "Air quality monitor, Auto/Eco mode", "3-year warranty", "Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, genuine evidence of reliable performance. True HEPA H13 filtration at an affordable price.\n\nFor a shared small office with several occupants, consider whether this unit's coverage rating still holds up against occupancy-adjusted particulate generation, not just square footage.\n\nTrue HEPA H13 filtration. That's a real strength, but weigh it against the flip side: may under-serve a heavily occupied small office.",
     specs: ["True HEPA H13 filter", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, appropriate for a smaller shared office with modest occupancy. Basic HEPA filtration.\n\nFor a shared office, factor in a practical facilities-management question, who monitors and replaces the filter in this space, a real-world adoption barrier competitors don't address.\n\nSolid review base. On the other hand, may under-serve a heavily occupied office. Both are worth keeping in mind before deciding.",
     specs: ["HEPA filtration", "Solid review base", "Budget-friendly", "Compact design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft, genuine extra headroom appropriate for a small office with several occupants generating more particulates than the room's square footage alone suggests. Smart app control.\n\nA shared office typically runs continuously across a full workday, this occupancy-adjusted headroom helps offset the sustained particulate generation from multiple people.\n\nA genuine advantage here is that smart app control for monitoring. The tradeoff is that higher price than budget alternatives.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Higher capacity for occupied rooms"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,911 Amazon ratings",
     reviews: "1,911 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41JtWEcZKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09SKXDKF1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09SKXDKF1?tag=workcocoon-20",
     description:
       "Rated for large 1700 sq ft rooms from an established Honeywell brand, genuine headroom for a busier shared office space. HEPA filtration.\n\nContinuous full-workday operation in a shared office means more relevant cumulative filter loading than intermittent home use, factor this into replacement expectations.\n\nLarge rated coverage for a shared office. That said, smaller review base than mass-market Levoit picks. Neither should be a surprise once you know to look for it.",
     specs: ["Up to 1700 sq ft rated", "Established Honeywell brand", "HEPA filtration", "Solid rating base"],

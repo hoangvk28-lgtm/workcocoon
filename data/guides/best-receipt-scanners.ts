@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,522 Amazon ratings",
     reviews: "6,522 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B083R36CY4?tag=workcocoon-20",
     description:
       "Genuinely compact and portable, this handles standard-size receipts well through its scanning path, with the free iPrint&Scan app supporting scan-to-multiple-destinations for expense tracking. Since it's single-sheet-fed rather than a narrow dedicated receipt slot, crumpled or curled receipts have a bit more mechanical tolerance here than a narrow-width dedicated receipt scanner.\n\nScan your receipts promptly, thermal fading happens regardless of whether your scanner performs well, waiting to batch-scan a pile of months-old receipts won't recover data that's already faded.\n\nA genuine advantage here is that single-sheet feed tolerates curled receipts reasonably well. The tradeoff is that not a dedicated narrow receipt scanner, less specialized for thin receipt widths.",
     specs: ["Single-sheet feed, handles standard receipt sizes", "Free iPrint&Scan app for expense destinations", "Largest review base in this guide", "Compact, portable"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 385 Amazon ratings",
     reviews: "385 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/4143ozv-CML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6NL3HFX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6NL3HFX?tag=workcocoon-20",
     description:
       "A genuinely portable, single-sided sheetfed design specifically marketed for home/office digital scanning including receipts, with HP WorkScan software included. Smaller review count reflects a more niche listing, weigh that against the dedicated portable design.\n\nAs with any receipt scanner, prompt scanning matters more than the scanner's own capability, thermal paper fades on its own timeline independent of your scanning schedule.\n\nHP WorkScan software included. That said, smaller review count than the compact document scanner alternatives. Neither should be a surprise once you know to look for it.",
     specs: ["Portable 1-sided sheetfed scanning", "HP WorkScan software included", "PC and Mac compatible", "Compact for home/office use"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "Explicitly handles receipts and plastic cards alongside standard documents, with a real 20-sheet ADF hopper letting you batch several receipts at once rather than feeding one at a time. Its explicit 500 scans/day suggested volume is a genuinely useful disclosure for planning a receipt-digitization routine.\n\nCrumpled or curled receipts may still jam more than flat samples, an ADF hopper's narrower tolerance applies here as with any feeder design, smooth out receipts before batch-feeding when possible.\n\nWorth calling out specifically: explicitly marketed for receipts and cards. The catch is aDF hopper still less tolerant of crumpled/curled receipts than manual single-sheet feeding.",
     specs: ["20-sheet ADF hopper, explicitly handles receipts and cards", "Explicit 500 scans/day rating", "Duplex scanning", "1.7 lb, portable"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "Handles receipts explicitly alongside documents and cards, with auto de-skew and color optimization genuinely useful for varied receipt lengths and printed content placement. Standalone scan-to-cloud lets you file digitized receipts to an expense-tracking cloud service without a computer on.\n\nAuto-crop accuracy on unusually long or short receipts isn't independently verified here, watch for clipped totals or dates on non-standard receipt lengths and re-scan if needed.\n\nAuto de-skew and color optimization for varied receipt content. Set against that, auto-crop accuracy on unusual receipt lengths not independently verified. Both matter when comparing it to the other picks here.",
     specs: ["Explicitly handles receipts, cards, and documents", "Auto de-skew, color optimization", "Standalone scan-to-cloud", "30ppm duplex"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41VnXqJ86dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5SRQT?tag=workcocoon-20",
     description:
       "Identical receipt-handling capability to the rank-4 pick in a black finish, same auto de-skew, color optimization, and standalone cloud filing for expense workflows.",
     specs: ["Explicitly handles receipts, cards, and documents", "Auto de-skew, color optimization", "Standalone scan-to-cloud", "30ppm duplex"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21YnTPRESJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "Explicitly handles documents up to 8.5x72 inches, genuinely useful for unusually long grocery or CVS-style receipts that shorter-path scanners struggle with. Digitizes receipts and ID cards specifically per its own marketing, with a fast 5.5-second per-page scan for quick individual receipt jobs.\n\nAt the lowest price in this guide, includes Nuance OCR for searchable receipt PDFs, useful for expense report text extraction.\n\nThe standout detail is that fast per-page scan time for quick individual jobs. Balancing that out, single-sheet feed, no batch hopper for multiple receipts at once.",
     specs: ["Handles documents/receipts up to 8.5x72 inches", "5.5-second per-page scan time", "Includes Nuance OCR for searchable PDFs", "Lowest price in this guide"],

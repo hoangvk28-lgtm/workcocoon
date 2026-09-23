@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "4,006 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XTooEFbuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9H3PDSY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9H3PDSY?tag=workcocoon-20",
     description:
       "The RESPAWN 900 in gray fabric is built as a stationary console recliner rather than a rolling desk chair, with a fixed base that reclines independently to 135 degrees while a separate pull-out footrest extends underneath. A 360 degree swivel base still lets you turn toward a TV or monitor without any casters involved, and a built-in cup holder and accessory pouch keep drinks and controllers within reach.\n\nWith 4,006 ratings at 4.4 stars and a 5-year warranty, it's one of the most established stationary gaming recliners on Amazon. For buyers who want the most complete no-wheels recliner setup, including footrest and swivel, the RESPAWN 900 fabric is the safe default pick.\n\nIndependent 135° recline plus footrest. That's a real strength, but weigh it against the flip side: higher price than floor rockers in this guide.",
     specs: [
@@ -73,7 +73,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "4,006 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41lK3VGFgWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07RFNH2TX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07RFNH2TX?tag=workcocoon-20",
     description:
       "This is the same fixed-base RESPAWN 900 platform as the fabric version, but finished in bonded leather for a cleaner, more upscale look next to a TV console or media room setup. It shares the same independent 135 degree recline, pull-out footrest, and 360 degree swivel base, all without any wheels touching the floor. Rated for 275 lbs and backed by the same 5-year warranty and 4,006-rating track record as the fabric model, it's the pick for buyers who prefer leather over fabric and don't mind paying a premium for it. Choose this over Pick 1 purely on material preference, since the mechanics are identical. Worth calling out specifically: upscale bonded leather finish. The catch is most expensive chair in this guide.",
     specs: [
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars",
     reviews: "931 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VosJN1ELL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLG8H23J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLG8H23J?tag=workcocoon-20",
     description:
       "The RESPAWN 800 swaps the 900's footrest and deep recline for a simpler pedestal base that swivels a full 360 degrees and rocks back to 117 degrees, no wheels required either way. Flip-up armrests make it easier to get in and out of, and the high-back ergonomic shape carries over the same lumbar support as the pricier 900 series. It undercuts both RESPAWN 900 versions while staying lighter and easier to reposition than a full recliner. For buyers who want RESPAWN's stationary build quality without paying for a footrest they may not use, the 800 is the better value. Lighter and easier to reposition. Set against that, no separate footrest like the 900 series. Both matter when comparing it to the other picks here.",
     specs: [
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "1,081 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41D2R048f6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0824S18C9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0824S18C9?tag=workcocoon-20",
     description:
       "The BOSSIN is built more like a sofa-style recliner than a desk chair, sitting on a fixed base with no wheels and reclining from 90 to a fully flat 180 degrees. It carries the highest weight capacity in this guide at 400 lbs, wrapped in thick PU leather with a built-in headrest, lumbar support, and side storage pockets.\n\nAssembly is tool-free and takes about 8 minutes according to the listing, faster than most chairs here. For buyers who need a stationary recliner rated well above the typical 275 to 300 lb range, the BOSSIN's 400 lb capacity is the standout reason to pick it.\n\nA genuine advantage here is that fully flat 180° recline. The tradeoff is pU leather less breathable than fabric options.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "3,914 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51fgMLstK5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WCTSX7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WCTSX7G?tag=workcocoon-20",
     description:
       "The VITESSE is a fixed-base racing-style recliner that reclines from 90 to 180 degrees like the BOSSIN, but at a lower price and with nearly 4,000 ratings backing it. Four non-marking plastic feet keep it stationary without any casters, and waterproof PU leather makes spills easy to wipe down. At a competitive price with a headrest, lumbar support, and side storage bag included, it's the best-value stationary recliner in this guide relative to its review count. Assembly takes about 10 minutes, and it's backed by a 120-day warranty. Full 90-180° recline. That's a real strength, but weigh it against the flip side: only 120-day warranty, shorter than RESPAWN's 5 years.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "40 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41-364WU9eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYRQ388W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GYRQ388W?tag=workcocoon-20",
     description:
       "This Dowinx model pairs a fixed, no-wheels base with the highest weight capacity in this guide's premium tier at 500 lbs, reinforced by a steel frame built to match. Dual shiatsu massage in the lumbar area, a footrest, cup holder, and side pouch round out a feature set aimed at long stationary sessions rather than mobility.\n\nA cooling leather and fabric blend helps offset heat from extended sitting, and it reclines from 90 to 135 degrees. With only 40 ratings it's the least proven chair here, but the 500 lb capacity and massage feature are unmatched among the other no-wheels options.\n\nWorth calling out specifically: dual shiatsu massage lumbar. The catch is only 40 ratings, least proven in this guide.",
     specs: [
@@ -193,7 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars",
     reviews: "8,705 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416YqWwMTFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYF75L59?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GYF75L59?tag=workcocoon-20",
     description:
       "The GTPLAYER floor rocker takes a completely different approach to going wheel-free: instead of a stationary recliner base, it's a one-piece 8.6 lb frame that sits directly on the floor and controls its rocking motion with a built-in angle limiter. There's nothing to roll because there's no base or casters at all, and the low-profile design keeps it out of the way in small rooms.\n\nWith 8,705 ratings, it has the largest review base of any chair in this guide by a wide margin. At just 8.6 lbs and rated for 200 lbs, it's the easiest chair here to pick up and carry between rooms, though it trades that portability for a lower weight capacity than every recliner in this list.\n\nOnly 8.6 lbs, easiest to move between rooms. Set against that, 200 lb capacity, lowest among recliners here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -217,7 +217,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "8,730 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21V0MDbosbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B001T4XU1C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B001T4XU1C?tag=workcocoon-20",
     description:
       "Like the GTPLAYER, The Crew Furniture Classic Video Rocker skips a base entirely and sits directly on the floor, making it inherently wheel-free and low to the ground. It's sized and priced for kids and teens rather than adults, with a 200 lb capacity, PU leather and breathable mesh construction, and no assembly required out of the box.\n\nAt 11 lbs it's even lighter than the GTPLAYER and easy for a child to reposition on their own, with non-marking feet that protect flooring. With 8,730 ratings at 4.4 stars, it's the highest-rated chair in this entire guide, reflecting years as a trusted kids' gaming chair.\n\nA genuine advantage here is that no assembly needed out of the box. The tradeoff is sized for kids/teens, not built for larger adults.",
     specs: [

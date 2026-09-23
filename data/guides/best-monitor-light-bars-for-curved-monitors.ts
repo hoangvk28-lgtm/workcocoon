@@ -35,7 +35,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "5,377 reviews",
     imageUrl: `${BASE}/benq-screenbar-classic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B076VNFZJG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B076VNFZJG?tag=workcocoon-20",
     description:
       "The BenQ ScreenBar Classic is a clip-on bar that mounts on the top edge of a flat or gently curved monitor and directs light downward onto the desk surface rather than toward the screen. Its auto-dimming sensor adjusts brightness based on ambient light, which means it compensates for room lighting changes without manual intervention. The touch control panel on the bar itself handles color temperature and brightness adjustments directly.\n\nThe bar is compatible with curved monitors down to 1500R radius, which covers most consumer ultrawide monitors. Buyers with monitors curved to 1000R or tighter should look at the purpose-built curved designs like the Quntis Curved variants in this roundup. CRI 95 color rendering means colors on the lit surface appear close to how they would under daylight, which matters for design work and color-accurate tasks.",
     specs: ["Curved 1500R compatible", "Auto-dimming", "Touch control", "CRI 95", "USB-A powered"],
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "13,623 reviews",
     imageUrl: `${BASE}/quntis-monitor-lamp.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=workcocoon-20",
     description:
       "The Quntis Computer Monitor Lamp is the highest-reviewed pick in this roundup with over 13,000 ratings, and It is the most affordable option with auto-dimming and touch control. CRI 98 is higher than the BenQ ScreenBar Classic and produces very accurate color rendering for tasks where surface light quality matters. The 900 Lux output is sufficient to illuminate a standard desk surface for extended work sessions. As a USB-powered lamp, it draws power directly from the monitor's USB port or a standard USB adapter, keeping the cable situation simple. The clip mount attaches to flat and gently curved monitors, with compatibility specifications similar to the BenQ Classic. Buyers who want the highest review count in this category at the lowest price, with CRI 98 performance, should start here.",
     specs: ["Auto-dimming", "Touch control", "CRI 98", "900 Lux", "USB powered"],
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "6,242 reviews",
     imageUrl: `${BASE}/xiaomi-mi-light-bar.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08W2C5W59?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08W2C5W59?tag=workcocoon-20",
     description:
       "The Xiaomi Mi Monitor Light Bar includes a 2.4GHz wireless remote that sits on the desk for brightness and color temperature control without touching the bar itself. Magnetic rotation allows the bar to pivot on its mount, which is useful for directing light at slightly different angles depending on desk layout and monitor position. The metal body construction is noticeably more durable than plastic-body alternatives in this price range.\n\nAt 6,242 reviews and 4.4 stars, the Xiaomi has strong market validation for a mid-range wireless pick. USB-C powered with CRI 95 color rendering. The wireless remote is the primary differentiator here for buyers who want desk-surface control without reaching up to touch the bar, which is a more natural interaction pattern for light adjustment during extended sessions.",
     specs: ["Wireless remote", "Magnetic rotation", "CRI 95", "USB-C powered", "Metal body"],
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "2,385 reviews",
     imageUrl: `${BASE}/quntis-pro-plus.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B6P9J3J5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B6P9J3J5?tag=workcocoon-20",
     description:
       "The Quntis Monitor Light Bar PRO+ extends to 20 inches, which is wider than most standard light bars and provides broader light coverage across a wider desk surface or ultrawide monitor setup. The 1,200 Lux output is the highest in this roundup and covers larger desk surfaces adequately without bright spots or falloff toward the edges. A wireless remote is included alongside auto-dimming functionality. At a competitive price with curved monitor compatibility listed in the specifications, this is a strong mid-to-upper-range option for buyers who need wide light coverage at high output. The 2,385 reviews at 4.4 stars reflect moderate market validation at this price point. For buyers specifically prioritizing lux output and bar width, this is the pick to compare against the BenQ ScreenBar Pro.",
     specs: ["20-inch bar", "Wireless remote", "Auto-dimming", "1200 Lux", "Curved monitor compatible"],
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars",
     reviews: "1,234 reviews",
     imageUrl: `${BASE}/benq-screenbar-pro.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CZ9P1QW9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZ9P1QW9?tag=workcocoon-20",
     description:
       "The BenQ ScreenBar Pro is rated for curved monitors from 1000R to 1800R, which is the broadest compatibility range among the BenQ products in this roundup and covers virtually all consumer curved monitors including tight 1000R gaming displays. A proximity motion sensor detects when someone sits at the desk and turns the light on automatically, and turns it off when the space is vacated. The wireless dial controller sits on the desk for precision control of brightness and color temperature. At a competitive price and 4.8 stars, this is the highest-rated premium pick and the one most appropriate for buyers who have a curved gaming monitor at 1000R and want BenQ quality. USB-C powered and rated at 1,000 Lux. For buyers who want the backlight feature in addition to front lighting, the ScreenBar Halo 2 at pricing is the step up from this model.",
     specs: ["1000R-1800R curved compatible", "Motion sensor", "USB-C", "1000 Lux", "Wireless dial controller"],
@@ -170,7 +170,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "1,045 reviews",
     imageUrl: `${BASE}/benq-screenbar-halo-2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DK59YKRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK59YKRS?tag=workcocoon-20",
     description:
       "The BenQ ScreenBar Halo 2 adds a backlight panel to the rear-facing side of the bar, creating ambient bias lighting behind the monitor in addition to the front downward-facing desk illumination. Bias lighting behind a monitor reduces eye strain during extended sessions in dark rooms by reducing contrast between the bright screen and the surrounding dark environment. The backlight color temperature can be adjusted independently of the front light. Compatible from 1000R to 1800R curved monitors, the Halo 2 supports the same tight-curve setups as the ScreenBar Pro while adding the backlight feature. Motion sensor and wireless dial controller are included. At a competitive price, this is the most expensive pick in the roundup and is specifically for buyers who want a complete front-and-back lighting solution rather than desk-only illumination.",
     specs: ["1000R-1800R curved", "Front and back lighting", "Motion sensor", "Wireless dial", "CRI 95"],
@@ -197,7 +197,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "253 reviews",
     imageUrl: `${BASE}/quntis-curved.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F9L9377N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9L9377N?tag=workcocoon-20",
     description:
       "The Quntis Curved Monitor Light Bar uses dual pivoting arms specifically engineered for curved monitor surfaces, rather than adapting a flat-bar design to a curve. The dual-arm mount flexes to match the curvature of the monitor top edge, providing a more secure and stable fit than clip-on designs on tight curves. This approach is particularly relevant for monitors with 1000R to 1200R curvature where standard clip mounts may rock or slip. At a competitive price, CRI 98+, and a remote control included, this pick offers a purpose-built curved solution at mid-range pricing. With 253 reviews at 4.7 stars it has lower market validation than the BenQ or Quntis budget picks, but the dual-arm design addresses a genuine fit issue that standard flat bars cannot. Buyers with tight-curve monitors who find flat bars unstable on their setup should start here.",
     specs: ["Dual pivoting arm design", "Curved monitor specific", "Remote control", "CRI 98+"],
@@ -224,7 +224,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "253 reviews",
     imageUrl: `${BASE}/quntis-curved-rgb.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F9LBFHJZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9LBFHJZ?tag=workcocoon-20",
     description:
       "The Quntis Curved RGB Monitor Light Bar adds 15 RGB lighting modes to the dual-head foldable design, making it the only pick in this roundup with color RGB capability. The foldable dual-head format allows the bar to be adjusted to match tight curves from 1000R to 1800R while still providing desk surface illumination alongside the RGB ambient effect. A remote control handles mode switching and brightness without touching the bar. at the same price as the non-RGB Quntis Curved, this pick trades the simpler profile of the non-RGB version for the RGB mode flexibility. CRI 98+ means the white working light is still high quality when RGB modes are turned off. For buyers who want a purpose-built curved mount with RGB for gaming and ambiance, there is no direct alternative in this roundup.",
     specs: ["RGB lighting", "Foldable dual head", "15 RGB modes", "1000R-1800R", "CRI 98+", "Remote control"],

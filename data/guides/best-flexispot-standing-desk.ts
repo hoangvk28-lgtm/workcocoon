@@ -36,7 +36,7 @@ export const products: FlexiSpotDesk[] = [
     drawer: "No drawer",
     warranty: "5 years",
     imageUrl: `${BASE}/01-flexispot-en1-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08BHPMYGK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08BHPMYGK?tag=workcocoon-20",
     whyItWorks:
       "The EN1 48x24\" is the most-reviewed electric standing desk on Amazon. Over 12,000 real buyers have rated this desk - a sample size that is statistically more reliable than any editorial review. At this review count, systematic problems show up clearly in the review text. The fact that it holds 4.5 stars across 12,000 ratings is the strongest quality signal available for an entry standing desk. The 5-year warranty covers both motor and frame, longer than most competitors at this price point.",
     tradeoffs: [
@@ -68,7 +68,7 @@ export const products: FlexiSpotDesk[] = [
     drawer: "No drawer",
     warranty: "5 years",
     imageUrl: `${BASE}/02-flexispot-en1-48x30.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07H2W9Y3W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07H2W9Y3W?tag=workcocoon-20",
     whyItWorks:
       "The wider-depth variant of Pick 1. Frame and motor are identical; the only difference is 30\" front-to-back depth versus 24\". For a 27\" or larger monitor used without a monitor arm, the 30\" depth gives proper focal distance. The monitor base can sit 10 to 12 inches from the front edge rather than immediately at the desk edge. Same 12,400+ review trust as Pick 1 - this is not a newer or less-tested SKU.",
     tradeoffs: [
@@ -99,7 +99,7 @@ export const products: FlexiSpotDesk[] = [
     drawer: "No drawer",
     warranty: "5 years",
     imageUrl: `${BASE}/03-flexispot-en2-55x28.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0GT4FQCT3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GT4FQCT3?tag=workcocoon-20",
     whyItWorks:
       "The EN2 is the step up from EN1. Two things change: the desktop is 55\" wide (7\" wider than EN1) and the depth is 28\". The rating is 4.6 stars versus EN1's 4.5 stars - a small but consistent signal from a 4,400-review sample that the EN2 slightly outperforms EN1 on initial out-of-box experience. If your current or planned monitor setup is dual 27\" or larger, start with 55\" width. The 7\" difference is significant for dual-monitor ergonomics.",
     tradeoffs: [
@@ -129,7 +129,7 @@ export const products: FlexiSpotDesk[] = [
     drawer: "Built-in drawer + USB charging",
     warranty: "5 years",
     imageUrl: `${BASE}/04-flexispot-comhar-48.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08SBL81LT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08SBL81LT?tag=workcocoon-20",
     whyItWorks:
       "The Comhar is FlexiSpot's flagship home office desk - same one-piece format as EN1 but with a built-in drawer under the left side of the surface and 2x USB-A plus 1x USB-C charging ports. The drawer rises and falls with the desk surface - not a pedestal left behind on the floor when you stand. The integrated USB ports route charging cables inside the drawer, keeping the desktop surface clear of phone cables. Best Sellers Rank around No.16 in Computer Workstations confirms strong market demand.",
     tradeoffs: [
@@ -160,7 +160,7 @@ export const products: FlexiSpotDesk[] = [
     drawer: "Built-in drawer + USB charging",
     warranty: "5 years",
     imageUrl: `${BASE}/05-flexispot-comhar-55.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0GR2RDCR2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GR2RDCR2?tag=workcocoon-20",
     whyItWorks:
       "The 55\" variant of the Comhar. Everything from Pick 4 applies - same drawer design, same motor, same height range, same USB charging ports - with 7\" more horizontal surface. For dual 27\" monitors where you also need drawer storage, the 55\" Comhar handles both without compromise. The 2,600+ reviews confirms this is a well-tested SKU, not a newer variant without real-world data.",
     tradeoffs: [
@@ -189,7 +189,7 @@ export const products: FlexiSpotDesk[] = [
     drawer: "No drawer",
     warranty: "5 years",
     imageUrl: `${BASE}/06-flexispot-60x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08RJ5FXR5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08RJ5FXR5?tag=workcocoon-20",
     whyItWorks:
       "The widest no-drawer FlexiSpot on this list at 60\". This is the right pick for buyers who want maximum horizontal surface without the drawer mechanism - a clean, wide laminate desk in the EN-series quality tier. A 60\" desk fits three items side by side that a 55\" desk cannot: an ultrawide 38\" to 49\" monitor plus side lamp plus small plant without crowding. Same 5-year FlexiSpot warranty as EN1.",
     tradeoffs: [
@@ -219,7 +219,7 @@ export const products: FlexiSpotDesk[] = [
     drawer: "No drawer",
     warranty: "5 years (frame and motor)",
     imageUrl: `${BASE}/07-flexispot-bamboo-60x30.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0GF7ZNKVP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GF7ZNKVP?tag=workcocoon-20",
     whyItWorks:
       "The bamboo-top variant of FlexiSpot's one-piece lineup. The frame is the same EN-series motor mechanism; the surface is natural solid bamboo instead of laminate. Bamboo has a Janka hardness of 1,300 to 1,800 lbf - harder than oak, maple, and most construction-grade hardwoods. For keyboard and mouse use, the slightly textured grain is preferred by some users over the perfectly smooth laminate feel. The 60x30\" footprint is the largest on this list.",
     tradeoffs: [

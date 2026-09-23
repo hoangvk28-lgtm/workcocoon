@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The DCP-L2640DW supports standard wireless printing that works with AirPrint on macOS, and Brother also offers a full macOS driver download for buyers who want ink-level monitoring and detailed print settings that AirPrint alone doesn't expose. For a Mac household printing mostly text documents, its duplex printing and large paper tray round out a genuinely capable setup.\n\nBrother's macOS driver support has generally been solid across both Intel and Apple Silicon Macs for recent models like this one, but if you're pairing it with an older Mac or an M-series machine, confirm the current driver download works before relying on it over AirPrint alone.\n\nFull macOS driver available for detailed settings. On the other hand, not explicitly marketed as \"Mac-certified\". Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720's standard wireless support works with AirPrint on macOS out of the box, letting a Mac or MacBook print without installing any Canon software at all. Its auto document feeder is genuinely useful for a Mac household that scans multi-page documents through macOS's built-in Image Capture app.\n\nCanon PRINT, the manufacturer's mobile and desktop app, adds more detailed settings if you want them, but AirPrint alone covers basic print, scan, and copy needs on a Mac without any extra setup.\n\nADF works with macOS's built-in Image Capture. That's a real strength, but weigh it against the flip side: not explicitly marketed as \"Mac-certified\".",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 pairs its cartridge-free ink tank system with AirPrint compatibility on macOS, giving a Mac household lower long-run ink cost alongside driverless printing setup. Epson also offers a full macOS driver for buyers who want more granular print settings than AirPrint exposes on its own.\n\nEpson's macOS driver support has generally tracked Apple Silicon transitions well on recent models, though it's worth confirming the current driver download is available and updated if you're specifically pairing this with a newer M-series MacBook.\n\nWorth calling out specifically: lower long-run ink cost for regular Mac printing. The catch is not explicitly marketed as \"Mac-certified\".",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 adds an ADF and Ethernet to the same AirPrint-compatible ink tank system, giving a Mac-based home office a wired fallback option if wireless AirPrint discovery ever has trouble on a particular network. Its scan functions work cleanly through macOS's built-in Image Capture and Preview apps.\n\nAs with the ET-2800, Epson's full macOS driver is available for buyers who want detailed print settings beyond what AirPrint exposes, and driver support has generally been reliable across both Intel and Apple Silicon Macs for current EcoTank models.\n\nADF works with macOS's built-in scanning tools. Set against that, not explicitly marketed as \"Mac-certified\". Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 supports AirPrint for driverless printing from a Mac or MacBook at the lowest price in this list, a reasonable starting point for a single-desk Mac setup with light printing needs. HP Smart, the manufacturer's companion app, adds more detailed settings and ink level tracking beyond what AirPrint shows.\n\nWorth noting for Mac buyers specifically: HP has had more reported offline and connectivity dropout issues on macOS forums compared to some competing brands, so if wireless reliability on a Mac network is a top priority, weigh that against this model's low price.\n\nA genuine advantage here is that hP Smart app adds ink tracking and extra settings. The tradeoff is hP has more reported macOS offline/dropout issues than some competitors.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41uW+KOhmiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=workcocoon-20",
     description:
       "This Canon TS5320 explicitly advertises AirPrint support in its listing, one of the more direct confirmations of macOS compatibility in this list, and pairs it with Alexa support for households using both ecosystems. Canon PRINT is available for more detailed settings if AirPrint's simplified options aren't enough.\n\nCanon's driver support has generally kept pace with macOS updates and Apple Silicon Macs for recent models, but this is an older listing than some others here, so confirm current driver availability directly with Canon if you're pairing it with a newer M-series MacBook and want the full driver experience rather than AirPrint alone.\n\nAlexa compatibility. On the other hand, confirm current driver availability for newer Apple Silicon Macs before buying. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=workcocoon-20",
     description:
       "The MFC-J1360DW's 1.8-inch color display makes it easier to confirm network status directly on the printer during AirPrint setup from a Mac, and it includes automatic duplex printing alongside standard wireless support. Brother's full macOS driver is available too for buyers who want more control than AirPrint provides.\n\nBrother's macOS driver support has generally been reliable across recent Intel and Apple Silicon Macs, though as with any printer, confirming the current driver download works with your specific macOS version before relying on it is a reasonable step, especially on a newer M-series machine.\n\nDuplex printing included. That's a real strength, but weigh it against the flip side: not explicitly marketed as \"Mac-certified\".",
     specs: [

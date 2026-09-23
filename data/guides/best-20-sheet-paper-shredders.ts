@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ZVKWNs1oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WJ4NLFX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WJ4NLFX?tag=workcocoon-20",
     description:
       "At 24 sheets, this exceeds the 20-sheet nominal tier with real headroom, backed by a 40-minute continuous run time and a massive review base offering strong real-world confidence. Anti-jam auto reverse and a wide 8.7-inch paper entry round out a genuinely heavy-duty design.\n\nA 7-gallon bin is the largest in this comparison set, appropriately sized for the higher throughput this pick is built for.\n\nMassive proven review base. Set against that, highest price in this guide. Both matter when comparing it to the other picks here.",
     specs: ["24-sheet rated cross-cut, P-4, 8.7-inch entry", "40-minute continuous run time", "7-gallon bin, anti-jam auto reverse", "Massive review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31snLzhrJGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07R3FXLLQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07R3FXLLQ?tag=workcocoon-20",
     description:
       "At 18 sheets and a lower price than the rank-1 pick, this is the value-focused near-20-sheet option, with a 30-minute continuous run time and a 6-gallon bin. P-3 security is a step below the P-4 picks elsewhere in this guide, a real tradeoff for the lower price.\n\nSame massive Amazon Basics review base, strong real-world evidence at this capacity level.\n\nThe standout detail is that massive proven review base. Balancing that out, p-3 security, lower than the P-4 picks elsewhere in this guide.",
     specs: ["18-sheet rated cross-cut, P-3 security", "30-minute continuous run time", "6-gallon bin, casters", "Massive review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,748 Amazon ratings",
     reviews: "10,748 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41FCXr1akDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=workcocoon-20",
     description:
       "This is P-4 rated at 18 sheets, a genuine security upgrade over the P-3 rank-2 pick at a similar capacity, with the longest confirmed run time in this guide at 60 minutes. Largest review base here reflects broad real-world satisfaction with this specific balance of capacity, security, and run time.\n\nA strong choice if P-4 security matters as much as approaching the 20-sheet capacity tier.\n\nLongest continuous run time in this guide. That's a real strength, but weigh it against the flip side: highest price alongside the rank-1 pick.",
     specs: ["18-sheet rated cross-cut, P-4 security", "60-minute continuous run time (longest here)", "6-gallon bin, 400+ sheets", "62dB, largest review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,048 Amazon ratings",
     reviews: "1,048 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lBbbWrCsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=workcocoon-20",
     description:
       "The auto-feed hopper (120 sheets) dwarfs the manual 20-sheet-per-pass tier entirely, a genuinely different category for buyers with a large one-time purge rather than regular 20-sheet-per-pass office use. Same duty-cycle and mixed-paper caveats from the auto-feed tier apply here regardless of the larger hopper size.\n\nA reasonable alternative if minimizing hands-on feeding effort matters more than a strict per-pass 20-sheet manual comparison.\n\nSeparate manual slot for cards/staples. On the other hand, same auto-feed duty-cycle and mixed-paper caveats as lower tiers apply. Both are worth keeping in mind before deciding.",
     specs: ["120-sheet auto-feed hopper (dwarfs the manual 20-sheet tier)", "P-4 micro-cut, separate 12-sheet manual slot", "30-minute continuous run time", "6-gallon bin, 360° casters"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,629 Amazon ratings",
     reviews: "1,629 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VvTJMBXPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=workcocoon-20",
     description:
       "A smaller auto-feed hopper (100 sheets) than the rank-4 pick at a lower price, still vastly exceeding the manual 20-sheet-per-pass tier this guide targets. Anti-jam auto-reverse and a bin-full indicator round out a well-equipped auto-feed alternative.\n\nA reasonable choice if you want auto-feed bulk convenience without paying for the largest hopper.\n\nA genuine advantage here is that anti-jam auto-reverse. The tradeoff is that smaller hopper than the rank-4 pick.",
     specs: ["100-sheet auto-feed hopper", "P-4 micro-cut, anti-jam auto-reverse", "30-minute continuous run time", "4.2-gallon bin, bin-full indicator"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "The highest rating in this guide at 12 sheets, well below the 20-sheet target, but included since its 60-minute continuous run time and proven reliability make it worth comparing directly against the higher-capacity picks for buyers who don't actually need the full 20-sheet-per-pass volume.\n\nDestroys CDs and credit cards too, a genuinely versatile pick if capacity isn't your top priority.\n\nLong 60-minute continuous run time. That said, well below this guide's 20-sheet nominal target. Neither should be a surprise once you know to look for it.",
     specs: ["12-sheet rated micro-cut, P-4", "60-minute continuous run time", "5-gallon bin, LED indicators", "Destroys CDs/credit cards too"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "At 12 sheets and a much lower price than the true 20-sheet picks, this is a genuine budget alternative for buyers who landed in this guide expecting to pay premium prices for high capacity but don't actually need it. A 15-minute continuous run time is respectable for the price tier.\n\nA reasonable choice if you're price-sensitive and willing to accept significantly less capacity than the 20-sheet target.\n\nWorth calling out specifically: respectable 15-minute run time for the price. The catch is well below this guide's 20-sheet nominal target.",
     specs: ["12-sheet rated cross-cut, P-4", "15-minute continuous run, ~900 sheets/cycle", "5.5-gallon bin, jam-proof reverse", "Solid rating"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 125 Amazon ratings",
     reviews: "125 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316eLXGAjFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSJSGHPP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSJSGHPP?tag=workcocoon-20",
     description:
       "A genuine micro-cut design from an established office-supply retail brand, at 12 sheets, below this guide's 20-sheet target, but included since its 20-minute continuous run time and 65dB quiet operation are worth comparing against the higher-capacity picks for buyers open to a lower per-pass number in exchange for brand familiarity and casters for mobility.\n\nSmaller review count than the Amazon Basics or Bonsaii lines, weigh that against the recognizable Staples brand name.\n\nGenuinely long 20-minute run time for the capacity. Set against that, below this guide's 20-sheet nominal target. Both matter when comparing it to the other picks here.",
     specs: ["12-sheet rated micro-cut, P-4, 65dB", "20-minute continuous run time", "5-gallon pull-out bin, casters", "Established retail brand"],

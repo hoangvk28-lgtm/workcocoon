@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 6,498 Amazon ratings",
     reviews: "6,498 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tx2mcz3eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08YJ7V76J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08YJ7V76J?tag=workcocoon-20",
     description:
       "This 5-gallon pull-out bin includes a patented Safety Lock, a genuine safety feature not every pull-out design offers, useful for homes with kids or pets. Fellowes' established reputation (100+ years in this space) adds real confidence to the slide-rail durability question over time.\n\nRemember this bin needs to fully extend forward to empty, measure your intended placement (under-desk, corner cabinet) for that clearance before assuming it fits.\n\nEstablished Fellowes brand reputation for durability. Set against that, requires full clearance space to extend the bin for emptying. Both matter when comparing it to the other picks here.",
     specs: ["5-gallon pull-out bin, patented Safety Lock", "14-sheet cross-cut, P-4", "10-minute continuous run time", "Quiet operation, elevated design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,748 Amazon ratings",
     reviews: "10,748 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41FCXr1akDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=workcocoon-20",
     description:
       "At 6 gallons and 400+ sheets, this is the largest pull-out bin in this guide, meaning a genuinely heavier pull when full, worth factoring into the slide-rail wear consideration over time given the added weight versus smaller bins. Casters help offset that weight when moving the whole unit.\n\nA full-size pull-out bin this large needs meaningful clearance space to extend, plan your placement accordingly.\n\nA genuine advantage here is that casters help offset the weight when moving. The tradeoff is heaviest full-bin pull to manage of any pick here.",
     specs: ["6-gallon pull-out bin, 400+ sheets", "18-sheet cross-cut, P-4", "60-minute continuous run time", "Transparent window, casters"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,048 Amazon ratings",
     reviews: "1,048 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31lBbbWrCsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSJ3K6T3?tag=workcocoon-20",
     description:
       "A 6-gallon pull-out bin paired with a 120-sheet auto-feed hopper, meaning this bin fills faster per session than a manual-feed shredder's, worth factoring into how often you'll be pulling it out. 360-degree casters make positioning the whole unit for bin access easier in a shared office.\n\nStatic buildup is a real consideration with cross-cut/micro-cut paper during pull-out, shreds can cling to the bin walls, making it look emptier than it is.\n\nCasters ease positioning for bin access. On the other hand, fills faster per session due to the large auto-feed hopper. Neither should be a surprise once you know to look for it.",
     specs: ["6-gallon pull-out bin", "120-sheet auto-feed hopper, P-4 micro-cut", "30-minute continuous run time", "360° casters"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,629 Amazon ratings",
     reviews: "1,629 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VvTJMBXPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG2MGVMV?tag=workcocoon-20",
     description:
       "A smaller 4.2-gallon pull-out bin than the rank-3 pick, meaning less clearance space needed to fully extend it, genuinely useful in a tighter under-desk placement. Bin-full indicator helps you plan the pull-out timing rather than being surprised.\n\nA reasonable choice if clearance space is tight and you don't need the largest pull-out bin in this guide.\n\nBin-full indicator for planning pull-out timing. That's a real strength, but weigh it against the flip side: smaller capacity requires more frequent emptying.",
     specs: ["4.2-gallon pull-out bin, bin-full indicator", "100-sheet auto-feed hopper, P-4 micro-cut", "30-minute continuous run time", "360° casters"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "A 5-gallon pull-out bin with the highest rating and review base in this guide, real evidence the slide mechanism holds up reliably across a large number of users over time. LED indicators show bin-full status directly.\n\nA proven, well-trusted pull-out design at a moderate size, not the largest but genuinely reliable based on the volume of positive feedback.\n\nWorth calling out specifically: real-world evidence of reliable slide-rail durability. The catch is not the largest pull-out bin in this guide.",
     specs: ["5-gallon pull-out bin, LED bin-full indicator", "12-sheet manual feed, P-4 micro-cut", "60-minute continuous run time", "Destroys CDs/credit cards too"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,194 Amazon ratings",
     reviews: "1,194 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41QmnUvb1tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LXQTST?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LXQTST?tag=workcocoon-20",
     description:
       "A 4-gallon pull-out bin with caster wheels for smooth rolling mobility, genuinely useful for repositioning the whole unit to gain pull-out clearance in a tight space rather than needing fixed clearance behind it. P-4 micro-cut security at a moderate price.\n\nA sensible pick if your placement doesn't have permanent fixed clearance and you'd rather roll the unit out to empty it.\n\nP-4 security at a moderate price. Set against that, shorter continuous run time than the premium picks. Both matter when comparing it to the other picks here.",
     specs: ["4-gallon pull-out bin, caster wheels", "8-sheet manual feed, P-4 micro-cut", "5-minute continuous run time", "4-mode control, LED indicators"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,061 Amazon ratings",
     reviews: "1,061 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LSE9gHSWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=workcocoon-20",
     description:
       "A 5.3-gallon pull-out bin on casters, proportioned to its higher 14-sheet, 20-minute run capacity, meaning fewer pull-out-and-empty cycles per large session than a smaller bin would require. Real-time overheat/overload indicators are a bonus alongside the pull-out design.\n\nLowest rating among the higher-capacity picks here, weigh that against the genuinely well-matched bin-to-capacity ratio.\n\nA genuine advantage here is that casters for repositioning. The tradeoff is lowest rating among the higher-capacity picks in this guide.",
     specs: ["5.3-gallon pull-out bin, casters", "14-sheet manual feed, P-4 cross-cut", "20-minute continuous run, up to 1,400 sheets/session", "Real-time overheat indicators"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "A 5.5-gallon pull-out bin at a moderate price, genuinely large for the cost, and the transparent window lets you check fill level without fully extending the bin every time. Jam-proof reverse system keeps sessions moving.\n\nA reasonable, well-rated budget-conscious choice for a genuinely large pull-out bin.\n\nTransparent window reduces unnecessary pull-outs to check fill level. On the other hand, shorter run time than the premium picks in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["5.5-gallon pull-out bin, transparent window", "12-sheet manual feed, P-4 cross-cut", "15-minute continuous run, ~900 sheets/cycle", "Jam-proof reverse system"],

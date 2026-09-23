@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "7,547",
     imageUrl: "https://m.media-amazon.com/images/I/416nixYaeVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07PNFY7Q1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07PNFY7Q1?tag=workcocoon-20",
     description:
       "The VASAGLE CUSTOS is the most proven freestanding storage divider in this list, with over 7,500 ratings backing its five-tier open frame. Each shelf holds 33 lbs for a 165 lb total, and hidden screw caps give it a cleaner finish than most particleboard bookcases at this price.\n\nIt ships with an anti-tip kit, a genuinely necessary feature on a piece meant to stand freely rather than lean against a wall. The open design lets light pass through while still creating a real visual break between two zones.\n\nHidden screw caps for a polished look. That's a real strength, but weigh it against the flip side: particleboard shelves, not solid wood.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "709",
     imageUrl: "https://m.media-amazon.com/images/I/41tIPFRL6WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CR2Y9BYR?tag=workcocoon-20",
     description:
       "Furologee's sculptural S-curve works upright as a divider, flat as a wine rack, or repositioned as a TV stand, giving it three uses in one piece of furniture. That flexibility is worth a lot if you're not fully committed to your current room layout.\n\nP2-grade MDF and metal support a 30 lb per-shelf rating for 180 lbs total, and the whole unit is waterproof despite its narrow, artistic profile. It effectively doubles as storage art rather than a boxy shelving unit.\n\nWorth calling out specifically: distinctive S-shaped silhouette doubles as decor. The catch is narrower 14.96\" width limits shelf surface per section.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,431",
     imageUrl: "https://m.media-amazon.com/images/I/41jJ8ERvqQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXXG3HVR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXXG3HVR?tag=workcocoon-20",
     description:
       "Gadroad brings the same S-shaped silhouette to a clean white finish, and its 44 lb per-shelf rating is the highest among the S-shaped picks in this list. That extra capacity matters if you're loading it with real books instead of light decor.\n\nEngineered wood and metal construction is backed by a 1-year warranty, a reassuring detail on a freestanding piece that has to stay upright without wall support.\n\nCleanest white finish in this list. Set against that, pricier than the other S-shaped picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "2,675",
     imageUrl: "https://m.media-amazon.com/images/I/51r8pb6nsNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07JGJQN67?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07JGJQN67?tag=workcocoon-20",
     description:
       "The FDW is the only pick in this list that combines a folding privacy screen with actual built-in storage, two solid handmade shelves set into a wood-framed, metal-hinged panel system. It gives you the fold-away flexibility of a screen without giving up shelf space entirely.\n\nAt 70.9 inches tall and foldable for easy repositioning or storage, it's the pick for buyers who want a traditional screen silhouette but still need somewhere to set a lamp, plants, or a few books.\n\nA genuine advantage here is that removable shelves add flexibility. The tradeoff is only 2 shelves, far less capacity than a full bookcase.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "622",
     imageUrl: "https://m.media-amazon.com/images/I/41WJ+2bJthL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08S3BKJLC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08S3BKJLC?tag=workcocoon-20",
     description:
       "Yusong's white S-shaped bookcase is the cheapest S-shaped pick in this list while still offering a water-resistant finish, useful if the divider sits anywhere near a kitchen, bathroom, or humid climate. Five staggered shelves keep the silhouette visually light despite the storage packed in.\n\nIt can also lay flat to work as a wine rack, giving it a second use if your room layout changes and you no longer need a vertical divider.\n\nWater-resistant finish. That's a real strength, but weigh it against the flip side: lower per-shelf capacity than the Gadroad pick.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "264",
     imageUrl: "https://m.media-amazon.com/images/I/41Kxi8xrdiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFXS9X72?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFXS9X72?tag=workcocoon-20",
     description:
       "The EXPERLAM stands out as the only genuinely solid pine wood pick in this list, not MDF or particleboard dressed up to look like it. Four matching fabric storage bins are included, so closed storage for laundry, toys, or clutter sits right alongside open cube shelving.\n\nTwo removable back panels let it work either as a fully open cube shelf or a semi-enclosed unit, and it can be oriented vertically as a divider or horizontally as a low console, adding real flexibility for a piece built from solid wood.\n\nWorth calling out specifically: includes 4 matching fabric storage bins for closed storage. The catch is lower and wider than most other picks, less privacy per square foot.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "525",
     imageUrl: "https://m.media-amazon.com/images/I/51d9kf7kPXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDZYCF79?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDZYCF79?tag=workcocoon-20",
     description:
       "At 71.4 inches tall and 61.4 inches wide, the Homykic is the tallest and widest pick in this entire list, built from 100% bamboo rather than particleboard or MDF. Seventeen open shelves, the most of any pick here, add up to a 748 lb total capacity that dwarfs every other option.\n\nTwo anti-tilt straps help anchor a piece this large, and the genuine bamboo construction gives it a warmer, more natural look than the engineered-wood bookcases in this list. This is the pick for a real book or plant collection that needs serious shelf real estate.\n\nMost individual shelves of any pick at 17. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
     specs: [

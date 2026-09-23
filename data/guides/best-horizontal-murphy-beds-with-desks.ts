@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,138 Amazon ratings",
     reviews: "2,138 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51+rNYpilUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CYQ5PPI?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CYQ5PPI?tag=workcocoon-20",
     description:
       "This is the only pick in this guide whose listing title explicitly confirms horizontal orientation on a queen-size mechanism, making it the clearest choice if you have already confirmed your room needs horizontal rather than vertical. Like its vertical counterpart, it is a bare hardware kit, not a finished cabinet, so any desk surface is your own build.\n\nFor horizontal orientation, plan for 84-92 inches of clear wall width rather than the ceiling clearance a vertical unit needs. With 2,138 ratings at 4.6 stars, it shares the same strong review base as the vertical Create-A-Bed kit, since they are the same core mechanism in a different orientation.\n\nLargest review base in this guide at 2,138 ratings. That's a real strength, but weigh it against the flip side: no desk surface included, bed-only mechanism.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 7 Amazon ratings",
     reviews: "7 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51SDkKKPuhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK3KNV8X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK3KNV8X?tag=workcocoon-20",
     description:
       "SOFTSEA's listing confirms horizontal orientation on a twin size cabinet, the smallest footprint in this guide, which requires the least wall width of any pick here. Metal legs support the folded cabinet, and it is explicitly marketed for home office small spaces. It is a mid-range price for an assembled twin cabinet. With 7 ratings at 4.7 stars, feedback is limited but positive, so this is a reasonable choice for a small room where minimizing wall width demand matters more than sleeping capacity. Worth calling out specifically: smallest footprint requires the least wall width. The catch is no desk surface, bed-only cabinet.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "3.7 stars from 11 Amazon ratings",
     reviews: "11 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/511m-YvEUjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FK9WL95D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FK9WL95D?tag=workcocoon-20",
     description:
       "This is SOFTSEA's twin horizontal cabinet with added drawers and a walnut top, which can double as a small surface for a laptop or lamp when the bed is stowed, though it is not a true fold-down desk. Horizontal orientation is confirmed directly in the listing title. It is the lowest price confirmed-horizontal pick in this guide. With 11 ratings at 3.7 stars, the rating is lower than its drawer-less sibling above, so weigh the added storage against the slightly weaker feedback. Drawers add storage the drawer-less SOFTSEA sibling lacks. Set against that, no true fold-down desk, walnut top is a surface accent, not a work desk. Both matter when comparing it to the other picks here.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 141 Amazon ratings",
     reviews: "141 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51XE-SiCWBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=workcocoon-20",
     description:
       "Flagging this honestly: the listing title does not state horizontal or vertical orientation, and based on the cabinet proportions in the product photos, it appears to be a standard vertical queen cabinet, not horizontal. We include it here because it surfaces in horizontal murphy bed searches, but verify orientation directly with the seller before assuming it fits a horizontal-only room.\n\nIt has built-in LED lighting and a gas strut mechanism, with a solid 141-rating review base. If your room genuinely needs horizontal orientation due to low ceiling height, do not rely on this listing without confirming orientation first.\n\nA genuine advantage here is that built-in LED lighting. The tradeoff is orientation not confirmed in the listing, appears vertical based on photos, not horizontal.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 141 Amazon ratings",
     reviews: "141 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/515sMh7j30L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=workcocoon-20",
     description:
       "Flagging this the same way as the brown variant above: this listing does not state horizontal or vertical orientation, and it appears to be the same vertical-profile cabinet in a rustic white finish rather than a confirmed horizontal design. Do not assume it fits a low-ceiling room without confirming orientation directly.\n\nIt shares the same 2 built-in LED lights, gas strut mechanism, and 141-rating review base as the brown variant. Choose based on finish preference only if you have already separately confirmed vertical orientation works for your ceiling height.\n\nBuilt-in LED lighting. That's a real strength, but weigh it against the flip side: orientation not confirmed in the listing, appears vertical based on photos, not horizontal.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 19 Amazon ratings",
     reviews: "19 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51JtI3bjGFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=workcocoon-20",
     description:
       "This listing does not state orientation either, and no desk feature is mentioned. Treat this as an unconfirmed-orientation storage cabinet with a charging station, not a verified horizontal pick, and confirm directly with the seller if your room specifically requires horizontal clearance.\n\nWith only 19 ratings, buyer feedback is thin. If your ceiling height genuinely requires horizontal orientation, prioritize the confirmed-horizontal SOFTSEA or Create-A-Bed picks above over this one.\n\nWorth calling out specifically: storage drawers add functional space. The catch is orientation not confirmed, do not assume horizontal fit.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 396 Amazon ratings",
     reviews: "396 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Og-FctXuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=workcocoon-20",
     description:
       "Another unconfirmed-orientation pick: AMERLIFE's listing does not specify horizontal or vertical, and it should not be assumed to fit a low-ceiling horizontal-only room without direct confirmation. No desk surface is included either.\n\nWith 396 ratings at 4.2 stars, it has a solid review base among the picks in this guide, second only to the Create-A-Bed kit. Confirm orientation with the seller before ordering if you specifically need horizontal clearance.\n\nCharging station and storage built in. Set against that, orientation not confirmed, do not assume horizontal fit. Both matter when comparing it to the other picks here.",
     specs: [
@@ -259,7 +259,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,610 Amazon ratings",
     reviews: "1,610 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51h1vyv6ZdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=workcocoon-20",
     description:
       "Flagging this clearly: this listing title explicitly says Vertical, which directly contradicts this guide's horizontal focus. It appears in this guide's underlying data because it is commonly cross-shopped alongside horizontal searches, but it is not a horizontal product and will not solve a low-ceiling clearance problem.\n\nIf your room's ceiling height is the reason you are shopping for horizontal, skip this pick entirely and choose the Create-A-Bed Horizontal kit or a SOFTSEA horizontal cabinet instead.\n\nA genuine advantage here is that lowest price in this guide. The tradeoff is orientation mismatch: this is vertical, not horizontal, and will not solve a low-ceiling problem.",
     specs: [

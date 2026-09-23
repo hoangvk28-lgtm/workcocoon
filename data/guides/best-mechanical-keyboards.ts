@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41rjOMIKrmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TR4Y91J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TR4Y91J?tag=workcocoon-20",
     description:
       "The RisoPhy is a full 104-key layout built on blue clicky switches, the loudest and most tactile switch type in this list, with anti-ghosting and spill resistance for basic peace of mind at a low price. Blue switches produce a distinct click sound on every keypress, which some typists love for the feedback but which is genuinely disruptive if you're on frequent voice calls nearby.\n\nABS keycaps keep costs down but will show shine and wear faster than PBT over a year of regular use. This is a reasonable entry point for someone curious about mechanical switches who is not yet ready to spend on a premium board.\n\nFull 104-key layout with number pad. That's a real strength, but weigh it against the flip side: blue switches are the loudest option here, poor fit for shared spaces or Zoom calls.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41-A9KzCP3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=workcocoon-20",
     description:
       "The K4 packs a near-full 100-key layout into a 96% frame that trims excess bezel space, and it runs on Keychron's brown tactile switches, a quieter middle ground between clicky and fully linear. Modern 2.4GHz and Bluetooth 5.1 wireless on a mechanical keyboard runs at roughly 1ms of added latency, which is effectively indistinguishable from a wired connection for typing and most gaming.\n\nIt supports both wireless and wired USB modes, so battery anxiety isn't a dealbreaker, you can plug in when needed. White LED backlighting and N-key rollover round out a well-specced board for the price.\n\nWorth calling out specifically: wireless latency is effectively unnoticeable at roughly 1ms. The catch is not hot-swappable on this version.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31QS87iIEQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09JG7KRC7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09JG7KRC7?tag=workcocoon-20",
     description:
       "The C2 is a straightforward wired full-size 104-key board using Keychron's brown switches, aimed at buyers who want a proven tactile feel without wireless complexity or added cost. A braided USB-C cable improves durability over a basic rubber cord, a small but real detail on a keyboard that gets moved or plugged in daily.\n\nRetro-style ABS keycaps give it a distinct look, though as with any ABS set, expect visible shine on the most-used keys after a year of daily typing versus a PBT equivalent.\n\nBraided USB-C cable resists fraying. Set against that, aBS keycaps will show wear over a year of use. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31OJJVgcA9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DSW8TF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DSW8TF?tag=workcocoon-20",
     description:
       "The G515 uses a low-profile tenkeyless design that removes the number pad for a more compact desk footprint while keeping Logitech's Lightspeed wireless, which delivers the same near-zero latency as a wired connection. Low-profile switches have shorter travel than standard mechanical switches, which reduces both noise and finger fatigue during long sessions.\n\nTactile feedback here comes without the sharp click of a blue switch, making it a reasonable pick for anyone who wants a low-profile gaming board that won't be as disruptive on a shared call as a louder clicky keyboard.\n\nA genuine advantage here is that lightspeed wireless is effectively as fast as wired. The tradeoff is higher price than the wired picks in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41j4+Pxjo0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D7J5XVXG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D7J5XVXG?tag=workcocoon-20",
     description:
       "The K70 CORE TKL uses pre-lubed MLX Red linear switches, smooth and quiet with no tactile bump or click, plus factory sound dampening foam that reduces the hollow resonance common on unmodded keyboards. Linear switches like these are a solid choice for both gaming, where consistent, low-noise keypresses help, and shared office space, where a clicky switch would stand out.\n\nA 1000Hz polling rate keeps input response tight for gaming, while double-shot ABS keycaps and SOCD input handling round out a board built with competitive use in mind but quiet enough for daily office typing.\n\n1000Hz polling rate suits competitive gaming. That's a real strength, but weigh it against the flip side: wired only, no wireless option.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41nJY8zgznL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QQB9VCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07QQB9VCV?tag=workcocoon-20",
     description:
       "The G PRO TKL uses genuine clicky switches tuned for competitive gaming feedback, giving the sharpest, most audible confirmation of any keypress in this list. That distinct clicky sound profile, sometimes described as a crisp click compared to the deeper thock of some linear boards, is a major factor for typists who specifically want tactile and audible confirmation.\n\nA compact TKL body and detachable cable make it easy to travel with for LAN events or moving between a desk and a laptop setup, but the loud switch profile makes it a poor fit for open-plan offices or frequent video calls.\n\nWorth calling out specifically: detachable cable simplifies transport. The catch is loudest switch type here alongside the RisoPhy, disruptive on calls.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41khzfsV4mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CF3VGQFL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF3VGQFL?tag=workcocoon-20",
     description:
       "This Redragon board pairs quiet-ish red linear switches with hot-swappable sockets at the lowest price in this list, meaning you can pop out the stock switches and try different ones later without soldering. That upgrade path matters for the value proposition, hot-swap support extends a budget keyboard's useful life well past its stock switch feel.\n\nDouble-shot PBT keycaps here are a genuine upgrade over the ABS keycaps found on most keyboards in this price range, resisting shine and wear far better over a year of daily use.\n\nPBT keycaps resist shine better than the ABS on similarly priced boards. Set against that, wired only, no wireless option. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31qNb+bxSwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDWP1D58?tag=workcocoon-20",
     description:
       "The K668 extends the Redragon hot-swap formula to a full 108-key layout with 4 extra hotkeys, built-in sound-absorbing foam to reduce hollow resonance, and red linear switches for a quiet, consistent keypress. Two included sets of mixed-color keycaps let you customize the look without buying a separate keycap set.\n\nLike its smaller sibling, hot-swap sockets mean the stock red switches can be replaced later, extending the board's usefulness as your switch preferences change over time.\n\nA genuine advantage here is that sound-absorbing foam reduces hollow keyboard resonance. The tradeoff is wired only.",
     specs: [

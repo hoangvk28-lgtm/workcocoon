@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed for pets and dust together, with a washable pre-filter that catches hair before it reaches the HEPA layer, genuinely extending true filter life between replacements when cleaned regularly.\n\nHair strands trap dust particles and accelerate pre-filter saturation compared to either issue alone, plan to clean the pre-filter on a set schedule rather than waiting for a change indicator.\n\nA genuine advantage here is that washable pre-filter extends true HEPA life. The tradeoff is that pre-filter needs regular manual cleaning, not just indicator-based.",
     specs: ["Washable pre-filter catches hair before HEPA layer", "True HEPA H13, 99.97% particulate removal", "Largest review base in this guide", "24dB quoted noise level"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars from 197 Amazon ratings",
     reviews: "197 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51SEA4kds4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08GQ9BQB4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08GQ9BQB4?tag=workcocoon-20",
     description:
       "Rated for both allergies and pets with real removal specification down to 0.1 microns, a genuine headroom pick for a home combining higher dust and pet-hair load.\n\nThe smaller review base than the top pick means less real-world evidence specifically for combined-load pre-filter durability, weigh that against its coverage and spec advantages.\n\nSolid coverage for a larger room. That said, smaller review base than top pick, less combined-load evidence. Neither should be a surprise once you know to look for it.",
     specs: ["99.9% removal to 0.1 microns", "330 sq ft coverage", "H13 True HEPA", "Marketed for pets and dust together"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "A large, well-established review base with PlasmaWave technology addressing pet odor alongside dust and hair filtration, a genuinely multi-issue pick for combined-load homes.\n\nPlasmaWave technology is an added odor-neutralizing layer, not a replacement for the mechanical pre-filter cleaning that combined dust-and-hair loads still require on a regular schedule.\n\nWorth calling out specifically: plasmaWave addresses pet odor alongside particulate filtration. The catch is higher price than the top pick.",
     specs: ["PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration", "Multi-stage filtration"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large review base at the lowest price in this guide, genuinely capable for a smaller home with a moderate combined dust-and-pet-hair load rather than a heavy multi-pet household.\n\nA moderate combined load is a reasonable fit for this unit's capacity, a multi-pet or larger-home load likely needs one of the higher-coverage picks in this guide instead.\n\nLarge, well-established review base. Set against that, not intended for heavy multi-pet or larger-home loads. Both matter when comparing it to the other picks here.",
     specs: ["True HEPA filtration", "Large review base", "Budget-friendly", "Compact design for smaller rooms"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control, genuine headroom for a multi-pet household combined with a dustier home, where the combined load saturates a standard-capacity unit faster.\n\nA multi-pet, heavier-dust household benefits from this extra coverage headroom, since combined loads shorten real filter and pre-filter cleaning intervals below a single-issue estimate.\n\nThe standout detail is that smart app control for monitoring filter status. Balancing that out, higher price than budget alternatives.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Extra headroom for combined heavy loads"],

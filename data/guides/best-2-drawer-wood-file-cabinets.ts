@@ -38,7 +38,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.0 stars, 3,262 reviews",
     imageUrl: `${BASE}/vasagle-custos-2-drawer-snow-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BRXQ1DKF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRXQ1DKF?tag=workcocoon-20",
     whyItWorks:
       "The VASAGLE CUSTOS Snow White is the pick for most buyers. The largest review base on this list by a significant margin gives the 4.0-star rating real statistical weight. At $62.99, it undercuts most competitors in this category while delivering a clean, neutral finish that works with white desks, light wood furniture, and minimalist home office setups. The two-drawer design handles everyday paperwork efficiently. Steel frame rails inside drawers provide smooth glide action. Open-frame metal legs in matte black add a modern two-tone detail that keeps the piece from looking like a purely utilitarian filing cabinet.",
     tradeoffs: [
@@ -70,7 +70,7 @@ export const products: FileCabinet[] = [
     lock: "With Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/vasagle-custos-2-drawer-locking-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C1CB1YJZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C1CB1YJZ?tag=workcocoon-20",
     whyItWorks:
       "If you want the VASAGLE CUSTOS look but need locking security, this is the natural upgrade. You pay a modest premium over the base model for a cylinder lock that secures both drawers simultaneously. Over 1,700 reviews at 4.0 stars confirms the locking version is a well-validated choice. The style is virtually identical to the non-locking version - same matte black open-frame legs, same snow white laminate finish. Two keys are included. The lock is consumer-grade: effective for preventing casual access but not a high-security mechanism.",
     tradeoffs: [
@@ -102,7 +102,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.0 stars, 1,310 reviews",
     imageUrl: `${BASE}/vasagle-2-drawer-honey-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=workcocoon-20",
     whyItWorks:
       "Not every home office runs on white and gray. The VASAGLE honey brown farmhouse cabinet brings warmth and character to a space, pairing naturally with shiplap, natural wood accents, rattan baskets, and earthy color palettes. The 1,300-plus reviews at 4.0 stars back up the quality. Black iron-style metal frame legs provide farmhouse contrast against the warm laminate finish. If your desk is in a walnut, oak, or reclaimed-wood finish, this cabinet coordinates instead of clashing.",
     tradeoffs: [
@@ -134,7 +134,7 @@ export const products: FileCabinet[] = [
     lock: "With Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/vingli-2-drawer-lock-rustic-gray.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C8JKCZRR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8JKCZRR?tag=workcocoon-20",
     whyItWorks:
       "The VINGLI Rustic Gray is the best value for anyone who wants document security and a distinctive finish. It includes a lock and carries a strong rating for the category. The rustic gray finish suits industrial, farmhouse-adjacent, and eclectic spaces better than standard smooth gray laminates - the aging effect is part of the surface treatment, not a defect. If you want a lock at an accessible price and do not need a white finish, this is the pick.",
     tradeoffs: [
@@ -165,7 +165,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/vingli-2-drawer-rattan-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BT9T2WW5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BT9T2WW5?tag=workcocoon-20",
     whyItWorks:
       "The VINGLI rattan lateral cabinet is genuinely unlike everything else on this list. The drawer fronts feature woven rattan panels set into an oak-finish wood frame, creating a boho-meets-natural-materials look popular in design-forward home offices. As a lateral cabinet, it is wider and lower than vertical 2-drawer options, which works well as a credenza-height piece beside a desk. Real woven rattan is a premium material touch at this price point. Note: this pick has a smaller review count than the other picks on this list - factor that into your confidence level.",
     tradeoffs: [
@@ -202,7 +202,7 @@ export const nonWoodAlternatives: FileCabinet[] = [
     lock: "With Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/devaise-2-drawer-mobile-lock-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08B68KQX9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08B68KQX9?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE metal cabinet carries strong ratings and arrives fully assembled. All-metal construction is more durable than engineered wood for heavy daily use. If you do not care about wood styling and want the most practical, durable option regardless of material, this is worth considering.",
     tradeoffs: [
@@ -231,7 +231,7 @@ export const nonWoodAlternatives: FileCabinet[] = [
     lock: "No Lock",
     rating: "Check Amazon",
     imageUrl: `${BASE}/devaise-2-drawer-fabric-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09ZX5W7L5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09ZX5W7L5?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE fabric cabinet is the most affordable option in the roundup. The rustic brown fabric exterior is not wood-look, but it shows strong buyer satisfaction at its price point. Good for a closet office, utility storage area, or a secondary filing solution where aesthetics are secondary to budget.",
     tradeoffs: [

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720's automatic document feeder is a genuine time-saver for scanning multi-page documents, a stack of standard letter paper goes through without repositioning each sheet on the glass manually. Mobile printing setup follows a short guided process, and built-in fax remains for anyone who still needs it.\n\nBudget ADFs like this one are best suited to standard text documents rather than photos, thick cardstock, or glossy paper, which generally shouldn't go through an ADF mechanism at all regardless of the printer. For everyday multi-page scanning at the lowest price in this list, it's a reasonable starting point.\n\nAutomatic document feeder handles standard multi-page scans. That's a real strength, but weigh it against the flip side: budget ADF mechanisms are more prone to skew and multi-feed than premium models.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125e's ADF is paired with duplex printing, aimed at a home office that regularly handles both scanning stacks of documents and printing two-sided reports. A 3-month Instant Ink trial helps offset early ink cost on a printer built for more consistent volume than the budget picks in this list.\n\nAs with any inkjet ADF, standard weight paper is the safe zone, thick cardstock and photo paper should still go on the flatbed rather than through the feeder to avoid a jam.\n\nWorth calling out specifically: instant Ink trial reduces early ink cost. The catch is higher upfront price than budget ADF picks.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319DqCyLa3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=workcocoon-20",
     description:
       "The TR8620a combines an automatic document feeder with AirPrint support, Alexa compatibility, and photo printing quality, a fuller feature set than the more basic ADF picks here. It's the pricier option in this list, worth it if you'll use the extra capability rather than just the ADF.\n\nLike other inkjet ADFs, keep photo paper and thick cardstock on the flatbed instead. For document-heavy scanning combined with better photo output than a typical budget inkjet, this covers both jobs reasonably well.\n\nBetter photo printing than basic ADF inkjets. Set against that, most expensive inkjet pick in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "This is the most capable ADF pick in this list, a color laser printer rated at 35 pages per minute with a full copier, scanner, and fax built in, backed by a 3-year limited warranty. The ADF on a laser-class machine like this is generally built to handle sustained daily volume better than the inkjet ADFs above.\n\nIt's a genuinely higher price point than the rest of this list, appropriate for a home office scanning and printing documents at real volume rather than occasionally. For lighter needs, one of the lower-priced inkjet ADF picks will do the job for far less money.\n\nA genuine advantage here is that 35 PPM print speed with duplex support. The tradeoff is significantly higher price than the rest of this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "The standard OfficeJet Pro 8125 offers the same ADF and duplex printing combination as the 8125e, a solid middle-ground price for a home office that needs both multi-page scanning and two-sided printing without stepping up to laser pricing. A 3-month Instant Ink trial is included.\n\nAs with the 8125e, standard weight paper is the safe zone for this ADF, thicker stock belongs on the flatbed.\n\nInstant Ink trial reduces early ink cost. On the other hand, thick paper and photo stock should skip the ADF. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=workcocoon-20",
     description:
       "The ET-4950 pairs an automatic document feeder with Epson's refillable ink tank system rated for up to 3 years of ink, a strong option for a home office that scans and prints regularly and wants to avoid frequent cartridge purchases. A 2.4-inch color touchscreen makes navigating scan and copy settings straightforward.\n\nThe higher upfront cost is offset by the long-run ink savings if your volume justifies a supertank system, for occasional light use, a cheaper cartridge-based ADF pick will be more cost-effective overall.\n\nColor touchscreen simplifies scan and copy tasks. That's a real strength, but weigh it against the flip side: high upfront price compared to cartridge-based picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 brings supertank ink economics and an automatic document feeder to a lower price point than the ET-4950, still including a scanner, copier, fax, and Ethernet for a wired network option if WiFi isn't reliable in your space. It's a genuinely useful middle ground for home offices weighing ink cost against upfront price.\n\nLike the ET-4950, the higher upfront cost pays off mainly at moderate-to-higher print and scan volume, not for someone printing a handful of pages a month.\n\nWorth calling out specifically: ethernet option for a wired network alternative. The catch is higher upfront price than basic cartridge-based ADF picks.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/312N971RNPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGCH2QK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGCH2QK2?tag=workcocoon-20",
     description:
       "This Brother INKvestment model features a 2.7-inch color touchscreen and 2 paper trays, useful for a home office juggling different paper sizes without swapping trays constantly. The listing highlights the touchscreen and dual trays prominently rather than explicitly confirming an automatic document feeder in its title.\n\nBrother's MFC-series printers commonly include an ADF, but since it isn't stated outright in this listing, confirm the automatic document feeder spec on the full product page before buying if that's the feature you specifically need. The dual paper trays and ink-tank system are solid selling points either way.\n\nColor touchscreen simplifies navigation. Set against that, automatic document feeder is not explicitly confirmed in the listing title, verify before buying. Both matter when comparing it to the other picks here.",
     specs: [

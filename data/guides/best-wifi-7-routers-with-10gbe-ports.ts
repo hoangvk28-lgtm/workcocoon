@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "A genuine single 10G port alongside a 2.5G port, appropriate for buyers wanting an affordable entry into 10GbE for a direct NAS-to-PC connection or a fast fiber WAN link.\n\nVerify this router's specific 10G port configuration options, since some single-10G-port routers require manually choosing WAN or LAN function rather than offering both simultaneously.\n\n320MHz channel width for real wireless headroom. On the other hand, single 10G port must be configured for either WAN or LAN, verify flexibility. Both are worth keeping in mind before deciding.",
     specs: ["Genuine single 10G port + 2.5G port", "Tri-band with 6GHz radio", "320MHz channel width support", "6-stream, BE9700 combined rating"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "92 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41iU+ggyo7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=workcocoon-20",
     description:
       "A newer Wi-Fi 7 chipset generation router appropriate for buyers wanting current hardware, verify its specific port configuration against your NAS or fast-fiber use case before purchase.\n\nReal sustained 10GbE throughput depends on the router's own CPU packet-processing capability, not just the port's electrical spec, worth checking real-world reports given this model's smaller review base.\n\nA genuine advantage here is that high 4.3-star rating despite a smaller review sample. The tradeoff is that smaller review base limits real-world sustained-throughput reports.",
     specs: ["Genuine tri-band with 6GHz radio", "BE12000 combined rating", "New Wi-Fi 7 chipset generation", "High 4.3-star rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "64 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31kr7811gtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQ6QHTND?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQ6QHTND?tag=workcocoon-20",
     description:
       "Multiple multi-gigabit ports plus dual USB 3.0, appropriate for buyers wanting flexible port configuration options for both a fast WAN link and a direct-attached NAS or PC.\n\nThe highest 4.5-star rating in this guide, though with a small review sample, worth weighing that strong early signal against the larger track records of other picks here.\n\nMultiple multi-gig ports for flexible WAN and LAN configuration. That said, small review base of 64 ratings, limited real-world track record. Neither should be a surprise once you know to look for it.",
     specs: ["Multi gigabit ports including 10G", "Genuine tri-band with 6GHz radio", "2x USB 3.0 ports", "10-stream configuration"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "402 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31p9QTW8zYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D55SWRSM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D55SWRSM?tag=workcocoon-20",
     description:
       "Two genuine 10G ports rated up to 7.2 Gbps combined, appropriate for buyers wanting one port dedicated to WAN and a second for a direct-attached 10GbE NAS or PC without sacrificing flexibility.\n\nMesh compatible for future expansion, and the two-port design specifically solves the single-port WAN-versus-LAN configuration tradeoff other picks in this guide require choosing between.\n\nWorth calling out specifically: mesh compatible for future whole-home expansion. The catch is higher price appropriate mainly for buyers who need both 10G ports.",
     specs: ["Dual genuine 10G ports", "Up to 7.2 Gbps rated", "Mesh compatible", "Solid mid-size review base"],

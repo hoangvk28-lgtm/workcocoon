@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "3.6 stars from Amazon ratings",
     reviews: "265 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Am-hDGulL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CF7L4D4N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF7L4D4N?tag=workcocoon-20",
     description:
       "A genuine Wi-Fi 7 and DOCSIS 3.1 combo device, one of few real options in this still-small category, appropriate for buyers specifically wanting Wi-Fi 7 and cable modem functionality in a single unit.\n\nVerify DOCSIS 3.1 compatibility with your specific cable ISP before purchase, and note the lower 3.6-star rating relative to other picks here, worth reading recent reviews closely given this is a newer, less-mature product category.\n\nMulti-gig capable for higher-tier cable plans. On the other hand, lower 3.6-star rating, verify recent reviews closely before buying. Both are worth keeping in mind before deciding.",
     specs: ["DOCSIS 3.1 cable modem", "Genuine Wi-Fi 7 router", "Multi-gig capable", "Single-unit combo design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "1,687 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ea+c3PXWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D6GZDYS3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D6GZDYS3?tag=workcocoon-20",
     description:
       "This is a Wi-Fi 6, not Wi-Fi 7, combo, included honestly here because genuine Wi-Fi 7 combo options remain thin and this proven Nighthawk unit has a meaningfully larger review base and higher rating than the Wi-Fi 7 alternative above.\n\nAppropriate for buyers prioritizing a proven, well-reviewed combo device over having the Wi-Fi 7 label specifically, worth verifying DOCSIS 3.1 compatibility with your ISP before buying either way.\n\nA genuine advantage here is that proven, mature combo hardware with a longer track record. The tradeoff is that wi-Fi 6, not Wi-Fi 7, honestly a step behind on wireless standard.",
     specs: ["DOCSIS 3.1 cable modem", "Wi-Fi 6 (AX2700), not Wi-Fi 7", "Single-unit combo design", "NETGEAR Nighthawk ecosystem"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars from Amazon ratings",
     reviews: "3,691 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31EpWQPjghL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B082XW53G3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B082XW53G3?tag=workcocoon-20",
     description:
       "Another honest Wi-Fi 6, not Wi-Fi 7, combo included for its very large review base and broad compatibility with major cable providers, appropriate for buyers wanting maximum ISP compatibility confidence.\n\nThe largest review sample in this guide by a wide margin gives real confidence in its compatibility claims, though the more moderate 3.9-star rating is worth weighing against that scale.\n\nCompatible with all major cable providers. That said, wi-Fi 6, not Wi-Fi 7, a step behind on wireless standard. Neither should be a surprise once you know to look for it.",
     specs: ["DOCSIS 3.1 cable modem", "Wi-Fi 6, not Wi-Fi 7", "Compatible with all major cable providers", "Single-unit combo design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "1,732 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=workcocoon-20",
     description:
       "Not a combo device, a genuine tri-band Wi-Fi 7 router included as the honest alternative for buyers who separate their modem and router rather than accept the combo category's current tradeoffs.\n\nPairing a separate modem with this router avoids the single-point-of-failure risk a combo carries, and separating the two also avoids the firmware update lag that can occur when a combo splits responsibility between ISP-approved and manufacturer update paths.\n\nWorth calling out specifically: genuine tri-band Wi-Fi 7 with a real 6GHz radio. The catch is requires a separate modem purchase or rental, an added step.",
     specs: ["Genuine tri-band with 6GHz radio", "Not a combo, router only", "BE9300 combined rating, 6-stream", "Full 2.5G ports"],

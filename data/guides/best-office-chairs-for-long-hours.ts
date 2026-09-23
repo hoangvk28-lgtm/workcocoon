@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 14,478 Amazon ratings",
     reviews: "14,478 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41TqMt5cRYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=workcocoon-20",
     description:
       "The GABRYLLY's high back and adjustable headrest support the neck during long video calls or reclined breaks, a genuine advantage over the mid-back chairs in this list for full-day sitting. Its flip-up arms and 90-120 degree tilt lock give real range for shifting posture across an eight-hour day, and its mesh back helps with airflow against the upper body.\n\nAt 14,478 ratings and a 4.4-star average, it has strong, broad buyer feedback. The wide cushion seat suits most body types, though buyers with hip width above the standard 18-20 inch range should verify actual seat width before buying, since the listing doesn't specify plus-size accommodation.\n\nHeadrest supports neck during long calls. On the other hand, higher price than several other picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 165 Amazon ratings",
     reviews: "165 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tetnrTgxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GF9TKQTW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GF9TKQTW?tag=workcocoon-20",
     description:
       "This chair's adjustable lumbar support is height-adjustable rather than a fixed foam bump, letting you align it closer to your natural belt line, roughly the L1-L5 region, instead of settling for a one-size position. Its extra-wide seat and 500-pound capacity rating make it a genuine option for larger body types where standard 18-20 inch seat width falls short.\n\nWith 165 ratings at a 4.6-star average, the highest rating in this list, feedback is strongly positive though on a smaller sample than the top review-count picks. The thick armrest pad and upgraded wheels are useful details for a chair meant to be sat in for a full workday.\n\nAdjustable lumbar height, not just a fixed bump. That's a real strength, but weigh it against the flip side: smaller review base than the top-count picks.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 6,155 Amazon ratings",
     reviews: "6,155 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51lpZXXyViL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=workcocoon-20",
     description:
       "This mesh chair's breathable back matters less for heat than the seat pan material underneath you, and buyer feedback at this price point generally reports reasonable comfort across a workday without the heat buildup foam-only seats develop after two to three hours. Its 330-pound capacity and mesh construction target long-hour comfort at a mid-range price. At 6,155 ratings and a 4.3-star average, it has a large, consistent review base. For budget-tier mesh chairs, expect a thinner frame than premium options, generally rated for a 2-3 year lifespan under daily use rather than the 10-plus years of a premium compact chair. Worth calling out specifically: mesh seat pan reduces heat buildup vs foam-only seats. The catch is budget-tier frame, shorter expected lifespan than premium chairs.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 4,362 Amazon ratings",
     reviews: "4,362 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412WYSRjpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=workcocoon-20",
     description:
       "This TRALT variant adds explicitly adjustable lumbar support to a mesh build, a meaningful upgrade over a fixed foam bump for anyone sitting long hours, since it lets you move support height closer to your actual belt line. Its mesh construction carries the same cooling benefit as the other TRALT pick in this list. At a competitive price with 4,362 ratings and a 4.3-star average, it is one of the more affordable adjustable-lumbar options here. As with any budget-tier mesh chair, expect a shorter frame lifespan than premium chairs under daily eight-hour use. Large review base at 4,362 ratings. Set against that, weight capacity not stated in listing title. Both matter when comparing it to the other picks here.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 546 Amazon ratings",
     reviews: "546 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k6biuoUcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F62NG547?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F62NG547?tag=workcocoon-20",
     description:
       "Fizzin's 400-pound capacity rating and thickened cushion target long-hour comfort for heavier body types at a price well below the 500lbs big and tall pick above. Its breathable mesh design pairs with adjustable lumbar support, a solid combination for full workdays.\n\nWith 546 ratings at 4.4 stars, feedback is positive on a moderate sample size. For heavier users, remember that dropping into a seat creates 30-50% more peak force than static body weight, so a buffer of roughly 50 lbs above your actual weight against the rated capacity is a reasonable safety margin.\n\nA genuine advantage here is that adjustable lumbar support included. The tradeoff is smaller review base than the top mesh picks.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 34,180 Amazon ratings",
     reviews: "34,180 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41lDR7qjYlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=workcocoon-20",
     description:
       "This chair carries the largest review base in this entire list at 34,180 ratings, a strong signal of proven reliability across a huge buyer population. Its built-in footrest is a genuine long-hour feature, useful for brief reclined breaks during a workday without leaving the chair, and its pocket spring lumbar support offers more nuanced cushioning than a solid foam bump.\n\nAt 400 lbs capacity and a 4.5-star average, it balances gaming-chair styling with genuine ergonomic features. The high-back 3D saddle cushion is worth trying if you're sensitive to seat pan shape, since it differs from a flat cushion design.\n\nBuilt-in footrest for long-hour breaks. On the other hand, gaming-chair styling may not suit all office settings. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 10,760 Amazon ratings",
     reviews: "10,760 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rkQ70Jb6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09B3FJHHT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09B3FJHHT?tag=workcocoon-20",
     description:
       "LEMBERI offers a 400-pound capacity chair with a reinforced footrest and thickened steel frame at a budget-friendly price, a strong value for long-hour big-and-tall seating. Its linkage armrests move together for more natural arm positioning during typing versus fixed armrests on cheaper chairs. With 10,760 ratings and a 4.4-star average, it has strong, broad buyer confidence. The PU leather surface, unlike mesh, may trap more heat over a long workday, worth considering if you tend to run warm during extended sitting. Reinforced footrest and steel frame for durability. That's a real strength, but weigh it against the flip side: pU leather traps more heat than mesh over long hours.",
     specs: [
@@ -259,7 +259,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 64,003 Amazon ratings",
     reviews: "64,003 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41qkMtzBIdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=workcocoon-20",
     description:
       "This BestOffice chair has by far the largest review count of any pick in this entire list at 64,003 ratings, an enormous sample size backing its 4.3-star average even at a price point. Its breathable backrest and adjustable height cover the basics, though as a mid-back design it offers less upper-body and neck support for very long sessions than the high-back picks above. At this price, expect the lightest-duty frame in this list, better suited to shorter stretches of long-hour work broken up with regular movement than an all-day marathon session without breaks. The sponge seat lacks the mesh cooling benefit of several pricier picks here. Worth calling out specifically: lowest price in this list by a wide margin. The catch is mid-back design offers less neck and upper-body support.",
     specs: [

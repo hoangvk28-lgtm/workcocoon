@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ll21hyHHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=workcocoon-20",
     description:
       "A clamp-mounted panel that avoids screws or adhesive entirely, appropriate for renters or anyone wanting to reposition or remove the board without leaving marks on the desk.\n\nThe clamp includes real mounting hardware in the box, and the large panel gives enough hanging surface for monitors, hooks, and cables without needing a second mounting point.\n\nMounting hardware included in the box. On the other hand, clamp mount is less permanent than a screw-in installation. Both are worth keeping in mind before deciding.",
     specs: ["43 x 34 inch metal panel", "Clamp mount, no drilling", "Dual monitor stand built in", "LED lighting included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41i2tZZC1xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=workcocoon-20",
     description:
       "The wider 59-inch version of the same clamp-mounted system, appropriate for buyers who want full desk-width coverage without switching to a permanent screw-in mount.\n\nBecause it's still clamp-based rather than screwed in, the extra width means more loaded weight relying on the same non-permanent mount, worth checking the desk edge is sturdy across its full span.\n\nA genuine advantage here is that covers a full wide dual-monitor desk setup. The tradeoff is that higher price than the narrower version.",
     specs: ["59 x 34 inch metal panel", "Clamp mount, no drilling", "Dual monitor stand built in", "White finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KLj-p7YnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=workcocoon-20",
     description:
       "A large clamp-mounted panel at a lower price than most full-size systems, appropriate for renters wanting a big board without paying for extras like LED lighting.\n\nWith a small review count so far, it's worth confirming the included clamp hardware works with your desk edge thickness before committing to this budget option.\n\nNo drilling or adhesive required. That said, very small review base so far. Neither should be a surprise once you know to look for it.",
     specs: ["59 x 35 inch steel panel", "No-drill clamp mount", "Dual monitor stand", "Movable partition hooks"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51v-7P2kqkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=workcocoon-20",
     description:
       "A triple clamp mount spreads the load across three points on the desk edge rather than relying on one, giving more of the security a permanent mount offers while remaining fully removable.\n\nThis matters most once a shelf and monitor mounts are added, since each adds its own load to the mount, worth checking desk edge space for all three clamps before ordering.\n\nWorth calling out specifically: no drilling or adhesive required. The catch is requires more desk edge space than a single-clamp design.",
     specs: ["47 x 31 inch steel panel", "Triple clamp mount, no drilling", "2 monitor mounts included", "Storage shelf included"],

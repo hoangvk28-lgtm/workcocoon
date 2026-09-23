@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125e confirms both duplex printing and an ADF in its listing, meaning it handles two-sided output automatically without a manual flip. Expect the real-world duplex speed to run notably slower than the single-sided rated speed, the printer pauses to flip each sheet internally before printing the second side.\n\nA 3-month Instant Ink trial helps offset ink cost on a printer built for steadier home-office use than the budget picks in this list. If paper savings from duplex printing matter to you, this is a straightforward, confirmed choice.\n\nADF included for document scanning too. That's a real strength, but weigh it against the flip side: duplex mode runs slower than single-sided rated speed.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "Canon markets the TS4320 specifically for duplex printing in its listing title, the lowest-priced confirmed duplex pick in this list. A compact single-tray design keeps daily two-sided printing simple without extra trays to manage.\n\nStandard weight paper is the safe zone for the duplex mechanism, thicker cardstock generally can't go through the auto duplex path and needs a manual single-sided print instead. For a home office wanting confirmed duplex on a budget, this is the clearest low-cost match.\n\nWorth calling out specifically: duplex printing explicitly named in the listing. The catch is no automatic document feeder.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The TS6520 confirms duplex printing in its listing alongside a 1.42-inch OLED display that makes print status easier to follow, useful since duplex jobs take longer and benefit from clear on-screen feedback about progress. Built-in scan and copy round out the feature set.\n\nLike the TS4320, this uses a standard-weight paper path for duplex, so thicker stock should be printed single-sided instead. The display is the main differentiator over the cheaper TS4320 for buyers who want more visibility into what the printer is doing.\n\nOLED display shows clear print status. Set against that, no automatic document feeder. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "This is the only confirmed duplex laser printer in this list, its listing explicitly names duplex printing alongside copy and scan. Laser duplex mechanisms tend to handle sustained two-sided printing more reliably at volume than inkjet duplex paths.\n\nAs a monochrome-only printer, it's built for text-heavy home office documents rather than color output. A Refresh Subscription toner trial is included, and it works with Alexa for voice-triggered print jobs.\n\nA genuine advantage here is that laser reliability for sustained two-sided text volume. The tradeoff is monochrome only, no color printing.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "The standard OfficeJet Pro 8125 shares the confirmed duplex printing and ADF combination of the 8125e above at a similar price point. A 3-month Instant Ink trial is included, and it's built for consistent home-office print volume rather than occasional use.\n\nExpect the same real-world duplex speed penalty as any two-sided printing on this platform, the printer pauses to flip each sheet, so budget more time for a large duplex job than the single-sided rated speed suggests.\n\nADF included for document scanning too. That's a real strength, but weigh it against the flip side: duplex mode runs slower than single-sided rated speed.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319DqCyLa3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=workcocoon-20",
     description:
       "The TR8620a's listing highlights its ADF, AirPrint support, and Alexa compatibility, but it does not explicitly state duplex printing in the title. It includes plenty else worth considering, photo printing quality, fax, and voice-triggered printing, but if automatic two-sided printing is your specific requirement, verify that spec directly on the product page before buying.\n\nWe're including it here as a secondary option given how strong its other features are for a home office, not as a confirmed duplex pick on par with the models above.\n\nWorth calling out specifically: automatic document feeder included. The catch is duplex printing not explicitly confirmed, verify before buying if required.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31C067ZosFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=workcocoon-20",
     description:
       "This Brother INKvestment model's listing emphasizes its 1.8-inch color display and manual feed slot for envelopes and cardstock, but doesn't explicitly confirm duplex printing in the title. Its ink-tank system and Refresh Subscription trial are solid features on their own.\n\nWe're including it as a secondary alternative given its manual feed slot flexibility, not as a confirmed duplex pick. If two-sided printing is a must-have, verify this specific spec on the full product listing before purchasing.\n\nInk-tank system reduces per-page cost over time. Set against that, duplex printing not explicitly confirmed, verify before buying if required. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "This model's listing confirms automatic 2-sided copy and scan with a 2.7-inch color touchscreen, a genuinely useful feature for double-sided documents. It's worth noting that duplex printing and duplex scanning are different capabilities, and the title here specifically confirms the scan and copy side rather than stating duplex printing outright.\n\nIf duplex printing specifically is your requirement, confirm that spec on the full product page rather than assuming it from the 2-sided copy and scan claim alone. The confirmed duplex scan and copy feature on its own is still a real time-saver for double-sided paperwork.\n\nA genuine advantage here is that color touchscreen for easier navigation. The tradeoff is duplex printing specifically not confirmed separately from duplex scan and copy.",
     specs: [

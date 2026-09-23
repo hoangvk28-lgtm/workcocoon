@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "13,752 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51I1QfNfgIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B088NHGC48?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B088NHGC48?tag=workcocoon-20",
     description:
       "For buyers wanting a proven, high-review-volume drawer stand Built with a metal platform rated to 44 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nThe drawer capacity is a separate spec from the 44 lb top platform rating, keep that distinction in mind. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. That's a real strength, but weigh it against the flip side: rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["44 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $19.99", "13,752 ratings on Amazon"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "3,082 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51iOtKHzvCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB8F7GDN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DB8F7GDN?tag=workcocoon-20",
     description:
       "For budget buyers who still want a genuine drawer, not just a shelf Built with a wood and metal platform rated to 44 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nIts slide rail is a simpler friction-fit type, appropriate for light daily use rather than heavy repeated loading. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nWorth calling out specifically: wood and metal build appropriate for this use case. The catch is rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["44 lbs rated capacity (evenly distributed)", "wood and metal construction", "Priced at $19.99", "3,082 ratings on Amazon"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "235 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51YEL4BLDcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCC5S4SX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCC5S4SX?tag=workcocoon-20",
     description:
       "For buyers wanting more drawer capacity split across two compartments Built with a metal platform rated to 50 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nTwo smaller drawers can each hold less than one larger drawer, worth checking combined capacity claims carefully. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. Set against that, rated capacity assumes evenly distributed weight, not a single point load. Both matter when comparing it to the other picks here.",
     specs: ["50 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $39.97", "235 ratings on Amazon"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "3,096 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41gO3CCIg1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DJKSMV2T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJKSMV2T?tag=workcocoon-20",
     description:
       "For dual-monitor desks wanting combined-load stability with storage Built with a wood and metal platform rated to 44 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nLoading both monitors and a full drawer at once tests combined-load stability more than either spec alone suggests. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nA genuine advantage here is that wood and metal build appropriate for this use case. The tradeoff is rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["44 lbs rated capacity (evenly distributed)", "wood and metal construction", "Priced at $25.99", "3,096 ratings on Amazon"],

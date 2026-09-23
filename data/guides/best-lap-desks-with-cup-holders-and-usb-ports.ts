@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,230",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BFRHWCFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BFRHWCFV?tag=workcocoon-20",
     description:
       "This lap desk includes 4 USB ports alongside its cup holder and storage drawer, drawing power from your connected laptop rather than requiring a separate wall plug, a genuine convenience for using the ports away from an outlet.\n\nThe ports function as charging-only pass-through rather than data connections, useful for topping off a phone or accessory but not for data transfer between devices.\n\nStorage drawer for small accessories. On the other hand, ports are charging-only, not data connections. Neither should be a surprise once you know to look for it.",
     specs: ["4 USB ports (charging, laptop-powered)", "Cup holder", "Storage drawer", "Foldable design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,808",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LDHY54T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LDHY54T?tag=workcocoon-20",
     description:
       "This desk's legged design provides a more stable base for bed use than a flat lap-only alternative, with its USB charge port drawing from the same laptop-powered pass-through as most picks in this comparison rather than requiring its own outlet.",
     specs: ["USB charge port (laptop-powered)", "Cup holder", "Adjustable folding legs", "Height adjustable"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "288",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ8HGVLD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ8HGVLD?tag=workcocoon-20",
     description:
       "This is the most feature-dense pick in this comparison, adding a small wind fan and LED reading light to the standard USB charging and cup holder combination, all drawing power through the same laptop-connected USB pass-through system.",
     specs: ["4 USB ports (laptop-powered)", "Built-in wind fan", "LED reading light", "Cup holder"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "1,159",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D8NYZVZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D8NYZVZW?tag=workcocoon-20",
     description:
       "This desk's height adjustability sets it apart in this comparison, letting you dial in the exact working height over a bed or couch rather than accepting a fixed leg height, with its USB port providing the same laptop-powered charging as most competitors here.",
     specs: ["Height-adjustable legs", "23.6in x 15.7in desktop", "USB port (laptop-powered)", "Cup holder"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,312",
     imageUrl: "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQW29RCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQW29RCV?tag=workcocoon-20",
     description:
       "Honesty note: this listing's core marketing emphasizes its cup holder tray and foldable design rather than USB ports specifically; check the current listing for exact port count and type before assuming full parity with the more USB-focused picks above.\n\nIts wide 23.4 inch platform remains a genuine stability advantage for combined laptop, cup, and charging accessory use.\n\nFoldable storage. That's a real strength, but weigh it against the flip side: uSB port details less prominently disclosed than competitors.",
     specs: ["23.4in wide platform", "Foldable, flat storage", "Cup holder tray", "Check listing for current USB spec"],

@@ -40,7 +40,7 @@ export const products: BudgetLamp[] = [
     price: "~$20-28",
     priceRange: "~$20--28",
     imageUrl: `${BASE}/01-best-overall-lepro-led-desk-lamp.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08LMPCX3D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LMPCX3D?tag=workcocoon-20",
     whyItWins: "The Lepro is the Forbes Vetted pick and consistently appears in independent desk lamp roundups for good reason: 5 color temperature modes x 5 brightness levels = 25 light combinations, covering every study scenario from late-night warm reading to bright afternoon note-taking. The 800-lumen output is strong for this price -- bright enough to illuminate a full desk workspace without a second lamp.",
     bodyParagraph: "The diffused LED panel (not a bare bulb) reduces glare and hotspots -- important for extended sessions. Touch controls on the base are responsive without being accidental.",
     specs: [
@@ -65,7 +65,7 @@ export const products: BudgetLamp[] = [
     price: "~$15-22",
     priceRange: "~$15--22",
     imageUrl: `${BASE}/02-best-clamp-ivict-56-led-clip-desk-light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C462K8S4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C462K8S4?tag=workcocoon-20",
     whyItWins: "The iVict clips to the desk edge and takes zero surface area. The 56 LED chips spread across the lamp head provide even coverage, and the 360° flexible gooseneck positions the light precisely over the work area. Three color temperatures x 10 brightness levels = 30 combinations.",
     bodyParagraph: "The clip opens to 6 cm -- fitting most standard desks (typically 18--25 mm thick). Foam pads on the clip protect the desk finish. For a 60--70 cm desk where every centimeter of surface matters, this eliminates the lamp-base problem entirely.",
     specs: [
@@ -91,7 +91,7 @@ export const products: BudgetLamp[] = [
     price: "~$18-25",
     priceRange: "~$18--25",
     imageUrl: `${BASE}/03-best-with-usb-charging-led-desk-lamp-dual-usb-hub.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08923SXXP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08923SXXP?tag=workcocoon-20",
     whyItWins: "The core problem with most desk lamps is they use an outlet without giving anything back. This pick adds dual USB ports (USB-A + USB-C) to the lamp base -- meaning the lamp charges your phone while it lights your desk from the same power source. In a dorm or apartment where every outlet is contested, this combination is genuinely useful.",
     bodyParagraph: "5 color modes x 3 brightness levels with a touch control panel, plus a small nightlight mode for the base.",
     specs: [
@@ -116,7 +116,7 @@ export const products: BudgetLamp[] = [
     price: "~$18-25",
     priceRange: "~$18--25",
     imageUrl: `${BASE}/04-best-for-dorm-ivict-gooseneck-clamp-27-mode.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BLK6RFGH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLK6RFGH?tag=workcocoon-20",
     whyItWins: "The iVict gooseneck clamp is the most versatile pick for shared room use. 27 lighting modes (9 color temps x 3 brightness) give you extreme fine-tuning over the light environment -- crucial when you need 'warm, dim, directional' for midnight studying next to a sleeping roommate.",
     bodyParagraph: "The monitor-bar style head focuses light down and forward, not upward into the room. The clamp mount keeps it off the desk surface. This combination of focused light + warm dimming + zero desk footprint makes it the pick most specifically designed for dorm use.",
     specs: [
@@ -140,7 +140,7 @@ export const products: BudgetLamp[] = [
     price: "~$12-18",
     priceRange: "~$12--18",
     imageUrl: `${BASE}/05-best-budget-under-20-le-dimmable-7-level-led.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00MHLIGCY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00MHLIGCY?tag=workcocoon-20",
     whyItWins: "When the budget ceiling is $15--18, most options involve compromises. The LE Dimmable does not pretend to offer 25 lighting modes -- it offers one color (daylight white), seven brightness levels, and reliable LED operation. Simple, functional, and bright.",
     bodyParagraph: "The 7-level touch dimmer is smooth and responsive. The daylight-white color temperature (5000K) is appropriate for focused study. No USB charging, no color modes -- just a clean, reliable desk lamp at a low price.",
     specs: [

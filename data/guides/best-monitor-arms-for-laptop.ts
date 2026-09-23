@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Wd1NwAowL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQM6QB48?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQM6QB48?tag=workcocoon-20",
     description:
       "This is a standard single monitor arm, not an arm with a built-in laptop tray, so a separate VESA laptop tray adapter is required to add laptop support. It holds up to 19.8 lbs on a max VESA 100x100mm head, which covers the monitor and a light adapter tray combined but leaves little margin for a heavier 16-inch laptop.\n\nTool-free VESA installation and built-in cable management make it an easy first arm for a combined monitor-and-laptop setup on a budget. Treat the 19.8 lb rating as a ceiling, not a target, once you factor in the added tray hardware.\n\nTool-free VESA mounting for a quick tray-adapter swap. That's a real strength, but weigh it against the flip side: no built-in laptop tray, requires a separate VESA adapter purchase.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FAEzhc2PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=workcocoon-20",
     description:
       "The FlowLift is another monitor-only arm rather than a laptop arm, and it fits 13 to 32 inch monitors rated for 4.4 to 19.8 lbs. Adding a VESA laptop tray means the total load sits closer to that upper limit, so this suits lighter 13-14 inch laptops better than a heavier 16-inch model.\n\nA clamp and grommet base give you flexibility for how you mount it to a desk that also needs to route a laptop charger alongside the monitor cable. It is a reasonable middle ground between the cheapest and premium arms here.\n\nWorth calling out specifically: fits a broad 13-32 inch monitor range. The catch is no built-in laptop tray, VESA adapter sold separately.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41--azXaNzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GK7FVTR4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GK7FVTR4?tag=workcocoon-20",
     description:
       "The FlowLift Pro uses HUANUO's MechaSpring mechanism for smoother, more even resistance when repositioning, which matters more once you add a laptop tray adapter and start adjusting both screens together. It is rated for 13 to 32 inch screens up to 19.8 lbs, the same ceiling as the standard FlowLift.\n\nTool-free VESA installation and a choice of C-clamp or grommet base keep setup simple. This is still a monitor-only arm, so the laptop side of the setup depends entirely on adding a compatible VESA tray.\n\nTool-free VESA head for quick tray-adapter changes. Set against that, no integrated laptop tray, still needs a separate VESA adapter. Both matter when comparing it to the other picks here.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41muNp04WgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGPZR6P1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGPZR6P1?tag=workcocoon-20",
     description:
       "WALI rates this arm for regular screens up to 32 inches and a 26.4 lb total load, a higher ceiling than the FlowLift or ErGear picks at a similar price. That extra headroom is useful once a VESA laptop tray adapter and a heavier laptop are added to the monitor's own weight.\n\nVESA 75/100mm compatibility covers most laptop tray adapters on the market. It is still a monitor arm at its core, not a dedicated laptop mount, so confirm your tray adapter's own weight rating before loading a 16-inch laptop onto it.\n\nA genuine advantage here is that wide 13-34 inch monitor compatibility. The tradeoff is no built-in laptop tray, adapter purchased separately.",
     specs: [
@@ -175,7 +175,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41n18T7NMSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G523STF2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G523STF2?tag=workcocoon-20",
     description:
       "The SmooVex fits monitors up to 32 inches on a standard VESA 75/100mm head, keeping the footprint compact for a smaller desk that still needs to fit a laptop tray adapter alongside the monitor arm. Its mechanical spring mount gives it steady resistance for repositioning.\n\nAs with the rest of this list, it is a monitor-only arm, so plan for a VESA laptop tray purchase to complete a combined setup. The compact base makes it a reasonable fit where desk space is the limiting factor.\n\nStandard VESA 75/100mm fits most tray adapters. That's a real strength, but weigh it against the flip side: no integrated laptop tray.",
     specs: [
@@ -206,7 +206,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=workcocoon-20",
     description:
       "The TitanLift is rated for screens up to 49 inches and up to 44 lbs, roughly double the capacity of the budget arms in this list. That headroom is exactly what a combined monitor-plus-laptop-tray setup needs, since an 8kg total load (a 27-inch monitor plus a 17-inch laptop) can push lighter arms past their comfortable range.\n\nAluminum construction and a dual C-clamp base add stability under that heavier combined weight. It is still built around a monitor VESA head rather than a laptop tray, so a compatible adapter is still part of the equation.\n\nWorth calling out specifically: aluminum build adds stability under a heavier combined load. The catch is priced well above the budget picks in this list.",
     specs: [
@@ -238,7 +238,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-J6rY9HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Q8TJ2KL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Q8TJ2KL?tag=workcocoon-20",
     description:
       "Ergotron's LX fits flat, curved, and ultrawide monitors up to 34 inches at 7 to 25 lbs, on a VESA 75x75mm or 100x100mm head that accepts most third-party laptop tray adapters. Its gas spring is built for years of daily repositioning rather than the lighter-duty springs on budget arms.\n\nThis is a monitor arm, not a laptop arm, and the 25 lb ceiling means a heavier laptop plus adapter tray should be checked against your specific tray's own rated weight. The premium build quality is the main reason to pay this much over the budget picks here.\n\nWide monitor compatibility including curved and ultrawide. Set against that, significantly more expensive than the budget arms here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -269,7 +269,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314R591Wn2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSJN4XSX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSJN4XSX?tag=workcocoon-20",
     description:
       "The upgraded LX Pro covers flat, curved, and ultrawide monitors up to 34 inches at 4 to 22 lbs, with the same dual VESA pattern support as the standard LX. Ergotron's warranty on this line is longer than what budget brands typically offer, though it covers manufacturing defects rather than the wear a gas spring naturally sees under years of adjustment.\n\nAs with every arm in this list, there is no built-in laptop tray, so a VESA adapter is still required to add laptop support. The white finish and refined joint design are the main upgrades over the standard LX.\n\nA genuine advantage here is that refined joint design for smoother long-term adjustment. The tradeoff is highest price in this list.",
     specs: [

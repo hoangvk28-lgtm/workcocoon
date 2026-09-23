@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "2,413",
     imageUrl: "https://m.media-amazon.com/images/I/41dA5efQgvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DDXPGY2V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DDXPGY2V?tag=workcocoon-20",
     description:
       "The Furnulem pairs a 2-tier bookshelf headboard with app or remote-controlled RGB LED lighting spanning over 60,000 colors, plus 2 AC outlets and 2 USB ports built right into the frame. The heavy-duty metal slat platform supports up to 700 lbs and needs no box spring, and the frame leaves 15.16 inches of underbed clearance, roomy enough for a robot vacuum to pass through.\n\nAn upholstered headboard with FSC-certified wood construction gives it a more refined look than purely metal storage frames, and with the largest review base in this list, it's a proven, well-reviewed choice for anyone who wants shelf storage plus charging in one setup.\n\n2-tier bookshelf plus built-in LED and charging. That's a real strength, but weigh it against the flip side: no drawers included, shelf storage only.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "3,031",
     imageUrl: "https://m.media-amazon.com/images/I/51+E7+NGexL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9Q5JRHP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9Q5JRHP?tag=workcocoon-20",
     description:
       "This second Furnulem model adds 2 underbed drawers to the same 2-tier bookshelf headboard formula, giving you enclosed storage in addition to open shelf space, all at a lower price than the LED-only version above. RGB LED lighting still covers 60,000+ colors with music or microphone sync modes, and a mute sponge bar keeps the drawers gliding open and closed nearly silently.\n\nWith the most reviews of any pick in this list at over 3,000, it's a heavily proven option. The 700 lb capacity metal slat frame needs no box spring and leaves 12.6 inches of clearance under the drawers.\n\nWorth calling out specifically: adds 2 drawers on top of the bookshelf headboard. The catch is slightly less underbed clearance than the drawer-free version.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "9,601",
     imageUrl: "https://m.media-amazon.com/images/I/51kC6dvWYLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9XM2N74?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9XM2N74?tag=workcocoon-20",
     description:
       "The LIKIMIO is a King-size vintage wood shelf headboard paired with a grey upholstered lower panel, standing out visually with distinctive angle-iron legs instead of the boxier metal frames on most other picks here. Built-in charging includes 2 AC outlets and a USB port, and the frame includes integrated cable management to keep cords tidy.\n\nWith by far the largest review base in this entire list at over 9,600 ratings, it's the most extensively proven bed frame here. Heavy-duty metal slats provide the mattress support, and the 10.4-inch underbed clearance works well for flat storage bins.\n\nDistinctive angle-iron leg design. Set against that, no LED lighting included. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "355",
     imageUrl: "https://m.media-amazon.com/images/I/41e2P1GnluL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FYQJJZ3Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FYQJJZ3Z?tag=workcocoon-20",
     description:
       "The OLEVS packs the most charging ports of any King-size pick in this list, 2 USB-A ports, 1 USB-C port, and 2 AC outlets, effectively turning the headboard into a bedroom command center. It's also rated to hold 1,000 lbs, well above the 700-800 lb range typical of most Queen frames here.\n\nA 2-tier upholstered shelf headboard with app-controlled RGB LED lighting rounds out the feature set, and commercial-grade metal slats are built to handle the added weight and width of a King mattress without sagging over time.\n\nA genuine advantage here is that 5 total charging ports including USB-C. The tradeoff is smaller review sample (355) than the LIKIMIO or Furnulem picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "4,710",
     imageUrl: "https://m.media-amazon.com/images/I/41YZCzk7GxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKQSJ333?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKQSJ333?tag=workcocoon-20",
     description:
       "The Lifezone is the most full-featured pick in this list, combining a 2-tier bookshelf headboard with 4 sliding underbed drawers, giving you more distinct storage zones than any other bed frame here. App or remote-controlled RGB LED lighting runs along the frame, and charging covers 2 AC outlets, 1 USB port, and 1 Type-C port.\n\nEleven metal support rods back the mattress instead of standard wood slats for added durability, and the industrial vintage brown finish, held up by 9 sturdy metal legs, stands out from the more neutral tones on other picks in this guide.\n\nBuilt-in charging and RGB LED lighting. That's a real strength, but weigh it against the flip side: lowest rating in this list at 4.1 stars.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "Check current rating on Amazon",
     reviews: "New listing, check reviews on Amazon",
     imageUrl: "https://m.media-amazon.com/images/I/41ulDfV6t3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GT178F5J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GT178F5J?tag=workcocoon-20",
     description:
       "The AMERLIFE stands out visually with a farmhouse bookcase headboard paired with sliding barn doors over part of the shelving, a distressed dark oak finish, and a tall footboard that gives it more presence than any other frame in this list. Charging includes 1 USB port, 1 Type-C port, and 2 ETL-certified AC outlets built into the headboard.\n\nRated to hold between 800 and 1,000 lbs depending on configuration, it's built for durability alongside its statement design. As a newer listing, it doesn't yet have an established review history, so it's worth checking current ratings on Amazon before buying.\n\nWorth calling out specifically: eTL-certified charging outlets. The catch is new listing without an established review history.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "681",
     imageUrl: "https://m.media-amazon.com/images/I/41VHQEnGazL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT9RMG8N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT9RMG8N?tag=workcocoon-20",
     description:
       "The Yaheetech leans upscale with a velvet tufted wingback bookshelf headboard featuring vertical tufted stripe detailing, a noticeably softer and more furniture-like look than the metal-frame storage beds elsewhere in this list. It still includes 2 AC outlets and 2 USB ports for charging, plus an open shelf built into the headboard for books or a lamp.\n\nAn 800 lb weight capacity platform rests on 12 slats and 8 legs, with 6 inches of underbed clearance that leaves enough room for a robot vacuum to pass through. For anyone who wants a bookshelf bed frame that reads more like a boutique hotel headboard than a utilitarian storage unit, this is the pick.\n\nVelvet tufted wingback with vertical stripe detailing. Set against that, lowest underbed clearance in this list at 6 inches. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.8",
     reviews: "47",
     imageUrl: "https://m.media-amazon.com/images/I/41qodPOxrxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4LFRLMK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4LFRLMK?tag=workcocoon-20",
     description:
       "The UHTN holds the highest rating in this entire list at 4.8 stars, pairing a headboard storage shelf with 2 silent-caster underbed drawers, quieter than the drawers on most other picks here. App or remote-controlled RGB LED lighting spans over 60,000 colors, and charging covers 2 AC outlets, 2 USB ports, and 1 USB-C port, tied for the most in this guide.\n\nThe 800 lb capacity platform runs on metal slats with 10 inches of underbed clearance, and the grey upholstered finish gives it a softer look than the metal-frame-only picks. With a smaller review sample so far, it's a newer but very well-reviewed option.\n\nA genuine advantage here is that 5 charging ports including USB-C. The tradeoff is smaller review sample (47 ratings) than most other picks.",
     specs: [

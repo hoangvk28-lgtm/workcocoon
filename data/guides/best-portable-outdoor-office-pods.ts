@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41tY3PYt8NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5C1H18W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5C1H18W?tag=workcocoon-20",
     description:
       "This is the one product in the verified pool whose title explicitly claims indoor and outdoor use, marketed as a luxury acoustic pod for meetings and multipurpose home office work. Amazon's listing does not include a star rating or review count.\n\nAn outdoor use claim in a title is not the same as a documented weatherproof rating, before installing outdoors confirm with the seller directly what weatherproofing standard, if any, the pod meets, how its electrical components are protected from moisture, and whether a foundation or anchoring system is included, since none of that is specified in the listing.\n\nA genuine advantage here is that multipurpose framing suits both meetings and general home office work. The tradeoff is that no star rating or review count available from Amazon.",
     specs: ["Marketed for indoor and outdoor use", "Multipurpose meeting/home office framing", "Acoustic (\"silence booth\") design", "Generic/private-label manufacturer"],

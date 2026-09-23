@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "491",
     imageUrl: "https://m.media-amazon.com/images/I/51NHUcgYmoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MK52TC?tag=workcocoon-20",
     description:
       "This adjustable 5-tier metal organizer holds the highest rating in this comparison, and its tier spacing can be customized to accommodate legal size folders in some tiers and letter size in others, a genuine flexibility advantage over fixed-spacing alternatives.",
     specs: ["Wall-mounted, 5 adjustable tiers", "Customizable tier spacing", "Metal construction", "Highest rating in this comparison"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "366",
     imageUrl: "https://m.media-amazon.com/images/I/51jmG3xLXjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSMRXZKX?tag=workcocoon-20",
     description:
       "This organizer's fixed-spacing tiers are sized for standard letter documents; if you regularly use legal size folders, verify the tier depth against your folder's exact dimensions before ordering, since fixed-spacing designs don't adjust like the Jakyitvi pick above.",
     specs: ["Wall-mounted, 5 fixed tiers", "Letter-size focused", "5 additional hooks", "Lowest price of the 5-tier picks"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "280",
     imageUrl: "https://m.media-amazon.com/images/I/51XpqFad+GL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=workcocoon-20",
     description:
       "The mesh construction on this 7-tier design offers genuinely better folder tab visibility than a solid-walled organizer, letting you scan labeled tabs at a glance rather than pulling folders partway out to check labels, a real filing-system usability advantage.",
     specs: ["Wall-mounted mesh design", "7 vertical tiers", "Mesh allows tab visibility", "Metal wire construction"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "405",
     imageUrl: "https://m.media-amazon.com/images/I/51Cr5PIjCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01DPWLUU8?tag=workcocoon-20",
     description:
       "This genuinely hangs from a desk edge without drilling, an established Safco office furniture design with 3 vertical mesh trays sized for standard letter documents, at the highest price in this comparison reflecting its premium brand positioning.",
     specs: ["Desk-edge hanging, no drilling", "3 vertical mesh trays", "Established Safco brand", "Letter-size focused"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "199",
     imageUrl: "https://m.media-amazon.com/images/I/51Z7iBgMAJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0856Y4YZD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0856Y4YZD?tag=workcocoon-20",
     description:
       "This freestanding desktop organizer includes an internal hanging-file compartment explicitly listed as letter size, appropriate if you'd rather not drill or clamp anything and are comfortable with the desk-surface footprint tradeoff.",
     specs: ["Freestanding desktop design", "4 compartments, letter size hanging file", "No mounting required", "No-drill, no-clamp"],

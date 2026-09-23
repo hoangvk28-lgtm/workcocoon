@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "12,138",
     imageUrl: "https://m.media-amazon.com/images/I/41R0aNdrj4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CBRY92M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CBRY92M?tag=workcocoon-20",
     description:
       "The SHAREWIN is the cheapest pick in this entire guide, a 1.5mm PVC mat sized at 36\"x47\" for hardwood, tile, or laminate. Its top surface uses an anti-slip frosted texture rather than a fully smooth finish, which gives it the best rolling control among the budget hard-floor mats here without feeling sticky underfoot.\n\nThe underside stays smooth so the mat itself doesn't shift on the floor, and the whole thing is BPA-free with no volatile toxins. It's strictly a hard-floor mat, so it won't work if you ever move to a carpeted room.\n\nWorth calling out specifically: frosted texture gives good rolling control for a budget mat. The catch is hard floor only, no carpet compatibility.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "54,421",
     imageUrl: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=workcocoon-20",
     description:
       "The HON/OFM Essentials is the most-reviewed rolling chair mat in this guide, a 2.2mm PU vinyl mat at 36\"x48\" with an extended lip and ramped edges. Anchor bars grip low pile carpet up to 1/4\" thick while an anti-skid top keeps the mat itself from creeping across the floor.\n\nA 5-year warranty backs the build, the longest in this guide, and the ramped edges let your chair roll on and off the mat without a noticeable bump. It's built specifically for low pile carpet, so it's not the right choice for hard floors or anything deeper than 1/4\".\n\nAnchor bars grip low pile carpet securely. Set against that, only rated for carpet up to 1/4\" thick. Both matter when comparing it to the other picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "10,646",
     imageUrl: "https://m.media-amazon.com/images/I/51-SqFH4ZoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=workcocoon-20",
     description:
       "The Kuyal is a 2mm PVC mat at 36\"x48\" built with a smooth top surface designed to let hard plastic and soft polyurethane casters roll with minimal drag. An anti-slide coating on the underside keeps the mat itself planted on hardwood or tile.\n\nIts dull polish finish avoids the glare of a fully glossy mat, and the whole thing is odorless and BPA-free with no lead or cadmium. Like the other hard-floor picks here, it's not rated for use on carpet.\n\nA genuine advantage here is that anti-slide underside keeps the mat from shifting. The tradeoff is hard floor only, no carpet use.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,956",
     imageUrl: "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=workcocoon-20",
     description:
       "The GORILLA GRIP is a 0.087\" thick polycarbonate mat at 36\"x48\" that ships completely flat instead of rolled, so there's no waiting for it to lie down or fighting curled edges out of the box. Hundreds of spikes on the underside grip medium or low pile carpet up to 3/4\" thick.\n\nUnlike vinyl mats that can discolor over time, this one cleans with just water. It's built for carpet specifically and isn't intended for hard floor use, where the underside spikes would have nothing to grip.\n\nRated for deeper carpet than most vinyl mats here, up to 3/4\". On the other hand, carpet only, not for hard floors. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "At 5mm thick, the MuArts is the thickest mat in this guide, a rigid, crystal clear 54\"x32\" panel rated for 1,400 lbs, the highest capacity of any pick here. Its rigid flat construction means it stays put on carpet without needing spikes or cleats, and it rolls smoothly on hard floors too.\n\nThat dual-use flexibility makes it a good fit if you switch rooms or floor types, or if you just want one mat that works regardless of what's underneath. The tradeoff is a higher price than the single-surface picks in this guide.\n\nWorks on both carpet and hard floors. That's a real strength, but weigh it against the flip side: smaller footprint than some dedicated carpet mats.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "325",
     imageUrl: "https://m.media-amazon.com/images/I/51UmZw+6dgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CY1SMF17?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CY1SMF17?tag=workcocoon-20",
     description:
       "The MESAILUP combines polycarbonate and ceramic composite at 0.12\" thick, rated for 1,500 lbs, the highest capacity polycarbonate mat in this guide. A beveled edge lets your chair roll on and off the 36\"x48\" mat noticeably smoother than a squared-off edge would.\n\nAt 92-95% crystal transparency it looks nearly invisible on the floor, and 6 anti-slip pads keep it anchored whether you're using it on carpet or a hard floor. It's the priciest pick in this guide, reflecting its higher capacity and dual-use build.\n\nWorth calling out specifically: beveled edge smooths chair transitions on and off the mat. The catch is most expensive pick in this guide.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,486",
     imageUrl: "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=workcocoon-20",
     description:
       "The GLSLAND is the cheapest tempered glass mat in this guide, 0.2\" thick and sized at 36\"x46\", rated for 1,200 lbs. Glass gives it the smoothest, quietest rolling surface of any material here, since there's no texture or spike pattern to catch a caster wheel.\n\nFour anti-slip pads keep it from sliding on either carpet or hard floor, and polished rounded corners remove the sharp edges some rigid mats have. It's BPA-free, phthalate-free, and odorless, though glass does add noticeable weight compared to vinyl or polycarbonate.\n\nGlass surface rolls smoothly and quietly. Set against that, heavier than vinyl or polycarbonate mats, harder to reposition. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,085",
     imageUrl: "https://m.media-amazon.com/images/I/41UO1C7z6QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXSFBQLH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXSFBQLH?tag=workcocoon-20",
     description:
       "The Koonmi is the largest tempered glass mat in this guide at 46\"x55\", 0.2\" thick and rated for over 1,000 lbs. That extra footprint matters for a standing desk setup, since the desk shifts position through its full height range and a larger mat keeps the chair rolling smoothly no matter where the desk currently sits.\n\nA detachable anti-slip pad and polished rounded corners round out the build, and it works on carpet or hard floor. It carries the highest rating of any pick in this guide, though its size and glass construction make it the heaviest mat here to move once placed.\n\nA genuine advantage here is that highest rating in this guide at 4.7 stars. The tradeoff is most expensive pick tied with the MESAILUP.",
     specs: [

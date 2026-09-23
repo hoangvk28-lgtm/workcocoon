@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "A steeper tilt angle than most vertical mice, aimed at reducing forearm pronation more than a shallower design. This addresses one contributing factor in some carpal tunnel discomfort, not the condition as a whole.\n\nThis product is not a medical device and is not intended to diagnose, treat, or cure carpal tunnel syndrome. If you have persistent symptoms, consult a doctor or hand specialist for a proper evaluation.\n\nDual connectivity for multiple devices. On the other hand, does not address wrist flexion, grip pressure, or tendon factors. Both are worth keeping in mind before deciding.",
     specs: ["Steeper, disclosed tilt angle", "Dual 2.4GHz and Bluetooth", "Rechargeable battery", "Premium build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A gentler tilt angle than the steepest picks in this guide, which may suit buyers easing into a vertical grip for the first time rather than committing to a more extreme angle immediately.\n\nAs with any vertical mouse, this reduces forearm pronation to a degree but does not address the full range of factors involved in carpal tunnel syndrome. Persistent symptoms warrant a conversation with a medical professional, not just a product change.\n\nA genuine advantage here is that compact body suits smaller to average hands. The tradeoff is that less pronounced angle means a smaller pronation reduction than steeper designs.",
     specs: ["Gentler, disclosed tilt angle", "Compact body", "Dual 2.4GHz and Bluetooth", "Rechargeable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "A budget-friendly option with a mid-range tilt angle and rechargeable battery, offering the same general pronation-reduction mechanism as pricier picks at a much lower cost.\n\nBuyers should treat this, like any vertical mouse, as one piece of a broader ergonomic setup rather than a solution to carpal tunnel symptoms on its own, and seek professional medical advice for ongoing or worsening symptoms.\n\nRechargeable battery. That said, does not address wrist flexion or grip-related factors. Neither should be a surprise once you know to look for it.",
     specs: ["Mid-range tilt angle", "Rechargeable built-in battery", "2.4GHz wireless receiver", "Budget price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "The largest review base among the picks in this guide, at the lowest price, giving a low-risk way to test whether a reduced-pronation grip feels different for you.\n\nThis is a general consumer product, not a medical device, and it does not diagnose or treat carpal tunnel syndrome. Persistent numbness, tingling, or pain should be evaluated by a doctor.\n\nWorth calling out specifically: largest review base in this guide. The catch is right-hand only.",
     specs: ["Moderate tilt angle", "Right-hand specific design", "2.4GHz wireless receiver", "AA battery powered"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "2,295 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31o5C5jFQAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=workcocoon-20",
     description:
       "A long-established, fixed tilt angle designed to reduce forearm pronation, with a wired connection that eliminates battery weight for a lighter, more consistent feel across long sessions.\n\nThis is not a medical device and does not diagnose or treat carpal tunnel syndrome. If you have persistent numbness, tingling, or pain, consult a doctor or hand specialist.\n\nNo battery weight, a genuine ergonomic upside. Set against that, does not address wrist flexion, grip pressure, or tendon factors. Both matter when comparing it to the other picks here.",
     specs: ["Fixed, well-documented tilt angle", "Wired USB connection", "No battery, lighter body", "Premium price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A compact, rechargeable vertical mouse offering the same general pronation-reduction mechanism as pricier picks, at a budget-to-mid price point suited to average or smaller hands.\n\nAs with any vertical mouse, this addresses forearm pronation specifically, not carpal tunnel syndrome as a whole, and persistent symptoms should be evaluated by a medical professional.\n\nThe standout detail is that rechargeable battery avoids AA bulk. Balancing that out, does not address the full range of carpal tunnel contributing factors.",
     specs: ["Compact ergonomic body", "Rechargeable built-in battery", "2.4GHz wireless dongle", "Budget-to-mid price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A low-cost wired option offering forearm pronation reduction through its vertical shape, with no battery weight to add to the grip, at a much lower price than the premium wired pick in this guide.\n\nAs with every pick here, this is a general consumer product, not a medical device, and does not diagnose or treat carpal tunnel syndrome.\n\nNo battery weight. That's a real strength, but weigh it against the flip side: does not address wrist flexion or grip-related factors.",
     specs: ["Wired USB connection", "6400 DPI adjustable sensor", "Ergonomic vertical design", "Budget price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "57 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ttLEqu0hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=workcocoon-20",
     description:
       "Explicitly sized for small to medium hands with a disclosed 57-degree tilt, relevant to buyers whose hands are smaller than the average this category is usually designed around.\n\nThe review base is small, so weigh the very strong 4.7-star rating against the limited sample size, and remember this addresses pronation specifically, not carpal tunnel syndrome as a whole.\n\nVery strong review rating. On the other hand, small review sample size, verify current feedback. Both are worth keeping in mind before deciding.",
     specs: ["Explicit small/medium hand sizing", "57-degree tilt angle", "Wireless connectivity", "Budget price point"],

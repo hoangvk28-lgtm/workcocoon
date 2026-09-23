@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41uW+KOhmiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=workcocoon-20",
     description:
       "The TS5320 is the one printer in this list whose Amazon listing names AirPrint directly, which removes the guesswork other picks here require. It handles print, scan, and copy over wifi and pairs with an iPhone or iPad through the standard Settings menu without a separate app being required.\n\nAmazon Dash Replenishment support means ink can reorder automatically once set up, a convenience that has nothing to do with AirPrint but is worth knowing about if you'd rather not track ink levels manually. Setup is standard Canon wireless pairing, similar to the rest of the Canon picks here.\n\nA genuine advantage here is that simple wireless pairing with iPhone or iPad. The tradeoff is higher price than several other picks in this list.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "This listing doesn't name AirPrint directly, but HP's current wireless DeskJet lineup has broadly supported AirPrint for years, so it's worth checking under Settings, Printers & Scanners, Add Printer on an iPhone before you buy if AirPrint is your must-have feature. Basic setup and daily use are straightforward regardless of which mobile printing method you end up using.\n\nThe included 3-month Instant Ink trial and AI-capable print features are separate from AirPrint support and won't affect whether it shows up in your iPhone's printer list. If it doesn't appear right away, confirming your iPhone and the printer are on the exact same wifi network, not a separate guest network, resolves most of these cases.\n\nSimple setup suited to non-technical buyers. On the other hand, airPrint not explicitly confirmed on the listing itself. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320's listing focuses on easy setup and duplex printing rather than calling out AirPrint by name, but Canon's own app and current PIXMA wireless lineup have generally supported AirPrint as a standard feature alongside the Canon PRINT app. Confirm it appears under your iPhone's printer list on the same network before treating this as an AirPrint purchase.\n\nDaily operation stays simple with a compact single-tray layout, and duplex printing is built in without manual page flipping. It's the cheapest listing in this guide, which matters if AirPrint confirmation via the Canon app is an acceptable substitute for a listing that names it outright.\n\nSimple single-tray daily operation. That's a real strength, but weigh it against the flip side: airPrint not explicitly stated on the listing.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "AirPrint isn't named on this listing either, but the TS6520's 1.42-inch OLED display gives it a real edge if AirPrint setup goes sideways, showing plain network status messages instead of leaving you guessing at a blinking light. That matters because the most common AirPrint problem isn't the printer itself, it's a subnet mismatch when the printer and phone land on different wifi bands or a guest network.\n\nThe intuitive control panel makes reconnecting to wifi from the printer itself simple if a router reboot knocks it offline, a task that's noticeably more fiddly on printers without any screen at all.\n\nWorth calling out specifically: intuitive control panel for reconnecting after a router reset. The catch is airPrint not explicitly confirmed on the listing.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "This listing doesn't mention AirPrint, but its automatic document feeder is genuinely useful for anyone whose main iPhone printing need is the reverse direction, scanning a multi-page document to a phone rather than printing to the printer. Mobile setup follows a short guided pairing process for phone or tablet.\n\nBuilt-in fax is a legacy feature most buyers will never touch, and it doesn't complicate the rest of the interface. As with the other Canon picks that don't name AirPrint on the listing, confirm compatibility through your iPhone's Settings app before buying if AirPrint specifically is the requirement.\n\nGuided mobile printing and scanning setup. Set against that, airPrint not explicitly stated on the listing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125e's listing doesn't call out AirPrint specifically, but it does list an automatic document feeder and duplex printing, features that matter for a home office workflow whether or not you end up printing over AirPrint or the HP Smart app. As with the other HP pick in this guide, confirm it shows up in your iPhone's printer list before buying if AirPrint compatibility is non-negotiable.\n\nThe 3-month Instant Ink trial and AI-enabled features are separate from mobile printing support. If AirPrint doesn't detect the printer on the first attempt, the HP Smart app is a reliable fallback for iPhone and iPad printing on this model.\n\nA genuine advantage here is that hP Smart app as a reliable fallback for mobile printing. The tradeoff is airPrint not explicitly confirmed on the listing.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "AirPrint isn't named on this listing, but the ET-2800 is the ink-tank option in this guide, worth considering if you print often enough from your iPhone that cartridge costs would otherwise add up. Epson's current EcoTank lineup has generally supported AirPrint alongside its own Epson Smart Panel app, but confirm it directly under your iPhone's Settings before buying.\n\nRefilling the tanks takes longer than a cartridge swap, 5 to 10 minutes versus 2 to 3, but happens far less often. For a buyer who wants to print frequently from a phone without worrying about ink cost per page, that trade-off is usually worth it.\n\nCartridge-free, less frequent ink maintenance. On the other hand, airPrint not explicitly confirmed on the listing. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/314c84l3lcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FDZZK3H?tag=workcocoon-20",
     description:
       "The TS6420's listing doesn't name AirPrint, but it rounds out this guide as a fuller-featured all-in-one with print, scan, and copy in a single compact body. Setup follows the same wireless pairing flow as Canon's other picks here, and the Canon PRINT app is available if AirPrint doesn't detect the printer right away.\n\nIt costs more than the entry-level Canon picks in this list, which buys a slightly more complete feature set rather than any AirPrint-specific advantage. Confirm compatibility on your iPhone before buying if AirPrint is the deciding factor.\n\nSimple wireless setup consistent with other Canon picks. That's a real strength, but weigh it against the flip side: airPrint not explicitly confirmed on the listing.",
     specs: [

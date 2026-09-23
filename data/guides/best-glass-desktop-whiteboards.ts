@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31xK08Bp9kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B3QDBPQH?tag=workcocoon-20",
     description:
       "A genuinely glass 9.5x6.7 inch board with a black finish and reversible wood stand, small enough to sit on a corner of the desk without crowding your workspace.\n\nThe black glass surface offers a different visual look than a standard white board and, per the listing, includes marker and eraser so you're not buying those separately.",
     specs: ["9.5\" x 6.7\" black glass surface", "Reversible wood stand", "Marker and eraser included", "Compact desk footprint"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089NL8QMN?tag=workcocoon-20",
     description:
       "Combines a genuinely glass writing surface with a keyboard stand and built-in drawer, useful if you want ghosting resistance plus a place to store markers and small supplies.\n\nThe added drawer means more combined weight resting on the stand structure, worth checking reviews for stability reports if you write on it often.",
     specs: ["Glass dry erase surface", "Built-in storage drawer", "Doubles as keyboard stand", "Compact desktop footprint"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41nG4S2IqnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFLB1LPN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFLB1LPN?tag=workcocoon-20",
     description:
       "A genuinely glass board bundled with a calculator and organizer features, aimed at buyers who want a small command-center style desk accessory rather than just a writing surface.\n\nThe higher price reflects the added calculator and organizer accessories, worth it if you'll actually use those extras rather than just the glass surface itself.",
     specs: ["Glass dry erase surface", "Includes calculator", "Keyboard stand organizer", "Markers and eraser included per listing"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21DN1-VtYsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MFGICQT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MFGICQT?tag=workcocoon-20",
     description:
       "A genuinely glass 9x11 inch pad from Quartet, a long-established office supply brand, with a removable clip for holding a sheet of paper.\n\nBrand consistency matters more for glass products than for basic melamine boards, since edge finish and glass quality directly affect handling safety and durability.",
     specs: ["9\" x 11\" glass writing surface", "Removable paper clip", "Includes marker", "Established Quartet brand"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21yNZpZHGyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01M2DADUX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01M2DADUX?tag=workcocoon-20",
     description:
       "An 18x6 inch glass pad shaped for placement in front of a keyboard, genuinely glass per the listing, with storage and one marker included.\n\nThe wide, short shape suits jotting a running line of notes or reminders rather than a full page of writing, a different use case than a taller square board.",
     specs: ["18\" x 6\" glass writing surface", "Storage included", "1 dry erase marker included", "Established Quartet brand"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31tgGY53X0S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0774Y814B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0774Y814B?tag=workcocoon-20",
     description:
       "The largest genuinely glass panel in this guide at 17x23 inches, magnetic, with accessory trays and included magnets for task cards.\n\nAt this size, glass weight and edge handling matter more than on the compact picks, worth checking reviews for how buyers describe setup and mounting.",
     specs: ["17\" x 23\" glass writing surface", "Magnetic surface with magnets included", "Accessory trays included", "Includes 1 marker per listing"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41aTFk156tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09C1VT7X8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09C1VT7X8?tag=workcocoon-20",
     description:
       "Similar in concept to our storage-drawer pick above, a genuinely glass board combined with a keyboard stand and drawer, offered here in a grey finish as an alternate style option.\n\nIf the black or white finish of a competing pick doesn't match your desk setup, this is a functionally similar glass-with-storage option in a different color.",
     specs: ["Glass dry erase surface", "Built-in storage drawer", "Doubles as keyboard stand", "Grey finish option"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41StKUeQCkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09W5P5C5N?tag=workcocoon-20",
     description:
       "The smallest genuine glass board in this guide at 8x6 inches, explicitly labeled \"pure glass\" in the listing, and the only pick here that explicitly states 5 markers included.\n\nAt this size it's best suited to single reminders or a quick status note rather than a running task list, but the low price and included markers make it an easy add-on purchase.",
     specs: ["8\" x 6\" pure glass surface", "5 markers included per listing", "Black finish", "Lowest price in this guide"],

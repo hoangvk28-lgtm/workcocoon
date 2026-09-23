@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "77,842 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eBv4NHyWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MRZ02TL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MRZ02TL?tag=workcocoon-20",
     description:
       "The Homall Gaming Chair Classic is Amazon's best-selling gaming chair, with a USB-powered massage lumbar pillow and a recline range from 90 to 155 degrees that covers upright gaming and near-flat relaxing. A rocking function adds gentle back-and-forth motion, and the included headrest and lumbar pillow work alongside the massage feature for extra support. A 1.8mm steel frame backs the 300 lb capacity, and assembly takes about 30 minutes. With 77,842 ratings and a 4.4 star average, it has by far the highest review count of any chair in this guide, reflecting years as a proven best-seller. For buyers who want a well-tested massage chair at the lowest price point here, the Homall Classic is the safe default pick. Lowest priced competitively. That's a real strength, but weigh it against the flip side: basic USB massage vs premium heated options.",
     specs: [
@@ -73,7 +73,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "2,278 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Sr+W5wr3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGH7R5J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGH7R5J?tag=workcocoon-20",
     description:
       "The Yaheetech Gaming Chair pairs an electric USB-powered massage lumbar with a pull-out footrest, at the lowest price of any chair in this guide. It reclines to 135 degrees, less than the Homall Classic's range, but its 5 PU casters carry SGS certification and ventilated breathable panels help manage heat during long sessions. At 4.6 stars, it holds one of the higher ratings in this guide despite its low price, with 2,278 ratings backing that score. For buyers who want electric massage and a footrest without paying more than a competitive price, and the Yaheetech is the best value pick. Worth calling out specifically: 4.6 stars, one of the highest ratings here. The catch is recline maxes at 135°, less than Homall Classic.",
     specs: [
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "1,337 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Drl7XdJlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2VXW8L9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2VXW8L9?tag=workcocoon-20",
     description:
       "This Homall model adds an on/off massage lumbar and a pull-out footrest to a BIFMA-certified base, meaning the frame has passed independent furniture industry safety testing rather than relying only on manufacturer claims. It reclines from 90 to 135 degrees, uses thick PU leather foam padding, and swivels a full 360 degrees on its certified base.\n\nAt 4.4 stars across 1,337 ratings, it matches the Homall Classic's rating with the added benefit of BIFMA certification and a footrest. For buyers who want third-party safety certification alongside massage and footrest features, this Homall model stands out.\n\nFootrest included. Set against that, 270 lb capacity lower than most in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "24 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/4137moEaXIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G91N3YR9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G91N3YR9?tag=workcocoon-20",
     description:
       "This Homall tech fabric model features a 4D massage lumbar with both height and depth adjustment, a more precise setup than the fixed-position massage pads on most chairs in this guide. Pocket springs and breathable tech fabric replace the PU leather used elsewhere in the Homall lineup, and linkage armrests move in coordination as you shift position. At a competitive price with a recline to 135 degrees and a pull-out footrest, it sits in the middle of this guide's price range. For buyers who specifically want to fine-tune where the massage lumbar sits against their back, the adjustable 4D positioning here is the differentiator. A genuine advantage here is that pocket spring cushion. The tradeoff is only 24 ratings, least reviewed in this guide.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "132 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Yy7RDnrqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWQXSNLX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWQXSNLX?tag=workcocoon-20",
     description:
       "The Dowinx Shiatsu model is the only chair in this guide with dedicated neck massage, using a 3-speed heated shiatsu mechanism at the headrest alongside a separate dual-node lumbar pulse massage with 3 intensity levels. A 4.8-inch pocket spring cushion adds real cushioning depth, and the chair reclines to 145 degrees with a pull-out footrest. It's priced for buyers who specifically want neck-area massage rather than lumbar-only relief. For anyone whose tension concentrates in the neck and shoulders rather than the lower back, the Dowinx Shiatsu is the only model here built for that. Heated shiatsu mechanism. That's a real strength, but weigh it against the flip side: 4.3 stars, on the lower end of this guide.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "304 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41l-IfescFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FK5PQH4J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FK5PQH4J?tag=workcocoon-20",
     description:
       "This Dowinx model integrates back heating with a finger-simulation massage function, a more advanced motion than the vibration-only massage pads used in most of this guide's other chairs. Cooling breathable fabric and pocket springs offset the added heat, and it reclines to 155 degrees, the deepest recline in this guide, backed by a 350 lb capacity and 1-year warranty. It's the most expensive chair here, reflecting its combined heating and finger-simulation massage hardware. For buyers who want both heat therapy and a more sophisticated massage motion in one chair, this Dowinx model is the premium pick. Worth calling out specifically: combined heating and finger-simulation massage. The catch is most expensive chair in this guide.",
     specs: [
@@ -193,7 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "403 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tBVXQskJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DRFNFGF3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DRFNFGF3?tag=workcocoon-20",
     description:
       "The Meilocar Big & Tall is built for larger users with a 330 lb capacity, the highest of any standard-frame chair in this guide, and an extra-wide 90 to 160 degree recline range. An electric USB massage lumbar carries over the same massage function found on other budget chairs here, while a metal frame and cushioned rubber casters support the higher weight rating.\n\nWith a seat height range of 17.9 to 22 inches, it's also built for taller users, not just heavier ones. For big and tall buyers who need both a wider recline range and a higher weight capacity than typical gaming chairs offer, the Meilocar fits that gap.\n\nWidest recline range at 90-160°. Set against that, larger footprint than standard chairs. Both matter when comparing it to the other picks here.",
     specs: [
@@ -217,7 +217,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "769 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41in1T98NVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRD8344V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRD8344V?tag=workcocoon-20",
     description:
       "This Dowinx model pairs pocket springs with a cooling gel pad for a dual cooling system, the only chair in this guide specifically built to manage heat rather than just breathability through fabric alone. The massage lumbar and headrest are both adjustable, and it reclines to 135 degrees with a pull-out footrest and breathable tech fabric.\n\nAt 4.4 stars across 769 ratings and backed by a 1-year warranty, it's a well-reviewed middle-tier option. For buyers in warm climates or those who run hot during long sessions, the gel pad cooling system here addresses a gap that most massage chairs in this guide don't.\n\nA genuine advantage here is that adjustable massage lumbar and headrest. The tradeoff is recline maxes at 135°, less than Dowinx heated model.",
     specs: [

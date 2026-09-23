@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 packs printing, copying, and scanning into a compact inkjet body that sits comfortably on a 30-inch desk without dominating it. Duplex printing is built in, so double-sided documents don't require manually flipping pages, and the setup process pairs with the Canon PRINT app over wifi in a few guided steps.\n\nLike most compact inkjet AIOs, its paper tray holds well under a standard 500-sheet ream, so frequent small-batch users will refill more often than they would with a full-size printer. Letter and A4 are supported, but legal and tabloid sizes are not, which is worth checking before buying if you occasionally print larger documents.\n\nAuto duplex printing built in. That's a real strength, but weigh it against the flip side: small paper tray needs frequent refills.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The TS6520 adds a 1.42-inch OLED display and a more intuitive control panel on top of the same compact-desk-friendly footprint as Canon's smaller PIXMA models. That screen makes checking ink levels, wifi status, and print settings possible without opening a phone app every time.\n\nIt keeps the same duplex printing and compact inkjet AIO formula, so the tradeoffs are similar: a modest paper tray relative to a full-size printer, and letter/A4-only paper support. The OLED panel is the clearest reason to pick this over the TS4320 if you'd rather glance at a small screen than pull out your phone.\n\nWorth calling out specifically: intuitive control panel layout. The catch is still a small tray relative to a full ream.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "HP's DeskJet 4355 is a compact all-in-one with print, scan, and copy in one small-footprint body, plus a 3-month HP Instant Ink trial that softens the early cost of cartridges. The AI-capable label refers to HP's smart printing features that help route mobile print jobs and manage settings through the HP Smart app.\n\nFirst-time setup runs through the HP Smart app, and like most compact inkjet AIOs it favors footprint over paper capacity, so plan on refilling more often than a business-class printer. It's a straightforward pick if you're already comfortable pairing devices through a phone app.\n\nCompact body fits small desks easily. Set against that, small paper tray by full-size printer standards. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The EcoTank ET-2800 trades a cartridge system for refillable ink tanks, which cuts cost per page dramatically for anyone printing more than an occasional page. Worth noting honestly: the ink tank housing on the side of the printer body makes the ET-2800 noticeably larger than the cartridge-based compact printers in this list, so it is not the most compact option here even though it is genuinely small-desk-workable.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31nVDhGd67L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXC13T?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 is one of the few compact printers in this list with an auto document feeder, letting you scan or fax multi-page documents without lifting the lid and repositioning pages one at a time. Built-in fax support is included too, useful for home offices that still occasionally need it.\n\nIts footprint stays desk-friendly despite the added ADF hardware, and mobile printing setup follows the same Canon PRINT app pairing as the rest of the PIXMA line. If you rarely scan multi-page documents, the ADF is nice-to-have rather than essential, and the TS4320 covers the basics for less.\n\nA genuine advantage here is that built-in fax for occasional home-office use. The tradeoff is aDF adds bulk versus the simplest flatbed-only models.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31-ZgpCGxiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1DV6FV5?tag=workcocoon-20",
     description:
       "The PIXMA TS3720 strips things down to the basics: print, copy, scan, and wireless connectivity in a small, no-frills body built for basic home printing rather than heavier document workflows. It's the cheapest full all-in-one in this list, which makes it a sensible pick if you print occasionally and don't need an ADF, a screen, or duplex printing.\n\nBecause it skips the extra hardware found on pricier PIXMA models, it also has one of the smallest footprints here, a genuine advantage on a truly tight desk. Just budget for more frequent refills given its small tray, and expect basic single-sided printing rather than automatic duplex.\n\nOne of the smallest footprints here. On the other hand, no automatic duplex printing. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "Mono laser printers like the HL-L2405W can actually have a smaller physical footprint than compact inkjet AIOs, since they skip the scanner bed and ink cartridge housing entirely, a distinction most compact-printer guides never draw. Toner also doesn't dry out the way inkjet cartridges do, which matters if the printer sits idle between print jobs on a small desk.\n\nThis is a print-only device with no scan or copy function, so it fits buyers who mainly need fast, no-fuss text output rather than a full AIO. Wireless setup and mobile printing are supported, and it works with Alexa for voice-triggered print commands.\n\nToner never dries out from infrequent printing. That's a real strength, but weigh it against the flip side: no scanning or copying capability.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51zPjelEtML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DZC56ZH4?tag=workcocoon-20",
     description:
       "This inkless thermal printer is the smallest and lightest device in this list by a wide margin, small enough to tuck in a drawer rather than occupy permanent desk space. It supports full 8.5 x 11-inch US Letter and A4 pages via 300 DPI thermal printing and pairs over Bluetooth with iOS, Android, and laptops.\n\nBecause it uses heat-sensitive thermal paper instead of ink or toner, print quality and longevity are not comparable to an inkjet or laser printer, and this is best framed honestly as a specialty travel and light-duty pick rather than a primary home-office printer. If your desk truly cannot spare any footprint, this is the pick, but a Canon PIXMA or Brother laser will serve better as a daily-use primary printer.\n\nWorth calling out specifically: genuinely portable for travel or car use. The catch is requires proprietary thermal paper, not standard copy paper.",
     specs: [

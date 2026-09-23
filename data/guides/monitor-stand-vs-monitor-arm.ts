@@ -165,7 +165,7 @@ export const picks: ComparePick[] = [
     price: "$35–$45",
     weightLimit: "17.6 lbs",
     adjustability: "Full range + gas spring",
-    amazonUrl: "https://www.amazon.com/s?k=huanuo+single+monitor+arm+gas+spring&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=huanuo+single+monitor+arm+gas+spring&tag=workcocoon-20",
     imageUrl: "https://m.media-amazon.com/images/I/61k4fefKv1L._AC_UY218_.jpg",
     whyItWorks: [
       "Gas spring: adjust height with one hand",

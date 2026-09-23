@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 pairs Synology's well-tuned fan curve with a 2-bay design, which matters because in real-world use the spinning drives you install typically contribute more audible noise than the fan itself. Synology's DSM software also lets you schedule intensive tasks like backups for overnight hours when they're least disruptive.\n\nIt centralizes file backup, protects data, and can monitor a property, all from a compact enclosure suited to sitting on or near a desk. Since drive noise dominates over fan noise on any 2-bay unit, pairing it with quieter NAS-rated drives makes a bigger difference here than chasing a slightly lower fan dB rating alone.\n\nCan schedule noisy tasks like backups for off-hours. That's a real strength, but weigh it against the flip side: diskless, drives sold separately add to total cost.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GmtgzH11L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GHR83DX5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GHR83DX5?tag=workcocoon-20",
     description:
       "The Beelink ME Pro takes a different approach to quiet operation, an Intel N95 low-power CPU built for mini PC efficiency rather than a full NAS-class processor, paired with 3 M.2 SSD slots alongside its 2 hard drive bays. Loading it with M.2 SSDs instead of spinning HDDs gets noise close to silent, since SSD storage adds essentially zero mechanical noise.\n\nThat flexibility comes at a tradeoff familiar to fanless and low-power NAS builds: higher cost per TB and a lower practical capacity ceiling than a dedicated multi-bay NAS chassis, so it suits buyers prioritizing silence over maximum storage.\n\nWorth calling out specifically: low-power CPU runs cooler and quieter than full NAS processors. The catch is higher cost per TB than a traditional HDD-based NAS.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=workcocoon-20",
     description:
       "The F2-425 pairs an Intel x86 quad-core CPU and 4GB RAM with 2.5GbE networking, letting large backup and media transfers finish faster, which shortens the total window of load noise compared to a slower gigabit connection doing the same job. A shorter high-load period means less total time spent at the higher, load-level dB your desk actually hears.\n\nBuilt for home users with multimedia server needs, it handles transcoding and file serving duties well while keeping the enclosure compact enough to place discreetly near a desk or on a nearby shelf.\n\nQuad-core Intel CPU handles transcoding without excess strain. Set against that, diskless, drives add to total cost. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "UGREEN built the DXP2800 for content creators moving large video files, which means it's engineered with cooling headroom that lets its fan run at a lower, steadier speed under sustained load rather than spinning up aggressively the way undersized cooling systems do. A stable, moderate fan speed under real work is generally less noticeable than a fan that surges up and down.\n\nAt this price point you're paying for that extra performance headroom as much as for storage capacity, a fair tradeoff for anyone regularly editing or transferring large media files near their desk.\n\nA genuine advantage here is that strong performance for large media file workflows. The tradeoff is higher price than basic 2-bay diskless units.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=workcocoon-20",
     description:
       "The Drivestor 2 Gen 2 is Asustor's entry-level personal cloud NAS, built around a quad-core 1.7GHz CPU and 2.5GbE networking at a price well under the content-creator-class picks in this list. A smaller, simpler NAS like this generally runs a smaller fan under lighter loads than a high-performance unit doing 4K transcoding constantly.\n\nIt's a reasonable starting point for a home office that mainly needs reliable backup and occasional media serving rather than heavy daily transcoding, keeping both cost and typical noise output on the lower end.\n\n2.5GbE networking at a budget price point. That's a real strength, but weigh it against the flip side: 1GB RAM is limiting for heavier multitasking.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 is a straightforward 2-bay desktop NAS supporting up to 64TB across its 2 bays, aimed at buyers who want simple, reliable storage rather than a heavy-duty content-creation workstation. Its more modest internals mean it doesn't need to push fan speeds as hard under typical home office backup workloads.\n\nAnti-vibration design matters more than most buyers expect here: placing any desktop NAS on a hollow wooden desk transmits and amplifies vibration noise compared to a solid surface, so a rubber-footed placement on a stable shelf noticeably reduces what you actually hear at your desk.\n\nWorth calling out specifically: modest internals mean lighter typical fan load. The catch is fewer performance-oriented features than the content-creator picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31gLzyv-GtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00JKM0A36?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00JKM0A36?tag=workcocoon-20",
     description:
       "The LinkStation 210 ships with its 2TB drive already installed, avoiding the drive-compatibility research and separate purchase that diskless NAS units require. As a single-bay unit, it also runs a single drive rather than the 2 or more spinning in the multi-bay picks in this list, which generally means less total drive noise contributing on top of the fan.\n\nIt's a simple home cloud and network storage device rather than a performance NAS, well suited to buyers who mainly want one quiet, low-maintenance backup destination rather than RAID redundancy or transcoding power.\n\nSingle-bay design means less total drive noise than multi-bay units. Set against that, no RAID redundancy with only 1 bay. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/310l7keevAS._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K4RC7X9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07K4RC7X9?tag=workcocoon-20",
     description:
       "The QNAP TR-004 isn't a network-connected NAS in the traditional sense, it's direct attached storage over USB Type-C with hardware RAID, which sidesteps network-related noise concerns entirely since it connects straight to one computer. For a single-user home office setup, that's a genuinely quiet alternative to a full NAS if you don't need multi-device network access.\n\nIts 4 bays give solid capacity for the price, and hardware RAID handles redundancy without leaning on a full NAS-class CPU or network stack, which keeps its overall power draw and associated fan activity comparatively modest for the bay count.\n\nA genuine advantage here is that hardware RAID without full NAS-class overhead. The tradeoff is not accessible over the network like a true NAS.",
     specs: [

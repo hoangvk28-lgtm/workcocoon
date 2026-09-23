@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 34,180 Amazon ratings",
     reviews: "34,180 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41lDR7qjYlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXTWTCWS?tag=workcocoon-20",
     description:
       "This is the highest weight-rated pick in this list at 400 lbs, built with a wide high-back frame and a pocket spring lumbar cushion rather than the flat foam bump found on most budget chairs. The pull-out footrest extends from beneath the seat and locks in place, letting you fully recline without your calves hanging unsupported off the front edge.\n\nThe 3D saddle-shaped cushion is designed to reduce pressure points during longer reclined sessions, and the frame's extra width accommodates larger users comfortably. It is the bulkiest chair in this roundup, so measure your floor space before buying if your office is tight on room behind the desk.\n\nPocket spring lumbar support, more adjustable than flat foam. That's a real strength, but weigh it against the flip side: largest footprint in this list, needs more floor clearance.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,843 Amazon ratings",
     reviews: "3,843 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418u8mAj3QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLX92FFH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLX92FFH?tag=workcocoon-20",
     description:
       "The N-GEN pairs a pull-out footrest with height-adjustable lumbar support and a leather-look seat cover, landing near the middle of this list's price range. Its high-back recliner shape supports the shoulders and head at deeper recline angles better than the mid-back chairs further down this list.\n\nIt is a genuine recline-and-footrest chair rather than a chair with a token recline feature bolted on, and the footrest deploys smoothly enough for daily use rather than feeling like an afterthought accessory.\n\nWorth calling out specifically: high-back shape supports deeper recline angles. The catch is leather-look material runs warmer than mesh over long sessions.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 16,386 Amazon ratings",
     reviews: "16,386 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uXzrx44BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FVXRZJ12?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FVXRZJ12?tag=workcocoon-20",
     description:
       "This second GTPLAYER model swaps the pocket spring lumbar of the flagship pick for a standard lumbar cushion but keeps the pull-out footrest, headrest, and 360-degree swivel base at a lower price point. The headrest is a separate adjustable piece rather than molded into the backrest, so it can be raised to actually meet your head at a reclined angle instead of only supporting your upper back.\n\nSeat height adjusts on a gas lift like most chairs in this list, and the footrest extends from the same under-seat mechanism found on the other GTPLAYER pick, so it's a reliably functional footrest rather than a decorative flip-out panel.\n\nFunctional pull-out footrest at a lower price than the flagship GTPLAYER. Set against that, lumbar support is a fixed cushion, not height-adjustable. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,143 Amazon ratings",
     reviews: "1,143 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413959p7qkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FF3GMW36?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FF3GMW36?tag=workcocoon-20",
     description:
       "This is the most expensive chair in this list, built around a wide teddy fleece seat and flip-up armrests that let you sit cross-legged, a genuinely useful design if you tend to tuck a leg up while reclined rather than sit fully upright. It ships with a foot rest, giving it the full combination this category promises, wide seat, flip arms, recline, and calf support.\n\nThe fleece material is softer and warmer than the leather-look or mesh options elsewhere in this list, which some buyers will prefer for comfort and others will find too warm for a small, poorly ventilated room.\n\nA genuine advantage here is that wide seat accommodates cross-legged or side-sitting positions. The tradeoff is highest price in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,548 Amazon ratings",
     reviews: "3,548 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416C7AvAoJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4Q7M3VC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4Q7M3VC?tag=workcocoon-20",
     description:
       "The Homall adds a vibrating massage lumbar cushion to the standard footrest-plus-recline formula, a feature none of the other picks in this list include. The massage function runs on its own battery pack and is a genuine addition for lower back tension during long reclined breaks, not just a marketing bullet point.\n\nOutside of the massage feature it follows the same layout as the other mid-priced picks here, adjustable headrest, pull-out footrest, and a gas-lift swivel base, making it a reasonable pick specifically for buyers who want that extra lumbar feature.\n\nIncludes a functional pull-out footrest. That's a real strength, but weigh it against the flip side: massage function requires batteries, an added ongoing cost.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,442 Amazon ratings",
     reviews: "3,442 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vkBVigJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=workcocoon-20",
     description:
       "Honest note upfront: this chair's listing does not mention a footrest or a defined recline angle, so it does not actually meet the full brief of this guide. We're including it only because it's a genuinely comfortable, breathable mesh task chair at a very low price, and it may suit a buyer who cares more about basic lumbar support and airflow than a true recline-and-footrest setup.\n\nIf a footrest and a real recline position are non-negotiable for you, skip this pick and choose one of the picks above that explicitly ships with a pull-out footrest instead.\n\nWorth calling out specifically: breathable mesh reduces heat buildup during a workday. The catch is no footrest, does not meet this guide's core criteria.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 64,003 Amazon ratings",
     reviews: "64,003 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41qkMtzBIdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=workcocoon-20",
     description:
       "Honest note upfront: this listing does not mention a footrest or a specific recline range, so it does not fully match the category this guide covers. It earns a spot here purely on the strength of its review volume and consistent 4.3-star rating at a very low price, making it a fallback option if you decide a footrest isn't actually essential for your setup.\n\nIf recline-with-footrest is the whole point of your search, one of the picks above with a confirmed footrest will serve you better than this chair.\n\nVery low price. Set against that, no footrest, does not meet this guide's core criteria. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,382 Amazon ratings",
     reviews: "5,382 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41b4JMojCoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=workcocoon-20",
     description:
       "Honest note upfront: the listing for this executive-style chair does not mention an included footrest, so include it in your consideration only if you're open to pairing it with a separate standalone footrest later. It does offer a high back, PU leather upholstery, and adjustable lumbar support, giving it a more traditional office look than the gaming-chair styling on most of the other picks in this list.\n\nIts recline function is present but not paired with a matching footrest out of the box, which is the exact gap this guide flags rather than glosses over.\n\nA genuine advantage here is that adjustable lumbar support. The tradeoff is no footrest, does not meet this guide's core criteria.",
     specs: [

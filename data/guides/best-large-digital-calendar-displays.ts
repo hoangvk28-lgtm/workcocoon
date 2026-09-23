@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/41NUEI-nAdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C9V811L6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C9V811L6?tag=workcocoon-20",
     description:
       "Skylight is one of the most established brands in this category, with a 15 inch touchscreen and a dedicated chore chart feature for family task management.\\n\\nVerify whether Skylight requires an ongoing subscription for full functionality on the current listing, since some family-calendar brands gate features behind a paid plan.\n\nIt leads this comparison on the strength of its display size, sync reliability, and household-organization features, worth weighing directly against the Cotoala 10.1 inch Smart Digital Calendar.\n\nWorth knowing before you decide: Dedicated chore chart for task management. On the other side, Verify current subscription requirements on the listing. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["15 inch touchscreen","Chore chart feature"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/51BHkAZaKEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GY3FYHGF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GY3FYHGF?tag=workcocoon-20",
     description:
       "The lowest price in this comparison, explicitly advertised with no subscription requirement, at a 10.1 inch screen size suitable for a kitchen counter or entryway.\\n\\nA smaller screen than the premium picks, but confirmed subscription-free operation is a genuine long-term cost advantage over models that gate features behind a paid plan.\n\nSet against the Skylight Calendar, the tradeoff here comes down to display size versus wall space and price, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Explicitly no subscription required. On the other side, Smaller screen than the premium options. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["10.1 inch touchscreen","No subscription required"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/418VBQ43fnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXFR4YR2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GXFR4YR2?tag=workcocoon-20",
     description:
       "Also explicitly subscription-free at the same 10.1 inch screen size as the Cotoala pick, but at nearly double the price, worth comparing directly against that cheaper option for the same screen size.\\n\\nVerify what specific features justify the price difference, since screen size alone doesn't explain the gap between this and the Cotoala pick.\n\nRelative to the Cotoala 10.1 inch Smart Digital Calendar, this pick leans toward a different priority, whether that's a more compact footprint, a different sync method, or a simpler feature set.\n\nWorth knowing before you decide: From a brand also offering a larger 15.6 inch model in the same product line. On the other side, Nearly double the price of the Cotoala pick at the same screen size. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["10.1 inch touchscreen","No subscription required"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/41AciyKwigL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ7TQVBW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ7TQVBW?tag=workcocoon-20",
     description:
       "From Dragon Touch, a brand also known for budget Android tablets, with an interactive touchscreen and dedicated chore chart at a moderate price point.\\n\\nVerify current subscription terms on the listing, as this wasn't explicitly confirmed subscription-free in our research unlike the Cotoala and Airzeen picks.\n\nCompared with the Airzeen 10.1 inch Digital Wall Calendar above, this pick trades some of that pick's screen size or feature depth for a different balance of price and simplicity, worth weighing against your household's actual needs.\n\nWorth knowing before you decide: Interactive chore chart feature. On the other side, Subscription requirements not explicitly confirmed, verify on listing. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["10.1 inch interactive touchscreen","Chore chart feature"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/413qIxwyFZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FKMRM3WT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FKMRM3WT?tag=workcocoon-20",
     description:
       "A 10.1 inch electronic organizer positioned between the Dragon Touch and Airzeen picks on price, marketed with a general electronic-organizer feature set.\\n\\nAs with the Dragon Touch pick, verify current subscription terms directly since this wasn't explicitly confirmed subscription-free in our research.\n\nSet against the Dragon Touch 10.1 inch Digital Calendar Chore Chart, the tradeoff here comes down to display size versus wall space and price, not a straightforward upgrade or downgrade either way.\n\nWeigh the disclosed screen size and sync method here against your household's actual wall space and calendar habits before buying.",
     specs: ["10.1 inch touchscreen","Electronic organizer features"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "n/a",
     reviews: "0",
     imageUrl: "https://m.media-amazon.com/images/I/41go8J1bt3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FDGG67ZJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FDGG67ZJ?tag=workcocoon-20",
     description:
       "By far the largest screen in this comparison at 21.5 inches, roughly double the diagonal size of the standard 10.1 inch options, with confirmed calendar sync and chore chart features.\\n\\nThe highest price here reflects the significantly larger screen; this makes sense as a family command-center wall display rather than a countertop unit, given both the size and price.\n\nRelative to the BIGASUO 10.1 inch Digital Calendar, this pick leans toward a different priority, whether that's a more compact footprint, a different sync method, or a simpler feature set.\n\nWorth knowing before you decide: Confirmed calendar sync feature. On the other side, Highest price in this comparison, more than 6x the budget pick. That's the main tradeoff to weigh against your household's actual layout and routine.",
     specs: ["21.5 inch touchscreen","Calendar sync, chore chart"],

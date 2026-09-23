@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "5.0 stars from 2 Amazon ratings",
     reviews: "2 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51TKKfxMxNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTQM26FB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTQM26FB?tag=workcocoon-20",
     description:
       "Felt material genuinely absorbs some reflected sound within your immediate desk area, softening echo from typing and nearby ambient noise, though it won't stop a neighboring conversation from being audible. 4 bases and 8 mini crown clips let you shape the panel to your desk.\n\nNo tested NRC or STC rating disclosed, as expected at this product scale, treat the acoustic benefit as a modest bonus alongside visual privacy, not a soundproofing solution.\n\nFlexible configuration with included bases and clips. On the other hand, very limited review history. Both are worth keeping in mind before deciding.",
     specs: ["16 x 48 inches, felt material", "4 bases, 8 mini crown clips", "Modest sound absorption, no tested NRC/STC rating", "Folds flat for storage"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.9 stars from 10 Amazon ratings",
     reviews: "10 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KEH+uK0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GL8CKJMS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GL8CKJMS?tag=workcocoon-20",
     description:
       "A larger felt board panel than the Poola Voidra, genuinely more surface area to absorb reflected sound within your desk area, though still a modest effect, not a soundproofing solution. Strong early rating on a modest review count.\n\nSame honest caveat applies, felt absorbs reflected sound locally, it doesn't block sound transmission from elsewhere in the room.\n\nA genuine advantage here is that strong early rating. The tradeoff is that modest review count.",
     specs: ["47.3 x 15.7 inches, felt board", "Retro style", "Larger absorption surface than compact panels", "Portable fold design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "3.6 stars from 7 Amazon ratings",
     reviews: "7 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51bb1Hf-33L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8B7N5K6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8B7N5K6?tag=workcocoon-20",
     description:
       "Despite 'sound proof pad' in the listing name, this is acoustic absorption material, not genuine soundproofing, be aware of that marketing language before expecting it to block noise transmission. 6 panels let you outfit multiple desks with the same modest local sound softening.\n\nLower rating than the other picks here, worth weighing the multi-panel value against more mixed feedback.\n\nBudget-friendly per panel. That said, 'Sound proof' in the listing name is misleading, this is absorption, not blocking. Neither should be a surprise once you know to look for it.",
     specs: ["6 panels, 24\" x 16\" each", "Support feet, freestanding", "Acoustic absorption material, not soundproofing despite listing name", "Budget-friendly per panel"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 37 Amazon ratings",
     reviews: "37 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3191Pvq11bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FYPJNB82?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FYPJNB82?tag=workcocoon-20",
     description:
       "Explicitly marketed around sound absorption for office use, a reasonable mid-priced option between the budget felt panels and premium picks. Same honest expectation as every panel in this guide, absorption softens your immediate area, it doesn't block sound from elsewhere.\n\nSolid rating base for a dedicated sound-focused desk panel, real-world evidence of reasonable performance for its category.\n\nWorth calling out specifically: solid rating base. The catch is absorption is local, doesn't block sound transmission from elsewhere.",
     specs: ["Sound absorbing desk panel", "Office-focused design", "Acoustic material", "Mid-range price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 58 Amazon ratings",
     reviews: "58 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41mXUjTJozL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DDK7VFNV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DDK7VFNV?tag=workcocoon-20",
     description:
       "A movable partition design at 48x18 inches, genuinely useful if you want to reposition your sound-softening panel between different desk configurations. Solid review base as evidence of reliable real-world performance.\n\nSame category-wide caveat, this softens reflected sound locally, it's not a substitute for a genuinely soundproof partition if blocking transmitted noise is your actual goal.\n\nSolid, well-established review base. Set against that, absorption is local, not a substitute for genuine soundproofing. Both matter when comparing it to the other picks here.",
     specs: ["48x18 inches, movable partition", "Midnight (dark) finish", "Repositionable design", "Solid review base"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "2,320 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51VaGQY7KwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B095RLRP2L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B095RLRP2L?tag=workcocoon-20",
     description:
       "For buyers wanting a smaller footprint than a full stand-with-drawer Built with a metal platform rated to 33 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nThis is a real compact tier, not the same footprint as the full-size stands relabeled. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nWorth calling out specifically: metal build appropriate for this use case. The catch is rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["33 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $16.99", "2,320 ratings on Amazon"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "1,009 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XbNEZaVzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B097DB15ZH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B097DB15ZH?tag=workcocoon-20",
     description:
       "For buyers wanting two compact units, useful for a dual-monitor setup at lower cost each Built with a metal platform rated to 33 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nEach unit's drawer is sized for the smaller footprint, expect less capacity than a full-size single stand's drawer. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. Set against that, rated capacity assumes evenly distributed weight, not a single point load. Both matter when comparing it to the other picks here.",
     specs: ["33 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $28.99", "1,009 ratings on Amazon"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "3,294 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51925teREsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KK6RXS2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KK6RXS2?tag=workcocoon-20",
     description:
       "For buyers wanting a riser that can fold flat for storage or travel Built with a metal platform rated to 33 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nThe fold mechanism is a genuine differentiator from fixed stand-with-drawer designs, not just a marketing label. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nA genuine advantage here is that metal build appropriate for this use case. The tradeoff is rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["33 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $29.79", "3,294 ratings on Amazon"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "143 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41NU679r93L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GDTXTCWV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GDTXTCWV?tag=workcocoon-20",
     description:
       "For buyers wanting the lowest-cost compact option, especially for two monitors Built with a metal platform rated to 33 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nVerify the drawer's actual capacity given the smaller scale and lower price point. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. On the other hand, rated capacity assumes evenly distributed weight, not a single point load. Neither should be a surprise once you know to look for it.",
     specs: ["33 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $17.99", "143 ratings on Amazon"],

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31DhuAp0e8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07F7BHWC1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07F7BHWC1?tag=workcocoon-20",
     description:
       "We're including this large clamp-on panel with heavy caveats, it is the widest single-panel product in our broader research pool, but it is still a flat, open divider, not an enclosed booth. It clamps to one edge of your desk and stands upright, it does not surround or enclose you.\n\nIf what you actually want is genuine enclosure and isolation, this panel will disappoint, it addresses only reflected sound near one side of your desk. See our office pod guides for products built for real enclosure instead.\n\nSecure clamp-on mount. On the other hand, not an enclosed booth by any reasonable definition. Neither should be a surprise once you know to look for it.",
     specs: ["47.25\" x 23.6\" flat panel, not enclosed", "Clamp-on mounting", "Ash gray finish", "No published NRC rating"],

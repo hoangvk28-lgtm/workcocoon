@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31QbluTUmKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZ8S34?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZ8S34?tag=workcocoon-20",
     description:
       "Explicitly rated P-4 with a genuinely fine particle size (0.2 x 0.7 inches, 5 x 18mm), the smallest particle dimension disclosed among the credit-card-capable picks in this guide, a real security advantage for chip destruction over coarser P-3 alternatives. The massive review base offers strong real-world evidence of reliable card-shredding performance.\n\nThe listing explicitly cautions against metal credit cards specifically, a distinction worth noting since not all 'credit card' shredding claims cover every card material.\n\nMassive review base with proven card-shredding reliability. That said, short 3-minute continuous run time. Neither should be a surprise once you know to look for it.",
     specs: ["8-sheet manual feed, P-4 cross-cut, 5x18mm particles", "Shreds credit cards one at a time (not metal cards)", "3-minute continuous run time", "3.7-gallon bin"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31WGmZ4xo0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LXGNY1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LXGNY1?tag=workcocoon-20",
     description:
       "Identical specs to the rank-1 pick, the same P-4 rating and fine particle size, just in a white finish rather than black. Same massive review base and same card-shredding reliability, this is essentially a colorway choice rather than a different security tier.\n\nChoose this over the rank-1 pick purely based on which finish matches your space.\n\nWorth calling out specifically: massive proven review base. The catch is identical limitations to the rank-1 pick, short run time and no metal cards.",
     specs: ["8-sheet manual feed, P-4 cross-cut, 5x18mm particles", "Shreds credit cards one at a time (not metal cards)", "3-minute continuous run time", "3.7-gallon bin, white finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31GNS0CdNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=workcocoon-20",
     description:
       "This is P-3 rated with larger particles (0.2 x 1.2 inches, 5 x 30mm) than the P-4 picks above, a meaningfully coarser destruction for a card's chip and magnetic stripe. Higher 12-sheet paper capacity and a longer 9-minute run time are real advantages if paper volume matters more to you than maximum card security.\n\nIf credit card chip destruction specifically is your top priority, the P-4 picks above offer genuinely finer particles for that purpose.\n\nLonger continuous run time. Set against that, p-3 rating means coarser card particle destruction than the P-4 picks. Both matter when comparing it to the other picks here.",
     specs: ["12-sheet manual feed, P-3 cross-cut, 5x30mm particles", "Shreds credit cards one at a time (not metal cards)", "9-minute continuous run time", "5-gallon bin"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,194 Amazon ratings",
     reviews: "1,194 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41QmnUvb1tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LXQTST?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LXQTST?tag=workcocoon-20",
     description:
       "The finest particle size in this guide at 0.2 x 0.5 inches (4.5 x 12mm), a genuinely superior card-chip destruction level even compared to the rank-1/2 picks. Also destroys CDs and DVDs alongside credit cards, a broader media-destruction capability than the basic P-4 picks above.\n\nCaster wheels and a pull-out bin add mobility and convenience, at a higher price than the simpler P-4 picks.\n\nThe standout detail is that also destroys CDs and DVDs, not just cards. Balancing that out, higher price than the basic P-4 picks.",
     specs: ["8-sheet manual feed, P-4 micro-cut, 4.5x12mm particles (finest in this guide)", "Destroys CDs, DVDs, credit cards (not metal)", "5-minute continuous run time", "4-gallon pull-out bin, casters"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,517 Amazon ratings",
     reviews: "1,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31sWapqhQCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJR7KXJX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJR7KXJX?tag=workcocoon-20",
     description:
       "The highest paper capacity in this guide at 15 sheets, with durable alloy cutters explicitly noted to handle credit cards and CDs/DVDs alongside staples and clips, a genuinely robust all-around blade set. Its P-4 particle size (13/64 x 1-37/64 inches) is coarser than the finest picks above but still meets the high-security tier.\n\nA solid choice if you want to combine high paper capacity with confirmed durable card-handling in one unit.\n\nDurable alloy cutters explicitly rated for cards and media. That's a real strength, but weigh it against the flip side: coarser particle size than the finest micro-cut picks.",
     specs: ["15-sheet manual feed, P-4 cross-cut", "Durable alloy cutters for cards, CDs/DVDs, staples", "10-minute continuous run time", "5.5-gallon bin, safety interlock"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 9,810 Amazon ratings",
     reviews: "9,810 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31wkQYg97oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=workcocoon-20",
     description:
       "A P-4 rated pick at 10 sheets with a genuinely large 5.5-gallon bin, shredding credit cards one at a time alongside junk mail and staples. Strong review base offers real-world confidence in its card-destruction reliability.\n\nA reasonable mid-range choice between the smallest 8-sheet picks and the highest-capacity 15-sheet pick above.\n\nStrong review base. On the other hand, short 4-minute continuous run time. Both are worth keeping in mind before deciding.",
     specs: ["10-sheet manual feed, P-4 cross-cut, 5x18mm particles", "Shreds credit cards (one at a time), junk mail, staples", "4-minute continuous run time", "5.5-gallon bin"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31jH9nhLBBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKXGNDLT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKXGNDLT?tag=workcocoon-20",
     description:
       "A genuine micro-cut design (finer than basic cross-cut) at 10 sheets with a large 5.5-gallon bin, shredding cards, clips, and staples into small particles. Solid rating with a large review base for real-world confidence.\n\nA reasonable choice if you want micro-cut card security specifically at a higher paper capacity than the 8-sheet Amazon Basics micro-cut pick.\n\nA genuine advantage here is that large 5.5-gallon bin. The tradeoff is that not the finest particle size in this guide.",
     specs: ["10-sheet manual feed, P-4 micro-cut, 5x12mm particles", "Shreds cards, clips, staples", "5-minute continuous run time", "5.5-gallon bin"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "Shreds CDs, credit cards, and staples alongside 12-sheet paper capacity, with a genuinely long 15-minute continuous run time for bulk sessions that happen to include occasional card destruction. Jam-proof reverse helps if a card causes a snag.\n\nA reasonable all-around pick if card shredding is an occasional feature you need rather than the primary use case.\n\nShreds CDs and credit cards alongside high paper volume. That said, not the finest particle size in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["12-sheet manual feed, P-4 cross-cut", "Shreds CDs, credit cards, staples", "15-minute continuous run, ~900 sheets/cycle", "5.5-gallon bin, jam-proof reverse"],

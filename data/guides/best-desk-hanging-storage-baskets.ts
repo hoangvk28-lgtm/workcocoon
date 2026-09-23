@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "75",
     imageUrl: "https://m.media-amazon.com/images/I/61-H71DCbEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=workcocoon-20",
     description:
       "This mesh metal drawer functions well as a basket-style storage option, with a weave tight enough to genuinely contain small office supplies rather than letting them fall through, while still offering visibility into contents at a glance.",
     specs: ["Clamp-on, no drilling", "Mesh metal, tight weave", "Under-desk mount", "Content-visible design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "896",
     imageUrl: "https://m.media-amazon.com/images/I/51YpYvY4LwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=workcocoon-20",
     description:
       "Two mesh compartments provide genuinely more basket-style storage capacity than a single-basket alternative, and the strong review count gives real confidence in the weave's durability under repeated use.",
     specs: ["Clamp-on, no drilling", "2 mesh compartments", "Slide-out design", "Strongest review count in this comparison"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "280",
     imageUrl: "https://m.media-amazon.com/images/I/51XpqFad+GL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXCS7YBL?tag=workcocoon-20",
     description:
       "Honesty note: this is genuinely wall-mounted rather than desk-edge or under-desk hung, included as an alternative for buyers who'd consider a wall-mounted mesh design if it offers meaningfully more capacity, which its 7 tiers genuinely do.",
     specs: ["Wall-mounted mesh wire design", "7 vertical tiers", "Highest capacity in this comparison", "Requires drilling"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,000",
     imageUrl: "https://m.media-amazon.com/images/I/51FalFi-PqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005XK3R02?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005XK3R02?tag=workcocoon-20",
     description:
       "Honesty note: this is a solid-walled in-drawer tray, not a mesh hanging basket, included as the alternative for buyers who decide they want fully solid containment for very small items (paper clips, pins) rather than any mesh weave's small gaps.",
     specs: ["In-drawer insert tray, solid walls", "Adjustable width, 10.3-16 inches", "Highest rating here", "Not a hanging basket"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "148",
     imageUrl: "https://m.media-amazon.com/images/I/31L34YVEzzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CRT7XZT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CRT7XZT?tag=workcocoon-20",
     description:
       "Also a solid-walled in-drawer tray rather than a mesh hanging basket, this 7-compartment design is the most affordable pick in this comparison and offers the finest small-item separation of any option here.",
     specs: ["In-drawer insert tray, solid walls", "7 compartments", "Lowest price here", "Not a hanging basket"],

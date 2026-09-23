@@ -9,6 +9,7 @@
 import { products as staticProducts, type Product } from "@/data/products";
 import { isSupabaseConfigured, createAdminClient } from "@/lib/supabase/server";
 import type { Category } from "@/data/categories";
+import { withAmazonTag } from "@/lib/affiliate";
 
 // ── DB row → Product mapping ───────────────────────────────────────────────────
 
@@ -47,7 +48,11 @@ function rowToProduct(row: ProductRow): Product {
     badge: row.badge ?? undefined,
     shortDescription: row.short_description,
     reviewSummary: row.review_summary,
-    amazonUrl: row.amazon_url,
+    // Guard here, at the single seam between stored data (Supabase amazon_url
+    // column, which may carry a stale/legacy tracking tag) and every rendered
+    // product card/CTA site-wide — sets the current AMAZON_TAG once, never
+    // duplicates a `tag` param, regardless of what's stored.
+    amazonUrl: withAmazonTag(row.amazon_url),
     priceRange: row.price_range,
     image: row.image,
     bestFor: row.best_for ?? [],

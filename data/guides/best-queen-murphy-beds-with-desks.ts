@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 4 Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41WkdwEwOOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H33PY32C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H33PY32C?tag=workcocoon-20",
     description:
       "This is the only pick in this guide whose listing title directly confirms a built-in desk surface alongside a queen mattress, plus a power outlet and open storage shelves and drawers. The desk panel folds clear of the cabinet face, which matters for a queen unit since the swing radius is larger than a full or twin design. It is the most expensive pick here, reflecting the added desk hardware, lighting, and storage. With only 4 ratings, buyer feedback is thin for a queen-size cabinet at this price point, so weigh that against the confirmed desk feature before ordering. Power outlet and lighting integrated into the cabinet. That's a real strength, but weigh it against the flip side: highest price in this guide.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,138 Amazon ratings",
     reviews: "2,138 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=workcocoon-20",
     description:
       "This is a bare gas-piston mechanism, not a finished desk-bed combo, so the desk portion is entirely your own cabinet build. For a queen vertical build using this kit, plan on close to 93 inches of ceiling clearance for the 88 inch cabinet plus anchor swing room, and confirm your queen mattress weight against the piston calibration before ordering, since pistons are matched to a specific weight range.\n\nWith 2,138 ratings at 4.6 stars, it has the strongest review base in this guide by a wide margin. Because the desk face is entirely your own build, item weight limits and desk depth depend on the materials you choose, not on anything this kit specifies.\n\nWorth calling out specifically: smooth, controlled piston operation. The catch is no desk surface included, bed-only mechanism.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,610 Amazon ratings",
     reviews: "1,610 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51h1vyv6ZdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=workcocoon-20",
     description:
       "Like the Create-A-Bed kit above, this is a bed-only mechanism with no desk claim in the listing, aimed at buyers who plan to build a full cabinet themselves, including any desk face. It is the lowest cost mechanism here, which can leave more budget toward a well-built desk panel if that is the goal. As a queen mechanism, the same 93 inch ceiling clearance and mattress weight matching rules apply as with the Create-A-Bed kit. With 1,610 ratings at 4.6 stars, it has a strong review base for a DIY hardware product. Detailed build guides included. Set against that, no desk surface included, bed-only mechanism. Both matter when comparing it to the other picks here.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 19 Amazon ratings",
     reviews: "19 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51JtI3bjGFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=workcocoon-20",
     description:
       "The Yoobure listing does not mention a desk, so treat this as a storage-focused queen cabinet with a charging station rather than a true desk-integrated unit. It is a fully assembled cabinet, which removes the carpentry step required by the hardware kits above.\n\nAt queen size, confirm your room has close to 108 inches of width for comfortable side access once the bed is lowered. With only 19 ratings, buyer feedback is thin compared to the hardware kits above, so weigh that against the higher price.\n\nA genuine advantage here is that storage drawers add functional space. The tradeoff is no integrated desk surface despite home office marketing.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 181 Amazon ratings",
     reviews: "181 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21HUtlnOKaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CLDV21TZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CLDV21TZ?tag=workcocoon-20",
     description:
       "Bestar's listing describes it as a sleeping arrangement for a multipurpose area, bedroom, or living room, with no desk feature mentioned, so this is a bed-only queen unit despite frequent appearance in desk-bed searches. It is a well-established brand in the assembled murphy bed space with a moderate review base.\n\nAt 181 ratings and a 4.0-star average, it sits in the middle of the pack for buyer feedback among assembled units in this guide. Confirm your room's ceiling height and width before ordering, since this is priced as a finished cabinet and returns on large furniture like this are costly.\n\nFully assembled, no desk carpentry needed. That's a real strength, but weigh it against the flip side: no desk surface, bed-only unit.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 141 Amazon ratings",
     reviews: "141 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/515sMh7j30L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=workcocoon-20",
     description:
       "This queen cabinet adds two built-in LED lights, useful for a home office corner, though the listing makes no desk claim and should be treated as a bed-only unit. The gas struts give a controlled fold, and the no-box-spring design simplifies mattress setup for a queen size. It lands mid-range for an assembled queen cabinet with lighting as the standout feature. A 4.0-star rating across 141 reviews is a reasonably sized feedback base for this price tier. Worth calling out specifically: gas struts give controlled, smooth operation. The catch is no desk surface, bed-only unit.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 340 Amazon ratings",
     reviews: "340 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51k+vfJQZGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DN5P11PP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DN5P11PP?tag=workcocoon-20",
     description:
       "LUXOAK's listing focuses on storage and a charging station, with no desk mentioned, so this is a bed-only queen cabinet best paired with a separate nearby desk. It has a solid mid-size review base for a queen assembled unit. At a competitive price with 340 ratings at 4.3 stars, it offers a reasonable balance of price and feedback volume among the assembled queen cabinets in this guide, though the desk gap is the same limitation shared by most picks here. Charging station and storage built in. Set against that, no desk surface, despite frequent home office search association. Both matter when comparing it to the other picks here.",
     specs: [
@@ -259,7 +259,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 396 Amazon ratings",
     reviews: "396 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Og-FctXuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=workcocoon-20",
     description:
       "AMERLIFE's title again lists storage and charging, not a desk, so this is another bed-only queen unit best treated as a space-saving alternative rather than a genuine desk-bed combo. It works well in a home office corner where a separate small desk sits nearby.\n\nWith 396 ratings at 4.2 stars, it has the second-largest assembled-cabinet review base in this guide after the Bestar pick. Budget for a stand-alone desk purchase separately if desk work is the priority.\n\nA genuine advantage here is that charging station and storage built in. The tradeoff is no desk surface, despite frequent home office search association.",
     specs: [

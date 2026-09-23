@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "820",
     imageUrl: "https://m.media-amazon.com/images/I/51feVjKUbVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B84ZQDB7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B84ZQDB7?tag=workcocoon-20",
     description:
       "The IRONCK carries the highest weight capacity in this guide at 500 lbs, thanks to a sturdy P2 MDF and iron X-frame construction that also gives it a distinctive industrial look. Four open shelves can be installed on either the left or right side of the desk, so the bookshelf setup adapts to whichever wall or corner you're working with.\n\nA built-in power strip adds 2 AC outlets and 2 USB ports right at desk height, and adjustable footpads keep the frame level on uneven flooring. The shelves double easily as a CPU stand or bookcase, making this one of the more flexible bookshelf desks in this list for the price.\n\n4 reversible shelves fit either side of the desk. That's a real strength, but weigh it against the flip side: reversible shelf design has a smaller desktop footprint than L-shaped picks.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "676",
     imageUrl: "https://m.media-amazon.com/images/I/41El-SG+CpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D8G5N258?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D8G5N258?tag=workcocoon-20",
     description:
       "The Treesland tucks neatly into a room corner, with a 4-tier bookshelf built directly into the L-shaped side rather than bolted on as an afterthought. That corner-fit approach makes it one of the more space-efficient picks here, freeing up wall space elsewhere in a small bedroom or home office. A metal frame paired with engineered wood keeps the whole unit lightweight but stable, and a side storage bag adds a bit of extra soft storage for cables, notebooks, or accessories. at a budget-friendly price, it's the most affordable L-shaped bookshelf desk in this guide. Worth calling out specifically: corner-fit design ideal for small rooms. The catch is no built-in power outlets or USB ports.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "1,447",
     imageUrl: "https://m.media-amazon.com/images/I/41gBJ1zm9tL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9Q542SF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9Q542SF?tag=workcocoon-20",
     description:
       "The Huuger packs the most ports of any 47-inch desk in this guide, with a power hub offering 4 AC outlets, 1 USB, and 1 USB-C port all built into the frame. Two reversible open shelves handle books and display items, while 3 fabric drawers underneath give closed storage for supplies you'd rather keep out of sight.\n\nAn X-shaped back support brace adds rigidity to the L-shaped frame, and P2 MDF construction keeps the whole desk sturdy under daily use. Between the drawers, shelves, and extensive power setup, this is one of the most complete storage-plus-power combinations in this list.\n\n3 drawers plus reversible open shelves. Set against that, lower desktop height (29.5\") than most other picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,038",
     imageUrl: "https://m.media-amazon.com/images/I/51VN9V+4ijL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXPKSPZ4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXPKSPZ4?tag=workcocoon-20",
     description:
       "The AODK's 2-tier upper shelf rack doubles as either a bookshelf or a monitor stand, giving it more flexibility than a fixed hutch design. It's built on an alloy steel frame for extra rigidity, and app or remote-controlled RGB LED lighting cycles through 10 colors and 8 brightness levels, with a memory function that remembers your last setting.\n\nBuilt-in power includes 3 AC outlets and 2 USB ports, and the package adds a CPU stand, a hook, and a storage bag, extras aimed squarely at gaming and streaming setups. For anyone who wants shelving that can flex between books and monitors, this is a strong pick.\n\nA genuine advantage here is that sturdy alloy steel frame. The tradeoff is only 2 shelf tiers versus 4+ on some other picks.",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "556",
     imageUrl: "https://m.media-amazon.com/images/I/41tgDLPbkzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCHXTF6K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCHXTF6K?tag=workcocoon-20",
     description:
       "The DLisiting takes the classic hutch approach, mounting a bookshelf directly above the desktop rather than to the side, which keeps books and reference materials within arm's reach without eating into corner space. Its patent-pending design pairs the hutch with 3 fabric drawers below, plus 3 AC outlets and 2 USB ports built into the frame.\n\nThe desktop itself is scratch-resistant and waterproof, useful for anyone who eats or works with drinks at their desk, and a headphone hook adds a small but handy touch. It also assembles the fastest of any pick in this guide, in roughly 20 minutes.\n\nWaterproof, scratch-resistant desktop. On the other hand, lowest rating among the straight hutch-style picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "993",
     imageUrl: "https://m.media-amazon.com/images/I/51vSptde8LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CBVD9PP5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CBVD9PP5?tag=workcocoon-20",
     description:
       "The SEDETA has the most shelves of any pick in this guide, 7 tiers of open shelving plus a glass-front storage cabinet for items you'd rather keep dust-free and visible at the same time. That combination gives it more total bookshelf capacity than any other desk here, with room for a large book collection alongside desk gear.\n\nApp or remote-controlled RGB LED lighting cycles through more than 60,000 colors with music-sync capability, and the 300 lb capacity comfortably supports 2 desktop monitors plus a notebook on the work surface. Reversible installation lets you mirror the L-shape to fit either side of a room.\n\n300 lb capacity fits 2 monitors and a notebook. That's a real strength, but weigh it against the flip side: largest footprint among the mid-priced picks.",
     specs: [
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "687",
     imageUrl: "https://m.media-amazon.com/images/I/41z20cEFE1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PDSH538?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PDSH538?tag=workcocoon-20",
     description:
       "The HOMCOM is the most space-saving pick in this guide by a wide margin, a wall-mounted desk that folds flat to just 7.7 inches deep when not in use. Nine total shelves, 6 fixed upper shelves plus 3 adjustable lower ones, provide real bookshelf capacity even though the whole unit disappears against the wall between work sessions.\n\nA built-in chalkboard panel doubles as a spot for to-do lists or reminders, and the desk surface still supports dual monitors when folded down and in use. For tiny rooms, dorms, or apartments where floor space is at a premium, this is the clear standout.\n\nWorth calling out specifically: 9 shelves plus a built-in chalkboard. The catch is lowest weight capacity in this guide at 132 lbs.",
     specs: [
@@ -280,7 +280,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "756",
     imageUrl: "https://m.media-amazon.com/images/I/51sKa2Q2REL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5BDH5GC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5BDH5GC?tag=workcocoon-20",
     description:
       "The AODK 79-inch is the largest desk in this guide by far, combining 6-tier open shelving with 5 fabric drawers, including a dedicated file drawer sized for A4 and legal paper, for the most total storage of any pick here. Two separate power hubs each offer 3 AC outlets and 2 USB ports, for 6 AC and 4 USB connections across the whole desk.\n\nA milky diffuser LED strip cycles through 10 colors for softer ambient lighting than exposed LED strips, and a CPU stand keeps a desktop tower off the floor. This is the pick for anyone furnishing a serious home office that needs a bookshelf, filing system, and workstation all in one footprint.\n\n6-tier shelves plus 5 drawers including a file drawer. Set against that, most expensive pick in this guide. Both matter when comparing it to the other picks here.",
     specs: [

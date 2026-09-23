@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "UGREEN markets the DXP2800 directly at content creators and enthusiasts, and its 2-bay layout keeps entry cost reasonable while still leaving room to grow into RAID 1 mirroring for active project files.\n\nIt is a solid fit for a solo photographer or video editor who is not yet running multi-user workflows but wants a dedicated array instead of an external USB drive for active photo and video libraries.\n\nSimple 2-bay setup keeps entry cost down. That's a real strength, but weigh it against the flip side: 1GbE networking caps large transfer speed.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 is built around centralizing files and protecting data, which covers the basics of a photo and video archive without the premium price of a creator-specific model. Synology's DSM software adds straightforward folder and permission management for organizing large photo libraries.\n\nIt is a 2-bay diskless unit, so total investment includes drive cost on top of the enclosure, and its standard 1GbE networking is a better match for archival storage than for active RAW video editing over the network.\n\nWorth calling out specifically: straightforward setup for file centralization. The catch is 1GbE networking limits large video transfer speed.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21+Y7Nr2xAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTWWJK9V?tag=workcocoon-20",
     description:
       "The QNAP TS-264 ships with 8GB of RAM out of the box, which matters for creative workflows since photo and video management apps index large libraries and benefit from more memory headroom than a bare-minimum NAS provides.\n\nAt this price tier, it is aimed at buyers who are editing directly off the NAS rather than just archiving finished exports, and its 2-bay layout keeps the entry cost lower than a 4-bay Intel-based editing NAS while still offering more RAM than most 2-bay competitors.\n\nQNAP's app ecosystem covers photo and video management. Set against that, priciest 2-bay pick in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21lrHwmtuBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GN3YJN2F?tag=workcocoon-20",
     description:
       "QNAP built 2.5GbE networking into the TS-216G at a price close to some 1GbE-only competitors, which is the single biggest speed upgrade a buyer can make for photo and video work. A 2.5GbE connection moves roughly 300 MB/s versus about 125 MB/s on 1GbE, a real difference once large RAW folders or 4K exports are involved.\n\nIt still needs a 2.5GbE-capable switch or router on the other end of the cable to actually see that speed increase, since the weakest link in the network sets the real transfer rate.\n\nA genuine advantage here is that roughly 2.4x the transfer speed of 1GbE NAS models. The tradeoff is requires a 2.5GbE switch or router to see the speed benefit.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=workcocoon-20",
     description:
       "The Drivestor 2 Gen 2 pairs a quad-core 1.7GHz CPU with built-in 2.5GbE networking and 4K media server support at the lowest price in this list, making it the cheapest way to get past the 1GbE bottleneck for photo and video transfers.\n\nIts 1GB of DDR4 RAM is modest for heavy multitasking, so it fits best as a personal cloud and archive for a single editor rather than a shared multi-user editing NAS with many simultaneous connections.\n\n2.5GbE networking included at an entry price. That's a real strength, but weigh it against the flip side: only 1GB RAM limits multitasking under load.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ejB5cFDGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHVZ53RN?tag=workcocoon-20",
     description:
       "TERRAMASTER puts an Intel x86 quad-core CPU and 4GB of RAM into a 2-bay chassis, a meaningfully stronger processor tier than most NAS at this price point. Intel processors generally offer better codec support for hardware transcoding than the ARM chips found in many budget NAS units, which matters for H.265/HEVC photo and video libraries.\n\n2.5GbE networking is included as well, so this pairs a capable CPU with fast networking in a compact 2-bay footprint, though buyers with truly large RAW archives will still outgrow 2 bays faster than a 4-bay unit.\n\nWorth calling out specifically: 4GB RAM is generous for a 2-bay NAS. The catch is 2 bays still cap long-term expansion.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The DXP4800 Plus steps up to a 4-bay chassis and an Intel Pentium Gold 8505 5-core CPU, the most capable processor in this list. That extra core count and 4-bay capacity make it the pick for buyers running RAID 5 across a real archive of 4K or RAW footage rather than a light personal library.\n\nIt is also the most expensive pick here, and buyers should factor in 4 drives' worth of cost on top of the enclosure price, since a 4-bay diskless NAS is only half the total investment until drives are added.\n\n4 bays support RAID 5 with meaningfully more usable capacity. Set against that, most expensive enclosure in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 supports up to 64TB of total capacity across its 2 bays, giving budget buyers real headroom for growing photo libraries without paying for a 4-bay chassis. It ties for the cheapest enclosure in this list. As a diskless entry-level unit, it fits best as an archive destination for finished exports and organized photo libraries rather than an active multi-stream video editing NAS, since networking and CPU specs are positioned at the budget tier. A genuine advantage here is that up to 64TB total capacity supported across 2 bays. The tradeoff is budget-tier CPU is less suited to heavy transcoding.",
     specs: [

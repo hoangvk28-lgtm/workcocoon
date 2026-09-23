@@ -38,7 +38,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.2 stars, 5,342 reviews",
     imageUrl: `${BASE}/devaise-3-drawer-mobile-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE Rustic Brown earns the top spot with the highest rating and the largest review base in this category by a significant margin. Over 5,300 verified buyers at 4.2 stars is a reliable quality signal. The warm rustic brown finish suits farmhouse, natural wood, and transitional home office setups. Three drawers give you enough storage for several years of active paperwork. The bottom drawer holds letter and legal-size hanging files. Rolling casters with two lockable wheels let you slide it under a desk and lock it in place. At this price and review volume, any systematic quality problem would be clearly visible in the review text - the 4.2 star average holds up.",
     tradeoffs: [
@@ -70,7 +70,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.0 stars, 3,262 reviews",
     imageUrl: `${BASE}/vasagle-2-drawer-snow-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BRXQ1DKF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRXQ1DKF?tag=workcocoon-20",
     whyItWorks:
       "At $62.99, the VASAGLE CUSTOS is the most affordable option in this guide with the second-highest review count. The snow white finish is clean and versatile, fitting naturally into minimalist, Scandinavian, and modern home office setups. Two drawers handle light-to-moderate filing needs. VASAGLE is a well-known home furniture brand with consistent quality across their product lines, which is why 3,262 buyers have left reviews at a 4.0 star average. For buyers who need a budget-conscious, stationary white cabinet with decent storage, this is the obvious pick.",
     tradeoffs: [
@@ -102,7 +102,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.1 stars, 2,784 reviews",
     imageUrl: `${BASE}/devaise-3-drawer-wood-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09Z2C8N2Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09Z2C8N2Q?tag=workcocoon-20",
     whyItWorks:
       "The white DEVAISE 3-drawer is the same functional package as the rustic brown best overall pick but in a lighter, more modern finish. Nearly 2,800 reviews at 4.1 stars confirms consistent quality across the DEVAISE line. Works especially well in offices with white or light-colored desks, matching popular setups with IKEA and minimalist furniture. Rolling casters included. If your desk is white or light gray and you want a cohesive look, this is the straightforward pick over the rustic brown version.",
     tradeoffs: [
@@ -134,7 +134,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.0 stars, 2,318 reviews",
     imageUrl: `${BASE}/devaise-3-drawer-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0875YH1LD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0875YH1LD?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE Walnut is the most affordable 3-drawer rolling option in this guide at $74.99 - a full $20 less than the rustic brown and white variants. The rich dark walnut-tone laminate suits mid-century modern and traditional home office setups. Over 2,300 reviews at 4.0 stars is a solid quality signal for the price. Dark finishes also hide minor scuffs and surface marks better than white or lighter options, which matters over years of regular use.",
     tradeoffs: [
@@ -166,7 +166,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.0 stars, 1,310 reviews",
     imageUrl: `${BASE}/vasagle-honey-brown-farmhouse.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=workcocoon-20",
     whyItWorks:
       "The honey brown finish is rare in this price category and fills a clear gap for farmhouse, boho, and warm-toned home offices. No other pick on this list offers this color tone. VASAGLE is a reliable brand in the budget furniture space with consistent build quality, and 1,310 reviews at 4.0 stars is a respectable sample size for a color variant. Three drawers and rolling casters round out a practical package. If your workspace leans farmhouse or rustic and the DEVAISE rustic brown is too dark, the honey brown fills that gap.",
     tradeoffs: [
@@ -198,7 +198,7 @@ export const products: FileCabinet[] = [
     lock: "With Lock",
     rating: "4.0 stars, 797 reviews",
     imageUrl: `${BASE}/devaise-3-drawer-mobile-lock-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08SWJZ5SC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08SWJZ5SC?tag=workcocoon-20",
     whyItWorks:
       "The DEVAISE lock white is the only locking cabinet in this guide and is competitively priced at $69.99 for a 3-drawer rolling unit. The cam lock secures all three drawers simultaneously from a single key. Fewer reviews than top picks (797), but 4.0 stars at this niche feature level is respectable. If document security is a priority - shared office spaces, home offices with children nearby, or sensitive paperwork - this is the only option in the under-$200 category that addresses it.",
     tradeoffs: [
@@ -230,7 +230,7 @@ export const products: FileCabinet[] = [
     lock: "No Lock",
     rating: "4.0 stars, 41 reviews",
     imageUrl: `${BASE}/innod-3-drawer-fluted-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0GJZPVMG8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJZPVMG8?tag=workcocoon-20",
     whyItWorks:
       "The INNOD fluted cabinet is the most visually distinctive pick in this guide. The fluted panel drawer fronts have become a popular detail in contemporary interior design, and the oak finish gives it a more furniture-like appearance than typical budget laminate cabinets. At $109.99, it is the most expensive option here. The 4.0 star rating is currently based on only 41 reviews, which means the signal is early and may shift. For design-conscious buyers who want a cabinet that reads as a piece of furniture rather than office equipment, this is the pick - with the caveat that buyer data is limited.",
     tradeoffs: [

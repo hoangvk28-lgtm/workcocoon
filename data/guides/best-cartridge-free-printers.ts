@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 is Epson's entry point into cartridge-free printing, swapping disposable ink cartridges for four refillable tanks visible right on the front of the printer. Scan and copy are included alongside wireless printing, covering the basics most households need without extra bulk.\n\nInk bottles run far cheaper per page than cartridges once you're printing regularly, though the printhead on this model is integrated rather than separately replaceable, so treat routine nozzle checks as real maintenance rather than an optional step.\n\nBottled ink costs a fraction of cartridges per page. That's a real strength, but weigh it against the flip side: no automatic document feeder.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31Yt+pSHuGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8CNBZ?tag=workcocoon-20",
     description:
       "This is the same ET-2800 as the black version above with a white finish that blends better into a light-colored desk setup or home office. Every internal spec, tank capacity, print speed, and ink cost per page, is identical to the black model.\n\nChoose based on color preference alone rather than expecting any functional difference, both share the same integrated printhead and lack of an automatic document feeder.\n\nWorth calling out specifically: white finish suits a lighter desk aesthetic. The catch is no automatic document feeder.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41NRmd9wP9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B1J5PYCF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B1J5PYCF?tag=workcocoon-20",
     description:
       "The ET-3850 steps up from the entry ET-2800 with an automatic document feeder, Ethernet, and mobile printing, a fuller home office feature set built around cartridge-free economics. It includes a bonus black ink bottle and USB cable at setup.\n\nThe higher price reflects the added hardware, ADF, wired networking, more durable build, rather than a different ink system, so weigh whether you actually need those extras against the cheaper ET-2800.\n\nEthernet option for a stable wired connection. Set against that, significantly pricier than the entry-level ET-2800. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31TonwUym9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BM9BFLMX?tag=workcocoon-20",
     description:
       "The ET-2400 is the lowest-priced model in this list, built for everyday home printing rather than heavy office volume. Scan and copy are included, and the tank system keeps ink cost per page low even at this entry price point.\n\nLike the ET-2800, the printhead is integrated into the printer body, so a printer left idle for a month or more should get a nozzle check before a big print job to avoid streaks from settled ink.\n\nA genuine advantage here is that cheap ink cost per page for a light-to-moderate home printer. The tradeoff is no automatic document feeder.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=workcocoon-20",
     description:
       "The ET-4950 pairs up to 3 years of ink refills with a 2.4-inch color touchscreen and an automatic document feeder, a genuine step up for anyone scanning multi-page documents regularly. At a rated 18 pages per minute, it's noticeably faster than the entry-level EcoTank models.\n\nThe touchscreen makes checking ink levels and clearing errors simpler than button-based navigation, useful if more than one person in the household relies on the printer.\n\nTouchscreen simplifies status checks and troubleshooting. On the other hand, higher price than the entry-level ET-2400 and ET-2800. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31r7o2eQ5TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N9JMXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N9JMXF?tag=workcocoon-20",
     description:
       "The ET-4850 adds fax and Ethernet to the EcoTank lineup, aimed at a small office that still needs those legacy connections alongside cartridge-free ink savings. Scanner, copier, and an automatic document feeder round out the feature set.\n\nMost households won't use the fax feature, but it doesn't add meaningful cost, and Ethernet gives a more stable connection than wifi in offices with a lot of network interference.\n\nAutomatic document feeder for multi-page scans. That's a real strength, but weigh it against the flip side: fax is unnecessary for most households.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31W+8GDKNLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08XZQVWZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08XZQVWZW?tag=workcocoon-20",
     description:
       "Canon's MegaTank system is the direct competitor to Epson EcoTank, and the G620 leans specifically toward photo output, useful if you print photos alongside documents. It works with Alexa for voice-triggered print jobs and covers print, copy, and scan.\n\nCanon and Epson tanks aren't interchangeable, so factor in brand-specific ink availability at your local store before committing, since online-only generic ink can mean a multi-day wait when a tank runs low.\n\nWorth calling out specifically: cartridge-free MegaTank ink economics. The catch is no automatic document feeder.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/417kJNlHT6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B084TV6BVM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B084TV6BVM?tag=workcocoon-20",
     description:
       "The EcoTank Pro ET-5800 is the top of this list on price and capability, built for an office that prints heavily and needs fax and Ethernet in a single reliable machine. Scanner and copier round out a full feature set aimed at replacing a shared office printer entirely.\n\nAt this price, it competes with small business laser printers rather than home inkjets, so it makes the most sense for a household or small office genuinely printing hundreds of pages a month rather than an occasional user.\n\nFax and Ethernet cover full small-office needs. Set against that, highest upfront price in this list by a wide margin. Both matter when comparing it to the other picks here.",
     specs: [

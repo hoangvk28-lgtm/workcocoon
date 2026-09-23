@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "12 outlets and 2700 joules, genuine capacity for a full computer setup with a PC, monitor, external drives, and networking equipment sharing the same joule budget. Large, well-established review base.\\n\\nThis protects against external electrical events, not internal PC hardware failure, a separate scope buyers sometimes conflate.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Surge Protector Power Strip 4800J.\n\nWorth knowing before you decide: Large, well-established review base. On the other side, No Ethernet/coax pass-through surge protection. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,666 Amazon ratings",
     reviews: "2,666 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eRaMa6u1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=workcocoon-20",
     description:
       "4800 joules, the highest rating in this guide, real headroom for a workstation with a PC, multiple monitors, and networking gear all sharing the same protection budget. USB-C charging included.\\n\\nA high-value GPU or workstation PC represents concentrated risk, this higher joule rating gives more cumulative capacity before meaningful depletion.\n\nSet against the Power Strip, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 12 outlets for a full computer setup with peripherals. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4800 joules","10ft cord, wall mountable","2 USB-C, 2 USB-A","Desk charging station design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 67,972 Amazon ratings",
     reviews: "67,972 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41w1NL7yU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=workcocoon-20",
     description:
       "The largest review base of any pick in this guide, genuine evidence of reliability at an affordable price for a basic computer and monitor setup. Braided cord for durability.\\n\\nAppropriate for a single PC and monitor rather than a full workstation with many peripherals sharing the joule budget.\n\nRelative to the Surge Protector Power Strip 4800J, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Genuine surge protection at an affordable price. On the other side, Lower joule rating for a single PC and monitor only. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["1080 joules surge protection","Braided 5ft cord","Largest review base in this guide","Budget-friendly"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "Explicitly marketed for computer and laptop use, UL listed with 3,780 joules from an established brand, real build-quality confidence for protecting valuable computer equipment. 8ft cord.\\n\\nVerify any connected-equipment warranty's payout cap against the realistic replacement cost of your specific computer setup before relying on it.\n\nCompared with the HANYCONY Surge Protector Power Strip above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: UL listed for verified safety. On the other side, Higher price reflecting the established brand. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules","UL listed, 8ft flat plug cord","Established Belkin brand","Explicitly marketed for computers"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 44,144 Amazon ratings",
     reviews: "44,144 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09F2XPJ47?tag=workcocoon-20",
     description:
       "8 outlets and 4 USB ports at 2700 joules, genuine surge protection with charging capability for phones and tablets alongside your computer setup. Large, well-established review base.\\n\\nRemember this doesn't address internal PC hardware faults, only external electrical events like grid fluctuations.\n\nSet against the Belkin 12, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 4 USB ports for phone and tablet charging. On the other side, No Ethernet/coax pass-through protection. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 outlets, 4 USB ports, flat plug","2700 joules, ETL listed","6ft cord","Large review base"],

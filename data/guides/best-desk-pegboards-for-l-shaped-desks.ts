@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.9 stars from Amazon ratings",
     reviews: "11 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/512lnyLr+VL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H6B73JS1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H6B73JS1?tag=workcocoon-20",
     description:
       "A genuine 67-inch L-shaped desk with height adjustment, a storage hutch, and a pegboard panel built directly into the design, appropriate for buyers wanting an integrated setup rather than shopping for a separate accessory.\n\nBecause this is a desk-level product, the pegboard's position is fixed relative to the desk's own layout, worth confirming where it sits relative to the main run and corner return before assuming it matches your intended monitor and accessory placement.\n\nA genuine advantage here is that storage hutch adds real capacity beyond the pegboard. The tradeoff is that very small review count so far, worth watching as more buyers weigh in.",
     specs: ["67 inch L-shaped footprint", "Height adjustable, standing desk", "Built-in pegboard and LED lights", "Storage hutch included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "623 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51m+qsLwPEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CY29ZZ3V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CY29ZZ3V?tag=workcocoon-20",
     description:
       "A well-reviewed L-shaped corner desk with drawers, a hutch, and storage shelves, appropriate for buyers wanting a complete integrated desk setup at a lower price point than the standing version above.\n\nThe large review base with over 600 ratings gives real confidence in build quality and reliability, though as with any integrated design, it's worth checking the desk's own dimensions against your room before assuming the corner return fits your space.\n\nComplete integrated desk with drawers, hutch, and shelves. That said, fixed height, no standing desk adjustment. Neither should be a surprise once you know to look for it.",
     specs: ["L-shaped corner footprint", "Drawers and hutch included", "Storage shelves built in", "Fixed-height desk"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "3.9 stars from Amazon ratings",
     reviews: "42 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Une2rF7sL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G41Y1HV9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G41Y1HV9?tag=workcocoon-20",
     description:
       "An L-shaped desk with a large bookshelf and three wood drawers, appropriate for buyers prioritizing bookshelf and drawer storage capacity over a dedicated pegboard panel.\n\nThe rating here is more moderate than the other two picks, worth reading current reviews closely before ordering to understand whether reported issues match your specific concerns.\n\nWorth calling out specifically: three wood drawers for organized storage. The catch is more moderate 3.9-star rating than the other two picks, worth reading reviews closely.",
     specs: ["L-shaped footprint", "3 wood drawers", "Large bookshelf included", "Fixed-height desk"],

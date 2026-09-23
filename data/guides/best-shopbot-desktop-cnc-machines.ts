@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/01RmK+J4pJL._SL500_.gif",
-    amazonUrl: "https://www.amazon.com/dp/B0H55LCQ6M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H55LCQ6M?tag=workcocoon-20",
     description: "Solid machined aluminum construction with pinned and bolted connections, plus fully supported THK linear rails and bearings on every axis, puts this closer to shop-grade construction than typical desktop hobby routers. A dual-drive Y-axis motor setup specifically eliminates gantry flex during hard material cuts that a single central motor would struggle with.\n\nChoose between an aluminum T-slot deck with an MDF spoilboard or a vacuum deck using a Fein Turbo II kit for strong, silent suction on standard 120VAC outlets. ShopBot's proprietary control software pairs with bundled Vectric VCarve Pro (with an Aspire upgrade path), and the whole system runs on a standard wall outlet with lifetime phone support included.",
     specs: ["Dual-drive Y-axis eliminates gantry flex","T-slot or vacuum deck configurations","VCarve Pro included, Aspire upgrade path"],
     pros: ["Dual-drive Y-axis specifically prevents gantry flex on hard cuts","Runs on a standard 120VAC wall outlet, no special power","Lifetime phone support and documentation included"],

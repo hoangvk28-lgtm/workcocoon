@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,070 Amazon ratings",
     reviews: "3,070 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tzbvyly7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09D33BXHL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09D33BXHL?tag=workcocoon-20",
     description:
       "This chair pairs a mesh back with PU leather seating and lists adjustable lumbar support alongside flip-up arms, a combination that suits buyers who want an executive look without the executive price. The mesh back panel helps with airflow during longer sitting sessions, while the PU leather seat cushion is easier to wipe down than fabric.\n\nFlip-up armrests are useful if the chair needs to tuck under a desk that's on the shorter side. Based on product specs and buyer feedback, it holds up well for typical home office use, though as with every chair in this guide, the exact lumbar adjustment mechanism isn't specified on the listing.\n\nMesh back improves airflow over full upholstery. That's a real strength, but weigh it against the flip side: costs more than the budget picks in this guide.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 64,003 Amazon ratings",
     reviews: "64,003 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41qkMtzBIdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=workcocoon-20",
     description:
       "With the highest review count in this guide by a wide margin, this mid-back chair is the entry point for buyers who want lumbar support without spending much. The breathable backrest and sponge seat keep the price low while still covering the basics of an adjustable-height task chair.\n\nRolling wheels and a simple swivel base make it easy to move around a small home office. Based on product specs and buyer feedback, it's best suited to shorter sitting sessions rather than an all-day desk job, and like the rest of this guide, the lumbar adjustment mechanism isn't detailed on the listing.\n\nWorth calling out specifically: largest number of Amazon ratings in this guide. The catch is sponge seat may compress faster than higher-density foam.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,382 Amazon ratings",
     reviews: "5,382 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41b4JMojCoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=workcocoon-20",
     description:
       "The Furmax executive chair uses a high-back PU leather design that supports the upper back and shoulders in addition to the lumbar area listed on the product page. Its managerial styling and swivel base make it a reasonable fit for a home office that doubles as a video call background.\n\nThe high-back shape gives more head and shoulder coverage than the mid-back picks in this guide, which matters for buyers who lean back frequently. Based on product specs and buyer feedback, build quality is solid at this price, though the exact lumbar mechanism isn't stated on the listing.\n\nManagerial look suited to video calls. Set against that, bulkier footprint than mid-back chairs. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,783 Amazon ratings",
     reviews: "1,783 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/411wlpMNg+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=workcocoon-20",
     description:
       "This chair leans into a full mesh build with a headrest and 3D armrests, features that put it closer to a higher-tier ergonomic chair than most picks in this guide. The high-back mesh design supports better airflow than PU leather across long sitting sessions.\n\n3D armrests adjust in more directions than the flip-up-only arms on other picks here, which helps buyers dial in elbow position more precisely. Based on product specs and buyer feedback, it's a strong value for the added headrest and armrest flexibility, though the lumbar adjustment mechanism isn't specified on the listing.\n\nA genuine advantage here is that 3D armrests adjust in more directions than flip-up arms. The tradeoff is costs more than the budget and mid-tier picks in this guide.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,442 Amazon ratings",
     reviews: "3,442 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vkBVigJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GXX75JN5?tag=workcocoon-20",
     description:
       "This mid-back mesh chair from NEO CHAIR matches the budget pick in this guide on price while offering a mesh seat instead of a padded one. It's built around a simple, compact frame that fits well in a small home office or dorm setup.\n\nAdjustable height and a rolling base cover the essentials, and the mesh seat helps with airflow more than a foam-and-fabric design would at this price. Based on product specs and buyer feedback, it's a reasonable entry-level option, with the lumbar adjustment mechanism itself left unspecified on the listing.\n\nMesh seat improves airflow over foam-only designs. That's a real strength, but weigh it against the flip side: fewer premium features than the higher-priced picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 2,568 Amazon ratings",
     reviews: "2,568 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41g7G7Hgo4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKNN49QP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKNN49QP?tag=workcocoon-20",
     description:
       "This high-back version from NEO CHAIR adds flip-up armrests and taller back coverage to the same mesh-and-mid-range price formula as the brand's mid-back pick. The high-back shape gives more support for buyers who lean back frequently during the day.\n\nFlip-up arms make it easier to slide under a low desk when not in use. Based on product specs and buyer feedback, it holds up as a solid mid-tier option, and as with the rest of this guide, the exact lumbar adjustment mechanism isn't stated on the product page.\n\nWorth calling out specifically: flip-up arms for tight desk clearance. The catch is slightly lower average rating than other NEO CHAIR picks in this guide.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 3,572 Amazon ratings",
     reviews: "3,572 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31qifS1PZSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B41X9SMT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41X9SMT?tag=workcocoon-20",
     description:
       "This is the drafting-style chair in this guide, built with an extended height range and a footrest ring specifically for use with a standing desk raised to counter height. Lumbar support and flip-up armrests are listed alongside the taller gas lift needed for this format.\n\nThe adjustable footrest ring is a feature none of the other 7 picks here offer, which matters if the chair needs to work at a raised desk rather than a standard-height one. Based on product specs and buyer feedback, it's a solid option specifically for that use case, with the lumbar adjustment mechanism itself unspecified on the listing.\n\nAdjustable footrest ring for counter-height desks. Set against that, not the right fit for a standard-height desk. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,871 Amazon ratings",
     reviews: "1,871 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DJb5724iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FPLP3BND?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FPLP3BND?tag=workcocoon-20",
     description:
       "This is the pink colorway from NEO CHAIR's mesh chair lineup, aimed at buyers who want the same mid-range mesh and lumbar support formula in a less common finish for a vanity desk or home office. Flip-up arms and adjustable height carry over from the brand's other picks in this guide.\n\nThe mesh build keeps airflow reasonable, and rolling wheels make it easy to reposition. Based on product specs and buyer feedback, it performs comparably to the brand's other entries here, with the lumbar adjustment mechanism itself not detailed on the listing.\n\nA genuine advantage here is that mesh build for airflow. The tradeoff is smallest rating count among the NEO CHAIR picks in this guide.",
     specs: [

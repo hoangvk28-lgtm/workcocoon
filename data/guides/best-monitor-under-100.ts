@@ -45,7 +45,7 @@ export const products: BudgetMonitor[] = [
     brightnessNits: 250,
     speakers: false,
     imageUrl: `${BASE}/philips-221v8lb-budget-monitor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CVM2GJCN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CVM2GJCN?tag=workcocoon-20",
     whyItWorks:
       "Lowest price in the guide at $70 with a 4-year advance replacement warranty; Philips ships a replacement before you return the defective unit, eliminating the broken screen during finals scenario; IPS panel with 99% sRGB delivers accurate colors for content and classes; 100Hz at $70 is strong value; smallest footprint at 21.5 inches saves real space on a tight desk; LowBlue Mode and flicker-free backlight for multi-hour study sessions; FreeSync compatible.",
     tradeoffs: [
@@ -83,7 +83,7 @@ export const products: BudgetMonitor[] = [
     brightnessNits: 250,
     speakers: false,
     imageUrl: `${BASE}/lg-24mr400-b-budget-monitor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CQ9P5TN2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQ9P5TN2?tag=workcocoon-20",
     whyItWorks:
       "LG IPS panels are the benchmark for color accuracy at every price tier; the 24MR400-B delivers 99% sRGB at under $100, matching what photo editors use for color-accurate work; AMD FreeSync eliminates screen tearing during gaming and works with Intel integrated graphics; Reader Mode shifts color temperature for extended reading sessions; OnScreen Control software lets you adjust brightness and Picture Mode from the desktop without navigating OSD buttons; dual input with HDMI plus D-Sub.",
     tradeoffs: [
@@ -122,7 +122,7 @@ export const products: BudgetMonitor[] = [
     brightnessNits: 300,
     speakers: true,
     imageUrl: `${BASE}/sceptre-c248w-1920rn-budget-monitor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07KXSR99Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KXSR99Y?tag=workcocoon-20",
     whyItWorks:
       "VA panel delivers 3000:1 contrast ratio vs IPS's 1000:1; at three times the contrast blacks are genuinely deep, white backgrounds are bright, and the difference is immediately visible on dark content and movies; 1500R curvature wraps the screen around peripheral vision for single-monitor gaming and video watching; 300 nits is the highest brightness in the guide; two HDMI ports allow connecting two sources without swapping cables; built-in 2x2W speakers handle casual audio without a separate purchase.",
     tradeoffs: [
@@ -161,7 +161,7 @@ export const products: BudgetMonitor[] = [
     brightnessNits: 300,
     speakers: false,
     imageUrl: `${BASE}/sansui-es-g24f4-budget-monitor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CGD9R7PT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CGD9R7PT?tag=workcocoon-20",
     whyItWorks:
       "180Hz is the fastest refresh rate in the guide at any price; 80% faster than the 100Hz alternatives; 1ms GtG response eliminates ghosting in fast sequences; 110% sRGB exceeds the standard 100% spec for vivid saturated images; 300 nits brightness for rooms with significant ambient light; DisplayPort 1.4 supports the full 180Hz signal (some HDMI connections cap at 144Hz, always use DisplayPort for max refresh); HDMI cable included in box; for competitive gaming this spec sheet was $150 to $200 a year ago.",
     tradeoffs: [
@@ -198,7 +198,7 @@ export const products: BudgetMonitor[] = [
     brightnessNits: 300,
     speakers: false,
     imageUrl: `${BASE}/ktc-h24t27-budget-monitor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D4P8XBD3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D4P8XBD3?tag=workcocoon-20",
     whyItWorks:
       "1440p (2560x1440) at 24 inches produces 123 PPI vs 1080p's 92 PPI; the difference is immediately visible in text sharpness for PDFs, code editors, spreadsheets, and browser text; getting 1440p under $100 was not possible until recently; 122% sRGB and 93% DCI-P3 exceed standard color specs; HDR10 support; FreeSync and G-Sync compatible covering both AMD and NVIDIA; three-sided zero-frame borderless design; HDMI 2.0 plus DisplayPort 1.4; verify the current price is at or below $100 before purchasing as it fluctuates.",
     tradeoffs: [
@@ -237,7 +237,7 @@ export const products: BudgetMonitor[] = [
     brightnessNits: 250,
     speakers: false,
     imageUrl: `${BASE}/aoc-24b2xh-budget-monitor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07WVN1N8C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WVN1N8C?tag=workcocoon-20",
     whyItWorks:
       "3-sided ultra-slim frame creates a near-borderless appearance on three sides; placed next to a second monitor or at the edge of a desk it takes up minimal visual space; AOC is one of the most recognized budget monitor brands in the US with build quality and support above no-name alternatives; IPS color accuracy with LowBlue Mode and flicker-free for extended study sessions; VESA 100x100mm; standard HDMI plus VGA connectivity.",
     tradeoffs: [
@@ -276,7 +276,7 @@ export const products: BudgetMonitor[] = [
     brightnessNits: 250,
     speakers: true,
     imageUrl: `${BASE}/sceptre-e248w-19203r-budget-monitor.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0773ZY26F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0773ZY26F?tag=workcocoon-20",
     whyItWorks:
       "Built-in 2x2W speakers eliminate the need for a separate speaker purchase in a dorm room where desk space is limited; most monitors under $100 either have no speakers or speakers too underpowered to be useful; the E248W speakers are functional for YouTube, online classes, and casual listening; two HDMI ports allow connecting laptop and gaming console simultaneously without a KVM switch; 99% sRGB on IPS; clean flat design with matte anti-glare finish.",
     tradeoffs: [

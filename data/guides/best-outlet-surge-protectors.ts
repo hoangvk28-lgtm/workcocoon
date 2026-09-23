@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 3,103 Amazon ratings",
     reviews: "3,103 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21HaugNcqfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F83KL8LV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F83KL8LV?tag=workcocoon-20",
     description:
       "A genuine plug-in outlet extender with 6 outlets, 1800 joules of surge protection, and 4 USB ports including 2 USB-C. Solid rating base for a splitter-style outlet extender.\\n\\nThis is a plug-in strip, not an in-wall receptacle-level or whole-panel-level surge protection device, understand which category this guide's picks actually belong to before assuming broader coverage.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Power Strip.\n\nWorth knowing before you decide: 6 outlets plus 4 USB ports (2 USB-C). On the other side, Plug-in strip only, not a whole-circuit or panel-level protection device. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["6-outlet splitter, 1800 joules","4 USB ports (2 USB-C)","Multi plug wall outlet design","Solid rating base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "12 outlets and 2700 joules with a large, well-established review base, genuine capacity for many devices sharing outlets from one plug-in strip. ETL listed.\\n\\nAgain, this is a plug-in strip, if you're specifically looking for a hardwired in-wall or whole-panel solution, that's a distinct product requiring professional installation.\n\nSet against the Addtam Surge Protector Outlet Extender, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 12 outlets with genuine surge protection. On the other side, Plug-in strip only, not whole-circuit protection. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 67,972 Amazon ratings",
     reviews: "67,972 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41w1NL7yU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B092J8LPWR?tag=workcocoon-20",
     description:
       "The largest review base of any pick in this guide, genuine real-world evidence of reliable outlet surge protection at an affordable price. Braided cord for durability.\\n\\nAppropriate for a basic outlet-count sizing question, how many outlets do you actually need, rather than a technical deep-dive into surge specs.\n\nRelative to the Power Strip, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: Genuine surge protection at an affordable price. On the other side, Fewer outlets than the higher-capacity picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["1080 joules surge protection","Braided 5ft cord","Largest review base in this guide","Budget-friendly"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 2,685 Amazon ratings",
     reviews: "2,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31+9526RvLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXPRK65X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXPRK65X?tag=workcocoon-20",
     description:
       "8 AC outlets with a genuine 2000 joule rating from an established Anker brand, real confidence for outlet extension with meaningful surge protection. 20W output.\\n\\nEstablished brand reputation gives real confidence in this plug-in extender's build quality and protection specs.\n\nCompared with the HANYCONY Surge Protector Power Strip above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: Genuine 2000 joule surge protection. On the other side, Fewer outlets than the 12-outlet alternatives. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["8 AC outlets, 2000 joules","Established Anker brand","20W output","5ft cord"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 535 Amazon ratings",
     reviews: "535 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3148JhvbR6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=workcocoon-20",
     description:
       "4000 joules, the highest genuinely disclosed rating in this guide, real headroom alongside 12 outlets for a demanding equipment combination. 8ft cord for placement flexibility.\\n\\nSmaller review base than the more established picks, but a strong early rating and Amazon Basics' general reliability track record.\n\nSet against the Anker Power Strip with 2000J Surge Protector, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Longer 8ft cord for placement flexibility. On the other side, Smaller review base than other picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4000 joules","8ft cord","Rectangle form factor","Amazon Basics brand"],

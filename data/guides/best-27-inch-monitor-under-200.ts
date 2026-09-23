@@ -44,7 +44,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "16.7M colors",
     connectivity: "2x DP 1.4 + 2x HDMI 2.0, frameless bezel",
     imageUrl: "https://m.media-amazon.com/images/I/51kPtvk-yML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BW47KFXB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BW47KFXB?tag=workcocoon-20",
     whyItWorks:
       "The Z-Edge UG27Q is the only curved panel in this guide, and the 1500R curvature is noticeably more immersive for gaming at close desk distances than the flat panels above. Dual DisplayPort 1.4 inputs let you connect two systems at full 1440p without switching cables, matching the KTC's dual-DP setup. At ~$170, it undercuts the MSI G274QPF-QD while staying in 1440p/165Hz territory.",
     tradeoffs: [
@@ -80,7 +80,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "Standard sRGB business panel",
     connectivity: "USB 3.0 upstream + DisplayPort + HDMI + power cable included",
     imageUrl: "https://m.media-amazon.com/images/I/51Tkv1Zqv-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GKHJRLLS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GKHJRLLS?tag=workcocoon-20",
     whyItWorks:
       "At ~$260, the Dell Pro P2725H Plus is priced above this guide's under-$200 budget ceiling, and we are including it here as an honest premium alternative rather than pretending it fits the budget theme. Its case for inclusion is Dell's business-tier build quality and connectivity: USB 3.0 upstream and a full cable bundle (DisplayPort, HDMI, power) included in the box, which several budget picks above do not provide.",
     tradeoffs: [
@@ -115,7 +115,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "95% DCI-P3",
     connectivity: "USB-C + DP 1.4 + 2x HDMI + height adj stand",
     imageUrl: `${BASE_IMAGES}/monitor-best-27-inch-monitor-under-200-msi-g274qpf-qd.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BX1YCQTH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BX1YCQTH?tag=workcocoon-20",
     whyItWorks:
       "Quantum Dot panel with 95% DCI-P3 color coverage typically costs $300+ at this size. USB-C single-cable connection for MacBook users provides display and up to 65W charging simultaneously. Height-adjustable stand is rare at this price - most budget monitors have tilt-only stands. FreeSync Premium and G-Sync Compatible certification covers both AMD and NVIDIA GPU owners.",
     tradeoffs: [
@@ -151,7 +151,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "95% DCI-P3",
     connectivity: "1x DP 1.2 + 2x HDMI 2.0, tilt-only stand",
     imageUrl: `${BASE_IMAGES}/monitor-best-27-inch-monitor-under-200-acer-nitro-vg271u-m3.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C4Z8RFY9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4Z8RFY9?tag=workcocoon-20",
     whyItWorks:
       "0.5ms GTG response time is the fastest in this guide, relevant for competitive gaming. 95% DCI-P3 matches the MSI G274QPF-QD at $20-30 less. 180Hz requires DisplayPort - HDMI caps at 144Hz, a detail worth knowing before purchasing. Best pure-value 1440p gaming monitor at this price tier.",
     tradeoffs: [
@@ -189,7 +189,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "130% sRGB",
     connectivity: "2x HDMI 2.0 + 2x DP 1.4, height adjustable + pivot stand, speakers",
     imageUrl: `${BASE_IMAGES}/monitor-best-27-inch-monitor-under-200-ktc-h27t22c-3.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F7PRGR2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F7PRGR2H?tag=workcocoon-20",
     whyItWorks:
       "210Hz (overclocked) is the highest refresh rate in this guide. Dual DisplayPort 1.4 inputs are exceptional at any price - allows connecting two PCs at full 1440p 200Hz simultaneously without switching cables. Height-adjustable stand with pivot (portrait mode rotation). Shielding hood included - a $25-40 add-on on other setups.",
     tradeoffs: [
@@ -225,7 +225,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "99% sRGB",
     connectivity: "2x HDMI + 1x VGA, tilt-only, Reader Mode + OnScreen Control",
     imageUrl: `${BASE_IMAGES}/monitor-best-27-inch-monitor-under-200-msi-g274qpf-qd.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CSQK1D2W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSQK1D2W?tag=workcocoon-20",
     whyItWorks:
       "99% sRGB color coverage is accurate for document work and web content. LG's Reader Mode reduces blue light for long work sessions. OnScreen Control software lets you split the screen into zones without additional software. At $120-150, it provides LG's reliability and productivity-focused feature set for strictly office use. Note: 1080p at 27 inches is 82 pixels per inch vs 109 PPI on 1440p - text sharpness difference is visible at normal viewing distance.",
     tradeoffs: [
@@ -263,7 +263,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "99% sRGB",
     connectivity: "2x HDMI + 1x DisplayPort, tilt-only, FreeSync Premium + G-Sync Compatible",
     imageUrl: `${BASE_IMAGES}/monitor-best-27-inch-monitor-under-200-samsung-odyssey-g30d.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D31Q1BQZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D31Q1BQZ?tag=workcocoon-20",
     whyItWorks:
       "The right choice for gamers with mid-range or older GPUs (GTX 1060 to RTX 2070, RX 580 to RX 6600) where 1440p rendering would limit frame rates below the monitor's refresh. At 1080p, these GPUs can hit 120-165fps in most titles. DisplayPort included - unlike some 1080p monitors at this price. Samsung's established monitor quality at a competitive price point.",
     tradeoffs: [
@@ -299,7 +299,7 @@ export const products: Monitor27Under200[] = [
     colorGamut: "99% sRGB",
     connectivity: "2x HDMI + VGA, tilt-only, Reader Mode + OnScreen Control",
     imageUrl: `${BASE_IMAGES}/monitor-best-27-inch-monitor-under-200-lg-27mp400-b.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B097NXN7RF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B097NXN7RF?tag=workcocoon-20",
     whyItWorks:
       "Cheapest 27-inch IPS monitor in this guide with LG quality and 99% sRGB color accuracy. Reader Mode and OnScreen Control are useful productivity features even at this entry price. The 27MR400-B at $120-150 adds 100Hz vs 75Hz here - worth $20-30 for most users, but the 27MP400-B is the right call for strict budget limits or secondary monitor use.",
     tradeoffs: [

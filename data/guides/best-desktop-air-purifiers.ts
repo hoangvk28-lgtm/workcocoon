@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 4,026 Amazon ratings",
     reviews: "4,026 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41BE3lVftQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DY4S3HP2?tag=workcocoon-20",
     description:
       "A genuinely desktop-scale unit at an affordable price with a solid review base, larger than the ultra-compact tier but still appropriate for direct desktop placement. High efficiency filter.\n\nAt direct breathing-zone proximity, don't place this too close to your face, exhaust recirculation of exhaled breath is a real consideration at this range that whole-room CADR marketing doesn't address.\n\nA genuine advantage here is that affordable price. The tradeoff is that verify placement distance to avoid breath-recirculation concerns.",
     specs: ["Up to 1076 sq ft rated", "Solid review base", "Affordable", "High efficiency filter"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,997 Amazon ratings",
     reviews: "2,997 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Apo3YcVHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9SL7894?tag=workcocoon-20",
     description:
       "A solid review base at an affordable price, genuinely desktop-scale rather than the ultra-compact miniaturized tier, larger CADR could in a small enough room actually contribute to real whole-room air changes.\n\nClose-range noise and airflow-on-skin sensation are more perceptible at this direct breathing-zone proximity than for a room-corner-placed unit, factor this into placement decisions.\n\nAffordable price. That said, close-range noise not independently verified. Neither should be a surprise once you know to look for it.",
     specs: ["Up to 880 sq ft rated", "Solid review base", "Affordable", "Compact design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,517 Amazon ratings",
     reviews: "5,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/414NIpA+xLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B4ZSKPNL?tag=workcocoon-20",
     description:
       "Certified True HEPA H13 filtration in a genuinely portable design with a night light feature, appropriate for direct desktop placement. Solid review base.\n\nA thermal-interaction consideration applies at this close range, warm exhaust air near a nearby monitor or laptop's own ventilation intake, worth verifying isn't an issue for your specific setup.\n\nWorth calling out specifically: portable with a useful night light feature. The catch is verify thermal interaction with nearby electronics' ventilation.",
     specs: ["True HEPA H13 filter", "Night light feature", "Portable, small design", "Solid review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ODC2Uu41L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09GTRVJQM?tag=workcocoon-20",
     description:
       "The largest review base of any desktop-appropriate pick in this guide, genuine evidence of reliable performance. Compact, affordable.\n\nA smaller unit than the true desktop-tier picks in this guide, closer to the ultra-compact category, clarify which product tier you actually need before choosing based on size alone.\n\nVery affordable. Set against that, smaller than the true desktop tier, closer to ultra-compact. Both matter when comparing it to the other picks here.",
     specs: ["Compact design", "Large review base", "Affordable", "Personal-zone focused"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31e6d46ZnyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=workcocoon-20",
     description:
       "A large review base for a quiet-focused design, genuinely appropriate for direct breathing-zone desktop placement where close-range noise is more perceptible than in a room-corner placement.\n\nQuiet-focused engineering matters more here than for a whole-room unit, since you're sitting right next to it during focused work or calls.\n\nThe standout detail is that quiet-focused design for close breathing-zone placement. Balancing that out, limited whole-room contribution.",
     specs: ["Small, quiet-focused design", "Large review base", "Affordable", "Compact footprint"],

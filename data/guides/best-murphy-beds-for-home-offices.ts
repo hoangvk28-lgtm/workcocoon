@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "2,138 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=workcocoon-20",
     description:
       "This is a vertical hardware kit rather than a finished cabinet, meaning you build the surrounding desk and shelving yourself, which is actually an advantage for a home office since you control the desk depth and can size it for a real monitor arm clamp instead of inheriting a shallow factory surface. Because the desk is custom-built, you can also plan the outlet location before installation instead of discovering after the fact that the cord has nowhere clean to go.\n\nThe tradeoff is that lighting and cable routing are entirely on you, so budget for a clipped task lamp or under-shelf LED strip separately, since the kit includes no fold-down desk light of its own. For anyone comfortable with basic carpentry who wants full control over the desk-side details, this kit gives the most flexibility of anything on this list.\n\nLets you plan outlet placement before install. That's a real strength, but weigh it against the flip side: no built-in desk lighting, budget for it separately.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "1,610 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51h1vyv6ZdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=workcocoon-20",
     description:
       "At a competitive price, this is the lowest cost way onto this list, another vertical hardware kit that leaves the desk and lighting entirely up to your own build. Like the Create-A-Bed kit, that means you can size the desk surface deep enough for a clamp-mount monitor arm rather than settling for the 18 to 22 inch shallow desks common on finished cabinet beds. Three step-by-step guides are included to help with the build, but this is still a DIY project, not a delivered piece of furniture, and the desk side will need a separate task lamp since fold-down desks rarely get enough light from an overhead fixture once you're seated facing away from it. Plan your outlet and cable routing before you start building, since retrofitting an outlet after the cabinet is finished is far more work. Worth calling out specifically: custom desk depth for monitor arm compatibility. The catch is no desk lighting or acoustic features included.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "19 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51JtI3bjGFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=workcocoon-20",
     description:
       "The Yoobure ships as a finished cabinet with a built-in charging station and storage drawers, which is convenient for a shared living room or studio setup where the bed side needs to look presentable when closed. Its rattan cabinet front also has more sound-dampening mass than a bare particleboard panel, a small but real benefit if you take calls on the desk side while someone else is in the room.\n\nThe desk surface is shallow like most finished cabinet murphy beds, so a heavy clamp-mount monitor arm is not a safe bet here without adding under-desk reinforcement. This is a newer listing with a small review count, so weigh the low review volume against the fit for your specific room before buying.\n\nCharging station built into the frame. Set against that, shallow desk surface, avoid heavy clamp-mount monitor arms. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "396 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Og-FctXuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=workcocoon-20",
     description:
       "AMERLIFE pairs a full-size murphy bed with side storage and a charging station, useful for keeping desk accessories and cables organized when the bed folds down and the desk area needs to clear quickly. Like most factory cabinet beds, the desk surface is a thin panel not designed to carry the load of a heavy clamp-mount monitor arm, so plan on a lightweight monitor riser instead if you need extra screen height.\n\nAn overhead room light alone tends to leave the desk surface dim once you're facing the wall, so a clip-on task lamp mounted to the cabinet edge is worth adding. The mid-tier build here uses MDF panels rather than solid wood, a reasonable middle ground on durability for the price.\n\nA genuine advantage here is that charging station included. The tradeoff is shallow desk surface, not rated for heavy monitor arms.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "112 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/516I1SJ4lqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DNKM6NRF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DNKM6NRF?tag=workcocoon-20",
     description:
       "This chest-style murphy bed uses a full size mattress rather than queen, which keeps the overall cabinet narrower and easier to fit a desk beside in a smaller room. A single drawer and charging station are built in, and the light rustic white finish reflects more ambient room light back toward the desk than a dark cabinet front would, a small but real help with desk visibility.\n\nBudget-tier particleboard construction is used here rather than MDF or solid wood, which keeps the price down but means the cabinet is more prone to wear at the drawer runners and hinges over years of daily folding. Add a clipped task lamp for real desk lighting, since the built-in fixtures on this tier are minimal to none.\n\nLighter finish helps desk-side visibility. That's a real strength, but weigh it against the flip side: budget particleboard build wears faster over years of daily use.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4 stars",
     reviews: "141 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51XE-SiCWBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=workcocoon-20",
     description:
       "This is the only bed on this list with built-in LED lighting, which directly solves the most common desk-side complaint with murphy bed setups: an overhead room light that leaves the desk surface dim once you're seated facing the closed cabinet. The two LED fixtures mount to the cabinet itself, so they light the work area without needing a separate clamp lamp taking up desk space.\n\nGas struts smooth the fold motion, and the dark brown farmhouse finish gives a finished, presentable look for a shared living space. The desk surface remains shallow like other finished cabinet beds, so keep monitor mounting to a lightweight riser rather than a heavy clamp arm, and this is the highest price on this list, a real premium for the integrated lighting.\n\nWorth calling out specifically: gas struts for smooth, controlled folding. The catch is highest price on this list.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4 stars",
     reviews: "141 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/515sMh7j30L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=workcocoon-20",
     description:
       "The same built-in 2-LED lighting and gas strut mechanism as the brown version above, but in a rustic white finish that reflects more light back onto the desk surface between uses, a genuine small advantage for desk visibility in a room without much natural light. It also undercuts the brown finish by a moderate amount while keeping the same lighting feature. The desk surface is still the same shallow factory panel common to finished cabinet beds, so plan on a lightweight monitor riser rather than a heavy clamp-mount arm. If acoustic privacy for calls matters in your shared space, consider adding a wall panel near the desk, since the closed cabinet itself does not meaningfully block sound between rooms. Lighter finish improves desk-side visibility. Set against that, shallow desk surface, not rated for heavy monitor arms. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4 stars",
     reviews: "120 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51iWQRI54lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F13Q522K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F13Q522K?tag=workcocoon-20",
     description:
       "The twin size cabinet is the narrowest finished murphy bed on this list, which leaves more usable floor width beside the desk in a genuinely small home office or dorm-style room. A charging station and single drawer are included, and the white finish helps desk-side visibility the way the lighter Hlivelood option does.\n\nAs with the other finished cabinet beds, the desk panel is shallow and not built for a heavy clamp-mount monitor arm, and there is no built-in lighting or acoustic feature, so budget for a clip-on task lamp separately. For a single-occupant small office where floor width is the tightest constraint, the twin footprint is the main reason to choose this over the queen options above.\n\nA genuine advantage here is that charging station included. The tradeoff is no built-in desk lighting.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "22",
     imageUrl: "https://m.media-amazon.com/images/I/41AwVl4-0IL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSZMWPW2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSZMWPW2?tag=workcocoon-20",
     description:
       "This is the clearest genuine match for this exact combination, purpose-built as an under-desk file organizer rather than a general small-item drawer. Its small review count means less proven long-term reliability, so verify the attachment feels secure under a realistically loaded weight before trusting it with important documents.",
     specs: ["Under-desk attachment, no drilling", "File-specific organizer", "Compact profile", "Lowest price here"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "75",
     imageUrl: "https://m.media-amazon.com/images/I/61-H71DCbEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJDS9JZ8?tag=workcocoon-20",
     description:
       "While not exclusively a file organizer, this mesh drawer's higher rating and moderate review count make it a genuinely reasonable alternative if your storage needs mix documents with general small supplies rather than files exclusively.",
     specs: ["Clamp-on, no drilling", "Mesh metal drawer construction", "Mixed file and supply storage", "Under-desk mount"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "896",
     imageUrl: "https://m.media-amazon.com/images/I/51YpYvY4LwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BR4K8HCZ?tag=workcocoon-20",
     description:
       "This clamp-on organizer's two separate drawers let you dedicate one specifically to files and the other to general supplies, a genuine organizational advantage for this combined under-desk file use case. Its higher review count gives more real-world confidence.",
     specs: ["Clamp-on, no drilling", "2 separate slide-out drawers", "Mesh metal construction", "Strongest review count in this comparison"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "84",
     imageUrl: "https://m.media-amazon.com/images/I/41bOrkyWZDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRMF31RD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRMF31RD?tag=workcocoon-20",
     description:
       "Honesty note: this is a freestanding rolling cart, not a genuine hanging clamp organizer, positioned under or beside your desk rather than attached to its underside. Its 3 drawers with DIY dividers offer substantially more file capacity if your document volume exceeds what a clamp-on drawer holds.",
     specs: ["Freestanding rolling cart, not clamp-on", "3 storage drawers", "DIY customizable dividers", "Casters for mobility"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "179",
     imageUrl: "https://m.media-amazon.com/images/I/51I+7AXxLjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F21QLBYM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F21QLBYM?tag=workcocoon-20",
     description:
       "Also a freestanding rolling cabinet rather than a clamp-on under-desk organizer, this vertical design's adjustable dividers offer a more customizable layout than the fixed-drawer rolling cart, worth considering if you want to tailor compartment sizes to specific folder types.",
     specs: ["Freestanding rolling cabinet, not clamp-on", "Adjustable dividers", "Vertical filing design", "Casters for mobility"],

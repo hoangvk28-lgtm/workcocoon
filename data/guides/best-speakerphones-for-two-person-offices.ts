@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,837 Amazon ratings",
     reviews: "1,837 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41W4B0kTNoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FJ7LWX4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FJ7LWX4?tag=workcocoon-20",
     description:
       "Explicitly marketed for home office use, genuinely right-sized for a two-person space rather than a full conference room, no need to pay for a 6-mic design when both people sit within a few feet of the device. Simple USB plug-and-play setup with no configuration needed.\n\nSolid, well-established review base from Anker, a brand with a strong general track record in this category.\n\nSimple USB plug-and-play setup. Set against that, not designed for a larger table or room. Both matter when comparing it to the other picks here.",
     specs: ["USB plug-and-play, home office focused", "Compact single-device design", "No configuration needed", "Anker build quality"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 435 Amazon ratings",
     reviews: "435 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Iv2SVmQfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09WWYKP42?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09WWYKP42?tag=workcocoon-20",
     description:
       "A genuinely simple, affordable USB plug-and-play design, more than adequate for two people talking at close range to a video call. 360° pickup easily covers a small shared desk without needing a larger conference-room mic array.\n\nSolid rating base for the price, a sensible choice if you don't want to overspend on conference-room features you won't use.\n\nA genuine advantage here is that solid rating base for the price. The tradeoff is no specific platform certification.",
     specs: ["USB plug-and-play, 360° voice pickup", "Built-in microphones", "Compact design", "Budget-friendly"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,596 Amazon ratings",
     reviews: "1,596 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51zfICZQrEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVZLS5GZ?tag=workcocoon-20",
     description:
       "4 mics offer a bit more headroom than a single-mic design, useful if your two-person office is a bit larger or the desks are spaced further apart than a truly compact shared space. Still well below the cost of a full 6-mic conference-room unit.\n\nSolid review base for the price, a reasonable middle ground between the most compact picks and full conference-room designs.\n\nStill well below conference-room pricing. On the other hand, more mics than a truly compact two-person space needs. Neither should be a surprise once you know to look for it.",
     specs: ["4 mics, 360° voice pickup", "USB and Bluetooth connectivity", "Compact design", "Budget-friendly"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 164 Amazon ratings",
     reviews: "164 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413BTmTk1LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC3XV5DK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC3XV5DK?tag=workcocoon-20",
     description:
       "The highest rating of any pick in this guide, genuinely portable design that's easy to move between two people's desks or hand off during a call, a real practical advantage a shared small office has over a fixed conference room setup.\n\nModest review count as a newer release, but the strong rating and Jabra's established reputation make this a solid portable option.\n\nGenuinely portable, easy to hand off between desks. That's a real strength, but weigh it against the flip side: modest review count as a newer release.",
     specs: ["Portable USB Bluetooth speaker, 2025 edition", "Background noise reduction", "Compact, travel-friendly", "USB and Bluetooth connectivity"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 127 Amazon ratings",
     reviews: "127 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31E89kCEPNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F28HTJP3?tag=workcocoon-20",
     description:
       "AI noise cancellation and full-duplex audio at a genuinely affordable price, more capability than a two-person office strictly needs, but a solid value pick if you want the extra call-clarity features without paying for a full conference-room design.\n\n20H call time is more relevant to portable use than fixed desk use, a nice-to-have rather than essential for this use case.\n\nWorth calling out specifically: more capability than strictly needed, genuine value. The catch is 13ft pickup radius is overkill for a two-person space.",
     specs: ["AI noise cancellation, full-duplex", "13ft pickup radius, more than a two-person office needs", "20H call time, Bluetooth 5.3", "Budget-friendly"],

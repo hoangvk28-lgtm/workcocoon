@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41hpKXhqKnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H1VFKC84?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H1VFKC84?tag=workcocoon-20",
     description:
       "A genuinely massive 32:9 super-ultrawide panel, appropriate for buyers wanting the equivalent of two side-by-side QHD monitors without a bezel gap in between.\n\nPlan for window-snapping software to make the most of this extreme aspect ratio, default OS window management often isn't sufficient for a panel this wide.\n\nWorth calling out specifically: hDR400 support for richer contrast. The catch is requires substantial desk depth and width.",
     specs: ["49-inch super-ultrawide panel", "5120x1440 Dual QHD, 32:9 aspect ratio", "HDR400 support", "USB-C connectivity"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=workcocoon-20",
     description:
       "A standard 21:9 ultrawide format that most modern software handles gracefully, a safer choice than a 32:9 super-ultrawide for buyers concerned about app compatibility.\n\nExplicit eye comfort features and a 120Hz refresh rate round out a strong productivity-focused ultrawide.\n\nExplicit eye comfort features for long sessions. Set against that, less extreme workspace than a 32:9 super-ultrawide. Both matter when comparing it to the other picks here.",
     specs: ["34-inch curved 21:9 ultrawide WQHD panel", "120Hz refresh rate", "FreeSync Premium", "Explicit eye comfort features"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41TB04lWCrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR3YBSL4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR3YBSL4?tag=workcocoon-20",
     description:
       "A genuinely high 180Hz refresh rate on a standard 21:9 ultrawide, appropriate for buyers wanting both expansive workspace and smooth motion for gaming.\n\nA tight 1000R curve pairs well with the ultrawide format for a more immersive feel at typical desk viewing distances.\n\nThe standout detail is that standard 21:9 aspect ratio for broad software compatibility. Balancing that out, verify USB-C power delivery wattage against your laptop.",
     specs: ["34-inch curved 21:9 ultrawide UWQHD panel", "180Hz refresh rate", "1000R curve radius", "USB-C connectivity"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51jbyzHVvdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLT79X2G?tag=workcocoon-20",
     description:
       "A premium 34-inch ultrawide from Samsung's Viewfinity line, HDR10 support adds genuine contrast benefit for both productivity and media consumption on the wide canvas.\n\nSamsung's panel quality and reliability make this a strong pick for buyers wanting a premium ultrawide experience.\n\nSamsung panel quality and reliability. That's a real strength, but weigh it against the flip side: premium price relative to the Pixio alternative.",
     specs: ["34-inch curved 21:9 ultrawide QHD panel", "100Hz refresh rate", "HDR10 support", "USB-C connectivity"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/518zREWknqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB8HLNPN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DB8HLNPN?tag=workcocoon-20",
     description:
       "A more budget-friendly, standard-width curved monitor for buyers wanting to test whether a wider or curved format suits their workflow before committing to a true ultrawide.\n\nNote this is not a true ultrawide aspect ratio, it's a starting point for buyers unsure if they'll benefit from the extra width.\n\n120Hz refresh rate for smoother motion. On the other hand, not a true ultrawide aspect ratio, verify this matches your expectations. Both are worth keeping in mind before deciding.",
     specs: ["27-inch curved panel, standard aspect ratio", "120Hz refresh rate", "USB Type-C connectivity", "Budget-friendly price"],

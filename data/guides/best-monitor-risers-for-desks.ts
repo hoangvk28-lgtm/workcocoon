@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "15,803 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VzBQ+jwWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B094QTGHNZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B094QTGHNZ?tag=workcocoon-20",
     description:
       "For buyers who specifically want continuous height adjustment Built with a metal platform rated to 44 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nThe adjustable range makes eye-level fine-tuning realistic rather than locked to a few fixed steps. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. Set against that, rated capacity assumes evenly distributed weight, not a single point load. Both matter when comparing it to the other picks here.",
     specs: ["44 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $14.99", "15,803 ratings on Amazon"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from Amazon ratings",
     reviews: "15,385 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kQEYuq+KL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B073VKC134?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B073VKC134?tag=workcocoon-20",
     description:
       "For buyers who want a simple riser without paying for storage they won't use Built with a metal platform rated to 44 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nThe vented platform helps with heat while keeping the riser-versus-shelf distinction honest. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nA genuine advantage here is that metal build appropriate for this use case. The tradeoff is rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["44 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $15.99", "15,385 ratings on Amazon"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "2,320 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51VaGQY7KwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B095RLRP2L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B095RLRP2L?tag=workcocoon-20",
     description:
       "For buyers who want adjustable height plus a small drawer, not a pure lift-only riser Built with a metal platform rated to 33 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nWorth knowing this is a hybrid before buying it expecting a bare riser. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nMetal build appropriate for this use case. On the other hand, rated capacity assumes evenly distributed weight, not a single point load. Neither should be a surprise once you know to look for it.",
     specs: ["33 lbs rated capacity (evenly distributed)", "metal construction", "Priced at $16.99", "2,320 ratings on Amazon"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "3,082 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51iOtKHzvCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB8F7GDN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DB8F7GDN?tag=workcocoon-20",
     description:
       "For buyers who actually want shelf-level storage under a 'riser' search term Built with a wood and metal platform rated to 44 lbs under evenly distributed weight, this pick suits buyers focused on that specific need rather than a generic all-purpose shelf.\n\nIt functions more like a shelf than a pure riser, useful to know before comparing it against bare lift platforms. As with any shelf in this weight class, a single heavy item centered on the platform concentrates more stress than the rating reflects, so keep that margin in mind.\n\nWood and metal build appropriate for this use case. That's a real strength, but weigh it against the flip side: rated capacity assumes evenly distributed weight, not a single point load.",
     specs: ["44 lbs rated capacity (evenly distributed)", "wood and metal construction", "Priced at $19.99", "3,082 ratings on Amazon"],

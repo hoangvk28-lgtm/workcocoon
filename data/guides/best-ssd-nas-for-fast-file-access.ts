@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31vNev8kUwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22JRHZB?tag=workcocoon-20",
     description:
       "The DXP4800 Plus pairs 4 diskless bays with a 5-core Intel Pentium Gold CPU, giving it enough processing headroom to actually take advantage of SSDs installed across all 4 bays rather than bottlenecking on CPU before the drives do. This distinction matters because an underpowered NAS CPU can cap real-world throughput well below what the SSDs themselves are capable of.\n\nFilling all 4 bays with SATA or NVMe SSDs turns this into true all-SSD primary storage, fast for every workload type including large sequential transfers, not just the random small-file access that an NVMe cache accelerates. Budget for 4 SSDs on top of the enclosure price to reach that configuration.\n\n4 bays support genuine all-SSD primary storage. That's a real strength, but weigh it against the flip side: highest total cost once 4 SSDs are added.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31D1tw1HTNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G1C1YNN8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G1C1YNN8?tag=workcocoon-20",
     description:
       "The DXP4800 Pro steps above the Plus model with additional CPU and memory headroom aimed at buyers pushing this NAS harder, VM hosting, database services, or acting as a Plex metadata store where fast random access genuinely matters. Four bays again allow either a mixed HDD-plus-NVMe-cache setup or full all-SSD storage depending on budget.\n\nThis tier of NAS is worth the premium specifically for workloads that benefit from consistently fast random access, running multiple simultaneous users or services, home media streaming and simple backup destinations don't need this much horsepower.\n\nWorth calling out specifically: flexible to configure as cache-accelerated or full SSD. The catch is priced above the standard DXP4800 Plus.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ccz6M7cCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D22HBFK1?tag=workcocoon-20",
     description:
       "The DXP2800's 2 bays can be configured as a pair of SSDs in RAID 1 for fast, mirrored access to active project files, a common setup for content creators editing photo or video files off the NAS directly rather than copying them locally first. Two bays keep the cost of an all-SSD build lower than a 4-bay equivalent.\n\nFor small file access and active editing work, 2 SSDs in RAID 1 deliver a meaningful speed jump over spinning HDDs without the cost of a 4-bay all-SSD array, though total capacity is naturally lower with only 2 bays to fill.\n\nFast direct-from-NAS editing for active project files. Set against that, lower total capacity ceiling than 4-bay options. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21VvdqtKHoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRNBVTJK?tag=workcocoon-20",
     description:
       "The Synology DS223 is a more budget-oriented 2-bay diskless enclosure running Synology's DSM software, well suited to a home office that wants faster file access without the cost of a full all-SSD 4-bay build. Its 2 bays can run SATA SSDs for a genuine speed upgrade over an HDD-only setup at a lower entry price than the DXP2800.\n\nFor buyers whose primary need is centralizing files with reasonably fast access rather than running VMs or databases, this is a sensible middle ground between raw speed and total cost, especially paired with SSDs sized for actual working-file capacity rather than bulk archival storage.\n\nA genuine advantage here is that synology DSM's mature, well-supported software. The tradeoff is less CPU headroom than the higher-tier DXP or DS925+ units.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31xSdRsBUEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8S7SF4B?tag=workcocoon-20",
     description:
       "The DS925+ supports a hybrid configuration where some bays run traditional HDDs for bulk capacity while others run SSDs, or where an NVMe cache accelerates the whole array's random access speed. This flexibility matters because NVMe cache accelerates small file and random access noticeably but does little for large sequential transfers, an important distinction when deciding whether to cache or go full SSD.\n\nFor most home offices, HDD main storage with an NVMe cache captures much of the practical speed benefit of an all-SSD build at a fraction of the total cost, making the DS925+'s hybrid support genuinely useful rather than a compromise.\n\nNVMe cache option captures much of the speed benefit cheaply. That's a real strength, but weigh it against the flip side: highest sticker price among 4-bay picks in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FTFSGBB1?tag=workcocoon-20",
     description:
       "Asustor's Drivestor 2 Gen 2 pairs a quad-core CPU and 2.5GbE networking with a genuinely entry-level price, making it the lowest-cost path into SSD-accelerated file access in this list. 2.5GbE matters here because a Gigabit Ethernet connection alone can bottleneck SSD speed before the drives themselves become the limit.\n\nIts 1GB DDR4 memory keeps it positioned for simpler file serving and light media use rather than heavy virtualization, which fits its billing as an entry-level personal cloud, buyers wanting VM hosting or database workloads should look toward the higher-tier picks in this list instead.\n\nWorth calling out specifically: 2.5GbE avoids network-side bottlenecking of SSD speed. The catch is 1GB memory limits heavier virtualization or database use.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GmtgzH11L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GHR83DX5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GHR83DX5?tag=workcocoon-20",
     description:
       "The Beelink ME Pro takes a different form factor entirely, a mini PC with an Intel N95 CPU, 12GB LPDDR5 memory, and a 128GB M.2 PCIe SSD built in, plus 2 traditional hard drive bays and 3 total M.2 SSD slots for expansion. This makes it uniquely suited to an all-NVMe or hybrid NVMe-plus-HDD configuration in a smaller footprint than the tower-style 4-bay enclosures.\n\nSince SSDs generate minimal heat and no vibration compared to spinning HDDs, this kind of compact, largely fanless-capable design becomes more practical with an NVMe-heavy configuration, useful if the NAS needs to sit somewhere quiet or space-constrained like a shared home office desk.\n\n3 M.2 SSD slots support a heavily NVMe-oriented build. Set against that, fewer traditional hard drive bays than dedicated 4-bay NAS units. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNWHSPXF?tag=workcocoon-20",
     description:
       "The DH2300 rounds out this list as the most basic 2-bay diskless option, supporting up to 64TB total once you install your own drives, SSD or HDD. It's a reasonable starting point for buyers who want the option to install SSDs for faster file access later without committing to a higher-tier CPU they may not need.\n\nAs with every diskless enclosure here, check whether the CPU can actually keep pace with SSD speeds before assuming an upgrade will deliver its full theoretical benefit, an underpowered NAS CPU is often the real bottleneck once HDDs are swapped for SSDs.\n\nA genuine advantage here is that flexible to install SSDs now or later. The tradeoff is cPU headroom may bottleneck true SSD-speed throughput.",
     specs: [

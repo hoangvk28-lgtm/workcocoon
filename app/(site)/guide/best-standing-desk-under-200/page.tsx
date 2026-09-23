@@ -793,7 +793,7 @@ export default async function BestStandingDeskUnder200Page() {
             for home office and small spaces.
           </p>
           <a
-            href="https://www.amazon.com/s?k=electric+standing+desk+under+200&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=electric+standing+desk+under+200&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

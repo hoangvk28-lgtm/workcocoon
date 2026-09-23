@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 18 Amazon ratings",
     reviews: "18 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41TOe+QiX0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYQLX52Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GYQLX52Z?tag=workcocoon-20",
     description:
       "This is the clearest genuine combo in this list, pairing a two-drawer file cabinet for A4 hanging files with three tiers of true open shelving stacked above it, plus a built-in power outlet for charging devices at desk height. At 72 inches tall, it is also the most top-heavy unit here, so anchoring it to the wall before loading the shelves is not optional.\n\nWith only 18 ratings, its feedback history is thin compared to other picks in this list, worth weighing against the fact that it is also the only unit offering three full shelf tiers rather than one or two. Filing capacity is limited to two drawers, a real trade-off against the four-drawer dedicated cabinets in other WorkCocoon guides.\n\nBuilt-in power outlet is a rare added feature. That said, small review base at only 18 ratings. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 214 Amazon ratings",
     reviews: "214 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41JQBAeHeUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CP4YY751?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CP4YY751?tag=workcocoon-20",
     description:
       "SISESOL's listing explicitly calls out open storage shelves as an organizer feature alongside its two locking drawers, a genuine shelf-plus-filing layout rather than a single internal cubby. It fits legal, letter, and A4 files in its drawer section, and the open shelf portion suits books, binders, or supplies you want visible and within reach.\n\nAt 4.4 stars across 214 ratings, it has a smaller but solidly positive review base. As with any open shelf design, check the stated per-shelf weight limit against a full run of hardcover books before loading it, since open shelves in this price range commonly cap out between 25 and 50 pounds.\n\nWorth calling out specifically: legal, letter, and A4 drawer compatibility. The catch is per-shelf load capacity not stated in the listing.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 176 Amazon ratings",
     reviews: "176 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LU4-PDQJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTH9XM7F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTH9XM7F?tag=workcocoon-20",
     description:
       "Honesty check: this listing describes a single adjustable storage shelf, not multi-tier open bookshelving, so treat it as a filing cabinet with one flexible internal shelf rather than a genuine bookshelf combo like the NORTHSKY or SISESOL picks above. It fits letter, legal, and A4 hanging files and uses a farmhouse-style wood finish that suits a more decorative home office.\n\nAt 4.0 stars across 176 ratings, feedback is moderate. Wood-finish combo units like this are also worth checking against humidity exposure, since a wood or wood-composite body can warp or swell over time in damp conditions in a way a steel cabinet will not.\n\nFarmhouse wood finish suits decorative home offices. Set against that, only one internal shelf, not multi-tier open shelving. Both matter when comparing it to the other picks here.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 2,071 Amazon ratings",
     reviews: "2,071 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31cx80Jq7-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0832D9S62?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0832D9S62?tag=workcocoon-20",
     description:
       "Honesty check: this listing also describes a single adjustable shelf rather than multi-tier open bookshelving, so it is included here as a high-capacity filing option with modest added shelf storage, not a dedicated bookshelf combo. Its five drawers give it the most filing capacity in this entire list, a real advantage if books were never the priority and extra storage volume was.\n\nAt 4.4 stars across 2,071 ratings, it has the strongest feedback record here by a wide margin. Wheels make it repositionable, and the flat top doubles as a printer stand, though buyers wanting genuine open shelving for a visible book collection should look to the NORTHSKY or SISESOL picks instead.\n\nThe standout detail is that strongest review base at 2,071 ratings. Balancing that out, only one adjustable shelf, not genuine open bookshelving.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,671 Amazon ratings",
     reviews: "1,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31fVDAPJeCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN96T9J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN96T9J?tag=workcocoon-20",
     description:
       "Honesty check: this listing does not mention any open shelving or bookshelf feature, so it is included here as a filing-forward alternative for buyers who decide the shelf trade-off in the combo units above is not worth the reduced drawer count. Its four lateral drawers fit letter, legal, and A4 hanging files and give considerably more filing capacity than any of the genuine combo picks in this list.\n\nAt 4.2 stars across 1,671 ratings, feedback is solid. If books were a secondary want rather than a real need, a dedicated stand-alone bookshelf paired with this cabinet may serve both purposes better than a combo unit that compromises on both fronts.\n\nSolid 4.2-star rating across 1,671 reviews. That's a real strength, but weigh it against the flip side: no open shelving or bookshelf feature at all.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 2,444 Amazon ratings",
     reviews: "2,444 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51vzgnkbcjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=workcocoon-20",
     description:
       "Honesty check: like the pick above, this listing does not mention any shelving feature, so it is the budget filing-only alternative in this list rather than a combo unit. Its three lateral drawers and mobile casters carry the largest review base here at 2,444 ratings, a strong signal of reliability for buyers whose real priority is filing capacity over shelf display space. It is the most affordable pick in this guide. If a bookshelf feature turns out to be a nice-to-have rather than a requirement once you weigh the reduced filing capacity of the genuine combo units above, this is a reasonable standalone filing option to pair with separate shelving. Most affordable pick in this guide. On the other hand, no shelving or bookshelf feature. Both are worth keeping in mind before deciding.",
     specs: [

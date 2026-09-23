@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "This is the only genuine color laser printer in this roundup, with a full all-in-one set of scanner, copier, fax, and auto document feeder built around a 35 ppm engine and a 3-year limited warranty. Toner fuses to the page instead of soaking in like ink, so text and line graphics come out sharp and don't feather on plain paper.\n\nThe tradeoff is the price and footprint: four toner drums push the upfront cost well above every inkjet on this list, and color laser bodies run physically larger than mono laser or inkjet printers. It's the right call for a home office that prints color charts, letterhead, or graphics at real volume and wants toner that never dries out sitting idle.\n\nFast 35 ppm rated speed. That's a real strength, but weigh it against the flip side: highest upfront price in this list by a wide margin.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FC5KYF71?tag=workcocoon-20",
     description:
       "This is a color ink-tank printer, not a laser, and we're honest about that distinction upfront since its price sits close to the true laser pick above. It refills from bottles instead of cartridges, with up to 3 years of ink included, a large 2.4-inch color touchscreen, and an auto document feeder for multi-page scanning.\n\nFor color photos and graphics, an ink-tank engine like this actually beats color laser on gradients and skin tones, while text stays a step behind laser sharpness. It's a strong pick for a home office that mixes color photo printing with documents and doesn't need laser-grade text volume.\n\nWorth calling out specifically: up to 3 years of included ink lowers running cost. The catch is not a laser, text is slightly softer than the Canon pick.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31C067ZosFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGCCWV6T?tag=workcocoon-20",
     description:
       "This is a standard cartridge color inkjet, included here as a realistic mid-price alternative to the true color laser above rather than a laser itself. The INKvestment cartridge system holds more ink than typical inkjet cartridges, a 1.8-inch color display keeps navigation simple, and a manual feed slot handles envelopes or thicker stock without a second tray.\n\nAt under half the price of the Canon laser, it covers color charts and letterhead for a light-to-moderate home office, though standard cartridges can dry out if the printer sits unused for 2-4 weeks, a maintenance consideration laser buyers don't have.\n\nHigher-capacity cartridges than typical inkjets. Set against that, standard cartridges can dry out during idle periods. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "Another cartridge color inkjet, not a laser, and by far one of the cheapest ways into color home-office printing in this roundup. It covers print, scan, copy, and duplex printing with an auto document feeder, plus a 3-month Instant Ink trial to soften the first few months of cartridge cost.\n\nAt this price it's meant for lighter color printing, occasional charts, forms, or letterhead, not the sustained volume the Canon laser is built for. Buyers should budget for standard-cartridge idle-ink risk and a higher long-term cost per page if volume grows.\n\nA genuine advantage here is that duplex printing and Instant Ink trial included. The tradeoff is not a laser, cost per page rises with volume.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/312N971RNPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGCH2QK2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGCH2QK2?tag=workcocoon-20",
     description:
       "A step up from its J4355DW sibling, this cartridge color inkjet, not a laser, adds a 2.7-inch color touchscreen and a second paper tray, useful for a home office that keeps letterhead loaded separately from plain paper. INKvestment cartridges again mean fewer refills than a typical inkjet.\n\nIt still shares the same idle-ink and cost-per-page tradeoffs as any inkjet against the Canon laser, but the dual-tray setup is a genuinely practical feature for mixed-paper home office printing that none of the other inkjet picks here offer.\n\nLarger touchscreen than the J4355DW. That's a real strength, but weigh it against the flip side: not a laser, text softer than the Canon pick.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "A more affordable ink-tank printer than the ET-4950, and again not a laser despite covering the same color home-office use case. It adds an Ethernet port alongside wireless, useful for a home office that wants a wired network connection instead of relying on Wi-Fi stability, plus scanner, copier, fax, and ADF.\n\nInk-tank refills avoid the idle-ink drying issue that affects standard cartridge inkjets, though its color photo quality, while good, still trails a true color laser's text sharpness for dense charts and small fonts.\n\nWorth calling out specifically: no cartridges, refill from bottles. The catch is not a laser, text softer than the Canon pick.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The lowest price in this entire roundup, and another standard cartridge inkjet rather than a laser. It shares the 8125's ADF and duplex printing, with a 3-month Instant Ink trial tied to HP's subscription enrollment, which can make sense for buyers who plan to stay enrolled but adds a decision to budget for once the trial ends.\n\nAs the cheapest way into this list, it's best suited to light color printing rather than sustained home-office volume, where the Canon laser or an ink-tank pick will cost less per page over a few years.\n\nADF and duplex printing included. Set against that, instant Ink subscription terms need to be tracked after the trial. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/319DqCyLa3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09TRZLPXP?tag=workcocoon-20",
     description:
       "A standard cartridge color inkjet, not a laser, built with photo printing as a stronger focus than the other inkjet picks here, alongside copier, scanner, fax, and an auto document feeder. AirPrint and Alexa compatibility round out a home office that wants voice or mobile printing without extra setup.\n\nIt handles the occasional printed photo alongside documents better than the Canon laser above, which is the honest reason to pick it over a true color laser if photo quality matters more to your workflow than sharp text at volume.\n\nA genuine advantage here is that full all-in-one feature set with fax and ADF. The tradeoff is not a laser, text sharpness trails the Canon MF753Cdw II.",
     specs: [

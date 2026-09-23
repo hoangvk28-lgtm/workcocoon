@@ -43,7 +43,7 @@ export const products: Budget30Headphone[] = [
     battery: "30h total (6h earbuds + 24h case)",
     waterproof: "IPX5",
     imageUrl: `${BASE}/01-soundcore-p20i-earbuds.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BTYCRJSS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BTYCRJSS?tag=workcocoon-20",
     whyItWorks:
       "Active noise cancellation at $20 is genuinely rare; the P20i uses hybrid ANC that reduces ambient noise by a meaningful amount for studying in noisy dorms and blocking out roommates; 10mm dynamic drivers, USB-C charging, Bluetooth 5.3; 30 hours combined battery covers a full week of daily use on one charge; the only pick at this price with real ANC that actually works.",
     tradeoffs: [
@@ -78,7 +78,7 @@ export const products: Budget30Headphone[] = [
     battery: "55h total (6h earbuds + 49h case)",
     waterproof: "IPX8",
     imageUrl: `${BASE}/02-tozo-t10-earbuds.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07J2Z5DBM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07J2Z5DBM?tag=workcocoon-20",
     whyItWorks:
       "IPX8 waterproofing at $25 means fully submersible up to 1 meter; sweat, rain, and accidental water contact are all safe; wireless charging case is exceptionally rare at this price tier; 55 hours combined battery is the highest of any pick in this guide; 32 EQ presets via the TOZO app let you tune the sound signature; for gym use, outdoor commutes, and all-weather reliability, nothing at this price comes close.",
     tradeoffs: [
@@ -109,7 +109,7 @@ export const products: Budget30Headphone[] = [
     battery: "20h total (6h earbuds + 14h case)",
     waterproof: "IPX4",
     imageUrl: `${BASE}/03-skullcandy-dime-3-earbuds.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CFCQVZS6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCQVZS6?tag=workcocoon-20",
     whyItWorks:
       "Best microphone quality of the three earbud picks; voices come through clearly without muffling; multipoint Bluetooth keeps the earbuds connected to laptop and phone simultaneously so you never manually switch when a call comes in; built-in Tile tracking lets you find the case if misplaced; USB-C charging; designed for students who take lots of online classes and Zoom calls.",
     tradeoffs: [
@@ -140,7 +140,7 @@ export const products: Budget30Headphone[] = [
     battery: "N/A",
     waterproof: "N/A",
     imageUrl: `${BASE}/04-koss-kph30i-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B075FBRYM1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B075FBRYM1?tag=workcocoon-20",
     whyItWorks:
       "Audio quality significantly above the $20 price point; uses the same 60-ohm driver architecture as the legendary Koss Porta Pro, producing detail, soundstage width, and midrange clarity that no wireless headphone under $50 can match; open-back design gives natural, spacious sound; at 60g it weighs almost nothing; inline mic and remote included; no battery to charge or die mid-session; the best-sounding pair of headphones for the money in this guide.",
     tradeoffs: [
@@ -171,7 +171,7 @@ export const products: Budget30Headphone[] = [
     battery: "N/A",
     waterproof: "N/A",
     imageUrl: `${BASE}/05-sony-mdr-zx110ap-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00OUX6U6G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00OUX6U6G?tag=workcocoon-20",
     whyItWorks:
       "Sony brand reliability at under $15; meaningful quality control guarantee at a price where most alternatives are no-name units; folds flat for bag storage; inline mic for calls; clear balanced audio adequate for online classes and study sessions; 30mm drivers produce functional sound without any battery or pairing required.",
     tradeoffs: [
@@ -206,7 +206,7 @@ export const products: Budget30Headphone[] = [
     battery: "34h per charge",
     waterproof: "N/A",
     imageUrl: `${BASE}/06-skullcandy-riff-wireless-2-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B75MQJQR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B75MQJQR?tag=workcocoon-20",
     whyItWorks:
       "Best all-day wireless over-ear option at the $30 ceiling; 34 hours per charge covers a full week at 4-hour daily use without recharging; included 3.5mm AUX cable means the headphones still work when battery hits zero; multipoint Bluetooth keeps connection to both laptop and phone simultaneously; plush ear cushions and foldable design make these comfortable for long desk sessions; USB-C charging.",
     tradeoffs: [
@@ -241,7 +241,7 @@ export const products: Budget30Headphone[] = [
     battery: "N/A",
     waterproof: "N/A",
     imageUrl: `${BASE}/07-koss-porta-pro-classic-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00001P4ZH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00001P4ZH?tag=workcocoon-20",
     whyItWorks:
       "Has been in continuous production since 1984; Koss lifetime warranty repairs or replaces any Porta Pro at no charge regardless of age or cause; 60mm equivalent Koss drivers produce warm natural sound that outperforms wireless options costing 2 to 3 times more; collapsible design folds into a compact disc-shaped package; no inline mic on standard model but the sound quality justifies the price for desk listening; Koss will keep supporting this product indefinitely.",
     tradeoffs: [

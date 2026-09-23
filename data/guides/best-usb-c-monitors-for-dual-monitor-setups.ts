@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=workcocoon-20",
     description:
       "Buying two identical units of this monitor gives a matched dual-monitor setup with consistent resolution, height, and refresh rate across both screens.\n\nThe pass-through connectivity common on this monitor class can simplify connecting a second unit without needing two dedicated laptop ports.\n\n144Hz refresh rate for smoother motion across both monitors. That's a real strength, but weigh it against the flip side: verify pass-through connectivity specifics before assuming a simple second-monitor connection.",
     specs: ["27-inch QHD (2560x1440) panel", "144Hz refresh rate", "USB-C with power delivery", "Pass-through connectivity for a second unit"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41DSJsc4qKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=workcocoon-20",
     description:
       "A more budget-friendly QHD option, buying two matched units keeps a dual-monitor setup visually consistent while managing total cost.\n\nBuilt-in speakers on both units mean you can choose either monitor's audio output for video calls without extra equipment.\n\nBuilt-in speakers on both units for flexible audio setup. On the other hand, standard 75Hz refresh rate, not high-refresh gaming tier. Both are worth keeping in mind before deciding.",
     specs: ["27-inch WQHD (2560x1440) panel", "75Hz refresh rate", "USB-C connectivity", "Built-in speakers"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51+NCPHB1gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=workcocoon-20",
     description:
       "ProArt's professional calibration matters more across a dual-monitor setup used for color-sensitive work, since consistent color across both screens avoids a jarring mismatch.\n\nA 24-inch 1080p panel also keeps a matched pair's combined footprint more compact than two larger monitors.\n\nA genuine advantage here is that compact 24-inch size keeps combined footprint manageable. The tradeoff is that higher price for two units than general-purpose 1080p monitors.",
     specs: ["24-inch 1080p IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "Compact combined footprint for a matched pair"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41ye7a0oJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=workcocoon-20",
     description:
       "A genuinely budget-friendly 24-inch panel, buying two matched units keeps total dual-monitor cost low while still avoiding visual mismatch between screens.\n\nA surprisingly high 120Hz refresh rate on both units gives smooth motion across the full dual-monitor workspace.\n\nSurprisingly high 120Hz refresh rate at this price point. That said, fewer professional features than the ProArt alternative. Neither should be a surprise once you know to look for it.",
     specs: ["24-inch 1080p IPS panel", "120Hz refresh rate", "USB-C connectivity", "Lowest price in this guide"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=workcocoon-20",
     description:
       "A true 4K panel for buyers wanting the sharpest dual-monitor setup, aware that driving two 4K panels simultaneously puts real demand on your laptop's GPU and ports.\n\n99% sRGB coverage on both matched units ensures consistent color accuracy across the full dual-monitor workspace.\n\nWorth calling out specifically: 99% sRGB coverage for consistent color accuracy across both screens. The catch is highest combined price in this guide for two units.",
     specs: ["27-inch true 4K UHD IPS panel", "120Hz refresh rate", "99% sRGB color coverage", "High combined bandwidth demand for two units"],

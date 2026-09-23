@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51v-7P2kqkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=workcocoon-20",
     description:
       "A full pegboard system with a steel storage shelf included, mounted with three clamp points rather than one, which meaningfully helps offset the extra forward leverage the shelf adds once loaded.\n\nIt's worth checking the shelf's own weight rating separately from the board's general hook capacity, since the two aren't automatically the same number even on a well-built system like this.\n\nThe standout detail is that steel shelf construction holds up to real daily use. Balancing that out, small review count so far.",
     specs: ["47 x 31 inch steel panel", "Triple clamp mount", "Storage shelf included", "2 monitor mounts included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oUaLqsLtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=workcocoon-20",
     description:
       "A compact clamp-on metal shelf with a small pegboard section and pencil holder, a lighter-weight option for buyers who want shelf storage without a full desk-back panel.\n\nBecause the shelf itself is the main feature here rather than an add-on to a larger board, its forward leverage on a single clamp is worth checking against your desk edge stability before loading it heavily.\n\nMetal build holds up better than a plastic shelf. That's a real strength, but weigh it against the flip side: single clamp point carries the shelf's full forward leverage.",
     specs: ["Metal clamp-on shelf", "Small pegboard section", "Pencil holder included", "Compact footprint"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.9 stars from Amazon ratings",
     reviews: "66 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31h2QOu6ArL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQJ21TD4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQJ21TD4?tag=workcocoon-20",
     description:
       "A tray-style shelf mounted under the desk rather than on the back edge, which changes the leverage profile entirely since the load hangs below the desk rather than projecting forward at height.\n\nThe high 4.9-star rating with a solid review base is a strong signal for this specific horizontal, under-desk use case, though it isn't a substitute for a full vertical desk-back shelf system.\n\nUnder-desk mounting avoids the forward-leverage tipping risk of a back shelf. On the other hand, not a vertical desk-back shelf, serves a narrower cable-focused role. Both are worth keeping in mind before deciding.",
     specs: ["30.2 inch tray length", "No-drill C-clamp mount", "Under-desk horizontal mounting", "High review rating"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "744 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XfsAb0YwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK13ZHNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK13ZHNJ?tag=workcocoon-20",
     description:
       "A larger 36-inch under-desk cable tray with a strong review base of over 700 ratings, appropriate for buyers wanting a wider shelf-style tray for cable management alongside a separate desk-back pegboard.\n\nLike the PEGZONE tray, this mounts horizontally under the desk, which keeps its tipping-leverage profile lower than a vertically mounted shelf would carry.\n\nA genuine advantage here is that 36 inch length covers wider desks. The tradeoff is that not a vertical desk-back shelf, complements rather than replaces one.",
     specs: ["36 inch tray length", "No-drill mount", "Under-desk horizontal mounting", "Large review base"],

@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 192 Amazon ratings",
     reviews: "192 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31p0qXVlx6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ5YLR29?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ5YLR29?tag=workcocoon-20",
     description:
       "This is the one genuinely USB-C-wired mouse in this guide, a real wired cable terminating in a USB-C connector rather than USB-A, meaning 'USB-C' here refers to a wired connection method rather than a charging port or dongle.\n\nThe disclosed 5.9-foot cable length is a genuinely useful spec most wired accessories don't publish, worth checking against your specific desk setup distance before assuming any standard cable length will comfortably reach your USB-C port.\n\nDisclosed 5.9-foot cable length for real desk-distance planning. That said, smaller review base than the wireless picks in this guide. Neither should be a surprise once you know to look for it.",
     specs: ["Genuinely wired USB-C connection", "5.9-foot disclosed cable length", "6 buttons, adjustable DPI", "Right-handed design"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 14,970 Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "Here 'USB-C' refers to the charging port rather than a wired connection, this wireless mouse charges via USB-C but connects to your computer wirelessly, cross-referencing directly with this guide's own rechargeable vertical mouse research.\n\nThe reversible USB-C connector, no wrong-way-up insertion, is a genuinely real if minor usability benefit over older connector types, consistent with similar observations made in portable storage device research.\n\nWorth calling out specifically: uSB-C charging matches modern cable standards. The catch is not a wired USB-C mouse, the USB-C here is for charging only.",
     specs: ["USB-C charging port (wireless connection)", "Large review base", "Premium ergonomic design", "Usable while charging"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 7,261 Amazon ratings",
     reviews: "7,261 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316GOiA3kCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1YD86Z6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1YD86Z6?tag=workcocoon-20",
     description:
       "Another USB-C-charging (not wired) implementation, a large review base and high rating back this as a proven pick for buyers specifically wanting USB-C charging port convenience at a meaningfully lower price than the premium Logitech option.\n\nUSB-C-only laptop compatibility is a genuine convenience benefit here, since the same cable you use to charge your laptop can charge this mouse, avoiding the need for a separate USB-A adapter or cable in your bag.\n\nUSB-C charging shares cables with modern USB-C-only laptops. Set against that, not a wired USB-C mouse, this refers to the charging port only. Both matter when comparing it to the other picks here.",
     specs: ["USB-C charging port (Bluetooth wireless connection)", "Large review base", "Triple connectivity options", "Quiet clicks included"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,670 Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pLezomU4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCBW3B3T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DCBW3B3T?tag=workcocoon-20",
     description:
       "A solid review base confirming USB-C charging rather than the older micro-USB standard, cross-referencing directly with this guide's own rechargeable mouse research for shared charging-cable-type considerations.\n\nThe reversible connector convenience applies here too, a minor but genuinely real usability benefit of USB-C over older connector types when plugging in without needing to check orientation first.\n\nThe standout detail is that solid review base and rating. Balancing that out, not a wired USB-C mouse, this refers to the charging port only.",
     specs: ["USB-C charging port (wireless connection)", "Solid review base", "Ergonomic vertical design", "Budget-friendly price"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,572 Amazon ratings",
     reviews: "1,572 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/317OUYp22fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DM8KRK37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DM8KRK37?tag=workcocoon-20",
     description:
       "The highest average rating among the USB-C-charging picks in this guide at the lowest price, a genuinely distinct volume knob feature adds practical value beyond the core USB-C charging functionality.\n\nGiven the smaller review base relative to the larger-volume competitors, this rating carries somewhat less weight of evidence, still a genuinely strong option worth considering alongside the more heavily reviewed alternatives.\n\nLowest price in this guide. That's a real strength, but weigh it against the flip side: not a wired USB-C mouse, this refers to the charging port only.",
     specs: ["USB-C charging port (Bluetooth wireless connection)", "Integrated volume knob", "Highest rating among USB-C-charging picks", "Lowest price in this guide"],

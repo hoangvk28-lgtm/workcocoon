@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "32,606",
     imageUrl: "https://m.media-amazon.com/images/I/31+F3sAWSTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=workcocoon-20",
     description:
       "This clip's 4.0-6.3 inch width range comfortably fits the base iPhone through the Pro Max without a case, though buyers with a thick case on the wider Pro Max models should double check the actual cased width before assuming a snug fit. It is not MagSafe compatible, this is a physical spring clip.\n\nAt this price and review volume, it remains the most proven basic option for mounting any current iPhone at a desk.\n\nAffordable. Set against that, not MagSafe, physical clip only. Both matter when comparing it to the other picks here.",
     specs: ["Clip fits 4.0-6.3in, covers current iPhone lineup bare", "Standard spring clip, not MagSafe", "33.46in reach", "Anti-slip base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "23,326",
     imageUrl: "https://m.media-amazon.com/images/I/31sVYQbspmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=workcocoon-20",
     description:
       "MAGIPEA explicitly lists compatibility with the iPhone 17, 16, and 15 Pro Max lines, and its 3.5-7 inch clip range is generous enough to hold a Pro Max with most protective cases attached, unlike narrower clips in this comparison. This is again a physical clip, not a MagSafe magnetic mount.",
     specs: ["Explicitly lists iPhone 17/16/15 Pro Max fit", "3.5-7in clip range with TPE pads", "Not MagSafe", "360° rotation"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,655",
     imageUrl: "https://m.media-amazon.com/images/I/515BergNltL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=workcocoon-20",
     description:
       "The one-touch spring clip on this arm matches its bite force to the phone size automatically, addressing the too-tight grip risk on a Pro Max with a bulky MagSafe-compatible case. Tension knobs let you fine-tune further for your specific iPhone and case combination.",
     specs: ["Self-matching bite-force clip", "Silicone-padded grip", "Adjustable tension per joint", "Not MagSafe"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,732",
     imageUrl: "https://m.media-amazon.com/images/I/419C11rQcXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=workcocoon-20",
     description:
       "This magic arm's phone clamp fits 5.5-8.5cm wide, enough for a cased iPhone Pro Max, and locks via friction for a position that won't drift during a video call, a real consideration for Face ID unlock and camera framing that benefits from a stable, repeatable angle.\n\nIt is not a MagSafe mount, and the phone clamp is a separate attachment rather than integrated into the arm.\n\nA genuine advantage here is that fits cased Pro Max models. The tradeoff is most expensive pick here.",
     specs: ["Phone clamp fits 5.5-8.5cm width", "Friction-locked, no drift", "600g load capacity", "Not MagSafe"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "11,813",
     imageUrl: "https://m.media-amazon.com/images/I/31HD++Czq5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B9N41MCS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B9N41MCS?tag=workcocoon-20",
     description:
       "At 38 inches this is the longest arm in this comparison, useful for positioning an iPhone farther from a cramped desk clamp point. The clip itself is a standard spring design without MagSafe, sized for typical iPhone widths including cased models.",
     specs: ["38in nylon-braided gooseneck", "Standard spring clip, not MagSafe", "Abrasion-resistant sleeve", "Clamp base mount"],

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GFXE7NdOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00K5UZO0Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00K5UZO0Q?tag=workcocoon-20",
     description:
       "at a budget-friendly price, the LBP6030w is one of the cheapest true laser printers available, and it sticks to print-only duty rather than trying to be an all-in-one on a limited budget. Rated at 19 PPM, it's built for straightforward monochrome documents rather than photos or graphics-heavy pages. A compact wireless single-function design keeps the footprint small on a shared desk, and the 1-year limited warranty is standard for the price tier. Buyers should plan for a toner replacement cartridge purchase sooner than the box implies, since the included starter toner is a lower-yield cartridge. A genuine advantage here is that fast, crisp monochrome text output. The tradeoff is print only, no scan or copy.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPL7HRQN?tag=workcocoon-20",
     description:
       "Brother's HL-L2405W wraps mobile printing and Alexa compatibility into a compact monochrome laser body, which suits a home office that wants wireless convenience without stepping up to an all-in-one. The included Refresh Subscription trial gives new buyers a chance to test automatic toner reordering before committing to it. Build quality at this tier leans on Brother's reputation for durable budget laser hardware, though like any budget-tier laser printer it uses lighter-duty internal components than a mid-tier model, expect a 2 to 3 year comfortable lifespan under moderate home use rather than a decade of heavy office duty. Alexa voice print command support. On the other hand, no scan or copy functions. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/316tpuWileL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=workcocoon-20",
     description:
       "The M209d is one of the few printers in this price range with automatic duplex printing built in, which matters for anyone printing double-sided reports or coursework regularly, it saves both paper and the manual flip-and-reload step other budget lasers require. It's wired-only, no wireless connection, which is a real limitation for a shared household setup.\n\nHP markets this as best-for-home-office, and the included USB cable means it's ready to print out of the box without hunting for a cable first. Buyers who need wireless printing should look elsewhere in this list, but for a desk with a dedicated computer connection, the duplex feature is a genuine step up.\n\nUSB cable included, ready to connect. That's a real strength, but weigh it against the flip side: no wireless connectivity.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "Stepping up from print-only models, the DCP-L2640DW adds copy and scan alongside automatic duplex printing, making it the most complete budget laser all-in-one in this list. Wireless and mobile printing round out the connectivity, and it works with Alexa for voice-triggered print jobs.\n\nThe higher price reflects the added hardware, a scanner bed and copy function mean more moving parts than a print-only laser, so expect a moderate step down in mechanical simplicity in exchange for genuine multi-function capability. The included Refresh Subscription trial applies here too.\n\nWorth calling out specifically: wireless setup with Alexa support. The catch is most expensive monochrome pick in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "Color laser printers cost more upfront than monochrome, and the HL-L3220CDW sits at the top of this budget list at just at a budget-friendly price, but it's the only pick here that prints color documents with laser speed and duplex built in. A 250-sheet paper tray reduces how often you're reloading paper compared to the smaller trays on the cheaper picks. Running a full 4-toner color laser system means replacement costs are higher than any monochrome pick here when all four cartridges eventually need replacing, budget for that before assuming color laser is automatically cheaper per page than a comparable inkjet for color-heavy printing. Large 250-sheet paper tray. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
     specs: [

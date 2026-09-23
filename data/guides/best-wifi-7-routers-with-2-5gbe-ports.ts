@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "Two genuine 2.5G ports at a very affordable price, appropriate for buyers wanting the cost-effective middle wired tier without the expense of a full 10GbE setup.\n\nVerify your specific devices have 2.5GbE-capable adapters before expecting the upgrade to apply everywhere, since many laptops and desktops still ship with 1GbE-only adapters.\n\nHigh 4.4-star rating with a large review base. Set against that, no 6GHz radio limits full Wi-Fi 7 wireless feature set. Both matter when comparing it to the other picks here.",
     specs: ["2x 2.5G ports + 3x 1G ports", "Dual-band, no 6GHz radio", "4-stream configuration", "USB 3.0 port"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,324 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "Dual 2.5Gbps ports allow dedicating one to WAN and one to a fast local device like a NAS, appropriate for buyers wanting more flexibility than a single 2.5G port setup.\n\nThis positions well for fiber plans in the 1-2.5Gbps range specifically, worth confirming your plan's actual speed against these ports rather than overpaying for a 10GbE router you won't fully use.\n\nThe standout detail is that high 4.4-star rating with a large review base. Balancing that out, no 6GHz radio limits full Wi-Fi 7 wireless feature set.",
     specs: ["Dual 2.5Gbps ports", "Dual-band, no 6GHz radio", "Covers up to 2,400 sq. ft.", "USB 3.0 port"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EClf31jxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=workcocoon-20",
     description:
       "2x 2.5G wired backhaul ports let this mesh kit use a genuine wired connection between nodes rather than relying entirely on wireless backhaul, appropriate for buyers with existing in-wall wiring wanting the 2.5GbE middle tier across a whole-home mesh setup.\n\nWired 2.5GbE backhaul avoids the shared-bandwidth tradeoff wireless backhaul creates, a genuine reliability advantage over mesh kits without this option.\n\nHigh 4.4-star rating with a solid review base. That's a real strength, but weigh it against the flip side: wired backhaul benefit only applies if you have existing in-wall wiring.",
     specs: ["2x 2.5G wired backhaul ports", "Dual-band mesh, 3-pack", "Covers up to 6,500 sq. ft.", "TP-Link Deco app"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "1,158 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31cXnHQNtzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKVDZXSN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKVDZXSN?tag=workcocoon-20",
     description:
       "A higher BE5000-rated Deco mesh system for buyers wanting more total capacity than the entry-tier Deco 7 BE23 while staying within the useful 2.5GbE wired tier rather than jumping to full 10GbE cost and complexity.\n\n240MHz channel width gives real wireless headroom for households with many simultaneous devices, pairing well with the 2.5GbE wired middle tier for a balanced whole-home setup.\n\nLarge review base with a high 4.4-star rating. On the other hand, higher price than the entry-tier Deco 7 BE23. Both are worth keeping in mind before deciding.",
     specs: ["Dual-band mesh with 2.5GbE-class ports", "BE5000 combined rating", "240MHz channel width", "4-stream configuration"],

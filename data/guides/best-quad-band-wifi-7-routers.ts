@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "576 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31gp8DwYtwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPQYSXCW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPQYSXCW?tag=workcocoon-20",
     description:
       "A quad-band flagship rated up to 30Gbps combined with mesh compatibility, appropriate for large households genuinely running 30 or more simultaneous devices who need real device-density headroom.\n\nThe premium price reflects genuine hardware, dual 5GHz radios, high CPU headroom, and gaming-specific tuning, though households below that device-density threshold will see little practical benefit over a well-configured tri-band router.\n\nMesh compatible for whole-home expansion. That's a real strength, but weigh it against the flip side: very high price relative to a tri-band mesh alternative.",
     specs: ["Quad-band, dual 5GHz radios", "Up to 30Gbps combined rating", "Mesh compatible", "Gaming-tuned QoS features"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "209 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Y2ow7rQiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRD3P4XV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRD3P4XV?tag=workcocoon-20",
     description:
       "A quad-band BE24000-rated router with dual 10 Gbps multi-gig Ethernet, appropriate for buyers wanting quad-band device capacity alongside genuinely fast wired ports rather than gaming-specific extras.\n\nSlightly lower price than the ASUS pick above with a smaller review base, worth weighing proven track record against the modest savings if this matters to your purchase decision.\n\nSlightly lower price than the ASUS ROG quad-band pick. On the other hand, smaller review base than the ASUS pick, less proven track record. Both are worth keeping in mind before deciding.",
     specs: ["Quad-band, dual 5GHz radios", "BE24000 combined rating", "Dual 10 Gbps multi-gig Ethernet", "TP-Link app and firmware ecosystem"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "437 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21SZpiSQfaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CD9QCPS5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CD9QCPS5?tag=workcocoon-20",
     description:
       "A 16-stream quad-band mesh system with 2x10G ports, appropriate for large homes wanting both quad-band device density and genuine whole-home mesh coverage in a single purchase.\n\nCombining quad-band radios with mesh adds real cost, worth honestly comparing against a standalone quad-band router or a tri-band mesh kit depending on whether your priority is device density or square footage.\n\nA genuine advantage here is that 16-stream configuration for very high total capacity. The tradeoff is that high combined cost for both quad-band and mesh hardware.",
     specs: ["Quad-band mesh system", "16-stream, BE33000 combined rating", "2x 10G ports", "Whole-home mesh coverage"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "437 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ykFvpQjkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRD7YGR6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BRD7YGR6?tag=workcocoon-20",
     description:
       "A larger node-count configuration of the same Deco 7 Elite BE95 quad-band mesh platform, appropriate for buyers whose homes exceed 7,800 square feet and need extra nodes for genuine whole-home coverage.\n\nAt this price, honestly assess whether a typical home actually needs quad-band mesh capacity, since a well-configured tri-band mesh system at a meaningfully lower cost handles most households' real device counts and square footage.\n\nSame proven Deco 7 Elite BE95 quad-band platform. That said, highest price in this guide, a real premium over tri-band mesh alternatives. Neither should be a surprise once you know to look for it.",
     specs: ["Quad-band mesh system", "16-stream, BE33000 combined rating", "Covers up to 7,800 sq. ft.", "Additional node configuration"],

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Wd1NwAowL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQM6QB48?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQM6QB48?tag=workcocoon-20",
     description:
       "At a competitive price, the ErGear is the cheapest arm in this list and a genuine genuine budget pick with real margin to spare. It fits 13 to 34 inch monitors up to 19.8 lbs on a max VESA 100x100mm head, with tool-free installation. At this end of the price range, expect more friction when adjusting the arm and a plastic thumbscrew clamp that needs care not to overtighten, especially on a hollow-core or composite desktop where overtightening can dent the surface. Tool-free VESA mounting. That's a real strength, but weigh it against the flip side: more adjustment friction than pricier arms.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41muNp04WgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGPZR6P1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGPZR6P1?tag=workcocoon-20",
     description:
       "The WALI matches the ErGear's price almost exactly at a competitive price but rates a higher 26.4 lb total capacity for regular screens up to 32 inches, on standard VESA 75/100mm. That extra headroom is a real advantage at this price point for a monitor closer to 5-6 lbs. Cable management is still minimal at this tier, and the clamp hardware is basic, so treat it the same way as the rest of the budget-tier field: solid for a moderate monitor on a solid desk, not built for frequent heavy repositioning. Worth calling out specifically: wide 13-34 inch monitor compatibility. The catch is cable management is minimal.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41--azXaNzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GK7FVTR4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GK7FVTR4?tag=workcocoon-20",
     description:
       "At a competitive price, the FlowLift Pro sits comfortably under the mark while offering the smoothest adjustment feel of the lower-priced picks here, thanks to its MechaSpring mechanism. It fits 13-32 inch monitors up to 19.8 lbs, with tool-free VESA installation. This is a case where paying a bit more within the same budget tier buys a noticeably smoother experience, without crossing into that price tier where premium arms live. Still comfortably at a budget-friendly price. Set against that, 19.8 lb ceiling, same as the cheaper FlowLift. Both matter when comparing it to the other picks here.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41n18T7NMSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G523STF2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G523STF2?tag=workcocoon-20",
     description:
       "The SmooVex comes in at a competitive price, fitting monitors up to 32 inches on a standard VESA 75/100mm head with a compact base that suits a smaller desk. Its mechanical spring mount gives steady, predictable resistance for this price tier. As with the other picks at a budget-friendly price, cable management is basic, typically just a couple of small clips, so plan accordingly if a clean cable run matters to your setup. A genuine advantage here is that standard VESA 75/100mm fits most monitors. The tradeoff is cable management limited to basic clips.",
     specs: [
@@ -175,7 +175,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41FAEzhc2PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=workcocoon-20",
     description:
       "At a competitive price, the FlowLift still lands solidly at a budget-friendly price and fits 13 to 32 inch monitors rated for 4.4 to 19.8 lbs, with a choice of clamp or grommet base mounting. Full-motion tilt, swivel, and rotation cover the adjustments most single-monitor setups need. This is a middle-of-the-road option in the budget-tier field, priced above the cheapest picks but with a broader monitor size range and more mounting flexibility than the compact SmooVex. Fits a broad 13-32 inch monitor range. That's a real strength, but weigh it against the flip side: 4.4 lb minimum load can under-tension very light monitors.",
     specs: [
@@ -206,7 +206,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41t32WYz36L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009S750LA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B009S750LA?tag=workcocoon-20",
     description:
       "The VIVO is a dual monitor mount, not a single arm, holding two screens up to 30 inches and 22 lbs each on a heavy-duty steel frame with a C-clamp and grommet base. It's a genuinely budget way to add a second monitor arm rather than buying two single arms separately. Steel construction gives it more rigidity than the plastic-heavy single arms in this list, though as with any budget-tier mount, expect firmer adjustment resistance than a premium arm and check your desk thickness against the clamp before installing. Worth calling out specifically: 22 lbs per-monitor capacity, strong for the price. The catch is not a single monitor arm, requires desk space for two screens.",
     specs: [
@@ -237,7 +237,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41T9ePShJ2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GK6DT5SF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GK6DT5SF?tag=workcocoon-20",
     description:
       "At a competitive price, this is the priciest pick that still clears the budget-friendly bar, and it brings HUANUO's MechaSpring mechanism to a dual monitor setup for 13-32 inch screens with tool-free VESA mounting. Each arm supports up to 19.8 lbs independently. This is the pick if you want two monitors and the smoother adjustment feel of the MechaSpring mechanism without moving into a competitive price-100 premium tier. Tilt, swivel, and rotation are independent per arm. Still at a budget-friendly price even with two arms included. Set against that, highest price among the genuinely lower-priced picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -268,7 +268,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Mr-S3C6XL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=workcocoon-20",
     description:
       "This dual monitor stand's verified price is competitively priced, above the mark this guide otherwise targets, so we're not labeling it as an under-a competitive price pick even though it was on the original candidate list. It fits 13-32 inch screens with each arm holding 4.4 to 19.8 lbs, full-motion VESA 75x75mm or 100x100mm support, and a C-clamp and grommet base. If your budget has a little room to flex, it's worth knowing about as the natural next step up from the FlowLift Pro Dual Mount, with the same full-motion adjustability across two independent arms. Just budget for the real a competitive price rather than expecting it to land at a budget-friendly price. A genuine advantage here is that wide VESA compatibility, 75x75mm or 100x100mm. The tradeoff is verified price is competitively priced, above this guide's a competitive price target.",
     specs: [

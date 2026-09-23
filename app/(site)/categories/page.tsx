@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Container } from "@/components/layout/Container";
 import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
 import { buildMetadata } from "@/lib/seo";
+import { MIGRATED_CATEGORY_TO_SILO } from "@/lib/migrated-silos";
 import { categories } from "@/data/categories";
 import { getPublicProducts } from "@/lib/public-products";
 
@@ -46,7 +47,7 @@ export default async function CategoriesPage() {
           return (
             <Link prefetch={false}
               key={cat.slug}
-              href={`/categories/${cat.slug}`}
+              href={MIGRATED_CATEGORY_TO_SILO[cat.slug] ? `/${MIGRATED_CATEGORY_TO_SILO[cat.slug]}` : `/categories/${cat.slug}`}
               className="group flex flex-col gap-4 p-6 bg-white rounded-card border border-border hover:border-brand/40 hover:shadow-card-hover transition-all"
             >
               <div className="flex items-center gap-3">

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41UNYNGpeHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08TC1N6JS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08TC1N6JS?tag=workcocoon-20",
     description: "This is explicitly not a standalone tablet and must connect to a computer, laptop, or Android phone to work. A 10x6 inch active area pairs with a battery-free pen at 8192 pressure levels, and 20 replacement nibs ship included, a genuinely generous spare-parts count.\n\nTwelve customizable shortcut keys plus 10 multimedia keys (Windows-only) cover a broad range of workflow shortcuts. Mac users need to grant specific Accessibility, Input Monitoring, and Full Disk Access permissions after installation, a setup detail worth knowing before buying, and it works with Word, Excel, PowerPoint, and major creative software like Photoshop and SAI.",
     specs: ["10x6in area, 8192 pressure levels","12 shortcut keys + 10 multimedia keys (Win only)","20 replacement nibs included"],
     pros: ["20 replacement nibs included is unusually generous","12 shortcut keys plus 10 multimedia keys is a deep set","Works with everyday office apps like Word and Excel too"],

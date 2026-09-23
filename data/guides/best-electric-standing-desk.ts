@@ -36,7 +36,7 @@ export const products: ElectricDesk[] = [
     heightRange: "28.3\" to 47.6\"",
     rating: "4.5 stars, 11,198 ratings",
     imageUrl: `${BASE}/01-ergear-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=workcocoon-20",
     whyItWorks:
       "The ErGear is the most purchased electric standing desk on Amazon by current sales velocity. The combination of No.1 Best Seller rank, 11,000+ reviews, and 5,000+ monthly purchases is the strongest aggregate trust signal in this category. No other desk on this list matches all three signals simultaneously. At 5,000 units per month, any systematic quality problem would generate a flood of negative reviews almost immediately. The fact that ErGear holds 4.5 stars across 11,000+ reviews at that sales volume means the product survives real-world usage at scale.",
     tradeoffs: [
@@ -68,7 +68,7 @@ export const products: ElectricDesk[] = [
     heightRange: "28.3\" to 46.5\"",
     rating: "3,000+ bought per month",
     imageUrl: `${BASE}/02-claiks-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=workcocoon-20",
     whyItWorks:
       "The Claiks is the budget pick. It occupies the same 48x24\" footprint as the ErGear at a lower price point. The 3,000+ monthly purchases is a strong demand signal for a budget-tier desk. Note: the Claiks tops out at 46.5\" maximum height versus ErGear's 47.6\". That 1.1\" difference matters for users approaching 6'0\" to 6'1\". If your target standing height is 46\" or below, the Claiks reaches it comfortably.",
     tradeoffs: [
@@ -99,7 +99,7 @@ export const products: ElectricDesk[] = [
     heightRange: "28.1\" to 47.6\"",
     rating: "4.5 stars, 12,471 ratings",
     imageUrl: `${BASE}/03-flexispot-en1-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08BHPMYGK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08BHPMYGK?tag=workcocoon-20",
     whyItWorks:
       "The FlexiSpot EN1 holds the highest total review count on this list at 12,471 - the most statistically reliable quality signal of any single product here. TechRadar, Wirecutter, and multiple independent reviewers list the EN1 as a top budget electric standing desk for consistent reasons: the one-piece desktop is notably more stable than clip-together tabletop alternatives at the same price, and FlexiSpot's 5-year motor plus frame warranty is longer than most competitors in this category.",
     tradeoffs: [
@@ -130,7 +130,7 @@ export const products: ElectricDesk[] = [
     heightRange: "Verify current listing",
     rating: "4.6 stars, 4,552 ratings",
     imageUrl: `${BASE}/04-fezibo-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FJY1ZBLK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FJY1ZBLK?tag=workcocoon-20",
     whyItWorks:
       "The FEZIBO holds Amazon's Choice badge alongside the highest star rating on this list at 4.6 stars across 4,552 reviews. Amazon's Choice is assigned by algorithm based on rating, review velocity, pricing, and shipping performance. A product can be Amazon's Choice without being the top seller, which often means it converts at high rates from buyer searches. The 4.6 star average at this sample size is a meaningful quality signal - not a new product gaming the system.",
     tradeoffs: [
@@ -159,7 +159,7 @@ export const products: ElectricDesk[] = [
     heightRange: "28.3\" to 46.5\"",
     rating: "4.6 stars, 1,809 ratings",
     imageUrl: `${BASE}/05-veken-55.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=workcocoon-20",
     whyItWorks:
       "The Veken is the only 55\" option on this list. It is also the only desk here that explicitly publishes motor noise specifications: under 52 dB. That is roughly equivalent to a quiet conversation in the same room - audible but not disruptive. Most other manufacturers in this price tier do not publish motor noise specs, which typically means the number is not favorable. For home office users with dual 24\" to 27\" monitors, 55\" makes side-by-side layout comfortable without requiring careful arm positioning.",
     tradeoffs: [
@@ -189,7 +189,7 @@ export const products: ElectricDesk[] = [
     heightRange: "Verify current listing",
     rating: "4.6 stars, 2,065 ratings",
     imageUrl: `${BASE}/06-huanuo-48x24.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CFXM4TGG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFXM4TGG?tag=workcocoon-20",
     whyItWorks:
       "HUANUO is a monitor arm and desk accessory brand that expanded into full desks. The electric standing desk holds 4.6 stars at 2,065 reviews. HUANUO's background in monitor accessories means the desk design is informed by how monitors actually interact with desk surfaces. For home office buyers who want a clean, simple 48x24\" electric desk with strong ratings and no-fuss setup, this is a solid alternative to the ErGear or FlexiSpot options.",
     tradeoffs: [

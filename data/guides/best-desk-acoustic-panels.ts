@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31pH3EPb-mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FG52KXT9?tag=workcocoon-20",
     description:
       "A compact freestanding panel pair that sets up on its own support feet rather than clamping to a desk edge, appropriate for buyers who want to move the panel around or use it on a desk with no clampable lip.\n\nThe listing does not publish an NRC rating or panel thickness spec, so treat the 'acoustic' and 'soundproof' language in the title as marketing shorthand for modest sound absorption near your immediate work area, not genuine sound blocking.\n\nTwo panels cover more area than a single unit. On the other hand, no published NRC or thickness spec to verify real absorption. Neither should be a surprise once you know to look for it.",
     specs: ["Freestanding with support feet", "2-pack, 15.74 x 11.81 x 3.93 inches", "No published NRC rating", "No clamp required"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51xJuQn513L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00P1AJ9N8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00P1AJ9N8?tag=workcocoon-20",
     description:
       "An aluminum-framed panel explicitly described as desk mounted, worth checking the actual mounting hardware against your desk's edge thickness before ordering since the mounting compatibility pattern varies widely across desk-accessory brackets.\n\nThe almond and aluminum construction reads as a more office-standard, less decorative build than the freestanding fabric-style options, which may matter if you want the panel to look purpose-built rather than added on.\n\nOffice-standard aluminum and almond finish. That's a real strength, but weigh it against the flip side: verify mounting hardware fits your specific desk edge thickness before buying.",
     specs: ["12 x 24 inch panel", "Almond/aluminum construction", "Desk-mounted design", "No published NRC rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "Verified Amazon listing",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/21S6a6AhTTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07S8DRKHC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07S8DRKHC?tag=workcocoon-20",
     description:
       "A 23 by 18 inch panel marketed toward student and office desks, sized to cover more of a seated user's forward field of view than the smaller compact panels in this pool.\n\nAs with the rest of this category, there's no published NRC number, so weigh the 'sound absorbing' claim as a directional benefit for reducing echo reaching your own desk, not a verified acoustic spec.\n\nWorth calling out specifically: sized for typical student and office desk widths. The catch is no published NRC rating to verify absorption claims.",
     specs: ["23\" W x 18\" H panel", "Dark blue finish", "Marketed for student and office desks", "No published NRC rating"],

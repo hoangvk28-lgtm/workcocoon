@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 2,666 Amazon ratings",
     reviews: "2,666 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41eRaMa6u1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN6V6M5F?tag=workcocoon-20",
     description:
       "The highest joule rating in this guide at 4800, real headroom for the largest number of devices sharing one budget at this outlet tier. 2 USB-C ports and wall-mountable design.\\n\\nConsolidating an entire home theater or office onto this single unit means it becomes a single point of failure, weigh convenience against risk concentration before combining everything onto one strip.\n\nIt leads this comparison on the strength of its balance of disclosed joule rating, outlet count, and review base, worth weighing directly against the Power Strip.\n\nWorth knowing before you decide: 12 outlets plus USB-C charging. On the other side, Single point of failure if consolidating an entire setup. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4800 joules","10ft cord, wall mountable","2 USB-C, 2 USB-A","Desk charging station design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 50,501 Amazon ratings",
     reviews: "50,501 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41PsJYHqW7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P5LRY37?tag=workcocoon-20",
     description:
       "12 outlets and 2700 joules with the largest review base of any true 12-outlet pick in this guide, genuine real-world evidence at this outlet count. ETL listed.\\n\\nCalculate combined wattage against a standard 15A circuit before filling all 12 outlets, this tier is most likely to tempt genuinely circuit-overloading combinations.\n\nSet against the Surge Protector Power Strip 4800J, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: 12 outlets with genuine surge protection. On the other side, Single point of failure if consolidating an entire setup. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4 USB ports","2700 joules, ETL listed","6ft cord","Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 3,281 Amazon ratings",
     reviews: "3,281 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415tn9cXV7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6S6TPRH?tag=workcocoon-20",
     description:
       "UL listed with 3,780 joules from an established brand, real confidence given this outlet tier concentrates the most devices onto one unit. 8ft cord for placement flexibility.\\n\\nEstablished brand build quality matters more here since a single-point-of-failure risk is highest at this outlet count, prioritize verified reliability.\n\nRelative to the Power Strip, this pick leans toward a different priority, whether that's a lower price, more outlets, or a form factor suited to a different install situation.\n\nWorth knowing before you decide: UL listed for verified safety. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 3780 joules","UL listed, 8ft flat plug cord","Established Belkin brand","Heavy-duty extension cord"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 535 Amazon ratings",
     reviews: "535 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3148JhvbR6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1XH8NJP?tag=workcocoon-20",
     description:
       "4000 joules and 12 outlets, real capacity for a demanding gaming room or office setup. 8ft cord for placement flexibility.\\n\\nSame risk-concentration consideration applies at this outlet count, weigh the convenience of one high-capacity unit against having your entire setup dependent on it.\n\nCompared with the Belkin 12 above, this pick trades some of that pick's proven track record for a different balance of price and joule rating, worth weighing against your own equipment.\n\nWorth knowing before you decide: 8ft cord for placement flexibility. On the other side, Smaller review base than mass-market picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["12 outlets, 4000 joules","8ft cord","Rectangle form factor","Amazon Basics brand"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 12,520 Amazon ratings",
     reviews: "12,520 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41vcM-QMtVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08Z2ZKVXX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08Z2ZKVXX?tag=workcocoon-20",
     description:
       "Technically 22 outlets rather than 12, included here as an alternative if you need even more capacity than the standard 12-outlet tier. Explicit 1875W/15A rating disclosed for real capacity verification.\\n\\nThe usable-outlet-spacing gap is most consequential at this even-higher density, verify real usable spacing against your actual adapters before assuming all 22 are practical.\n\nSet against the Amazon Basics 12, the tradeoff here comes down to price versus disclosed joule rating and outlet count, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Explicit amperage rating for real capacity verification. On the other side, Lower joule rating than the top picks. That's the main tradeoff to weigh against your own equipment and outlet needs.",
     specs: ["22 AC outlets, 6 USB ports","2100 joules, 1875W/15A explicit rating","6.5ft cord","Strong rating base"],

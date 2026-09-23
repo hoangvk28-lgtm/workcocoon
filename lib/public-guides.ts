@@ -12,6 +12,7 @@
 import { guides as staticGuides, type Guide } from "@/data/guides";
 import { isSupabaseConfigured, createAdminClient } from "@/lib/supabase/server";
 import type { GuideProductPick } from "@/lib/guides-store";
+import { withAmazonTag } from "@/lib/affiliate";
 
 export type { GuideProductPick };
 
@@ -107,7 +108,13 @@ function rowToPublicGuide(row: GuideRow): PublicGuide {
     faq: row.faq ?? [],
     relatedGuideSlugs: row.related_guide_slugs ?? [],
     buyingCriteria: undefined,
-    productPicks: (row.product_picks as GuideProductPick[]) ?? [],
+    // Guard here, the seam between the stored product_picks JSONB (admin-
+    // entered, may carry a stale/legacy tracking tag) and every rendered
+    // inline pick — see the matching comment in lib/public-products.ts.
+    productPicks: ((row.product_picks as GuideProductPick[]) ?? []).map((pick) => ({
+      ...pick,
+      affiliateUrl: withAmazonTag(pick.affiliateUrl),
+    })),
   };
 }
 

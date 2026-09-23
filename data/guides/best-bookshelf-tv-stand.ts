@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "29",
     imageUrl: "https://m.media-amazon.com/images/I/41N6CAoTd+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G356WVB2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G356WVB2?tag=workcocoon-20",
     description:
       "The AeasyG spans a full 94.5 inches wide, with two adjustable 5-tier bookshelves flanking an enclosed cabinet below the TV mount, giving it the most balanced mix of open display shelving and hidden storage in this list. It fits TVs up to 70 inches and holds everything together with a water- and scratch-resistant surface built for daily living room use.\n\nA built-in Power Hub with AC and USB outlets means you can charge devices or run a soundbar without running an extension cord across the room. For anyone who wants a true wall-unit look with generous bookshelf space on both sides of the screen, this is the strongest all-around pick.\n\nBuilt-in Power Hub for charging and AV gear. Set against that, smaller review sample (29 ratings) than some picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "77",
     imageUrl: "https://m.media-amazon.com/images/I/41KR8KnRJbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBVM1J4Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBVM1J4Y?tag=workcocoon-20",
     description:
       "The TUSY splits into 4 independent modular cabinets, 2 tall bookshelf units at 71 inches each plus 2 shorter cabinets, so you can rearrange the pieces into a wide wall unit, split them across two rooms, or reconfigure the layout entirely as your space changes. Tempered glass doors on the shorter cabinets protect and display media equipment while keeping dust out.\n\nBuilt from MDF P2-grade board, it's rated to fit TVs up to 75 inches when the full 110-inch layout is assembled. This is the most flexible pick in this list for anyone who isn't sure exactly how much wall space they'll dedicate to the setup long-term.\n\nA genuine advantage here is that tallest single-piece bookshelf cabinets in this list at 71\". The tradeoff is one of the more expensive picks here.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "3.5",
     reviews: "7",
     imageUrl: "https://m.media-amazon.com/images/I/51wkYxvgYmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GZWR3JFG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GZWR3JFG?tag=workcocoon-20",
     description:
       "The FACBOTALL wraps a full LED light strip around a 79-inch wide wall unit with adjustable 5-tier bookshelves on both sides of the TV mount, giving it the most eye-catching after-dark look in this list. A mix of 4 solid doors, 2 glass doors, and 2 drawers behind the shelving handles everything from media gear to books you'd rather not display.\n\nBuilt-in anti-tip hardware keeps the tall unit secure against a wall, and it fits TVs up to 60 inches. The sleek white finish leans more modern than the farmhouse-style picks elsewhere in this guide.\n\n5-tier adjustable bookshelves on both sides. On the other hand, lowest rating and smallest review sample in this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "14",
     imageUrl: "https://m.media-amazon.com/images/I/41s+b4iq97L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G2BBH53W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G2BBH53W?tag=workcocoon-20",
     description:
       "The Merax is the highest-rated pick in this list at 4.7 stars, built as a 4-piece modular farmhouse wall unit stretching 102.3 inches wide with adjustable open shelves alongside 6 drawers that are each 12.4 inches deep, more usable drawer depth than most competitors here. Four cable management holes keep cords tucked away behind the TV mount, which fits screens up to 75 inches. A wood grain veneer combined with a distressed white finish gives it a farmhouse look that stands apart from the more industrial or modern picks elsewhere in this guide, and anti-tip hardware is included for safety. 6 deep drawers (12.4\") for substantial hidden storage. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "25",
     imageUrl: "https://m.media-amazon.com/images/I/51+xx7XlcpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQSY27W4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQSY27W4?tag=workcocoon-20",
     description:
       "The Breezestival combines the most functions of any pick in this list: a built-in electric fireplace, a dedicated wine cabinet, open display shelves, and bookshelf storage, all within a 98-inch farmhouse barn-door frame that fits TVs up to 75 inches. The fireplace offers 5 flame brightness levels alongside 12 selectable LED colors, so it doubles as ambient lighting even without heat running.\n\nBuilt-in charging includes 2 AC outlets plus USB and Type-C ports. If you want a true all-in-one media wall that goes beyond storage into ambiance, this is the most feature-packed option here.\n\nWorth calling out specifically: 12-color LED lighting doubles as ambiance without heat. The catch is second most expensive pick in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "26",
     imageUrl: "https://m.media-amazon.com/images/I/41mOKReq9mL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FD3Y3JGW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FD3Y3JGW?tag=workcocoon-20",
     description:
       "The chartustriable is the largest bookshelf TV stand in this list by far, spanning 157.5 inches and fitting TVs up to 100 inches. Fifteen shelves combined with 6 drawers give it more individual storage compartments than any other pick here, effectively functioning as a TV stand, bookshelf, wine cabinet, and dresser all in one wall-spanning piece.\n\nApp or remote-controlled LED lighting runs throughout the unit, anti-tip hardware keeps it secured, and it ships in 4 separate boxes to make delivery and carrying more manageable. This is the clear choice for anyone with a very large living room wall and a big-screen TV to match.\n\nMost storage compartments overall: 15 shelves + 6 drawers. Set against that, requires a very wide wall to fit properly. Both matter when comparing it to the other picks here.",
     specs: [

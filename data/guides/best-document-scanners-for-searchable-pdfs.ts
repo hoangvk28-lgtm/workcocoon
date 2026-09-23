@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 326 Amazon ratings",
     reviews: "326 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9B1H5VN?tag=workcocoon-20",
     description:
       "High native scan resolution at 45ppm feeds cleaner source images into the OCR text-layer process, genuinely improving searchable PDF reliability versus a lower-resolution scan. Batch searchable-PDF creation will still add processing time beyond the raw scan time on large archival projects, plan accordingly.\n\nNo PDF/A archival compliance explicitly confirmed, verify separately if you need retention-standard-compliant output for legal or government requirements.\n\nLarge feeder for batch archival projects. That's a real strength, but weigh it against the flip side: pDF/A archival compliance not explicitly confirmed.",
     specs: ["High-resolution scanning feeds cleaner OCR source", "100-sheet feeder for large batch archival projects", "Touchscreen with personalized profiles", "Wi-Fi 6 + USB-C"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 5,857 Amazon ratings",
     reviews: "5,857 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KQZWPYN?tag=workcocoon-20",
     description:
       "Genuine searchable PDF creation built into the ScanSmart software, with the largest review base among the searchable-PDF-focused picks in this guide. Since search reliability is bounded by OCR accuracy, use at least 300 DPI when scanning documents you specifically need to search reliably later.\n\nNo PDF/A compliance confirmed here either, a common gap across consumer-tier scanner software.\n\nConverts to editable Word/Excel beyond just searchable PDF. On the other hand, pDF/A archival compliance not confirmed. Both are worth keeping in mind before deciding.",
     specs: ["Searchable PDF OCR via ScanSmart software", "Word/Excel conversion also included", "Largest review base among this guide's picks", "Duplex desktop scanning"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,768 Amazon ratings",
     reviews: "1,768 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41yWYf2uT0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09FX5DWBK?tag=workcocoon-20",
     description:
       "Auto color optimization and de-skew genuinely improve source scan quality feeding into the OCR text layer, in a compact ADF-hopper design. A reasonable middle ground for searchable PDF creation without a full desktop scanner's footprint.\n\nBatch searchable-PDF file sizes grow with the OCR text layer and image quality, plan storage accordingly for a large archival project on this or any pick.\n\nA genuine advantage here is that compact footprint with a real ADF hopper. The tradeoff is that pDF/A compliance not confirmed.",
     specs: ["Auto color optimization, de-skew for OCR source quality", "Compact ADF hopper, 30ppm duplex", "Cloud service support", "Standalone scan-to-cloud"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,226 Amazon ratings",
     reviews: "1,226 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3YVH3X?tag=workcocoon-20",
     description:
       "Highest rating in this guide, with genuine searchable PDF creation and a 50-sheet ADF suited to larger archival projects. Auto crop and blank-page removal keep batch consistency higher, indirectly supporting more reliable OCR text-layer generation across a large document set.\n\nAs with every pick here, verify PDF/A compliance separately if your retention requirements demand it.\n\n50-sheet ADF suited to large archival batches. That said, pDF/A compliance not confirmed. Neither should be a surprise once you know to look for it.",
     specs: ["Searchable PDF OCR, 50-sheet ADF", "Auto crop, blank-page removal", "Highest rating in this guide", "Duplex desktop scanning"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 442 Amazon ratings",
     reviews: "442 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418QNsyyrDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FPQZ6H8?tag=workcocoon-20",
     description:
       "A genuine office-class Canon alternative with bundled OCR-to-searchable-PDF capability, if you prefer the Canon imageFORMULA line over Epson/ScanSnap. Lower review count reflects a more business-focused listing.\n\nSame OCR-accuracy-bounds-search-reliability principle applies here, use at least 300 DPI for documents you need to search reliably.\n\nWorth calling out specifically: bundled searchable PDF OCR. The catch is smaller review count than the top picks.",
     specs: ["Office-class duplex ADF scanner", "Bundled searchable PDF OCR", "Canon imageFORMULA line", "Business/office-focused design"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 2,338 Amazon ratings",
     reviews: "2,338 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/218Q14ube6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FBHTD9B?tag=workcocoon-20",
     description:
       "Explicitly converts documents into searchable PDF among its digital output formats, with a real 20-sheet ADF hopper for more consistent source scans than single-sheet-fed alternatives. A genuinely portable option if archival searchable-PDF creation needs to travel with you.\n\nExplicit 500 scans/day suggested volume helps you plan realistic batch archival project timelines around actual sustainable throughput.\n\nExplicit daily volume disclosure aids project planning. Set against that, lower rating than the Epson/ScanSnap picks. Both matter when comparing it to the other picks here.",
     specs: ["Built-in searchable PDF conversion", "20-sheet ADF hopper, duplex", "Explicit 500 scans/day rating", "1.7 lb, portable"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,004 Amazon ratings",
     reviews: "1,004 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Ty0waBx4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P3ZT5WH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08P3ZT5WH?tag=workcocoon-20",
     description:
       "A separate ES-580W listing worth comparing on price against the rank-2 entry, same wireless duplex desktop capability and searchable PDF creation via ScanSmart software. For large multi-hundred-page archival projects, remember batch searchable-PDF creation takes meaningfully longer than the scan time alone due to OCR processing.\n\nCompare current pricing across ES-580W listings before buying, the hardware is the same.\n\nThe standout detail is that searchable PDF plus Word/Excel conversion. Balancing that out, compare pricing against the other ES-580W listing before buying.",
     specs: ["Searchable PDF OCR via ScanSmart software", "Wireless + USB duplex desktop scanning", "Word/Excel conversion included", "Auto crop, blank-page removal"],

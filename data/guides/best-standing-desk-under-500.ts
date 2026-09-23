@@ -48,7 +48,7 @@ export const products: StandingDesk500[] = [
     standoutFeature:
       "275 lb dual motor, seamless 55x28\" top, USB-A in keypad, 5-year warranty",
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-flexispot-ec3-55x28-dual-motor-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B088R9GYJK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B088R9GYJK?tag=workcocoon-20",
     whyItWorks:
       "275 lb dual-motor capacity handles any home office configuration. 55x28\" seamless one-piece top provides large uninterrupted work surface. USB-A charging port built into memory keypad. 3-stage columns reach 48.4\" for users up to 6'2\". Under 45dB. 5-year FlexiSpot warranty covering frame and motors.",
     tradeoffs: [
@@ -86,7 +86,7 @@ export const products: StandingDesk500[] = [
     standoutFeature:
       "60\" wide surface, 50.5\" max height for 6'4\", 25.5\" min height for 4'11\", commercial T-frame",
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-vari-classic-electric-60x30-black.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B089CHQCTM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B089CHQCTM?tag=workcocoon-20",
     whyItWorks:
       "Widest surface in this guide at 60x30 inches - accommodates ultrawide or true dual-monitor setups. 50.5\" max height (highest in this guide) and 25.5\" min height (lowest) suit users from 4'11\" to 6'4\". Commercial T-style frame. Tool-free assembly in 30 minutes. 5-year Vari warranty.",
     tradeoffs: [
@@ -124,7 +124,7 @@ export const products: StandingDesk500[] = [
     standoutFeature:
       "Triple motor, 330 lb capacity, L-shape corner configuration with 3 built-in drawers",
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-fezibo-triple-motor-l-shaped-63-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09B6X4TS6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09B6X4TS6?tag=workcocoon-20",
     whyItWorks:
       "Only L-shaped standing desk under $500 in this guide. Triple motor (one in each of 3 legs) eliminates lateral sway at standing height. 330 lb capacity is highest in this guide. Three built-in drawers eliminate need for separate storage pedestal. Corner configuration maximizes small room layouts.",
     tradeoffs: [
@@ -164,7 +164,7 @@ export const products: StandingDesk500[] = [
     standoutFeature:
       "Sloped waterfall front edge reduces wrist/forearm pressure during long typing sessions",
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-vari-comfortedge-48x30-black.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CT8XYKCL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8XYKCL?tag=workcocoon-20",
     whyItWorks:
       "Sloped waterfall front edge reduces wrist and forearm pressure when resting arms on the desk during long typing sessions. 25\"-50.5\" height range matches the Vari Classic in a more compact 48x30\" footprint. Most affordable Vari option at $399 with the same T-frame and 5-year warranty.",
     tradeoffs: [
@@ -202,7 +202,7 @@ export const products: StandingDesk500[] = [
     standoutFeature:
       "Solid rubberwood top, 4-leg frame, built-in power outlets and USB charging in desktop",
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-flexispot-e3q-pro-4-leg-rubberwood.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0H5K2JP2L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H5K2JP2L?tag=workcocoon-20",
     whyItWorks:
       "Only desk in this guide with a solid rubberwood top - real hardwood that improves with age rather than showing laminate wear. Four-leg square frame eliminates directional sway at standing height (resists both front-back and left-right movement). Built-in power outlets and USB charging in the desktop surface. Integrated cable management tray.",
     tradeoffs: [

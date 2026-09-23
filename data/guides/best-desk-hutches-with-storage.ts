@@ -35,7 +35,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "39,764 reviews",
     imageUrl: `${BASE}/furinno-5shelf.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F5GQNHRN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F5GQNHRN?tag=workcocoon-20",
     description:
       "The Furinno Classic hutch spans 37 inches wide and stacks five open shelves above the desk surface, giving enough vertical storage for books, binders, and small accessories in a single footprint. The FSC-certified wood construction comes in white and sits wide enough to clear a 24-inch monitor while still leaving shelf space on both sides.\n\nWith nearly 40,000 reviews, it has the strongest buyer validation in this category. Assembly is straightforward, though the particle board shelves can show wear at contact points over time. Best suited for home offices or student desks where abundant open shelf storage matters more than drawers.",
     specs: ["37 inches wide", "5 open shelves", "Fits 24-inch monitor"],
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "564 reviews",
     imageUrl: `${BASE}/choochoo-drawer-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CWLCHKZD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CWLCHKZD?tag=workcocoon-20",
     description:
       "The ChooChoo combines five open shelves with a single pull-out drawer at the base, giving both visible storage for books and concealed storage for small items like chargers, notepads, or stationery. At 36.4 inches tall, it adds significant vertical capacity above the desk in a white finish that suits most home office setups.\n\nAt 4.6 stars with 564 reviews, the feedback is strong for a newer product. The drawer is fabric-lined and smooth-sliding, though the overall unit is taller than wider, so it works best beside rather than spanning a monitor.",
     specs: ["36.4 inches tall", "5 shelves", "1 drawer", "White finish"],
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "454 reviews",
     imageUrl: `${BASE}/snughome-4tier-rustic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=workcocoon-20",
     description:
       "The Snughome shelf stretches 38.6 inches wide across four tiers and is designed to sit over or behind a 28-inch monitor without blocking the screen. The rustic brown finish gives it a warmer look than white painted options and suits natural wood or industrial desk setups.\n\nAt 4.7 stars with 454 reviews, it earns the highest rating in this roundup. Four tiers provide organized zones for books, plants, speakers, and everyday desk items. There are no drawers, so all storage is open and visible.",
     specs: ["38.6 inches wide", "4 tiers", "Fits 28-inch monitor"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "312 reviews",
     imageUrl: `${BASE}/vevor-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DWSJLCML?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWSJLCML?tag=workcocoon-20",
     description:
       "The VEVOR desktop bookshelf delivers five open shelves in a compact white hutch at an accessible price. The clean white finish and symmetrical layout suit minimalist home offices, and the five shelves create distinct zones for reference books, small plants, or accessories. At a competitive price and 4.5 stars with 312 reviews, it offers solid value for buyers who want more shelves than drawers. There is no concealed storage, and the compact form works better on wider desks where it sits behind the monitor rather than occupying side space.",
     specs: ["5 shelves", "White finish", "Compact desk hutch"],
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "289 reviews",
     imageUrl: `${BASE}/deli-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CMD1M7Y2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMD1M7Y2?tag=workcocoon-20",
     description:
       "The deli desktop shelf organizes five shelves across a 3-tier layout in a white wood finish with a slightly more refined look than budget particle board options. The tiered configuration staggers shelf heights, which is useful when mixing books of different sizes with small accessories or a speaker. At a competitive price and 4.5 stars with 289 reviews, it sits in the mid-price range. The wood finish feels more premium than similarly priced competitors, though the absence of drawers means all storage remains visible. Fits well in home offices where appearance is a priority alongside function.",
     specs: ["5 shelves", "3-tier display", "White wood finish"],
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "245 reviews",
     imageUrl: `${BASE}/nromant-white.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CN4H17QL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CN4H17QL?tag=workcocoon-20",
     description:
       "The Nromant bookshelf adds a sixth shelf to the 3-tier desktop layout, giving more individual storage slots than most competitors in this size range. The white finish and symmetrical design suit clean home office setups, and the additional shelf is useful for separating items by category without stacking. At a competitive price and 4.4 stars with 245 reviews, it is slightly pricier than the deli option with one more shelf. The trade-off is modest - an extra shelf for roughly a competitive price more. No drawers are included, so the unit works best for buyers prioritizing visible shelf count over concealed storage.",
     specs: ["6 shelves", "3-tier design", "White finish"],
@@ -190,7 +190,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "193 reviews",
     imageUrl: `${BASE}/hoobro-led-outlets.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CRV7VNDW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRV7VNDW?tag=workcocoon-20",
     description:
       "The HOOBRO bookcase integrates a LED light strip, two AC outlets, and two USB charging ports into a 29.9-inch desktop shelf unit in rustic brown. This makes it function as both a storage hutch and a desktop power station, reducing the need for a separate power strip on the desk surface. At 4.7 stars and a competitive price with 193 reviews, it earns a strong rating for the feature set at this price. The LED adds ambient desk lighting without a separate lamp. The rustic brown finish suits warm or industrial setups, and the combined storage and power functionality suits home office setups where outlets near the desk are limited.",
     specs: ["LED light strip", "2 AC outlets", "2 USB ports", "Rustic brown"],
@@ -217,7 +217,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "134 reviews",
     imageUrl: `${BASE}/marbrasse-drawer-black.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DJ8MD6P5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DJ8MD6P5?tag=workcocoon-20",
     description:
       "The Marbrasse shelf runs 40 inches wide across four tiers and includes a fabric slide-out drawer at the base, all in a black finish. At 40 inches, it is the widest hutch in this roundup and can span a monitor while leaving shelf space on both sides for speakers, plants, or books. At a competitive price and 4.3 stars with 134 reviews, it is the most affordable hutch with a drawer in this roundup. The black finish suits dark desk setups and darker room tones. The fabric drawer is good for storing lightweight items but is not as rigid as a wood or metal drawer. Fewer reviews than most picks but strong value at this price.",
     specs: ["40 inches wide", "4 tiers", "Fabric drawer", "Black finish"],

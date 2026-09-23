@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "32,606",
     imageUrl: "https://m.media-amazon.com/images/I/31+F3sAWSTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07P2VK93P?tag=workcocoon-20",
     description:
       "This gooseneck arm clamps to desk edges via an anti-slip silicone base pad that the listing specifies will not mark furniture, a genuine desk-mounting concern this narrower guide focuses on. The 33.46 inch aluminum arm reaches well above a standard desk surface for hands-free viewing.\\n\\nAt this price and review volume it is the most proven desk-clamp option in this cluster, though the clip's 4.0-6.3 inch phone width tolerance should be checked against your phone plus case combined.\n\nIt leads this comparison mainly on build reinforcement and how well it holds a phone steady during touch interaction, worth weighing directly against the MAGIPEA Gooseneck Phone Holder.\n\nNon-marking silicone base pad. That's a real strength, but weigh it against the flip side: narrower clip width than some alternatives.",
     specs: ["33.46in flexible aluminum arm","Anti-slip silicone desk clamp","Fits phones 4.0-6.3in wide","360° rotation"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "23,326",
     imageUrl: "https://m.media-amazon.com/images/I/31sVYQbspmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B079QY6RFQ?tag=workcocoon-20",
     description:
       "MAGIPEA's clamp opens to 3 inches, wider than most competitors in this cluster, making it a better fit for thick standing-desk tops or desks with a raised edge lip. EVA pads at the contact points protect the desk finish.\\n\\nThe arm itself uses a stiff aluminum core rather than a spring, so repositioning takes two hands, but the tradeoff is minimal sag over time once set.\n\nSet against the SAIJI Gooseneck Bed Phone Holder, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: minimal long-term sagging. The catch is two-handed repositioning.",
     specs: ["3in wide clamp opening","Stiff-core aluminum gooseneck","EVA desk-protective pads","Fits 3.5-7in devices"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "2,655",
     imageUrl: "https://m.media-amazon.com/images/I/515BergNltL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKYS81T4?tag=workcocoon-20",
     description:
       "This LISEN arm's bi-directional clamp base is designed to work equally well on a desk, bed frame, or nightstand, useful if you move the arm between locations rather than leaving it permanently desk-mounted. Tension knobs at each joint let you dial in exact clip firmness for your phone and case combination.\n\nRelative to the MAGIPEA Gooseneck Phone Holder, this pick leans toward a different priority, whether that's a lower price, a longer reach, or a mounting style suited to a different desk edge.\n\nAdjustable tension per joint. Set against that, higher price than dedicated desk-only arms. Both matter when comparing it to the other picks here.",
     specs: ["Bi-directional clamp base","Tension-adjustable joints","Steel body construction","Foldable for storage"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,732",
     imageUrl: "https://m.media-amazon.com/images/I/419C11rQcXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5YJ42CX?tag=workcocoon-20",
     description:
       "The crab clamp on this magic arm opens to 63.5mm and locks via a friction knob rather than spring tension alone, giving it the most secure desk-edge grip in this cluster. Twelve silicone contact points protect both the clamp and the desk surface from scratches.\n\nCompared with the LISEN Cell Phone Holder for Bed Desk above, this pick trades some of that pick's reach or reinforcement for a different balance of price and simplicity, worth weighing against your own desk setup.\n\nProtects desk surface at 12 contact points. That's a real strength, but weigh it against the flip side: most expensive pick in this cluster.",
     specs: ["Crab clamp opens to 63.5mm","Friction-knob locking","600g load capacity","12 anti-slip/scratch points"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "988",
     imageUrl: "https://m.media-amazon.com/images/I/31jBgnNJK5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DN1C9RH2?tag=workcocoon-20",
     description:
       "NEEWER's C clamp uses anti-twist mounting pins at each interface, keeping the connection secure specifically at the desk-edge attachment point even under repeated adjustment. It carries the highest rating of this cluster's magic arms, at a nearly identical price to the SMALLRIG pick.\n\nSet against the SMALLRIG 22\" Magic Arm Clamp, the tradeoff here comes down to arm reach and clamp range versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: anti-twist desk clamp connection. The catch is same premium price as SMALLRIG.",
     specs: ["C clamp with anti-twist pins","1/4in and 3/8in threads","Non-slip clamp pads","Phone holder fits 2.2-3.2in"],

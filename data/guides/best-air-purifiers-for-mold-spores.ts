@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed for mold with by far the largest review base of any pick here, True HEPA H13 captures spores well within its 0.3-micron efficiency range at 99.97%.\n\nThis captures airborne spores circulating through the room, it doesn't remediate an active mold source on a wall or in ductwork, which needs moisture control and physical remediation first.\n\nA genuine advantage here is that by far the largest review base of any pick here. The tradeoff is that doesn't remediate an active mold source.",
     specs: ["True HEPA H13, marketed for mold spores", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A filter indicator genuinely helps track replacement timing, meaningful for mold-prone environments where filters may need more careful, more frequent handling than standard dust use.\n\nA large review base and 3-year warranty back this as a proven pick, though a persistent musty smell alongside visible growth signals an active source needing remediation, not just filtration.\n\nFilter indicator helps track replacement in mold-prone environments. That said, higher price than the top pick. Neither should be a surprise once you know to look for it.",
     specs: ["HEPA filter, filter indicator", "Air quality monitor", "3-year warranty", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 616 Amazon ratings",
     reviews: "616 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CulL9tCOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K3R8QPF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K3R8QPF?tag=workcocoon-20",
     description:
       "A 5-stage design with substantial filtration depth, genuinely built for a heavier ongoing mold-spore load such as a basement or a home with chronic humidity issues.\n\nEven this higher-capacity unit only manages airborne spore circulation, addressing chronic humidity with a dehumidifier alongside this unit is what actually reduces the source generating new spores.\n\nWorth calling out specifically: smart app control for monitoring. The catch is highest price in this guide by a wide margin.",
     specs: ["5-stage filtration", "Smart app control", "Higher capacity for chronic spore load", "Multi-stage design"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "An affordable option with a solid review base, genuinely capable for a room with occasional mold-spore presence rather than a chronic high-humidity environment.\n\nOccasional presence in a well-ventilated room is a reasonable fit here, a chronic damp basement benefits more from the higher-capacity pick paired with a dehumidifier.\n\nSolid review base. Set against that, not intended for chronic high-humidity mold environments. Both matter when comparing it to the other picks here.",
     specs: ["HEPA filtration", "Solid review base", "Budget-friendly", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control, genuine headroom for a larger room where an active mold source is producing an ongoing higher spore count than a small room would see.\n\nSize up from a standard-capacity unit for a larger affected room, but pair it with actual moisture control and remediation of the source, not filtration alone.\n\nThe standout detail is that smart app control for monitoring. Balancing that out, higher price than budget alternatives.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Extra headroom for larger affected rooms"],

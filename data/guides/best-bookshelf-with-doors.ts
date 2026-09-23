@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "2,298",
     imageUrl: "https://m.media-amazon.com/images/I/51P0hhxgYxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=workcocoon-20",
     description:
       "The VASAGLE Liry pairs 2 open display tiers on top with a fully enclosed 2-door cabinet below, giving you both visible shelf space for decor and hidden storage for clutter in one unit. It carries the highest weight capacity in this entire guide at 374.8 lbs, backed by 3 adjustable shelves with 5 different height options to fit taller books or bins.\n\nA robot-vacuum-friendly base with 3.5 inches of clearance means you can keep the floor underneath clean without moving the bookcase, a small detail that makes a real difference in day-to-day upkeep. The two-tone Cloud White and Warm Brown finish gives it a farmhouse look that fits a wide range of living rooms and home offices.\n\nRobot-vacuum-friendly base for easy cleaning. That's a real strength, but weigh it against the flip side: only 2 tiers stay open for display versus fully open bookcases.",
     specs: [
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "746",
     imageUrl: "https://m.media-amazon.com/images/I/31OuUlfdpbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=workcocoon-20",
     description:
       "The Shintenchi matches the VASAGLE on price while taking a more industrial approach, mixing 4 open shelves with 2 fully enclosed shelves behind doors for a balance tilted toward visible display. P2-grade MDF panels sit inside a black metal frame, and an included stability device helps keep the tall 70.9-inch unit anchored.\n\nAt just 9.3 inches deep, it has the shallowest footprint of any pick in this guide, making it a good fit for narrow hallways or tight corners where a deeper bookcase wouldn't work. Total capacity comes in at 300 lbs across the frame.\n\nWorth calling out specifically: 4 open plus 2 enclosed shelves for balanced storage. The catch is lowest rating among the enclosed-cabinet picks.",
     specs: [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "294",
     imageUrl: "https://m.media-amazon.com/images/I/5190O+yC6RL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DP7DR8TM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DP7DR8TM?tag=workcocoon-20",
     description:
       "The IRONCK combines 3 open tier shelves, 1 enclosed cabinet door, and 3 fabric drawers, the most complete mix of storage types in this guide. That variety lets it double as a bookshelf, a small file cabinet, or a display case depending on which section you use for what, useful if you have several different kinds of items to organize.\n\nMDF construction is scratch-resistant, and built-in anti-falling devices plus a reinforced load-bearing base add stability given the tall 71-inch frame. Each shelf handles up to 44 lbs, solid capacity for a unit balancing this many different storage formats.\n\nDoubles as a bookshelf, file cabinet, or display case. Set against that, only 1 door versus 2 on several other picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,775",
     imageUrl: "https://m.media-amazon.com/images/I/41S845HyZML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01NARXXJ1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01NARXXJ1?tag=workcocoon-20",
     description:
       "The Sauder Palladia takes the most traditional approach in this guide, with framed double doors that fully enclose the entire bookcase rather than just a lower section, ideal if you want to hide clutter completely rather than leave any shelves on display. Five total compartments include 2 adjustable shelves so you can customize the interior layout. A Vintage Oak finish with black hardware gives it a classic library look that fits more formal or traditional home offices, and hidden cord access lets you route electronics behind the closed doors without unsightly cables. It's also the only pick in this guide backed by a 5-year warranty. A genuine advantage here is that fully enclosed, hides all shelves from view. The tradeoff is most expensive pick in this guide.",
     specs: [
@@ -181,7 +181,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "167",
     imageUrl: "https://m.media-amazon.com/images/I/51kB0TR8G4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DPHMTB47?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DPHMTB47?tag=workcocoon-20",
     description:
       "The SEDETA brings a soft white farmhouse finish with a hand-crafted groove texture that adds visual interest without going as rustic as the barn-door picks in this guide. Six tiers combine with cabinet doors and a single drawer, giving a mix of open, enclosed, and drawer storage in one elegant frame.\n\nP2-grade MDF construction keeps the piece sturdy at 300 lbs of total capacity, and an anti-tip kit is included for safety in households with kids or pets. If you want a bookshelf with doors that leans elegant rather than industrial, this is one of the more polished options here.\n\nCombines 6 tiers, cabinet doors, and a drawer. On the other hand, smaller review sample than most other picks. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "306",
     imageUrl: "https://m.media-amazon.com/images/I/51eGqFV-UGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D48HC6MQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D48HC6MQ?tag=workcocoon-20",
     description:
       "The Joaxswe stands out with sliding barn doors instead of swinging cabinet doors, a distinctive farmhouse detail that also saves floor clearance since the doors don't need to swing open. A unique wood grain pattern runs across the panels, and metal edge decoration along the frame adds a rustic-industrial accent.\n\nFive adjustable shelves sit behind and beside the sliding doors, and a wider wooden base than most picks in this guide adds extra stability. An anti-tip-over device is included, important given the barn-door mechanism's added hardware at the top of the frame.\n\nUnique grain pattern and metal edge accents. That's a real strength, but weigh it against the flip side: higher price than most non-barn-door picks.",
     specs: [
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     rating: "4.9",
     reviews: "26",
     imageUrl: "https://m.media-amazon.com/images/I/515C0UkaFhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FZTSHJSM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FZTSHJSM?tag=workcocoon-20",
     description:
       "The ORRD is the highest-rated pick in this entire guide at 4.9 stars, sold as a matched pair of arched bookshelves designed to flank a doorway, sofa, or fireplace as a coordinated statement piece. Each unit combines an arched silhouette with scalloped cabinet doors and gold accent handles, a mid-century modern look that stands well apart from the farmhouse and industrial styles elsewhere in this guide. Each bookshelf in the pair offers 4 open display shelves plus 1 closed cabinet section, so you still get plenty of visible shelving alongside the enclosed storage. An anti-tip kit is included on each unit, and the set is available in Natural or Walnut finishes. Worth calling out specifically: striking arched silhouette with scalloped doors and gold handles. The catch is most expensive pick in this guide for the pair.",
     specs: [
@@ -280,7 +280,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "78",
     imageUrl: "https://m.media-amazon.com/images/I/51kneUck0LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FN7KR57S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FN7KR57S?tag=workcocoon-20",
     description:
       "The FACBOTALL is the widest single unit in this guide at 71 inches, spreading 18 shelves across 6 tiers behind 6 individual farmhouse barn doors with gold handles, more doors and more total shelving than any other pick here. That scale makes it well suited to serving as a home library or even a room divider in an open floor plan.\n\nFPB and MDF construction keeps shelves thickened to 24mm for durability under a full load of books, and each shelf handles up to 66 lbs. An anti-tipping device is included given the unit's height and width, and the black finish with gold hardware gives it a bold, modern-farmhouse look.\n\n18 shelves and 6 barn doors, the most of any pick here. Set against that, very large footprint needs a spacious room. Both matter when comparing it to the other picks here.",
     specs: [

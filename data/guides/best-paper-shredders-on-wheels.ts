@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from 1,061 Amazon ratings",
     reviews: "1,061 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31LSE9gHSWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DTKBX3D9?tag=workcocoon-20",
     description:
       "Explicitly features 360-degree smooth-rolling casters for easy repositioning around a shared workspace. Its 14-sheet capacity and 20-minute run time are substantial enough that a full 5.3-gallon bin will noticeably increase rolling effort versus empty, plan for that when moving it to empty rather than assuming consistent ease.\n\nNo explicit caster-locking mechanism is mentioned, worth verifying stability during operation if you're placing this on an uneven floor.\n\nWorth calling out specifically: high capacity and long run time for the price. The catch is no explicit caster-locking mechanism confirmed.",
     specs: ["360° smooth-rolling casters", "14-sheet cross-cut, P-4", "20-minute continuous run, up to 1,400 sheets/session", "5.3-gallon bin"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "A solid mid-range pick with a 5.5-gallon bin on wheels, giving good rolling utility at a reasonable price. Higher rating than the rank-1 pick, suggesting reliable real-world satisfaction with the overall unit including its mobility.\n\nCaster locking isn't explicitly confirmed here either, verify stability during operation for your specific floor type before assuming it's rock-solid while running.\n\nGood rolling utility for a large 5.5-gallon bin. Set against that, caster locking not explicitly confirmed for operational stability. Both matter when comparing it to the other picks here.",
     specs: ["Caster wheels, 5.5-gallon bin", "12-sheet cross-cut, P-4", "15-minute continuous run, ~900 sheets/cycle", "Jam-proof reverse"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31snLzhrJGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07R3FXLLQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07R3FXLLQ?tag=workcocoon-20",
     description:
       "The highest capacity wheeled pick in this guide at 18 sheets, with an enormous review base reflecting broad real-world trust. Casters are included for mobility, and the 6-gallon bin will be genuinely heavy to roll once full, worth expecting from a bin this size.\n\nP-3 security is a step below the P-4 picks elsewhere in this guide, worth knowing if security level matters as much as capacity and mobility.\n\nThe standout detail is that massive review base reflecting broad trust. Balancing that out, p-3 security level, lower than the P-4 picks elsewhere.",
     specs: ["Caster wheels, 6-gallon bin, P-3 cross-cut", "18-sheet manual feed", "30-minute continuous run time", "3 push-button controls, LED indicators"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31AP7IG-MYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NY9W23W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NY9W23W?tag=workcocoon-20",
     description:
       "A genuine P-4 security level (unlike the rank-3 pick's P-3) at 15-sheet capacity, with the same enormous review base shared across Amazon Basics' popular shredder line. An automatic sleep mode after 30 minutes of idle time is a nice power-saving touch alongside its caster mobility.\n\nSame full-bin rolling-weight consideration applies here as with any 6-gallon wheeled bin.\n\nMassive review base. That's a real strength, but weigh it against the flip side: full 6-gallon bin will be heavy to roll.",
     specs: ["Caster wheels, 6-gallon bin, P-4 cross-cut", "15-sheet manual feed, 8.7-inch entry", "20-minute continuous run time", "Auto sleep mode after 30 min idle"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ZVKWNs1oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WJ4NLFX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WJ4NLFX?tag=workcocoon-20",
     description:
       "At 24 sheets and a 7-gallon bin, this is the highest-capacity wheeled shredder in this guide by a wide margin, meaning the fullest, heaviest bin to roll among all these picks once loaded, plan your pivot/turning clearance carefully if this lives under a desk. A 40-minute continuous run time matches the substantial capacity.\n\nP-4 security and the same massive Amazon Basics review base as the other picks in this line.\n\nP-4 security level. On the other hand, heaviest full bin to roll among all picks in this guide. Both are worth keeping in mind before deciding.",
     specs: ["Caster wheels, 7-gallon bin, P-4 cross-cut", "24-sheet manual feed, 8.7-inch entry", "40-minute continuous run time", "4-mode power switch, anti-jam auto reverse"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 10,748 Amazon ratings",
     reviews: "10,748 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41FCXr1akDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00IOFD08C?tag=workcocoon-20",
     description:
       "Explicitly mentions casters for convenient moving alongside its 60-minute continuous run time, the longest in this guide, and a 6-gallon bin holding 400+ sheets. A genuinely well-rounded pick that happens to also roll, rather than a wheels-first design.\n\nSame full-bin weight consideration as any large-bin wheeled shredder, expect noticeably more rolling effort once loaded.\n\nA genuine advantage here is that large review base and high rating. The tradeoff is that full bin will be noticeably heavier to roll than empty.",
     specs: ["Caster wheels, 6-gallon bin, 400+ sheets", "18-sheet cross-cut, P-4", "60-minute continuous run time", "62dB, transparent window"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "The highest rating and a very large review base in this guide, though its wheeled mobility isn't the headline feature the way it is on the other picks here. Still a genuinely well-regarded, reliable shredder at 12 sheets and a 5-gallon bin.\n\nA solid choice if overall shredder quality and track record matter more to you than maximum wheeled rolling capability.\n\nLong 60-minute run time. That said, wheels/mobility aren't the primary selling point here. Neither should be a surprise once you know to look for it.",
     specs: ["Caster-equipped, 5-gallon bin, P-4 micro-cut", "12-sheet manual feed", "60-minute continuous run time", "LED status indicators"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31H0gGU7jHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09N991KVT?tag=workcocoon-20",
     description:
       "A compact, budget-friendly pick with a portable handle rather than full caster wheels, worth noting this is closer to a carry-handle design than the rolling-caster picks elsewhere in this guide. Its compact 12.6 x 7.91 x 18.3 inch size makes it easy to place in a corner or under a desk regardless.\n\nA reasonable choice for buyers who want portability without necessarily needing rolling casters specifically.\n\nWorth calling out specifically: compact footprint fits tight spaces. The catch is portable handle, not full rolling casters like the other picks.",
     specs: ["Portable handle (not full caster wheels)", "12-sheet cross-cut, P-4", "6-minute continuous run time", "5.5-gallon bin, compact"],

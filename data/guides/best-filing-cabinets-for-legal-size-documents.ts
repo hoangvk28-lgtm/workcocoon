@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,373 Amazon ratings",
     reviews: "1,373 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Nz-Myx-1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=workcocoon-20",
     description:
       "This three-drawer cabinet is one of the few in this price range that lists letter, legal, and A4 compatibility directly in its title, a stronger signal than the vaguer general-purpose listings competitors often carry. It ships fully assembled, which matters for legal-size units since misaligned rails from a rushed home assembly job are a common complaint on cabinets that require buyer setup.\n\nAt 4.5 stars across 1,373 ratings, it has the strongest feedback record in this list. The internal drawer width is not stated to the inch in the listing, so if you have an existing set of legal hanging folders, it is worth measuring your current cabinet's rail spacing and comparing before assuming a drop-in fit.\n\nWorth calling out specifically: fully assembled, avoiding rail misalignment from home setup. The catch is exact internal drawer width in inches not published.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,681 Amazon ratings",
     reviews: "1,681 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31wnmQx3CxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08G53L8B5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08G53L8B5?tag=workcocoon-20",
     description:
       "DEVAISE states letter, legal, and A4 fit directly, and its all-metal fully assembled build is a reasonable proxy for sturdier hanging rails than the fabric-drawer cabinets that sometimes appear in general filing searches. At 1,681 ratings and a 4.5-star average, it matches the top pick's feedback strength while carrying a higher price.\n\nHeavier legal-size loads benefit from full-extension drawer slides rated for the added paper weight, and this listing does not specify slide load capacity, so treat 'metal construction' as a partial signal rather than a guarantee against sag under a fully loaded legal drawer.\n\nFully assembled all-metal build. Set against that, highest price in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,671 Amazon ratings",
     reviews: "1,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ukHwAN+yL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTNJY2HB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTNJY2HB?tag=workcocoon-20",
     description:
       "Lateral cabinets are a rarely suggested but often better option for legal-size storage, since the wider drawer body gives hanging files more side-to-side room without needing extra front-to-back depth. This model confirms letter, legal, and A4 fit, and at 27.95 by 28.35 inches it needs more side clearance than a vertical cabinet of similar capacity.\n\nWith 1,671 ratings at 4.2 stars, feedback is solid though slightly below the top two picks. Confirm your hanging files will orient correctly in a lateral drawer, since not every lateral cabinet supports both front-to-back and side-to-side rail configurations for legal-size folders.\n\nThe standout detail is that lateral design suits legal-size files needing side-to-side room. Balancing that out, needs more side clearance than vertical cabinets.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 616 Amazon ratings",
     reviews: "616 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31cXnfFFSML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQL795FX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQL795FX?tag=workcocoon-20",
     description:
       "This is the lowest-priced pick in this list and one of the narrower vertical cabinets, listing letter, A4, and legal compatibility together. A narrow footprint is convenient for tight home offices, but a narrow external cabinet does not automatically mean a narrow internal drawer, since legal files need roughly 15.25 inches of internal drawer width regardless of how compact the outer shell looks.\n\nAt 4.2 stars across 616 ratings, it has a smaller review base than the top three picks. Easy assembly is noted in the listing, so factor in a short setup step, and verify hanging rail spacing once assembled if you plan to load it exclusively with legal folders.\n\nLowest price in this list. That's a real strength, but weigh it against the flip side: internal drawer width not confirmed to the inch.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 1,425 Amazon ratings",
     reviews: "1,425 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Aix6uWuJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=workcocoon-20",
     description:
       "Honesty check: this listing only confirms A4 and letter size fit, not legal, so it is included here as a lower-cost alternative rather than a verified legal-size pick. The 24-inch extended desktop on top adds a useful printer stand surface, and its fabric drawer fronts trade some durability for lighter overall weight compared to the all-metal picks above. At a competitive price with a 4.2-star rating across 1,425 reviews, it is a reasonable choice if you mostly file letter and A4 documents with only occasional legal-size paperwork that could be folded or stored loose rather than hung on rails sized for legal width. Affordable priced competitively. On the other hand, legal-size compatibility not confirmed in the listing. Both are worth keeping in mind before deciding.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 1,303 Amazon ratings",
     reviews: "1,303 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VM3xK++PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9XYD75W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9XYD75W?tag=workcocoon-20",
     description:
       "Honesty check: this cabinet's listing states letter size only, with no legal-size claim, so treat it as a letter-focused steel cabinet rather than a legal-size pick. It does explicitly call out steel body construction, a more direct build-quality claim than several vaguer 'metal' listings, and requires assembly rather than arriving ready to use. At a competitive price with a 4.0-star rating across 1,303 reviews, it is a mid-tier value option for buyers whose filing needs are mostly letter-size, with legal documents handled separately or stored flat rather than hung on rails this cabinet was not confirmed to support. A genuine advantage here is that locking mechanism included. The tradeoff is that legal-size compatibility not confirmed in the listing.",
     specs: [

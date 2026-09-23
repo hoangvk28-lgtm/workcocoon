@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "The DCP-L2640DW is a monochrome laser printer that installs a full driver package on Windows 11 with scan, copy, and maintenance tools, going well beyond what the operating system's built-in driver alone provides. Brother's laser engines are known for consistent, low-fuss operation on Windows, with fewer reported offline and reconnection issues than some inkjet competitors.\n\nAutomatic duplex printing and wireless connectivity round out a printer built for steady document output rather than photos. It costs more upfront than the inkjet picks here, but a laser engine typically holds up to higher print volumes with fewer maintenance interruptions over its lifespan.\n\nLaser reliability with fewer reported connectivity issues. Set against that, highest price in this list. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The TR4720 installs through Canon's full driver on Windows 11, which brings scan and print quality settings beyond the operating system's automatically-installed basic driver. Its auto document feeder is a genuinely useful inclusion at this price for scanning multi-page documents without repositioning each sheet. Windows 11's built-in printer troubleshooter is a reasonable first step if this printer ever shows offline, since it resolves many spooler-related hiccups without needing a full driver reinstall. It is an affordable entry point for a home office that mostly needs occasional document printing and scanning. A genuine advantage here is that auto document feeder for multi-page scans. The tradeoff is cartridge-based ink costs more per page over time.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B096N8DN2H?tag=workcocoon-20",
     description:
       "The ET-2800 replaces disposable cartridges with refillable ink tanks, meaningfully lowering the cost per page for a Windows 11 home office printing regularly. Epson's full Windows driver package includes the Epson Scan 2 utility and print quality controls that the operating system's automatic driver install does not provide on its own.\n\nThe higher upfront price is offset over time by ink savings for households that print often. It does not include an automatic document feeder, so multi-page scanning is done manually on the flatbed.\n\nFull driver package with scan utility. On the other hand, higher upfront price than cartridge models. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09P45LR5T?tag=workcocoon-20",
     description:
       "The ET-4800 adds an auto document feeder and Ethernet to the EcoTank lineup, both useful in a Windows 11 home office where multiple PCs might share the printer over a wired network for a more stable connection than Wi-Fi alone. Ethernet connections are also less prone to the offline errors that wireless-only printers sometimes report after a router reboot or Windows update.\n\nThe full Epson Windows driver installs scan, copy, and maintenance tools beyond what Windows 11 sets up automatically. Refillable ink tanks keep cost per page low for households or small offices with steady print volume.\n\nAuto document feeder for multi-page scans. That's a real strength, but weigh it against the flip side: highest price in this list alongside the ET-2800.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The DeskJet 4355 pairs with the HP Smart app on Windows 11 for setup, print job monitoring, and mobile scanning, layered on top of the standard printer driver. If it ever shows as offline, running the Windows 11 printer troubleshooter first, before assuming the printer itself has failed, resolves many cases where the actual culprit is a stalled Print Spooler service rather than the hardware. A 3-month Instant Ink trial is bundled in, which converts to paid billing unless canceled, so set a reminder if you don't want ongoing charges. It is one of the cheapest ways into wireless printing for a Windows 11 desk setup. Worth calling out specifically: hP Smart app simplifies setup. The catch is instant Ink trial auto-converts to paid unless canceled.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FGC43YCL?tag=workcocoon-20",
     description:
       "The Work Smart 1360 installs Brother's full Windows 11 driver package, which includes duplex printing controls and status monitoring that go beyond the operating system's automatic driver install. Automatic duplex printing saves paper on longer documents printed from a Windows PC without manual page flipping.\n\nThe 1.8 inch color display makes checking print status and ink levels easier directly on the printer. A Refresh Subscription ink trial is included and converts to paid billing unless canceled within the trial window.\n\nColor display for easy status checks. Set against that, refresh Subscription trial auto-converts unless canceled. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41uW+KOhmiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07WL4JNH7?tag=workcocoon-20",
     description:
       "The TS5320 installs Canon's full Windows 11 driver, exposing print quality tiers, tray settings, and scan controls that the operating system's basic automatic driver does not surface on its own. The five-color individual ink system lets a single depleted color be replaced without discarding a combined cartridge.\n\nIt lacks an automatic document feeder, so multi-page scanning is manual on the flatbed. For a Windows 11 desk setup that mostly needs everyday color printing and occasional scanning, its compact size and individual ink tanks make it a practical middle-tier pick.\n\nA genuine advantage here is that individual ink tanks reduce waste. The tradeoff is no auto document feeder.",
     specs: [

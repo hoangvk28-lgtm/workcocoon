@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,401 Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "A genuinely single-router-sufficient pick for most apartment units, this dual-band design avoids paying for 6GHz range that concrete/steel construction would limit anyway.\n\nSmaller apartment square footage often means a single router is genuinely sufficient, this pick's affordable price avoids unnecessary multi-node mesh system overkill for a space that doesn't require it.\n\nSingle-router coverage avoids mesh system overkill. Set against that, no 6GHz radio for buyers who specifically want it. Both matter when comparing it to the other picks here.",
     specs: ["Dual-band, avoids paying for limited-range 6GHz in concrete buildings", "Single-router sufficient for typical apartment sizes", "4 antennas with beamforming", "Largest review base among apartment-appropriate picks"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,373 Amazon ratings",
     reviews: "1,373 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21--ly92xtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=workcocoon-20",
     description:
       "Rated for 2,000 sq ft, genuine headroom beyond most apartment unit sizes, a large review base backing this as a proven pick for the dense-neighbor-network interference apartments commonly face.\n\nAn established brand's beamforming and antenna design can help manage real interference from overlapping neighbor networks better than a purely budget alternative in a dense apartment building.\n\nThe standout detail is that established brand track record for interference management. Balancing that out, higher price than the budget-tier apartment pick.",
     specs: ["Dual-band, rated for 2,000 sq ft, 50 devices", "Established Nighthawk brand", "2.5 Gig internet port", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 290 Amazon ratings",
     reviews: "290 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vfCX-04BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHZGXZH7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHZGXZH7?tag=workcocoon-20",
     description:
       "A genuinely compact form factor that suits apartment placement constraints, limited furniture arrangement flexibility and no attic/basement to centralize equipment.\n\nThis compact size makes it easier to reposition on a shelf or bookcase for better central placement in a studio or one-bedroom layout, practical apartment-specific placement flexibility a bulkier router lacks.\n\nEasy to reposition for better central coverage. That's a real strength, but weigh it against the flip side: smaller review base than established mainstream brands.",
     specs: ["Dual-band, compact form factor", "2.5G port, USB 3.0", "Easy to reposition for central apartment placement", "Solid review base for this niche category"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 671 Amazon ratings",
     reviews: "671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EClf31jxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=workcocoon-20",
     description:
       "For a larger multi-bedroom apartment or one with an unusual layout defeating single-router coverage, this 3-pack mesh system genuinely addresses concrete/steel wall obstruction between rooms.\n\nMost apartment renters can't install wired Ethernet backhaul through walls, this system's wireless mesh nodes still work well without that infrastructure, a genuine renter-friendly advantage.\n\nWorks wirelessly without needing wired backhaul. On the other hand, overkill and higher cost for a typical studio or one-bedroom. Both are worth keeping in mind before deciding.",
     specs: ["Dual-band mesh, 3-pack, up to 6,500 sq ft", "Wireless mesh works without wired backhaul", "4-stream, 160MHz channel width", "Solid review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 356 Amazon ratings",
     reviews: "356 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21NuupEXJgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F114274T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F114274T?tag=workcocoon-20",
     description:
       "Rated for 80 devices, appropriate for a household with a lot of smart home devices and multiple people working from home in the same apartment simultaneously.\n\nThis higher device-count rating helps absorb the real congestion from dense neighbor Wi-Fi networks common in apartment buildings, without needing a full mesh system.\n\nA genuine advantage here is that established brand track record. The tradeoff is that higher price than the basic budget apartment pick.",
     specs: ["Dual-band, rated for 2,250 sq ft, 80 devices", "Established Nighthawk brand", "2.5 Gig internet port", "Higher device-count headroom"],

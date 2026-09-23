@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 13,635 Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A large review base backing Logitech's quiet click design, a genuine reduction in click actuation noise compared to standard mice without sacrificing all tactile click feedback, a real distinction from mechanisms that go fully silent at the cost of feel.\n\nThe scroll wheel on this design was engineered as part of the same overall quiet product line, worth noting since a genuinely quiet click mechanism paired with a noisy scroll wheel would undermine the whole 'silent' proposition in actual daily use.\n\nQuiet clicks without fully sacrificing tactile feedback. On the other hand, higher price than budget silent-marketed alternatives. Both are worth keeping in mind before deciding.",
     specs: ["Quiet click mechanism, retains tactile feedback", "Large review base", "Wireless, ergonomic vertical design", "Established Logitech reliability"],
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,670 Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A solid review base at a meaningfully lower price than the Logitech pick, genuinely marketed for reduced click noise appropriate for a shared home office or open-office environment.\n\nThis is directly relevant to shared work environments, realistic active-use noise, not idle or unused noise measurement, is what actually matters when you're clicking repeatedly during a work session next to someone else.\n\nA genuine advantage here is that genuinely marketed for shared work environment noise reduction. The tradeoff is that long-term dampening-material durability not independently verified.",
     specs: ["Reduced-noise click mechanism", "Rechargeable battery", "Solid review base", "Budget-friendly price"],
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 7,261 Amazon ratings",
     reviews: "7,261 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316GOiA3kCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1YD86Z6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1YD86Z6?tag=workcocoon-20",
     description:
       "Explicitly marketed with 'Quiet Clicks' directly in the product name, a large review base and high average rating back this as a genuinely proven quiet-click pick with triple connectivity options.\n\nSilent click mechanisms sometimes trade tactile click feedback for noise reduction, this design's dampening approach should be understood as a genuine feel tradeoff, not a free upgrade, before assuming it feels identical to a standard-click mouse.\n\nLarge review base with a high average rating. That said, tactile feedback may feel softer than a standard-click mouse, a genuine tradeoff. Neither should be a surprise once you know to look for it.",
     specs: ["Explicitly marketed 'Quiet Clicks'", "BT5.0/3.0 and 2.4G triple connectivity", "4800 DPI adjustable", "Large review base"],
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 12,710 Amazon ratings",
     reviews: "12,710 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31UoLhAJ4zL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DG5SW7F4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DG5SW7F4?tag=workcocoon-20",
     description:
       "A very large review base at the lowest price among the explicitly quiet-click picks in this guide, with 6 buttons offering more programmable options than the simpler alternatives.\n\nThe 12-month quoted battery life reduces how often you'll need to interact with the charging mechanism, a small but real convenience factor alongside the quiet-click focus for a buyer prioritizing low-maintenance daily use.\n\nWorth calling out specifically: 6 buttons for more programmable functionality. The catch is tactile feedback tradeoff for quiet clicks applies here too.",
     specs: ["Quiet clicks, 6 buttons", "12-month quoted battery life", "Very large review base", "Lowest price among quiet-marketed picks"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 15,431 Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "One of the largest review bases in this guide with a comfort-focused grip design, appropriate for a buyer prioritizing hand comfort alongside reduced click noise for extended shared-office sessions.\n\nRealistic active-use noise testing matters most here, a mouse marketed as comfortable and reduced-noise should be evaluated during actual repeated clicking in a real shared environment, not just an idle unboxing impression.\n\nComfort-grip design suits extended use sessions. Set against that, not as explicitly marketed for silence as the TECKNET picks. Both matter when comparing it to the other picks here.",
     specs: ["Comfort-grip ergonomic design", "Reduced click noise", "One of the largest review bases in this guide", "Rechargeable battery"],

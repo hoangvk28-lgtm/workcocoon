@@ -37,7 +37,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Consumer",
     materialReality: "Engineered wood + wear-resistant laminate",
     imageUrl: `${BASE}/02-modern_minimalist_office_workspace_with_greenery.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B007N7ZJLI?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B007N7ZJLI?tag=workcocoon-20",
     whyItWorks:
       "The Sauder Palladia line is Sauder's flagship home office collection - above their budget lines in construction quality and surface finish. The executive desk features a substantial drawer configuration: center drawer with flip-down keyboard panel, two pencil drawers, and file drawers with full-extension slides for hanging files. This is more storage than most competitors at this price range provide. The Palladia's warm finish options photograph well on video calls - important for WFH setups with regular client meetings.",
     tradeoffs: [
@@ -68,7 +68,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Consumer",
     materialReality: "Engineered wood + wear-resistant laminate",
     imageUrl: `${BASE}/03-modern_farmhouse_home_office_retreat.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00AJE8RWA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00AJE8RWA?tag=workcocoon-20",
     whyItWorks:
       "The L-shaped Palladia gives the maximum desk surface in this collection: a primary surface plus a full return leg for secondary monitor, reference materials, or a printer. For WFH users who genuinely work across two separate surface areas - dual monitor plus large reference space, or work computer plus personal setup - the L-shaped configuration is the most practical executive desk layout. The Palladia construction quality carries across the L-shaped configuration.",
     tradeoffs: [
@@ -98,7 +98,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Consumer",
     materialReality: "Engineered wood + laminate (Vintage Oak finish)",
     imageUrl: `${BASE}/04-cozy_modern_farmhouse_home_office.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07TXMC19Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07TXMC19Z?tag=workcocoon-20",
     whyItWorks:
       "Same Palladia construction as Rank 1, in the Vintage Oak color. The Vintage Oak finish has a warmer lighter tone than the dark finishes in the Palladia line - better suited for home offices with lighter wood floors, natural light, or a traditional study aesthetic. For buyers who have chosen the Palladia for storage and price but prefer a lighter warmer finish over the darker executive tone, this is the variant.",
     tradeoffs: [
@@ -126,7 +126,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Mid-range",
     materialReality: "Engineered wood, Bush Home quality tier",
     imageUrl: `${BASE}/05-elegant_home_office_with_wooden_desk.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08MN86G9Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08MN86G9Z?tag=workcocoon-20",
     whyItWorks:
       "Bush Home targets the residential market with better construction standards than Sauder's consumer line. The Saratoga executive desk uses the Bush Home quality standard: denser MDF substrate, better edge banding, more durable laminate finish. For WFH users who want a clear quality step up from Sauder without the price of Bush Business's commercial line, the Bush Home Saratoga is the practical middle choice. The drawer construction uses metal runners throughout - a Bush Home standard that results in smoother longer-lasting drawer operation.",
     tradeoffs: [
@@ -157,7 +157,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Commercial",
     materialReality: "Commercial-grade engineered wood, 10-year warranty",
     imageUrl: `${BASE}/06-modern_minimalist_home_office_workspace.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08BTK3ZM1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08BTK3ZM1?tag=workcocoon-20",
     whyItWorks:
       "Bush Business Furniture is built to a commercial standard: designed for environments where the desk is used 40+ hours per week. The material spec - higher-density substrate, commercial laminate, metal hardware throughout - reflects that standard. At 72 inches wide, the Office 500 is the widest desk on this list. The Black Walnut finish is one of the best-looking wood-tone executive finishes available in engineered wood - rich, dark, and reads as premium on video calls. The 10-year limited warranty is the most robust on this list.",
     tradeoffs: [
@@ -188,7 +188,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Commercial",
     materialReality: "Commercial-grade engineered wood",
     imageUrl: `${BASE}/07-modern_minimalist_office_with_natural_light.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0779GYD24?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0779GYD24?tag=workcocoon-20",
     whyItWorks:
       "The Studio C brings Bush Business commercial quality to a 60\" width - practical for WFH offices that are dedicated rooms but not oversized. Same commercial-grade construction and warranty backing as the Office 500, in a more space-efficient format. For WFH users who want Bush Business quality without the 72\" footprint, the Studio C is the direct answer. The 60\" width accommodates one large monitor or ultrawide display with keyboard and accessories.",
     tradeoffs: [
@@ -216,7 +216,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Consumer",
     materialReality: "Engineered wood + laminate (Costa line)",
     imageUrl: `${BASE}/08-modern_executive_office_with_warm_tones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B010EAI4DA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B010EAI4DA?tag=workcocoon-20",
     whyItWorks:
       "The Sauder Costa is a step below the Palladia in Sauder's lineup - lighter construction, coastal and cottage aesthetic (soft blues, light finishes), and lower price. For a home office with a casual beach-house or light-and-airy aesthetic that does not need the formal presence of a dark executive finish, the Costa delivers executive desk proportions in a lighter palette.",
     tradeoffs: [
@@ -246,7 +246,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Independent",
     materialReality: "Solid wood",
     imageUrl: `${BASE}/09-elegant_cozy_home_office_showroom.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D28H9XQP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D28H9XQP?tag=workcocoon-20",
     whyItWorks:
       "The QZYJKJ is one of only two genuinely solid wood options on this list. At 55 inches wide, it sits at the lower end of executive desk widths but provides real hardwood construction throughout - not engineered wood with a wood-look finish. For buyers who specifically want solid wood rather than engineered alternatives, this is the budget-accessible entry point into genuine hardwood construction at an executive desk size.",
     tradeoffs: [
@@ -277,7 +277,7 @@ export const products: ExecutiveDesk[] = [
     brandTier: "Independent",
     materialReality: "Solid wood top + metal base",
     imageUrl: `${BASE}/10-classic_executive_office_interiors_with_warmth.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0FV8X3JBT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FV8X3JBT?tag=workcocoon-20",
     whyItWorks:
       "The quanzhoulong desk takes a different aesthetic approach from the traditional executive desk format: solid wood top combined with a metal base rather than the full wood-and-drawer construction of the other options. This suits modern-industrial home offices where the traditional executive desk silhouette would look out of place. The solid wood top on a metal base is legitimate solid wood construction - the top surface is real hardwood.",
     tradeoffs: [

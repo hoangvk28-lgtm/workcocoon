@@ -38,7 +38,7 @@ export const products: WoodCabinet[] = [
     finish: "Pure White Oak",
     rating: "4.4 stars, 4,283 reviews",
     imageUrl: `${BASE}/bush-home-key-west-white-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B081ZP7MLY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B081ZP7MLY?tag=workcocoon-20",
     whyItWorks:
       "The Bush Home Key West has the strongest combination of rating and review count in this category. At 4.4 stars across more than 4,000 reviews, it has been validated at a scale that smaller-sample products cannot match. The Pure White Oak name refers to the finish, not confirmed solid wood construction. Bush Furniture is known for furniture-grade engineered wood products with realistic wood-grain surfaces. This cabinet fits well in light, airy home offices beside white or light wood desks and in Scandinavian or minimalist setups. Locking drawers, letter and legal file compatibility, and full-extension slides are all included.",
     tradeoffs: [
@@ -71,7 +71,7 @@ export const products: WoodCabinet[] = [
     finish: "Vintage Oak",
     rating: "4.0 stars, 1,741 reviews",
     imageUrl: `${BASE}/sauder-palladia-vintage-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B01MR4Q0WA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MR4Q0WA?tag=workcocoon-20",
     whyItWorks:
       "Sauder is one of the most recognized names in home office furniture. The Palladia line uses a vintage oak finish that replicates the worn, warm look of aged hardwood. With 1,741 reviews at 4.0 stars, it has enough real-world validation to recommend with confidence. This cabinet suits home offices with a warm, traditional, or farmhouse aesthetic. It pairs well with vintage wooden desks and dark wood desk setups.",
     tradeoffs: [
@@ -103,7 +103,7 @@ export const products: WoodCabinet[] = [
     finish: "Estate Black",
     rating: "4.3 stars, 979 reviews",
     imageUrl: `${BASE}/sauder-edge-water-estate-black.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B002ZJ9IJI?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B002ZJ9IJI?tag=workcocoon-20",
     whyItWorks:
       "The Edge Water in Estate Black is the right pick for buyers who want a dark, rich wood-look finish rather than a light oak or cherry tone. The 979-review sample at 4.3 stars is solid validation for this price tier. This finish pairs well with dark walnut desks, espresso-finished furniture, and modern home offices with black metal accents. The flat, wide top surface doubles well as a printer stand.",
     tradeoffs: [
@@ -135,7 +135,7 @@ export const products: WoodCabinet[] = [
     finish: "Harvest Cherry",
     rating: "4.3 stars, 972 reviews",
     imageUrl: `${BASE}/bush-home-cabot-harvest-cherry.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00E24N48K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00E24N48K?tag=workcocoon-20",
     whyItWorks:
       "The Bush Home Cabot in Harvest Cherry is one of the few readily available lateral file cabinets in a warm cherry finish. Cherry is a classic wood tone for traditional home offices and complements solid cherry or mahogany-finish desks. Like the other Bush Furniture products here, this is engineered wood with a cherry-toned laminate surface, not solid cherry wood. The 972-review base at 4.3 stars reflects good buyer satisfaction for the price.",
     tradeoffs: [
@@ -166,7 +166,7 @@ export const products: WoodCabinet[] = [
     finish: "Grand Walnut",
     rating: "4.0 stars, 465 reviews",
     imageUrl: `${BASE}/sauder-clifford-place-grand-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07C659WC3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07C659WC3?tag=workcocoon-20",
     whyItWorks:
       "The Clifford Place in Grand Walnut is Sauder's walnut-toned entry in the lateral file cabinet space. Walnut finishes are increasingly popular in home offices paired with mid-century modern or contemporary wood desks. With 465 reviews at 4.0 stars, it has a meaningful validation sample. The $303.99 price is on the higher end for an engineered wood product, but Sauder's build quality at this tier is generally reliable.",
     tradeoffs: [
@@ -197,7 +197,7 @@ export const products: WoodCabinet[] = [
     finish: "Mulled Cherry",
     rating: "4.3 stars, 195 reviews",
     imageUrl: `${BASE}/realspace-vertical-mulled-cherry.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B094YS5K81?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B094YS5K81?tag=workcocoon-20",
     whyItWorks:
       "The Realspace vertical cabinet in Mulled Cherry is the only vertical-format option in this roundup. It suits smaller home offices where floor space is limited and a narrow footprint matters more than a wide lateral cabinet. The 17-inch depth keeps it compact. With 195 reviews at 4.3 stars, it has adequate validation. Vertical format means less floor space but full drawer clearance is required in front when accessing files.",
     tradeoffs: [
@@ -228,7 +228,7 @@ export const products: WoodCabinet[] = [
     finish: "Oak Finish",
     rating: "4.2 stars, 143 reviews",
     imageUrl: `${BASE}/martin-huntington-oxford-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B002N1BMGA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B002N1BMGA?tag=workcocoon-20",
     whyItWorks:
       "Martin Furniture is positioned significantly above the other brands in this list, both in price and claimed build quality. The Huntington Oxford is fully assembled (no flat-pack assembly required) and uses an oak finish. Martin Furniture has a reputation for furniture-grade construction. Verify the current material specifications on the Amazon listing before ordering. If confirmed as a premium or solid wood product, it becomes the top pick by a wide margin for buyers who prioritize quality and convenience.",
     tradeoffs: [

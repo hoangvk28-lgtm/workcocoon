@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,467 Amazon ratings",
     reviews: "3,467 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rIE-toOYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08GRY1W93?tag=workcocoon-20",
     description:
       "900W of real usable capacity, genuine headroom for a gaming or workstation PC plus monitor, well above the typical combined draw of most desktop setups. Pure sine wave and APFC compatibility avoid buzzing or shutdown risk on a modern PC power supply.\n\nThe 1500VA rating on the box overstates real capacity, 900W is the number that actually matters for sizing against your equipment's combined draw.\n\nA genuine advantage here is that pure sine wave avoids APFC compatibility issues. The tradeoff is that highest price in this guide.",
     specs: ["1500VA/900W real capacity", "Pure sine wave, APFC compatible", "10 outlets, coax/Ethernet surge protection", "Replaceable battery"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 2,697 Amazon ratings",
     reviews: "2,697 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31VPmugfqML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06VY12HW4?tag=workcocoon-20",
     description:
       "600W of real capacity, a genuine match for a standard office desktop PC and monitor combination, most such setups draw well under 300W combined, leaving real headroom without paying for a 1500VA unit's excess.\n\nAVR included handles brownouts without draining the battery, extending runtime for the outages that matter.\n\nAVR extends battery life on minor sags. That said, not pure sine wave. Neither should be a surprise once you know to look for it.",
     specs: ["1000VA/600W real capacity", "AVR included", "Multiple outlets", "Office electronics rated"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 796 Amazon ratings",
     reviews: "796 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31xnh5VoQ4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06WP9Q8ZN?tag=workcocoon-20",
     description:
       "510W of real capacity, a lower-cost option genuinely sized for a basic PC and monitor pairing rather than a demanding gaming build. Do the wattage math on your specific equipment before assuming this is enough headroom.\n\nAVR included, the same brownout-correction benefit as the higher-capacity APC picks in this guide.\n\nWorth calling out specifically: genuinely sized for a basic PC and monitor combination. The catch is less headroom for a demanding PC build.",
     specs: ["850VA/510W real capacity", "AVR included", "Compact form factor", "Office electronics rated"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,399 Amazon ratings",
     reviews: "1,399 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41axhgC1IXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5QNMS8N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5QNMS8N?tag=workcocoon-20",
     description:
       "A notably high real-watt-to-VA ratio, 800W of real capacity out of a 1000VA rating, better than the roughly 0.6 power factor typical of many UPS designs, genuine extra headroom for a PC and monitor at this capacity tier.\n\nLithium battery chemistry generally handles heat and charge cycles better long-term than the lead-acid designs used by most APC picks here.\n\nLithium battery, better long-term charge-cycle life. Set against that, newer entrant, less long-term track record than APC. Both matter when comparing it to the other picks here.",
     specs: ["1000VA/800W, above-average real-watt ratio", "Lithium battery", "Surge protection", "Compact footprint"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 4,110 Amazon ratings",
     reviews: "4,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pgnLVo0dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=workcocoon-20",
     description:
       "390W of real capacity at a genuinely budget-friendly price, do the math on your specific PC and monitor's combined typical draw (not the power supply's maximum rating) before assuming this covers your setup.\n\nLarge, well-established review base gives real-world confidence in reliability at this capacity tier.\n\nThe standout detail is that genuinely affordable. Balancing that out, limited real-watt headroom, verify your equipment's actual combined draw.",
     specs: ["650VA/390W real capacity", "Standard replaceable battery", "Surge protection", "Budget-friendly"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 2,382 Amazon ratings",
     reviews: "2,382 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nDi+6Lz+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N192?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N192?tag=workcocoon-20",
     description:
       "A PFC sinewave alternative if your PC has an APFC power supply and you don't need the full 900W headroom of the top pick. LCD display shows real-time load and runtime.\n\nCheck the actual watt rating on this unit's specific listing before buying, as with every pick in this guide, VA alone doesn't tell the full sizing story.\n\nAVR included. That's a real strength, but weigh it against the flip side: lower rating than other picks in this guide.",
     specs: ["PFC sinewave output", "AVR included", "LCD display", "Multiple outlets"],

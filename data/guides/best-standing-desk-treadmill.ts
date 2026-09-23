@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41x4f3fulZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FXLYZSGB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FXLYZSGB?tag=workcocoon-20",
     description:
       "This is the lowest-cost entry point in this guide, a walking pad with a 0.6-4.0 mph speed range and an adjustable slim compact design, without a desk surface built in. It comes with a remote control and a max 265 lb capacity, covering the core treadmill experience at the smallest possible price.\n\nBecause it doesn't include its own workstation, it's best paired with a separate desk you already own or a standalone desk accessory if you want the combo experience without paying for an integrated desk surface.\n\nSlim compact design fits small spaces. That's a real strength, but weigh it against the flip side: no built-in desk surface, unlike every other pick in this guide.",
     specs: [
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41sRiKFY+TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GZ4RZJ9J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GZ4RZJ9J?tag=workcocoon-20",
     description:
       "Fasion Trek Run pairs a 3.5HP motor with speeds up to 8.0 mph, the fastest top speed of any pick in this guide, alongside a removable desk workstation and a 12% manual incline. That combination of speed, incline, and desk surface at a budget-friendly price makes it the strongest overall value in this lineup. The unit folds down for storage and carries a 350 lb capacity, well above the base walking pad. As with any combo unit, the desk surface itself has its own separate, lower weight rating than the 350 lb treadmill capacity, so keep that in mind before resting heavier gear on it. Worth calling out specifically: 350 lb capacity, well above the base model. The catch is incline is manual, requiring you to step off or reach down to adjust.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41EVziUfhvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GX5KGMJ6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GX5KGMJ6?tag=workcocoon-20",
     description:
       "YPOO offers the steepest manual incline of any pick in this guide at 13%, along with a handlebar for added stability while walking on that incline. A portable folding design keeps it reasonably sized for a home office despite the added incline hardware.\n\nThe unit includes both a desk and app connectivity, giving you a digital view of your session alongside the physical workstation. As with the other manual-incline picks here, changing incline mid-session means stepping off rather than using a remote.\n\nHandlebar adds stability on the incline. Set against that, incline adjustment is manual, requiring you to step off. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41jxpkOJz7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H3KHHPTW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H3KHHPTW?tag=workcocoon-20",
     description:
       "FUNRAY is the only pick in this entire guide that combines a 3-in-1 vibration plate with the treadmill and desk combo, adding a low-impact option alongside standard walking. A quiet brushless motor and 5% manual incline round out the core treadmill function.\n\nThe vibration plate feature is a genuinely different use case from straight walking, useful for short standing breaks between longer walking sessions. Remote control and a portable design keep it in line with the rest of this guide's mid-tier picks.\n\nA genuine advantage here is that quiet brushless motor. The tradeoff is 5% incline is the shallowest manual incline among the incline-equipped picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41S7yyWDKKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H3K6P54B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H3K6P54B?tag=workcocoon-20",
     description:
       "This model brings a 12% incline and a 3.5HP motor together with an integrated desk workstation, sitting close to the YPOO's incline range without the added handlebar footprint. A 350 lb capacity matches the Fasion Trek Run, giving it solid headroom for most users.\n\nIt's a straightforward, no-frills combo unit for buyers who want strong incline and capacity numbers without extras like vibration plates or handlebars adding to the price or footprint.\n\n350 lb capacity. That's a real strength, but weigh it against the flip side: no handlebar for added stability like the YPOO pick.",
     specs: [
@@ -208,7 +208,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41DkKD-DLGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GSVC7NRB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GSVC7NRB?tag=workcocoon-20",
     description:
       "This 3-in-1 foldable design adds an adjustable handlebar and magnetic remote alongside app control, giving you more ways to manage a session than the simpler mid-tier picks. The removable desk workstation detaches cleanly for storage when the unit folds down.\n\nThe combination of a magnetic remote and app control means you can adjust speed either physically or digitally, useful if your phone isn't always within reach during a walking session.\n\nWorth calling out specifically: both magnetic remote and app control available. The catch is pricier than the mid-tier picks without a large capacity increase.",
     specs: [
@@ -240,7 +240,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41a-xfVt0eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H367J6YJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H367J6YJ?tag=workcocoon-20",
     description:
       "Akluer pairs a wooden desk surface, a more furniture-like look than the plastic or metal desk surfaces on other picks, with a rated 45dB noise level, the quietest of any pick in this guide. That's a genuine advantage for anyone walking during video calls in a shared space.\n\nA 2.5HP motor and 330 lb capacity are modest compared to the fastest and highest-capacity picks here, but the tradeoff for noise level and a nicer desk finish is a reasonable one for buyers prioritizing quiet operation over speed or incline.\n\nWooden desk surface has a more furniture-like finish. Set against that, 2.5HP motor is less powerful than the 3.0-3.5HP picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -272,7 +272,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51uk00a+iNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXFHCXPR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GXFHCXPR?tag=workcocoon-20",
     description:
       "This 6-in-1 foldable unit brings together the most powerful motor in this guide at 3.0HP with a 3-stage incline selector, 2%, 7%, or 12%, letting you jump between preset incline levels instead of a single fixed or fully continuous range. A removable desk, adjustable handlebar, RGB lights, and LED display round out the most feature-complete pick in this entire lineup.\n\nRemote and app control both work alongside the physical adjustments, and the 6-in-1 folding design covers desk, handlebar, and treadmill configurations in one unit. It's the pick for buyers who want the full feature set rather than a stripped-down combo.\n\nA genuine advantage here is that 3-stage incline selector covers flat through steep incline. The tradeoff is most expensive pick in this guide.",
     specs: [

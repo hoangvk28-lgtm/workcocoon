@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "680",
     imageUrl: "https://m.media-amazon.com/images/I/41ZbsmaRmVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GVNFJJSG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GVNFJJSG?tag=workcocoon-20",
     description:
       "At only 4.1 inches tall, the Buztrio is among the thinnest walking pads in this compact guide, built on a carbon steel frame with a 2.5HP motor covering 0.6-4 mph. It ships with no assembly required and slides easily under a desk, bed, or sofa when it's not in use.\n\nAn LED display and remote control let you adjust speed without bending over, and built-in wheels and an anti-slip belt round out the design. It's the highest-rated pick in this entire guide.\n\nAmong the thinnest profiles in this guide. That's a real strength, but weigh it against the flip side: no incline adjustment.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "486",
     imageUrl: "https://m.media-amazon.com/images/I/51JbSk7t+uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GGB9BV77?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GGB9BV77?tag=workcocoon-20",
     description:
       "The Vhorilix runs a nearly identical 2.5HP motor and 0.6-4 mph range to our top pick, at a slightly thicker but still compact 4.33 inches tall. A carbon steel frame, 5-layer anti-slip belt, and silicone shock absorbers give it a sturdy feel for its size.\n\nNo assembly is required, and built-in wheels make it simple to move between spots. It carries a 2-year warranty, the longest coverage of any pick in this guide.\n\nWorth calling out specifically: still a compact 4.33-inch profile. The catch is slightly thicker than the Buztrio.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "331",
     imageUrl: "https://m.media-amazon.com/images/I/41x4f3fulZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FXLYZSGB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FXLYZSGB?tag=workcocoon-20",
     description:
       "The Rythkore runs on a 2.0HP quiet vortex motor across a 0.6-4 mph range, and at just 10.5cm, about 4.1 inches thick, it matches the thinnest profile in this guide while being the lightest pick here by weight. That combination makes it especially easy to slide fully out of the way after a walking session.\n\nOmnidirectional wheels make repositioning simple in any direction, not just forward and back. It's also the cheapest pick in this entire guide.\n\nThinnest and lightest profile in this guide. Set against that, lower rating than the top two picks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,226",
     imageUrl: "https://m.media-amazon.com/images/I/41HOnI215TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GGLS9NQV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GGLS9NQV?tag=workcocoon-20",
     description:
       "The Viamotion is the only pick in this guide with a handlebar, giving it an edge for anyone who wants something to hold onto for balance while walking and typing. A manually adjustable incline up to 4 degrees adds a bit more intensity than the completely flat pads above.\n\nIts 2.5HP brushless motor runs quietly at around 45dB and covers a 0.6-3.8 mph range, with a 265 lb max user weight. It's also the most-reviewed pick in this entire guide, giving it the largest track record here.\n\nA genuine advantage here is that only pick in this guide with a handlebar. The tradeoff is thicker and pricier than the other 3 picks in this guide.",
     specs: [

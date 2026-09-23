@@ -870,7 +870,7 @@ function q(s) {
 }
 
 function serializeProduct(p) {
-  const amazonUrl = "https://www.amazon.com/dp/" + p.asin + "?tag=deskfinds0d-20";
+  const amazonUrl = "https://www.amazon.com/dp/" + p.asin + "?tag=workcocoon-20";
   return `  {
     id: ${q(p.id)},
     rank: ${p.rank},

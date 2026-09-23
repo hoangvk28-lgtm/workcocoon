@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41f7dOeOBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B6PCXZ79?tag=workcocoon-20",
     description:
       "A true 4K resolution at 27 inches keeps pixel density genuinely sharp, avoiding the softness a 1080p panel at this size would show.\n\nA highly competitive price for true 4K makes this the strongest overall value pick at this screen size.\n\nWorth calling out specifically: highly competitive price for true 4K. The catch is verify your laptop's USB-C port supports DisplayPort 1.4 or newer.",
     specs: ["27-inch true 4K (3840x2160) IPS panel", "HDR support", "USB-C single-cable connectivity", "Highly competitive price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=workcocoon-20",
     description:
       "QHD resolution genuinely avoids the softness 1080p would show at this size, while requiring less GPU power than a full 4K panel.\n\n144Hz refresh rate adds real value for buyers who also want smooth motion for casual gaming alongside productivity work.\n\n144Hz refresh rate for smoother motion. Set against that, not true 4K, verify this matches your resolution needs. Both matter when comparing it to the other picks here.",
     specs: ["27-inch QHD (2560x1440) panel", "144Hz refresh rate", "USB-C with power delivery", "Good balance of sharpness and GPU demand"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1GFD44G?tag=workcocoon-20",
     description:
       "A genuinely high 120Hz refresh rate at true 4K resolution, appropriate for buyers wanting both sharp detail and smooth motion without stepping down to QHD.\n\n99% sRGB coverage gives strong color accuracy for buyers who also do color-sensitive work on this display.\n\nThe standout detail is that 99% sRGB coverage for strong color accuracy. Balancing that out, verify your laptop's port bandwidth supports full 4K at 120Hz, not just 60Hz.",
     specs: ["27-inch true 4K UHD IPS panel", "120Hz refresh rate", "99% sRGB color coverage", "FreeSync Premium"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41jGkitNULL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LCPY1TR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LCPY1TR?tag=workcocoon-20",
     description:
       "A QHD ProArt panel combining sharp pixel density at 27 inches with professional color calibration, appropriate for buyers doing color-sensitive design or photo work.\n\nQHD resolution avoids the 1080p softness at this size while requiring less GPU power than 4K.\n\nProArt color accuracy suited to design work. That's a real strength, but weigh it against the flip side: higher price than general-purpose QHD monitors.",
     specs: ["27-inch QHD (1440p) IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "Professional-grade build"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41DSJsc4qKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09BXXWT6K?tag=workcocoon-20",
     description:
       "A more budget-friendly QHD option at 27 inches with built-in speakers, appropriate for buyers wanting sharp resolution without the highest refresh rate.\n\nBuilt-in speakers avoid needing separate desk audio equipment, a genuine convenience for video calls.\n\nBuilt-in speakers avoid separate audio equipment. On the other hand, standard 75Hz refresh rate, not high-refresh gaming tier. Both are worth keeping in mind before deciding.",
     specs: ["27-inch WQHD (2560x1440) panel", "75Hz refresh rate", "USB-C connectivity", "Built-in speakers"],

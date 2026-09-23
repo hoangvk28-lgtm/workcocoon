@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     rating: null,
     reviews: null,
     imageUrl: "https://m.media-amazon.com/images/I/41Cxyc7kc+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GBX27LC3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GBX27LC3?tag=workcocoon-20",
     description: "This 12-port switch offers genuinely unusual power flexibility: 5V USB-C power from a charger, laptop, or power bank, or 9-56V DC terminal input for fixed installations, useful for field work or control cabinets without standard AC power.\n\nAt just 100 x 82 x 50mm with a pre-installed DIN-rail clip and wall-mount brackets, it's compact enough for toolkits or tight spaces, with a 20Gbps switching capacity across 12 auto-negotiating Gigabit ports.",
     specs: ["12 Gigabit ports, 20Gbps capacity","USB-C or 9-56V DC power input","Compact 100x82x50mm, DIN-rail ready"],
     pros: ["USB-C power option is genuinely unusual and flexible","Wide DC voltage range fits many power scenarios","Compact size fits toolkits and tight spaces"],

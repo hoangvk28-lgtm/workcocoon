@@ -157,8 +157,8 @@ Ultrawides solve this by default: all content is on a single centered panel. You
       heading: "Price Reality Check (2026)",
       body: `| Setup | Entry cost | Recommended cost |
 |-------|-----------|-----------------|
-| Ultrawide 29" 2560x1080 100Hz | ~$150-200 | ~$200 ([LG 29WQ600-W](https://www.amazon.com/s?k=LG+29WQ600-W+ultrawide+monitor&tag=deskfinds0d-20)) |
-| Ultrawide 34" 3440x1440 144Hz | ~$200-280 | ~$250 ([Sceptre C345B](https://www.amazon.com/s?k=sceptre+c345b+ultrawide+monitor&tag=deskfinds0d-20)) |
+| Ultrawide 29" 2560x1080 100Hz | ~$150-200 | ~$200 ([LG 29WQ600-W](https://www.amazon.com/s?k=LG+29WQ600-W+ultrawide+monitor&tag=workcocoon-20)) |
+| Ultrawide 34" 3440x1440 144Hz | ~$200-280 | ~$250 ([Sceptre C345B](https://www.amazon.com/s?k=sceptre+c345b+ultrawide+monitor&tag=workcocoon-20)) |
 | Dual 24" 1080p (2 monitors) | ~$200 (2x$100) | ~$300 (2x$150) |
 | Dual 27" 1440p (2 monitors) | ~$400 (2x$200) | ~$500 (2x$250) |
 

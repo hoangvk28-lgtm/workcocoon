@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "608",
     imageUrl: "https://m.media-amazon.com/images/I/41fDUTYAgyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRRCGF2Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRRCGF2Q?tag=workcocoon-20",
     description:
       "The WALI Heavy Duty is the cheapest arm in this list yet still holds screens from 17\" up to 49\" at up to 33 lbs, built from aviation-grade aluminum with a gas spring for smooth height adjustment. Its \"Zero-Drift\" design targets the exact failure mode ultrawide arms are prone to, a monitor that slowly droops after installation.\n\n360 degree rotation and either a C-clamp or grommet mount cover most desk edges, and a 3-year warranty backs it up. At this price it's a reasonable entry point, though buyers loading a heavier curved 49\" panel should weigh it against the sturdier options ranked below.\n\nRated up to 49\" and 33 lbs. That's a real strength, but weigh it against the flip side: lower weight ceiling than the heavier-duty picks below.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "610",
     imageUrl: "https://m.media-amazon.com/images/I/41A2KAm37fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRVB3VGL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRVB3VGL?tag=workcocoon-20",
     description:
       "The ARES WING steps up to an industrial gas spring rated for 17\"-49\" screens up to 44 lbs, a meaningful jump over the WALI above for buyers with a heavier curved panel. It's specifically called out as compatible with the Samsung Odyssey G9 and LG super-ultrawide lines, two of the heaviest curved panels on the market.\n\nA C-clamp or grommet mount and a 3-year warranty round it out. For the price gap over the cheapest pick in this list, the higher weight rating makes this the stronger default choice for most 49\" super-ultrawide setups.\n\nWorth calling out specifically: named compatibility with Odyssey G9 and LG super-ultrawides. The catch is not rated as high as the premium heavy-duty picks.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "406",
     imageUrl: "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=workcocoon-20",
     description:
       "The TitanLift is HUANUO's answer to the exact problem curved ultrawides create, an arm 20% thicker and a base 30% wider than the brand's standard model, built specifically to resist the torque sag a curved panel's forward-shifted center of gravity causes over time. It's rated for screens up to 49\" at 44 lbs and has been tested through 50,000 movement cycles.\n\nPremium aluminum construction, a dual C-clamp mount, and a 5-year warranty, the longest in this list, back up the added engineering. It's also the highest-rated pick in this guide at 4.7 stars, making it the arm we'd point most buyers toward for a genuinely heavy curved 49\".\n\nPurpose-built to resist curved-panel torque sag. Set against that, costs more than the two budget picks above. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "10,950",
     imageUrl: "https://m.media-amazon.com/images/I/31-J6rY9HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Q8TJ2KL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07Q8TJ2KL?tag=workcocoon-20",
     description:
       "The Ergotron LX is the most trusted name in monitor arms and by far the most-reviewed pick in this list at nearly 11,000 ratings, but it's important to be precise about its limit, it's rated for 7-25 lbs up to 34\" flat or curved ultrawide, not the 49\" super-ultrawide category. VESA compatibility is 75x75 or 100x100mm, which matches most 34\" panels but not the 200x200mm mounts many 49\" monitors require.\n\nIt lifts 13\", rotates 360 degrees, and tilts 75 degrees, and it carries a 10-year warranty, the longest in this entire list. For a 34\" ultrawide this is one of the safest, best-supported choices available; for a 49\" super-ultrawide, step up to the HX below instead.\n\nA genuine advantage here is that 10-year warranty, the longest in this list. The tradeoff is not rated for 49\" super-ultrawide monitors.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,351",
     imageUrl: "https://m.media-amazon.com/images/I/31s4CEX-D9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08RD4FJ3Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08RD4FJ3Q?tag=workcocoon-20",
     description:
       "The Ergotron HX carries the same trusted build quality as the LX above but scales it up for real ultrawide duty, rated for flat or slightly curved panels up to 49\" and 20-42 lbs. It supports VESA 200x200mm, the mount pattern most true 49\" super-ultrawides actually need and the one the LX above can't accommodate.\n\nIt lifts 11.5\", rotates a full 360 degrees, and carries the same 10-year warranty as the LX. If your monitor is closer to flat than deeply curved and needs 200x200mm VESA, this is the safer Ergotron pick over the LX.\n\nRated up to 42 lbs for heavier panels. That's a real strength, but weigh it against the flip side: most expensive Ergotron pick in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.9",
     reviews: "36",
     imageUrl: "https://m.media-amazon.com/images/I/318wTzV+63L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DF7S2NXV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DF7S2NXV?tag=workcocoon-20",
     description:
       "The Secretlab Magnus Heavy Duty is designed specifically for ultrawide gaming monitors and is rated up to 57\", the widest capacity in this entire list, at 18-35 lbs. Its premium tensile spring is built around the exact torque a curved gaming ultrawide panel puts on an arm's tilt pivot, rather than treating curved panels as an afterthought.\n\nMagnetic cable management keeps a gaming desk tidy, and it carries the highest rating in this list at 4.9 stars, though from a much smaller review sample than the Ergotron arms above. This is the pick for a dedicated gaming setup where budget is secondary to fit and finish.\n\nWorth calling out specifically: highest star rating in this list at 4.9. The catch is most expensive pick in this list.",
     specs: [

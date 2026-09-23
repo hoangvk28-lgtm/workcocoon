@@ -43,7 +43,7 @@ export const products: Budget50Headphone[] = [
     battery: "60h (ANC off) / 43h (ANC on)",
     waterproof: "IPX4",
     imageUrl: `${BASE}/01-tozo-ht2-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07KY8G9NM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07KY8G9NM?tag=workcocoon-20",
     whyItWorks:
       "Hybrid ANC at $40 is the exception, not the rule; uses a genuine feedforward plus feedback microphone combination reducing ambient noise by up to 35dB; 60 hours of battery without ANC or 43 hours with ANC on; wireless charging case at this price is rare; 32-preset app EQ for tuning; memory foam ear cups with protein leather for extended wear; the clearest value play in the under-$50 over-ear category.",
     tradeoffs: [
@@ -79,7 +79,7 @@ export const products: Budget50Headphone[] = [
     battery: "57h with Speed Charge",
     waterproof: "N/A",
     imageUrl: `${BASE}/02-jbl-tune-520bt-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C1HGKNG7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C1HGKNG7?tag=workcocoon-20",
     whyItWorks:
       "JBL brand reliability and 57-hour battery with Speed Charge (5 min gives 3 hours of playback); for students who regularly forget to charge before class, Speed Charge is a practical differentiator that no other pick in this guide provides; 40mm Pure Bass drivers, Bluetooth 5.3, lightweight at 140g, folds flat; clear vocals with punchy bass tuning; USB-C charging.",
     tradeoffs: [
@@ -110,7 +110,7 @@ export const products: Budget50Headphone[] = [
     battery: "60h per charge",
     waterproof: "N/A",
     imageUrl: `${BASE}/03-soundcore-life-q10-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B085D88GVW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B085D88GVW?tag=workcocoon-20",
     whyItWorks:
       "60 hours per charge at $35 to $40 is exceptional; at 4 hours daily use that is two weeks between charges; includes 3.5mm AUX cable so headphones still work when battery runs out; Hi-Res Audio certified 40mm drivers reproduce up to 40kHz; fast charge delivers 3 hours from 5 minutes of charging; best over-ear wireless headphone under $40 for all-day desk use without ANC.",
     tradeoffs: [
@@ -141,7 +141,7 @@ export const products: Budget50Headphone[] = [
     battery: "N/A",
     waterproof: "N/A",
     imageUrl: `${BASE}/04-audio-technica-ath-m20x-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00HVLUR18?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00HVLUR18?tag=workcocoon-20",
     whyItWorks:
       "Entry-level model in Audio-Technica's professional Monitor series used in recording studios worldwide; 40mm rare earth magnet drivers produce flat neutral sound that reveals audio as recorded, not with artificial bass emphasis; closed-back design provides excellent passive isolation without any ANC; no battery to charge or die during long sessions; best-sounding headphone in this guide for desk use; for music production, podcasting, or critical listening at $49.",
     tradeoffs: [
@@ -172,7 +172,7 @@ export const products: Budget50Headphone[] = [
     battery: "60h total (11h earbuds + 49h case)",
     waterproof: "IPX5",
     imageUrl: `${BASE}/05-soundcore-p40i-earbuds.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CQXG17RL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQXG17RL?tag=workcocoon-20",
     whyItWorks:
       "Adaptive ANC automatically adjusts to environment without manual mode switching; 6 microphones with AI noise cancellation deliver best call quality of any earbud in this guide; multipoint Bluetooth maintains connection to laptop and phone simultaneously; wireless charging case; case doubles as a phone stand; 60 hours combined battery; Bluetooth 5.3; the meaningful step up from the Soundcore P20i at $20.",
     tradeoffs: [
@@ -203,7 +203,7 @@ export const products: Budget50Headphone[] = [
     battery: "30h per charge",
     waterproof: "N/A",
     imageUrl: `${BASE}/06-edifier-w600bt-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B099J9T6CY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B099J9T6CY?tag=workcocoon-20",
     whyItWorks:
       "Multipoint Bluetooth is the key differentiator; stays connected to laptop and phone simultaneously, switching automatically when a call comes in; balanced rather than bass-heavy sound signature makes it more versatile for podcasts, music, and calls; Edifier has a stronger reputation for driver quality than generic budget brands; USB-C charging; foldable design.",
     tradeoffs: [
@@ -233,7 +233,7 @@ export const products: Budget50Headphone[] = [
     battery: "36h per charge",
     waterproof: "N/A",
     imageUrl: `${BASE}/07-skullcandy-hesh-evo-headphones.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CBLLJTTN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CBLLJTTN?tag=workcocoon-20",
     whyItWorks:
       "Comes with both a 3.5mm AUX cable AND an extra USB-C charging cable in the box; most competing headphones include neither; for students who lose cables or want a backup, having two cables from the factory is practical; 36h battery covers a full week of 4-hour daily use; Skullcandy build quality and brand reliability; USB-C charging; folds flat.",
     tradeoffs: [

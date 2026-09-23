@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "762",
     imageUrl: "https://m.media-amazon.com/images/I/41C-eWZ9gfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BYZG2YBY?tag=workcocoon-20",
     description:
       "This attaches via a metal squeeze clamp, not adhesive, the same mechanism covered in our dedicated clamp-on guide. It remains the strongest all-around pick across every terminology variant of this product we researched, given its combined rating and review volume.\n\nIt leads this comparison on the strength of its combination of rating, review volume, and build quality, worth weighing directly against the HzTinT Large Desk Cup Holder.\n\nWorth knowing before you decide: Metal build quality. On the other side, Bulkier than compact clips. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Metal squeeze-clamp attachment","Deep form-fitting cavity","No-drill, no-adhesive","Fits oversized tumblers"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "70",
     imageUrl: "https://m.media-amazon.com/images/I/61tWyW9bgvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FRMMZ3RG?tag=workcocoon-20",
     description:
       "This attaches via a lightweight clip, the most affordable attachment mechanism in this comparison, still using a fully covered cavity for genuine spill protection despite the lower price.\n\nSet against the OOKUU Upgraded Large Desk Cup Holder Clamp, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Covered cavity design. On the other side, Small review count. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Lightweight clip attachment","Fully covered cavity","Compact","Lowest price here"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "171",
     imageUrl: "https://m.media-amazon.com/images/I/314m46JYkhL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FH231Z93?tag=workcocoon-20",
     description:
       "This attaches via a reinforced plastic clamp, the highest-rated attachment mechanism in this comparison, striking a balance between the lightweight HzTinT clip and the heavier OOKUU metal clamp.\n\nRelative to the HzTinT Large Desk Cup Holder, this pick leans toward a different priority, whether that's a lower price, extra depth, or a hybrid feature the sibling pick skips.\n\nWorth knowing before you decide: Lighter than metal, sturdier than basic clips. On the other side, Smaller review count than the OOKUU pick. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Reinforced plastic clamp","Universal desk-edge fit","Large cup diameter","No-drill attachment"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "162",
     imageUrl: "https://m.media-amazon.com/images/I/41z6n2eEheL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DLLCWTR4?tag=workcocoon-20",
     description:
       "This attaches via a metal clip explicitly rated for cups up to 40oz, the largest disclosed capacity in this comparison, combined with additional headphone and accessory hanging points on the same clamp base.\n\nCompared with the Universal Large Desk Cup Holder Clamp above, this pick trades some of that pick's proven track record for a different balance of price and feature set, worth weighing against your own priorities.\n\nWorth knowing before you decide: Combined multi-function attachment points. On the other side, Most expensive pick here. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Metal clip attachment","Rated for cups up to 40oz","4-in-1 combined hanging points","Gaming desk marketed"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "324",
     imageUrl: "https://m.media-amazon.com/images/I/31kr6fpVxgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CG16LSPG?tag=workcocoon-20",
     description:
       "This variant attaches identically to our top pick but uses a deeper cavity, genuinely better for tall containers against tipping. It's a proven brand design with solid review history behind it.\n\nSet against the 4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk, the tradeoff here comes down to price versus material and cavity depth, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Proven OOKUU brand quality. On the other side, Higher price than the standard-depth version. That's the main tradeoff to weigh against your desk setup and drink size.",
     specs: ["Deeper cup cavity","Metal clamp attachment","No-drill","Fits tall tumblers"],

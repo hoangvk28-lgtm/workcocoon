@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/51+NCPHB1gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08K2NT2G7?tag=workcocoon-20",
     description:
       "A 1080p resolution at 24 inches sits right in the pixel-density sweet spot, and this ProArt panel adds professional color accuracy on top of that solid resolution fit.\n\nAppropriate for buyers doing color-sensitive design or photo work who also want a compact, sharp desk footprint.\n\nThe standout detail is that proArt color accuracy suited to design and photo work. Balancing that out, higher price than general-purpose 24-inch monitors.",
     specs: ["24-inch 1080p IPS panel", "USB-C connectivity", "ProArt color accuracy calibration", "Professional-grade build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41ye7a0oJkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FHZVYNQ2?tag=workcocoon-20",
     description:
       "A genuinely budget-friendly 24-inch 1080p IPS monitor with a surprisingly high 120Hz refresh rate for everyday productivity use.\n\nThe pixel-density sweet spot at this size means text and UI elements stay sharp without needing display scaling adjustments.\n\nSurprisingly high 120Hz refresh rate at this price point. That's a real strength, but weigh it against the flip side: fewer professional features than the ProArt alternative.",
     specs: ["24-inch 1080p IPS panel", "120Hz refresh rate", "USB-C connectivity", "Lowest price in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41jwWmarZtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZ3KWC3P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZ3KWC3P?tag=workcocoon-20",
     description:
       "A gaming-focused variant with a genuinely fast 1ms response time alongside 120Hz refresh rate, appropriate for buyers wanting the sharp pixel density of 24-inch 1080p with responsive gaming performance.\n\nThis fast response time reduces motion blur during quick on-screen movement, a real benefit for competitive or fast-paced gaming.\n\n120Hz refresh rate for smooth gaming motion. On the other hand, verify USB-C power delivery wattage against your laptop. Both are worth keeping in mind before deciding.",
     specs: ["24-inch 1080p IPS panel", "120Hz refresh rate, 1ms response time", "USB-C connectivity", "Gaming-focused build"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41tqJnA68CL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK46JV64?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK46JV64?tag=workcocoon-20",
     description:
       "A slightly smaller 22-inch essential Samsung panel for buyers wanting an even more compact footprint than a 24-inch monitor, appropriate for the smallest desk setups.\n\nA tilt-only stand keeps the design simple and budget-friendly, appropriate for buyers not needing extensive ergonomic adjustability.\n\nA genuine advantage here is that budget-friendly Samsung build quality. The tradeoff is that smaller than the 24-inch sweet spot, some buyers may want more workspace.",
     specs: ["22-inch IPS panel", "Tilt-only stand", "Compact footprint smaller than 24-inch", "Budget-friendly price"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41z0BPiXo6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNQDB6JY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FNQDB6JY?tag=workcocoon-20",
     description:
       "Included as a reference point for buyers considering whether a much larger ultrawide might better serve their needs than staying within the compact 24-inch category.\n\nIf you find yourself needing significantly more workspace than 24 inches offers, this ultrawide format is worth comparing against a 24-inch panel directly.\n\nIPS panel for consistent viewing angles across the curve. That said, much larger desk footprint than a 24-inch monitor. Neither should be a surprise once you know to look for it.",
     specs: ["34-inch curved ultrawide WQHD panel", "100Hz refresh rate", "IPS panel technology", "USB-C connectivity"],

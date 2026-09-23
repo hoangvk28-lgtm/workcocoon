@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from Amazon ratings",
     reviews: "49 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uzdCGRrbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=workcocoon-20",
     description:
       "The highest average rating in this guide backs up its 66-pound disclosed capacity, a figure worth taking seriously against a genuinely loaded modern tower with multiple drives and a discrete GPU rather than a generic mid-tower assumption.\\n\\nHeight adjustment lets it accommodate varied case sizes, though the smaller review base means long-term reliability under sustained heavy loads is less proven than a mount with thousands of reviews, worth weighing accordingly.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the VIVO Heavy Duty Adjustable Under before deciding.\n\nWorth knowing before you decide: 66lb capacity suits a genuinely loaded modern tower. On the other side, Smaller review base limits confidence at sustained heavy loads. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Max 66 lbs capacity","Height adjustable","Highest average rating","Compact heavy-duty design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "222 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31t8nBX+HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=workcocoon-20",
     description:
       "A larger review base than most heavy-duty picks gives more confidence in real-world sustained-load reliability, backed by a genuinely disclosed 66-pound capacity and secure locking mechanism rather than friction alone.\\n\\nAs with any heavy-duty mount, check your desk's own structural rating too, since this hardware is built to hold real weight and a lighter-duty desk can be stressed by the combined load even if the mount itself holds securely.\n\nSet against the Heavy Duty Under Desk PC Mount, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Secure locking mechanism beyond simple friction. On the other side, Higher price than the most basic heavy-duty picks. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 66 lbs capacity","Secure locking mechanism","Larger review base","Adjustable design"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "433 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31DzC4Wn1JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGQR4DNJ?tag=workcocoon-20",
     description:
       "The highest disclosed capacity in this guide at 77 pounds, appropriate for the heaviest realistic modern towers with multiple drives, extra cooling, and a full-size power supply, backed by a sizable review base and strong rating.\\n\\nAt this weight class, double-check your desk's own structural rating specifically, a genuinely heavy tower stresses the desk itself through the mount's anchor points, not just the mount hardware.\n\nRelative to the VIVO Heavy Duty Adjustable Under, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Strong 4.6-star rating across a sizable review base. On the other side, At this weight class, your desk's own structural capacity matters as much as the mount's rating. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 77 lbs capacity","Adjustable width design","Sizable review base","Strong rating"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "44 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41H5F8LUWzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWGZCWWX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GWGZCWWX?tag=workcocoon-20",
     description:
       "A 77-pound rated capacity paired with vertical or horizontal orientation flexibility, appropriate for buyers with a full or mid-tower case wanting a heavy-duty mount that adapts to their specific desk layout.\\n\\nAt the lowest price in this guide for its capacity class, this suits budget-conscious buyers who still need genuine heavy-duty holding, though the smaller review base means real-world sustained-load evidence is more limited than the top picks.\n\nCompared with the Heavy Duty Under Desk PC Holder above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Vertical or horizontal orientation flexibility. On the other side, Smaller review base than the top heavy-duty picks. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Up to 77 lbs capacity","Vertical or horizontal orientation","Lowest price in this weight class","Full/mid-tower compatible"],

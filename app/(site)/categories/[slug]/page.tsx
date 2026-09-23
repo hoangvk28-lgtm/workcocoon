@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
 import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
@@ -17,6 +17,7 @@ import {
 import { getPublicProductsForCategoryHub } from "@/lib/public-products";
 import { getPublicGuidesByCategory } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
+import { MIGRATED_CATEGORY_TO_SILO } from "@/lib/migrated-silos";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -89,6 +90,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function CategoryPage({ params }: Props) {
   const { slug } = await params;
+
+  // This category has been migrated to a topic-first silo with equivalent
+  // intent (same audience, same guides) — permanently redirect rather than
+  // serve duplicate content at the legacy /categories/<slug> URL.
+  const migratedSilo = MIGRATED_CATEGORY_TO_SILO[slug];
+  if (migratedSilo) {
+    permanentRedirect(`/${migratedSilo}`);
+  }
+
   const category = getCategoryBySlug(slug);
   if (!category) notFound();
 

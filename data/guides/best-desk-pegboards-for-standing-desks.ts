@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ll21hyHHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DYJR7JLB?tag=workcocoon-20",
     description:
       "This clamps directly to the desktop surface itself rather than a fixed frame component, meaning it travels naturally with height adjustment on a standing desk instead of creating interference as the desktop rises and falls.\n\nThe large panel gives real hanging surface for cables and hooks, though it's worth keeping heavier hung items secured well if you adjust height frequently throughout the day.\n\nLarge panel for cables and hanging storage. Set against that, heavier hung items can shift during rapid height changes. Both matter when comparing it to the other picks here.",
     specs: ["43 x 34 inch metal panel", "Clamps to desktop, moves with height adjustment", "Dual monitor stand built in", "LED lighting included"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41i2tZZC1xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F3TN7G3F?tag=workcocoon-20",
     description:
       "The wider version of the same desktop-clamped system, appropriate for a wide standing desk where you want full-width coverage that still moves as one unit with the desktop during height adjustment.\n\nThe extra width adds more weight for the standing desk's motor to lift with each height change, worth checking your desk's weight capacity includes room for this panel plus your usual desktop load.\n\nThe standout detail is that covers a full wide dual-monitor standing desk setup. Balancing that out, adds meaningful weight for the standing desk motor to lift.",
     specs: ["59 x 34 inch metal panel", "Clamps to desktop, moves with height adjustment", "Dual monitor stand built in", "White finish"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "4 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41KLj-p7YnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6K8HR11?tag=workcocoon-20",
     description:
       "A large clamp-on panel at a lower price, appropriate for standing desk owners wanting desktop-mounted coverage without paying for a full-featured system with LED lighting.\n\nWith a small review count so far, it's worth confirming the clamp holds securely through repeated height adjustments rather than just static desk use.\n\nClamps to the moving desktop, avoiding fixed-frame interference. That's a real strength, but weigh it against the flip side: very small review base, verify clamp durability through repeated height changes.",
     specs: ["59 x 35 inch steel panel", "Clamps to desktop", "Dual monitor stand", "Movable partition hooks"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51v-7P2kqkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVDSJPL5?tag=workcocoon-20",
     description:
       "A triple clamp system that grips the desktop at three points, which helps keep hung items more secure during repeated height adjustments than a single clamp would, especially with a shelf and monitor mounts loaded.\n\nBecause it clamps to the desktop itself rather than the frame, it moves as one unit with height changes, though the extra weight from the shelf and mounts should be factored into your desk's lift capacity.\n\nMoves with the desktop, no fixed-frame interference. On the other hand, adds meaningful total weight for the standing desk motor to lift. Both are worth keeping in mind before deciding.",
     specs: ["47 x 31 inch steel panel", "Triple clamp to desktop", "2 monitor mounts included", "Storage shelf included"],

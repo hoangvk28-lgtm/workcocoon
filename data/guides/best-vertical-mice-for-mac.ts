@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "Logitech's companion software has genuine macOS support for remapping buttons, though some buyers still report needing to adjust natural scrolling separately in System Settings rather than it being handled entirely automatically.\n\nConfirm current driver compatibility with your specific macOS version before buying, since software support can lag slightly behind the very latest OS release.\n\nDual connectivity works reliably with Mac Bluetooth stacks. That said, natural scrolling may need separate manual adjustment. Neither should be a surprise once you know to look for it.",
     specs: ["Dual 2.4GHz and Bluetooth", "Companion macOS software for button mapping", "Rechargeable battery", "Premium build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "Shares the same brand's macOS companion software approach in a more compact body, useful for Mac users with smaller to average hands.\n\nAs with its larger sibling, expect to manually configure natural scrolling and confirm current driver support against your macOS version rather than assuming automatic, effortless compatibility.\n\nWorth calling out specifically: dual connectivity for reliable Mac pairing. The catch is manual scrolling adjustment likely needed.",
     specs: ["Dual 2.4GHz and Bluetooth", "Companion macOS software", "Compact body", "Rechargeable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A budget wireless option that generally pairs fine with a Mac's Bluetooth stack for basic pointing and clicking, though it does not include Mac-specific companion software for advanced button mapping.\n\nExpect to map any extra buttons manually through System Settings rather than a dedicated app, and confirm natural scrolling behavior after pairing.\n\nRechargeable battery. Set against that, no dedicated macOS software for advanced button mapping. Both matter when comparing it to the other picks here.",
     specs: ["Bluetooth and wireless dongle options", "No dedicated macOS companion app", "Rechargeable built-in battery", "Budget price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "A budget-friendly wireless option with a strong review base, generally reported by buyers as working for basic use with a Mac, though it lacks dedicated macOS software support.\n\nSet expectations that this is a core-function pick rather than one with deep macOS-specific customization, and manually verify scroll direction and button behavior after pairing.\n\nThe standout detail is that rechargeable battery. Balancing that out, no dedicated macOS software for advanced customization.",
     specs: ["2.4GHz wireless receiver", "No dedicated macOS companion app", "Rechargeable built-in battery", "Budget price point"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "A 2.4GHz dongle pairs reliably with a Mac's USB-A port for basic pointing and clicking, at the lowest price in this guide, though it has no dedicated macOS software for advanced button mapping.\n\nExpect to configure natural scrolling and any extra buttons manually, and note this is right-hand specific with no left-handed version available.\n\nLarge review base. That's a real strength, but weigh it against the flip side: no dedicated macOS software for advanced customization.",
     specs: ["2.4GHz USB-A dongle", "No dedicated macOS companion app", "Right-hand specific design", "Budget price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "461 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DVlxxe4WL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVD5RTZ5?tag=workcocoon-20",
     description:
       "A 6-button layout gives more Mac shortcut remapping options than most picks in this guide, from a brand with cross-platform software support, though macOS-specific driver behavior should be verified on the current listing.\n\nIts smaller review base and more moderate 4.0-star rating are worth weighing against the premium price and extra button count.\n\nRechargeable battery. On the other hand, smaller review base and more moderate 4.0-star rating. Both are worth keeping in mind before deciding.",
     specs: ["6 programmable buttons", "Wireless connectivity", "Rechargeable battery", "Premium price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "57 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ttLEqu0hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=workcocoon-20",
     description:
       "Explicitly sized for small to medium hands with a very strong review rating, though on a small sample size, and it pairs with a Mac's Bluetooth or dongle stack for basic functions without dedicated macOS software.\n\nConfirm the specific wireless method and current driver behavior on the listing before buying, since this wasn't independently verified for advanced macOS features.\n\nA genuine advantage here is that very strong review rating. The tradeoff is that small review sample size, verify current feedback.",
     specs: ["Explicit small/medium hand sizing", "57-degree tilt angle", "No dedicated macOS companion app", "Budget price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A wired USB connection plugs directly into a Mac without any pairing steps at all, avoiding Bluetooth reconnection quirks entirely, with adjustable DPI included at a low price.\n\nIt has no dedicated macOS companion software, so expect to configure natural scrolling and any extra buttons manually through System Settings.\n\nAdjustable DPI sensor. That said, no dedicated macOS software for advanced customization. Neither should be a surprise once you know to look for it.",
     specs: ["Wired USB connection", "6400 DPI adjustable sensor", "No dedicated macOS companion app", "Budget price point"],

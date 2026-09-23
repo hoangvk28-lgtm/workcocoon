@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418DkpSnI1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H1LC8ZXD?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H1LC8ZXD?tag=workcocoon-20",
     description:
       "The RJOP pairs a 2.5HP walking mat with a separate incline pad, a simple way to add elevation to a flat walking base without paying for a built-in motorized incline mechanism. It's the entry point into this category, and the lowest price of any pick in this guide.\n\nBecause the incline comes from a physical pad rather than an integrated mechanism, adjusting it means stepping off and repositioning the pad rather than tapping a remote. That tradeoff is worth knowing before buying if you plan to change incline mid-walk during a call.\n\n2.5HP motor is capable for walking-pace use. That's a real strength, but weigh it against the flip side: incline adjustment requires stepping off to reposition the pad.",
     specs: [
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Xt01EeT7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H1HZ416Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H1HZ416Y?tag=workcocoon-20",
     description:
       "Superun builds in a fixed 6% incline along with a 3-in-1 portable design, so the pad folds down for storage while still offering more elevation than a flat walking mat. A 2.5HP quiet motor keeps operating noise low enough for a shared home office during calls.\n\nRemote control lets you adjust speed without bending down mid-walk, and the 300 lb capacity gives it more headroom than several pricier picks in this guide. It's a solid all-around choice for buyers who want incline without stepping up to the auto-incline tier.\n\nWorth calling out specifically: 300 lb capacity, higher than most similarly priced picks. The catch is incline is fixed at 6%, not adjustable.",
     specs: [
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41P2pjn+-NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H1VZT8RN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H1VZT8RN?tag=workcocoon-20",
     description:
       "Gkyet offers an adjustable 5-8% incline range rather than the fixed setting on the Superun, giving buyers a small amount of flexibility to dial in elevation without moving up to a full auto-incline unit. The 2.5HP quiet motor and portable slim design keep it appropriately sized for apartment-scale home offices.\n\nAt 265 lbs, its capacity sits slightly below the Superun's, and incline changes still require manual adjustment rather than a remote-controlled motor. Remote control does cover speed, matching most picks at this price point.\n\nSlim portable design built for apartment-size spaces. Set against that, incline still adjusts manually, not via remote or motor. Both matter when comparing it to the other picks here.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41HOnI215TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GGLS9NQV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GGLS9NQV?tag=workcocoon-20",
     description:
       "This is the only pick in this guide with a handlebar, a meaningful addition for anyone who wants extra balance support while walking on an incline. The handlebar pairs with an adjustable incline and a 2.5HP quiet, anti-slip design suited to everyday under-desk use.\n\nRemote-controlled speed ranges from 0.6 to 3.8 mph, a narrower top end than several other picks here, positioning this unit more toward steady low-speed walking than brisk-paced sessions. The handlebar makes it a sensible pick for anyone newer to treadmill desks or concerned about stability.\n\nA genuine advantage here is that adjustable incline, not fixed. The tradeoff is 3.8 mph top speed is lower than several other picks in this guide.",
     specs: [
@@ -175,7 +175,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41TfoOtgrXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DL2LM8F9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DL2LM8F9?tag=workcocoon-20",
     description:
       "TREAFLOW rounds out the mid-range tier with a 2.5HP motor, a 265 lb capacity, and an LED display that shows speed, time, distance, and calories at a glance without checking a phone app. The portable under-desk design keeps the footprint reasonable for smaller offices.\n\nRemote control covers speed adjustment, and the incline feature adds elevation over a flat pad without stepping up to the pricier auto-incline models later in this guide. It's a straightforward, no-frills option for buyers who mainly want incline plus a clear on-unit display.\n\nRemote-controlled speed. That's a real strength, but weigh it against the flip side: 265 lb capacity, lower than several other picks.",
     specs: [
@@ -207,7 +207,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41WsUpHzJ4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G91J48G6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G91J48G6?tag=workcocoon-20",
     description:
       "FOUSAE steps up to a 10% incline and a 6.2 mph top speed, the fastest of any pick in this guide, backed by a double frame construction and a 2.75HP brushless drive. Brushless motors run meaningfully quieter than older motor designs, a real benefit if your desk sits in a shared space during calls.\n\nTwelve built-in HIIT programs, the most workout programs of any pick here, give structure to interval sessions rather than requiring manual speed changes throughout a workout. A 350 lb capacity and remote control round out a genuinely feature-dense mid-to-upper tier pick.\n\nWorth calling out specifically: most built-in HIIT programs of any pick at 12. The catch is incline tops out at 10%, lower than the auto-incline picks later in this guide.",
     specs: [
@@ -240,7 +240,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/4114kd7VAkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D6BFMNN5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D6BFMNN5?tag=workcocoon-20",
     description:
       "TRAILVIBER moves to true auto-incline, 9 automatically adjustable levels across a 12% range, meaning incline changes via remote or app rather than stepping off to adjust a mechanical lever. That's a meaningful convenience upgrade during a work call, when reaching down to a lever isn't practical.\n\nA 450 lb capacity is the highest of any pick in this guide, and an RGB LED screen plus built-in Bluetooth speaker add extras beyond core walking function. It's a strong upper-tier pick for buyers who specifically want motorized incline control.\n\nTrue auto-incline changes levels without stepping off. Set against that, noticeably pricier than the manual-incline picks in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -272,7 +272,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41NdAh5oYwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H3KC3RST?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H3KC3RST?tag=workcocoon-20",
     description:
       "TOPUTURE tops this guide with the steepest incline range available, up to 15% across 15 automatically adjustable levels, controlled by remote or app without ever stepping off the belt. Incline increases calorie burn substantially over flat walking, and having that many auto-adjusted levels means dialing in exactly the right elevation for a given session.\n\nA 3.0HP quiet brushless motor is the most powerful of any pick in this guide, and it carries over the RGB LED screen and built-in Bluetooth speaker from the TRAILVIBER while adding app control on top of the remote. This is the most premium and most feature-complete pick in this guide.\n\nA genuine advantage here is that most powerful motor in this guide at 3.0HP. The tradeoff is most expensive pick in this guide.",
     specs: [

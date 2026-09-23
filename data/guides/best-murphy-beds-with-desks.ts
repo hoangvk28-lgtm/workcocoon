@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,138 Amazon ratings",
     reviews: "2,138 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=workcocoon-20",
     description:
       "This is a hardware kit, not a finished desk-bed combo, so it is honestly a bed-only mechanism you build a cabinet around rather than a product with a desk surface out of the box. Buyers who want desk integration typically pair this piston-driven vertical mechanism with a custom cabinet face that includes a fold-down desk panel, which means the desk portion is entirely your own build quality, not something rated here.\n\nAs a mechanism, it uses gas pistons for a smooth, controlled lower and lift, which matters if you plan to build in a desk surface since a jerky spring mechanism can jostle items left on a shelf above. Budget for a separate cabinet or carpentry cost on top of the kit price if the desk feature matters to you.\n\nStrong review base at 2,138 ratings. That's a real strength, but weigh it against the flip side: no desk surface included, bed-only mechanism.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,610 Amazon ratings",
     reviews: "1,610 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51h1vyv6ZdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=workcocoon-20",
     description:
       "Like the Create-A-Bed kit above, this is a bed-only hardware mechanism, not a desk-bed combo, and the listing title makes no desk claim at all. It includes gas pistons and three step-by-step guides, aimed at buyers building a full cabinet themselves, with the desk face being an entirely separate design decision on your part. It is the lowest cost mechanism in this list, which leaves more of the budget for a well-built desk cabinet face if that is the goal. Because you are sourcing the cabinet and desk panel separately, item weight limits and desk depth depend entirely on the materials you choose, not on anything this kit specifies. Worth calling out specifically: detailed build guides included. The catch is no desk surface included, bed-only mechanism.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 19 Amazon ratings",
     reviews: "19 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51JtI3bjGFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=workcocoon-20",
     description:
       "The Yoobure title does not mention a desk either, so treat this as a storage-focused cabinet bed with a built-in charging station rather than a true desk-integrated unit. Its foldable platform and storage drawers make it a reasonable space-saving alternative for a room that needs a nearby small side table or existing desk rather than a fold-down work surface built into the cabinet.\n\nThe charging station is a genuine desk-adjacent feature worth noting, useful for keeping phones and small devices charged near the bed. With only 19 ratings, buyer feedback is thin compared to the top two picks, so weigh that against the higher price before committing.\n\nStorage drawers add functional space. Set against that, no integrated desk surface despite home office marketing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 396 Amazon ratings",
     reviews: "396 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Og-FctXuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=workcocoon-20",
     description:
       "AMERLIFE's title again lists storage and charging, not a desk, so this is another bed-only unit included as a space-saving alternative rather than a genuine desk-bed combo. It works well in a home office corner where a separate small desk sits nearby and the murphy bed simply reclaims floor space when not in use.\n\nWith 396 ratings at 4.2 stars, it has a solid mid-size review base. Budget for a stand-alone desk purchase separately if desk work is the priority, since nothing about this cabinet's design accommodates a fold-down or fixed work surface.\n\nA genuine advantage here is that charging station and storage built in. The tradeoff is no desk surface, despite frequent home office search association.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 112 Amazon ratings",
     reviews: "112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/516I1SJ4lqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DNKM6NRF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DNKM6NRF?tag=workcocoon-20",
     description:
       "This full-size chest bed folds into a multifunctional storage cabinet with a drawer and charging station, but again the title makes no desk claim, so it belongs in this guide as a bed-only space-saving alternative, not a desk combo. The chest cabinet format gives it more of a dresser-like presence when closed, which can double as a stand for a laptop or small desk items even without a built-in fold-down surface.\n\nAt full size rather than queen, it suits a smaller room footprint than most other picks here. With 112 ratings at 4.2 stars, feedback is moderate but consistent with the brand's other listings in this guide.\n\nChest cabinet top can hold a laptop or lamp when closed. That's a real strength, but weigh it against the flip side: no integrated desk surface.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 141 Amazon ratings",
     reviews: "141 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/515sMh7j30L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=workcocoon-20",
     description:
       "This queen cabinet bed adds two built-in LED lights, a genuinely useful feature for a home office corner even though the unit itself has no desk surface and should be treated as a bed-only pick. The gas struts provide a controlled fold and the no-box-spring design simplifies setup, but any desk work still requires a separate desk placed nearby. It sits toward the higher end of this list for a bed-only unit, with the LED lighting being the main premium feature over the AMERLIFE or Yoobure picks. A 4.0-star rating across 141 reviews is respectable but the lowest of the assembled cabinet beds here. Worth calling out specifically: gas struts give controlled, smooth operation. The catch is no desk surface, bed-only unit.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 141 Amazon ratings",
     reviews: "141 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51XE-SiCWBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=workcocoon-20",
     description:
       "This is the same LED-equipped queen cabinet bed as the rustic white pick above, just in a brown finish and priced a moderate amount higher. Like its counterpart, it is a bed-only unit with no built-in desk surface, so plan on a separate desk if this is going into a home office. Choose this one purely on finish preference rather than function, since the mechanism, lighting, and gas strut design are identical to the white version. The shared 141-review base and 4.0-star rating apply to both finishes. Gas struts give smooth, controlled operation. Set against that, no desk surface, bed-only unit. Both matter when comparing it to the other picks here.",
     specs: [
@@ -259,7 +259,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 120 Amazon ratings",
     reviews: "120 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51iWQRI54lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F13Q522K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F13Q522K?tag=workcocoon-20",
     description:
       "This twin size murphy bed is the smallest sleeping footprint in this list, which frees up more floor space for a proper desk setup once the bed is folded away, even though the unit itself has no built-in desk surface. The charging station and drawer add small conveniences without adding much cabinet depth. It is one of the more affordable assembled options here, a reasonable pick for a dorm-style room or guest office where twin sleeping capacity is enough and the extra reclaimed floor space matters more than a larger bed size. A 4.0-star rating across 120 reviews is consistent with the mid-tier picks in this guide. A genuine advantage here is that affordable price for an assembled unit. The tradeoff is no desk surface, bed-only unit.",
     specs: [

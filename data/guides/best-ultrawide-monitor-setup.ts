@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "109",
     imageUrl: "https://m.media-amazon.com/images/I/41Sdq8NEklL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FM3KJV6L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FM3KJV6L?tag=workcocoon-20",
     description:
       "The Grandder's 55\"x32\" desktop is the deepest surface in this list, and depth is the spec that actually matters for a 49\" super-ultrawide, not width. A 32\" usable depth leaves room for the monitor's stand base, a keyboard, a mouse pad, and roughly 3 inches of clearance behind the panel for cables.\n\nThe electric lift runs 28\" to 46.5\" with 2 memory presets, and the frame holds 176 lbs, enough for a 49\" screen plus a second monitor side by side. An anti-collision sensor stops the lift automatically if it meets resistance while raising.\n\nBuilt specifically to fit a 49\" ultrawide plus a second screen. That's a real strength, but weigh it against the flip side: largest footprint requires a genuinely spacious room.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "406",
     imageUrl: "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=workcocoon-20",
     description:
       "A curved ultrawide's center of gravity sits further forward than a flat monitor's, which puts extra torque on a standard arm's tilt pivot over time. The TitanLift's arm is built 20% thicker and its base 30% wider than a typical arm specifically to resist that added stress, and it's rated for screens up to 49\" at 44 lbs.\n\nConstruction is premium aluminum rather than painted steel, mounted with a dual C-clamp, and backed by a 5-year warranty, the longest coverage of any arm in this list. It's the highest-rated pick in this entire guide.\n\nWorth calling out specifically: reinforced arm and base resist curved-panel torque. The catch is pricier than the budget arm option in this list.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "610",
     imageUrl: "https://m.media-amazon.com/images/I/41A2KAm37fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRVB3VGL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRVB3VGL?tag=workcocoon-20",
     description:
       "The ARES WING covers the same 17-49\" screen range and 44 lb weight rating as pricier arms in this list, using an industrial gas spring for smooth height and tilt adjustment. It's confirmed compatible with wide panels like the Samsung Odyssey G9 and LG's super-ultrawide lineup. Mounting is flexible with either a C-clamp or a grommet hole option, useful if your desk doesn't have a clean edge to clamp onto. at a budget-friendly price, it's the budget entry point for anyone who needs real 49\" support without paying for reinforced-torque extras. Gas spring gives smooth height and tilt movement. Set against that, standard arm thickness, less margin than the reinforced pick. Both matter when comparing it to the other picks here.",
     specs: [
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "13,338",
     imageUrl: "https://m.media-amazon.com/images/I/51Tp0XdRO9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNTHWWMY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNTHWWMY?tag=workcocoon-20",
     description:
       "An ultrawide setup often means running the wide panel plus a second screen from one laptop, and the LIONWEI's 2 HDMI 4K outputs plus 1 DisplayPort support exactly that dual or triple display arrangement from a single USB-C cable. It packs 13 ports total into one compact hub.\n\n100W USB-C Power Delivery charges the laptop while it drives the displays, and Gigabit Ethernet plus 2 USB-C 10Gbps and 3 USB-A 3.0 ports cover peripherals and wired networking. It's also the most-reviewed single item in this entire guide by a wide margin.\n\nA genuine advantage here is that 100W PD charges most laptops at full speed. The tradeoff is no Thunderbolt 4 for the highest-bandwidth workflows.",
     specs: [
@@ -176,7 +176,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "14,012",
     imageUrl: "https://m.media-amazon.com/images/I/41DR7qY1naL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07HFDJCSL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07HFDJCSL?tag=workcocoon-20",
     description:
       "A deep desk is exactly what a 49\" ultrawide needs, but that depth gets eaten up fast once a keyboard and mouse sit on the same surface as the monitor stand. VIVO's steel tray moves the keyboard and mouse below the desktop, freeing up the desk depth an ultrawide setup actually needs for the screen and its base.\n\nThe platform measures 27\"x11\" (32.5\" including the clamp hardware) and slides out 8.5\" from under the desk. Mounting is a no-drill C-clamp, so it attaches without modifying the desktop itself.\n\nNo-drill mount doesn't damage the desktop. On the other hand, adds a sub-layer under the desk that some chairs may bump. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -207,7 +207,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "40,618",
     imageUrl: "https://m.media-amazon.com/images/I/31fbr5QGnDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0788LMLZL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0788LMLZL?tag=workcocoon-20",
     description:
       "At 31.5\"x11.8\", the KTRIO is wide enough to cover both a keyboard and mouse together under a wide ultrawide setup, instead of using two separate small mats that leave a gap between them. The micro-weave cloth surface is waterproof and finished with stitched, anti-fray edges. A non-slip rubber base keeps the mat from sliding during regular typing and mouse movement. It's the cheapest single item in this guide and also the most-reviewed, with over 40,000 ratings. Cheapest item in this entire guide at a competitive price. That's a real strength, but weigh it against the flip side: 3mm thickness offers less cushioning than a padded wrist-rest mat.",
     specs: [
@@ -239,7 +239,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "3,207",
     imageUrl: "https://m.media-amazon.com/images/I/41bgYVWy3IL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZ3GHM8N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ3GHM8N?tag=workcocoon-20",
     description:
       "A monitor arm and a 13-port docking station both add cable volume that a standard desk grommet can't handle cleanly, and the Litwaro tray is built to catch that overflow. Carbon steel construction holds up to 15 lbs of cables with 2 routing holes for feeding cords through to the desktop.\n\nThe no-drill clamp mount fits desks 0.4\" to 2\" thick and comes with a 1-year warranty. It's a small, low-cost addition that keeps the extra cable clutter a wide multi-device setup generates off the floor.\n\nWorth calling out specifically: no-drill mount fits most desk thicknesses. The catch is 15 lb capacity is modest if you're running many peripherals.",
     specs: [

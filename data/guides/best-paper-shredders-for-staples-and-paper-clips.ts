@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31GNS0CdNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZG69W?tag=workcocoon-20",
     description:
       "This is P-3 rated, a coarser cut than micro-cut alternatives, and coarser cuts generally tolerate staples and clips better since the blade tolerances aren't as tight. The massive review base offers strong real-world evidence this cross-cut mechanism handles staples reliably at scale.\n\nExplicitly confirms staples and small paper clips alongside credit cards, though doesn't specify a volume limit for heavy, regular stapled-document use.\n\nP-3 cross-cut tolerance genuinely better for fasteners than micro-cut. On the other hand, p-3 security level, lower than the P-4 micro-cut picks in other guides. Neither should be a surprise once you know to look for it.",
     specs: ["12-sheet manual feed, P-3 cross-cut (staple-tolerant tier)", "Handles staples, small paper clips, credit cards", "9-minute continuous run time", "5-gallon bin"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31AP7IG-MYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NY9W23W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08NY9W23W?tag=workcocoon-20",
     description:
       "P-4 rated but at 15 sheets with an 8.7-inch wide entry, this handles staples and small paper clips at a higher capacity than the coarser P-3 pick above, a reasonable middle ground between security and volume. Same massive Amazon Basics review base.\n\nStill P-4 (finer cut than P-3), so expect somewhat more caution around heavy staple volume than the P-3 rank-1 pick, even though it's explicitly rated for staples.\n\nWide 8.7-inch paper entry. That's a real strength, but weigh it against the flip side: p-4 rating means slightly less staple tolerance than the coarser P-3 pick.",
     specs: ["15-sheet manual feed, P-4 cross-cut, 8.7-inch entry", "Handles staples, small paper clips, CDs, credit cards", "20-minute continuous run time", "6-gallon bin"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,517 Amazon ratings",
     reviews: "1,517 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31sWapqhQCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJR7KXJX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJR7KXJX?tag=workcocoon-20",
     description:
       "This listing explicitly names \"durable alloy cutters\" specifically for handling staples, clips, credit cards, and CDs/DVDs, more specific blade-material disclosure than most competitors offer. The highest paper capacity in this specific guide, alongside confirmed fastener durability.\n\nA genuinely strong pick if you want both high capacity and explicit blade-hardness assurance for regular staple use.\n\nWorth calling out specifically: highest paper capacity in this guide. The catch is smaller review base than the Amazon Basics picks.",
     specs: ["15-sheet manual feed, P-4 cross-cut, alloy cutters", "Explicitly handles staples, clips, cards, CDs/DVDs", "10-minute continuous run time", "5.5-gallon bin, safety interlock"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 9,810 Amazon ratings",
     reviews: "9,810 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31wkQYg97oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MHR4457?tag=workcocoon-20",
     description:
       "Explicitly destroys junk mail, staples, and credit cards alongside 10-sheet paper capacity, with a large 5.5-gallon bin and a strong review base for real-world confidence. A reasonable, moderately-priced pick that doesn't specify alloy blade material but has proven reliability at scale.\n\nA solid middle-tier choice between the highest-capacity picks and the most budget-focused options in this guide.\n\nStrong review base. Set against that, short 4-minute continuous run time. Both matter when comparing it to the other picks here.",
     specs: ["10-sheet manual feed, P-4 cross-cut", "Destroys junk mail, staples, credit cards (one at a time)", "4-minute continuous run time", "5.5-gallon bin"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 1,685 Amazon ratings",
     reviews: "1,685 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/310qS+3q87L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5XPJ524?tag=workcocoon-20",
     description:
       "The jam-proof reverse system here is a genuine practical asset specifically for staples and clips, since these are more likely to cause a snag than paper alone, and having an easy reverse function to clear it matters. Shreds CDs, credit cards, and staples alongside a genuinely long 15-minute run time.\n\nA reasonable all-around pick if occasional staple snags are a real concern for your typical batch composition.\n\nA genuine advantage here is that long 15-minute continuous run time. The tradeoff is not the highest paper capacity in this guide.",
     specs: ["12-sheet manual feed, P-4 cross-cut", "Jam-proof reverse for staple/clip snag clearing", "15-minute continuous run, ~900 sheets/cycle", "5.5-gallon bin"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 77,112 Amazon ratings",
     reviews: "77,112 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31QbluTUmKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6LZ8S34?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6LZ8S34?tag=workcocoon-20",
     description:
       "The lowest price in this guide, explicitly rated to shred staples and small paper clips alongside credit cards, with the same massive review base shared across the Amazon Basics line. A reasonable budget entry point for occasional staple removal without buying a premium model.\n\nP-4 with a fine particle size means slightly less staple tolerance than the coarser P-3 pick (rank 1), a real tradeoff at this price.\n\nMassive proven review base. On the other hand, short 3-minute continuous run time. Neither should be a surprise once you know to look for it.",
     specs: ["8-sheet manual feed, P-4 cross-cut, 5x18mm particles", "Handles staples, small paper clips, credit cards", "3-minute continuous run time", "3.7-gallon bin"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,974 Amazon ratings",
     reviews: "8,974 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31jH9nhLBBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DKXGNDLT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DKXGNDLT?tag=workcocoon-20",
     description:
       "This is a genuine micro-cut design, higher security than the cross-cut picks in this guide, but micro-cut mechanisms are inherently more prone to jamming on staples and clips than coarser cross-cut due to tighter blade tolerances, exactly the security-versus-durability tradeoff this guide highlights. Still explicitly confirmed to handle clips and staples, just with less margin for error than the cross-cut picks.\n\nChoose this if maximum security matters more to you than the widest staple/clip tolerance.\n\nLarge 5.5-gallon bin. That's a real strength, but weigh it against the flip side: micro-cut mechanism is inherently less staple/clip-tolerant than cross-cut.",
     specs: ["10-sheet manual feed, P-4 micro-cut, 5x12mm particles", "Shreds cards, clips, staples (tighter tolerance than cross-cut)", "5-minute continuous run time", "5.5-gallon bin"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 9,126 Amazon ratings",
     reviews: "9,126 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/413GY12YKjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CX4DZ4Z?tag=workcocoon-20",
     description:
       "The highest rating and a very large review base in this guide, a genuine micro-cut design that explicitly destroys CDs, credit cards, and (per its overall category listing) small paper clips, with anti-jam auto-reverse to handle the occasional snag the tighter micro-cut tolerances can cause.\n\nSame security-versus-durability tradeoff applies as with the other micro-cut pick in this guide, but the strong review base and long 60-minute run time suggest this specific model manages that tradeoff well in real use.\n\nWorth calling out specifically: long 60-minute run time. The catch is micro-cut mechanism has the same inherent staple/clip tolerance tradeoff as the rank-7 pick.",
     specs: ["12-sheet manual feed, P-4 micro-cut", "Destroys CDs, credit cards, paper clips", "60-minute continuous run time", "5-gallon bin, anti-jam auto-reverse"],

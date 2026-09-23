@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 2,138 Amazon ratings",
     reviews: "2,138 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00CYPV29W?tag=workcocoon-20",
     description:
       "For a studio apartment where noise matters to neighbors sharing walls and floors, this gas piston mechanism is a genuinely quieter option than spring-based designs, since pistons do not creak the way tensioned springs can over years of use. It is a bare hardware kit, not a finished cabinet, so you build your own cabinet face around it, which lets you plan placement carefully around any floor vents.\n\nWith 2,138 ratings at 4.6 stars, it has the strongest review base in this guide. Before installing in a rental studio, get written lease approval, since the wall mounting hardware this kit requires is a lease-sensitive modification in most apartment buildings.\n\nLargest review base in this guide at 2,138 ratings. That's a real strength, but weigh it against the flip side: no desk surface included, bed-only mechanism.",
     specs: [
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,610 Amazon ratings",
     reviews: "1,610 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51h1vyv6ZdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B017701FUE?tag=workcocoon-20",
     description:
       "Like the Create-A-Bed kit above, this is a gas piston mechanism, which tends to be quieter over years of daily use than spring mechanisms, a real consideration in a studio apartment with shared walls. It is the lowest-cost mechanism in this guide, leaving more budget for a well-planned custom cabinet.\n\nWith 1,610 ratings at 4.6 stars, it has a strong review base for a DIY kit. Check your building's floor load capacity if you are in an older building before installing, and always confirm wall mounting is approved in your lease before drilling.\n\nWorth calling out specifically: piston mechanism is quieter for apartment living. The catch is no desk surface included, bed-only mechanism.",
     specs: [
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 19 Amazon ratings",
     reviews: "19 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51JtI3bjGFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GQM56Y2N?tag=workcocoon-20",
     description:
       "This fully assembled cabinet skips the carpentry step, which matters in a studio apartment where you may not have workshop space to build a custom cabinet. The listing does not mention a desk, so treat this as a storage-focused cabinet with a charging station rather than a desk-bed combo.\n\nThe mechanism type is not specified in the listing, so you cannot assume piston-quiet operation without checking directly. With only 19 ratings, buyer feedback on noise level and floor load is thin, so confirm building suitability before ordering for an apartment with sensitive neighbors below.\n\nBuilt-in charging station. Set against that, no desk surface, despite home office marketing. Both matter when comparing it to the other picks here.",
     specs: [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 340 Amazon ratings",
     reviews: "340 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51k+vfJQZGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DN5P11PP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DN5P11PP?tag=workcocoon-20",
     description:
       "LUXOAK's storage-focused design is a genuine benefit for a studio apartment, where a single room needs to absorb storage that a house would spread across multiple rooms. No desk is mentioned in the listing, so plan for a separate desk elsewhere in the studio.\n\nWith 340 ratings at 4.3 stars, it has a solid mid-size review base. Check the cabinet's floor footprint against your studio's HVAC vent locations before finalizing placement, since blocked floor vents are a common studio-specific complaint with cabinets this size.\n\nA genuine advantage here is that storage compartments help a single-room studio layout. The tradeoff is no desk surface, requires a separate desk purchase.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 396 Amazon ratings",
     reviews: "396 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Og-FctXuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DGL5B76J?tag=workcocoon-20",
     description:
       "AMERLIFE's title lists storage and charging, not a desk, so plan on a separate small desk in another corner of the studio if desk work is part of your routine. With 396 ratings at 4.2 stars, it has the largest review base among the assembled cabinets in this guide.\n\nBefore ordering, confirm your building's floor load capacity if you live in an older converted building, since assembled cabinets this size can weigh several hundred pounds once the mattress and hardware are accounted for.\n\nCharging station and storage built in. That's a real strength, but weigh it against the flip side: no desk surface, requires a separate desk purchase.",
     specs: [
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 120 Amazon ratings",
     reviews: "120 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51jUTZEm-VL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GS52M63V?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GS52M63V?tag=workcocoon-20",
     description:
       "This is the lowest-priced assembled cabinet in this guide, a genuine consideration for a studio renter budgeting for a single-room apartment. No desk is included, and the mechanism type is not specified in the listing, so verify noise level directly if you have neighbors below.\n\nWith 120 ratings at 4.0 stars, it has a moderate review base. As with any assembled cabinet this size, check your studio's HVAC vent placement and get written lease approval before installation.\n\nWorth calling out specifically: built-in charging station. The catch is no desk surface, requires a separate desk purchase.",
     specs: [
@@ -229,7 +229,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 141 Amazon ratings",
     reviews: "141 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51XE-SiCWBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FFSTT5LQ?tag=workcocoon-20",
     description:
       "Built-in LED lighting is a genuinely useful feature in a studio apartment, where a single room often lacks a dedicated bedside lamp setup. It uses a gas strut mechanism, which is generally quieter than spring-based designs, though this is not the confirmed lowest-noise option like the bare piston kits above. It is the highest priced pick in this guide. With 141 ratings at 4.0 stars, feedback is reasonably sized. No desk is included, so plan for a separate desk elsewhere in the studio. Gas strut mechanism is generally quieter than spring designs. Set against that, no desk surface, requires a separate desk purchase. Both matter when comparing it to the other picks here.",
     specs: [
@@ -259,7 +259,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 141 Amazon ratings",
     reviews: "141 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/515sMh7j30L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DXZVVHCG?tag=workcocoon-20",
     description:
       "This is the same LED-equipped queen cabinet as the brown pick above, in a rustic white finish and priced a moderate amount lower. The gas strut mechanism, lighting, and no-box-spring design are identical, so choose based on finish preference for your studio's decor. The same considerations apply as the brown variant: no desk included, verify HVAC vent clearance for your specific studio layout, and confirm lease approval before installation. The shared 141-review base and 4.0-star rating apply to both finishes. A genuine advantage here is that slightly lower price than the brown finish variant. The tradeoff is no desk surface, requires a separate desk purchase.",
     specs: [

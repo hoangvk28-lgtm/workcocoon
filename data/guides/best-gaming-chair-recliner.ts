@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "4,006 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XTooEFbuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9H3PDSY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D9H3PDSY?tag=workcocoon-20",
     description:
       "The RESPAWN 900 is built in a console recliner style rather than a standard gaming chair frame, with independent 135 degree recline and a separate footrest that extends on its own mechanism. It has no wheels, a deliberate choice that adds stability for a chair meant to stay in one spot near a TV or console setup, and still swivels a full 360 degrees. A built-in cup holder and accessory pouch add practical storage within reach. Backed by a 5-year warranty and 4,006 ratings at 4.4 stars, it's built for durability in a fixed living room setup rather than a desk. For console gamers who want a true recliner rather than a wheeled desk chair, the RESPAWN 900 is the top pick. No wheels for added stability. That's a real strength, but weigh it against the flip side: highest price in this guide.",
     specs: [
@@ -73,7 +73,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "11,049 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41mCuWEXNlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09SVTX23Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09SVTX23Y?tag=workcocoon-20",
     description:
       "The RESPAWN 110 Pro offers a near-infinite recline up to 155 degrees paired with a multi-point adjustable footrest, giving finer control over reclined positions than fixed-angle recliners. Two-layer thick foam padding and an adjustable headrest support extended sessions, and the frame carries a 275 lb capacity backed by a 5-year warranty.\n\nWith 11,049 ratings, it's the most reviewed chair in this guide, though its 4.2 star average is on the lower end here. For buyers who want fine-grained control over recline angle rather than a few fixed positions, the RESPAWN 110 Pro's near-infinite adjustment stands out.\n\nWorth calling out specifically: near-infinite recline adjustment to 155°. The catch is 4.2 stars, lowest rating in this guide.",
     specs: [
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "16,787 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31KvjATv0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B077N51CR2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B077N51CR2?tag=workcocoon-20",
     description:
       "This Homall recliner reclines from 90 all the way to 180 degrees, fully flat, a range that neither RESPAWN model in this guide matches. Thick sponge padding and a reinforced steel footrest support the extended recline, while wide curved armrests and 4 anti-scratch feet round out the build at a budget price point.\n\nWith 16,787 verified ratings and a 4.3 star average, it's a well-proven budget option. For buyers who specifically want to recline completely flat without paying for a premium console-style recliner, the Homall's 180 degree range is the best value here.\n\n16,787 verified ratings. Set against that, no massage or heating features. Both matter when comparing it to the other picks here.",
     specs: [
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "16,787 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419J71X93EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CF54K5CZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF54K5CZ?tag=workcocoon-20",
     description:
       "This is the upgraded version of the Homall 180-degree recliner, wrapped in soft PU leather instead of the standard fabric and finished with a dark black home theater look. It keeps the same 90 to 180 degree fully flat recline and reinforced steel footrest, now described as thicker, with the same lumbar support and 4 anti-scratch feet as the standard model. It's actually priced slightly below the standard fabric Homall recliner while adding a leather finish, making it the better pick if you prefer a leather look for a home theater setup. Both Homall models share the same 16,787-rating review base and 4.3 star average. A genuine advantage here is that priced below the fabric Homall model. The tradeoff is pU leather can feel warmer than fabric over long sessions.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "2,278 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Sr+W5wr3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGH7R5J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGH7R5J?tag=workcocoon-20",
     description:
       "The Yaheetech recliner adds an electric USB-powered massage lumbar and a folding footrest at the lowest price in this guide, with a recline to 135 degrees. A detachable headrest lets you remove it for a lower profile, and 5 multi-directional PU casters carry SGS certification for the rolling base. At 4.6 stars, it holds the highest rating of any chair in this entire guide despite its budget price. For buyers who want massage functionality bundled into their recliner without paying a premium, the Yaheetech is the standout value. Lowest priced competitively. That's a real strength, but weigh it against the flip side: 135° recline, less than the flat Homall models.",
     specs: [
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "2,016 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41o72f-ElIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F9YFX3QN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9YFX3QN?tag=workcocoon-20",
     description:
       "The GTPLAYER uses a sofa-like pocket spring cushion rather than the flat foam padding found on most budget recliners in this guide, aiming for a softer seated feel closer to a couch than a typical gaming chair. Its Leatheraire fabric is rated 2 times more breathable than standard PU leather, and self-adjusting armrests move with you rather than staying fixed. At a competitive price with a 300 lb capacity and 1-year warranty, it's a mid-budget option focused on comfort and breathability over deep recline angles. For buyers who prioritize a plush, sofa-like seat over a fully flat recline, the GTPLAYER fills that niche. Worth calling out specifically: leatheraire fabric rated 2x more breathable. The catch is no stated maximum recline angle beyond smooth motion.",
     specs: [
@@ -193,7 +193,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars",
     reviews: "696 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51m3tFFslFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GFPLGBH6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GFPLGBH6?tag=workcocoon-20",
     description:
       "The Sweetcrispy is styled as a true sofa-style recliner rather than a gaming chair frame, reclining from 90 to 160 degrees with 8 massage modes and 2 vibration intensities controlled by an included remote. Its home-theater styling sets it apart visually from every other chair in this guide, most of which keep a recognizable gaming chair silhouette.\n\nWith 5-minute assembly and a 275 lb capacity, it's designed for quick setup in a media room. For buyers who want a chair that looks and feels like home theater furniture rather than a gaming rig, the Sweetcrispy is the closest match in this guide.\n\n5-minute assembly, fastest in this guide. Set against that, 696 ratings, fewer than several alternatives here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -217,7 +217,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars",
     reviews: "26 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41LoiulOV5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJCTD5SW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GJCTD5SW?tag=workcocoon-20",
     description:
       "This Homall Big & Tall model is rated for 400 lbs, the highest capacity of any chair in this guide by a wide margin, using a wingless breathable design instead of the high-back wing silhouette common on gaming chairs. An adjustable air-pump lumbar and retractable footrest support the 90 to 155 degree recline, and 4D armrests allow independent height, width, depth, and pivot adjustment. It's an affordable price for a 400 lb rated frame, though its 4.0 star rating and 26 reviews are both the lowest in this guide, worth weighing against the capacity advantage. For big and tall buyers whose weight exceeds what standard 275 to 300 lb chairs in this guide can safely support, the Homall Big & Tall is the only option built for that range. A genuine advantage here is that 4D armrests with independent adjustment. The tradeoff is 4.0 stars, lowest rating in this guide.",
     specs: [

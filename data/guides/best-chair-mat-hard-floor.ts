@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "1,484",
     imageUrl: "https://m.media-amazon.com/images/I/511cDPpcZXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DM4VCWWJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DM4VCWWJ?tag=workcocoon-20",
     description:
       "The Sycoodeal is the cheapest mat in this list and the only one built specifically to cut rolling noise, a real consideration if your desk sits over a downstairs bedroom or a shared apartment floor. At 0.16 inches thick, the TPR material is noticeably softer underfoot than the PVC mats here, which is part of how it dampens sound.\n\nIts non-slip adsorption backing grips hard floors without adhesive, and the mat can be trimmed down to a custom size with scissors. The tradeoff is a lower star rating than the pricier picks, so buyers wanting a longer-term showpiece mat should look further down this list.\n\nOnly pick built specifically for noise reduction. On the other hand, lowest star rating in this guide. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "2,920",
     imageUrl: "https://m.media-amazon.com/images/I/414FROmaZML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FCDNGYB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FCDNGYB?tag=workcocoon-20",
     description:
       "Yecaye's clear PVC mat is built to resist the curling and cracking that thinner clear mats develop after months on the floor, with rounded corners that keep the edges from catching a chair leg or a shoe. At 0.07 inches thick, it strikes a middle ground between the flimsiest budget mats and the rigid glass options later in this list.\n\nIt's rated for any hard floor surface and stays fully transparent, though like most clear PVC it's worth knowing that this material can develop a slight yellow tint after a year or two of UV exposure, something to weigh if you want a mat that still looks brand new in year two.\n\nResists curling better than thinner clear mats. That's a real strength, but weigh it against the flip side: clear PVC can yellow slightly after a year or two.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "3,457",
     imageUrl: "https://m.media-amazon.com/images/I/517k2eNhAvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07SBVXQ7B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07SBVXQ7B?tag=workcocoon-20",
     description:
       "The Azadx is the only mat in this list with a genuinely reversible design, a smooth side for gliding and a textured matte side that adds traction when a chair tends to drift on a slicker floor. That flexibility lets one mat adapt to two different floor conditions without buying a second product.\n\nAt 30x48 inches and 0.06 inches thick, it's built from transparent PVC that works across wood, tile, laminate, and vinyl. As with any clear PVC mat, expect a very gradual yellow tint over a year or two rather than the mat staying showroom-clear forever.\n\nWorth calling out specifically: textured side adds grip on slicker floors. The catch is narrower than the 36\"-wide picks.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "10,646",
     imageUrl: "https://m.media-amazon.com/images/I/51-SqFH4ZoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=workcocoon-20",
     description:
       "Kuyal's mat is built at 2mm thick with an anti-slide coating on the underside that's designed to hold on wood, tile, laminate, vinyl, stone, and concrete alike, useful if you're not sure exactly how your specific hard floor will grip a mat. The top surface uses a dull polish finish rather than a glossy one, which noticeably reduces how visible fine scratches look over time.\n\nIt's odorless and BPA-free with no lead or cadmium, and at 36x48 inches it covers a standard desk chair's full swivel radius. Its anti-slide backing is a middle-ground suction approach rather than a true rubber or adhesive backing, so extremely smooth polished floors may still see minor shifting under heavy rolling.\n\nDull polish finish hides light scratches well. Set against that, suction-style backing grips less aggressively than true rubber. Both matter when comparing it to the other picks here.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "1,313",
     imageUrl: "https://m.media-amazon.com/images/I/41XIeKF3CtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQ87K7RL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQ87K7RL?tag=workcocoon-20",
     description:
       "The Blvornl stands out visually with a rattan-like woven pattern, the only mat in this list that looks like a decor piece rather than a purely functional plastic sheet. Underneath, a rubber non-slip base grips hard floors without needing industrial adhesive, so it won't leave residue behind when moved.\n\nAt 0.08 inches thick, it's also flame-retardant, waterproof, oil-resistant, and heat-resistant, a broader durability spec sheet than most clear PVC competitors. The pattern does mean it's less transparent than the fully clear picks, so buyers wanting an invisible mat should look elsewhere.\n\nA genuine advantage here is that rubber base grips without adhesive residue. The tradeoff is pattern is more visible than fully clear mats.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "849",
     imageUrl: "https://m.media-amazon.com/images/I/41PScNXF1QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCBDMRSS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCBDMRSS?tag=workcocoon-20",
     description:
       "The BARoyal combines a PVC top layer with a rubber backing, an approach that grips hard floors more consistently than PVC alone while still gliding smoothly for a rolling chair. It carries the highest star rating of any PVC-based mat in this guide at 4.6, backed by testing through over 10,000 durability cycles per the listing.\n\nIts curl-free flat edges and water-resistant build hold up well over time, and the Espresso color option is the only non-clear, non-black finish in this list. Silent glide performance rounds out a mat built for buyers who want PVC-level affordability with rubber-level grip.\n\nRubber backing grips more reliably than PVC alone. On the other hand, smaller review count than the budget best-sellers. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
       "At 5mm thick, the MuArts is the thickest and most rigid mat in this list short of tempered glass, and it's rated to support up to 1,400 lbs, the highest capacity of any pick here. That rigidity means it lies flat immediately and doesn't flex or bow under a rolling chair the way thinner PVC mats can.\n\nIt works dual-use on either hard floors or carpet, so it's a reasonable pick if you might move the mat between rooms later. The crystal-clear finish and 12-month warranty round out a mat built for buyers who want glass-level flatness without paying for actual glass.\n\nThickest, most rigid non-glass pick. That's a real strength, but weigh it against the flip side: pricier than every PVC pick in this list.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,486",
     imageUrl: "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=workcocoon-20",
     description:
       "The GLSLAND is the only tempered glass mat in this guide, and that material choice solves the two biggest long-term complaints about clear PVC mats at once: glass will not yellow with age and will not develop the fine surface scratches a plastic mat eventually shows. At 5mm thick and rated for 1,200 lbs, it's built to last far longer than any plastic option here.\n\nFour anti-slip pads keep it from shifting on the floor, and it's BPA-free, phthalate-free, and odorless. It works dual-use on carpet or hard floor, making it the most durable long-term investment in this list, at a price that reflects that durability.\n\nWorth calling out specifically: highest star rating among the premium picks at 4.6. The catch is most expensive pick in this guide.",
     specs: [

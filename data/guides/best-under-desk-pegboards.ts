@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.9 stars from Amazon ratings",
     reviews: "66 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31h2QOu6ArL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQJ21TD4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FQJ21TD4?tag=workcocoon-20",
     description:
       "A no-drill C-clamp tray built specifically for under-desk cable organization, with the highest rating in this list and a solid review base to back it up.\n\nAt 30.2 inches, it's a moderate size that should sit clear of most seating positions, though it's still worth measuring your knee clearance before installing given how close the mounting position sits to where your legs go.\n\nThe standout detail is that no-drill clamp avoids permanent desk modification. Balancing that out, narrower focus on cables rather than general accessory storage.",
     specs: ["30.2 inch tray length", "No-drill C-clamp mount", "Cable-focused pegboard design", "High review rating"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from Amazon ratings",
     reviews: "428 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tGKIBolqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTQND9BL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTQND9BL?tag=workcocoon-20",
     description:
       "A desk-side clamp organizer that sits at the edge rather than deep underneath, which meaningfully reduces the knee-clearance concern of a fully under-desk placement while still keeping small accessories off the desk surface.\n\nThe large, well-established review base is a strong reliability signal, and the edge-mounted position also stays more visible than a deep under-desk tray, easing the low-light access issue.\n\nLarge, well-established review base. That's a real strength, but weigh it against the flip side: smaller capacity than a full cable management tray.",
     specs: ["Fits flat edge 0.4 to 2.2 inches", "Desk-side clamp mount", "White finish", "Self-contained storage system"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "744 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41XfsAb0YwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK13ZHNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK13ZHNJ?tag=workcocoon-20",
     description:
       "A larger 36-inch cable tray with by far the largest review base in this list, appropriate for buyers with a wide desk who want a single tray covering the full cable run underneath.\n\nThe extra length means more of the tray sits within potential knee clearance depending on exactly where you position it, worth test-fitting mounting position before finalizing placement.\n\n36 inch length covers wider desks in one tray. On the other hand, longer tray means more potential overlap with knee clearance depending on placement. Both are worth keeping in mind before deciding.",
     specs: ["36 inch tray length", "No-drill mount", "Cable management focus", "Very large review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oUaLqsLtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G4R17HMV?tag=workcocoon-20",
     description:
       "A clamp-on metal shelf with a small pegboard section, positioned at the desk edge rather than deep underneath, which keeps it clear of most seating positions while still adding hanging and shelf storage.\n\nThe compact design means this trades some capacity for reduced knee-clearance impact compared to a full-length under-desk tray, appropriate for buyers prioritizing legroom over maximum storage.\n\nA genuine advantage here is that metal build holds up better than a plastic tray. The tradeoff is that smaller capacity than a dedicated cable management tray.",
     specs: ["Metal clamp-on shelf", "Small pegboard section", "Pencil holder included", "Compact, edge-mounted footprint"],

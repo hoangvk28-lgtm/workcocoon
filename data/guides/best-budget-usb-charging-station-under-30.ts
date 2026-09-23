@@ -40,7 +40,7 @@ export const products: ChargingProduct[] = [
     wattage: "60W",
     usbC: false,
     imageUrl: `${BASE}/01-anker-powerport-6-60w-6-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=workcocoon-20",
     whyItWorks:
       "PowerIQ identifies each device and delivers the fastest safe charge speed. 60W total across 6 ports charges phones at full speed on all 6 simultaneously. Detachable 5ft power cord keeps it clean on a desk. MultiProtect safety: surge protection + temperature control built in.",
     tradeoffs: ["All USB-A, no USB-C port for newer devices", "Larger footprint than wall-plug alternatives"],
@@ -58,7 +58,7 @@ export const products: ChargingProduct[] = [
     wattage: "60W",
     usbC: false,
     imageUrl: `${BASE}/02-hercules-tuff-6-port-aluminum.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07G71CQ78?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07G71CQ78?tag=workcocoon-20",
     whyItWorks:
       "Aluminum housing dissipates heat far better than plastic at this price. 60W/12A total with 2.4A per port, same specs as chargers twice the price. Under $18 is the lowest-cost trustworthy option in this roundup. Compact and low-profile, fits under monitors without blocking anything.",
     tradeoffs: ["No smart auto-detect, fixed 2A per port", "No USB-C port"],
@@ -76,7 +76,7 @@ export const products: ChargingProduct[] = [
     wattage: "60W",
     usbC: true,
     imageUrl: `${BASE}/03-soopii-6-port-6-cables-pd-20w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07M6PKB9W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07M6PKB9W?tag=workcocoon-20",
     whyItWorks:
       "Comes with 6 short charging cables (2× Lightning, 2× USB-C, 1× Micro USB, 1× USB-C to USB-C), ready out of the box. 1 USB-C PD 20W port fast-charges iPhone 12–16. Built-in divider slots keep phones and tablets upright while charging. Apple Watch arm holder included.",
     tradeoffs: ["Included cables are short (1ft), phone must stay near the station", "Larger footprint, needs ~6\"×4\" of desk space"],
@@ -94,7 +94,7 @@ export const products: ChargingProduct[] = [
     wattage: "60W",
     usbC: false,
     imageUrl: `${BASE}/04-sabrent-10-port-60w-ax-tpcs.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00OJ79UK6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00OJ79UK6?tag=workcocoon-20",
     whyItWorks:
       "10 USB-A ports handles a whole family or a desk full of devices at once. UL Certified, one of few ultra-budget options with formal safety certification. Auto Detect adjusts output per device. Under $20 for 10 ports is the best port-per-dollar ratio in this roundup.",
     tradeoffs: ["60W across 10 ports = 6W average, fine for phones, slow for tablets", "No USB-C port", "Larger form factor"],
@@ -112,7 +112,7 @@ export const products: ChargingProduct[] = [
     wattage: "68W",
     usbC: true,
     imageUrl: `${BASE}/05-mstjry-68w-6-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09N985RV9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09N985RV9?tag=workcocoon-20",
     whyItWorks:
       "PD 20W USB-C fast-charges iPhone 12–16 from 0–50% in ~30 min. Quick Charge 3.0 for Samsung Galaxy, Pixel, and QC-compatible Android phones. Comes with 8 short cables. 68W total, highest combined wattage among 6-port picks. Built-in Apple Watch arm holder.",
     tradeoffs: ["More cables than needed if you don't use all types", "Larger organizer footprint (~6\"×5\")"],
@@ -130,7 +130,7 @@ export const products: ChargingProduct[] = [
     wattage: "63W",
     usbC: false,
     imageUrl: `${BASE}/06-anker-powerport-5-40w-5-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B01IUTIUEA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01IUTIUEA?tag=workcocoon-20",
     whyItWorks:
       "Dedicated Quick Charge 3.0 port fast-charges Samsung Galaxy, Pixel, and QC-compatible Android up to 4× faster than standard. 63W total, highest wattage in this under-$30 roundup. PowerIQ on the 4 remaining ports for smart detection. Stable flat base.",
     tradeoffs: ["Only 1 Quick Charge port", "No USB-C port"],
@@ -148,7 +148,7 @@ export const products: ChargingProduct[] = [
     wattage: "60W",
     usbC: false,
     imageUrl: `${BASE}/07-soopii-lcd-display-6-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BZ8GBS82?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ8GBS82?tag=workcocoon-20",
     whyItWorks:
       "LCD display shows real-time total power draw, useful for verifying devices are charging. 6 USB-A ports at 60W total. Compact horizontal design sits flat without tipping. Visual feedback immediately shows if a cable is seated correctly.",
     tradeoffs: ["LCD adds minimal functional value for most users", "No USB-C port"],

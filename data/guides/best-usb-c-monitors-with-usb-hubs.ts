@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41LA4JXX5oL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FWHF97TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FWHF97TT?tag=workcocoon-20",
     description:
       "Explicitly built as a docking monitor with an RJ45 Ethernet port alongside USB connectivity, genuinely reduces the number of separate dongles a desk setup needs.\n\nHeight-adjustable stand and integrated speakers add real desk-setup value beyond the hub functionality alone.\n\nA genuine advantage here is that 120Hz refresh rate for smoother motion. The tradeoff is that verify actual USB standard (3.0 vs 2.0) on each hub port before assuming full speed.",
     specs: ["24-inch IPS panel", "120Hz refresh rate", "RJ45 Ethernet plus USB hub", "Height-adjustable stand"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41Du+XSAPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCXN5P3T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCXN5P3T?tag=workcocoon-20",
     description:
       "A dedicated docking station rather than a monitor with a built-in hub, genuinely useful for buyers who want to pair any monitor with a robust hub and switching capability.\n\n65W power delivery and gigabit Ethernet give real desk-setup consolidation beyond what most monitor-integrated hubs offer.\n\nGigabit Ethernet for reliable wired networking. That said, requires pairing with a separate monitor, not an all-in-one solution. Neither should be a surprise once you know to look for it.",
     specs: ["Dedicated docking station", "65W power delivery", "Gigabit Ethernet", "2-monitor, 2-PC KVM support"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GD21577Z?tag=workcocoon-20",
     description:
       "Includes downstream USB ports alongside its primary USB-C connectivity, appropriate for buyers who want basic hub functionality alongside a larger, higher-refresh-rate panel.\n\nVerify the exact USB standard on the downstream ports before assuming full-speed external drive performance through this monitor.\n\nWorth calling out specifically: downstream USB ports for basic hub functionality. The catch is verify exact USB standard on downstream ports for your device needs.",
     specs: ["27-inch QHD panel", "144Hz refresh rate", "Downstream USB ports", "USB-C connectivity"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=workcocoon-20",
     description:
       "A genuinely budget-friendly 8-in-1 hub for buyers who'd rather pair a separate hub with their monitor of choice than buy an all-in-one docking monitor.\n\nDual monitor support via 4K HDMI outputs makes this flexible for buyers wanting to drive two separate displays from one hub.\n\nDual monitor support via 4K HDMI. Set against that, requires a separate monitor purchase, not all-in-one. Both matter when comparing it to the other picks here.",
     specs: ["8-in-1 USB-C hub", "Dual 4K HDMI output", "Budget-friendly price", "Standalone hub, works with any monitor"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "Verified Amazon listing",
     imageUrl: "https://m.media-amazon.com/images/I/31KfwfvqAqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW2JGRN4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CW2JGRN4?tag=workcocoon-20",
     description:
       "A dedicated docking station explicitly built for laptop and desktop switching with dual monitor hub support, appropriate for buyers running both a laptop and desktop from one setup.\n\nHigher price reflects the dual-monitor KVM switching capability alongside the hub functionality, verify this level of feature set matches your actual setup needs.\n\nThe standout detail is that robust hub port selection for peripherals. Balancing that out, higher price than a simple standalone hub.",
     specs: ["Dual monitor KVM docking station", "Laptop and desktop switching support", "USB hub with multiple ports", "Higher-end price point"],

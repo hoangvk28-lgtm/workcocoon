@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "54,421",
     imageUrl: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=workcocoon-20",
     description:
       "The HON is the most-reviewed pick in this guide, a 2.2mm PU vinyl mat at 36\"x48\" with an extended lip, ramped edges, and anchor bars for low pile carpet up to 1/4\". Its anti-skid top and 5-year warranty, the longest in this guide, make it a dependable choice for a single-user home office.\n\nFor a shared or hot-desk commercial setup with heavier daily hours, the anchor bars and vinyl build hold up reasonably well, though buyers running a mat under multiple users for years should weigh it against the thicker or more certified picks in this guide.\n\nA genuine advantage here is that longest warranty in this guide at 5 years. The tradeoff is only rated for carpet up to 1/4\" thick.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "19,120",
     imageUrl: "https://m.media-amazon.com/images/I/312JmZc6DqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BZCYM9X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BZCYM9X?tag=workcocoon-20",
     description:
       "The Dimex is the thickest lipped PVC mat in this guide at 0.25\", built at 36\"x48\" with a 20\"x10\" lip and cleated backing for low pile carpet up to 1/4\". Made in the USA, it's a solid pick for a home office or single-desk commercial setup that wants a bit more material thickness than the HON without moving up to a rigid polycarbonate mat.\n\nRounded corners are a small but real safety detail in a shared office where someone might brush past the mat's edge repeatedly throughout the day. Like the HON, its rated depth tops out at 1/4\", so it isn't the pick for deeper carpet.\n\nMade in USA. On the other hand, only rated for carpet up to 1/4\" thick. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "10,646",
     imageUrl: "https://m.media-amazon.com/images/I/51-SqFH4ZoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0893BD69B?tag=workcocoon-20",
     description:
       "The Kuyal is the cheapest clear mat in this guide, a 2mm PVC mat at 36\"x48\" for hard floors, with an anti-slide coating underside and a smooth top surface. For a home office on hardwood, tile, or laminate, it's a straightforward low-cost option.\n\nIt's odorless, BPA-free, and free of lead or cadmium, but it doesn't carry the GREENGUARD or thicker commercial-grade build of some other picks in this guide, so a hot-desked commercial office with heavy daily turnover may outlast it faster than a dedicated single-user setup.\n\nOdorless and free of lead or cadmium. That's a real strength, but weigh it against the flip side: hard floor only, no carpet compatibility.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.4",
     reviews: "19,765",
     imageUrl: "https://m.media-amazon.com/images/I/51MrvqlOeEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VWPGR7B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VWPGR7B?tag=workcocoon-20",
     description:
       "At 5mm thick, the MuArts is the thickest mat in this guide, rated for 1,200 lbs, the highest capacity here. Its rigid, crystal clear build at 47\"x35\" works on carpet or hard floor, a useful hedge for an office that might reorganize desks or floor types over time.\n\nA 12-month warranty is shorter than some of the vinyl picks in this guide, which is worth factoring into a total cost of ownership comparison, a mat replaced sooner but built more durably can still cost less over several years than a cheaper mat replaced every year or two.\n\nWorth calling out specifically: works on both carpet and hard floor. The catch is shorter 12-month warranty than several vinyl picks.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "1,200",
     imageUrl: "https://m.media-amazon.com/images/I/515FK8TTHjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B000I6PN5S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B000I6PN5S?tag=workcocoon-20",
     description:
       "The Floortex Ultimat is a 0.09\" polycarbonate mat at 47\"x35\" with a gripper back, rated for carpet up to 1/2\" (low/medium pile) and GREENGUARD certified, a certification some offices already require for indoor air quality compliance. Roughly twice the impact strength of standard PVC makes it a reasonable pick for heavier daily rolling.\n\nFor a shared or hot-desk commercial workspace where a mat sees more hours per day than a single home-office user would put on it, the added impact strength and certification are the kind of durability edge that pays off over a multi-year replacement cycle.\n\nRoughly twice the impact strength of standard PVC. Set against that, rated only up to 1/2\" pile, not for deeper carpet. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.0",
     reviews: "214",
     imageUrl: "https://m.media-amazon.com/images/I/51vofb1D8JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01L8P3YBM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01L8P3YBM?tag=workcocoon-20",
     description:
       "This lipped version of the Floortex Ultimat adds a 20\"x10\" lip to the same 0.09\" polycarbonate build, GREENGUARD certified and phthalate-free and PVC-free. It lies flat instantly out of the box, unlike rolled PVC mats that need time or weight to flatten out.\n\nA lifetime warranty backs the build, a strong total-cost-of-ownership argument for an office weighing this against cheaper mats that need replacing every year or two. Like the non-lipped version, it's rated for carpet up to 1/2\", not for deeper pile.\n\nA genuine advantage here is that gREENGUARD certified and PVC-free. The tradeoff is rated only up to 1/2\" pile.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "2,416",
     imageUrl: "https://m.media-amazon.com/images/I/51UDuDStG2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01N140E6C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N140E6C?tag=workcocoon-20",
     description:
       "The Marvelux is a 0.1\" polycarbonate mat at 36\"x48\" with a studded back, rated for carpet up to 1/2\" (medium pile) and shipped flat rather than rolled. It's sound-absorbent, a small but real benefit in a shared office where rolling noise adds up across multiple desks.\n\nIt's also rated compatible with underfloor heating and has no added odor or toxins, details that matter more in a commercial building where an office doesn't fully control the building's own systems.\n\nSound-absorbent, useful in a shared or open-plan office. On the other hand, lowest rating among the picks in this guide. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "4,591",
     imageUrl: "https://m.media-amazon.com/images/I/21yIdI78BnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1R227SY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F1R227SY?tag=workcocoon-20",
     description:
       "The Staples is the only pick in this guide with rounded AnchorBar cleats instead of sharp spikes, a real safety detail in a shared or hot-desk office where bare feet or careless steps near the mat's edge happen more often than in a single-user home office. It's clear vinyl at 0.25\" thick, 36\"x48\" with a 20\" lip, GREENGUARD certified, rated for flat pile carpet up to 1/8\".\n\nIts shallow pile rating limits it to genuinely flat commercial-style carpet, and at this price it's a reasonable low-cost option for an office prioritizing safety and certification over deeper carpet compatibility or heavy-duty daily hours.\n\nGREENGUARD certified. That's a real strength, but weigh it against the flip side: rated only for flat pile up to 1/8\", the shallowest in this guide.",
     specs: [

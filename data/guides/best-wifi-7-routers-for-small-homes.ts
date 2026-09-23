@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,401 Amazon ratings",
     reviews: "1,401 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DC99N2T8?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick here, this budget-tier router genuinely matches a small home's modest device count without overpaying for flagship capacity a small home won't use.\n\nFor a single-floor small home, 6GHz's shorter range matters less, this dual-band design avoids paying for range headroom that layout doesn't need in the first place.\n\nThe standout detail is that genuinely matched to small-home device counts and budget. Balancing that out, no 6GHz radio, though this matters less for single-floor homes.",
     specs: ["Dual-band, matched to modest small-home device counts", "2×2.5G + 3×1G ports", "Quad-core CPU", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 124 Amazon ratings",
     reviews: "124 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41+YB6u0MUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DR8TJSSY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DR8TJSSY?tag=workcocoon-20",
     description:
       "A genuine mid-tier step up from budget BE3600, appropriate for a small home wanting slightly more headroom without jumping to flagship BE9300+ capacity this audience doesn't need.\n\nBuilt-in VPN client and server functionality is a genuine bonus for a privacy-conscious small-home buyer, at a price still well matched to modest small-home priorities.\n\nVPN client and server functionality included. That's a real strength, but weigh it against the flip side: smaller review base than the budget top pick.",
     specs: ["Dual-band mid-tier", "VPN client and server support", "Broadcom quad-core CPU", "Reasonable mid-tier price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,325 Amazon ratings",
     reviews: "1,325 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DVBP5L6Y?tag=workcocoon-20",
     description:
       "A large review base with dual 2.5Gbps ports, genuinely useful headroom if your small home has a fast internet plan or a wired NAS, without flagship-tier overspending.\n\nRated for 2,400 sq ft, real headroom beyond most small-home square footage, appropriate future-proofing without needing BE9300+ capacity.\n\nDual 2.5Gbps ports for fast internet plans or NAS use. On the other hand, no 6GHz radio at this tier. Both are worth keeping in mind before deciding.",
     specs: ["Dual-band, dual 2.5Gbps ports", "Rated for 2,400 sq ft, 90 devices", "Quad-core CPU", "Large review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,373 Amazon ratings",
     reviews: "1,373 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21--ly92xtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DW27FNG3?tag=workcocoon-20",
     description:
       "A large, well-established review base from an established networking brand, rated for 2,000 sq ft, genuinely matched to typical small-home square footage.\n\nThis pick shares significant needs overlap with our apartment-focused research, since small homes and apartments face similar single-router-sufficiency considerations.\n\nA genuine advantage here is that genuinely matched coverage for typical small-home square footage. The tradeoff is that higher price than the pure budget-tier pick.",
     specs: ["Dual-band, rated for 2,000 sq ft, 50 devices", "Established Nighthawk brand", "2.5 Gig internet port", "Large review base"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 671 Amazon ratings",
     reviews: "671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41EClf31jxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQP4DNNJ?tag=workcocoon-20",
     description:
       "For a small home with an unusual layout, multiple floors, or dead zones a single router can't reach, this 3-pack mesh system provides genuine multi-node coverage.\n\nMost small homes don't need this level of coverage, but for a home with real dead-zone problems, this avoids the future-proofing-versus-present-need overspend of jumping straight to a flagship single router instead.\n\nWired backhaul option if homeowner can run Ethernet. That said, overkill for a genuinely single-floor small home. Neither should be a surprise once you know to look for it.",
     specs: ["Dual-band mesh, 3-pack, up to 6,500 sq ft", "Wired 2.5G backhaul supported", "4-stream, 160MHz channel width", "Solid review base"],

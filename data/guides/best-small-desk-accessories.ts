@@ -40,7 +40,7 @@ export const accessories: DeskAccessory[] = [
     price: "$35–$45",
     footprint: "22 x 9 inches",
     bestFor: "Overall use on any small desk",
-    amazonUrl: "https://www.amazon.com/s?k=bamboo+monitor+riser+drawer&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=bamboo+monitor+riser+drawer&tag=workcocoon-20",
     description:
       "If you only buy one small desk accessory, make it a monitor riser with built-in storage. This bamboo model adds 4.5 inches of monitor height while reclaiming the dead space underneath for keyboards, notebooks, and small office supplies. The drawer holds pens, sticky notes, and cables you would otherwise scatter across the desk.",
     whyItWorks: [
@@ -64,7 +64,7 @@ export const accessories: DeskAccessory[] = [
     footprint: "4 x 6 inches",
     bestFor: "Budget setups, first desk accessories purchase",
     amazonUrl:
-      "https://www.amazon.com/s?k=mesh+desk+organizer+compact&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=mesh+desk+organizer+compact&tag=workcocoon-20",
     description:
       "The cheapest accessory on this list and one of the most effective. A simple 6-slot mesh organizer keeps pens, scissors, sticky notes, and phone cables in one place. At roughly 4 x 6 inches, it fits in the corner of even the smallest desk without crowding the working surface.",
     whyItWorks: [
@@ -87,7 +87,7 @@ export const accessories: DeskAccessory[] = [
     footprint: "0 (mounted under desk surface)",
     bestFor: "Storage maximalists, desks where the surface is already maxed out",
     amazonUrl:
-      "https://www.amazon.com/s?k=under+desk+drawer+organizer&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=under+desk+drawer+organizer&tag=workcocoon-20",
     description:
       "This adhesive-mounted drawer hangs underneath your desk surface, adding storage without consuming any desktop real estate. Holds pens, notepads, charging cables, and small electronics. Perfect for small desk setups where the top surface is already at capacity.",
     whyItWorks: [
@@ -112,7 +112,7 @@ export const accessories: DeskAccessory[] = [
     price: "$25–$32",
     footprint: "0 (mounted under desk surface)",
     bestFor: "Anyone with a visible cable nest on or around their desk",
-    amazonUrl: "https://www.amazon.com/s?k=under+desk+cable+tray&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=under+desk+cable+tray&tag=workcocoon-20",
     description:
       "The single best upgrade for a small desk is hiding power strips and cable nests underneath the surface. This metal tray clamps to most desk edges and holds a standard power strip plus 6 to 8 cable bundles. Once installed, the desktop stops looking like a server room.",
     whyItWorks: [
@@ -134,7 +134,7 @@ export const accessories: DeskAccessory[] = [
     price: "$8–$14",
     footprint: "0 (mounts on desk edges)",
     bestFor: "Charging cables that fall off the desk repeatedly",
-    amazonUrl: "https://www.amazon.com/s?k=magnetic+cable+clips&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=magnetic+cable+clips&tag=workcocoon-20",
     description:
       "A simple problem-solver: phone chargers, USB cables, and headphone cords fall off the desk every time you move them. Adhesive cable clips solve this for at a budget-friendly price. Stick them to the side of your desk and cables stay in reach without sprawling across the surface.",
     whyItWorks: [
@@ -157,7 +157,7 @@ export const accessories: DeskAccessory[] = [
     footprint: "12 x 5 inches",
     bestFor: "Glass desks or rentals where under-desk mounting is not possible",
     amazonUrl:
-      "https://www.amazon.com/s?k=cable+management+box+small&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=cable+management+box+small&tag=workcocoon-20",
     description:
       "For setups where under-desk mounting is not possible (glass desks, rental restrictions), a desktop cable box hides power strips and cable nests inside a clean enclosure. The compact 12-inch version fits behind monitors on most small desks without intruding on the working area.",
     whyItWorks: [
@@ -183,7 +183,7 @@ export const accessories: DeskAccessory[] = [
     footprint: "8 x 9 inches (mouse rest)",
     bestFor: "Long typing and mouse sessions, 3 or more hours per day",
     amazonUrl:
-      "https://www.amazon.com/s?k=memory+foam+wrist+rest+set&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=memory+foam+wrist+rest+set&tag=workcocoon-20",
     description:
       "Wrist strain builds up over time without obvious warning signs. This set includes one keyboard wrist rest and one mouse pad with built-in wrist support - both made from memory foam with non-slip backing. The compact mouse pad version at 8 x 9 inches fits small desks where full gaming-size pads do not.",
     whyItWorks: [
@@ -206,7 +206,7 @@ export const accessories: DeskAccessory[] = [
     price: "$20–$28",
     footprint: "24 x 12 inches",
     bestFor: "Aesthetic-focused setups, desks with visible surface damage",
-    amazonUrl: "https://www.amazon.com/s?k=felt+cork+desk+mat&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=felt+cork+desk+mat&tag=workcocoon-20",
     description:
       "A desk mat does two things at once: it protects the desk surface and visually unifies the setup. The 24 x 12 inch size fits small desks perfectly, large enough for keyboard and mouse but small enough not to overwhelm a 36-inch desk. The combination of felt and cork materials stands out from standard rubber-backed gaming mats.",
     whyItWorks: [
@@ -229,7 +229,7 @@ export const accessories: DeskAccessory[] = [
     footprint: "0 (stows under desk when not in use)",
     bestFor: "Users whose chair height leaves feet unsupported at current desk height",
     amazonUrl:
-      "https://www.amazon.com/s?k=adjustable+footrest+small&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=adjustable+footrest+small&tag=workcocoon-20",
     description:
       "If your chair is too tall or your desk is too high for your seated position, a footrest corrects the angle without expensive furniture replacement. This adjustable model rocks slightly for active sitting and stows compactly under most desks when not in use.",
     whyItWorks: [
@@ -255,7 +255,7 @@ export const accessories: DeskAccessory[] = [
     footprint: "3 x 4 inches",
     bestFor: "Over-ear headphone users, gaming setups",
     amazonUrl:
-      "https://www.amazon.com/s?k=headphone+stand+usb+hub&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=headphone+stand+usb+hub&tag=workcocoon-20",
     description:
       "If you have over-ear headphones, they are either taking up desk space or hanging off your monitor awkwardly. A combined headphone stand and USB hub solves two problems with one footprint - ideal for small gaming desks where every inch matters.",
     whyItWorks: [
@@ -278,7 +278,7 @@ export const accessories: DeskAccessory[] = [
     footprint: "0 (mounts on monitor bezel)",
     bestFor: "Users who need phone visible during work without it on the desk",
     amazonUrl:
-      "https://www.amazon.com/s?k=magnetic+phone+monitor+mount&tag=deskfinds0d-20",
+      "https://www.amazon.com/s?k=magnetic+phone+monitor+mount&tag=workcocoon-20",
     description:
       "Your phone does not need a permanent spot on a small desk, but you do need to see it. A magnetic mount clips to the side of your monitor, keeping the phone visible at eye level without using any desktop space at all.",
     whyItWorks: [
@@ -300,7 +300,7 @@ export const accessories: DeskAccessory[] = [
     price: "$18–$28",
     footprint: "3 x 3 inches",
     bestFor: "Focus work, study sessions, avoiding phone distraction",
-    amazonUrl: "https://www.amazon.com/s?k=flip+pomodoro+timer&tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/s?k=flip+pomodoro+timer&tag=workcocoon-20",
     description:
       "Phones make terrible timers because they are a distraction waiting to happen. A dedicated flip-style Pomodoro timer keeps focus sessions visible without opening another app or unlocking a screen. Most models are roughly the size of a deck of cards, fitting even the most space-starved setup.",
     whyItWorks: [

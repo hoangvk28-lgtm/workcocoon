@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, genuine evidence this design holds up for combined bedroom-office use. True HEPA H13 filtration quoted at 24dB.\n\nA combined bedroom-office space runs near-continuous occupancy, calculate filter replacement against this heavier real-world usage rather than assuming daytime-only or nighttime-only schedules.\n\nThe standout detail is that true HEPA H13 filtration. Balancing that out, no night mode confirmed for sleep-specific dimming.",
     specs: ["True HEPA H13 filter", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Smart app control genuinely useful for scheduling different modes between nighttime sleep and daytime work in the same combined space. Large rated coverage.\n\nIf this offers a night mode, understand it's a sleep benefit that could be counterproductive if left engaged during daytime home-office use, reducing effective CADR when you need it most.\n\nLarge rated coverage for a combined-use space. That's a real strength, but weigh it against the flip side: higher price than compact alternatives.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Higher capacity for combined-use rooms"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 44,671 Amazon ratings",
     reviews: "44,671 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31e6d46ZnyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09LMF648R?tag=workcocoon-20",
     description:
       "A large review base for a quiet-focused design, genuinely relevant for both nighttime sleep-compatible noise and daytime call-compatible noise in a combined space. Affordable.\n\nThese are genuinely different noise-tolerance contexts, verify this design's noise level at the speed needed for real air changes works for both your sleep and your calls.\n\nQuiet-focused design relevant to both sleep and calls. On the other hand, no confirmed separate day/night mode. Both are worth keeping in mind before deciding.",
     specs: ["Small, quiet-focused design", "Large review base", "Affordable", "Compact footprint"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, appropriate for a smaller combined bedroom-office space common in studios and small apartments.\n\nCalculate filter loading against near-24/7 combined-space occupancy rather than assuming a lighter single-purpose schedule.\n\nA genuine advantage here is that solid review base. The tradeoff is that verify certified True HEPA vs. HEPA-type claim.",
     specs: ["HEPA filtration", "Solid review base", "Budget-friendly", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 105,576 Amazon ratings",
     reviews: "105,576 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41ezUHfn5wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08FJ678YK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08FJ678YK?tag=workcocoon-20",
     description:
       "A very large review base with smart and voice control, genuinely convenient for adjusting fan speed hands-free whether you're settling in for sleep or on a work call in the same space. Affordable.\n\nVoice control convenience doesn't change the underlying noise-context math, verify the actual dB level at your typical operating speed suits both use cases.\n\nSmart and voice control for hands-free adjustment day or night. That said, smaller rated coverage than premium picks. Neither should be a surprise once you know to look for it.",
     specs: ["Smart and voice control", "Large review base", "Affordable", "Compact design"],

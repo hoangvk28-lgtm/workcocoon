@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "Backs its ergonomic claim with a genuinely steep, disclosed tilt angle and a thumb rest shaped to reduce reach for side buttons, which is more measurable than a generic 'ergonomic' label with no design specifics.\n\nThe higher price is at least partly justified by build materials and dual connectivity, though buyers should still weigh whether the price premium over simpler picks matches their actual needs.\n\nDual connectivity for multiple devices. Set against that, premium price versus generic vertical mice. Both matter when comparing it to the other picks here.",
     specs: ["Steep, disclosed tilt angle", "Shaped thumb rest for side buttons", "Dual 2.4GHz and Bluetooth", "Rechargeable battery"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A gentler, still disclosed tilt angle paired with a more compact body, which is a genuine ergonomic differentiator for buyers whose hands are smaller than the average this category is usually designed around.\n\nThe brand offers this alongside a steeper full-size model, giving buyers an actual choice of angle rather than one fixed design labeled ergonomic for everyone.\n\nThe standout detail is that gentler angle may shorten the adjustment period. Balancing that out, less pronounced angle means a smaller ergonomic benefit for severe cases.",
     specs: ["Gentler, disclosed tilt angle", "Compact body option", "Dual 2.4GHz and Bluetooth", "Rechargeable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "Carries the ergonomic label at a fraction of the price of the premium picks in this guide, and its large, consistent review base suggests the mid-range tilt angle and rechargeable design genuinely deliver comfort for a broad range of buyers.\n\nIt lacks the disclosed precision specs of the premium picks, so treat it as a solid general ergonomic option rather than one engineered around a specific measurable angle.\n\nRechargeable, avoiding AA bulk. That's a real strength, but weigh it against the flip side: less precisely disclosed design specs than premium picks.",
     specs: ["Mid-range tilt angle", "Rechargeable built-in battery", "2.4GHz wireless receiver", "Budget price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "The largest review base in this guide, which is a genuinely useful signal that its moderate tilt angle works comfortably for a wide range of buyers even at a low price.\n\nIt does not offer the size options or precision-shaped thumb rest of premium picks, so treat this as a starting point to confirm you like the vertical grip before spending more on a more feature-rich ergonomic design.\n\nLow price for testing the ergonomic grip. On the other hand, right-hand only. Both are worth keeping in mind before deciding.",
     specs: ["Moderate tilt angle", "Right-hand specific design", "2.4GHz wireless receiver", "AA battery powered"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "2,295 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31o5C5jFQAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=workcocoon-20",
     description:
       "One of the longest-running ergonomic designs in the category, with a fixed, well-documented tilt angle that has years of buyer feedback behind it rather than a newer, unproven claim.\n\nGoing wired eliminates battery weight entirely, a genuine ergonomic upside some buyers find meaningfully changes the feel of an already unusual grip angle, though it means giving up wireless freedom.\n\nA genuine advantage here is that no battery weight, a genuine ergonomic upside. The tradeoff is that premium price for a wired-only mouse.",
     specs: ["Fixed, well-documented tilt angle", "Wired USB connection", "No battery, lighter body", "Premium price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A genuinely compact ergonomic body at a budget-to-mid price, with a rechargeable battery that avoids the weight and bulk of AA cells found in some entry-level ergonomic picks.\n\nIt lacks the precisely disclosed angle specs of the premium picks in this guide, so treat it as a solid general ergonomic option rather than one engineered around a specific measurable tilt.\n\nCompact body suits average to smaller hands. That said, less precisely disclosed angle specs than premium picks. Neither should be a surprise once you know to look for it.",
     specs: ["Compact ergonomic body", "Rechargeable built-in battery", "2.4GHz wireless dongle", "Budget-to-mid price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "9,039 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41h3oxMYtPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00FPAVUHC?tag=workcocoon-20",
     description:
       "A large review base backing its ergonomic design at a mid-range price, with no battery weight since it's wired, which some buyers find genuinely improves the feel of the grip angle.\n\nIt lacks the size options or dual connectivity of the premium picks, so treat this as a straightforward ergonomic mouse rather than one built around configurability.\n\nWorth calling out specifically: no battery weight. The catch is no wireless option.",
     specs: ["Wired USB connection", "Ergonomic vertical design", "No battery, lighter body", "Mid-range price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "The lowest price in this guide for an ergonomic mouse, with an adjustable DPI sensor and a strong review rating despite the budget positioning, no battery weight since it's wired.\n\nIt lacks the disclosed precision angle specs of the premium picks, so treat it as a solid entry-level ergonomic option rather than one engineered around a specific measurable tilt.\n\nAdjustable DPI sensor. Set against that, less precisely disclosed angle specs than premium picks. Both matter when comparing it to the other picks here.",
     specs: ["Wired USB connection", "6400 DPI adjustable sensor", "Ergonomic vertical design", "Budget price point"],

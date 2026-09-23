@@ -41,7 +41,7 @@ export const products: ChargingProduct[] = [
     priceRange: "~$80--100",
     ports: "4x USB-C + 2x USB-A",
     imageUrl: `${BASE}/01-anker-prime-200w-6-port-gan.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CT2NQ7WG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT2NQ7WG?tag=workcocoon-20",
     whyItWins: "The Anker Prime 200W is the most versatile desk charging station you can buy right now. Four USB-C ports and two USB-A ports handle virtually any mix of devices, and the 200W total output is enough to charge a MacBook Pro and five other devices at the same time -- all from a single station that's compact enough to sit between your keyboard and monitor.",
     bodyParagraphs: [
       "The real headline is the port intelligence: the primary USB-C port delivers up to 100W on its own, dropping to a sensible 65W/35W split when a second device is plugged in. That means your laptop always gets meaningful power, not just trickle charge.",
@@ -77,7 +77,7 @@ export const products: ChargingProduct[] = [
     priceRange: "~$60--80",
     ports: "4x USB-C + 2x USB-A",
     imageUrl: `${BASE}/02-ugreen-nexode-200w-6-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09MGRNYHH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09MGRNYHH?tag=workcocoon-20",
     whyItWins: "If you live in a USB-C world -- MacBook, iPad Pro, Android phone, wireless earbuds -- the UGREEN Nexode 200W is purpose-built for you. The standout spec is the primary USB-C port: 140W via PD 3.1, which is the first USB-C standard capable of charging a 16-inch MacBook Pro at full speed. Every other competitor in this price range tops out at 100W.",
     bodyParagraphs: [
       "Four USB-C ports and two USB-A ports share that 200W total pool intelligently. Plug in your MacBook and two phones, and it distributes 100W to the laptop and 50W between the phones. Plug in only the laptop, and it gets the full 140W.",
@@ -113,7 +113,7 @@ export const products: ChargingProduct[] = [
     priceRange: "~$35--100",
     ports: "MagSafe + Watch + AirPods",
     imageUrl: `${BASE}/03-anker-magsafe-3-in-1-qi2-15w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CF56WHV4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CF56WHV4?tag=workcocoon-20",
     whyItWins: "For an Apple setup -- iPhone, Apple Watch, AirPods -- the Anker MagSafe 3-in-1 Qi2 is the cleanest answer. One unit, no cables between your devices, no fumbling to find the charging sweet spot. Your iPhone snaps onto the MagSafe pad at 15W, your Watch charges on a dedicated puck, and your AirPods case drops onto the Qi pad. Done.",
     bodyParagraphs: [
       "The Qi2 certification matters here: it delivers the full 15W wireless speed that used to require Apple's own MagSafe charger, but on an open standard. If you upgrade to any future Qi2-compatible phone, this charger works at full speed.",
@@ -151,7 +151,7 @@ export const products: ChargingProduct[] = [
     priceRange: "~$69",
     ports: "2x USB-C + 1x USB-A + MagSafe + retractable",
     imageUrl: `${BASE}/04-baseus-nomos-5-in-1-140w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DHV7LR12?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DHV7LR12?tag=workcocoon-20",
     whyItWins: "The Baseus Nomos 5-in-1 is the most thoughtfully designed charging hub we tested for desks with a mix of wired and wireless needs. At $69, it charges up to five devices simultaneously: a built-in MagSafe pad at 15W Qi2, a retractable USB-C cable (100W, no more searching for a cable), two fixed USB-C ports, and a USB-A port. The built-in LCD display shows real-time wattage per device -- a feature that used to cost $150+ for.",
     bodyParagraphs: [
       "The retractable cable is the killer feature for desk use. Rather than having a loose cable draped across your desk surface, it snaps back into the unit cleanly when not in use. Small thing, big difference in how your desk looks and feels.",
@@ -188,7 +188,7 @@ export const products: ChargingProduct[] = [
     priceRange: "~$40--55",
     ports: "2x USB-C + 2x USB-A + 2x AC",
     imageUrl: `${BASE}/05-anker-nano-6-in-1-67w.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C5QY4BL2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5QY4BL2?tag=workcocoon-20",
     whyItWins: "The Anker Nano is the pick for anyone with a small desk who still needs to charge five or six devices. It measures just 3.9 x 3.7 x 0.7 inches -- smaller than most phones -- but delivers 67W across two USB-C and two USB-A ports plus two AC outlets. The 2,100-joule surge protector is an unexpected bonus at this size and price.",
     bodyParagraphs: [
       "The two AC outlets make it versatile beyond just device charging: plug in a desk lamp, a USB hub, or any standard adapter alongside your devices. For a small home office desk or a shared workspace, that flexibility is genuinely useful.",
@@ -225,7 +225,7 @@ export const products: ChargingProduct[] = [
     priceRange: "~$35--45",
     ports: "8x USB",
     imageUrl: `${BASE}/06-bestek-organizer-10-port.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B078RHZX95?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B078RHZX95?tag=workcocoon-20",
     whyItWins: "If you want your charger to also organize your desk, the BESTEK 8-Port combines both functions without doubling the footprint. The 4 x 4-inch base holds eight USB ports for charging, while adjustable dividers on top slot phones, tablets, or small accessories upright. Built-in LED indicators show charge status at a glance.",
     bodyParagraphs: [
       "Eight USB ports is the widest port count in this roundup, making it the right pick for shared desks, family charging hubs, or anyone managing a lot of accessories. The adjustable dividers mean it works whether you're slotting in a large iPad or a small phone.",
@@ -263,7 +263,7 @@ export const products: ChargingProduct[] = [
     priceRange: "Under $30",
     ports: "4x USB-A + 1x USB-C",
     imageUrl: `${BASE}/07-anker-5-port-usb-charging-hub.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=workcocoon-20",
     whyItWins: "Under $30 and still capable of charging five devices simultaneously -- the Anker 5-Port USB Charging Hub earns its budget pick status without embarrassing itself on specs. The vertical orientation is the smart design choice here: rather than laying flat and consuming desk real estate, it stands upright, using height instead of width. On a small desk, that's meaningful.",
     bodyParagraphs: [
       "Four USB-A ports at 2.4A each handle phones, earbuds, Kindles, and any USB-A accessory reliably. The USB-C port adds fast charging for modern devices without bumping the price past budget territory.",

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "19,027",
     imageUrl: "https://m.media-amazon.com/images/I/41QNB+nv3uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CMTMWC6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CMTMWC6?tag=workcocoon-20",
     description:
       "The VASAGLE BARNET is the most-reviewed pick in this entire list by a huge margin, with nearly 19,000 ratings backing a 4.7-star average. An alloy steel frame paired with particleboard shelves gives it a 235 lb total weight capacity, the highest of any pick here, and an X-shaped support bar adds rigidity that keeps the ladder shape from wobbling under load.\n\nBetween the rustic brown shelving and ink black frame, it fits a wide range of decor styles, and an anti-tip kit plus adjustable feet round out a genuinely well-built budget pick.\n\nMost-reviewed pick with nearly 19,000 ratings. On the other hand, ladder shape uses more floor space at the base than a straight bookcase. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "4,299",
     imageUrl: "https://m.media-amazon.com/images/I/41p8nGWmCmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08DR542S9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DR542S9?tag=workcocoon-20",
     description:
       "The NUMENN adds a wooden baffle panel behind each shelf, a detail most competitors skip, which stops books and smaller items from sliding out the back of the unit rather than just the front. Engineered wood shelves sit on a metal frame rated for 150 lbs total, and the whole thing assembles in just 8 steps, noticeably fewer than most comparable bookshelves.\n\nA premium anti-rust coating on the metal frame and an included anti-tilt tool round out a build that punches above its price point, backed by a strong 4.7-star average across over 4,000 ratings.\n\nAssembles in only 8 steps. That's a real strength, but weigh it against the flip side: lower total capacity (150 lbs) than the VASAGLE BARNET.",
     specs: [
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,324",
     imageUrl: "https://m.media-amazon.com/images/I/41lGE4uN00L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPM7T7D8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPM7T7D8?tag=workcocoon-20",
     description:
       "At just 15.3 inches wide, the Furologee is the most compact pick in this list, built from P2 MDF with a metal frame that includes both X-bars and 4 side poles to guard against items falling off any edge, not just the front or back. It's rated for 30 lbs per shelf, 150 lbs total, and includes 4 adjustable feet along with an anti-tip kit. The matte rustic industrial finish and low price make it an easy pick for tight corners, hallways, or apartments where floor space is at a premium. Worth calling out specifically: x-bars plus 4 side poles guard all sides. The catch is shortest pick in this list at 48\" tall.",
     specs: [
@@ -147,7 +147,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "373",
     imageUrl: "https://m.media-amazon.com/images/I/41whI381uZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C5DH86H5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5DH86H5?tag=workcocoon-20",
     description:
       "The HOOBRO stands out visually with an arched top design that also happens to add real structural stability, tying the two side frames together at the top the way a straight crossbar would. Curved panels throughout continue the retro vintage look, and 13 inches of spacing between tiers accommodates taller items like binders or decorative pieces that wouldn't fit on tighter shelving.\n\nAssembly uses a genuinely tool-free hand-twist system, a step up from the usual screwdriver-and-Allen-key process, and an anti-tip kit is included for wall anchoring.\n\nGenuinely tool-free hand-twist assembly. Set against that, more expensive than several straight-shelf alternatives. Both matter when comparing it to the other picks here.",
     specs: [
@@ -180,7 +180,7 @@ export const products: GuideProduct[] = [
     rating: "4.7",
     reviews: "1,816",
     imageUrl: "https://m.media-amazon.com/images/I/510fPP+lFkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXDP61M2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXDP61M2?tag=workcocoon-20",
     description:
       "The Shintenchi is built from FSC-certified wood, meeting sustainable-sourcing standards, and carries the highest per-shelf capacity among straight bookshelves in this list at 40 lbs per shelf, 200 lbs total. An X-shaped back rod runs across the rear of the frame, which the brand says eliminates wobble entirely rather than just reducing it. The waterproof, anti-scratch surface and anti-rust coated metal frame make it a durable pick at just at a premium price, and the rustic brown finish matches several other picks in this list if you're buying multiple units for a matched look. A genuine advantage here is that fSC-certified sustainable wood. The tradeoff is no drawers or enclosed storage.",
     specs: [
@@ -212,7 +212,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "1,581",
     imageUrl: "https://m.media-amazon.com/images/I/41YThBuGdBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQP34Q9D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQP34Q9D?tag=workcocoon-20",
     description:
       "The DUMOS is the cheapest full-size 5-tier bookshelf in this list, combining a metal frame with particle board shelving and the same waterproof, anti-scratch coating found on pricier picks. An anti-tipping tool and anti-rust metal frame come standard, and the brand includes an assembly video, which speeds up setup compared to written instructions alone. At 30 lbs per shelf, it handles a typical mixed book and decor collection without issue, and the rustic brown finish keeps it visually consistent with several other picks here. Assembly video speeds up setup. On the other hand, lower rating than most other picks in this list at 4.5 stars. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -245,7 +245,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "804",
     imageUrl: "https://m.media-amazon.com/images/I/51DwhuknToL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQCB1MTT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQCB1MTT?tag=workcocoon-20",
     description:
       "The 4NM is the only pick in this list that requires zero assembly, unfolding into a full 5-tier bookshelf in about 30 seconds straight out of the box. When you no longer need it, or you're moving, it folds back down to just 2 inches thick for flat storage or transport, a genuinely unique feature among the picks in this guide. P2 MDF panels over a metal frame are finished with scratch- and stain-resistant coating, and adjustable foot pads keep it level on uneven flooring. The premium price reflects the folding mechanism, but for renters who move frequently, it may be worth it. Unfolds in 30 seconds. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
     specs: [
@@ -278,7 +278,7 @@ export const products: GuideProduct[] = [
     rating: "4.6",
     reviews: "2,608",
     imageUrl: "https://m.media-amazon.com/images/I/41b+6PB4L4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B099W25JT6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B099W25JT6?tag=workcocoon-20",
     description:
       "This Furologee is the only pick in this list built with drawers rather than fully open shelving, adding 2 removable fabric drawers at the base for items you'd rather keep out of sight. It carries the highest per-shelf capacity among 5-tier bookshelves with drawers in this guide at 55 lbs per shelf, and an adjustable middle tier lets you customize spacing for taller items.\n\nA backboard runs behind the shelving for added stability, and an anti-tip kit is included. For anyone who wants the 5-tier format but also wants a couple of enclosed drawers, this is the pick that delivers both.\n\nWorth calling out specifically: 2 removable fabric drawers for hidden storage. The catch is pricier than several open-shelf-only picks in this list.",
     specs: [

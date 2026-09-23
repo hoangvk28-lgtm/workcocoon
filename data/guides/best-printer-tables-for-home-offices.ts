@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41vlbbgz9NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CBV7YJ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CBV7YJ8?tag=workcocoon-20",
     description:
       "The HUANUO is built specifically as a printer table rather than a repurposed general cart, with a dedicated cable management channel on the back panel so a power cord and USB cable can route without forcing the whole unit away from the wall. A 14.1-inch maximum height keeps the output tray in a comfortable reach zone for most desk chairs and standing users alike.\n\nLocking wheels let you position it under a desk or roll it out for full access, and a storage drawer underneath holds a spare ink cartridge or a small ream of paper. It is sized for compact to mid-size printers rather than large business AIOs, so measure your printer's footprint before ordering.\n\nLocking wheels for stability once positioned. Set against that, tabletop is not sized for large business all-in-ones. Both matter when comparing it to the other picks here.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/414d9YEDZYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CGHMP9BH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CGHMP9BH?tag=workcocoon-20",
     description:
       "At 22 by 15 inches, this is the largest tabletop in this list, sized to fit a business-class all-in-one closer to 17.5 by 15.4 inches with margin to spare rather than the smaller compact-inkjet footprint many stands are built around. That extra surface area is the single biggest differentiator for buyers whose printer is bigger than a basic home inkjet.\n\nA 2-tier rolling design adds a lower shelf for paper reams or a scanner, and a built-in drawer keeps loose ink cartridges and cables out of sight. The larger tabletop does mean a larger overall footprint, so measure your available floor space before committing.\n\nA genuine advantage here is that 2-tier design adds a full lower shelf. The tradeoff is larger footprint needs more floor space.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41IHibC0OTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CCV5YC4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCV5YC4L?tag=workcocoon-20",
     description:
       "The HOOBRO pairs a standard 2-tier printer table layout with a built-in charging station shelf, a genuinely useful addition if you keep a phone or tablet near your printer during scan and print jobs. The rustic brown and black finish reads more like real furniture than a utility cart. Its under-desk profile is sized for compact printers, and the open lower shelf handles paper reams or accessory storage. It is one of the more affordable purpose-built printer tables in this list, though the open-shelf design means less dust protection than a drawer unit. Attractive furniture-style finish, not utility-cart look. On the other hand, open shelves collect more dust than a drawer. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Aix6uWuJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBZ98D94?tag=workcocoon-20",
     description:
       "This is a mobile 2-drawer file cabinet first, with a 24-inch extended desktop on top that doubles as a printer table surface. It is an honest hybrid rather than a marketed printer table, and it works well for buyers who want document storage and a printer platform in one rolling unit rather than two separate pieces of furniture.\n\nThe extended desktop is wide enough for most compact to mid-size printers, and the two drawers below hold letter or A4-size files directly under the printer. A side bag adds extra loose storage. Because it is fundamentally a file cabinet, expect a narrower depth than a dedicated printer table.\n\nExtended desktop fits most compact and mid-size printers. That's a real strength, but weigh it against the flip side: narrower desktop depth than furniture built as a printer table.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/51vzgnkbcjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=workcocoon-20",
     description:
       "The DEVAISE is a 3-drawer lateral file cabinet with a flat top surface, again a file cabinet by function rather than a purpose-built printer table, but its wide lateral footprint gives it one of the most stable flat tops in this list. Three full drawers mean it holds significantly more paper and supplies than any of the 1 or 2 drawer picks.\n\nIts rustic brown finish and rolling casters let it double as a printer platform next to a desk while quietly handling the bulk of your paper filing. Buyers specifically wanting a table-shaped piece of furniture rather than a cabinet with a flat lid should look at the HUANUO or YAOHUOO instead.\n\nWorth calling out specifically: wide, stable top surface for a printer. The catch is most expensive pick in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31xyJKdJz-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQJ5WL24?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BQJ5WL24?tag=workcocoon-20",
     description:
       "VASAGLE markets this compact 2-drawer rolling file cabinet specifically as a printer stand, and its 15.7 by 16.5 inch footprint is small enough to tuck into a corner or slide next to a desk without dominating the room. The matte black finish matches modern home office setups better than a plain metal cart.\n\nIts two drawers fit A4 and letter-size documents directly, and the flat top comfortably holds a compact to mid-size printer. At 27.6 inches tall, the output tray sits near the upper end of the comfortable reach range, which is worth checking against your own chair height before buying.\n\nMarketed and sized specifically for printer use. Set against that, 27.6-inch height runs taller than some desks. Both matter when comparing it to the other picks here.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41RwvBmm-PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FKMZ1M3W?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FKMZ1M3W?tag=workcocoon-20",
     description:
       "The DUMOS combines a wood-finish 3-drawer file cabinet with a flat top rated for printer use, giving it a warmer look than the metal-frame picks in this list. Its under-desk sizing means it can slide fully out of the way when the drawers are not in use.\n\nThree drawers provide solid document capacity, and the wood exterior resists the visible scuffing that metal utility carts show over time. As with the other file-cabinet-style picks, the tabletop is narrower than a piece of furniture built from the ground up as a printer table, so confirm your printer's footprint fits before buying.\n\nA genuine advantage here is that 3 drawers for solid document capacity. The tradeoff is tabletop is narrower than dedicated printer table furniture.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31Nz-Myx-1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09YVJN8R7?tag=workcocoon-20",
     description:
       "The Letaya is a fully assembled 3-drawer metal filing cabinet with a locking mechanism, the only pick in this list offering real document security alongside printer table function. That combination matters if your home office handles sensitive paperwork like tax documents or client contracts.\n\nIt arrives fully assembled, skipping the 45 to 90 minute build time common on flat-pack printer stands, and its metal construction holds up to daily rolling and repositioning. Its flat top comfortably supports a compact to mid-size printer, though buyers wanting a wider tabletop for a large AIO should look at the YAOHUOO instead.\n\nShips fully assembled, no build time. On the other hand, most expensive pick in this list. Neither should be a surprise once you know to look for it.",
     specs: [

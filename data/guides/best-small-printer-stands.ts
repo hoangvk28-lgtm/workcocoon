@@ -35,7 +35,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "6,293 reviews",
     imageUrl: `${BASE}/huanuo-14in-narrow.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07CBV7YJ8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07CBV7YJ8?tag=workcocoon-20",
     description:
       "The 14.1-inch wide footprint is noticeably narrower than most printer stands on the market, making it a practical choice when the available gap beside a desk is genuinely tight. Two steel mesh tiers stack the printer on top while leaving the lower shelf open for paper reams, a small scanner, or a power strip. A pull-out storage drawer beneath the lower shelf provides a concealed spot for ink cartridges, USB cables, and small printer accessories that would otherwise clutter the desk surface. Cable management channels on the frame route printer power and data cables downward so they do not hang loosely or snag when the cart is repositioned.\n\nFour locking wheels allow the stand to be rolled out for paper loading or maintenance and then locked firmly in place so it does not drift when you press print. Home office workers, apartment dwellers, and anyone with a narrow alcove or tight corner next to a desk will find this cart sized appropriately for spaces where a wider stand simply will not fit.",
     specs: ["14.1 inch wide", "Cable management", "Locking casters", "Storage drawer"],
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "1,784 reviews",
     imageUrl: `${BASE}/vasagle-industrial-ebony.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B075SWRC34?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B075SWRC34?tag=workcocoon-20",
     description:
       "At 13.4 inches tall, this cart is built specifically to slide completely under a standard desk rather than sitting beside it, which is a fundamental difference from nearly every other printer stand on the market. Most desks sit 29 to 30 inches off the floor, and the VASAGLE's low profile fits within the open space beneath the desktop, keeping the printer entirely out of view and out of the way until needed. The 99-pound weight capacity per shelf is high enough to support heavy laser printers, which commonly weigh between 20 and 40 pounds but can reach heavier ranges in all-in-one models. Two tiers give you one surface for the printer and a second level below for paper reams or a small accessory tray.\n\nThis stand suits people who have underused space beneath their desk and want to free up the desktop surface entirely rather than dedicating a side area to printing equipment. The tradeoff is that there is no built-in drawer for accessories and no cable management, so cables will need to be routed separately.",
     specs: ["13.4 inch height", "99 lbs capacity", "Ebony black", "2 tiers"],
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "2,359 reviews",
     imageUrl: `${BASE}/hoobro-2-tier-rustic.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08BR5JJQF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08BR5JJQF?tag=workcocoon-20",
     description:
       "This two-tier rolling cart combines an industrial steel frame with rustic brown wood-look shelves, which allows it to blend into home offices furnished with warm wood desks, walnut credenzas, or natural wood shelving rather than looking like a utility cart dropped into a living space. Each shelf holds up to 88 pounds, which is sufficient for any standard inkjet or laser printer used in a home setting, and the lower shelf accommodates a full ream of paper or a second device such as a small shredder. Four rolling casters allow you to pull the stand out for paper loading or to move it between rooms and then push it back into position when done.\n\nThe open-shelf design provides good airflow around the printer base, which is beneficial for inkjet printers that warm up during use. People who have invested in a warm wood desk setup and want a printer stand that complements rather than clashes with that aesthetic will find this cart the most compatible option in its price range. There is no built-in power outlet or cable management, so outlet access needs to be planned separately.",
     specs: ["88 lbs per shelf", "Rustic brown", "2 tiers", "Rolling casters"],
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "976 reviews",
     imageUrl: `${BASE}/hoobro-3-tier-power.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0BVHYLM57?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BVHYLM57?tag=workcocoon-20",
     description:
       "This three-tier cart addresses a specific problem common in apartments and small home offices: the nearest wall outlet is not close enough to where the printer needs to sit. A built-in power outlet and two USB ports are integrated into the cart frame, so the printer, a charging cable, and a small lamp can all be powered from the cart itself rather than requiring extension cords run across the floor. Three open shelves create distinct zones for the printer on top, paper supplies on the middle shelf, and a scanner or office accessories on the bottom shelf, which helps users who need to store more than just a printer.\n\nSide hooks provide additional hanging points for lightweight accessories such as a headphone or cable organizer. The rustic brown finish matches the two-tier HOOBRO cart, making it a compatible pair for users who want a matching set. Each shelf supports up to 44 pounds, which covers most inkjet printers but should be checked against the weight of heavier laser models before purchasing.",
     specs: ["Power outlet", "USB ports", "3 tiers", "44 lbs per shelf"],
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "780 reviews",
     imageUrl: `${BASE}/tutotak-white-power.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D1K1462B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D1K1462B?tag=workcocoon-20",
     description:
       "White printer stands are uncommon in this product category, where most options default to black or rustic brown, so this TUTOTAK cart fills a specific gap for people working in light-colored or Scandinavian-style home offices where a black steel cart would stand out visually. The two-tier frame provides one surface for the printer and a lower shelf for paper, and the built-in power outlet with USB ports means the printer does not need its own dedicated wall socket. Locking wheels let you roll the cart to reload paper or clean underneath, then lock it securely while printing.\n\nThe white finish pairs naturally with white IKEA desks, light gray setups, and Scandinavian-influenced workspaces where color cohesion across furniture matters. This is the most affordable option in the roundup that combines a power outlet with a white finish, making it the practical pick for light-colored offices on a budget. Buyers should verify the outlet count and shelf weight limit on the current listing before purchasing, as specifications can vary between production batches.",
     specs: ["Power outlet", "USB ports", "White finish", "Locking wheels"],
@@ -170,7 +170,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "708 reviews",
     imageUrl: `${BASE}/hoobro-charging-station.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CCV5YC4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CCV5YC4L?tag=workcocoon-20",
     description:
       "This compact two-tier cart includes a built-in charging station with one power outlet and two USB ports integrated into the side frame, allowing a printer, a phone, and a small device to charge from the cart without requiring a separate power strip. The rustic brown wood-look shelves and black metal frame give it the same warm industrial aesthetic as the other HOOBRO models in this roundup, which suits home offices decorated with natural wood tones. The two-tier layout puts the printer at working height on the top shelf while the lower shelf holds paper or a small scanner.\n\nLocking wheels allow the cart to be moved for paper loading and then secured in place during printing operations. The weight capacity is 44 pounds per shelf, which covers most consumer inkjet printers but should be confirmed against heavier devices before buying. Buyers who specifically need more than one power outlet should note that only one outlet is included and plan accordingly.",
     specs: ["1 outlet", "2 USB ports", "Rustic brown", "2 tiers"],
@@ -197,7 +197,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "924 reviews",
     imageUrl: `${BASE}/yaohuoo-22x15-fabric.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CGHMP9BH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CGHMP9BH?tag=workcocoon-20",
     description:
       "Modern all-in-one inkjet printers commonly measure 18 to 22 inches wide due to their scanning bed, paper tray, and output tray, and this cart's 22-by-15-inch top surface is sized to support those wider devices safely without leaving the printer hanging over the edge. Every other stand in this roundup tops out at 15 to 18 inches wide, which is insufficient for the largest consumer all-in-one models. An 88-pound capacity per shelf means even heavier multi-function laser printers used in small offices are well within the supported range.\n\nA fabric-lined pull-out drawer on the lower section stores ink cartridges, cleaning supplies, or USB cables out of sight. Four casters with locks allow the cart to be repositioned for paper loading and then secured during printing. Users who own a wide all-in-one printer and have been struggling to find a stand that actually fits the footprint without overhanging will find this the most functionally appropriate option in the roundup, at the cost of a wider overall floor footprint.",
     specs: ["22x15 inch surface", "88 lbs per shelf", "Fabric drawer", "2 tiers"],
@@ -224,7 +224,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "228 reviews",
     imageUrl: `${BASE}/vyuol-3-tier-dual-rod.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DQ55HR7H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DQ55HR7H?tag=workcocoon-20",
     description:
       "The VYUOL uses a dual-rod frame construction, meaning two vertical support rods run along each side of the cart rather than the single rod used in most budget printer stands. This additional rod reduces the lateral flex and wobble that single-rod carts exhibit when a printer vibrates during a print job, which is a practical difference for users who have had lighter carts shift or tip slightly while printing. Three tiers give this stand the most storage levels of any option in the roundup at its price point, allowing the top shelf for the printer, the middle shelf for a scanner or router, and the lower shelf for paper supplies or a small shredder. A fabric pull-out drawer sits below the bottom shelf for storing ink cartridges, cables, and small accessories. The rustic brown and black finish matches the broader HOOBRO and similar industrial-style carts. at a budget-friendly price for a three-tier design with a stability-focused frame and a drawer, this is the most feature-complete budget option, though buyers who need power outlet access will need to use a separate power strip.",
     specs: ["Dual-rod frame", "3 tiers", "Fabric drawer", "Rustic brown"],

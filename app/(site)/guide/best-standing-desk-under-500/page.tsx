@@ -810,7 +810,7 @@ export default async function BestStandingDeskUnder500Page() {
             All Prime-eligible. Dual motor, L-shaped, and premium wood options compared.
           </p>
           <a
-            href="https://www.amazon.com/s?k=standing+desk+under+500&tag=deskfinds0d-20"
+            href="https://www.amazon.com/s?k=standing+desk+under+500&tag=workcocoon-20"
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white font-bold text-sm hover:bg-gray-50 transition-colors"

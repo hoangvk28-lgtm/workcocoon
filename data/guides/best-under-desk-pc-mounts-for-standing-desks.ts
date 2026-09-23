@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "396 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31eCcCtZEoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BHF5W87B?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BHF5W87B?tag=workcocoon-20",
     description:
       "This clamp attaches to the desk leg itself rather than the desktop surface, meaning it travels with the desk through its full height range and avoids the cable-slack strain a desktop-clamped mount can experience at extreme heights.\\n\\nTool-free installation is a genuine convenience, though verify your desk leg's shape and thickness are compatible before assuming a universal fit, and check your desk motor's rated lift capacity against the added PC weight before committing.\n\nIt leads this comparison on the strength of its balance between price and disclosed capacity, and it's worth weighing directly against the JOY worker Under Desk PC Mount for Standing Desk before deciding.\n\nWorth knowing before you decide: Tool-free installation. On the other side, Verify desk leg shape and thickness compatibility before buying. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Clamps to desk leg, moves with height adjustment","Tool-free installation","Solid review base","Budget price"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from Amazon ratings",
     reviews: "54 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416Qk72eERL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCY4Q147?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FCY4Q147?tag=workcocoon-20",
     description:
       "Explicitly marketed for standing desk use, this clamp-on leg mount carries a strong 4.5-star rating that suggests reasonable confidence in surviving repeated height-cycling, though weigh this against the more moderate review count relative to the top pick.\\n\\nAs with any leg-clamped mount, calculate your cable slack against your desk's full travel distance before installing, so cables aren't strained taut at either the lowest or highest setting.\n\nSet against the VIVO Adjustable Clamp, the tradeoff here comes down to price versus disclosed weight capacity, not a straightforward upgrade or downgrade either way.\n\nWorth knowing before you decide: Leg-clamp design travels with height adjustment. On the other side, Smaller review base than the top pick. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Clamp-on leg design for standing desks","Strong rating","Moderate review base","Mid-range price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "47 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31jUgclGAWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FBTV38DN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FBTV38DN?tag=workcocoon-20",
     description:
       "The added protective arms give extra lateral support to the mounted case, a genuine benefit during height transitions where off-center load can cause wobble, especially at the top and bottom of a standing desk's travel range.\\n\\nThis is a higher price point in this guide, appropriate for buyers specifically concerned about stability during frequent height cycling rather than the most budget-conscious shoppers.\n\nRelative to the JOY worker Under Desk PC Mount for Standing Desk, this pick leans toward a different priority, whether that's a higher capacity rating, a lower price, or a mounting method suited to a different install situation.\n\nWorth knowing before you decide: Leg-clamp design travels with the desk. On the other side, Highest price in this guide. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Protective arms for lateral support","Clamp-on leg design","Higher price for reinforcement","Moderate review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "12 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41GUZbBysDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G4VWDDQF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G4VWDDQF?tag=workcocoon-20",
     description:
       "Purpose-built for a specific square leg profile, this budget pick carries a strong average rating from a small sample, worth verifying your desk's exact leg dimensions match before ordering.\\n\\nAt roughly 40 pounds of rated capacity, this suits a lighter mid-tower build rather than a heavier modern gaming tower, and the small review base means long-term standing-desk-cycle durability is less proven than the top picks.\n\nCompared with the JOY worker Under Desk PC Mount with Protective Arms above, this pick trades some of that pick's proven track record for a different balance of price and capacity, worth weighing against your own priorities.\n\nWorth knowing before you decide: Strong average rating from available reviews. On the other side, Only fits 75x45mm square legs, verify your desk's exact profile first. That's the main tradeoff to weigh against your specific case and desk setup.",
     specs: ["Fits 75x45mm square legs specifically","Approx. 40lb capacity","Lowest price in this guide","Small review base"],

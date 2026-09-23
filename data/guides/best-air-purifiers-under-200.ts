@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control, a large review base backing this as a proven pick that genuinely uses this price tier to buy real coverage headroom. A higher price in this range does buy real coverage headroom for a larger room, this unit's rated square footage reflects a meaningful step up from a genuine budget-tier unit. Smart app control for monitoring. That said, larger footprint than compact budget picks. Neither should be a surprise once you know to look for it.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Under $175 at time of writing"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "A large, well-established review base with PlasmaWave odor-neutralizing technology, genuinely useful for a buyer whose priority is odor control alongside particulate filtration.\n\nAt this tier, you're paying for the added PlasmaWave layer and established brand track record, not a fundamentally different core filtration mechanism than a budget True HEPA unit.\n\nWorth calling out specifically: plasmaWave adds a genuine odor-control layer. The catch is not the largest rated coverage in this guide.",
     specs: ["PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration", "Under $180 at time of writing"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "An air quality monitor with Auto and Eco modes and a filter indicator, a genuine step up in real-time feedback over a basic budget unit, backed by a large review base and 3-year warranty. This is the priciest pick in the guide, but the air quality monitor and 3-year warranty genuinely justify the premium for a buyer who wants ongoing feedback rather than a set-and-forget unit. Filter indicator tracks replacement timing. Set against that, slightly at a premium price depending on current pricing, check before buying. Both matter when comparing it to the other picks here.",
     specs: ["Air quality monitor with Auto and Eco modes", "Filter indicator", "3-year warranty", "Large review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 3,559 Amazon ratings",
     reviews: "3,559 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31K9NLoXncL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BN2MGV5H?tag=workcocoon-20",
     description:
       "The smaller sibling Blueair 511i Max variant brings HEPASilent high-airflow technology into a similar price range, genuinely useful for a buyer prioritizing airflow over other features. Check current pricing on the specific Blueair model, as the lineup includes variants that fall within and outside this budget tier depending on promotions. The standout detail is that air quality sensor for real-time monitoring. Balancing that out, pricing can vary depending on the specific variant and promotion.",
     specs: ["HEPASilent high-airflow technology", "Air quality sensor", "99.97% removal of airborne particulates", "Large-room rated"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick here, well under the ceiling with room to spare, genuinely proven core True HEPA filtration at a fraction of this tier's typical price. At this tier, you're paying mostly for smart features, sensors, and larger coverage, this unit proves genuine core filtration quality doesn't require spending close competitively. Genuine True HEPA filtration well under the price ceiling. That's a real strength, but weigh it against the flip side: no smart app control.",
     specs: ["True HEPA H13, 99.97% particulate removal", "24dB quoted noise level", "Largest review base in this guide", "Well under $200"],

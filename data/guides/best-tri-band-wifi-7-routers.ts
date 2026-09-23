@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars from Amazon ratings",
     reviews: "1,732 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJSNSVMR?tag=workcocoon-20",
     description:
       "A genuine tri-band 6-stream router with a full 2.5G port set and the largest review base in this guide, appropriate for buyers wanting real 6GHz capability at a mid-range price.\n\nFull 2.5G ports across the board avoid the wired-bottleneck problem that some tri-band routers create by pairing a fast radio with gigabit-only LAN, a real matched-pair advantage worth noting.\n\nWorth calling out specifically: largest review base in this guide for real-world confidence. The catch is more moderate 4.1-star rating, verify recent reviews.",
     specs: ["Genuine tri-band with 6GHz radio", "BE9300 combined rating, 6-stream", "Full 2.5G ports", "6 internal antennas"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "472 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F76PQ2T8?tag=workcocoon-20",
     description:
       "A BE9700-rated step up from the BE550, with a 10G port and 2.5G port plus 320MHz channel width support, appropriate for buyers with faster internet plans wanting genuine multi-gig headroom.\n\nThe adjacent model number to the BE550 hides a real difference here, wider channel support and a genuine 10G port, worth the price gap for buyers who can use it.\n\n320MHz channel width for real headroom on clean spectrum. Set against that, 320MHz channel width is less reliable in dense apartment or urban settings. Both matter when comparing it to the other picks here.",
     specs: ["Genuine tri-band with 6GHz radio", "10G port + 2.5G port + 3x 2.5G LAN", "320MHz channel width support", "6-stream, BE9700 combined rating"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "92 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41iU+ggyo7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GCQFVDNJ?tag=workcocoon-20",
     description:
       "A newer BE12000-rated tri-band router built on a newer Wi-Fi 7 chipset generation, appropriate for buyers wanting the latest hardware revision within TP-Link's tri-band lineup.\n\nSmall review base so far given its newer release, worth weighing against the BE550 and BE600's larger track records if proven reliability matters more than having the newest chipset.\n\nThe standout detail is that high 4.3-star rating despite a smaller sample. Balancing that out, small review base of 92 ratings, limited real-world track record.",
     specs: ["Genuine tri-band with 6GHz radio", "BE12000 combined rating", "New Wi-Fi 7 chipset generation", "High 4.3-star rating"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from Amazon ratings",
     reviews: "503 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/416sP+jL17L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4VZWTM7?tag=workcocoon-20",
     description:
       "A 12-stream BE19000-rated router with 2x10G and 4x2.5G ports, appropriate for buyers wanting the most total capacity and wired headroom within this guide's genuine tri-band lineup.\n\nThe large jump in port count and stream count over the BE550 and BE600 reflects a real capability difference, not just a marketing number, though the more moderate 4.0-star rating is worth weighing against that added cost.\n\n12-stream configuration for strong total household capacity. That's a real strength, but weigh it against the flip side: more moderate 4.0-star rating, verify recent reviews.",
     specs: ["Genuine tri-band with 6GHz radio", "12-stream, BE19000 combined rating", "2x 10G + 4x 2.5G ports", "Highest port count in this guide"],

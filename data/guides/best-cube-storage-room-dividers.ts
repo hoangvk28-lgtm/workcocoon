@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,231 Amazon ratings",
     reviews: "4.5 stars from 8,231 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/412F7Hvt5aL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B085Z7WVXR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B085Z7WVXR?tag=workcocoon-20",
     description:
       "This 16-cube plastic organizer has by far the largest review base in this list, giving buyers a solid amount of real feedback to check before committing to it as a room divider. At 48.4 inches long and 48.4 inches tall it spans a meaningful chunk of wall-to-wall room width for splitting a studio or shared bedroom, and the modular plastic cube design lets you rearrange sections as storage needs change.\n\nThis is an open-back design, so items placed in the cubes are visible from both sides of the room, which means it functions more as a visual zone marker than a true privacy divider. Each cube is rated for light to moderate loads only, so treat roughly 50 pounds per cube as a practical ceiling and add a wall anchor or leveling support if it will sit freestanding in the center of a room.\n\nLarge footprint for splitting bigger rooms. That's a real strength, but weigh it against the flip side: open back offers no visual privacy through the unit.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 264 Amazon ratings",
     reviews: "4.7 stars from 264 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Kxi8xrdiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFXS9X72?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFXS9X72?tag=workcocoon-20",
     description:
       "This solid wood 8-cube unit ships with 2 removable back panels, which is the only product in this list that gives buyers a genuine option to close off sections for real visual privacy rather than an all-open frame. The included storage bins cover 4 of the 8 cubes, and the wood build gives it a sturdier, more finished look than the plastic organizers in this list.\n\nWith only 2 of 8 cubes able to take a removable back panel, full privacy across the whole unit still isn't guaranteed unless you add bins or fabric to the remaining open cubes yourself. The highest rating in this list at 4.7 stars comes from a smaller review pool, so weigh that against the larger, more heavily reviewed picks.\n\nWorth calling out specifically: solid wood build feels more durable than plastic. The catch is only 2 of 8 cubes get a removable back panel.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 3,329 Amazon ratings",
     reviews: "4.2 stars from 3,329 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Ey5h3eoCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXXK6JF5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BXXK6JF5?tag=workcocoon-20",
     description:
       "The Mavivegue is the lowest priced unit in this list by a wide margin, at a budget-friendly price for a 12-cube metal frame rack that works as a tall, budget-friendly zone divider for a bedroom or small office. The metal frame construction is lighter than the wood options here, which makes it easier to reposition but also means it needs more attention to stability when freestanding. This is an open-back metal cubicle design, so it offers zero visual privacy through the unit, and the lightweight metal frame is more prone to wobble than the wood or thicker plastic picks unless leveled and anchored properly. At this price it's better suited to storage-first use with divider function as a secondary benefit. Tall profile works well as a partial visual break. Set against that, open back offers no privacy at all. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.0 stars from 235 Amazon ratings",
     reviews: "4.0 stars from 235 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41GZQBk5zdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4LVYPC2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0H4LVYPC2?tag=workcocoon-20",
     description:
       "The SageNest is a straightforward 8-cube open bookshelf, sized more modestly than the largest units in this list and a reasonable fit for a smaller dorm room or apartment nook that needs a lighter-footprint divider. The listing states an open cube design directly, so there's no ambiguity here, this is a see-through unit by design rather than a privacy solution.\n\nWith the lowest rating and smallest review pool in this list, buyers should weigh the limited feedback against the compact size advantage if a smaller divider footprint matters more than review volume for your space.\n\nA genuine advantage here is that straightforward assembly. The tradeoff is open design confirmed, zero privacy.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from 37 Amazon ratings",
     reviews: "4.2 stars from 37 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Dr0Rf-NIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWYP696K?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GWYP696K?tag=workcocoon-20",
     description:
       "The LUCKLIFE unit explicitly offers optional back panels in its listing, meaning buyers can add closed-back privacy where they need it rather than being stuck with a fully open frame like most other picks here. It's also stackable and fits standard 11 by 11 inch bins, which matters because a cube depth that doesn't match standard bin sizing causes bins to overhang the shelf edge.\n\nThe review pool here is the smallest in this entire list at 37 ratings, so the 4.2 star average should be read with that limited sample size in mind. If the optional back panel feature and standard bin compatibility matter more to you than review volume, it's still a reasonable pick.\n\nCompatible with standard 11x11 inch bins. That's a real strength, but weigh it against the flip side: smallest review pool in this entire list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,499 Amazon ratings",
     reviews: "4.6 stars from 1,499 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uULXHLL1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DFH8C526?tag=workcocoon-20",
     description:
       "This SUNALLY tension curtain stand is not a cube storage unit at all, it's a freestanding no-drill curtain divider, and we're flagging that directly rather than grouping it in as if it shares the storage function of the other 5 picks. If full visual privacy is your actual priority over storage, a curtain divider like this blocks sightlines completely in a way no open-back cube unit can.\n\nAt 28 to 114 inches adjustable width and 4 to 10 feet in height, it fits a wide range of room dimensions without drilling into walls or ceilings, though tension-based stands can still tip if not weighted or braced, so check the base stability rating before assuming it's fully freestanding-safe in a busy room.\n\nWorth calling out specifically: no drilling required, renter-friendly. The catch is not a storage unit, serves privacy function only.",
     specs: [

@@ -36,7 +36,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "13,623 reviews",
     imageUrl: `${BASE}/quntis-monitor-lamp.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=workcocoon-20",
     description:
       "The Quntis Computer Monitor Lamp clips onto the monitor bezel and directs light downward onto the desk surface, keeping glare off the screen even during extended gaming sessions in dark rooms. Its 900 Lux output and CRI 98 rating provide bright, color-accurate illumination for keyboards and desk items without washing out the display. Auto-dimming adjusts brightness automatically when room lighting changes, so you do not have to interrupt a session to manually tweak settings. At a competitive price with the highest review count in this category, it is the most validated option for gaming setups where reliable performance matters more than RGB effects.",
     specs: ["900 Lux", "Auto-dimming sensor", "Touch control", "CRI 98", "USB powered", "No screen glare"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "2,385 reviews",
     imageUrl: `${BASE}/quntis-pro-plus.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0B6P9J3J5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B6P9J3J5?tag=workcocoon-20",
     description:
       "The Quntis PRO+ extends to 20 inches and outputs 1200 Lux, making it one of the brightest bars in this roundup and well-suited for ultrawide monitors up to 34 inches. The wireless remote lets you adjust brightness and color temperature without reaching up to the bar, which is useful mid-game. Curved monitor compatibility is built in, so it works on both flat and curved panels without a separate mounting adapter. It sits between the standard Quntis and the BenQ ScreenBar Pro, giving more brightness and length than the entry model at a lower price than the premium BenQ tier.",
     specs: ["20-inch bar", "Wireless remote", "Auto-dimming", "1200 Lux", "CRI 95", "Curved monitor compatible"],
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "1,188 reviews",
     imageUrl: `${BASE}/quntis-rgb-backlight.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C5JMWZC9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5JMWZC9?tag=workcocoon-20",
     description:
       "This Quntis bar combines 900 Lux front lighting with 24 RGB backlight modes, giving gaming setups both functional desk illumination and ambient color effects behind the monitor. Touch control cycles through color temperature and backlight color options without needing a separate remote. It is the most affordable RGB option in this roundup with a meaningful review count. The backlight projects color onto the wall behind the monitor, which adds atmosphere to dark rooms without requiring a separate bias lighting strip.",
     specs: ["15.7-inch bar", "24 RGB backlight modes", "900 Lux front light", "Touch control", "CRI 95", "USB powered"],
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "741 reviews",
     imageUrl: `${BASE}/govee-gaming-g1.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C4NC62C6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C4NC62C6?tag=workcocoon-20",
     description:
       "The Govee G1 is the only bar in this roundup that syncs its backlight color with the on-screen content, sampling monitor colors and matching the rear-facing RGBIC LEDs in real time. It fits monitors from 27 to 34 inches and includes 123 preset scene modes and a music sync mode for gameplay and entertainment.\n\nThis is primarily an ambient light bar rather than a desk task lamp - it is designed for gaming atmosphere rather than keyboard illumination. Buyers who need both screen sync and functional front lighting should consider pairing it with a standard white light bar.",
     specs: ["Screen color sync", "RGBIC LED backlight", "123 scene modes", "Music sync", "27-34 inch monitors", "App control"],
@@ -144,7 +144,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars",
     reviews: "1,234 reviews",
     imageUrl: `${BASE}/benq-screenbar-pro.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CZ9P1QW9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CZ9P1QW9?tag=workcocoon-20",
     description:
       "The BenQ ScreenBar Pro includes an ultrasonic motion sensor that turns the light on when you sit down and off when you leave, which is practical for gaming sessions that start and end at irregular times. The 1000 Lux output and wireless dial controller give precise brightness control without touching the bar. It is the premium practical choice in this roundup - it provides high brightness and smart automation without the added cost of the Halo 2's backlight feature. Curved monitor compatibility down to 1000R makes it suitable for most curved gaming displays.",
     specs: ["Ultrasonic motion sensor", "1000 Lux", "USB-C powered", "Wireless dial", "Curved 1000R-1800R", "19.7W"],
@@ -172,7 +172,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "1,045 reviews",
     imageUrl: `${BASE}/benq-screenbar-halo-2.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DK59YKRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DK59YKRS?tag=workcocoon-20",
     description:
       "The BenQ ScreenBar Halo 2 adds rear-facing ambient lighting to the front desk illumination, projecting a soft glow onto the wall behind the monitor that reduces the contrast between the bright screen and the dark background. This bias lighting effect is well documented for reducing eye fatigue during long gaming sessions. It is the most expensive option in this roundup. The wireless dial controls both front and back brightness independently, and the curved monitor support covers 1000R to 1800R. Buyers who game primarily in well-lit rooms will see less benefit from the backlight feature than those in consistently dark setups.",
     specs: ["Front and back lighting", "Wireless dial", "Motion sensor", "CRI 95", "Curved 1000R-1800R", "USB-C"],
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "412 reviews",
     imageUrl: `${BASE}/quntis-rgb-pro-plus.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0D5BBPJ23?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D5BBPJ23?tag=workcocoon-20",
     description:
       "The Quntis RGB Pro+ combines the 20-inch length and wireless remote of the PRO+ model with 15 RGB backlight modes, giving gaming setups both the brightness coverage of a long bar and the atmospheric options of a color light. The 144 LED count and CRI 95 rating deliver strong front illumination alongside the RGB effects. It fills the gap between the standard RGB bar and the PRO+ model. The remote allows switching between color modes without leaving the game, which is more practical than the touch-only interface on lower-cost options.",
     specs: ["20-inch bar", "15 RGB backlight modes", "Wireless remote", "144 LEDs", "CRI 95", "4 color temperatures"],
@@ -226,7 +226,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "253 reviews",
     imageUrl: `${BASE}/quntis-curved-rgb.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F9LBFHJZ?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F9LBFHJZ?tag=workcocoon-20",
     description:
       "The Quntis Curved RGB is specifically designed for curved monitors with a foldable dual-head mount that conforms to 1000R to 1800R curvatures. The dual-head design distributes weight evenly across the curve, which prevents the bar from sliding on monitors where a single-point clip would shift under its own weight. The 15 RGB backlight modes and CRI 98+ rating cover both gaming atmosphere and accurate front desk lighting. At a competitive price with a 4.7-star rating, it is the best-validated curved-specific RGB option in this roundup for buyers with tightly curved gaming displays.",
     specs: ["Foldable dual-head mount", "1000R-1800R curved monitors", "15 RGB backlight modes", "Remote control", "CRI 98+", "34-inch plus screens"],
@@ -253,7 +253,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars",
     reviews: "87 reviews",
     imageUrl: `${BASE}/razer-aether.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CTVZ8T7Z?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTVZ8T7Z?tag=workcocoon-20",
     description:
       "The Razer Aether is the only bar in this roundup built around the Razer Chroma ecosystem, offering 16.8 million color options and integration with Razer Synapse for synchronized lighting across a full Razer peripheral setup. Front and back lighting provide both desk illumination and wall bias lighting, similar in concept to the BenQ Halo 2.\n\nAt 87 reviews it has the least buyer validation in this roundup, which reflects its newer release rather than a quality issue. Alexa compatibility allows voice-controlled brightness and color changes. Buyers outside the Razer ecosystem will find better value from the BenQ or Quntis options.",
     specs: ["Chroma RGB 16.8M colors", "Front and back lighting", "Alexa compatible", "Razer Synapse integration", "Razer Gamer Room App"],

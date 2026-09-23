@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "Explicitly marketed for dust removal with certified True HEPA H13, by far the largest review base of any pick in this guide as real-world evidence of dust-reduction performance.\n\nUnderstand this meaningfully reduces airborne dust, it doesn't replace regular surface cleaning, dust settles faster than any purifier can capture it airborne.\n\nBy far the largest review base of any pick in this guide. That's a real strength, but weigh it against the flip side: doesn't replace regular surface cleaning.",
     specs: ["True HEPA H13, marketed for dust", "24dB quoted noise level", "Removes 99.97% of particulates", "Largest review base in this guide"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A filter indicator genuinely helps track replacement timing for dust-heavy environments where filters load faster than average use. Large review base, 3-year warranty.\n\nOlder homes with more settled dust reservoirs in carpets or vents may need more aggressive filter replacement than this unit's standard estimate suggests, adjust based on your home's specific dust source intensity.\n\nFilter indicator helps track dust-accelerated replacement timing. On the other hand, higher price than the top pick. Both are worth keeping in mind before deciding.",
     specs: ["HEPA filter, filter indicator", "Up to 1748 sq ft rated (open room)", "3-year warranty", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pCHKKqN2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=workcocoon-20",
     description:
       "The same proven dust-reduction design with a filter indicator in a white finish, appropriate for a lighter aesthetic while keeping the same maintenance tracking capability. Same 3-year warranty.\n\nA purifier actively stirring room air to capture dust can temporarily increase perceived airborne dust near the intake as settled dust gets re-suspended, don't worry if this happens during initial operation in a very dusty room.\n\nA genuine advantage here is that 3-year warranty. The tradeoff is that higher price than the top pick.",
     specs: ["HEPA filter, filter indicator", "Up to 1748 sq ft rated (open room)", "3-year warranty", "White finish"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, appropriate for routine household dust rather than a heavier-duty construction or renovation dust scenario.\n\nConstruction or renovation dust is finer and more abrasive than routine household dust and can clog filters faster than this unit may be designed for, use a more heavy-duty pick for that specific scenario.\n\nSolid review base. That said, not intended for construction/renovation-level dust. Neither should be a surprise once you know to look for it.",
     specs: ["HEPA filtration", "Solid review base", "Budget-friendly", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft, real headroom for a dustier environment near high-traffic areas or older homes with settled dust reservoirs in carpets and vents. Smart app control.\n\nDust composition varies by home type and nearby outdoor sources, size up if you're near construction, agricultural activity, or high-traffic roads specifically.\n\nWorth calling out specifically: smart app control for monitoring. The catch is higher price than compact alternatives.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Higher capacity for heavier dust loads"],

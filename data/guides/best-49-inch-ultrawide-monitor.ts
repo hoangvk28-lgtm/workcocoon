@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     rating: "4.3",
     reviews: "126",
     imageUrl: "https://m.media-amazon.com/images/I/41Gv3FYbiKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTRXCNV8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CTRXCNV8?tag=workcocoon-20",
     description:
       "The MPG 491CQP is the cheapest entry point into 49-inch QD-OLED in this guide, running at 144Hz with a 0.03ms response time and FreeSync Premium Pro support. It's a straightforward way to get true OLED contrast at the 5120x1440 resolution without paying for the higher refresh rates found on pricier picks here.\n\nUSB-C connectivity and a tilt/height-adjustable stand round out the package, making it easy to dial in ergonomics for a panel this wide. Backed by a 2-year warranty, it's the pick for buyers who want QD-OLED image quality on a 49-inch desk without spending close to four figures.\n\nA genuine advantage here is that true OLED contrast at 49-inch scale. The tradeoff is 144Hz is the lowest refresh rate among the QD-OLED picks here.",
     specs: [
@@ -94,7 +94,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "1,230",
     imageUrl: "https://m.media-amazon.com/images/I/41Q8Bq+heNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDQMQQS2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CDQMQQS2?tag=workcocoon-20",
     description:
       "The Odyssey G93SC is by far the most-reviewed monitor in this entire guide, giving buyers the largest pool of real-world feedback of any pick here. Its 1800R curve, 240Hz refresh rate, and 1,000,000:1 contrast put it well ahead of the entry-level MSI QD-OLED on both speed and proven track record.\n\n99% DCI-P3 color coverage and dual G-Sync plus FreeSync Premium Pro support mean it pairs cleanly with either GPU brand, and picture-by-picture mode lets you split the massive 49-inch canvas into two independent sources.\n\n240Hz, well above the entry-level QD-OLED pick. On the other hand, slightly lower average rating than several VA picks in this guide. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -126,7 +126,7 @@ export const products: GuideProduct[] = [
     rating: "4.2",
     reviews: "204",
     imageUrl: "https://m.media-amazon.com/images/I/41UZD2xhkwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSGJRKCR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DSGJRKCR?tag=workcocoon-20",
     description:
       "The G91SD trades the G93SC's curve for a flat-feeling premium metal chassis, and pairs its QD-OLED panel with HDMI 2.1 and USB-C for a wider range of source devices, including current-generation consoles. 1,000,000:1 contrast and 0.03ms GtG keep image quality on par with the rest of the QD-OLED lineup here.\n\nFreeSync Premium Pro and G-Sync compatibility cover both GPU ecosystems, and picture-by-picture mode makes it easy to run two sources side by side across the full 49-inch width.\n\nHDMI 2.1 for current-gen console compatibility. That's a real strength, but weigh it against the flip side: 144Hz is on the lower end for a gaming-oriented QD-OLED.",
     specs: [
@@ -158,7 +158,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "163",
     imageUrl: "https://m.media-amazon.com/images/I/41elejKxHUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DWT9XN4D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWT9XN4D?tag=workcocoon-20",
     description:
       "The G91F is the highest-rated monitor in this entire guide at 4.5 stars, built around a 1000R curved VA panel rather than QD-OLED. That tighter 1000R curve is designed to roughly match the curvature of the human eye at close range, making it feel more immersive up close than the gentler 1800R QD-OLED picks in this guide.\n\nDisplayHDR 600 and 280 nits of brightness support genuinely bright HDR content, and Auto Source Switch+ automatically flips inputs when a connected device wakes up, a small but useful feature on a monitor this wide with multiple sources plugged in.\n\nWorth calling out specifically: displayHDR 600 certification, higher than the QD-OLED picks' typical tier. The catch is vA panel, not the deeper per-pixel contrast of QD-OLED.",
     specs: [
@@ -190,7 +190,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "332",
     imageUrl: "https://m.media-amazon.com/images/I/41c6EaTR9CL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DHJBWY52?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DHJBWY52?tag=workcocoon-20",
     description:
       "The G95C pairs a 1000R curved VA panel with 240Hz, matching the fastest QD-OLED refresh rate in this guide while hitting a 1000-nit peak brightness, the highest of any monitor in this entire lineup. That brightness ceiling makes a real difference in HDR highlights and in rooms with ambient light that would wash out a dimmer panel.\n\nFreeSync Premium Pro support and picture-by-picture mode keep it competitive on features with the QD-OLED picks, at a lower price than most of them.\n\n240Hz matches the fastest QD-OLED picks here. Set against that, lowest rating among the Samsung VA picks in this guide. Both matter when comparing it to the other picks here.",
     specs: [
@@ -221,7 +221,7 @@ export const products: GuideProduct[] = [
     rating: "3.8",
     reviews: "123",
     imageUrl: "https://m.media-amazon.com/images/I/41BjzB7UK1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DHJ7VBJ4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DHJ7VBJ4?tag=workcocoon-20",
     description:
       "The G95SD is the only monitor in this guide with a dedicated Glare-Free coating, useful if your desk sits near a window or bright overhead lighting that would otherwise wash out a glossy QD-OLED panel. It also packs built-in Wi-Fi, SmartThings integration, and a Gaming Hub that can stream games directly without a PC connected at all.\n\nWe should be upfront that this is the lowest-rated pick in this entire guide at 3.8 stars, despite having the most smart features of any monitor here. If glare resistance and standalone streaming genuinely matter for your setup it's worth considering, but weigh that against its rating relative to the rest of this lineup.\n\nA genuine advantage here is that built-in Gaming Hub can stream games without a PC. The tradeoff is lowest rating in this entire guide at 3.8 stars.",
     specs: [
@@ -253,7 +253,7 @@ export const products: GuideProduct[] = [
     rating: "4.1",
     reviews: "90",
     imageUrl: "https://m.media-amazon.com/images/I/41A7PYEypCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6QRTBHM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C6QRTBHM?tag=workcocoon-20",
     description:
       "The U4924DW is built for productivity, not gaming, running at 60Hz, the lowest refresh rate in this guide, on an IPS Black panel prioritizing color accuracy and consistency over motion smoothness. It includes an automatic KVM switch, Gigabit 2.5GbE Ethernet, and 11 total USB ports, the most of any connectivity setup in this guide.\n\n100% sRGB coverage plus dual 9W speakers make it a genuinely capable single-monitor replacement for a multi-computer desk, and USB-C at 90W can charge a connected laptop while driving the display over one cable.\n\nAutomatic KVM switch for multi-computer desks. On the other hand, 60Hz refresh rate rules it out for gaming. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -285,7 +285,7 @@ export const products: GuideProduct[] = [
     rating: "4.5",
     reviews: "225",
     imageUrl: "https://m.media-amazon.com/images/I/31jJEMNYH7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRGJF7WL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CRGJF7WL?tag=workcocoon-20",
     description:
       "The S95UA is Samsung's business-line answer to the Dell UltraSharp, running a 1000R curved VA panel at 120Hz with a built-in KVM switch, Ethernet, and USB-C 90W power delivery in one package. It ties the G91F for the highest rating in this guide at 4.5 stars while costing less than the Dell.\n\nDisplayHDR 400 and built-in speakers make it usable as a standalone office monitor without extra peripherals, and its B2B 3-year warranty reflects Samsung's office-oriented support tier rather than a consumer gaming warranty.\n\nBuilt-in KVM switch at a lower price than the Dell UltraSharp. That's a real strength, but weigh it against the flip side: 120Hz is below the 144-240Hz gaming-oriented picks in this guide.",
     specs: [

@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 6,170 Amazon ratings",
     reviews: "6,170 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41DFP3dJ-xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2C9QT91?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C2C9QT91?tag=workcocoon-20",
     description:
       "An explicit 2200mAh battery capacity, genuinely useful for objectively comparing runtime against other battery-powered lights rather than relying on a vague 'hours of use' claim alone. High CRI 97+ rating combined with battery power is a strong combination.\\n\\nHighest rating of any pick in this guide, real evidence this holds up in practice, though expect shorter real-world runtime at full brightness than a headline figure might suggest.\n\nIt leads this comparison mainly on review volume and clip-fit reliability across different monitor types, worth weighing directly against the Cyezcor Video Conference Lighting Kit.\n\nHighest rating in this guide. That's a real strength, but weigh it against the flip side: real-world runtime at full brightness will be shorter than at lower settings.",
     specs: ["2200mAh rechargeable battery, explicit capacity","CRI 97+","3 light modes","Clip and tripod mount"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 13,957 Amazon ratings",
     reviews: "13,957 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41bsrlr6hiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08LZKSMRH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LZKSMRH?tag=workcocoon-20",
     description:
       "The largest review base of any light in this guide, strong real-world evidence at this price point, though verify whether your specific unit is battery-powered or USB-only, some listings in this product line offer both options.\\n\\nAs with every battery-powered pick, expect shorter real runtime at full brightness than any headline runtime claim suggests.\n\nSet against the ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip & Camera Tripod Adapter Rechargeable 2200mAh CRI 97+, the tradeoff here comes down to CRI rating and adjustability versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: even ring light illumination. The catch is verify battery vs. USB-only variant before buying.",
     specs: ["Ring light, clip-on monitor mount","Battery or USB power depending on variant","Adjustable brightness","Largest review base in this guide"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 6,958 Amazon ratings",
     reviews: "6,958 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41A4zdsn9bL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08YJPJLFV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08YJPJLFV?tag=workcocoon-20",
     description:
       "5 brightness levels let you dial down to a lower setting specifically to extend battery runtime when full brightness isn't necessary, genuinely useful flexibility for managing battery life across a long day of calls.\\n\\nLarge, well-established review base, solid real-world evidence at this price point.\n\nRelative to the Cyezcor Video Conference Lighting Kit, this pick leans toward a different priority, whether that's a lower price, a wider color temperature range, or a different power source.\n\nLarge, well-established review base. Set against that, verify battery-powered variant specifically. Both matter when comparing it to the other picks here.",
     specs: ["Ring light, clip-on","5 color temperature settings, 5 brightness levels","Battery or USB power depending on variant","Very affordable"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 152 Amazon ratings",
     reviews: "152 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41P6ZIeAUXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FLPR9ZBK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FLPR9ZBK?tag=workcocoon-20",
     description:
       "The most affordable pick in this guide, genuinely portable design suited to cord-free use across monitor, laptop, and desktop setups. 360° adjustability lets you angle for the best light direction.\\n\\nModest review base, but a solid rating for the price given the portability this offers.\n\nCompared with the Video Conference Lighting Kit above, this pick trades some of that pick's proven track record for a different balance of price and features, worth weighing against your own video call setup.\n\nGenuinely portable, cord-free. That's a real strength, but weigh it against the flip side: modest review base.",
     specs: ["Ring light, 360° adjustable","Portable, cord-free design","Clip-on mount","Most affordable pick in this guide"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 1,469 Amazon ratings",
     reviews: "1,469 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51taeRRFx3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BLHHV648?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BLHHV648?tag=workcocoon-20",
     description:
       "A compact 5-inch design with both clip and stand options, genuinely portable if you want to move it between a monitor mount and a standalone desk position without a cord tethering it in place.\\n\\nSolid, established review base, though verify the exact battery specs against your typical call length before relying on it for extended use.\n\nSet against the Anautin Ring Light for Video Conference Lighting, the tradeoff here comes down to CRI rating and adjustability versus price, not a straightforward upgrade or downgrade either way.\n\nWorth calling out specifically: compact 5-inch size. The catch is battery capacity not explicitly disclosed.",
     specs: ["5-inch ring light, portable","Clip-on and stand mounting options","Compact desktop design","Solid review base"],

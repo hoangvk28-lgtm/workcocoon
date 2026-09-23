@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 277 Amazon ratings",
     reviews: "4.7 stars from 277 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41GLN4Wv-1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FPC7XF5D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FPC7XF5D?tag=workcocoon-20",
     description:
       "The SIAGO gives a heavy setup the most desktop surface in this list at 60 by 28 inches, with a 1 inch thick top that resists sag better than the thinner boards common on budget desks. That extra depth also helps keep a monitor arm base and its clamp closer to the center of the frame instead of hanging off the front edge, which reduces the leverage a heavy arm puts on the desktop.\n\nA thicker top is not the same thing as a wobble-free frame, so pair this desk with center cable and support bracing if you plan to run dual monitors on arms at full standing height. It is the highest priced desk here, a reasonable tradeoff for buyers who specifically need the larger surface.\n\nA genuine advantage here is that thicker top resists sag under monitor arm load. The tradeoff is highest price in this list.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 1,747 Amazon ratings",
     reviews: "4.6 stars from 1,747 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41k4VBjAQzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DWMNPW7D?tag=workcocoon-20",
     description:
       "The Veken offers a 55 inch desktop at a price well under the SIAGO, making it a practical choice for a heavy gaming or dual-monitor rig without paying for the largest surface available. Its higher review count than most desks here also gives buyers a larger pool of real feedback on long-term stability to check before ordering.\n\nAs with any desk in this weight class, keep heavy components like a full tower PC or a large monitor arm base positioned toward the center rather than the corners, since off-center weight is what actually causes wobble at height, not the total load number alone. The white finish is a useful option for lighter room setups.\n\nHighest review count in this list. On the other hand, not as deep as the SIAGO for very large monitor arm setups. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 11,572 Amazon ratings",
     reviews: "4.5 stars from 11,572 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415He+cLvaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0B41YH9B6?tag=workcocoon-20",
     description:
       "The ErGear carries the largest volume of buyer feedback in this list by a wide margin, which is useful evidence when researching how a desk actually holds up over months of daily use rather than relying on the spec sheet alone. Its 48 by 24 inch footprint is more compact than the SIAGO or Veken, a tradeoff worth weighing if your setup includes two full-size monitors on arms plus a keyboard tray.\n\nAt this price and footprint, it suits a single heavy monitor or a compact dual-monitor arm setup better than a full dual-PC battle station. Keep any monitor arm clamp centered on the desk's depth rather than pushed to the front edge to reduce tipping leverage at standing height.\n\nLowest price alongside the FEZIBO and Claiks. That's a real strength, but weigh it against the flip side: smaller desktop than the SIAGO or Veken.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 12,575 Amazon ratings",
     reviews: "4.5 stars from 12,575 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41fVLrl+dnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08BHPMYGK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08BHPMYGK?tag=workcocoon-20",
     description:
       "The FLEXISPOT EN1 states a 176 lbs weight capacity, one of the highest published numbers in this list, and comes from a brand with a large enough review base to cross-check that number against real long-term buyer experience. A one-piece frame design also tends to hold alignment better over time than desks assembled from separate leg sets, which matters once a heavy load has been sitting on the desktop for months.\n\nRemember that a static capacity rating describes how much weight the desk can hold, not how little it sways at full height with that weight distributed unevenly. Four memory presets make it easy to return to a tested, stable working height instead of re-adjusting by feel each time.\n\nWorth calling out specifically: one-piece frame for consistent alignment over time. The catch is 24 inch depth limits room for very large monitor arms.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 8,463 Amazon ratings",
     reviews: "4.5 stars from 8,463 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/418JjdqdnpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F8MHPVPH?tag=workcocoon-20",
     description:
       "The FEZIBO uses a splice-board desktop, two panels joined at a center seam, which keeps manufacturing cost down but is worth checking for flex right at that seam if you plan to mount a heavy monitor arm near the center of the desk. Its white frame and maple-look top is a lighter aesthetic option among the mostly black desks in this list. at a budget-friendly price with a large review base, it is a reasonable value pick for a moderately heavy single-monitor or light dual-monitor setup, though buyers running true heavy dual-PC rigs should lean toward the one-piece FLEXISPOT or the deeper SIAGO instead. Lighter white and maple aesthetic option. Set against that, splice-board seam can flex under a centered heavy monitor arm. Both matter when comparing it to the other picks here.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 5,316 Amazon ratings",
     reviews: "4.4 stars from 5,316 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oErF+y4gL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BZ7GXM4M?tag=workcocoon-20",
     description:
       "The Claiks shares the same splice-board construction and 48 by 24 inch dimensions as the FEZIBO at a similar price, differentiated mainly by its rustic brown top finish and slightly lower review count. It is a serviceable choice for buyers who want the darker wood-tone look rather than the FEZIBO's maple finish.\n\nAs with the FEZIBO, the center seam in the desktop is the spot most likely to show flex under a heavy centered monitor arm, so consider positioning arm clamps toward one side rather than dead center if you notice any give at full height.\n\nA genuine advantage here is that rustic brown top offers a distinct finish option. The tradeoff is splice-board seam is a flex point under centered heavy loads.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 555 Amazon ratings",
     reviews: "4.4 stars from 555 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41oHg37v77L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT3Y1X96?tag=workcocoon-20",
     description:
       "The Huuger's 27.6 inch depth is close to the SIAGO's 28 inches, giving heavy setups more room to keep a monitor arm base or a second PC tower centered on the frame rather than perched near the front edge. Two built-in hooks add a small amount of side storage for headphones or bags without eating into desktop space.\n\nIts review count is lower than the top picks here, so weigh that smaller feedback pool against its useful depth and mid-range price. Three preset heights are fewer than the four offered on the FLEXISPOT, a minor tradeoff for buyers who only need a couple of fixed positions.\n\nExtra depth helps center heavy monitor arms. On the other hand, smaller review base than most picks in this list. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 155 Amazon ratings",
     reviews: "4.6 stars from 155 Amazon ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41rUtvN6YIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GS9B1X5X?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GS9B1X5X?tag=workcocoon-20",
     description:
       "This Huuger model builds power outlets and a USB-C port directly into the desktop edge, useful for a heavy multi-device setup that would otherwise need a separate power strip and its own cable running up through a grommet. That built-in power strip also means one less item competing for surface space on an already crowded heavy setup.\n\nAt 47 by 24 inches it is the second-smallest desktop in this list, so it suits a single heavy monitor or a compact dual-PC arrangement better than a full dual-monitor-arm rig. Its review count is the smallest here, worth factoring in alongside its strong 4.6 average.\n\nStrong 4.6 average rating. That's a real strength, but weigh it against the flip side: smallest review base in this list.",
     specs: [

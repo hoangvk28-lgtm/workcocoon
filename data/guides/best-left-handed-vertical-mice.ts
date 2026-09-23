@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "606 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41tkHBPJiSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427OTEU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427OTEU?tag=workcocoon-20",
     description:
       "Explicitly built as a left-handed model by a brand with a long track record in the vertical mouse category, which is a genuine mirror-image design rather than a repositioned right-hand product.\n\nSoftware and driver support for this left-handed model can lag behind the brand's more mainstream right-handed line, so check the current listing and community feedback for driver compatibility with your operating system before buying.\n\nThe standout detail is that long-established brand in the vertical mouse category. Balancing that out, premium price reflecting the smaller left-handed product niche.",
     specs: ["True mirrored left-hand ergonomic curve", "Wired USB connection", "Established brand with long track record", "Premium price point"],

@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "This is a dedicated monochrome laser printer, and it produces the sharpest black-and-white text in this list, since toner fuses cleanly onto the page rather than absorbing into paper fibers the way ink does. For a household that's mostly printing text documents, forms, and paperwork, this is the strongest single-purpose fit.\n\nGrayscale photos and gradients are its one weak spot: laser engines can show visible banding in smooth grayscale transitions, so photo-heavy grayscale work looks noticeably better on a good inkjet. If your printing is genuinely mostly text, that tradeoff is worth it.\n\nNo idle-ink drying risk between print jobs. That's a real strength, but weigh it against the flip side: grayscale photos and gradients can show banding.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/316tpuWileL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0D96T79YF?tag=workcocoon-20",
     description:
       "The LaserJet M209d is a dedicated monochrome laser at a lower price than the Brother above, with automatic duplex printing built in. It's wired-only, no wifi, which some buyers will see as a downside and others will see as one less thing that can go offline mid-print.\n\nLike any laser engine, it's the stronger choice for crisp text and a weaker one for smooth grayscale photo gradients, where banding can show. For a household that mostly prints forms, homework, and documents and doesn't need wireless printing, it's the most budget-friendly true laser here.\n\nWorth calling out specifically: no wireless dropout issues since it's wired only. The catch is no wireless connectivity.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FP3LJ74G?tag=workcocoon-20",
     description:
       "This is a color laser printer, and switching it to black-only or grayscale mode gives text just as sharp as a dedicated mono laser, since it's still fusing toner onto the page the same way. The advantage over a mono-only laser is obvious: color capability stays available for the occasional chart or graphic without owning a second printer.\n\nThe real cost consideration is that color laser toner sets cost meaningfully more than a mono laser's single cartridge, even if you print in B&W mode most of the time. It only makes financial sense over a dedicated mono laser like the DCP-L2640DW if you genuinely need color sometimes too.\n\nColor capability available when needed. Set against that, much higher price than a dedicated mono laser. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CFCYYZLM?tag=workcocoon-20",
     description:
       "A more affordable color laser than the Canon above, the HL-L3220CDW still delivers laser-sharp black-and-white text when set to mono mode, at 19ppm with a 250-sheet tray. It's a reasonable middle ground for a household that wants laser text quality with occasional color use, without paying for the Canon's higher-volume features.\n\nIt has no built-in scanner, so it's a printing-only solution. If your black-and-white document needs are 90% or more of your printing, a dedicated mono laser will still cost less to own over time than running this in B&W mode.\n\nA genuine advantage here is that large 250-sheet tray reduces refill frequency. The tradeoff is no built-in scanner.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MCIwNDseL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFLM562?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFLM562?tag=workcocoon-20",
     description:
       "This is a color inkjet, not a laser printer, and it's included here specifically because inkjet handles smooth grayscale gradients better than laser does, avoiding the banding a laser engine can show in grayscale photos or shaded graphics. For a household that prints grayscale photos or design proofs regularly alongside text, that's a genuine advantage.\n\nText documents won't be quite as crisp-edged as any of the laser picks above, since ink absorbs into paper rather than fusing on top. If your printing is overwhelmingly plain text, a laser pick will serve you better; if grayscale image quality matters, this inkjet is the stronger choice.\n\nAuto document feeder and duplex scanning. On the other hand, text edges softer than any laser pick. Neither should be a surprise once you know to look for it.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41qSvRweBuL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01IIOMMRS?tag=workcocoon-20",
     description:
       "Another color inkjet rather than a laser, the MAXIFY MB2720 is a lower-cost way to get smoother grayscale output than a laser printer manages, with scan, copy, and fax built in. It's a reasonable all-around pick for a household whose black-and-white printing includes some grayscale photos alongside text.\n\nAs with any inkjet, text sharpness is a step below the laser picks in this list, and idle cartridges can dry out if the printer sits unused for a few weeks. Toner-save style draft printing isn't standard on inkjets the way it is on laser, so cost-saving draft printing works differently here.\n\nFull scan, copy, fax feature set. That's a real strength, but weigh it against the flip side: text edges softer than any laser pick.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GTN9ZGRS?tag=workcocoon-20",
     description:
       "This is a color inkjet with high-capacity INKvestment cartridges, not a laser printer, aimed at a household printing a real volume of mixed text and grayscale content without wanting to replace cartridges constantly. Automatic two-sided copy and scan through a color touchscreen handles multi-page black-and-white paperwork well.\n\nText still won't be as crisp as the laser picks in this list, but for a household that values grayscale photo quality and higher-volume ink capacity over the sharpest possible text, it's a solid non-laser option.\n\nWorth calling out specifically: automatic duplex copy and scan. The catch is text softer than any laser pick here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/411M0mBMPwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FN93WW7?tag=workcocoon-20",
     description:
       "A photo-focused color inkjet, not a laser printer, the XP-7100 is the strongest pick here specifically for grayscale photo quality, with smooth gradient handling that laser engines can't match. Duplex printing and a compact design round out its document-handling side.\n\nIf your black-and-white printing is genuinely mostly grayscale photography, portraits, or design work rather than plain text, this is the pick built for that job. For plain text documents, any of the laser picks above will look sharper and cost less per page over time.\n\nDuplex printing included. Set against that, text softer than any laser pick here. Both matter when comparing it to the other picks here.",
     specs: [

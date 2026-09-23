@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from 17 Amazon ratings",
     reviews: "17 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ML8Ta-OHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FPD6PJ92?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FPD6PJ92?tag=workcocoon-20",
     description:
       "Purpose-built for DC-powered NAS units and mini PCs, with explicit compatibility for Synology, Ugreen, TerraMaster, and QNAP, the exact vendor ecosystem where graceful shutdown signal configuration matters most. Remote app control adds visibility into battery status without walking over to check an LCD.\n\nA small review base so far, but the specific NAS-vendor compatibility list is a genuine differentiator most generic UPS units don't offer, verify your exact NAS model's DC power requirements match before buying.\n\nRemote app control for battery status visibility. That's a real strength, but weigh it against the flip side: small review base, less long-term evidence than the general-purpose picks.",
     specs: ["150W DC output, NAS-specific design", "Explicit Synology/Ugreen/TerraMaster/QNAP compatibility", "Remote app control", "Compact HomeServer Protector form factor"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 4,110 Amazon ratings",
     reviews: "4,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pgnLVo0dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B005GZRUZW?tag=workcocoon-20",
     description:
       "Explicitly marketed for PC and NAS protection, with a large, well-established review base as evidence this AC-output design handles real-world NAS deployments reliably. Works with NUT (Network UPS Tools) for graceful shutdown signaling on most NAS operating systems.\n\nCritically, configure the shutdown trigger threshold with sufficient margin, the default settings may not leave enough runtime buffer for a RAID array to safely finish writes before the battery depletes.\n\nCompatible with NUT for graceful shutdown across most NAS platforms. On the other hand, shutdown trigger threshold needs manual configuration with sufficient margin. Both are worth keeping in mind before deciding.",
     specs: ["650VA/390W", "PC and NAS rated", "USB connectivity for shutdown signaling", "Standard replaceable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 3,792 Amazon ratings",
     reviews: "3,792 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/313IpZaRpEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B085JJZDFK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B085JJZDFK?tag=workcocoon-20",
     description:
       "Higher capacity than the BE650G1, genuinely useful headroom if your NAS is a multi-bay unit with several drives spinning, or if you're also protecting a router on the same circuit. Same NUT-compatible USB shutdown signaling applies.\n\nSame configuration caveat as every pick here, the shutdown trigger threshold needs sufficient margin configured to avoid catching a RAID array mid-write when the battery finally depletes.\n\nA genuine advantage here is that large review base. The tradeoff is that requires manual shutdown threshold configuration for safety margin.",
     specs: ["850VA/450W", "PC, router, and NAS rated", "USB shutdown signaling", "Surge protection included"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 29,088 Amazon ratings",
     reviews: "29,088 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41h0sXfkrSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01FWAZEIU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01FWAZEIU?tag=workcocoon-20",
     description:
       "By far the largest review base of any product in this entire batch, remarkably strong real-world validation at an entry-level price. Explicitly rated for computer, router, and NAS protection with standard USB shutdown signaling support.\n\nStill requires the same careful shutdown-trigger configuration as every pick here, the huge review base reflects general reliability, not confirmation that every buyer configured graceful shutdown correctly.\n\nMost affordable pick here. That said, entry-level capacity, best for single-bay NAS units. Neither should be a surprise once you know to look for it.",
     specs: ["600VA/330W", "Computer, router, NAS rated", "USB shutdown signaling", "Standard replaceable battery"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from 896 Amazon ratings",
     reviews: "896 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/317PvPHMHKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00429N18S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00429N18S?tag=workcocoon-20",
     description:
       "Worth considering if your NAS or mini PC uses an APFC power supply internally, pure sine wave avoids the buzzing or shutdown risk modified sine wave can trigger on that hardware during an outage. LCD display shows runtime and load in real time.\n\nStill needs the same shutdown-signal configuration attention as every NAS UPS pairing, pure sine wave solves a power-quality problem, not the graceful-shutdown-timing problem.\n\nWorth calling out specifically: aVR included. The catch is higher price than the standard APC NAS picks.",
     specs: ["850VA, PFC sinewave", "AVR included", "LCD display", "USB connectivity"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 31 Amazon ratings",
     reviews: "31 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/21U2VNukpiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GVNH9RY2?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GVNH9RY2?tag=workcocoon-20",
     description:
       "Genuinely useful if you're already in the Ubiquiti networking ecosystem, integrating monitoring alongside UniFi network gear rather than a standalone dashboard. Higher capacity suits a small rack setup with a NAS plus networking equipment.\n\nSmaller review base than the APC alternatives, and still requires the same graceful-shutdown signal configuration for your specific NAS, this doesn't automate that setup any more than a generic UPS would.\n\nHigher capacity for combined NAS and networking equipment. Set against that, smaller review base than established APC/CyberPower picks. Both matter when comparing it to the other picks here.",
     specs: ["1000VA/600W", "UniFi ecosystem integration", "Tower form factor for rack/shelf setups", "Higher capacity for combined NAS + networking loads"],

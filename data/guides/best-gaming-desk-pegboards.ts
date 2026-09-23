@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 392 Amazon ratings",
     reviews: "392 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41MYGQyCPSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ9G6F49?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ9G6F49?tag=workcocoon-20",
     description:
       "Included accessories use standard hole-spacing hooks rather than proprietary gaming-specific mounting, a genuine compatibility advantage since you can add off-the-shelf pegboard hooks later.\n\nThis clamp-on design's weight capacity is worth testing against realistic gaming accessory weights, headset hooks and controller charging docks are meaningfully heavier than typical office pegboard items.\n\nWorth calling out specifically: 10 included accessories provide immediate functionality. The catch is compact size may limit total gaming accessory capacity.",
     specs: ["Standard hole-spacing, clamp-on mount", "10 included accessories", "16.5\" x 12.6\"", "Solid review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 392 Amazon ratings",
     reviews: "392 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41L0K5UFHAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJ9HJGLB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CJ9HJGLB?tag=workcocoon-20",
     description:
       "The same proven design and standard hole-spacing as the black variant, in white for a gaming desk aesthetic matching lighter color schemes.\n\nAesthetic gaming-desk-matching should be treated as a secondary consideration distinct from functional pegboard quality, this shares identical hole-spacing and weight capacity as the higher-rated black variant.\n\n10 included accessories. Set against that, compact size may limit total gaming accessory capacity. Both matter when comparing it to the other picks here.",
     specs: ["Standard hole-spacing, clamp-on mount", "10 included accessories", "16.5\" x 12.6\"", "Same proven design as black variant"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 251 Amazon ratings",
     reviews: "251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41cKMuT+q0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DHRMN1CK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DHRMN1CK?tag=workcocoon-20",
     description:
       "Explicitly marketed for gaming setups with genuine wall-mounting flexibility, adhesive or screw mounts, appropriate for a buyer wanting a larger 33x22-inch pegboard area than the compact clamp-on options.\n\nThis larger surface area gives more room for gaming-specific accessories, headset hooks and controller mounts, verify these use standard mounting rather than a proprietary system specific to this kit.\n\nThe standout detail is that larger 33x22-inch surface area than compact alternatives. Balancing that out, lower average rating than the compact PEGZONE picks.",
     specs: ["33\" x 22\", explicitly gaming-marketed", "Adhesive and screw mounting options", "Includes gaming-oriented accessories", "Solid review base"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 367 Amazon ratings",
     reviews: "367 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/4159H0T34aL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CHMZNFB8?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CHMZNFB8?tag=workcocoon-20",
     description:
       "A modular storage system design with a solid review base, genuinely useful for a gaming desk wanting to expand organization piece by piece as accessory needs grow.\n\nCross-reference this against the foundational pegboard hole-spacing and material-quality research, the modular system's individual pieces should share consistent standard spacing across the kit.\n\nSolid review base and rating. That's a real strength, but weigh it against the flip side: modularity adds assembly complexity versus a fixed single panel.",
     specs: ["Modular storage system, black finish", "Solid review base", "Expandable configuration", "Wall-mounted design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from 1,790 Amazon ratings",
     reviews: "1,790 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51q0NC8hQPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09NCZ53X9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09NCZ53X9?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, a plastic modular pegboard panel system genuinely marketed for gaming setups among other use cases.\n\nPlastic pegboard panels have a different weight-capacity profile than metal alternatives, verify this against realistic gaming-accessory weights specifically, heavier headsets and charging docks may need a metal-based option instead.\n\nGenuinely modular and expandable system. On the other hand, plastic construction has a different weight-capacity profile than metal. Both are worth keeping in mind before deciding.",
     specs: ["Plastic modular panels, tan brown finish", "22\" x 22\"", "By far the largest review base in this guide", "Multi-use marketing including gaming"],

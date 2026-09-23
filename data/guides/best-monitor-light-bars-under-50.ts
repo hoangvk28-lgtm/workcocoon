@@ -36,7 +36,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "13,623 reviews",
     imageUrl: `${BASE}/quntis-monitor-lamp.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=workcocoon-20",
     description:
       "The Quntis Computer Monitor Lamp clips onto the monitor bezel and directs 900 Lux of light downward onto the desk surface, keeping glare off the screen while illuminating keyboards, documents, and workspace items. The auto-dimming sensor reads ambient light and adjusts brightness automatically, so you do not need to manually change settings when room lighting shifts throughout the day. At a competitive price with 13,623 reviews and a 4.6-star average, it is the most validated option in this under-a competitive price category by a wide margin. CRI 98 means colors on your desk and documents appear close to their true values, which benefits both creative work and general home office tasks.",
     specs: ["Auto-dimming sensor", "Touch control", "CRI 98", "900 Lux", "No screen glare", "USB powered"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars",
     reviews: "1,188 reviews",
     imageUrl: `${BASE}/quntis-rgb-15inch.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C5JMWZC9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C5JMWZC9?tag=workcocoon-20",
     description:
       "This Quntis bar adds 24 RGB backlight modes to the standard front desk illumination, giving the option of white task lighting or colored ambient effects behind the monitor depending on the situation. It is the most affordable RGB option in this roundup with a meaningful review count. The front light outputs 900 Lux with CRI 95, which provides functional desk illumination alongside the decorative backlight. Touch control cycles through both brightness levels and backlight color modes. Buyers who only want white task lighting should consider the standard Quntis model instead.",
     specs: ["15.7-inch bar", "24 RGB backlight modes", "900 Lux front light", "Touch control", "CRI 95", "USB powered"],
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "971 reviews",
     imageUrl: `${BASE}/quntis-with-backlight.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CKRJZBTX?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CKRJZBTX?tag=workcocoon-20",
     description:
       "The Quntis backlight model combines front task lighting with a rear-facing light that projects onto the wall behind the monitor, creating a bias lighting effect that reduces the contrast between the bright screen and the darker room. The wireless remote controls both front brightness and backlight intensity independently without touching the bar. At a competitive price and 4.7 stars it is the highest-rated option in this roundup. Curved monitor compatibility means it fits both flat and curved panels. Buyers who want bias lighting at the top end of the under-a competitive price budget will find this the most practical option.",
     specs: ["Front and backlight", "Wireless remote", "84 LEDs", "CRI 95", "3 lighting modes", "Curved monitor compatible"],
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "286 reviews",
     imageUrl: `${BASE}/yeelight-light-bar.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DRG3WXB3?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DRG3WXB3?tag=workcocoon-20",
     description:
       "The YEELIGHT bar offers CRI 95 and a full 2700K to 6500K color temperature range at a competitive price, which makes it the best value for accurate desk lighting in this roundup. Stepless dimming allows smooth brightness adjustment rather than fixed brightness steps, giving more precise control over lighting levels. The RG0 blue light safety certification indicates reduced blue light output compared to uncertified bars, which is relevant for buyers sensitive to blue light during long work sessions. At 286 reviews it is less validated than the main Quntis model, but the 4.6-star rating is consistent.",
     specs: ["CRI 95", "78 LEDs", "Stepless dimming", "2700K-6500K", "RG0 blue light safety", "Touch control"],
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars",
     reviews: "208 reviews",
     imageUrl: `${BASE}/quntis-with-remote.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CLNGTPLW?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CLNGTPLW?tag=workcocoon-20",
     description:
       "The Quntis remote model adds a wireless remote to the standard Quntis feature set, allowing brightness and color temperature changes from across the desk without touching the bar. Auto-dimming provides automatic adjustment when ambient light changes, and the 84 LED count delivers even illumination across the bar length. A night light mode reduces output to a very low level suitable for late-night use without full desk brightness, and a 2-hour timer allows automatic shut-off. It is the most affordable wireless remote option in this category.",
     specs: ["Wireless remote", "84 LEDs", "Auto-dimming", "CRI 95", "Night light mode", "2-hour timer"],
@@ -172,7 +172,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars",
     reviews: "165 reviews",
     imageUrl: `${BASE}/lymax-light-bar.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B098SWWGJB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B098SWWGJB?tag=workcocoon-20",
     description:
       "The LYMAX bar uses a gravity damper clip that self-adjusts to different monitor thicknesses without requiring manual tightening, which simplifies installation compared to bars with fixed clip mechanisms. USB-C power input works with a wider range of desk power sources than USB-A only bars. Three auto dimming modes let the sensor switch between preset brightness levels based on ambient light rather than continuously adjusting, which some buyers prefer for its more predictable behavior. At a competitive price with 165 reviews it is a newer option with less buyer history than the Quntis alternatives.",
     specs: ["USB-C powered", "3 auto dimming modes", "2900K-6000K", "60 LEDs", "Gravity damper clip", "Touch control"],
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars",
     reviews: "125 reviews",
     imageUrl: `${BASE}/lymax-with-remote.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09PQKBFRS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09PQKBFRS?tag=workcocoon-20",
     description:
       "The LYMAX remote model adds a wireless remote and a backlight feature to the standard LYMAX bar, giving it a similar feature profile to the Quntis backlight model at a slightly lower price. CRI 95 covers most practical lighting accuracy needs, and the 4 color modes include warm, neutral, cool, and a custom setting.\n\nAt 125 reviews it has less buyer history than the Quntis alternatives, but the 4.6-star rating is consistent with others in the roundup. Buyers who specifically want a LYMAX bar with remote and backlight will find this the only option in the lineup that combines both features.",
     specs: ["Wireless remote", "Backlight feature", "4 color modes", "CRI 95", "USB-C powered"],
@@ -226,7 +226,7 @@ export const products: GuideProduct[] = [
     rating: "4.1 stars",
     reviews: "82 reviews",
     imageUrl: `${BASE}/samphon-rgb.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G4ZYSP7J?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G4ZYSP7J?tag=workcocoon-20",
     description:
       "The SAMPHON bar is a dual-light design that includes both front desk illumination and rear RGB effects in a single unit at a competitive price, making it the only budget-tier option in this roundup with both lighting functions. Nine RGB backlight modes and three white color temperatures cover basic lighting needs for budget gaming and home office setups. At 82 reviews and a 4.1-star rating it is the least validated option in this roundup, which reflects its low price point and newer release. USB-C power input supports both curved and flat monitor use. Buyers who need reliable long-term performance should consider the Quntis or YEELIGHT options instead.",
     specs: ["Dual light design", "9 RGB backlight modes", "3 color temperatures", "USB-C powered", "Curved and flat monitors"],

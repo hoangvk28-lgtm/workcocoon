@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.3 stars from Amazon ratings",
     reviews: "2,617 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41GmNtILiJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MEDE9WO?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MEDE9WO?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick in this guide, this holder is purpose-built for standard upright tower dimensions with an adjustable width range that fits most vertical mid-tower cases without needing a separate bracket.\n\nAs with our broader pillar guide's findings, verify your specific tower's loaded weight against the rated capacity, and check that your case orientation faces rear ports in a reachable direction once mounted vertically.\n\nWorth calling out specifically: adjustable width covers most standard upright mid-towers. The catch is verify loaded tower weight against rated capacity per our pillar guide's findings.",
     specs: ["Vertical tower orientation", "Adjustable width fit", "Budget price", "Massive review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "222 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31t8nBX+HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DBB2W47P?tag=workcocoon-20",
     description:
       "A 66-pound rated capacity with adjustable width and secure locking, purpose-built for a heavier vertical tower rather than the horizontal-orientation designs covered in our separate horizontal mount guide.\n\nThe locking mechanism adds real resistance against incidental bumps, a genuine benefit for a vertical holder positioned where a knee or foot commonly makes accidental contact during normal desk use.\n\nSecure locking adds real bump resistance. Set against that, higher price than the most basic holders. Both matter when comparing it to the other picks here.",
     specs: ["Vertical tower orientation, up to 66 lbs", "Secure locking mechanism", "Adjustable width", "Mid-range price"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "78 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/411DK8AbQ1L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C98RW5D7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C98RW5D7?tag=workcocoon-20",
     description:
       "A fixed-width 17-inch design purpose-built for small form factor vertical towers, appropriate for buyers wanting a holder specifically sized rather than a general adjustable range that may fit loosely on a smaller case.\n\nFixed-width compatibility is more restrictive than an adjustable design, verify your case's exact height and width fall within this holder's dimensions before ordering, since it won't accommodate a full-tower case.\n\nA genuine advantage here is that solid 4.2-star rating across a meaningful review base. The tradeoff is fixed width is more restrictive than an adjustable design, verify exact case dimensions first.",
     specs: ["Fixed 17-inch design", "Small form factor specific", "Solid review base", "Mid-range price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.8 stars from Amazon ratings",
     reviews: "49 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41uzdCGRrbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G6YWLKQH?tag=workcocoon-20",
     description:
       "The highest average rating in this guide, this height-adjustable vertical tower holder carries a 66-pound capacity in a compact footprint, appropriate for buyers wanting the strongest available rating on a standard upright tower.\n\nHeight adjustment lets you position the tower to minimize accidental knee or foot contact during normal desk use, a genuine bump-resistance consideration worth using deliberately rather than mounting at a fixed default height.\n\nHeight adjustment allows positioning to reduce bump exposure. On the other hand, smaller review base limits confidence versus the top two picks. Neither should be a surprise once you know to look for it.",
     specs: ["Height adjustable, up to 66 lbs", "Highest average rating", "Compact vertical footprint", "Mid-range price"],

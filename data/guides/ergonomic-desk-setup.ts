@@ -37,7 +37,7 @@ export const products: ErgoProduct[] = [
     priceRange: "$25–30",
     score: 8.8,
     imageUrl: `${BASE}/01-monitor-riser-with-storage-shelf.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B07H4DMLVH?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07H4DMLVH?tag=workcocoon-20",
     pros: [
       "3 adjustable heights (3.9\", 4.7\", 5.5\") -- covers most monitor gaps",
       "Storage space underneath for keyboard, accessories",
@@ -60,7 +60,7 @@ export const products: ErgoProduct[] = [
     priceRange: "$38–50",
     score: 8.7,
     imageUrl: `${BASE}/02-dual-monitor-articulating-arm.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B009S750LA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B009S750LA?tag=workcocoon-20",
     pros: [
       "Infinite height + tilt + depth adjustment for both screens",
       "Clears full desk surface beneath monitors",
@@ -83,7 +83,7 @@ export const products: ErgoProduct[] = [
     priceRange: "$25–32",
     score: 9.1,
     imageUrl: `${BASE}/03-foldable-aluminum-laptop-stand.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08M94BTYC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08M94BTYC?tag=workcocoon-20",
     pros: [
       "6 height positions -- brings screen to monitor level",
       "Folds flat in seconds, portable and lightweight",
@@ -106,7 +106,7 @@ export const products: ErgoProduct[] = [
     priceRange: "$30–40",
     score: 9.0,
     imageUrl: `${BASE}/04-memory-foam-footrest.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08DHMMBFF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DHMMBFF?tag=workcocoon-20",
     pros: [
       "Corrects dangling feet at any fixed-height desk",
       "Adjustable angle (15° to 30°) for different height gaps",
@@ -129,7 +129,7 @@ export const products: ErgoProduct[] = [
     priceRange: "$40–55",
     score: 9.1,
     imageUrl: `${BASE}/05-desk-mat-35x17.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0CQBWJK61?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CQBWJK61?tag=workcocoon-20",
     pros: [
       "Physically defines the keyboard + mouse zone -- enforces correct side-by-side positioning",
       "Felt surface cushions wrists during rest between typing",
@@ -152,7 +152,7 @@ export const products: ErgoProduct[] = [
     priceRange: "$35–45",
     score: 9.0,
     imageUrl: `${BASE}/06-monitor-light-bar.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08DKQ3JG1?tag=workcocoon-20",
     pros: [
       "Asymmetric lens lights the desk without reflecting on the screen",
       "Zero desk footprint -- clips directly on monitor top",
@@ -175,7 +175,7 @@ export const products: ErgoProduct[] = [
     priceRange: "$100–115",
     score: 9.3,
     imageUrl: `${BASE}/07-wide-angle-desk-lamp-auto-dimming.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B06Y1VF9GV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B06Y1VF9GV?tag=workcocoon-20",
     pros: [
       "Built-in ambient light sensor auto-dims to match room brightness",
       "35\" wide beam covers full desk without hot spots",

@@ -45,7 +45,7 @@ export const hubs: UsbHub[] = [
     ports: "7 data + 1 BC 1.2 charging",
     powerSupply: "36W AC adapter",
     switches: false,
-    amazonUrl: "https://www.amazon.com/dp/B014ZQ07NE?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B014ZQ07NE?tag=workcocoon-20",
     imageUrl: `${B}/1-anker-7-port-powered-hub.webp`,
     pros: [
       "Powered via 36W AC adapter -- consistent under full 7-device load",
@@ -79,7 +79,7 @@ export const hubs: UsbHub[] = [
     ports: "7 data + 3 smart charging",
     powerSupply: "60W AC adapter",
     switches: true,
-    amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=workcocoon-20",
     imageUrl: `${B}/2-sabrent-10-port-plus-charging.webp`,
     pros: [
       "10 ports: 7 USB 3.0 data + 3 smart charging (auto-detects optimal amperage)",
@@ -112,7 +112,7 @@ export const hubs: UsbHub[] = [
     ports: "4x USB-C + 3x USB-A",
     powerSupply: "20W USB-C PD",
     switches: true,
-    amazonUrl: "https://www.amazon.com/dp/B0CXZ448XL?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CXZ448XL?tag=workcocoon-20",
     imageUrl: `${B}/3-sabrent-7-port-usb-c.webp`,
     pros: [
       "4x USB-C + 3x USB-A -- accommodates both port types from one hub",
@@ -146,7 +146,7 @@ export const hubs: UsbHub[] = [
     ports: "7 data (all with switches)",
     powerSupply: "12V/4A AC adapter",
     switches: true,
-    amazonUrl: "https://www.amazon.com/dp/B01N24BDQ9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01N24BDQ9?tag=workcocoon-20",
     imageUrl: `${B}/4-sabrent-7-port-led-switches.webp`,
     pros: [
       "7 ports with individual LED-lit power switches",
@@ -180,7 +180,7 @@ export const hubs: UsbHub[] = [
     ports: "2x USB-A + 2x USB-C",
     powerSupply: "Draws from host (partial)",
     switches: false,
-    amazonUrl: "https://www.amazon.com/dp/B08JGJ7Q3T?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08JGJ7Q3T?tag=workcocoon-20",
     imageUrl: `${B}/5-grommet-desk-fit-hub.webp`,
     pros: [
       "Fits through a standard 60mm desk grommet hole -- zero desk surface footprint",
@@ -214,7 +214,7 @@ export const hubs: UsbHub[] = [
     ports: "7 data + 3 PowerIQ charging",
     powerSupply: "60W AC adapter",
     switches: false,
-    amazonUrl: "https://www.amazon.com/dp/B00VDVCQ84?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00VDVCQ84?tag=workcocoon-20",
     imageUrl: `${B}/6-anker-10-port-60w-hub.webp`,
     pros: [
       "10 ports: 7 USB 3.0 data + 3 PowerIQ charging",
@@ -247,7 +247,7 @@ export const hubs: UsbHub[] = [
     ports: "4 data (all with switches)",
     powerSupply: "None (draws from laptop)",
     switches: true,
-    amazonUrl: "https://www.amazon.com/dp/B071G83CNN?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B071G83CNN?tag=workcocoon-20",
     imageUrl: `${B}/7-anker-4-port-compact.webp`,
     pros: [
       "Individual power switches on all 4 ports -- unusual at this price point",
@@ -281,7 +281,7 @@ export const hubs: UsbHub[] = [
     ports: "4 data",
     powerSupply: "None (draws from laptop)",
     switches: false,
-    amazonUrl: "https://www.amazon.com/dp/B08LV1Z5C5?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08LV1Z5C5?tag=workcocoon-20",
     imageUrl: `${B}/8-4-port-portable-3.3ft-cable.webp`,
     pros: [
       "3.3ft cable -- hub can sit anywhere on or below the desk",

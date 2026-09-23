@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A combined HEPA and odor-filtration design with an air quality monitor, a large review base backing it as a proven pick for an office with both toner particulate and general odor.\n\nLaser printers genuinely emit trace ozone during operation, this unit's mechanical filtration approach addresses particulate and odor without adding any additional ozone-generating technology to the room.\n\nAir quality monitor for real-time feedback. On the other hand, higher price than budget alternatives. Both are worth keeping in mind before deciding.",
     specs: ["HEPA filtration plus odor-control layer", "Air quality monitor, filter indicator", "3-year warranty", "Large review base"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 31,954 Amazon ratings",
     reviews: "31,954 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41Wb8TGSnPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DT4F8T4L?tag=workcocoon-20",
     description:
       "PlasmaWave technology adds a genuine odor-neutralizing layer beyond mechanical carbon filtration alone, meaningful for VOCs from ink and adhesives beyond just toner particulate.\n\nToner particulate and VOCs from ink and adhesives are the other real office-odor sources beyond the printer itself, this unit's added layer targets that gas-phase component specifically.\n\nA genuine advantage here is that large, well-established review base. The tradeoff is that higher price than budget alternatives.",
     specs: ["PlasmaWave odor-neutralizing technology", "Large, established review base", "True HEPA filtration", "Multi-stage filtration"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 108,251 Amazon ratings",
     reviews: "108,251 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=workcocoon-20",
     description:
       "By far the largest review base of any pick here, a genuinely proven affordable choice for a small office with a single printer and moderate toner odor.\n\nA single-printer office with moderate use is a reasonable fit here, a shared print room with multiple heavy-duty printers likely needs one of the deeper-carbon picks in this guide instead.\n\nCertified True HEPA H13 filtration for toner particulate. That said, standard carbon layer, not the deepest for heavy printer use. Neither should be a surprise once you know to look for it.",
     specs: ["True HEPA H13 plus basic carbon layer", "24dB quoted noise level", "Largest review base in this guide", "Affordable price"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 63,485 Amazon ratings",
     reviews: "63,485 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/316AtkHoSdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B004VGIGVY?tag=workcocoon-20",
     description:
       "A large, well-established review base at a low price, a compact option suitable for placement near a desk-adjacent printer in a home office setup.\n\nPlacement close to the printer itself genuinely helps capture toner particulate and trace ozone before it disperses through the whole room.\n\nWorth calling out specifically: compact footprint fits near a desk-adjacent printer. The catch is not intended for heavy multi-printer use.",
     specs: ["True HEPA filtration", "Large review base", "Compact design", "Budget-friendly"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Rated up to 1875 sq ft with smart app control, genuine headroom for a shared print room or larger office space with multiple printers running throughout the day.\n\nMultiple printers running together compound both toner particulate and trace ozone beyond what a single-printer setup produces, this unit's coverage headroom is genuinely suited to that scenario.\n\nSmart app control for monitoring. Set against that, higher price than budget alternatives. Both matter when comparing it to the other picks here.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Extra headroom for multi-printer use"],

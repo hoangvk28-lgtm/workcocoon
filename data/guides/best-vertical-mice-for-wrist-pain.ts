@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "14,970 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07FNJB8TT?tag=workcocoon-20",
     description:
       "A steeper vertical angle designed to reduce both forearm rotation and the sideways ulnar deviation common with a standard flat mouse, which is a genuine, specific strain pattern this design targets.\n\nThis product does not diagnose or treat wrist pain and is not a substitute for medical evaluation. If pain is persistent or severe, consult a doctor or physical therapist.\n\nDual connectivity for multiple devices. Set against that, does not address wrist pain from causes unrelated to grip angle. Both matter when comparing it to the other picks here.",
     specs: ["Steeper, disclosed tilt angle", "Dual 2.4GHz and Bluetooth", "Rechargeable battery", "Premium build"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "13,635 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31nb5ALnDvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09J1TB35S?tag=workcocoon-20",
     description:
       "A more compact body with a gentler tilt, which reduces ulnar deviation and forearm rotation to a degree while easing the adjustment period for buyers new to the vertical grip.\n\nButton layout is a genuine consideration for wrist strain from repetitive clicking, and this model's compact design keeps buttons within a natural reach rather than requiring an overextended grip.\n\nThe standout detail is that gentler angle may ease the adjustment period. Balancing that out, less pronounced angle means a smaller reduction in ulnar deviation than steeper designs.",
     specs: ["Gentler, disclosed tilt angle", "Compact body", "Dual 2.4GHz and Bluetooth", "Rechargeable battery"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "15,431 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31rCoH07kzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B07BFCVJZC?tag=workcocoon-20",
     description:
       "A budget option offering the same general reduction in ulnar deviation and forearm rotation as pricier picks, at a much lower cost, with a mid-size body that fits a broad range of hands.\n\nAs with any vertical mouse, this addresses specific strain mechanisms rather than wrist pain broadly, and ongoing or worsening pain deserves a conversation with a medical professional.\n\nRechargeable battery. That's a real strength, but weigh it against the flip side: does not address wrist pain unrelated to grip angle.",
     specs: ["Mid-range tilt angle", "Rechargeable built-in battery", "2.4GHz wireless receiver", "Budget price point"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.2 stars from Amazon ratings",
     reviews: "53,313 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BIFNTMC?tag=workcocoon-20",
     description:
       "The largest review base among the picks in this guide at the lowest price, offering a low-risk way to test whether reduced ulnar deviation changes how your wrist feels during long work sessions.\n\nThis is a general consumer product, not a medical device, and does not diagnose or treat wrist pain. Persistent or worsening pain should be evaluated by a doctor or physical therapist.\n\nLargest review base in this guide. On the other hand, right-hand only. Both are worth keeping in mind before deciding.",
     specs: ["Moderate tilt angle", "Right-hand specific design", "2.4GHz wireless receiver", "AA battery powered"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "2,295 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31o5C5jFQAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00427TAIK?tag=workcocoon-20",
     description:
       "A long-established, fixed vertical angle reducing both ulnar deviation and forearm rotation, wired rather than wireless, which eliminates battery weight for a lighter feel across long work sessions.\n\nThis product does not diagnose or treat wrist pain and is not a substitute for medical evaluation. If pain is persistent or severe, consult a doctor or physical therapist.\n\nA genuine advantage here is that no battery weight, a genuine ergonomic upside. The tradeoff is that does not address wrist pain from causes unrelated to grip angle.",
     specs: ["Fixed, well-documented tilt angle", "Wired USB connection", "No battery, lighter body", "Premium price point"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "5,670 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31PGrLfkUxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CX18LHWS?tag=workcocoon-20",
     description:
       "A compact, rechargeable body reducing ulnar deviation and forearm rotation at a budget-to-mid price, suited to average or smaller hands that find the premium picks oversized.\n\nAs with any vertical mouse, this addresses specific strain mechanisms rather than wrist pain broadly, and ongoing or worsening pain deserves professional evaluation.\n\nRechargeable battery avoids AA bulk. That said, does not address wrist pain unrelated to grip angle. Neither should be a surprise once you know to look for it.",
     specs: ["Compact ergonomic body", "Rechargeable built-in battery", "2.4GHz wireless dongle", "Budget-to-mid price point"],
@@ -131,7 +131,7 @@ export const products: GuideProduct[] = [
     rating: "4.4 stars from Amazon ratings",
     reviews: "3,694 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31vAjZuq+pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CMC1F5WB?tag=workcocoon-20",
     description:
       "A low-cost wired option reducing ulnar deviation through its vertical shape, with adjustable DPI and no battery weight to add to the grip, at a much lower price than the premium wired pick.\n\nAs with every pick here, this is a general consumer product, not a medical device, and does not diagnose or treat wrist pain.\n\nWorth calling out specifically: no battery weight. The catch is does not address wrist pain unrelated to grip angle.",
     specs: ["Wired USB connection", "6400 DPI adjustable sensor", "Ergonomic vertical design", "Budget price point"],
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from Amazon ratings",
     reviews: "57 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31ttLEqu0hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GNMPGM7G?tag=workcocoon-20",
     description:
       "Explicitly sized for small to medium hands with a disclosed 57-degree tilt, relevant to buyers whose hands are smaller than the average this category is usually designed around.\n\nThe review base is small, so weigh the very strong 4.7-star rating against the limited sample size, and remember this addresses ulnar deviation and rotation specifically, not wrist pain broadly.\n\nVery strong review rating. Set against that, small review sample size, verify current feedback. Both matter when comparing it to the other picks here.",
     specs: ["Explicit small/medium hand sizing", "57-degree tilt angle", "Wireless connectivity", "Budget price point"],

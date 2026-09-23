@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GLD9K9LF?tag=workcocoon-20",
     description:
       "The HP DeskJet 4355 covers print, scan, and copy for at a budget-friendly price, with a 3-month Instant Ink trial that softens the usual cartridge cost for new owners. It's the lowest upfront cost in this list, making it a reasonable pick for genuinely light, occasional home printing. Because it's a standard cartridge inkjet rather than an ink-tank model, infrequent use is the one thing to plan around: cartridges left idle for 2-4 weeks can dry out, triggering wasted cleaning cycles. Households that print a handful of pages a month should budget for that when comparing it against a pricier ink-tank printer. Instant Ink trial reduces initial cartridge spend. That's a real strength, but weigh it against the flip side: standard cartridges can dry out with infrequent use.",
     specs: [
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09CDXKNB9?tag=workcocoon-20",
     description:
       "The PIXMA TR4720 pairs its price with an auto document feeder and built-in fax, features usually reserved for pricier office printers. That combination suits households that occasionally scan or fax multi-page documents, like signed forms or school paperwork, without adding a separate machine.\n\nAs a standard inkjet, it shares the same idle-ink consideration as any cartridge printer: expect 1-2 wasted cartridges a year from auto-cleaning cycles if it sits unused for weeks at a time between print jobs.\n\nWorth calling out specifically: built-in fax, useful for households that still need it. The catch is fax is a feature most households in 2026 won't use.",
     specs: [
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21igSrZPOwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBGXC2C?tag=workcocoon-20",
     description:
       "The PIXMA TS4320 is built around a compact footprint, aimed at homes without a dedicated office nook. Duplex printing lets it handle double-sided pages without manual flipping, a small time saver for anyone printing school assignments or forms.\n\nAt this price point it's a light-duty inkjet, best suited to households printing under roughly 20 pages a month. Higher-volume printing will wear on ink costs faster than an ink-tank model built for that kind of use.\n\nDuplex printing saves paper and time. Set against that, best suited to lighter print volumes. Both matter when comparing it to the other picks here.",
     specs: [
@@ -145,7 +145,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/21U5jLy1DeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0FMBTJLX6?tag=workcocoon-20",
     description:
       "The PIXMA TS6520 steps up with a 1.42-inch OLED display and a more intuitive control panel, useful for households where more than one person uses the printer and needs a quick, legible menu rather than guessing at cryptic icons. Duplex printing and a compact design carry over from the rest of the PIXMA lineup.\n\nIt remains a standard cartridge inkjet, so the same volume and idle-ink math applies: it's most cost-effective for households printing well under 100 pages a month rather than heavy daily use.\n\nA genuine advantage here is that duplex printing built in. The tradeoff is standard cartridges, not an ink-tank system.",
     specs: [
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CPLFTPCV?tag=workcocoon-20",
     description:
       "As the only laser printer in this list, the Brother DCP-L2640DW is built for households that print mostly black-and-white text, homework, forms, shipping labels, at higher volume than an inkjet handles economically. Toner doesn't dry out sitting idle the way inkjet cartridges do, removing the idle-ink cost that affects every other pick here. Duplex printing and a mobile-ready design round it out, plus a refresh subscription trial for toner. The higher a competitive price upfront price only pays off if your household prints enough pages a month to offset it against a cheaper inkjet's higher per-page cost. Lower cost per page at higher print volumes. That's a real strength, but weigh it against the flip side: highest upfront price in this list.",
     specs: [
@@ -209,7 +209,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/418KMpgzGBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=workcocoon-20",
     description:
       "The OfficeJet Pro 8125e is built for households closer to regular, frequent home printing rather than occasional use, with an auto document feeder, duplex printing, and a 3-month Instant Ink trial to soften early cartridge costs. Its higher-capacity cartridges hold up better against print jobs spread across a busy week.\n\nBecause it's marketed for frequent use, idle-ink drying is less of a concern here than on the budget picks, though the total cost of ownership over 3-5 years still depends heavily on your actual monthly volume relative to the cartridge cost.\n\nWorth calling out specifically: auto document feeder for multi-page jobs. The catch is pricier than the basic PIXMA and DeskJet picks.",
     specs: [
@@ -241,7 +241,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/41MuruhvCqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0GPFHCYK7?tag=workcocoon-20",
     description:
       "The standard OfficeJet Pro 8125 shares the 8125e's auto document feeder and duplex printing at a slightly higher price, without the e in the name tying it to HP's specific Instant Ink enrollment defaults. That gives buyers who want the same hardware but more control over their ink subscription choice a cleaner option.\n\nLike its sibling, it's aimed at households printing regularly enough that its higher-capacity cartridges make sense against a cheaper but smaller-cartridge inkjet.\n\nAuto document feeder and duplex printing. Set against that, highest price among the general-purpose inkjets here. Both matter when comparing it to the other picks here.",
     specs: [
@@ -273,7 +273,7 @@ export const products: GuideProduct[] = [
     rating: "New listing",
     reviews: "Not yet rated",
     imageUrl: "https://m.media-amazon.com/images/I/31jXroCi2EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C3L93F2Q?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C3L93F2Q?tag=workcocoon-20",
     description:
       "This is a Bluetooth label maker, not a general-purpose home printer, and it's included here specifically as a specialty labeling pick rather than a substitute for any of the printers above. It's genuinely useful for organizing pantry jars, storage bins, and file folders around the house from a phone app with multiple templates. at a budget-friendly price, it's a low-cost add-on for a household that already owns one of the printers in this list for actual document printing, not a replacement for one. A genuine advantage here is that compact and portable, no desk space required. The tradeoff is cannot print documents, photos, or full pages.",
     specs: [

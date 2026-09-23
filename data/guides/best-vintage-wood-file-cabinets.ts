@@ -38,7 +38,7 @@ export const products: VintageCabinet[] = [
     style: "Vintage Oak",
     rating: "4.0 stars, 1,741 reviews",
     imageUrl: `${BASE}/sauder-palladia-vintage-oak.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B01MR4Q0WA?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01MR4Q0WA?tag=workcocoon-20",
     whyItWorks:
       "The Sauder Palladia is the most-reviewed vintage-style file cabinet in this roundup. The Vintage Oak finish replicates the warm, slightly aged look of natural oak with visible grain variation and a matte, furniture-like surface. It does not look like a shiny office product - it looks like it belongs beside a wood desk in a home library or study. At 1,741 reviews and 4.0 stars, buyers have validated this product at meaningful scale. Sauder is one of the most established names in home office furniture, and their construction at this price tier is generally reliable. The lateral format provides a wide flat top for printer or decor placement.",
     tradeoffs: [
@@ -70,7 +70,7 @@ export const products: VintageCabinet[] = [
     style: "Rustic Brown Farmhouse",
     rating: "4.1 stars, 1,333 reviews",
     imageUrl: `${BASE}/vingli-2-drawer-lock-rustic-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0C8JKCZRR?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0C8JKCZRR?tag=workcocoon-20",
     whyItWorks:
       "The VINGLI at $62.99 is the most affordable pick in this roundup with a meaningful review count. It pairs a rustic brown wood-look finish with a black metal frame - a combination that reads as farmhouse or industrial-rustic. The locking drawers add security, which is uncommon at this price point. With 1,333 reviews at 4.1 stars, buyers have put this through real-world use. It is not a premium product, but for a budget rustic cabinet with a lock, it earns its ranking.",
     tradeoffs: [
@@ -102,7 +102,7 @@ export const products: VintageCabinet[] = [
     style: "Honey Brown Farmhouse",
     rating: "4.0 stars, 1,310 reviews",
     imageUrl: `${BASE}/vasagle-2-drawer-honey-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=workcocoon-20",
     whyItWorks:
       "The VASAGLE combines a honey brown wood-look surface with a black metal frame for a farmhouse aesthetic that pairs well with black-framed desks, industrial-style shelving, and warm-toned home offices. The honey brown finish reads lighter and warmer than rustic brown, making it more versatile for rooms that use light wood tones. With 1,310 reviews at 4.0 stars, it shares similar validation depth with the VINGLI above. VASAGLE is a recognized brand in the home office furniture space.",
     tradeoffs: [
@@ -134,7 +134,7 @@ export const products: VintageCabinet[] = [
     style: "Antique White",
     rating: "Check Amazon",
     imageUrl: `${BASE}/bush-salinas-antique-white.webp`,
-    amazonUrl: "https://www.amazon.com/Bush-Furniture-Salinas-Lateral-Cabinet/dp/B0799BJVZ2/?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/Bush-Furniture-Salinas-Lateral-Cabinet/dp/B0799BJVZ2/?tag=workcocoon-20",
     whyItWorks:
       "The Bush Furniture Salinas in Antique White fills a style gap that none of the other picks cover: a painted, antiqued white finish with decorative hardware that reads as French country or cottage-style furniture. This is a distinctly different look from the warm brown and walnut tones of the other picks. Bush Furniture is a reliable brand with a long track record in home office furniture. Verify current price and review count on Amazon before ordering.",
     tradeoffs: [
@@ -165,7 +165,7 @@ export const products: VintageCabinet[] = [
     style: "Classical Walnut Brown",
     rating: "4.4 stars, 147 reviews",
     imageUrl: `${BASE}/itaar-classical-walnut-brown.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0DPCHWX2F?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0DPCHWX2F?tag=workcocoon-20",
     whyItWorks:
       "The Itaar Classical American-style cabinet brings a walnut brown finish with decorative hardware that references traditional American furniture design. At 4.4 stars, it holds the highest rating in this roundup, though the 147-review count means this rating could shift with more buyer volume. The Classical American style positions it between full vintage and contemporary. It works in traditional home offices, rustic farmhouse setups, and beside mid-century or dark wood desks.",
     tradeoffs: [
@@ -199,7 +199,7 @@ export const backupProducts: VintageCabinet[] = [
     style: "Mid-Century Walnut",
     rating: "4.3 stars, 32 reviews",
     imageUrl: `${BASE}/modernmate-4-drawer-mid-century-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0F29HRN9M?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0F29HRN9M?tag=workcocoon-20",
     whyItWorks:
       "The ModernMate stands out for one feature none of the other picks offer: a built-in power strip integrated into the cabinet unit. If you need a 4-drawer file cabinet with the ability to charge devices nearby, this is the only pick in this list that addresses that use case. The mid-century walnut finish is clean and modern. However, 32 reviews is too low a sample to recommend this as a primary pick.",
     tradeoffs: [
@@ -230,7 +230,7 @@ export const backupProducts: VintageCabinet[] = [
     style: "Classic Dark Walnut",
     rating: "4.3 stars, 8 reviews",
     imageUrl: `${BASE}/tribesigns-4-drawer-dark-walnut.webp`,
-    amazonUrl: "https://www.amazon.com/dp/B0G23FCHMG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0G23FCHMG?tag=workcocoon-20",
     whyItWorks:
       "The Tribesigns 4-drawer cabinet in Classic Dark Walnut offers a tall, stately vertical format with a dark walnut finish. Eight reviews is far too few to recommend with confidence. Include only as a reference for buyers who specifically need a 4-drawer dark walnut vertical cabinet and understand the limited review data.",
     tradeoffs: [

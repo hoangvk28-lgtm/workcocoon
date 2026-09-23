@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 11,367 Amazon ratings",
     reviews: "11,367 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/415AbiHqgpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNDM2RNG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BNDM2RNG?tag=workcocoon-20",
     description:
       "Explicitly features a washable pre-filter alongside the main filtration stage, genuinely reducing how quickly the main filter loads with large debris like pet hair. Solid, well-established review base.\n\nThe washable component captures larger particles only, the main HEPA filter itself still requires periodic replacement, this reduces some cost, it doesn't eliminate ongoing filter expense entirely.\n\nThe standout detail is that solid, well-established review base. Balancing that out, main HEPA filter still requires periodic replacement.",
     specs: ["Washable pre-filter, main HEPA filter", "Up to 1073 sq ft rated", "Solid review base", "Pet-focused design"],
@@ -46,7 +46,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B00BTKAPUU?tag=workcocoon-20",
     description:
       "A filter indicator genuinely helps track replacement timing for the non-washable main filter stage, even if the pre-filter component here is washable. Large review base, 3-year warranty.\n\nVerify which specific stage is washable on this listing (typically just a pre-filter) versus which still requires disposable replacement, don't assume the whole filtration system is washable.\n\nLarge, well-established review base. That's a real strength, but weigh it against the flip side: verify which specific stage is washable vs. disposable.",
     specs: ["Filter indicator, HEPA filter", "Up to 1748 sq ft rated (open room)", "3-year warranty", "Large review base"],
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     rating: "4.6 stars from 28,866 Amazon ratings",
     reviews: "28,866 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31pCHKKqN2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B01728NLRG?tag=workcocoon-20",
     description:
       "The same proven design with a filter indicator in a white finish, appropriate for a lighter aesthetic while keeping the same maintenance tracking capability. Same 3-year warranty.\n\nSame washable-component verification applies, understand which specific stage is washable before assuming full-system washability.\n\n3-year warranty. On the other hand, verify which specific stage is washable vs. disposable. Both are worth keeping in mind before deciding.",
     specs: ["Filter indicator, HEPA filter", "Up to 1748 sq ft rated (open room)", "3-year warranty", "White finish"],
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     rating: "4.5 stars from 10,110 Amazon ratings",
     reviews: "10,110 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/31CcBFzC6wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B08ND7C7P4?tag=workcocoon-20",
     description:
       "A genuinely more affordable option with a solid review base, verify whether this specific listing includes a washable pre-filter component before assuming this feature.\n\nAt this budget tier, don't assume 'washable filter' claims eliminate all ongoing filter cost, the main filtration stage typically still requires periodic disposable replacement.\n\nA genuine advantage here is that solid review base. The tradeoff is that verify washable component presence on this specific listing.",
     specs: ["HEPA filtration (verify washable component)", "Solid review base", "Budget-friendly", "Compact design"],
@@ -97,7 +97,7 @@ export const products: GuideProduct[] = [
     rating: "4.7 stars from 14,571 Amazon ratings",
     reviews: "14,571 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=deskfinds0d-20",
+    amazonUrl: "https://www.amazon.com/dp/B0BGPF71Q6?tag=workcocoon-20",
     description:
       "Smart app control with large rated coverage, genuinely useful for monitoring the non-washable main filter's replacement timing separately from any washable pre-filter component. Large review base.\n\nVerify manufacturer-specific cleaning-method restrictions for any washable component, some void warranty coverage if cleaned with anything beyond plain water.\n\nLarge rated coverage. That said, verify washable component and cleaning-method restrictions. Neither should be a surprise once you know to look for it.",
     specs: ["Up to 1875 sq ft rated (open room)", "Smart app control", "Large review base", "Higher capacity design"],
