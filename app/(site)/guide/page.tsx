@@ -6,6 +6,7 @@ import { buildMetadata } from "@/lib/seo";
 import { getPublicGuides } from "@/lib/public-guides";
 import { formatDate } from "@/lib/utils";
 import { categories } from "@/data/categories";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 
 export const revalidate = 604800;
 
@@ -19,11 +20,11 @@ export const metadata: Metadata = buildMetadata({
 const LATEST_COUNT = 40;
 const PER_CATEGORY = 4;
 
-function GuideCard({ guide, priority = false }: { guide: { slug: string; title: string; description: string; heroImage?: string; thumbnailImage?: string; subcategorySlug: string; readTime: string; lastUpdated: string; recommendedProductIds: string[] }; priority?: boolean }) {
+function GuideCard({ guide, priority = false }: { guide: { slug: string; title: string; description: string; heroImage?: string; thumbnailImage?: string; categorySlug: string; subcategorySlug: string; readTime: string; lastUpdated: string; recommendedProductIds: string[] }; priority?: boolean }) {
   const thumb = guide.thumbnailImage || guide.heroImage;
   return (
     <Link prefetch={false}
-      href={`/guide/${guide.slug}`}
+      href={canonicalGuideHref(guide)}
       className="group flex flex-col bg-white rounded-card border border-border hover:shadow-card-hover hover:border-brand/20 transition-all overflow-hidden"
     >
       {thumb ? (

@@ -4,6 +4,7 @@ import { Container } from "@/components/layout/Container";
 import { buildMetadata } from "@/lib/seo";
 import { getPublicGuides } from "@/lib/public-guides";
 import { categories } from "@/data/categories";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 
 export const revalidate = 604800;
 
@@ -72,7 +73,7 @@ export default async function AllGuidesPage() {
               {catGuides.map((guide) => (
                 <li key={guide.slug}>
                   <Link prefetch={false}
-                    href={`/guide/${guide.slug}`}
+                    href={canonicalGuideHref(guide)}
                     className="group flex items-baseline gap-2 py-1.5 border-b border-border/60 hover:border-brand/40 transition-colors"
                   >
                     <span className="text-sm text-ink group-hover:text-brand transition-colors leading-snug">
@@ -92,7 +93,7 @@ export default async function AllGuidesPage() {
             <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-2">
               {uncategorised.map((guide) => (
                 <li key={guide.slug}>
-                  <Link prefetch={false} href={`/guide/${guide.slug}`}
+                  <Link prefetch={false} href={canonicalGuideHref(guide)}
                     className="group flex items-baseline gap-2 py-1.5 border-b border-border/60 hover:border-brand/40 transition-colors">
                     <span className="text-sm text-ink group-hover:text-brand transition-colors leading-snug">{guide.title}</span>
                     <span className="text-xs text-ink-muted shrink-0 ml-auto">{guide.readTime}</span>

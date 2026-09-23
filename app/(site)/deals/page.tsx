@@ -7,6 +7,7 @@ import { buildMetadata } from "@/lib/seo";
 import { getPublicProducts } from "@/lib/public-products";
 import { getPublicDeals } from "@/lib/public-deals";
 import { getFeaturedPublicGuides } from "@/lib/public-guides";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 import { amazonSearchLinks } from "@/lib/amazon-links";
 
 const exploreChips = [
@@ -225,7 +226,7 @@ export default async function DealsPage() {
             {featuredGuides.map((guide) => (
               <Link prefetch={false}
                 key={guide.slug}
-                href={`/guide/${guide.slug}`}
+                href={canonicalGuideHref(guide)}
                 className="group flex flex-col gap-2 p-4 rounded-card border border-border bg-white hover:border-brand/40 hover:shadow-sm transition-all"
               >
                 <div className="flex items-start justify-between gap-2">

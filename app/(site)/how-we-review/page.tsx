@@ -4,6 +4,7 @@ import { Container } from "@/components/layout/Container";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { guides } from "@/data/guides";
 import { categories } from "@/data/categories";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 
 export const metadata: Metadata = buildMetadata({
   title: "How We Review and Compare Products",
@@ -282,7 +283,7 @@ export default function HowWeReviewPage() {
             {guides.map((guide) => (
               <Link prefetch={false}
                 key={guide.slug}
-                href={`/guide/${guide.slug}`}
+                href={canonicalGuideHref(guide)}
                 className="px-3 py-1.5 rounded-full border border-border bg-white text-sm text-ink-secondary hover:border-brand hover:text-brand transition-colors"
               >
                 {guide.title}

@@ -81,6 +81,18 @@ export const MIGRATED_CATEGORY_TO_SILO: Record<string, string> = {
   // and the new /desk-setup silo cover materially the same content (monitor
   // arms, keyboards, cable management, docking); genuinely 1:1.
   "desk-setup": "desk-setup",
+  // "monitors" matchSlugs (4k-monitors, gaming-monitors, displays, usb-c-monitors,
+  // monitor-stands, portable-monitors, monitor-arms, monitor-privacy-screens,
+  // under-monitor-storage-shelves) are already a full subset of the desk-setup
+  // silo's own migrated subcategories — genuinely 1:1, same audience/intent.
+  monitors: "desk-setup",
+  // NOTE: "accessories" is NOT mapped — its matchSlugs mix desk-setup-relevant
+  // items (keyboards, webcams, docking-stations, cable-management, etc.) with
+  // generic office supplies that have no silo equivalent (bookends, tape
+  // dispensers, mug warmers, business-card/ID-badge holders, paper trays).
+  // Guides in the desk-setup-relevant subset already resolve to their /desk-setup
+  // URL individually via siloForGuide/canonicalGuideHref; the hub itself stays at
+  // /categories/accessories until/unless the non-brand items are pruned.
   // NOTE: "small-room-storage" (old: under-bed storage, bed frames, bookshelves,
   // nightstands, shoe racks, closet organizers — bedroom storage) is NOT mapped
   // to "work-better" (new: ergonomics, focus, productivity habits) even though
@@ -93,6 +105,17 @@ export const MIGRATED_CATEGORY_TO_SILO: Record<string, string> = {
 
 export function siloForGuide(categorySlug: string, subcategorySlug: string): string | undefined {
   return MIGRATED_GUIDE_SLUGS_TO_SILO[subcategorySlug] ?? MIGRATED_GUIDE_SLUGS_TO_SILO[categorySlug];
+}
+
+// The URL a guide link should point to right now — its migrated silo path if
+// its category/subcategory has one, otherwise the legacy /guide/<slug> path.
+// Listing components (category hubs, silo hubs, related-guides, etc.) should
+// build hrefs from this instead of hardcoding `/guide/${slug}`, so links don't
+// force visitors through an extra redirect hop to a URL that's about to move
+// out from under them.
+export function canonicalGuideHref(guide: { slug: string; categorySlug: string; subcategorySlug: string }): string {
+  const silo = siloForGuide(guide.categorySlug, guide.subcategorySlug);
+  return silo ? `/${silo}/${guide.slug}` : `/guide/${guide.slug}`;
 }
 
 // Slugs that have a hand-authored static route at app/(site)/guide/<slug>/page.tsx

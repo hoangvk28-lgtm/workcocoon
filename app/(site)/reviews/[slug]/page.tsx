@@ -16,6 +16,7 @@ import { products } from "@/data/products";
 import { getPublicProducts, getPublicProductBySlug, getPublicProductSlugs } from "@/lib/public-products";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { formatDate, scoreToColor, scoreToLabel } from "@/lib/utils";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -665,7 +666,7 @@ export default async function ProductReviewPage({ params }: Props) {
                 guide && (
                   <Link prefetch={false}
                     key={guide.slug}
-                    href={`/guide/${guide.slug}`}
+                    href={canonicalGuideHref(guide)}
                     className="group flex items-center justify-between p-4 bg-white rounded-lg border border-border hover:border-brand/30 hover:shadow-card transition-all"
                   >
                     <div>

@@ -9,6 +9,7 @@ import { CategoryIllustration } from "@/components/ui/CategoryIllustration";
 import { scoreToColor } from "@/lib/utils";
 import { formatDate } from "@/lib/utils";
 import { categories } from "@/data/categories";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 
 interface FeaturedGuideHeroProps {
   guide: Guide | PublicGuide;
@@ -92,7 +93,7 @@ export function FeaturedGuideHero({ guide, products }: FeaturedGuideHeroProps) {
 
           <div className="flex flex-wrap gap-3 pt-2">
             <Link prefetch={false}
-              href={`/guide/${guide.slug}`}
+              href={canonicalGuideHref(guide)}
               className="inline-flex items-center gap-2 px-6 py-3 bg-brand text-white font-semibold rounded-btn hover:bg-brand-dark transition-colors text-sm"
             >
               Read Full Guide
