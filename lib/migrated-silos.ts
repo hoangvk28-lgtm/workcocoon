@@ -77,6 +77,18 @@ export const MIGRATED_GUIDE_SLUGS_TO_SILO: Record<string, string> = {
 export const MIGRATED_CATEGORY_TO_SILO: Record<string, string> = {
   chairs: "chairs",
   lighting: "lighting",
+  // Same slug string on both sides by coincidence — old /categories/desk-setup
+  // and the new /desk-setup silo cover materially the same content (monitor
+  // arms, keyboards, cable management, docking); genuinely 1:1.
+  "desk-setup": "desk-setup",
+  // NOTE: "small-room-storage" (old: under-bed storage, bed frames, bookshelves,
+  // nightstands, shoe racks, closet organizers — bedroom storage) is NOT mapped
+  // to "work-better" (new: ergonomics, focus, productivity habits) even though
+  // that's the closest new silo by elimination — the two cover different
+  // search intent, and redirecting bedroom-storage traffic to an ergonomics
+  // page would be a genuine content mismatch, not a real migration. Leave
+  // /categories/small-room-storage as KEEP until/unless a real equivalent
+  // silo exists for it.
 };
 
 export function siloForGuide(categorySlug: string, subcategorySlug: string): string | undefined {

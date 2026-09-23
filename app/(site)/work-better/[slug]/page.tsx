@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { GuideDetail } from "@/components/guide/GuideDetail";
+import { RichGuidePage } from "@/components/guide/RichGuidePage";
+import { guideDataLoaders } from "@/data/guides-index.generated";
 import { getPublicGuideBySlug, getPublicGuidesByCategory } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { matchSlugsForSilo } from "@/lib/migrated-silos";
@@ -60,6 +62,17 @@ export default async function WorkBetterGuidePage({ params }: Props) {
   // than silently rendering unrelated content at a work-better URL.
   if (!matchSlugs.includes(guide.categorySlug) && !matchSlugs.includes(guide.subcategorySlug)) {
     notFound();
+  }
+
+  // Rich guide (data/guides/<slug>.ts) has the full buying-criteria/FAQ/
+  // comparison content; the plain registry entry used above only carries
+  // thin stub fields for guides built this way, so GuideDetail alone would
+  // silently render an emptied-out page. Prefer the rich renderer whenever
+  // this guide has dedicated rich data, matching /guide/[slug]'s own dispatch.
+  const loadRichGuide = guideDataLoaders[slug];
+  if (loadRichGuide) {
+    const richData = await loadRichGuide();
+    return <RichGuidePage slug={slug} {...richData} />;
   }
 
   return <GuideDetail slug={slug} basePath="/work-better" sectionLabel="Work Better" sectionHref="/work-better" />;
