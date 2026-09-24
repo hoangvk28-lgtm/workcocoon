@@ -1,12 +1,13 @@
 export const guideSlug = "best-docking-stations-for-macbook-pro";
-export const guideTitle = "8 Best Docking Stations for MacBook Pro in 2026";
+export const guideTitle = "8 Best Docking Stations for MacBook Pro on a Small Desk (2026)";
 export const metaTitle = "Best Docking Stations for MacBook Pro in 2026 (Thunderbolt 4 & 5)";
 export const metaDescription =
-  "8 best docking stations for MacBook Pro in 2026, from budget USB-C hubs to Thunderbolt 5 CalDigit docks. Compare Mac display limits, chip compatibility, and charging.";
+  "8 docking stations for MacBook Pro compared on the one thing that actually trips buyers up: whether your M-chip generation can drive the extra monitor the dock promises. From a $53.99 USB-C hub to a $499.99 Thunderbolt 5 CalDigit dock.";
 export const mainKeyword = "docking station for macbook pro";
 export const introParagraphs = [
-  "MacBook Pro buyers run into one complaint more than any other: a dock advertised as supporting dual monitors, but their base M-series chip only drives one external display natively. That limit comes from the chip itself, not the dock, so picking the right dock starts with knowing exactly which M-chip generation is inside your Mac.",
+  "MacBook Pro buyers run into one complaint more than any other: a dock advertised as supporting dual monitors, but their base M-series chip only drives one external display natively. That limit comes from the chip itself, not the dock, so picking the right dock starts with knowing exactly which M-chip generation is inside your Mac. On a small desk where a single dock cable is doing the work of an entire port replicator, that mismatch is also the fastest way to end up returning a dock that technically works fine.",
   "Below are 8 docking stations we evaluated specifically for MacBook Pro compatibility, prioritizing genuine Thunderbolt certification since Apple co-developed the standard with Intel and Macs support it natively, ranging from a $53.99 budget USB-C hub to a $499.99 professional Thunderbolt 5 dock.",
+  "This comparison is based on manufacturer specifications and published buyer feedback, not hands-on testing in our own space.",
 ];
 export const lastUpdated = "2026-07-18";
 export const readTime = "10 min";
@@ -51,7 +52,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41vRhWPsvhL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BQJWKBMF?tag=workcocoon-20",
     description:
-      "Plugable explicitly validates this dock's dual 4K monitor support for M4 and M5 MacBook Air/Pro models, which matters because Apple's base M-series chips, M1 through M3, officially support only 1 external display in extended desktop mode regardless of how many ports a dock offers, unless you use DisplayLink software or a specific workaround. This dock is built with that limitation in mind.\n\nGenuine certified Thunderbolt 4 means it drives displays natively from the GPU rather than through software compression, and its 100W charging passthrough and driverless setup keep it simple to use across current Mac hardware. It's the clearest pick for buyers who want confirmed compatibility rather than guessing at their chip's actual display limit.\n\nWorth calling out specifically: genuine certified Thunderbolt 4, not USB4. The catch is pricier than the budget USB-C hub picks.",
+      "Plugable explicitly validates this dock's dual 4K monitor support for M4 and M5 MacBook Air/Pro models, which matters because Apple's base M-series chips, M1 through M3, officially support only 1 external display in extended desktop mode regardless of how many ports a dock offers, unless you use DisplayLink software or a specific workaround. This dock is built with that limitation in mind.\n\nGenuine certified Thunderbolt 4 means it drives displays natively from the GPU rather than through software compression, and its 100W charging passthrough and driverless setup keep it simple to use across current Mac hardware. It's the clearest pick for buyers who want confirmed compatibility rather than guessing at their chip's actual display limit.\n\nSkip it if you're on a base M1-M3 chip and expected this dock to unlock a second display; no dock changes that limit, and you'd be paying a Thunderbolt 4 premium for a port count you can't fully use.",
     specs: [
       "Certified Thunderbolt 4, 16 ports",
       "Dual 4K monitor support validated for M4/M5 MacBook Air/Pro",
@@ -83,7 +84,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31DKJ3K5cUL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B09GK8LBWS?tag=workcocoon-20",
     description:
-      "CalDigit built its reputation as a Mac-first dock brand long before most competitors, and the TS4 reflects that with 18 ports, the highest count in this guide. Certified Thunderbolt 4 means Mac's native, Apple-co-developed Thunderbolt support handles it without the compatibility guesswork that comes with generic USB4 hardware.\n\nIt's built for a MacBook Pro that anchors a full desk setup, external drives, multiple peripherals, and a couple of displays, without hitting the port shortages that force some buyers into daisy-chained hubs. Buyers with a base M-series chip should still note their chip's single-external-display limit applies here regardless of how many ports the dock has.\n\nLong track record as a dedicated Mac dock brand. Set against that, second most expensive pick in this guide. Both matter when comparing it to the other picks here.",
+      "CalDigit built its reputation as a Mac-first dock brand long before most competitors, and the TS4 reflects that with 18 ports, the highest count in this guide. Certified Thunderbolt 4 means Mac's native, Apple-co-developed Thunderbolt support handles it without the compatibility guesswork that comes with generic USB4 hardware.\n\nIt's built for a MacBook Pro that anchors a full desk setup, external drives, multiple peripherals, and a couple of displays, without hitting the port shortages that force some buyers into daisy-chained hubs. Buyers with a base M-series chip should still note their chip's single-external-display limit applies here regardless of how many ports the dock has.\n\nSkip it if your desk is small and you only run one external monitor; 18 ports and this price only pay off once you're actually filling most of them.",
     specs: [
       "Certified Thunderbolt 4",
       "18 total ports, highest in this guide",
@@ -115,7 +116,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31J58ZzJmlL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0F2GQZXVL?tag=workcocoon-20",
     description:
-      "The TS5 Plus is CalDigit's Thunderbolt 5 flagship, positioned specifically for M3 Pro/Max and M4 Pro/Max MacBook Pro chips, which support 2-3 external displays natively rather than the single-display cap on base M-series chips. That extra native multi-display headroom is exactly what a Pro/Max chip owner needs a dock capable of driving. It's the most expensive pick in this guide, and it's genuinely built for multi-4K or 8K Mac workflows rather than a simple single-display setup. Thunderbolt 5's added bandwidth over Thunderbolt 4 helps avoid the disconnect issues that show up when heavy simultaneous display and storage loads saturate a lower-bandwidth dock. The standout detail is that matches the native multi-display capability of Pro/Max Mac chips. Balancing that out, most expensive pick in this guide.",
+      "The TS5 Plus is CalDigit's Thunderbolt 5 flagship, positioned specifically for M3 Pro/Max and M4 Pro/Max MacBook Pro chips, which support 2-3 external displays natively rather than the single-display cap on base M-series chips. That extra native multi-display headroom is exactly what a Pro/Max chip owner needs a dock capable of driving. It's the most expensive pick in this guide, and it's genuinely built for multi-4K or 8K Mac workflows rather than a simple single-display setup. Thunderbolt 5's added bandwidth over Thunderbolt 4 helps avoid the disconnect issues that show up when heavy simultaneous display and storage loads saturate a lower-bandwidth dock.\n\nSkip it if your Mac has a base M-series chip; the price here is entirely justified by multi-display bandwidth a base chip can't use, so the UGREEN or Plugable picks below serve that chip tier better for less.",
     specs: [
       "Thunderbolt 5",
       "Built for M3 Pro/Max and M4 Pro/Max multi-display workflows",
@@ -147,7 +148,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/313ZbpJoZ0L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CM2WKGLC?tag=workcocoon-20",
     description:
-      "UGREEN explicitly lists compatibility with M1, M2, M3, and M4 Pro/Max chips, and its genuine 40Gbps Thunderbolt 4 connection takes advantage of Mac's native, Apple-co-developed Thunderbolt support rather than relying on a generic USB4 connection that only claims Thunderbolt compatibility. Three Thunderbolt 4 ports allow daisy-chaining additional Thunderbolt peripherals. It supports dual 4K@60Hz or a single 8K display, which lines up well with Pro/Max chip owners who have native multi-display headroom, while base M-series chip owners should remember their single-external-display cap applies regardless of this dock's own display support. It's the strongest Thunderbolt 4 value pick for Mac in this guide. Explicit compatibility across M1-M4 Pro/Max chips. That's a real strength, but weigh it against the flip side: 85W charging may fall short for the heaviest workstation-style loads.",
+      "UGREEN explicitly lists compatibility with M1, M2, M3, and M4 Pro/Max chips, and its genuine 40Gbps Thunderbolt 4 connection takes advantage of Mac's native, Apple-co-developed Thunderbolt support rather than relying on a generic USB4 connection that only claims Thunderbolt compatibility. Three Thunderbolt 4 ports allow daisy-chaining additional Thunderbolt peripherals. It supports dual 4K@60Hz or a single 8K display, which lines up well with Pro/Max chip owners who have native multi-display headroom, while base M-series chip owners should remember their single-external-display cap applies regardless of this dock's own display support. It's the strongest Thunderbolt 4 value pick for Mac in this guide.\n\nSkip it if you need more than 85W to fast-charge a 16-inch MacBook Pro under sustained heavy load; the Plugable 16-in-1 and CalDigit picks give more headroom there.",
     specs: [
       "Genuine Thunderbolt 4, 40Gbps",
       "Explicitly compatible with M1/M2/M3/M4 Pro/Max",
@@ -179,7 +180,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=workcocoon-20",
     description:
-      "This compact Plugable dock carries genuine certified Thunderbolt 4, giving it the same native, reliable connection to a MacBook Pro that Apple's own Thunderbolt-equipped hardware relies on, rather than the looser compatibility that comes with a generic USB4 or USB-C hub. It supports 4K HDMI dual monitor output or a single 6K display alongside 100W charging.\n\nIt's a smaller, less expensive alternative to the 16-in-1 Plugable and CalDigit docks in this guide for buyers who don't need the full port count, while still keeping the certified Thunderbolt reliability that matters most on Mac hardware.\n\n100W charging covers most MacBook Pro models at full speed. On the other hand, fewer ports than the 16-18 port docks in this guide. Both are worth keeping in mind before deciding.",
+      "This compact Plugable dock carries genuine certified Thunderbolt 4, giving it the same native, reliable connection to a MacBook Pro that Apple's own Thunderbolt-equipped hardware relies on, rather than the looser compatibility that comes with a generic USB4 or USB-C hub. It supports 4K HDMI dual monitor output or a single 6K display alongside 100W charging.\n\nIt's a smaller, less expensive alternative to the 16-in-1 Plugable and CalDigit docks in this guide for buyers who don't need the full port count, while still keeping the certified Thunderbolt reliability that matters most on Mac hardware.\n\nSkip it if you need to run more than one external display alongside a full set of peripherals; single 6K mode gives up dual-monitor support, and the port count is tight next to the 16-18 port docks above.",
     specs: [
       "Certified Thunderbolt 4",
       "100W charging",
@@ -211,7 +212,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41mGW0G5I3L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DSVVJXK5?tag=workcocoon-20",
     description:
-      "Anker's Prime TB5 brings Thunderbolt 5 bandwidth to a 14-in-1 port configuration, positioned for the newest M4/M5 Mac multi-display setups where a Pro or Max chip's native 2-3 external display capability can actually be used. It's certified Thunderbolt, keeping it on Mac's native, reliable connection standard rather than a generic USB4 fallback.\n\nThe added Thunderbolt 5 bandwidth headroom over Thunderbolt 4 helps avoid the kind of disconnect issues that come from USB bus saturation when multiple 4K displays and heavy data transfer run simultaneously, a real consideration for anyone running a demanding multi-monitor Mac workflow.\n\nA genuine advantage here is that 14 ports cover a full desk setup. The tradeoff is that meaningful price step up from the Thunderbolt 4 picks.",
+      "Anker's Prime TB5 brings Thunderbolt 5 bandwidth to a 14-in-1 port configuration, positioned for the newest M4/M5 Mac multi-display setups where a Pro or Max chip's native 2-3 external display capability can actually be used. It's certified Thunderbolt, keeping it on Mac's native, reliable connection standard rather than a generic USB4 fallback.\n\nThe added Thunderbolt 5 bandwidth headroom over Thunderbolt 4 helps avoid the kind of disconnect issues that come from USB bus saturation when multiple 4K displays and heavy data transfer run simultaneously, a real consideration for anyone running a demanding multi-monitor Mac workflow.\n\nSkip it if you're on a base M-series chip capped at one external display; the Thunderbolt 5 bandwidth here is built for a Pro/Max chip's multi-display headroom, and you won't use most of it.",
     specs: [
       "Thunderbolt 5",
       "14-in-1 port configuration",
@@ -243,7 +244,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=workcocoon-20",
     description:
-      "The Anker Prime 14-Port isn't Thunderbolt certified, but its broad USB-C compatibility means it still works with MacBook Pro across 14 ports and up to 160W of max output, making it a budget-friendlier way to add a lot of connectivity to a Mac desk setup without paying for full Thunderbolt certification.\n\nBecause it relies on USB4/USB-C compatibility rather than certified Thunderbolt, buyers connecting Thunderbolt-specific peripherals or expecting guaranteed native display performance should lean toward the certified Thunderbolt picks in this guide instead, but for general port expansion and charging it holds up well on Mac hardware.\n\nHighest port count relative to price in this guide. That said, not certified Thunderbolt, so Mac compatibility isn't guaranteed the same way. Neither should be a surprise once you know to look for it.",
+      "The Anker Prime 14-Port isn't Thunderbolt certified, but its broad USB-C compatibility means it still works with MacBook Pro across 14 ports and up to 160W of max output, making it a budget-friendlier way to add a lot of connectivity to a Mac desk setup without paying for full Thunderbolt certification.\n\nBecause it relies on USB4/USB-C compatibility rather than certified Thunderbolt, buyers connecting Thunderbolt-specific peripherals or expecting guaranteed native display performance should lean toward the certified Thunderbolt picks in this guide instead, but for general port expansion and charging it holds up well on Mac hardware.\n\nSkip it if you're connecting Thunderbolt-specific peripherals or want guaranteed native display bandwidth; without certification, that reliability isn't backed the way the Plugable or CalDigit docks are.",
     specs: [
       "14 total ports",
       "Up to 160W max output",
@@ -275,7 +276,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=workcocoon-20",
     description:
-      "This 8-in-1 is the cheapest and most compact pick in this guide, built as a USB-C hub rather than a certified Thunderbolt dock, which makes it a reasonable travel companion for a MacBook Pro that just needs dual 4K monitor support, Ethernet, and an SD card slot on the road. Its 85W PD passthrough covers most MacBook Pro charging needs for everyday use.\n\nIt's worth noting the base M-series chip's single-external-display limitation applies here regardless of which dock you use, since that's a chip-level restriction, not something any dock, certified Thunderbolt or otherwise, can override on an M1-M3 base chip.\n\nWorth calling out specifically: good travel companion for a MacBook Pro. The catch is not certified Thunderbolt, just a USB-C hub.",
+      "This 8-in-1 is the cheapest and most compact pick in this guide, built as a USB-C hub rather than a certified Thunderbolt dock, which makes it a reasonable travel companion for a MacBook Pro that just needs dual 4K monitor support, Ethernet, and an SD card slot on the road. Its 85W PD passthrough covers most MacBook Pro charging needs for everyday use.\n\nIt's worth noting the base M-series chip's single-external-display limitation applies here regardless of which dock you use, since that's a chip-level restriction, not something any dock, certified Thunderbolt or otherwise, can override on an M1-M3 base chip.\n\nSkip it if this dock will live permanently on a desk; it's built for the bag, and a certified Thunderbolt pick will hold up better under daily plug-in-plug-out use over years.",
     specs: [
       "8-in-1 port configuration",
       "Dual 4K monitor support, 2 HDMI ports",
@@ -328,24 +329,24 @@ export const howWeEvaluated: HowWeEvaluatedItem[] = [
 
 export const buyingCriteria: BuyingCriterion[] = [
   {
-    "criterion": "Check the real power delivery wattage, not just \"PD\" in the listing",
-    "explanation": "Power delivery (PD) wattage determines whether a dock can actually charge your laptop while it's connected, not just pass a trickle of power through, and this number varies widely, from 60W barely-adequate figures up to 100W or higher business-tier docks.\n\nThis matters because a dock rated below what your laptop actually needs to charge under load, especially a larger laptop or one running demanding tasks while docked, will slowly drain the battery even while \"charging\", a frustrating and easy-to-miss problem.\n\nCheck the listing for the specific PD wattage number, and compare it against your laptop's actual charging brick wattage, not just whether the listing mentions power delivery at all."
+    "criterion": "Identify your exact M-chip generation before comparing any dock's display specs",
+    "explanation": "Every base M1, M2, and M3 MacBook Pro officially supports only 1 external display in extended desktop mode, full stop, regardless of how many HDMI or DisplayPort outputs a dock advertises. Pro and Max variants of those same chips support 2-3 displays natively. This one fact eliminates more docks from consideration than any spec on the dock itself.\n\nThis matters because a dual-4K dock will show a blank or mirrored second screen on a base-chip Mac, a common and entirely avoidable disappointment.\n\nCheck About This Mac > More Info for your exact chip (e.g. M3, not M3 Pro), then match that against the dock's stated per-chip display support, not just its total port count."
   },
   {
-    "criterion": "Verify actual display support against your specific laptop and GPU, not just port count",
-    "explanation": "A dock listing multiple HDMI or DisplayPort outputs doesn't guarantee your laptop can actually drive all of them at full resolution and refresh rate simultaneously, that capability depends on your laptop's specific GPU and USB-C controller, which some docks work around using DisplayLink technology and others don't.\n\nThis distinction matters a lot if you're building a dual or triple monitor setup, since a laptop that can't natively drive multiple external displays will show a blank or mirrored screen on a non-DisplayLink dock's extra port, regardless of how many ports the dock has.\n\nCheck whether the dock uses native DisplayPort Alt Mode or DisplayLink chip technology, and separately verify your specific laptop model's documented maximum number of external displays before assuming any multi-port dock will drive them all."
+    "criterion": "Prioritize genuine Thunderbolt certification over generic USB4 or USB-C labeling",
+    "explanation": "Apple co-developed the Thunderbolt standard and Macs support it natively, so a certified Thunderbolt 4 or 5 dock connects with a level of native GPU output and reliability that a generic USB4/USB-C hub only approximates. The two categories are frequently priced close enough that the certification is easy to overlook.\n\nThis matters most if you're connecting other Thunderbolt-specific peripherals, like an external Thunderbolt SSD, where a non-certified dock can bottleneck or drop the connection under load.\n\nCheck the listing for the words \"Thunderbolt 4 Certified\" or \"Thunderbolt 5,\" not just \"USB4 compatible\" or \"USB-C 40Gbps,\" which describe a related but distinct standard."
   },
   {
-    "criterion": "Match data transfer speeds and Ethernet to what you actually move and how",
-    "explanation": "USB data ports on a dock range widely in real transfer speed, from basic 480Mbps USB 2.0 speeds up to 10Gbps or higher, a gap that matters enormously if you regularly move large files to and from external drives, but barely matters if you're just charging a mouse and keyboard.\n\nEthernet port speed follows the same logic, a dock's Gigabit or 2.5Gb Ethernet port is only as fast as your actual home or office network infrastructure supports, so paying for 2.5Gb Ethernet on a network that tops out at Gigabit gains nothing.\n\nCheck the specific listed speed for each port type you'll actually use regularly, and compare Ethernet speed against your router's actual rated speed, not just the dock's spec sheet in isolation."
+    "criterion": "Match power delivery wattage to your specific MacBook Pro model's real charging draw",
+    "explanation": "A 14-inch MacBook Pro and a 16-inch MacBook Pro under heavy load can draw meaningfully different wattage to charge at full speed, and a dock's rated PD wattage is measured before its own circuitry overhead, so the laptop typically receives 10-15W less than the headline number.\n\nThis matters if you run demanding tasks, like video export, while docked; an undersized PD rating means the battery slowly drains even while nominally \"charging.\"\n\nCheck your MacBook Pro model's official charging brick wattage and compare it against the dock's PD rating with that overhead in mind, not the headline number alone."
   },
   {
-    "criterion": "Confirm compatibility with your specific laptop's USB-C or Thunderbolt port",
-    "explanation": "Not every USB-C port supports the same features, some laptops only support USB-C data and charging without any video output over that port at all, while others support full Thunderbolt with much higher bandwidth for multiple 4K displays.\n\nDocks built around Thunderbolt certification generally support more demanding multi-display and high-speed configurations, but require a genuinely Thunderbolt-capable port on your laptop to unlock that performance, plugging a Thunderbolt dock into a USB-C-only port still works but loses the extra bandwidth.\n\nCheck your specific laptop's documented port capabilities (Thunderbolt 3, Thunderbolt 4, or USB-C without Thunderbolt), not just that it has a USB-C-shaped port, before assuming any docking station will unlock its full advertised capability."
+    "criterion": "Decide whether DisplayLink is an acceptable workaround for your work",
+    "explanation": "A base M-series Mac can drive a second external display only through DisplayLink software, which compresses video over USB rather than outputting it natively from the GPU. This unlocks a genuinely useful second screen for browsing, email, and general productivity, but introduces a small amount of input lag and isn't suited to color-accurate design or photo work.\n\nThis matters specifically for creative professionals, where a mismatched color profile on a DisplayLink-driven screen can throw off actual client-facing work.\n\nIf color accuracy matters, route your primary display through the dock's native Thunderbolt or DisplayPort output and keep any DisplayLink-driven screen for secondary reference material only."
   },
   {
-    "criterion": "Consider heat and long-term reliability under sustained daily use",
-    "explanation": "A docking station that stays plugged in and under load for 8+ hours a day handles thermal stress very differently than a hub used occasionally for a quick file transfer, and a compact plastic-bodied dock with no real heat dissipation can throttle performance or degrade faster under that kind of sustained daily use than an aluminum-bodied one.\n\nThis matters more for anyone using the dock as their primary daily workstation setup than for occasional or travel use.\n\nCheck reviews specifically for mentions of the dock running hot, disconnecting intermittently after extended use, or degrading over months, rather than relying on the unboxing-day performance most reviews describe."
+    "criterion": "Weigh port count and desk footprint against what a small desk can actually hold",
+    "explanation": "A dock with 14-18 ports is genuinely useful for anchoring external drives, multiple peripherals, and several displays, but it also takes up real desk space and adds another cable-management problem on a smaller work surface.\n\nThis matters more on a compact or shared desk than a dedicated home office, where a large dock can end up being the single biggest thing sitting on the desktop.\n\nCount what you'll actually plug in daily rather than buying for maximum port count, and favor a compact certified Thunderbolt dock over an 18-port unit if you're only running one or two displays."
   }
 ];
 
@@ -359,20 +360,20 @@ export interface HowToChooseSection {
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By M-Chip Tier",
     "table": {
       "headers": [
-        "Your priority",
+        "Your Mac's chip",
         "Recommended pick"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "Plugable 16"
+          "Base M1-M3 (1 external display)",
+          "Plugable 16-in-1 Thunderbolt 4 Dock"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "Plugable 16"
+          "Pro/Max chips (2-3 external displays)",
+          "CalDigit TS5 Plus Thunderbolt 5 Dock"
         ]
       ]
     }
@@ -438,7 +439,7 @@ export const howToChoose: HowToChooseSection[] = [
       },
       {
         "label": "In this comparison",
-        "text": "Plugable 16 is worth checking against its listed display support before buying, given its strong review base."
+        "text": "Plugable 16-in-1 Thunderbolt 4 Dock is explicitly validated for dual-4K on M4/M5 chips; check your own chip generation's native display limit before assuming any multi-port dock will drive a second screen."
       }
     ]
   },
@@ -485,7 +486,7 @@ export const faq: FaqItem[] = [
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-docking-station-for-dual-monitor-multi-monitor-setups", title: "Best Docking Stations for Dual Monitor Setups (2026)" },
-  { href: "/guide/best-usb-c-docking-stations", title: "Best USB-C Docking Stations (2026)" },
+  { href: "/desk-setup/best-docking-station-for-dual-monitor-multi-monitor-setups", title: "Best Docking Stations for Dual Monitor Setups (2026)" },
+  { href: "/desk-setup/best-usb-c-docking-stations", title: "Best USB-C Docking Stations (2026)" },
   { href: "/guide/usb-c-hub-vs-docking-station", title: "USB-C Hub vs Docking Station: What's the Difference?" },
 ];
