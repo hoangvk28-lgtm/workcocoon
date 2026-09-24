@@ -77,10 +77,82 @@ export const MIGRATED_GUIDE_SLUGS_TO_SILO: Record<string, string> = {
 export const MIGRATED_CATEGORY_TO_SILO: Record<string, string> = {
   chairs: "chairs",
   lighting: "lighting",
+  // Same slug string on both sides by coincidence — old /categories/desk-setup
+  // and the new /desk-setup silo cover materially the same content (monitor
+  // arms, keyboards, cable management, docking); genuinely 1:1.
+  "desk-setup": "desk-setup",
+  // "monitors" matchSlugs (4k-monitors, gaming-monitors, displays, usb-c-monitors,
+  // monitor-stands, portable-monitors, monitor-arms, monitor-privacy-screens,
+  // under-monitor-storage-shelves) are already a full subset of the desk-setup
+  // silo's own migrated subcategories — genuinely 1:1, same audience/intent.
+  monitors: "desk-setup",
+  // NOTE: "accessories" is NOT mapped — its matchSlugs mix desk-setup-relevant
+  // items (keyboards, webcams, docking-stations, cable-management, etc.) with
+  // generic office supplies that have no silo equivalent (bookends, tape
+  // dispensers, mug warmers, business-card/ID-badge holders, paper trays).
+  // Guides in the desk-setup-relevant subset already resolve to their /desk-setup
+  // URL individually via siloForGuide/canonicalGuideHref; the hub itself stays at
+  // /categories/accessories until/unless the non-brand items are pruned.
+  // NOTE: "small-room-storage" (old: under-bed storage, bed frames, bookshelves,
+  // nightstands, shoe racks, closet organizers — bedroom storage) is NOT mapped
+  // to "work-better" (new: ergonomics, focus, productivity habits) even though
+  // that's the closest new silo by elimination — the two cover different
+  // search intent, and redirecting bedroom-storage traffic to an ergonomics
+  // page would be a genuine content mismatch, not a real migration. Leave
+  // /categories/small-room-storage as KEEP until/unless a real equivalent
+  // silo exists for it.
 };
 
 export function siloForGuide(categorySlug: string, subcategorySlug: string): string | undefined {
   return MIGRATED_GUIDE_SLUGS_TO_SILO[subcategorySlug] ?? MIGRATED_GUIDE_SLUGS_TO_SILO[categorySlug];
+}
+
+// The URL a guide link should point to right now — its migrated silo path if
+// its category/subcategory has one, otherwise the legacy /guide/<slug> path.
+// Listing components (category hubs, silo hubs, related-guides, etc.) should
+// build hrefs from this instead of hardcoding `/guide/${slug}`, so links don't
+// force visitors through an extra redirect hop to a URL that's about to move
+// out from under them.
+export function canonicalGuideHref(guide: { slug: string; categorySlug: string; subcategorySlug: string }): string {
+  const silo = siloForGuide(guide.categorySlug, guide.subcategorySlug);
+  return silo ? `/${silo}/${guide.slug}` : `/guide/${guide.slug}`;
+}
+
+// Slugs that have a hand-authored static route at app/(site)/guide/<slug>/page.tsx
+// AND are not covered by guideDataLoaders (i.e. their data/guides/<slug>.ts uses a
+// legacy custom schema RichGuidePage can't render). For these, the literal route is
+// the ONLY place their full content exists — GuideDetail only has thin registry
+// stub fields for them. A silo detail page must redirect back to /guide/<slug>
+// rather than render GuideDetail, or it silently serves an emptied-out page.
+// Computed once at module load; safe because app/(site)/guide/* never changes at
+// runtime.
+let legacyLiteralRouteSlugs: Set<string> | undefined;
+
+export function hasLegacyLiteralRoute(slug: string): boolean {
+  if (!legacyLiteralRouteSlugs) {
+    legacyLiteralRouteSlugs = new Set<string>();
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const fs = require("fs") as typeof import("fs");
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const path = require("path") as typeof import("path");
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const { guideDataLoaders } = require("@/data/guides-index.generated") as {
+        guideDataLoaders: Record<string, unknown>;
+      };
+      const guideDir = path.join(process.cwd(), "app", "(site)", "guide");
+      const staticRouteSlugs = fs
+        .readdirSync(guideDir, { withFileTypes: true })
+        .filter((d) => d.isDirectory() && !d.name.startsWith("[") && !d.name.startsWith("("))
+        .map((d) => d.name);
+      for (const s of staticRouteSlugs) {
+        if (!guideDataLoaders[s]) legacyLiteralRouteSlugs.add(s);
+      }
+    } catch {
+      // If this can't be computed, fail open (empty set) rather than crash rendering.
+    }
+  }
+  return legacyLiteralRouteSlugs.has(slug);
 }
 
 // All categorySlug/subcategorySlug values migrated into a given silo — the

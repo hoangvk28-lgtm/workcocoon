@@ -117,6 +117,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function BuyingGuidePage({ params }: Props) {
   const { slug } = await params;
 
+  // ── Silo redirect check — MUST run before any render branch below ─────────
+  // A guide whose category/subcategory has been migrated into a topic-first
+  // silo lives at /<silo>/<slug> now. This check used to sit further down,
+  // after the "rich guide" branch below — since most of the site's actual
+  // guide content ships as a rich data/guides/<slug>.ts file and returns
+  // early from that branch, the redirect never ran for those guides at all,
+  // silently leaving the legacy /guide/<slug> duplicate-content URL live for
+  // the majority of migrated guides. Checking it first, against the same
+  // static registry every render path already shares, fixes that for all of
+  // them uniformly.
+  const registryGuide = await getPublicGuideBySlug(slug);
+  if (registryGuide) {
+    const silo = siloForGuide(registryGuide.categorySlug, registryGuide.subcategorySlug);
+    if (silo) {
+      permanentRedirect(`/${silo}/${slug}`);
+    }
+  }
+
   // ── Rich guide (data/guides/<slug>.ts), rendered on-demand ────────────────
   // Guides that ship without a literal app/(site)/guide/<slug>/page.tsx route (either
   // because they were never generated as one, or because they were demoted off the
@@ -217,18 +235,9 @@ export default async function BuyingGuidePage({ params }: Props) {
   }
 
   // ── Individual guide page ─────────────────────────────────────────────────
-  const guide = await getPublicGuideBySlug(slug);
-  if (!guide) notFound();
-
-  // A guide whose category/subcategory has been migrated into a topic-first
-  // silo lives at /<silo>/<slug> now — permanently redirect from the legacy
-  // /guide/<slug> URL rather than rendering duplicate content here. Only
-  // guides in `migrated-silos.ts` are affected; everything else keeps
-  // rendering at /guide/<slug> unchanged.
-  const silo = siloForGuide(guide.categorySlug, guide.subcategorySlug);
-  if (silo) {
-    permanentRedirect(`/${silo}/${slug}`);
-  }
+  // (silo-redirect check already ran at the top of this function, against
+  // the same registryGuide lookup, before any render branch was reached)
+  if (!registryGuide) notFound();
 
   return <GuideDetail slug={slug} basePath="/guide" sectionLabel="Buying Guides" sectionHref="/guide" />;
 }

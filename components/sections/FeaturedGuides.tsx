@@ -5,6 +5,7 @@ import { categories } from "@/data/categories";
 import { formatDate } from "@/lib/utils";
 import { SectionHeader } from "./SectionHeader";
 import { CategoryIllustration } from "@/components/ui/CategoryIllustration";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 
 interface FeaturedGuidesProps {
   guides: Guide[];
@@ -53,7 +54,7 @@ function GuideCard({
 
   return (
     <Link prefetch={false}
-      href={`/guide/${guide.slug}`}
+      href={canonicalGuideHref(guide)}
      
       className="group flex flex-col gap-4 bg-white rounded-card border border-border border-t-4 border-t-transparent overflow-hidden hover:shadow-card-hover transition-all"
       style={{ borderTopColor: categoryColor }}

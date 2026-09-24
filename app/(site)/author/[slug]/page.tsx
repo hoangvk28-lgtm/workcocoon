@@ -8,6 +8,7 @@ import { getAuthorBySlug, authors } from "@/data/authors";
 import { getPublicGuides } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { formatDate } from "@/lib/utils";
+import { canonicalGuideHref } from "@/lib/migrated-silos";
 
 export const revalidate = 604800;
 
@@ -223,7 +224,7 @@ export default async function AuthorPage({ params }: Props) {
               {authorGuides.map((guide) => (
                 <Link prefetch={false}
                   key={guide.slug}
-                  href={`/guide/${guide.slug}`}
+                  href={canonicalGuideHref(guide)}
                   className="group flex gap-4 p-4 rounded-xl border border-border bg-surface hover:border-accent/40 hover:shadow-sm transition-all"
                 >
                   {(guide.thumbnailImage || guide.heroImage) && (

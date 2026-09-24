@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import { notFound, permanentRedirect } from "next/navigation";
 import { GuideDetail } from "@/components/guide/GuideDetail";
+import { RichGuidePage } from "@/components/guide/RichGuidePage";
+import { guideDataLoaders } from "@/data/guides-index.generated";
 import { getPublicGuideBySlug, getPublicGuidesByCategory } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
-import { guideDataLoaders } from "@/data/guides-index.generated";
 import { getCategoryBySlug } from "@/data/categories";
-import { MIGRATED_GUIDE_SLUGS_TO_SILO } from "@/lib/migrated-silos";
+import { MIGRATED_GUIDE_SLUGS_TO_SILO, hasLegacyLiteralRoute } from "@/lib/migrated-silos";
 
 export const revalidate = 604800;
 
@@ -55,13 +56,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function ChairsGuidePage({ params }: Props) {
   const { slug } = await params;
 
-  // A guide with a rich data/guides/<slug>.ts file always renders at /guide/<slug>
-  // via RichGuidePage (see app/(site)/guide/[slug]/page.tsx) - redirect here so this
-  // silo never serves a second, simpler-template copy of the same content.
-  if (guideDataLoaders[slug]) {
-    permanentRedirect(`/guide/${slug}`);
-  }
-
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) notFound();
 
@@ -70,6 +64,25 @@ export default async function ChairsGuidePage({ params }: Props) {
   // than silently rendering unrelated content at a chairs URL.
   if (!matchSlugs.includes(guide.categorySlug) && !matchSlugs.includes(guide.subcategorySlug)) {
     notFound();
+  }
+
+  // Rich guide (data/guides/<slug>.ts) has the full buying-criteria/FAQ/
+  // comparison content; the plain registry entry used above only carries
+  // thin stub fields for guides built this way, so GuideDetail alone would
+  // silently render an emptied-out page. Prefer the rich renderer whenever
+  // this guide has dedicated rich data, matching /guide/[slug]'s own dispatch.
+  const loadRichGuide = guideDataLoaders[slug];
+  if (loadRichGuide) {
+    const richData = await loadRichGuide();
+    return <RichGuidePage slug={slug} {...richData} />;
+  }
+
+  // This guide's full content only exists in a hand-authored static route at
+  // /guide/<slug> (legacy schema, not covered by guideDataLoaders) — GuideDetail
+  // would render a thin, emptied-out page. Send it back to the working URL
+  // rather than lose content, until this guide is rewritten to the modern schema.
+  if (hasLegacyLiteralRoute(slug)) {
+    permanentRedirect(`/guide/${slug}`);
   }
 
   return <GuideDetail slug={slug} basePath="/chairs" sectionLabel="Chairs" sectionHref="/chairs" />;

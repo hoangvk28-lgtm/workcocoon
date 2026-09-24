@@ -3,6 +3,7 @@ import { Inter, Quicksand } from "next/font/google";
 import "./globals.css";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL, TWITTER_HANDLE } from "@/lib/seo";
 import { ScrollToTop } from "@/components/ScrollToTop";
+import { BackToTopButton } from "@/components/BackToTopButton";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -90,9 +91,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           `}} />
         )}
       </head>
-      <body className="h-full antialiased">
+      <body className="antialiased">
         <ScrollToTop />
         {children}
+        <BackToTopButton />
       </body>
     </html>
   );
