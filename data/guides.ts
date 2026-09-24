@@ -5577,7 +5577,7 @@ export const guides: Guide[] = [
     buyingCriteria: [],
   },
   {
-    title: "8 Best 49-Inch Ultrawide Monitors in 2026",
+    title: "The Best 49-Inch Ultrawide Monitors When Desk Depth Is the Real Constraint",
     slug: "best-49-inch-ultrawide-monitor",
     categorySlug: "desk-setup",
     subcategorySlug: "monitor-stands",
@@ -8988,7 +8988,7 @@ export const guides: Guide[] = [
     buyingCriteria: [],
   },
   {
-    title: "7 Best 144Hz Portable Monitors in 2026",
+    title: "The Best 144Hz Portable Monitors When the Spec Sheet Is Quietly Lying to You",
     slug: "best-144hz-portable-monitors",
     categorySlug: "desk-setup",
     subcategorySlug: "portable-monitors",
@@ -9006,7 +9006,7 @@ export const guides: Guide[] = [
     buyingCriteria: [],
   },
   {
-    title: "8 Best 165Hz Portable Monitors in 2026",
+    title: "The Best 165Hz Portable Monitors When Half the List Doesn't Actually Hit 165Hz",
     slug: "best-165hz-portable-monitors",
     categorySlug: "desk-setup",
     subcategorySlug: "portable-monitors",

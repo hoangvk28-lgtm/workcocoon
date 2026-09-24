@@ -1,12 +1,13 @@
 export const guideSlug = "best-165hz-portable-monitors";
-export const guideTitle = "8 Best 165Hz Portable Monitors in 2026";
-export const metaTitle = "Best 165Hz Portable Monitors, Honestly Reviewed (2026)";
+export const guideTitle = "The Best 165Hz Portable Monitors When Half the List Doesn't Actually Hit 165Hz";
+export const metaTitle = "Best 165Hz Portable Monitors: Native vs Overclocked (2026) | WorkCocoon";
 export const metaDescription =
   "8 portable monitors rated 165Hz, with an honest read on which connection actually reaches that rate, which panels are native versus overclocked, and when the jump from 144Hz is even perceptible.";
 export const mainKeyword = "165Hz portable monitor";
 export const introParagraphs = [
   "165Hz almost always requires DisplayPort or USB-C DP Alt Mode, not HDMI 2.0, whose bandwidth ceiling supports roughly 1080p144 but falls short of 165Hz at most resolutions. The jump from 144Hz to 165Hz is also imperceptible unless your source device can sustain frame rates that high, a thin-and-light gaming laptop or console rarely does.",
-  "Some panels reach 165Hz through a manufacturer overclock of a native 144Hz panel rather than a true 165Hz-rated panel, which can introduce flicker or instability a native-165Hz panel wouldn't show. We flag what we can confirm about each pick below.",
+  "Some panels reach 165Hz through a manufacturer overclock of a native 144Hz panel rather than a true 165Hz-rated panel, which can introduce flicker or instability a native-165Hz panel wouldn't show. We flag what we can confirm about each pick below, including 3 that are genuinely strong 144Hz panels rather than true 165Hz.",
+  "This comparison is based on manufacturer specifications and published buyer feedback, not hands-on testing in our own space.",
 ];
 export const lastUpdated = "2026-07-28";
 export const readTime = "9 min";
@@ -30,7 +31,7 @@ export const products: GuideProduct[] = [
     reviews: "386 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41-sCOIkYyL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FDL2VR2C?tag=workcocoon-20",
-    description: "Rated 180Hz, this comfortably covers the 165Hz tier with headroom, at 2.5K QHD resolution. Reaching either 165Hz or 180Hz at this resolution requires USB-C DisplayPort Alt Mode with DSC support on your source device, HDMI 2.0 won't get you there.\n\nIt earns the top spot in this comparison over 16 Inch Portable Monitor for Laptop and Gaming for one main reason. Exceeds 165Hz with real headroom. On price, it's actually priced above 16 Inch Portable Monitor for Laptop and Gaming, which is worth weighing if cost is your deciding factor between the two.\n\nWorth knowing before you decide: Sharp 2.5K resolution. On the other side, Smaller review base than budget picks. That's the main tradeoff to weigh against everything above.",
+    description: "Rated 180Hz, this comfortably covers the 165Hz tier with headroom, at 2.5K QHD resolution. Reaching either 165Hz or 180Hz at this resolution requires USB-C DisplayPort Alt Mode with DSC support on your source device, HDMI 2.0 won't get you there.\n\nIt earns the top spot in this comparison for genuinely exceeding 165Hz rather than just hitting it, though it costs more than the next pick down.\n\nSkip it if your source device can't confirm USB-C DP Alt Mode with DSC support; without that, the 180Hz rating goes unused and you're paying for headroom you can't reach.",
     specs: ["16.1-inch 180Hz, 2.5K QHD, 107% sRGB","2x USB-C + mini-HDMI","Built-in kickstand","HDR support"],
     pros: ["Exceeds 165Hz with real headroom","Sharp 2.5K resolution","Built-in kickstand","HDR mode"],
     cons: ["Needs USB-C DP Alt Mode with DSC to reach full rate","Mini-HDMI only","Smaller review base than budget picks"],
@@ -46,7 +47,7 @@ export const products: GuideProduct[] = [
     reviews: "14 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41a-FbRwOlL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0H3JDL4L2?tag=workcocoon-20",
-    description: "At 450 nits with a claimed 100% sRGB gamut and genuine HDR support, this is a well-specced 165Hz panel at 1920x1200, a resolution that fits within USB-C bandwidth more comfortably than 1440p+ panels. Dual USB-C and HDMI ports cover both PC and console connections, though verify HDMI's actual refresh ceiling separately from the USB-C spec.\n\nOne spot below ARZOPA 16.1'' 180Hz 2.5K Portable Monitor in this ranking, it's priced lower than ARZOPA 16.1'' 180Hz 2.5K Portable Monitor. The compromise here is straightforward: Very small review count, limited track record. What you gain in return: Brightest panel in this guide at 450 nits. Whether that trade is worth it depends on which side matters more for your setup.\n\nWorth knowing before you decide: 1920x1200 resolution is easier to sustain at 165Hz than 1440p+. On the other side, Newer, less-established listing. That's the main tradeoff to weigh against everything above.",
+    description: "At 450 nits with a claimed 100% sRGB gamut and genuine HDR support, this is a well-specced 165Hz panel at 1920x1200, a resolution that fits within USB-C bandwidth more comfortably than 1440p+ panels. Dual USB-C and HDMI ports cover both PC and console connections, though verify HDMI's actual refresh ceiling separately from the USB-C spec.\n\nIt's priced lower than the ARZOPA pick above for the brightest panel in this guide.\n\nSkip it if a proven track record matters to you; with only 14 ratings so far, this listing doesn't have the review history the more established picks here do.",
     specs: ["16-inch 165Hz, 1920x1200, 450 nits, 100% sRGB","Dual USB-C + HDMI","Aluminum body, smart cover","HDR support"],
     pros: ["Brightest panel in this guide at 450 nits","1920x1200 resolution is easier to sustain at 165Hz than 1440p+","Genuine HDR support claimed","Aluminum build"],
     cons: ["Very small review count, limited track record","HDMI-specific refresh ceiling not separately disclosed","Newer, less-established listing"],
@@ -62,7 +63,7 @@ export const products: GuideProduct[] = [
     reviews: "6 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51bADiNA5RL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0G5YRPXTV?tag=workcocoon-20",
-    description: "This listing is unusually transparent about the port-specific ceiling, explicitly noting the Type-C interface reaches 165Hz while the HDMI interface is limited to 144Hz, exactly the distinction most competitors bury or omit entirely. Genuine FreeSync/VRR support is claimed alongside HDR.\n\nSitting just under 16 Inch Portable Monitor for Laptop and Gaming, it's priced lower than 16 Inch Portable Monitor for Laptop and Gaming. Here's the honest tradeoff: Very small review count. And here's what it gets you instead: Explicitly discloses the USB-C 165Hz vs. HDMI 144Hz split. That's the real difference between the two picks, not just a ranking number.\n\nWorth knowing before you decide: Lowest price in this guide. On the other side, Limited track record for a value-priced panel. That's the main tradeoff to weigh against everything above.",
+    description: "This listing is unusually transparent about the port-specific ceiling, explicitly noting the Type-C interface reaches 165Hz while the HDMI interface is limited to 144Hz, exactly the distinction most competitors bury or omit entirely. Genuine FreeSync/VRR support is claimed alongside HDR. It's also the lowest price in this guide.\n\nSkip it if you want a proven track record at this price; with only 6 ratings, it's the thinnest review history among the value picks here.",
     specs: ["16-inch 165Hz USB-C / 144Hz HDMI, 1920x1200","133% sRGB, FreeSync/VRR support","0°-120° adjustable stand, VESA 75mm","1.5 lb"],
     pros: ["Explicitly discloses the USB-C 165Hz vs. HDMI 144Hz split","Lowest price in this guide","Claims genuine FreeSync/VRR support","VESA mountable"],
     cons: ["Very small review count","Lower rating than the premium picks","Limited track record for a value-priced panel"],
@@ -78,7 +79,7 @@ export const products: GuideProduct[] = [
     reviews: "254 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51BaHFxSPsL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DP2HD8H8?tag=workcocoon-20",
-    description: "This is genuinely the largest \"portable\" monitor in this guide at 24.5 inches, explicitly disclosing USB-C hits 165Hz while Mini HDMI caps at 144Hz, the same honest per-port split as the AHXJKA pick above but at a much larger, less travel-friendly size. At 5.42 lb, this stretches the definition of portable, more of a desk-bound secondary display than a bag-friendly travel monitor.\n\nRanked just behind AHXJKA Portable Monitor 16\" 165Hz 1920x1200P 133% sRGB, it costs more than AHXJKA Portable Monitor 16\" 165Hz 1920x1200P 133% sRGB. The real tradeoff against that pick: At 5.42 lb, stretches the definition of 'portable'. In exchange, it offers this instead: Largest screen in this guide by far. That's the swap that decides whether this pick or the one above it is the better fit for your source device.\n\nWorth knowing before you decide: Honest per-port refresh rate disclosure. On the other side, Company itself recommends the smaller 22\" version for frequent travel. That's the main tradeoff to weigh against everything above.",
+    description: "This is genuinely the largest \"portable\" monitor in this guide at 24.5 inches, explicitly disclosing USB-C hits 165Hz while Mini HDMI caps at 144Hz, the same honest per-port split as the AHXJKA pick above but at a much larger, less travel-friendly size. At 5.42 lb, this stretches the definition of portable, more of a desk-bound secondary display than a bag-friendly travel monitor. The manufacturer itself recommends its smaller 22\" version for frequent travel.\n\nSkip it if you actually need this to travel in a bag regularly; it's the highest-priced pick here and closer to a semi-permanent secondary desk display than a portable monitor.",
     specs: ["24.5-inch 2K QHD, 165Hz USB-C / 144Hz Mini HDMI","100% sRGB, HDR, FreeSync","180° adjustable stand, VESA mountable","5.42 lb"],
     pros: ["Largest screen in this guide by far","Honest per-port refresh rate disclosure","FreeSync support","VESA mountable for permanent desk use"],
     cons: ["At 5.42 lb, stretches the definition of 'portable'","Highest price in this guide","Company itself recommends the smaller 22\" version for frequent travel"],
@@ -94,7 +95,7 @@ export const products: GuideProduct[] = [
     reviews: "2,739 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51wFOAMcM4L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CH9WTW56?tag=workcocoon-20",
-    description: "Included here as a value alternative for buyers who'd accept 144Hz over paying more for 165Hz, since the perceptible difference between the two is minimal unless your source device sustains well above 144fps. At 1080p, 144Hz is comfortably within both USB-C and HDMI bandwidth, more reliable across ports than the true-165Hz picks above.\n\nOne spot below UPERFECT 24.5\" 2K 165Hz Portable Monitor in this ranking, it's priced lower than UPERFECT 24.5\" 2K 165Hz Portable Monitor. The compromise here is straightforward: Doesn't actually reach 165Hz. What you gain in return: Largest review base in this guide. Whether that trade is worth it depends on which side matters more for your setup.\n\nWorth knowing before you decide: 144Hz is imperceptibly different from 165Hz for most sources. On the other side, 1080p, not the 1440p+ resolution of the premium 165Hz picks. That's the main tradeoff to weigh against everything above.",
+    description: "Included here as a value alternative for buyers who'd accept 144Hz over paying more for 165Hz, since the perceptible difference between the two is minimal unless your source device sustains well above 144fps. At 1080p, 144Hz is comfortably within both USB-C and HDMI bandwidth, more reliable across ports than the true-165Hz picks above, and it's backed by the largest review base in this entire guide.\n\nSkip it if hitting the literal 165Hz spec matters to you; this tops out at 144Hz regardless of source or port.",
     specs: ["16.1-inch 144Hz, 1080P FHD, 106% sRGB","2x USB-C + mini-HDMI","Built-in kickstand","Largest review base here"],
     pros: ["Largest review base in this guide","144Hz is imperceptibly different from 165Hz for most sources","Reliable across both USB-C and HDMI","Lower price than the true-165Hz picks"],
     cons: ["Doesn't actually reach 165Hz","Mini-HDMI only","1080p, not the 1440p+ resolution of the premium 165Hz picks"],
@@ -110,7 +111,7 @@ export const products: GuideProduct[] = [
     reviews: "6,301 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41taGyfYchL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FR8D6BQ3?tag=workcocoon-20",
-    description: "Another 144Hz-tier alternative (not true 165Hz) included for buyers who want the highest review base and rating in this guide alongside sharp 2.5K resolution, a reasonable tradeoff if 165Hz specifically isn't a hard requirement.\n\nSitting just under ARZOPA 16.1'' 144Hz Portable Gaming Monitor, it costs more than ARZOPA 16.1'' 144Hz Portable Gaming Monitor. Here's the honest tradeoff: Doesn't reach true 165Hz. And here's what it gets you instead: Highest rating and review base in this guide. That's the real difference between the two picks, not just a ranking number.\n\nWorth knowing before you decide: Sharp 2.5K resolution. On the other side, Priced similarly to some true-165Hz alternatives. That's the main tradeoff to weigh against everything above.",
+    description: "Another 144Hz-tier alternative (not true 165Hz) included for buyers who want the highest rating and review base in this guide alongside sharp 2.5K resolution, a reasonable tradeoff if 165Hz specifically isn't a hard requirement.\n\nIt costs more than the ARZOPA 144Hz pick above, priced similarly to some true-165Hz alternatives here despite not reaching 165Hz itself.\n\nSkip it if 165Hz is a hard requirement; the ARZOPA 180Hz pick above genuinely clears that bar instead.",
     specs: ["16-inch 2.5K QHD, 144Hz USB-C / 120Hz HDMI","110% sRGB, metal chassis","Full-size HDMI + dual USB-C","Dual VESA holes"],
     pros: ["Highest rating and review base in this guide","Sharp 2.5K resolution","Full-size HDMI","Metal build with VESA mount"],
     cons: ["Doesn't reach true 165Hz","Only 120Hz over HDMI","Priced similarly to some true-165Hz alternatives"],
@@ -126,7 +127,7 @@ export const products: GuideProduct[] = [
     reviews: "3,365 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51kORE12J1L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0GHP4MKMP?tag=workcocoon-20",
-    description: "Another honest 144Hz (not 165Hz) alternative, included for its class-leading 470-nit brightness among the picks in this guide. Same 2.5K resolution and bandwidth considerations as the cocopar pick above.\n\nRanked just behind cocopar Portable Monitor 16 Inch 2.5K QHD 110% sRGB 144Hz USB-C, it costs more than cocopar Portable Monitor 16 Inch 2.5K QHD 110% sRGB 144Hz USB-C. The real tradeoff against that pick: Doesn't reach true 165Hz. In exchange, it offers this instead: Brightest pick among the 144Hz alternatives. That's the swap that decides whether this pick or the one above it is the better fit for your source device.\n\nWorth knowing before you decide: Sharp 2.5K resolution. On the other side, Similar price to true-165Hz options. That's the main tradeoff to weigh against everything above.",
+    description: "Another honest 144Hz (not 165Hz) alternative, included for its class-leading 470-nit brightness among the picks in this guide. Same 2.5K resolution and bandwidth considerations as the cocopar pick above, at a slightly higher price for that extra brightness.\n\nSkip it unless brightness specifically matters for your space; the cocopar pick above covers the same resolution and 144Hz honesty for less.",
     specs: ["16-inch 2.5K QHD, 144Hz, 470 nits","110% sRGB, metal chassis","Full-size HDMI + dual USB-C","Dual VESA holes"],
     pros: ["Brightest pick among the 144Hz alternatives","Sharp 2.5K resolution","Full accessory kit included","Full-size HDMI"],
     cons: ["Doesn't reach true 165Hz","Only 120Hz over HDMI","Similar price to true-165Hz options"],
@@ -142,7 +143,7 @@ export const products: GuideProduct[] = [
     reviews: "10,899 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51OlDMVIAEL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DWXLCTGZ?tag=workcocoon-20",
-    description: "Included as the largest-screen budget option in this guide, at 120Hz rather than 165Hz, a real step down in refresh rate but a real step up in screen size and price. Genuine FreeSync support if your GPU is AMD-based.\n\nOne spot below VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz in this ranking, it's priced lower than VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz. The compromise here is straightforward: 120Hz, well below the 165Hz target of this guide. What you gain in return: Largest screen in this guide at a portable weight. Whether that trade is worth it depends on which side matters more for your setup.\n\nWorth knowing before you decide: Lowest price among the large-screen options. On the other side, Not a true 165Hz option. That's the main tradeoff to weigh against everything above.",
+    description: "Included as the largest-screen budget option in this guide, at 120Hz rather than 165Hz, a real step down in refresh rate but a real step up in screen size and price. Genuine FreeSync support if your GPU is AMD-based, backed by the largest review base of any pick in this guide.\n\nSkip it if 165Hz (or even 144Hz) is a hard requirement; at 120Hz, this is the furthest from this guide's actual target of any pick here.",
     specs: ["18.5-inch 120Hz, 125% sRGB, FreeSync","Full-size HDMI + dual USB-C","75x75mm VESA, 360° bracket","Largest review base in this guide"],
     pros: ["Largest screen in this guide at a portable weight","Lowest price among the large-screen options","Genuine FreeSync for AMD GPUs","Largest review base here"],
     cons: ["120Hz, well below the 165Hz target of this guide","125% sRGB unverified","Not a true 165Hz option"],
@@ -293,7 +294,7 @@ export const faq: FaqItem[] = [
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-144hz-portable-monitors", title: "Best 144Hz Portable Monitors (2026)" },
-  { href: "/guide/best-2k-portable-monitors", title: "Best 2K Portable Monitors (2026)" },
-  { href: "/guide/best-hdmi-portable-monitors", title: "Best HDMI Portable Monitors (2026)" },
+  { href: "/desk-setup/best-144hz-portable-monitors", title: "The Best 144Hz Portable Monitors When the Spec Sheet Is Quietly Lying to You" },
+  { href: "/desk-setup/best-2k-portable-monitors", title: "Best 2K Portable Monitors (2026)" },
+  { href: "/desk-setup/best-hdmi-portable-monitors", title: "Best HDMI Portable Monitors (2026)" },
 ];
