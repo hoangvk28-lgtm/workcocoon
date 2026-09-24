@@ -55,13 +55,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function LightingGuidePage({ params }: Props) {
   const { slug } = await params;
 
-  // A guide with a rich data/guides/<slug>.ts file always renders at /guide/<slug>
-  // via RichGuidePage (see app/(site)/guide/[slug]/page.tsx) - redirect here so this
-  // silo never serves a second, simpler-template copy of the same content.
-  if (guideDataLoaders[slug]) {
-    permanentRedirect(`/guide/${slug}`);
-  }
-
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) notFound();
 

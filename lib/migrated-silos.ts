@@ -1,3 +1,5 @@
+import { legacyLiteralRouteSlugs } from "@/data/guides-index.generated";
+
 // Maps guide categorySlug/subcategorySlug values, and legacy /categories/<slug>
 // pages, to their new topic-first silo route once that silo's content has been
 // migrated. Only entries here get a 301/308 redirect from the old URL — every
@@ -124,35 +126,23 @@ export function canonicalGuideHref(guide: { slug: string; categorySlug: string; 
 // the ONLY place their full content exists — GuideDetail only has thin registry
 // stub fields for them. A silo detail page must redirect back to /guide/<slug>
 // rather than render GuideDetail, or it silently serves an emptied-out page.
-// Computed once at module load; safe because app/(site)/guide/* never changes at
-// runtime.
-let legacyLiteralRouteSlugs: Set<string> | undefined;
+//
+// This used to be computed at request time via fs.readdirSync(app/(site)/guide) in
+// this Server Component module. That scanned whatever the serverless function's
+// deployed filesystem happened to contain, which isn't guaranteed to match the real
+// build output one-to-one on Vercel — for a couple of guides this produced a false
+// positive in production (not reproducible locally), which combined with /guide/
+// [slug]'s unconditional silo redirect to create an infinite redirect loop between
+// a silo URL and /guide/<slug>. Importing the list generated at build time instead
+// (scripts/generate-guides-index.mjs, alongside guideDataLoaders) makes this
+// deterministic and identical between build and every runtime.
+let legacyLiteralRouteSlugSet: Set<string> | undefined;
 
 export function hasLegacyLiteralRoute(slug: string): boolean {
-  if (!legacyLiteralRouteSlugs) {
-    legacyLiteralRouteSlugs = new Set<string>();
-    try {
-      // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const fs = require("fs") as typeof import("fs");
-      // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const path = require("path") as typeof import("path");
-      // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const { guideDataLoaders } = require("@/data/guides-index.generated") as {
-        guideDataLoaders: Record<string, unknown>;
-      };
-      const guideDir = path.join(process.cwd(), "app", "(site)", "guide");
-      const staticRouteSlugs = fs
-        .readdirSync(guideDir, { withFileTypes: true })
-        .filter((d) => d.isDirectory() && !d.name.startsWith("[") && !d.name.startsWith("("))
-        .map((d) => d.name);
-      for (const s of staticRouteSlugs) {
-        if (!guideDataLoaders[s]) legacyLiteralRouteSlugs.add(s);
-      }
-    } catch {
-      // If this can't be computed, fail open (empty set) rather than crash rendering.
-    }
+  if (!legacyLiteralRouteSlugSet) {
+    legacyLiteralRouteSlugSet = new Set(legacyLiteralRouteSlugs);
   }
-  return legacyLiteralRouteSlugs.has(slug);
+  return legacyLiteralRouteSlugSet.has(slug);
 }
 
 // All categorySlug/subcategorySlug values migrated into a given silo — the
