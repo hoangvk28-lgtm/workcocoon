@@ -16,10 +16,10 @@ const categoryConfig: Record<string, {
     highlights: ["Desk Lamps", "Monitor Stands", "Laptop Stands", "Cable Management"],
   },
   "dorm-essentials": {
-    tagline: "Space-saving picks every college student needs",
-    icon: "🎓",
+    tagline: "Space-saving picks for a smaller workspace footprint",
+    icon: "📐",
     guideCount: 3,
-    highlights: ["Bedside Caddies", "Cable Management", "Desk Lamps"],
+    highlights: ["Cable Management", "Desk Lamps", "Power Strips"],
   },
   "small-room-storage": {
     tagline: "Maximize every inch of your small space",
@@ -28,7 +28,7 @@ const categoryConfig: Record<string, {
     highlights: ["Under-Bed Storage", "Storage Carts"],
   },
   "compact-home-office": {
-    tagline: "Professional setup for your bedroom or studio office",
+    tagline: "Setup ideas and gear for a real working home office",
     icon: "💼",
     guideCount: 4,
     highlights: ["Monitor Stands", "Laptop Stands", "Desk Lamps", "Cable Mgmt"],

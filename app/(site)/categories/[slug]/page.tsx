@@ -17,7 +17,8 @@ import {
 import { getPublicProductsForCategoryHub } from "@/lib/public-products";
 import { getPublicGuidesByCategory } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
-import { MIGRATED_CATEGORY_TO_SILO } from "@/lib/migrated-silos";
+import { MIGRATED_CATEGORY_TO_SILO, canonicalGuideHref } from "@/lib/migrated-silos";
+import { guides as staticGuides } from "@/data/guides";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -40,11 +41,11 @@ const educationalTopics: Record<string, EducationalTopic[]> = {
     { question: "How to organize a small desk for deep focus", comingSoon: true },
   ],
   "dorm-essentials": [
-    { question: "How to organize a dorm room bedside table", href: "/guide/bedside-caddies-students" },
-    { question: "Best cable management solutions for dorm rooms", href: "/guide/cable-management-dorm" },
-    { question: "How to choose a study lamp for a dorm desk", href: "/guide/desk-lamps-small-desks" },
-    { question: "How to maximize storage when you have no closet space", comingSoon: true },
-    { question: "Dorm setup checklist: what you actually need", comingSoon: true },
+    { question: "How to keep cables tidy on a small desk", href: "/guide/cable-management-dorm" },
+    { question: "How to choose a desk lamp for a tight workspace", href: "/guide/desk-lamps-small-desks" },
+    { question: "How to organize a bedside table that doubles as a desk", href: "/guide/bedside-caddies-students" },
+    { question: "How to make storage work when you have no closet space", comingSoon: true },
+    { question: "Small-footprint workspace checklist: what you actually need", comingSoon: true },
   ],
   "small-room-storage": [
     { question: "Best under-bed storage options for small bedrooms", href: "/guide/under-bed-storage-small-rooms" },
@@ -107,7 +108,11 @@ export default async function CategoryPage({ params }: Props) {
     getPublicProductsForCategoryHub(category),
   ]);
   const relatedCategories = getAllCategories().filter((c) => c.slug !== slug);
-  const topics = educationalTopics[slug] ?? [];
+  const topics = (educationalTopics[slug] ?? []).map((t) => {
+    const m = t.href?.match(/^\/guide\/([a-z0-9-]+)$/);
+    const g = m ? staticGuides.find((x) => x.slug === m[1]) : undefined;
+    return g ? { ...t, href: canonicalGuideHref(g) } : t;
+  });
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
