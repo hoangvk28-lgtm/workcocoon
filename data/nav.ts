@@ -24,7 +24,7 @@ export const mainNav: NavItem[] = [
       { label: "Accessories", href: "/categories/accessories", description: "Cable management, keyboards & more" },
     ],
   },
-  { label: "Work Better", href: "/categories/small-room-storage" },
+  { label: "Work Better", href: "/work-better" },
   { label: "Compare", href: "/compare" },
 ];
 
@@ -36,7 +36,8 @@ export const footerNav = {
     { label: "Monitors", href: "/categories/monitors" },
     { label: "Lighting", href: "/categories/lighting" },
     { label: "Accessories", href: "/categories/accessories" },
-    { label: "Work Better", href: "/categories/small-room-storage" },
+    { label: "Work Better", href: "/work-better" },
+    { label: "Storage & Organization", href: "/categories/small-room-storage" },
     { label: "Compact Essentials", href: "/categories/dorm-essentials" },
   ],
   company: [

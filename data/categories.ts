@@ -38,7 +38,7 @@ export const categories: Category[] = [
   },
   {
     slug: "small-room-storage",
-    name: "Work Better",
+    name: "Storage & Organization",
     description:
       "Organization, storage, and cable management that keep a workspace clear and focused - so the space works for you instead of adding to the clutter.",
     shortDescription: "Organization and storage for a clearer, calmer desk.",
