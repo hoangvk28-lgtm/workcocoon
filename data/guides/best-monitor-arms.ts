@@ -438,7 +438,7 @@ export const howToChoose: HowToChooseSection[] = [
       },
       {
         "label": "In this comparison",
-        "text": "Ergotron LX Monitor Arm is worth checking against its listed height range before buying, given its strong review base."
+        "text": "Ergotron LX Monitor Arm's gas spring mechanism is the most established design here for handling repeated daily height changes; check its listed height range against your desk before buying."
       }
     ]
   },
@@ -491,6 +491,6 @@ export const faq: FaqItem[] = [
 
 export const relatedGuides: { href: string; title: string }[] = [
   { href: "/desk-setup/best-dual-monitor-arms", title: "8 Best Dual Monitor Arms in 2026" },
-  { href: "/desk-setup/best-monitor-arm-desk-mounts", title: "8 Best Monitor Arm Desk Mounts in 2026" },
+  { href: "/desk-setup/best-monitor-arm-desk-mounts", title: "The Best Monitor Arm Mounts for Desks You Can't Clamp, Drill, or Modify" },
   { href: "/desk-setup/best-ultrawide-monitor-arm", title: "6 Best Ultrawide Monitor Arms in 2026" },
 ];

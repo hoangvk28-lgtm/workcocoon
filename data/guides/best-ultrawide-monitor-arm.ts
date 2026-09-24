@@ -417,7 +417,7 @@ export const faq: FaqItem[] = [
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-ultrawide-monitor-stand", title: "Best Ultrawide Monitor Stands (2026)" },
-  { href: "/guide/best-ultrawide-monitor-usb-c", title: "Best Ultrawide Monitors with USB-C (2026)" },
+  { href: "/desk-setup/best-ultrawide-monitor-stand", title: "Best Ultrawide Monitor Stands (2026)" },
+  { href: "/desk-setup/best-ultrawide-monitor-usb-c", title: "Best Ultrawide Monitors with USB-C (2026)" },
   { href: "/guide/best-monitor-arm-under-100", title: "Best Monitor Arms Under $100 (2026)" },
 ];
