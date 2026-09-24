@@ -21,6 +21,22 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
+
+  // Rich guide (data/guides/<slug>.ts) carries its own curated metaTitle/metaDescription —
+  // check it first so that copy isn't silently discarded in favor of the thin registry's
+  // title/description, matching /guide/[slug]'s own generateMetadata dispatch.
+  const loadRichGuide = guideDataLoaders[slug];
+  if (loadRichGuide) {
+    const richData = await loadRichGuide();
+    return buildMetadata({
+      title: richData.metaTitle,
+      description: richData.metaDescription,
+      path: `/desks/${slug}`,
+      image: richData.heroImage,
+      type: "article",
+    });
+  }
+
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) return {};
 

@@ -6459,11 +6459,11 @@ export const guides: Guide[] = [
     buyingCriteria: [],
   },
   {
-    title: "8 Best Monitor Arms in 2026",
+    title: "The Best Monitor Arms When Desk Space (and Desk Thickness) Is Tight",
     slug: "best-monitor-arms",
     categorySlug: "desk-setup",
     subcategorySlug: "monitor-arms",
-    description: "8 best monitor arms in 2026, from $19 tool-free VESA mounts to a 44 lb heavy-duty arm for 49-inch ultrawides. Compare desk fit, reach, and weight capacity.",
+    description: "8 monitor arms compared for small desks and thin or hollow-core desktops, from a $19.98 tool-free VESA mount to a 44 lb heavy-duty arm for 49-inch ultrawides. Compare clamp fit, weight capacity, and desk space reclaimed.",
     mainKeyword: "monitor arm",
     subKeywords: ["monitor arms", "monitor arm desk mount", "monitor arm stand"],
     heroImage: "https://m.media-amazon.com/images/I/31-J6rY9HEL._SL500_.jpg",
