@@ -5289,11 +5289,11 @@ export const guides: Guide[] = [
     buyingCriteria: [],
   },
   {
-    title: "8 Best Chair Mats for Carpet in 2026",
+    title: "The Best Chair Mats for Carpet When You Want Your Deposit Back",
     slug: "best-chair-mat-for-carpet",
     categorySlug: "compact-home-office",
     subcategorySlug: "chair-mats",
-    description: "8 best chair mats for carpet in 2026, matched to pile height, cleat grip, and chair weight capacity, from budget PVC to GREENGUARD-certified picks.",
+    description: "8 chair mats for carpet compared by pile height, cleat grip, and weight capacity, from a $28 budget PVC mat to a GREENGUARD-certified pick safe for a shared bedroom or rental. Protects carpet without a rug you can't take with you.",
     mainKeyword: "chair mat for carpet",
     subKeywords: ["office chair mat carpet", "rolling chair mat for carpet", "desk chair mat carpet"],
     heroImage: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",

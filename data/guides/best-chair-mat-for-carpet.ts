@@ -1,12 +1,13 @@
 export const guideSlug = "best-chair-mat-for-carpet";
-export const guideTitle = "8 Best Chair Mats for Carpet in 2026";
-export const metaTitle = "Best Chair Mat for Carpet in 2026 (By Pile Height & Weight)";
+export const guideTitle = "The Best Chair Mats for Carpet When You Want Your Deposit Back";
+export const metaTitle = "Best Chair Mat for Carpet (2026) | WorkCocoon";
 export const metaDescription =
-  "8 best chair mats for carpet in 2026, matched to pile height, cleat grip, and chair weight capacity, from budget PVC to GREENGUARD-certified picks.";
+  "8 chair mats for carpet compared by pile height, cleat grip, and weight capacity, from a $28 budget PVC mat to a GREENGUARD-certified pick safe for a shared bedroom or rental. Protects carpet without a rug you can't take with you.";
 export const mainKeyword = "chair mat for carpet";
 export const introParagraphs = [
   "A chair mat that works on hardwood can fail completely on carpet, because a flat-backed mat has nothing to grip into carpet fibers and slowly migrates across the room as the chair rolls. The mats that actually stay put on carpet use molded cleats, spikes, or studs on the underside, and they're rated for a specific pile height range rather than carpet in general.",
-  "Below are 8 chair mats for carpet we evaluated on cleat design, pile-height rating, material thickness, and weight capacity, ranging from a $28 clear PVC mat with rounded corners to a rigid 5mm mat rated for 1,400 lbs.",
+  "For a rented room or a carpet you don't want to wear a permanent chair-track into, a mat is the cheaper, fully reversible fix compared to swapping in hard flooring or a large area rug. Below are 8 chair mats for carpet we evaluated on cleat design, pile-height rating, material thickness, and weight capacity, ranging from a $28 clear PVC mat with rounded corners to a rigid 5mm mat rated for 1,400 lbs.",
+  "This comparison is based on manufacturer specifications and published buyer feedback, not hands-on testing in our own space.",
 ];
 export const lastUpdated = "2026-07-18";
 export const readTime = "9 min";
@@ -51,7 +52,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=workcocoon-20",
     description:
-      "This PU vinyl mat is 2.2mm thick and measures 36x48 inches with an extended lip and ramped edges so the transition from carpet to mat doesn't create a lip your chair casters catch on. Molded cleats and anchor bars on the underside dig into low pile carpet up to 1/4 inch thick, and the top surface has an anti-skid texture.\n\nIts 5-year warranty is the longest of any pick in this guide, a meaningful detail on a mat that lives under constant rolling pressure. It's built specifically for low pile carpet, so check your carpet's pile height before buying if you're not sure it qualifies.\n\nA genuine advantage here is that ramped lip smooths the carpet-to-mat transition. The tradeoff is only rated for low pile, not medium or high.",
+      "This PU vinyl mat is 2.2mm thick and measures 36x48 inches with an extended lip and ramped edges so the transition from carpet to mat doesn't create a lip your chair casters catch on. Molded cleats and anchor bars on the underside dig into low pile carpet up to 1/4 inch thick, and the top surface has an anti-skid texture.\n\nIts 5-year warranty is the longest of any pick in this guide, a meaningful detail on a mat that lives under constant rolling pressure.\n\nSkip it if your carpet is anything past low pile (over 1/4\"); it's only rated for that range, and the polycarbonate pick further down covers a wider pile range.",
     specs: [
       "36\"W x 48\"D, PU vinyl, 2.2mm thick",
       "Rated for low pile carpet up to 1/4\"",
@@ -83,7 +84,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/312JmZc6DqL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B07BZCYM9X?tag=workcocoon-20",
     description:
-      "Dimex builds this PVC mat 0.25 inches thick, the thickest PVC mat with a front lip in this guide, in a 36x48 footprint with a 20-inch wide, 10-inch deep front lip that tucks under a desk. Cleated backing anchors it into low pile carpet up to 1/4 inch, and rounded corners reduce a common tripping and curling complaint.\n\nIt's Made in USA, which matters to some buyers on price and quality grounds, and the extra PVC thickness gives it a sturdier feel underfoot than thinner vinyl mats at a similar price.\n\nMade in USA. On the other hand, still rated for low pile only. Neither should be a surprise once you know to look for it.",
+      "Dimex builds this PVC mat 0.25 inches thick, the thickest PVC mat with a front lip in this guide, in a 36x48 footprint with a 20-inch wide, 10-inch deep front lip that tucks under a desk. Cleated backing anchors it into low pile carpet up to 1/4 inch, and rounded corners reduce a common tripping and curling complaint.\n\nThe extra PVC thickness gives it a sturdier feel underfoot than thinner vinyl mats at a similar price.\n\nSkip it if your carpet exceeds low pile; like the HON/OFM pick above, this doesn't cover medium or high pile despite the added thickness.",
     specs: [
       "36\"W x 48\"D, PVC, 0.25\" thick",
       "20\"W x 10\"D front lip",
@@ -115,7 +116,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=workcocoon-20",
     description:
-      "This mat uses a special rigid material 5mm (0.2 inches) thick, the thickest mat in this entire guide, in a 54x32 footprint that stays rigid and flat rather than curling at the edges. It's rated for 1,400 lbs, the highest capacity of any pick here, which matters for heavier chairs or heavier users.\n\nBecause it's rigid rather than rolled vinyl, it works equally well on carpet or hard floor without needing to be flipped, and it carries a 12-month warranty. Its rigidity is a real advantage on carpet since it won't sink into the pile the way a thin flexible mat can.\n\nThickest material in this guide. That's a real strength, but weigh it against the flip side: shortest warranty among the higher-priced picks.",
+      "This mat uses a special rigid material 5mm (0.2 inches) thick, the thickest mat in this entire guide, in a 54x32 footprint that stays rigid and flat rather than curling at the edges. It's rated for 1,400 lbs, the highest capacity of any pick here, which matters for heavier chairs or heavier users.\n\nBecause it's rigid rather than rolled vinyl, it works equally well on carpet or hard floor without needing to be flipped, useful if you move between a carpeted and hard-floor room later. Its rigidity is a real advantage on carpet since it won't sink into the pile the way a thin flexible mat can.\n\nSkip it if warranty length matters most to you; at 12 months it's the shortest coverage among the higher-priced picks here.",
     specs: [
       "54\"W x 32\"D, special rigid material, 5mm (0.2\") thick",
       "Rated 1,400 lbs, highest in this guide",
@@ -147,7 +148,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51aIF9KY80L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CC1ZLDL2?tag=workcocoon-20",
     description:
-      "BesWin's PVC mat is 2.2mm thick in a 30x48 footprint with 3mm spikes on the underside designed to grip directly into carpet fibers rather than just sitting on top of them. Pleated corners help it lie flatter than a plain-cut edge, and the construction is BPA-free, phthalate-free, and odorless.\n\nIt's the only no-lip PVC pick in this guide backed by a lifetime warranty, a strong claim at this price point. Give it about 24 hours flat after unboxing before judging whether it lies fully flat, since a rolled mat needs that settling time.\n\nWorth calling out specifically: lowest price among the standard PVC mats. The catch is no front lip for tucking under a desk.",
+      "BesWin's PVC mat is 2.2mm thick in a 30x48 footprint with 3mm spikes on the underside designed to grip directly into carpet fibers rather than just sitting on top of them. Pleated corners help it lie flatter than a plain-cut edge, and the construction is BPA-free, phthalate-free, and odorless.\n\nIt's the only no-lip PVC pick in this guide backed by a lifetime warranty, a strong claim at this price point. Give it about 24 hours flat after unboxing before judging whether it lies fully flat, since a rolled mat needs that settling time.\n\nSkip it if you specifically want a front lip that tucks under your desk; this ships without one, unlike the Dimex and Staples picks.",
     specs: [
       "30\"W x 48\"D, PVC, 2.2mm thick",
       "3mm spikes for carpet grip",
@@ -179,7 +180,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31IK+GtR-sL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B07C1VP5Z1?tag=workcocoon-20",
     description:
-      "This PVC mat is 0.11 inches thick with a 36x48 footprint and a tapered front lip measuring 24.7 inches wide by 9.2 inches deep, sized to tuck neatly under most desks. Rounded corners reduce the curling and cracking that square-cut corners are prone to over time. It's rated for low pile carpet up to 1/4 inch, Made in USA, and backed by a 1-year warranty. It's the cheapest Made-in-USA pick in this guide, a good fit if budget matters more than extended coverage. Tapered lip sized to tuck under a desk. Set against that, thinnest material among the PVC picks at 0.11\". Both matter when comparing it to the other picks here.",
+      "This PVC mat is 0.11 inches thick with a 36x48 footprint and a tapered front lip measuring 24.7 inches wide by 9.2 inches deep, sized to tuck neatly under most desks. Rounded corners reduce the curling and cracking that square-cut corners are prone to over time. It's rated for low pile carpet up to 1/4 inch, Made in USA, and backed by a 1-year warranty. It's the cheapest Made-in-USA pick in this guide, a good fit if budget matters more than extended coverage.\n\nSkip it if you want more than a 1-year warranty or thicker material; at 0.11\", it's the thinnest PVC mat in this guide.",
     specs: [
       "36\"W x 48\"D, PVC, 0.11\" thick",
       "Tapered lip 24.7\"W x 9.2\"D",
@@ -211,7 +212,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=workcocoon-20",
     description:
-      "This is a 100% polycarbonate mat, 0.087 inches thick, in a 36x48 footprint with hundreds of spikes across the underside for carpet grip. Polycarbonate is naturally more impact-resistant than PVC, and it ships completely flat rather than rolled, so there's no waiting period for it to relax before it lies flat.\n\nIt's rated for medium to low pile carpet up to 3/4 inch, a wider pile range than most of the PVC picks in this guide, making it a better fit if your carpet has noticeably more cushion underfoot than a thin office-grade low pile.\n\nA genuine advantage here is that rated for a wider pile range than the PVC picks. The tradeoff is pricier than the budget PVC picks.",
+      "This is a 100% polycarbonate mat, 0.087 inches thick, in a 36x48 footprint with hundreds of spikes across the underside for carpet grip. Polycarbonate is naturally more impact-resistant than PVC, and it ships completely flat rather than rolled, so there's no waiting period for it to relax before it lies flat.\n\nIt's rated for medium to low pile carpet up to 3/4 inch, a wider pile range than most of the PVC picks in this guide, making it a better fit if your carpet has noticeably more cushion underfoot than a thin office-grade low pile.\n\nSkip it if your carpet is genuinely thin, flat-pile carpet; the budget PVC picks above cover that range for less, and this mat's wider pile rating isn't a benefit you'd use.",
     specs: [
       "36\"W x 48\"D, polycarbonate, 0.087\" thick",
       "Hundreds of underside spikes",
@@ -242,7 +243,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/21yIdI78BnL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0F1R227SY?tag=workcocoon-20",
     description:
-      "Staples' clear vinyl mat is 0.25 inches thick with a 20-inch lip in a 36x48 footprint, and it uses rounded AnchorBar cleats on the underside instead of sharp spikes, a gentler design if bare feet or pets share the space around the desk. It's rated for flat pile carpet up to 1/8 inch, the shallowest pile rating in this guide.\n\nIt's the only GREENGUARD-certified pick in this list, relevant for indoor air quality if the mat sits in a bedroom or shared living space rather than a dedicated office.\n\nRounded cleats are safer around bare feet or pets. On the other hand, shallowest pile rating in this guide at 1/8\". Neither should be a surprise once you know to look for it.",
+      "Staples' clear vinyl mat is 0.25 inches thick with a 20-inch lip in a 36x48 footprint, and it uses rounded AnchorBar cleats on the underside instead of sharp spikes, a gentler design if bare feet or pets share the space around the desk. It's rated for flat pile carpet up to 1/8 inch, the shallowest pile rating in this guide.\n\nIt's the only GREENGUARD-certified pick in this list, worth prioritizing specifically if the mat sits in a bedroom or shared living space rather than a dedicated office.\n\nSkip it if your carpet has any real pile to it; at 1/8\", this has the shallowest pile rating in this guide, and it won't grip a thicker carpet the way its cleats are designed to.",
     specs: [
       "36\"W x 48\"D, clear vinyl, 0.25\" thick",
       "20\" front lip",
@@ -274,7 +275,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51zlFzzlTaL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0C8M2JCHR?tag=workcocoon-20",
     description:
-      "TONOS builds this polycarbonate mat 0.1 inches thick in a 47.5x35.5 footprint, the widest polycarbonate mat with a lip in this guide, with an extended lip designed specifically to tuck under a desk. Enhanced cleats and studs on the underside grip low pile carpet, and the semi-transparent finish wipes clean easily. at a budget-friendly price it undercuts most of the other polycarbonate picks here while still offering more surface area, a reasonable trade if you want polycarbonate's added durability without paying a premium for it. Cheapest polycarbonate pick in this guide. That's a real strength, but weigh it against the flip side: only rated for low pile, unlike the other polycarbonate pick.",
+      "TONOS builds this polycarbonate mat 0.1 inches thick in a 47.5x35.5 footprint, the widest polycarbonate mat with a lip in this guide, with an extended lip designed specifically to tuck under a desk. Enhanced cleats and studs on the underside grip low pile carpet, and the semi-transparent finish wipes clean easily. It undercuts most of the other polycarbonate picks here while still offering more surface area, a reasonable trade if you want polycarbonate's added durability without paying a premium for it.\n\nSkip it if your carpet runs thicker than low pile; unlike the GORILLA GRIP pick above, this one isn't rated past that range despite sharing the same polycarbonate material.",
     specs: [
       "47.5\"W x 35.5\"D, polycarbonate, 0.1\" thick",
       "Extended lip for desk tuck",
@@ -327,24 +328,24 @@ export const howWeEvaluated: HowWeEvaluatedItem[] = [
 
 export const buyingCriteria: BuyingCriterion[] = [
   {
-    "criterion": "Match actual size and capacity to your real need, not the category label alone",
-    "explanation": "Listings for a chair mat often use a size or capacity label (\"compact,\" \"large,\" \"heavy-duty\") that isn't standardized across brands, so the same label can mean meaningfully different actual dimensions or capacity from one product to the next.\n\nThis matters because buying based on the category label rather than the specific listed dimensions or capacity is a common way to end up with something that doesn't actually fit your space or handle your real load.\n\nCheck the listing for exact measurements or a stated capacity figure, and compare that directly against your actual space or need, not just the marketing size category."
+    "criterion": "Measure your carpet's actual pile height before buying, not just its general thickness",
+    "explanation": "A mat's \"for carpet\" label doesn't tell you enough; nearly every mat in this category is rated for a specific pile-height range (typically low, medium, or high), and a mat rated for low pile carpet will sit unevenly, rock, or fail to grip on anything thicker.\n\nThis matters because buying based on the general \"for carpet\" description rather than your carpet's actual measured pile height is the single most common reason a chair mat doesn't work as expected.\n\nMeasure your carpet's pile height (press a ruler down to the base of the fibers) and match it against the mat's stated rating before ordering, not just its general carpet compatibility claim."
   },
   {
-    "criterion": "Verify build material and construction quality from reviews, not just spec-sheet claims",
-    "explanation": "A product description can describe material or construction in flattering terms that don't always hold up under real, sustained use, and the gap between a listing's claimed quality and its actual durability only shows up in how the product performs after weeks or months of real use, not in day-one photos.\n\nThis matters more for anything you'll use daily or under real load, less for occasional light use where durability matters less.\n\nCheck reviews specifically for mentions of how the chair mat holds up over time, not just unboxing-day impressions, and treat a listing's own quality claims as a starting point to verify, not a guarantee."
+    "criterion": "Check the underside grip design against how thick and dense your carpet is",
+    "explanation": "Cleats, spikes, and studs all serve the same purpose, anchoring the mat into carpet fibers so it doesn't migrate as the chair rolls, but their effectiveness depends on carpet density as much as pile height. Sparse studs can slip on a denser weave even within their stated pile range.\n\nThis matters more the heavier your chair and the more you roll across the mat daily; a mat that migrates an inch a week becomes a real annoyance over months.\n\nFor a denser or plush carpet, favor a mat with more numerous or deeper cleats over one with fewer, larger studs, even if both are rated for the same pile height."
   },
   {
-    "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this chair mat over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "criterion": "Decide between rigid and flexible material based on how your carpet compresses",
+    "explanation": "A flexible PVC or vinyl mat can sink slightly into carpet pile under chair weight, which is fine on a thin low-pile carpet but becomes noticeable on anything with real cushion. A rigid material (like polycarbonate or a specialty rigid composite) resists that sinking but costs more and is heavier to reposition.\n\nThis matters most on a plush or padded carpet, where a flexible mat's give can make the chair feel like it's rolling on the carpet itself rather than the mat.\n\nIf your carpet has noticeable cushion underfoot, lean toward a rigid mat even if a cheaper flexible one is technically rated for your pile height."
   },
   {
-    "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any chair mat you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "criterion": "Check whether a front lip is included, and whether its size fits under your desk",
+    "explanation": "A front lip lets the mat tuck partway under your desk, closing the gap where a chair caster could otherwise catch on the mat's edge. Not every mat includes one, and lip dimensions vary enough that a lip sized for a standard office desk may not fit a smaller or nonstandard desk footprint.\n\nThis matters if you roll your chair in and out from under the desk regularly; without a lip, that edge is where most caster-catching complaints happen.\n\nIf you want a lip, check its specific width and depth against your desk's actual clearance, not just whether the listing mentions having one."
   },
   {
-    "criterion": "Check compatibility and fit with your existing setup before ordering",
-    "explanation": "A chair mat that looks like a straightforward fit in photos can still have a compatibility detail, a connector type, a mounting requirement, a size threshold, that doesn't match your existing setup, and this kind of mismatch is one of the most common and avoidable reasons for a return.\n\nThis matters directly if the product needs to physically connect to, mount on, or otherwise integrate with something you already own.\n\nCheck the listing's specific compatibility details against your exact existing setup, not just the general product category, before ordering."
+    "criterion": "Check for GREENGUARD or low-VOC certification if the mat will sit in a bedroom or shared living space",
+    "explanation": "Chair mats are typically PVC, vinyl, or polycarbonate, and some inexpensive mats can carry a noticeable off-gassing smell for the first days or weeks after unboxing. GREENGUARD certification specifically verifies low chemical emissions, which matters more in a room you sleep in than in a dedicated, well-ventilated office.\n\nThis matters most for a dorm room, a bedroom doubling as a workspace, or any space with limited ventilation.\n\nIf the mat will sit somewhere you spend a lot of non-working time, check specifically for GREENGUARD or an equivalent low-VOC certification rather than assuming all chair mats are equal on this."
   }
 ];
 
@@ -396,44 +397,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "Evolve/Dimex 36x48 Clear Chair Mat Rounded Corners vs GORILLA GRIP Slip Resistant Chair Mat for Carpet",
+    "subheading": "PVC vs. Polycarbonate vs. Rigid",
     "cards": [
       {
-        "label": "Evolve/Dimex 36x48 Clear Chair Mat Rounded Corners",
-        "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
+        "label": "PVC / vinyl",
+        "text": "Cheapest option and fine for low pile carpet, but flexes slightly under weight and can sink into thicker pile. In this comparison: HON/OFM Essentials, Dimex, BesWin, Evolve/Dimex."
       },
       {
-        "label": "GORILLA GRIP Slip Resistant Chair Mat for Carpet",
-        "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
+        "label": "Polycarbonate",
+        "text": "More impact-resistant and often rated for a wider pile range, at a higher price. In this comparison: GORILLA GRIP, TONOS."
+      },
+      {
+        "label": "Rigid composite",
+        "text": "Stays flat and won't sink into pile at all, at the highest price and weight. In this comparison: MuArts Crystal Clear Heavy Duty."
       }
     ],
-    "note": "Default to Evolve/Dimex 36x48 Clear Chair Mat Rounded Corners unless your specific need genuinely calls for the pricier pick's extra headroom."
+    "note": "Match the material to your carpet's actual cushion, not just your budget; a flexible mat on plush carpet undermines the whole point of buying one."
   },
   {
-    "subheading": "By Review Base Confidence",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Largest, most-established review base",
-          "HON/OFM Essentials Chair Mat for Low Pile Carpet"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a First-Time Buyer Specifically",
+    "subheading": "For a Bedroom or Shared Living Space Specifically",
     "cards": [
       {
         "label": "Look for",
-        "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
+        "text": "GREENGUARD or equivalent low-VOC certification, since a mat with a strong new-plastic smell is more noticeable in a room you sleep in than a dedicated office."
       },
       {
         "label": "In this comparison",
-        "text": "HON/OFM Essentials Chair Mat for Low Pile Carpet is worth checking against its listed specs before buying, given its strong review base."
+        "text": "Staples Clear Chair Mat with Lip is the only GREENGUARD-certified pick here, and its rounded AnchorBar cleats are also gentler if bare feet or pets share the space."
       }
     ]
   },
@@ -442,11 +432,11 @@ export const howToChoose: HowToChooseSection[] = [
     "cards": [
       {
         "label": "Spend more if",
-        "text": "You need real durability and feature depth for regular use, where GORILLA GRIP Slip Resistant Chair Mat for Carpet's build gives real headroom over the cheaper picks."
+        "text": "Your carpet is medium or high pile, where MuArts Crystal Clear Heavy Duty's rigid construction and 1,400 lb capacity give real headroom the budget PVC picks don't have."
       },
       {
         "label": "Save if",
-        "text": "You only need this for light or occasional use, where Evolve/Dimex 36x48 Clear Chair Mat Rounded Corners covers the same job at a lower price."
+        "text": "Your carpet is genuinely low pile and you don't need a desk lip, where Evolve/Dimex 36x48 Clear Chair Mat Rounded Corners covers the same job at the lowest price in this guide."
       }
     ]
   }
@@ -480,7 +470,7 @@ export const faq: FaqItem[] = [
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-chair-mats", title: "Best Chair Mats for Any Floor (2026)" },
-  { href: "/guide/best-chair-mats-for-carpet", title: "Best Chair Mats for Carpet, Commercial-Grade Picks (2026)" },
+  { href: "/chairs/best-chair-mats", title: "Best Chair Mats for Any Floor (2026)" },
+  { href: "/chairs/best-chair-mats-for-carpet", title: "Best Chair Mats for Carpet, Commercial-Grade Picks (2026)" },
   { href: "/guide/best-office-chair-under-100", title: "Best Office Chairs Under $100 (2026)" },
 ];
