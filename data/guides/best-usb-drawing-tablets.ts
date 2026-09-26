@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-drawing-tablets";
-export const guideTitle = "6 Best USB Drawing Tablets in 2026";
+export const guideTitle = "Best USB Drawing Tablets";
 export const metaTitle = "Best USB Drawing Tablets 2026";
 export const metaDescription = "We compared usb drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "usb drawing tablets";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-small";
-export const guideTitle = "8 Best Small TV Stands in 2026";
+export const guideTitle = "Best Small TV Stands";
 export const metaTitle = "Best Small TV Stands in 2026 - Top 8 Compact Picks";
 export const metaDescription =
   "The 8 best small TV stands in 2026 for compact living rooms, bedrooms, and apartments, ranked by footprint, storage, and TV size fit.";

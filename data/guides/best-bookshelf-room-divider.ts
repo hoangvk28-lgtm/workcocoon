@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-room-divider";
-export const guideTitle = "7 Best Bookshelf Room Dividers in 2026";
+export const guideTitle = "Best Bookshelf Room Dividers";
 export const metaTitle = "Best Bookshelf Room Dividers in 2026 (S-Shaped & Open Shelving)";
 export const metaDescription =
   "7 best bookshelf room dividers in 2026, comparing S-shaped freestanding designs and tall open shelving partitions. Compare height, capacity, and light-through styling.";

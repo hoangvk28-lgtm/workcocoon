@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-task-chairs-for-apartments";
-export const guideTitle = "6 Best Compact Task Chairs for Apartments in 2026";
+export const guideTitle = "Best Compact Task Chairs for Apartments";
 export const metaTitle = "Best Compact Task Chairs for Apartments";
 export const metaDescription = "We compared task chair for apartment models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair for apartment";

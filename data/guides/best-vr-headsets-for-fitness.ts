@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-for-fitness";
-export const guideTitle = "6 Best VR Headsets for Fitness in 2026";
+export const guideTitle = "Best VR Headsets for Fitness";
 export const metaTitle = "Best VR Headsets for Fitness";
 export const metaDescription = "We compared vr headsets for fitness models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vr headsets for fitness";

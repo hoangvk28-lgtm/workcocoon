@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-with-dates";
-export const guideTitle = "5 Best Desk Clocks with Date Displays in 2026";
+export const guideTitle = "Best Desk Clocks with Date Displays";
 export const metaTitle = "Best Desk Clocks with Date Display";
 export const metaDescription =
   "5 desk clocks that display the date alongside the time compared, covering day-of-week display, power type, and what other readouts each screen bundles in.";

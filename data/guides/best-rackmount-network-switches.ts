@@ -1,5 +1,5 @@
 export const guideSlug = "best-rackmount-network-switches";
-export const guideTitle = "8 Best Rackmount Network Switches in 2026";
+export const guideTitle = "Best Rackmount Network Switches";
 export const metaTitle = "Best Rackmount Network Switches 2026";
 export const metaDescription = "We compared switches built specifically for rack installation, weighing genuine 1U fit against desktop switches that merely tolerate a rack.";
 export const mainKeyword = "rackmount network switches";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-lightweight-portable-power-stations";
-export const guideTitle = "8 Best Lightweight Portable Power Stations in 2026";
+export const guideTitle = "Best Lightweight Portable Power Stations";
 export const metaTitle = "Best Lightweight Portable Power Stations 2026";
 export const metaDescription = "We compared lightweight portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "lightweight portable power stations";

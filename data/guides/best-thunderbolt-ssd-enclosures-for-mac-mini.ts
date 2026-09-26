@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-ssd-enclosures-for-mac-mini";
-export const guideTitle = "6 Best Thunderbolt SSD Enclosures for Mac Mini";
+export const guideTitle = "Best Thunderbolt SSD Enclosures for Mac Mini";
 export const metaTitle = "Best Thunderbolt Enclosures for Mac Mini";
 export const metaDescription = "Keep this narrower than a general Mac NVMe page by requiring genuine Thunderbolt-class host behavior and desk/dock integration.";
 export const mainKeyword = "thunderbolt ssd enclosures for mac mini";

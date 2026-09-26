@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-blocking-glasses-for-men";
-export const guideTitle = "6 Best Blue Light Blocking Glasses for Men in 2026";
+export const guideTitle = "Best Blue Light Blocking Glasses for Men";
 export const metaTitle = "Best Blue Light Blocking Glasses for Men";
 export const metaDescription = "We compared blue light blocking glasses for men models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "blue light blocking glasses for men";

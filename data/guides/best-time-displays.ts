@@ -1,5 +1,5 @@
 export const guideSlug = "best-time-displays";
-export const guideTitle = "5 Best Time Displays for Desks in 2026";
+export const guideTitle = "Best Time Displays for Desks";
 export const metaTitle = "Best Time Displays for Desks (2026)";
 export const metaDescription =
   "5 digital time displays compared on digit size, brightness control, and time accuracy, for readable at-a-glance clocks on a desk or nightstand.";

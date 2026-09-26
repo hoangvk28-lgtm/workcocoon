@@ -1,5 +1,5 @@
 export const guideSlug = "best-oak-floating-shelves";
-export const guideTitle = "5 Best Oak Floating Shelves in 2026";
+export const guideTitle = "Best Oak Floating Shelves";
 export const metaTitle = "Best Oak Floating Shelves";
 export const metaDescription = "We compared floating shelf oak effect models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "floating shelf oak effect";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-nvme-enclosures";
-export const guideTitle = "7 Best Portable NVMe Enclosures in 2026";
+export const guideTitle = "Best Portable NVMe Enclosures";
 export const metaTitle = "Best Portable NVMe Enclosures in 2026";
 export const metaDescription = "Portability is more than small size. We checked weight, cable design, tool-free access, and thermal performance in a bag-friendly form factor.";
 export const mainKeyword = "portable nvme enclosures";

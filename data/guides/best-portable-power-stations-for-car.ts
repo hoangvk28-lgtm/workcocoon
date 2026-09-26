@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-for-car";
-export const guideTitle = "8 Best Portable Power Stations for Car in 2026";
+export const guideTitle = "Best Portable Power Stations for Car";
 export const metaTitle = "Best Portable Power Stations for Car 2026";
 export const metaDescription = "We compared portable power stations for car by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "portable power stations for car";

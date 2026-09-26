@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-ergonomic-keyboards";
-export const guideTitle = "7 Best Compact Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Compact Ergonomic Keyboards";
 export const metaTitle = "Best Compact Ergonomic Keyboards (2026)";
 export const metaDescription =
   "7 compact ergonomic keyboards we evaluated for whether they retain genuine split benefit and how much you actually lose without a number pad or nav cluster.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizer-bins";
-export const guideTitle = "6 Best Cord Organizer Bins in 2026";
+export const guideTitle = "Best Cord Organizer Bins";
 export const metaTitle = "Best Cord Organizer Bins";
 export const metaDescription = "We compared cord organizer bins models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "cord organizer bins";

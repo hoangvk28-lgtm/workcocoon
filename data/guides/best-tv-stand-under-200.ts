@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-under-200";
-export const guideTitle = "4 Best TV Stands Under $200 in 2026";
+export const guideTitle = "Best TV Stands Under $200";
 export const metaTitle = "Best TV Stands Under $200";
 export const metaDescription = "We compared TV stands under $200 by glass door quality, LED lighting control, and 80-inch TV compatibility for larger living room setups.";
 export const mainKeyword = "best tv stand under $200";

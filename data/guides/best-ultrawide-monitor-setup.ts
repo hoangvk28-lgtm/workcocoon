@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-setup";
-export const guideTitle = "7 Best Gear Picks for an Ultrawide Monitor Setup in 2026";
+export const guideTitle = "Best Gear for an Ultrawide Monitor Setup";
 export const metaTitle = "Best Ultrawide Monitor Setup Gear in 2026 (Desk, Arm, Dock)";
 export const metaDescription =
   "7 best picks for building an ultrawide monitor setup in 2026: the right desk depth, monitor arm, docking station, keyboard tray, desk mat, and cable management.";

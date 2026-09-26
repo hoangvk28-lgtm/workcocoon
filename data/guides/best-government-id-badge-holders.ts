@@ -1,5 +1,5 @@
 export const guideSlug = "best-government-id-badge-holders";
-export const guideTitle = "6 Best Government ID Badge Holders in 2026";
+export const guideTitle = "Best Government ID Badge Holders";
 export const metaTitle = "Best Government ID Badge Holders";
 export const metaDescription = "We compared government id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "government id badge holders";

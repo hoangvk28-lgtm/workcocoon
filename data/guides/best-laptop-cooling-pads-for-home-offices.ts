@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-home-offices";
-export const guideTitle = "5 Best Laptop Cooling Pads for Home Offices in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Home Offices";
 export const metaTitle = "Best Laptop Cooling Pads for Home Offices (2026)";
 export const metaDescription =
   "5 cooling pads suited to quiet home-office use, weighted toward established, well-reviewed products since desk noise and daily reliability matter most in this setting.";

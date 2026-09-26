@@ -1,5 +1,5 @@
 export const guideSlug = "best-vari-task-chairs";
-export const guideTitle = "6 Best VARI Task Chairs in 2026";
+export const guideTitle = "Best VARI Task Chairs";
 export const metaTitle = "Best VARI Task Chairs";
 export const metaDescription = "We compared task chair vari models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "task chair vari";

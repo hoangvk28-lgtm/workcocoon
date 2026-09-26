@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-with-speakers";
-export const guideTitle = "8 Best Gaming Chairs with Speakers in 2026";
+export const guideTitle = "Best Gaming Chairs with Speakers";
 export const metaTitle = "Best Gaming Chairs with Speakers in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs with built-in Bluetooth speakers in 2026, covering surround sound, RGB, and console-ready audio chair options.";

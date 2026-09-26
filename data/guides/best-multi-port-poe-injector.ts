@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-port-poe-injector";
-export const guideTitle = "4 Best Multi-Port and Rackmount PoE Injectors in 2026";
+export const guideTitle = "Best Multi-Port and Rackmount PoE Injectors";
 export const metaTitle = "Best Multi-Port PoE Injectors";
 export const metaDescription = "We compared multi-port PoE injectors by real port count and total power budget, since a 4-port and 24-port unit serve very different installation scales.";
 export const mainKeyword = "best multi-port poe injector";

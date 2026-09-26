@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-port-network-switches";
-export const guideTitle = "7 Best 8-Port Network Switches in 2026";
+export const guideTitle = "Best 8-Port Network Switches";
 export const metaTitle = "Best 8-Port Network Switches in 2026";
 export const metaDescription = "8 ports is the most common switch size for small offices and media closets. We compared unmanaged, managed, and PoE options.";
 export const mainKeyword = "8-port network switches";

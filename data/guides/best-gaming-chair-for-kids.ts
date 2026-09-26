@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-for-kids";
-export const guideTitle = "8 Best Gaming Chairs for Kids in 2026";
+export const guideTitle = "Best Gaming Chairs for Kids";
 export const metaTitle = "8 Best Gaming Chairs for Kids in 2026";
 export const metaDescription =
   "The 8 best gaming chairs for kids in 2026, from RGB LED recliners to floor rockers, sized for ages 3 to 15 with real weight limits and comfort specs.";

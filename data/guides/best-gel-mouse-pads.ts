@@ -1,5 +1,5 @@
 export const guideSlug = "best-gel-mouse-pads";
-export const guideTitle = "8 Best Gel Mouse Pads in 2026";
+export const guideTitle = "Best Gel Mouse Pads";
 export const metaTitle = "Best Gel Mouse Pads";
 export const metaDescription = "We compared mouse pad gel models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad gel";

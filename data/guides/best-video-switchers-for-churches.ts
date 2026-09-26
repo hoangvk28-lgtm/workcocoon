@@ -1,5 +1,5 @@
 export const guideSlug = "best-video-switchers-for-churches";
-export const guideTitle = "8 Best Video Switchers for Churches in 2026";
+export const guideTitle = "Best Video Switchers for Churches";
 export const metaTitle = "Best Video Switchers for Churches";
 export const metaDescription = "We compared video switcher for church models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "video switcher for church";

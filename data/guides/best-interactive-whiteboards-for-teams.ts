@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-teams";
-export const guideTitle = "6 Best Interactive Whiteboards for Teams";
+export const guideTitle = "Best Interactive Whiteboards for Teams";
 export const metaTitle = "Best Interactive Whiteboards for Teams";
 export const metaDescription = "We defined whether each board is a genuine Teams Rooms system, a Windows board running Teams, or just an external touch display.";
 export const mainKeyword = "interactive whiteboard teams";

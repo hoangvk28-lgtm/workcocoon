@@ -1,5 +1,5 @@
 export const guideSlug = "best-parblo-drawing-tablets";
-export const guideTitle = "4 Best Parblo Drawing Tablets in 2026";
+export const guideTitle = "Best Parblo Drawing Tablets";
 export const metaTitle = "Best Parblo Drawing Tablets 2026";
 export const metaDescription = "We compared parblo drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "parblo drawing tablets";

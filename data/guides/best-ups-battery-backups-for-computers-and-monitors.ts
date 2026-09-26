@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-for-computers-and-monitors";
-export const guideTitle = "6 Best UPS Battery Backups for Computers and Monitors in 2026";
+export const guideTitle = "Best UPS Battery Backups for Computers and Monitors";
 export const metaTitle = "Best UPS Battery Backups for Computers and Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 UPS units we evaluated for protecting a PC and monitor together, with the VA-to-watts distinction competitors gloss over: a UPS's VA rating overstates its real usable wattage by roughly 0.6, so check the watts number, not just VA.";

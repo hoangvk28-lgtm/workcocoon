@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-meeting-room-scheduler-tablets";
-export const guideTitle = "8 Best PoE Meeting Room Scheduler Tablets in 2026";
+export const guideTitle = "Best PoE Meeting Room Scheduler Tablets";
 export const metaTitle = "Best PoE Meeting Room Scheduler Tablets";
 export const metaDescription = "We compared poe meeting room scheduler tablet models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "poe meeting room scheduler tablet";

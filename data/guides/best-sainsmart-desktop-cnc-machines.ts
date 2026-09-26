@@ -1,5 +1,5 @@
 export const guideSlug = "best-sainsmart-desktop-cnc-machines";
-export const guideTitle = "5 Best SainSmart Desktop CNC Machines in 2026";
+export const guideTitle = "Best SainSmart Desktop CNC Machines";
 export const metaTitle = "Best SainSmart Desktop CNC Machines 2026";
 export const metaDescription = "We compared sainsmart desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "sainsmart desktop cnc machines";

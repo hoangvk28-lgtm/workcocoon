@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-totes-on-wheels";
-export const guideTitle = "5 Best Portable File Totes on Wheels in 2026";
+export const guideTitle = "Best Portable File Totes on Wheels";
 export const metaTitle = "Best Portable File Totes on Wheels (2026)";
 export const metaDescription =
   "5 rolling file totes compared for genuine wheeled mobility and loaded stability, distinguishing real rolling carts from boxes that merely have a handle.";

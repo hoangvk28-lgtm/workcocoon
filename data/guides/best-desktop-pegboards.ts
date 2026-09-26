@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-pegboards";
-export const guideTitle = "4 Best Desktop Pegboards in 2026";
+export const guideTitle = "Best Desktop Pegboards";
 export const metaTitle = "Best Desktop Pegboards (2026)";
 export const metaDescription =
   "4 desktop pegboards we evaluated for clamp stability, desk-footprint impact, and tip resistance once a board is fully loaded.";

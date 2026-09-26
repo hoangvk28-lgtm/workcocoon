@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-with-2-5gbe";
-export const guideTitle = "4 Best USB4 Docks with 2.5GbE in 2026";
+export const guideTitle = "Best USB4 Docks with 2.5GbE";
 export const metaTitle = "Best USB4 Docks with 2.5GbE";
 export const metaDescription = "We compared 2.5GbE USB4 docks by whether the port needs a USB-C host or requires Thunderbolt, since 2.5Gb performance depends on your specific connection type.";
 export const mainKeyword = "best usb4 dock with 2.5gbe";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-for-yarn-and-craft-supplies";
-export const guideTitle = "8 Best Storage Carts for Yarn and Craft Supplies in 2026";
+export const guideTitle = "Best Storage Carts for Yarn and Craft Supplies";
 export const metaTitle = "Best Storage Carts for Yarn and Craft Supplies";
 export const metaDescription = "We compared storage cart craft supplies models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "storage cart craft supplies";

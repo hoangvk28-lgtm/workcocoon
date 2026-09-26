@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-cabinets-for-home-offices";
-export const guideTitle = "8 Best Printer Cabinets for Home Offices in 2026";
+export const guideTitle = "Best Printer Cabinets for Home Offices";
 export const metaTitle = "Best Printer Cabinets for Home Offices in 2026";
 export const metaDescription =
   "8 best printer cabinets for home offices in 2026, from enclosed cabinets to file cabinets with a flat printer-ready top. Compare ventilation and storage honestly.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-drawers-for-dorm-rooms";
-export const guideTitle = "8 Best Under-Desk Drawers for Dorm Rooms in 2026";
+export const guideTitle = "Best Under-Desk Drawers for Dorm Rooms";
 export const metaTitle = "Best Under-Desk Drawers for Dorm Rooms";
 export const metaDescription = "We compared under-desk drawer storage ideas models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under-desk drawer storage ideas";

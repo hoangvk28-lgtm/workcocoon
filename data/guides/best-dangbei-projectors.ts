@@ -1,5 +1,5 @@
 export const guideSlug = "best-dangbei-projectors";
-export const guideTitle = "8 Best Dangbei Projectors in 2026";
+export const guideTitle = "Best Dangbei Projectors";
 export const metaTitle = "Best Dangbei Projectors";
 export const metaDescription = "We compared dangbei projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "dangbei projector";

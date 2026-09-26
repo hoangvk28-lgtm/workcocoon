@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-machines-for-wood";
-export const guideTitle = "8 Best Desktop CNC Machines for Wood in 2026";
+export const guideTitle = "Best Desktop CNC Machines for Wood";
 export const metaTitle = "Best Desktop CNC Machines for Wood 2026";
 export const metaDescription = "We compared desktop cnc machines for wood by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc machines for wood";

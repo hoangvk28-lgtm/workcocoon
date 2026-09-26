@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-stands-under-50";
-export const guideTitle = "4 Best Printer Stands Under $50 in 2026";
+export const guideTitle = "Best Printer Stands Under $50";
 export const metaTitle = "Best Printer Stands Under $50";
 export const metaDescription = "We compared printer stands under $50 by power outlet design, weight capacity, and mobility, since built-in charging stations start appearing at this tier.";
 export const mainKeyword = "best printer stands under $50";

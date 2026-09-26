@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-displays-under-150";
-export const guideTitle = "4 Best Smart Displays Under $150 in 2026";
+export const guideTitle = "Best Smart Displays Under $150";
 export const metaTitle = "Best Smart Displays Under $150";
 export const metaDescription = "We compared smart displays under $150 by voice assistant, screen size, and privacy controls, since Alexa and Google Assistant models differ meaningfully.";
 export const mainKeyword = "best smart displays under $150";

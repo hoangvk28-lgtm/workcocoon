@@ -1,5 +1,5 @@
 export const guideSlug = "best-low-profile-ergonomic-keyboards";
-export const guideTitle = "5 Best Low-Profile Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Low-Profile Ergonomic Keyboards";
 export const metaTitle = "Best Low-Profile Ergonomic Keyboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 low-profile ergonomic keyboards we evaluated, with the switch-height-versus-case-thickness distinction competitors skip: 'low-profile' can refer to switch height, overall case thickness, or both, and each affects typing feel differently.";

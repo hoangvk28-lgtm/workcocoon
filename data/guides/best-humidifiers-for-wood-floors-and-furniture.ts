@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-wood-floors-and-furniture";
-export const guideTitle = "8 Best Humidifiers for Wood Floors and Furniture in 2026";
+export const guideTitle = "Best Humidifiers for Wood Floors and Furniture";
 export const metaTitle = "Best Humidifiers for Wood Floors and Furniture";
 export const metaDescription = "We compared humidifier for wood floors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "humidifier for wood floors";

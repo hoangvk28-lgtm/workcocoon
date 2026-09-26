@@ -1,5 +1,5 @@
 export const guideSlug = "best-fast-printers-for-home-offices";
-export const guideTitle = "8 Best Fast Printers for Home Offices in 2026";
+export const guideTitle = "Best Fast Printers for Home Offices";
 export const metaTitle = "Best Fast Printers for Home Offices in 2026";
 export const metaDescription =
   "8 best fast printers for home offices in 2026. Compare rated PPM against real-world document speed and first-page-out time for bursty daily printing.";

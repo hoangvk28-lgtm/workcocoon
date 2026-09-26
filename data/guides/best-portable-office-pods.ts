@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-office-pods";
-export const guideTitle = "5 Best Portable Office Pods in 2026";
+export const guideTitle = "Best Portable Office Pods";
 export const metaTitle = "Best Portable Office Pods (2026)";
 export const metaDescription =
   "5 portable office pods we evaluated for privacy, sizing, and real installation logistics, with honest notes on this thin, private-label-only niche.";

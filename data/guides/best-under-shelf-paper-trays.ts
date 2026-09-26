@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-shelf-paper-trays";
-export const guideTitle = "6 Best Under-Shelf Paper Trays in 2026";
+export const guideTitle = "Best Under-Shelf Paper Trays";
 export const metaTitle = "Best Under-Shelf Paper Trays";
 export const metaDescription = "We compared under-shelf paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under-shelf paper trays";

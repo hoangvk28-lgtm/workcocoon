@@ -1,5 +1,5 @@
 export const guideSlug = "best-7000-lumen-projectors";
-export const guideTitle = "8 Best 7000 Lumen Projectors in 2026";
+export const guideTitle = "Best 7000 Lumen Projectors";
 export const metaTitle = "Best 7000 Lumen Projectors";
 export const metaDescription = "We compared 7000 lumen projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "7000 lumen projector";

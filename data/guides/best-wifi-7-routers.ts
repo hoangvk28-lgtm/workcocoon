@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers";
-export const guideTitle = "5 Best Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers";
 export const metaTitle = "Best Wi-Fi 7 Routers (2026)";
 export const metaDescription =
   "5 Wi-Fi 7 routers we evaluated, decoding what BE-series numbers actually mean for real per-device speed rather than theoretical totals.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-heat-shrink-label-printers";
-export const guideTitle = "6 Best Heat-Shrink Label Printers in 2026";
+export const guideTitle = "Best Heat-Shrink Label Printers";
 export const metaTitle = "Best Heat-Shrink Label Printers";
 export const metaDescription = "We compared heat-shrink label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "heat-shrink label printers";

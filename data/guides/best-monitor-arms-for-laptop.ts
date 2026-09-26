@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-arms-for-laptop";
-export const guideTitle = "8 Best Monitor Arms for Laptop in 2026";
+export const guideTitle = "Best Monitor Arms for a Laptop Setup";
 export const metaTitle = "Best Monitor Arms for Laptop Setups in 2026 (VESA Adapter Guide)";
 export const metaDescription =
   "8 monitor arms that pair well with a laptop setup via a VESA laptop tray adapter, compared on weight capacity, reach, and cable routing for combined loads.";

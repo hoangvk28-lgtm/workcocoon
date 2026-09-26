@@ -1,5 +1,5 @@
 export const guideSlug = "best-hepa-air-purifiers";
-export const guideTitle = "5 Best HEPA Air Purifiers in 2026";
+export const guideTitle = "Best HEPA Air Purifiers";
 export const metaTitle = "Best HEPA Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 HEPA air purifiers we evaluated, with the distinction competitors blur: HEPA-type and HEPA-like claims are materially different from certified True HEPA, verifying which claim a specific product actually makes is the single most important check.";

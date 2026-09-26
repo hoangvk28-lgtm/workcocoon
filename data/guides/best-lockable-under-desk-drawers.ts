@@ -1,5 +1,5 @@
 export const guideSlug = "best-lockable-under-desk-drawers";
-export const guideTitle = "7 Best Lockable Under-Desk Drawers in 2026";
+export const guideTitle = "Best Lockable Under-Desk Drawers";
 export const metaTitle = "Best Lockable Under-Desk Drawers";
 export const metaDescription = "We compared under-desk drawer with lock models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under-desk drawer with lock";

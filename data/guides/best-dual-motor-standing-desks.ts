@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-motor-standing-desks";
-export const guideTitle = "8 Best Dual-Motor Standing Desks in 2026";
+export const guideTitle = "Best Dual-Motor Standing Desks";
 export const metaTitle = "Best Dual-Motor Standing Desks in 2026";
 export const metaDescription =
   "8 best dual-motor standing desks in 2026. Compare weight capacity, memory presets, and stability at max height, plus what dual motor actually buys you over single motor.";

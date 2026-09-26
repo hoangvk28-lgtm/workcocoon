@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-for-dual-monitor-setups";
-export const guideTitle = "8 Best Microphone Arms for Dual Monitor Setups in 2026";
+export const guideTitle = "Best Microphone Arms for Dual Monitor Setups";
 export const metaTitle = "Best Microphone Arms for Dual Monitor Setups";
 export const metaDescription = "We compared microphone arm dual monitor setup models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "microphone arm dual monitor setup";

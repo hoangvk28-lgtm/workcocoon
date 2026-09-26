@@ -1,5 +1,5 @@
 export const guideSlug = "best-lewitt-audio-interfaces";
-export const guideTitle = "8 Best Lewitt Audio Interfaces in 2026";
+export const guideTitle = "Best Lewitt Audio Interfaces";
 export const metaTitle = "Best Lewitt Audio Interfaces";
 export const metaDescription = "We compared lewitt audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "lewitt audio interface";

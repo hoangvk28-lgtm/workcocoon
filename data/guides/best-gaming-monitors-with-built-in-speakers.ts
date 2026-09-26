@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-with-built-in-speakers";
-export const guideTitle = "6 Best Gaming Monitors With Built-In Speakers in 2026";
+export const guideTitle = "Best Gaming Monitors With Built-In Speakers";
 export const metaTitle = "Best Gaming Monitors With Built-In Speakers";
 export const metaDescription = "We compared gaming monitors with built-in speakers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "gaming monitors with built-in speakers";

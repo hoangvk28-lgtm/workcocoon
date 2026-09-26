@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-with-app-control";
-export const guideTitle = "6 Best Desk Fans With App Control in 2026";
+export const guideTitle = "Best Desk Fans With App Control";
 export const metaTitle = "Best Desk Fans With App Control";
 export const metaDescription = "We compared desk fan smart app models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan smart app";

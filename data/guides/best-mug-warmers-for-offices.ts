@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-for-offices";
-export const guideTitle = "6 Best Mug Warmers for Offices in 2026";
+export const guideTitle = "Best Mug Warmers for Offices";
 export const metaTitle = "Best Mug Warmers for Offices";
 export const metaDescription = "We compared mug warmers for offices models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mug warmers for offices";

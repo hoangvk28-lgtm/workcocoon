@@ -1,5 +1,5 @@
 export const guideSlug = "best-travel-router-for-phone-tethering";
-export const guideTitle = "4 Best Travel Routers for Phone and USB Tethering in 2026";
+export const guideTitle = "Best Travel Routers for Phone and USB Tethering";
 export const metaTitle = "Best Travel Routers for Tethering";
 export const metaDescription = "We compared travel routers for phone tethering by real USB tethering mode support, since not every travel router explicitly supports this connection method.";
 export const mainKeyword = "best travel router for phone tethering";

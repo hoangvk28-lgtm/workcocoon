@@ -1,5 +1,5 @@
 export const guideSlug = "best-magnetic-lcd-writing-tablets";
-export const guideTitle = "1 Best Magnetic LCD Writing Tablet in 2026";
+export const guideTitle = "Best Magnetic LCD Writing Tablet";
 export const metaTitle = "Best Magnetic LCD Writing Tablets (2026)";
 export const metaDescription =
   "Only 1 LCD writing tablet with confirmed magnetic mounting exists in current research, plus one possible second option that needs verification before buying.";

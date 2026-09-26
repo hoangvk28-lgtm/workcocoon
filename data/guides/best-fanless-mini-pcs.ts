@@ -1,5 +1,5 @@
 export const guideSlug = "best-fanless-mini-pcs";
-export const guideTitle = "5 Best Fanless Mini PCs in 2026";
+export const guideTitle = "Best Fanless Mini PCs";
 export const metaTitle = "Best Fanless Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 fanless mini PCs we evaluated, with an honest note that fanless designs genuinely limit sustained processing power compared to actively cooled models, appropriate for light tasks, not heavy workloads.";

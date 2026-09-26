@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-sticky-note-holders";
-export const guideTitle = "6 Best Portable Sticky Note Holders in 2026";
+export const guideTitle = "Best Portable Sticky Note Holders";
 export const metaTitle = "Best Portable Sticky Note Holders";
 export const metaDescription = "We compared portable sticky note holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "portable sticky note holders";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-with-6ghz-support";
-export const guideTitle = "4 Best Wi-Fi 7 Routers with 6GHz Support in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers with 6GHz Support";
 export const metaTitle = "Best Wi-Fi 7 Routers with 6GHz Support (2026)";
 export const metaDescription =
   "4 genuine tri-band Wi-Fi 7 routers we evaluated for real 6GHz support, covering DFS interruptions and realistic congestion expectations over time.";

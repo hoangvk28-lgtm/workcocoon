@@ -1,5 +1,5 @@
 export const guideSlug = "best-rode-microphone-arms";
-export const guideTitle = "8 Best RODE Microphone Arms in 2026";
+export const guideTitle = "Best RODE Microphone Arms";
 export const metaTitle = "Best RODE Microphone Arms";
 export const metaDescription = "We compared rode psa1 mic arm models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "rode psa1 mic arm";

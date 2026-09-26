@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-5gbe-poe-injector";
-export const guideTitle = "4 Best 2.5GbE and 5GbE PoE Injectors in 2026";
+export const guideTitle = "Best 2.5GbE and 5GbE PoE Injectors";
 export const metaTitle = "Best 2.5GbE PoE Injectors";
 export const metaDescription = "We compared 2.5GbE PoE injectors by real surge protection and warranty length, since two listings state specific kV ratings while others rely on general claims.";
 export const mainKeyword = "best 2.5gbe poe injector";

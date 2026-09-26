@@ -1,5 +1,5 @@
 export const guideSlug = "best-cat-sticky-note-dispensers";
-export const guideTitle = "5 Best Cat Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Cat Sticky Note Dispensers";
 export const metaTitle = "Best Cat Sticky Note Dispensers";
 export const metaDescription = "We compared cat sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cat sticky note dispensers";

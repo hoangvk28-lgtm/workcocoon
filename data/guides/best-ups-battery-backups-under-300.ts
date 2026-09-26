@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-under-300";
-export const guideTitle = "4 Best UPS Battery Backups Under $300 in 2026";
+export const guideTitle = "Best UPS Battery Backups Under $300";
 export const metaTitle = "Best UPS Battery Backups Under $300";
 export const metaDescription = "We compared UPS battery backups under $300 by pure sine wave output, VA capacity, and warranty depth, since the top consumer-grade units top out here.";
 export const mainKeyword = "best ups battery backups under $300";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-pets";
-export const guideTitle = "7 Best Space Heaters for Pets in 2026";
+export const guideTitle = "Best Space Heaters for Pets";
 export const metaTitle = "Best Space Heaters for Pets";
 export const metaDescription = "We compared space heater safe for pets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "space heater safe for pets";

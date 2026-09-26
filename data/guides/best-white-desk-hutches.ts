@@ -1,6 +1,6 @@
 const BASE = "/images/guides/best-white-desk-hutches";
 export const guideSlug = "best-white-desk-hutches";
-export const guideTitle = "8 Best White Desk Hutches (2026)";
+export const guideTitle = "Best White Desk Hutches (2026)";
 export const metaTitle = "Best White Desk Hutches (2026)";
 export const metaDescription =
   "Best white desk hutches in 2026. Open shelf, pegboard, and drawer options in white finishes for clean, minimal home offices and dorm rooms.";

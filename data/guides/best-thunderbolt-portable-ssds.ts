@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-portable-ssds";
-export const guideTitle = "4 Best Thunderbolt Portable SSDs in 2026";
+export const guideTitle = "Best Thunderbolt Portable SSDs";
 export const metaTitle = "Best Thunderbolt Portable SSDs (2026)";
 export const metaDescription = "4 Thunderbolt and USB4 portable SSDs we evaluated, clarifying who genuinely needs to pay the Thunderbolt premium over a standard USB4 drive.";
 export const mainKeyword = "best thunderbolt portable ssd";

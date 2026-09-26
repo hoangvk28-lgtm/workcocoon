@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-office";
-export const guideTitle = "7 Best Interactive Whiteboards for Office";
+export const guideTitle = "Best Interactive Whiteboards for Office";
 export const metaTitle = "Best Interactive Whiteboards for Office";
 export const metaDescription = "We ran complete hybrid-meeting workflows and verified exactly what one USB-C cable carries before ranking office interactive whiteboards.";
 export const mainKeyword = "interactive whiteboard office";

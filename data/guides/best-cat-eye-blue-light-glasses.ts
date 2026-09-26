@@ -1,5 +1,5 @@
 export const guideSlug = "best-cat-eye-blue-light-glasses";
-export const guideTitle = "6 Best Cat-Eye Blue Light Glasses in 2026";
+export const guideTitle = "Best Cat-Eye Blue Light Glasses";
 export const metaTitle = "Best Cat-Eye Blue Light Glasses";
 export const metaDescription = "We compared cat-eye blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cat-eye blue light glasses";

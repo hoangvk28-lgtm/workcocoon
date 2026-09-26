@@ -1,5 +1,5 @@
 export const guideSlug = "best-1-port-poe-extender";
-export const guideTitle = "4 Best 1-Port PoE Extenders in 2026";
+export const guideTitle = "Best 1-Port PoE Extenders";
 export const metaTitle = "Best 1-Port PoE Extenders";
 export const metaDescription = "We compared 1-port PoE extenders by real wattage and cascade distance, since a single-device extender's simple design still varies widely in power output.";
 export const mainKeyword = "best 1 port poe extender";

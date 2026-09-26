@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-air-purifiers";
-export const guideTitle = "5 Best Small Air Purifiers in 2026";
+export const guideTitle = "Best Small Air Purifiers";
 export const metaTitle = "Best Small Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 small air purifiers we evaluated, with the CADR-per-square-foot tradeoff competitors skip: a small footprint often means a smaller fan and filter surface, meaning genuinely lower CADR than its size alone would suggest.";

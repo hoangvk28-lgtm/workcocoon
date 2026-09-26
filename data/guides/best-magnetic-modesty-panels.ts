@@ -1,5 +1,5 @@
 export const guideSlug = "best-magnetic-modesty-panels";
-export const guideTitle = "6 Best Magnetic Modesty Panels in 2026";
+export const guideTitle = "Best Magnetic Modesty Panels";
 export const metaTitle = "Best Magnetic Modesty Panels";
 export const metaDescription = "We compared magnetic modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "magnetic modesty panels";

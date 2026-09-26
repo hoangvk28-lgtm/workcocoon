@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboard-layouts-explained";
-export const guideTitle = "8 Best Mechanical Keyboard Layouts Explained + Picks in 2026";
+export const guideTitle = "Mechanical Keyboard Layouts, Explained for Your Actual Workflow";
 export const metaTitle = "Mechanical Keyboard Layouts Explained: Full-Size, TKL, 75% and More";
 export const metaDescription =
   "Full-size, TKL/80%, 75%, 65%, and 60% keyboard layouts explained, with 8 real mechanical keyboard picks mapped to their actual layout size for 2026.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-gaming-pc-mounts";
-export const guideTitle = "4 Best Under-Desk Gaming PC Mounts in 2026";
+export const guideTitle = "Best Under-Desk Gaming PC Mounts";
 export const metaTitle = "Best Under-Desk Gaming PC Mounts (2026)";
 export const metaDescription =
   "4 under-desk gaming PC mounts we evaluated for realistic high-end tower weights, sustained gaming-load thermal impact, and the RGB visibility tradeoff.";

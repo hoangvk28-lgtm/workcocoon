@@ -1,5 +1,5 @@
 export const guideSlug = "best-wearable-air-quality-monitors";
-export const guideTitle = "8 Best Wearable Air Quality Monitors in 2026";
+export const guideTitle = "Best Wearable Air Quality Monitors";
 export const metaTitle = "Best Wearable Air Quality Monitors";
 export const metaDescription = "We compared wearable air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "wearable air quality monitor";

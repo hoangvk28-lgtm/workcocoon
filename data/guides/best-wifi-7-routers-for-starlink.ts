@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-for-starlink";
-export const guideTitle = "4 Best Wi-Fi 7 Routers for Starlink in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers for Starlink";
 export const metaTitle = "Best Wi-Fi 7 Routers for Starlink (2026)";
 export const metaDescription =
   "4 Wi-Fi 7 routers we evaluated for Starlink households, with bypass-mode setup guidance and honest limits on what a new router can actually fix.";

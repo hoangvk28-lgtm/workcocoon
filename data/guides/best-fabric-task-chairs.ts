@@ -1,5 +1,5 @@
 export const guideSlug = "best-fabric-task-chairs";
-export const guideTitle = "8 Best Fabric Task Chairs in 2026";
+export const guideTitle = "Best Fabric Task Chairs";
 export const metaTitle = "Best Fabric Task Chairs";
 export const metaDescription = "We compared task chair fabric upholstery models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair fabric upholstery";

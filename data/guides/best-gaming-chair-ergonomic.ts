@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-ergonomic";
-export const guideTitle = "8 Best Ergonomic Gaming Chairs in 2026";
+export const guideTitle = "Best Ergonomic Gaming Chairs";
 export const metaTitle = "Best Ergonomic Gaming Chairs in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best ergonomic gaming chairs in 2026, covering adjustable lumbar, 4D armrests, and premium mesh and leatherette builds for every budget.";

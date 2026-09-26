@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-for-office";
-export const guideTitle = "8 Best Mouse Pads for Office in 2026";
+export const guideTitle = "Best Mouse Pads for Office";
 export const metaTitle = "Best Mouse Pads for Office";
 export const metaDescription = "We compared mouse pad for office models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse pad for office";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-under-15";
-export const guideTitle = "4 Best Desk Clocks Under $15 in 2026";
+export const guideTitle = "Best Desk Clocks Under $15";
 export const metaTitle = "Best Desk Clocks Under $15";
 export const metaDescription = "We compared desk clocks under $15 by power source, display size, and portability, since budget clocks vary in whether they're battery or plug-powered.";
 export const mainKeyword = "best desk clocks under $15";

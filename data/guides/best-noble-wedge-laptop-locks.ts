@@ -1,5 +1,5 @@
 export const guideSlug = "best-noble-wedge-laptop-locks";
-export const guideTitle = "4 Best Noble Wedge Laptop Locks in 2026";
+export const guideTitle = "Best Noble Wedge Laptop Locks";
 export const metaTitle = "Best Noble Wedge Laptop Locks (2026)";
 export const metaDescription =
   "4 Noble Wedge-specific laptop locks compared, a distinct slot family from many thin Dell systems, not to be conflated with Kensington Nano.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-chair-mats-under-75";
-export const guideTitle = "4 Best Chair Mats Under $75 in 2026";
+export const guideTitle = "Best Chair Mats Under $75";
 export const metaTitle = "Best Chair Mats Under $75";
 export const metaDescription = "We compared chair mats under $75 by material type, size, and floor compatibility, since this tier is where polycarbonate construction replaces standard PVC.";
 export const mainKeyword = "best chair mats under $75";

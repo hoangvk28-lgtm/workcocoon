@@ -1,5 +1,5 @@
 export const guideSlug = "best-viewsonic-4k-monitors";
-export const guideTitle = "6 Best ViewSonic 4K Monitors in 2026";
+export const guideTitle = "Best ViewSonic 4K Monitors";
 export const metaTitle = "Best ViewSonic 4K Monitors";
 export const metaDescription = "We compared viewsonic 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "viewsonic 4k monitors";

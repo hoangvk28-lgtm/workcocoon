@@ -1,5 +1,5 @@
 export const guideSlug = "best-baby-proof-cord-organizers";
-export const guideTitle = "3 Best Baby-Proof Cord Organizers in 2026";
+export const guideTitle = "Best Baby-Proof Cord Organizers";
 export const metaTitle = "Best Baby-Proof Cord Organizers";
 export const metaDescription = "We compared baby-proof cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "baby-proof cord organizers";

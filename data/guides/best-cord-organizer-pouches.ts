@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizer-pouches";
-export const guideTitle = "6 Best Cord Organizer Pouches in 2026";
+export const guideTitle = "Best Cord Organizer Pouches";
 export const metaTitle = "Best Cord Organizer Pouches";
 export const metaDescription = "We compared cord organizer pouches models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cord organizer pouches";

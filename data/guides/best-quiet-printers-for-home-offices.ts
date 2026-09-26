@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-printers-for-home-offices";
-export const guideTitle = "7 Best Quiet Printers for Home Offices in 2026";
+export const guideTitle = "Best Quiet Printers for Home Offices";
 export const metaTitle = "Best Quiet Printers for Home Offices in 2026";
 export const metaDescription =
   "7 best quiet printers for home offices in 2026, chosen by noise-generating mechanism rather than unverified decibel claims. Compare inkjet hum vs laser burst noise.";

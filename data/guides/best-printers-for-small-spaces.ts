@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-small-spaces";
-export const guideTitle = "8 Best Printers for Small Spaces in 2026";
+export const guideTitle = "Best Printers for Small Spaces";
 export const metaTitle = "Best Printers for Small Spaces in 2026";
 export const metaDescription =
   "8 best printers for small spaces in 2026, guided by realistic placement (shelf, floor, under-desk), wifi range, and noise so studio and apartment living stays quiet.";

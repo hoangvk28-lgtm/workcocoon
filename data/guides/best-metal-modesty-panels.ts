@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-modesty-panels";
-export const guideTitle = "8 Best Metal Modesty Panels in 2026";
+export const guideTitle = "Best Metal Modesty Panels";
 export const metaTitle = "Best Metal Modesty Panels";
 export const metaDescription = "We compared metal modesty panel models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "metal modesty panel";

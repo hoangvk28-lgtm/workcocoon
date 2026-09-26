@@ -1,5 +1,5 @@
 export const guideSlug = "best-clear-plastic-document-holders";
-export const guideTitle = "6 Best Clear Plastic Document Holders in 2026";
+export const guideTitle = "Best Clear Plastic Document Holders";
 export const metaTitle = "Best Clear Plastic Document Holders";
 export const metaDescription = "We compared clear plastic document holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "clear plastic document holders";

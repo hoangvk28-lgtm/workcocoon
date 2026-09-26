@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-lathes";
-export const guideTitle = "3 Best Desktop CNC Lathes in 2026";
+export const guideTitle = "Best Desktop CNC Lathes";
 export const metaTitle = "Best Desktop CNC Lathes 2026";
 export const metaDescription = "We compared desktop cnc lathes by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc lathes";

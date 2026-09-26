@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-printer-filament-dryers";
-export const guideTitle = "6 Best 3D Printer Filament Dryers in 2026";
+export const guideTitle = "Best 3D Printer Filament Dryers";
 export const metaTitle = "Best 3D Printer Filament Dryers";
 export const metaDescription = "We compared 3d printer filament dryers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "3d printer filament dryers";

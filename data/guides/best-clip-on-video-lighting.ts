@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-video-lighting";
-export const guideTitle = "6 Best Clip-On Video Lighting in 2026";
+export const guideTitle = "Best Clip-On Video Lighting for Calls and Streaming";
 export const metaTitle = "Best Clip-On Video Lighting, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 clip-on video lights we evaluated, with the CRI number competitors bury: a light's Color Rendering Index matters more for accurate skin tone on camera than raw brightness or color temperature options.";

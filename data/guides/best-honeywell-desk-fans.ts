@@ -1,5 +1,5 @@
 export const guideSlug = "best-honeywell-desk-fans";
-export const guideTitle = "6 Best Honeywell Desk Fans in 2026";
+export const guideTitle = "Best Honeywell Desk Fans";
 export const metaTitle = "Best Honeywell Desk Fans";
 export const metaDescription = "We compared desk fan honeywell models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan honeywell";

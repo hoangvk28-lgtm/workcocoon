@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-glasses-for-women";
-export const guideTitle = "6 Best Blue Light Glasses for Women in 2026";
+export const guideTitle = "Best Blue Light Glasses for Women";
 export const metaTitle = "Best Blue Light Glasses for Women";
 export const metaDescription = "We compared blue light glasses for women models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "blue light glasses for women";

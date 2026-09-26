@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-with-10gbe-ports";
-export const guideTitle = "4 Best Wi-Fi 7 Routers with 10GbE Ports in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers with 10GbE Ports";
 export const metaTitle = "Best Wi-Fi 7 Routers with 10GbE Ports (2026)";
 export const metaDescription =
   "4 Wi-Fi 7 routers we evaluated with genuine 10GbE ports, explaining the full device-cable-switch chain needed before you actually see 10Gbps.";

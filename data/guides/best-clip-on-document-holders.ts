@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-document-holders";
-export const guideTitle = "6 Best Clip-On Document Holders in 2026";
+export const guideTitle = "Best Clip-On Document Holders";
 export const metaTitle = "Best Clip-On Document Holders";
 export const metaDescription = "We compared clip-on document holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "clip-on document holders";

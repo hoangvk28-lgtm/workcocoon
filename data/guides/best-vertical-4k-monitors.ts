@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-4k-monitors";
-export const guideTitle = "6 Best Vertical 4K Monitors in 2026";
+export const guideTitle = "Best Vertical 4K Monitors";
 export const metaTitle = "Best Vertical 4K Monitors";
 export const metaDescription = "We compared vertical 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vertical 4k monitors";

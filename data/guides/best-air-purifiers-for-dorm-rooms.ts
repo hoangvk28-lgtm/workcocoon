@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-dorm-rooms";
-export const guideTitle = "5 Best Air Purifiers for Dorm Rooms in 2026";
+export const guideTitle = "Best Air Purifiers for Dorm Rooms";
 export const metaTitle = "Best Air Purifiers for Dorm Rooms, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for dorm rooms, with the compliance check competitors skip: many universities have specific fire-safety or electrical policies restricting certain appliance types or wattage in dorm rooms.";

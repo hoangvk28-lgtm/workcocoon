@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-4k-monitors";
-export const guideTitle = "6 Best Portable 4K Monitors in 2026";
+export const guideTitle = "Best Portable 4K Monitors";
 export const metaTitle = "Best Portable 4K Monitors";
 export const metaDescription = "We compared portable 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "portable 4k monitors";

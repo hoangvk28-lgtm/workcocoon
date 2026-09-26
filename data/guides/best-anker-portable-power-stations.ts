@@ -1,5 +1,5 @@
 export const guideSlug = "best-anker-portable-power-stations";
-export const guideTitle = "5 Best Anker Portable Power Stations in 2026";
+export const guideTitle = "Best Anker Portable Power Stations";
 export const metaTitle = "Best Anker Portable Power Stations 2026";
 export const metaDescription = "We compared anker portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "anker portable power stations";

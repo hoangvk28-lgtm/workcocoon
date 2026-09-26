@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-5-tier";
-export const guideTitle = "8 Best 5-Tier Bookshelves in 2026";
+export const guideTitle = "Best 5-Tier Bookshelves";
 export const metaTitle = "Best 5-Tier Bookshelves in 2026 (Ladder, Arched & No-Assembly)";
 export const metaDescription =
   "8 best 5-tier bookshelves in 2026, comparing ladder shelves, arched designs, and no-assembly folding units. Compare capacity, footprint, and assembly time.";

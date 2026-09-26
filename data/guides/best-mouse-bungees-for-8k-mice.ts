@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-bungees-for-8k-mice";
-export const guideTitle = "8 Best Mouse Bungees for 8K Mice in 2026";
+export const guideTitle = "Best Mouse Bungees for 8K Mice";
 export const metaTitle = "Best Mouse Bungees for 8K Mice";
 export const metaDescription = "We compared mouse bungee for 8k mice models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse bungee for 8k mice";

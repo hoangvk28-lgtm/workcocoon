@@ -1,5 +1,5 @@
 export const guideSlug = "best-100mm-label-printers";
-export const guideTitle = "6 Best 100mm Label Printers in 2026";
+export const guideTitle = "Best 100mm Label Printers";
 export const metaTitle = "Best 100mm Label Printers";
 export const metaDescription = "We compared 100mm label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "100mm label printers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-behind-monitors";
-export const guideTitle = "5 Best Mini PC Mounts Behind Monitors in 2026";
+export const guideTitle = "Best Mini PC Mounts Behind Monitors";
 export const metaTitle = "Best Mini PC Mounts Behind Monitors (2026)";
 export const metaDescription =
   "5 VESA mounts specifically designed for behind-monitor mini PC placement, compared for device depth range and whether they conflict with an existing monitor stand or arm.";

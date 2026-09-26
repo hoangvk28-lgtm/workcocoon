@@ -1,5 +1,5 @@
 export const guideSlug = "best-outdoor-poe-extender";
-export const guideTitle = "4 Best Outdoor and Waterproof PoE Extenders in 2026";
+export const guideTitle = "Best Outdoor and Waterproof PoE Extenders";
 export const metaTitle = "Best Outdoor Waterproof PoE Extenders";
 export const metaDescription = "We compared outdoor PoE extenders by exact IP rating and port count, since IP66 and IP67 differ in real water resistance despite sounding similar.";
 export const mainKeyword = "best outdoor poe extender";

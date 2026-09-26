@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-network-switches";
-export const guideTitle = "8 Best Quiet Network Switches in 2026";
+export const guideTitle = "Best Quiet Network Switches";
 export const metaTitle = "Best Quiet Network Switches in 2026";
 export const metaDescription = "All our picks are fanless for silent operation, but we distinguished passive fanless designs from those with thermal-throttling fans.";
 export const mainKeyword = "quiet network switches";

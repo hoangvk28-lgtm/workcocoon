@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-laptop-screen-extenders";
-export const guideTitle = "5 Best Clip-On Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Clip-On Laptop Screen Extenders";
 export const metaTitle = "Best Clip-On Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 clip-on laptop screen extenders we evaluated, focused on clip tension and lid-edge protection, since a clip that grips too tightly can stress a thin laptop lid over repeated use.";

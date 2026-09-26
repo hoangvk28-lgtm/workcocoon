@@ -1,5 +1,5 @@
 export const guideSlug = "best-monoprice-drawing-tablets";
-export const guideTitle = "1 Best Monoprice Drawing Tablets in 2026";
+export const guideTitle = "Best Monoprice Drawing Tablets";
 export const metaTitle = "Best Monoprice Drawing Tablets 2026";
 export const metaDescription = "We compared monoprice drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "monoprice drawing tablets";

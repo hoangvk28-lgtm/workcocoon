@@ -1,5 +1,5 @@
 export const guideSlug = "best-3-in-1-desk-fans";
-export const guideTitle = "8 Best 3-in-1 Desk Fans in 2026";
+export const guideTitle = "Best 3-in-1 Desk Fans";
 export const metaTitle = "Best 3-in-1 Desk Fans";
 export const metaDescription = "We compared desk fan 3 in 1 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan 3 in 1";

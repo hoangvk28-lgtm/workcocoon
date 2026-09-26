@@ -1,5 +1,5 @@
 export const guideSlug = "best-xlr-audio-interfaces-under-300";
-export const guideTitle = "4 Best XLR Audio Interfaces Under $300 in 2026";
+export const guideTitle = "Best XLR Audio Interfaces Under $300";
 export const metaTitle = "Best XLR Audio Interfaces Under $300";
 export const metaDescription = "We compared XLR audio interfaces under $300 by simultaneous channel count, converter headroom, and expandability, since 4-input models cluster here.";
 export const mainKeyword = "best xlr audio interfaces under $300";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-with-timers";
-export const guideTitle = "2 Best Desk Clocks with Timers in 2026";
+export const guideTitle = "Best Desk Clocks with Timers";
 export const metaTitle = "Best Desk Clocks with Timers (2026)";
 export const metaDescription =
   "A dedicated countdown timer is uncommon on standard desk clocks. Here are the 2 verified picks that genuinely include one, plus what to search instead.";

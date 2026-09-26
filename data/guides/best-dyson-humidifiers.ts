@@ -1,5 +1,5 @@
 export const guideSlug = "best-dyson-humidifiers";
-export const guideTitle = "5 Best Dyson Humidifiers in 2026";
+export const guideTitle = "Best Dyson Humidifiers";
 export const metaTitle = "Best Dyson Humidifiers";
 export const metaDescription = "We compared humidifier dyson models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "humidifier dyson";

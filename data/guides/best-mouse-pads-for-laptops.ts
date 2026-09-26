@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-for-laptops";
-export const guideTitle = "8 Best Mouse Pads for Laptops in 2026";
+export const guideTitle = "Best Mouse Pads for Laptops";
 export const metaTitle = "Best Mouse Pads for Laptops";
 export const metaDescription = "We compared mouse pad for laptop models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse pad for laptop";

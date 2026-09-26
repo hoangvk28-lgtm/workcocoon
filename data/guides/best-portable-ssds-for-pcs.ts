@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-pcs";
-export const guideTitle = "4 Best Portable SSDs for PCs in 2026";
+export const guideTitle = "Best Portable SSDs for PCs";
 export const metaTitle = "Best Portable SSDs for PCs in 2026";
 export const metaDescription = "4 portable SSDs we evaluated for desktop PC use, covering front-panel USB header speed limits versus rear motherboard-direct ports.";
 export const mainKeyword = "best portable ssd for pc";

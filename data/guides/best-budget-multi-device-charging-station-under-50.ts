@@ -1,7 +1,7 @@
 const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-budget-multi-device-charging-station-under-50";
 
 export const guideSlug = "best-budget-multi-device-charging-station-under-50";
-export const guideTitle = "5 Best Budget Multi-Device Charging Stations Under $50 (2026)";
+export const guideTitle = "Best Budget Multi-Device Charging Stations Under $50 (2026)";
 export const guideDescription =
   "At $30–$50 you start getting GaN technology, USB-C Power Delivery that fast-charges newer phones and iPads, and multi-device organizers that handle everything in one spot. These are the 5 best picks for the money.";
 export const metaTitle = "5 Best Multi-Device Charging Stations Under $50 (2026)";

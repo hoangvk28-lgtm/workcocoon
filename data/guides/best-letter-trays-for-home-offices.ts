@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-trays-for-home-offices";
-export const guideTitle = "6 Best Letter Trays for Home Offices in 2026";
+export const guideTitle = "Best Letter Trays for Home Offices";
 export const metaTitle = "Best Letter Trays for Home Offices";
 export const metaDescription = "We compared letter trays for home offices models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "letter trays for home offices";

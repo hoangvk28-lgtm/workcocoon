@@ -1,5 +1,5 @@
 export const guideSlug = "best-xp-pen-drawing-tablets";
-export const guideTitle = "7 Best XP-Pen Drawing Tablets in 2026";
+export const guideTitle = "Best XP-Pen Drawing Tablets";
 export const metaTitle = "Best XP-Pen Drawing Tablets 2026";
 export const metaDescription = "We compared xp-pen drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "xp-pen drawing tablets";

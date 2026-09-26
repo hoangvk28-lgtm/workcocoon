@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-tape-dispensers";
-export const guideTitle = "6 Best Paper Tape Dispensers in 2026";
+export const guideTitle = "Best Paper Tape Dispensers";
 export const metaTitle = "Best Paper Tape Dispensers";
 export const metaDescription = "We compared paper tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "paper tape dispensers";

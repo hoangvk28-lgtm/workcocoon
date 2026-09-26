@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-tier-storage-carts";
-export const guideTitle = "8 Best 4-Tier Storage Carts in 2026";
+export const guideTitle = "Best 4-Tier Storage Carts";
 export const metaTitle = "Best 4-Tier Storage Carts";
 export const metaDescription = "We compared 4 storage cart with wheels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "4 storage cart with wheels";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-credenzas-with-shelves";
-export const guideTitle = "8 Best Office Credenzas With Shelves in 2026";
+export const guideTitle = "Best Office Credenzas With Shelves";
 export const metaTitle = "Best Office Credenzas With Shelves 2026";
 export const metaDescription = "We compared office credenzas with shelves by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "office credenzas with shelves";

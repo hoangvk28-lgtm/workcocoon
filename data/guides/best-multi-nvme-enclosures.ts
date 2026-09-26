@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-nvme-enclosures";
-export const guideTitle = "5 Best Multi-NVMe Enclosures in 2026";
+export const guideTitle = "Best Multi-NVMe Enclosures";
 export const metaTitle = "Best Multi-NVMe Enclosures in 2026";
 export const metaDescription = "Multi-bay NVMe enclosures range from 4-bay desk units to a 9-bay bulk-storage box. We separated real use cases before ranking.";
 export const mainKeyword = "multi-nvme enclosures";

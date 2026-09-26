@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizers-for-offices";
-export const guideTitle = "6 Best Cord Organizers for Offices in 2026";
+export const guideTitle = "Best Cord Organizers for Offices";
 export const metaTitle = "Best Cord Organizers for Offices";
 export const metaDescription = "We compared cord organizers for offices models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cord organizers for offices";

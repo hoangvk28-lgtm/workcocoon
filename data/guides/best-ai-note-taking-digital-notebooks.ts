@@ -1,5 +1,5 @@
 export const guideSlug = "best-ai-note-taking-digital-notebooks";
-export const guideTitle = "5 Best AI Note-Taking Digital Notebooks in 2026";
+export const guideTitle = "Best AI Note-Taking Digital Notebooks";
 export const metaTitle = "Best AI Note-Taking Digital Notebooks (2026)";
 export const metaDescription =
   "5 devices evaluated specifically for handwriting-to-text conversion and note organization, the meeting-output-focused subset of our broader AI digital notebooks guide.";

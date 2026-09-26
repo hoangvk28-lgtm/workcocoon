@@ -1,5 +1,5 @@
 export const guideSlug = "best-40gbps-nvme-enclosures";
-export const guideTitle = "8 Best 40Gbps NVMe Enclosures in 2026";
+export const guideTitle = "Best 40Gbps NVMe Enclosures";
 export const metaTitle = "Best 40Gbps NVMe Enclosures 2026";
 export const metaDescription = "40Gbps can mean USB4 or Thunderbolt signaling. We separated bridge controller and real sustained throughput from the link-rate label.";
 export const mainKeyword = "40gbps nvme enclosures";

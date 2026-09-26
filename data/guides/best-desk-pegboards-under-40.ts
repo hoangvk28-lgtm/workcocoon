@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pegboards-under-40";
-export const guideTitle = "4 Best Desk Pegboards Under $40 in 2026";
+export const guideTitle = "Best Desk Pegboards Under $40";
 export const metaTitle = "Best Desk Pegboards Under $40";
 export const metaDescription = "We compared desk pegboards under $40 by clamp-on mounting, wood versus steel construction, and gaming-specific accessories, since genuine variety appears here.";
 export const mainKeyword = "best desk pegboards under $40";

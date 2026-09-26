@@ -1,5 +1,5 @@
 export const guideSlug = "best-book-and-document-scanners";
-export const guideTitle = "8 Best Book and Document Scanners in 2026";
+export const guideTitle = "Best Book and Document Scanners";
 export const metaTitle = "Best Book and Document Scanners, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 scanners we evaluated for both book and document scanning, with an honest recommendation: no single scanner in this lineup does both jobs equally well, and knowing which task matters more should drive your pick.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-for-documents";
-export const guideTitle = "8 Best Small Safes for Documents in 2026";
+export const guideTitle = "Best Small Safes for Documents";
 export const metaTitle = "Best Small Safes for Documents (2026)";
 export const metaDescription =
   "8 safes compared on flat letter-size fit, fire protection duration, and organizational layout, from a soft fireproof organizer to a hanging-file steel safe.";

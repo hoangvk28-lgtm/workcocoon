@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-under-30";
-export const guideTitle = "4 Best Monitor Shelves Under $30 in 2026";
+export const guideTitle = "Best Monitor Shelves Under $30";
 export const metaTitle = "Best Monitor Shelves Under $30";
 export const metaDescription = "We compared monitor shelves under $30 by bamboo height adjustability, drawer storage design, and weight capacity for a genuine desk upgrade.";
 export const mainKeyword = "best monitor shelves under $30";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-viewsonic-interactive-whiteboards";
-export const guideTitle = "8 Best ViewSonic Interactive Whiteboards";
+export const guideTitle = "Best ViewSonic Interactive Whiteboards";
 export const metaTitle = "Best ViewSonic Interactive Whiteboards";
 export const metaDescription = "We mapped ViewSonic's current ViewBoard IFP series across 65/75/86-inch sizes, verifying EDLA certification and touch generation by exact model.";
 export const mainKeyword = "viewsonic interactive whiteboard";

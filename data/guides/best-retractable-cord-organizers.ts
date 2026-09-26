@@ -1,5 +1,5 @@
 export const guideSlug = "best-retractable-cord-organizers";
-export const guideTitle = "6 Best Retractable Cord Organizers in 2026";
+export const guideTitle = "Best Retractable Cord Organizers";
 export const metaTitle = "Best Retractable Cord Organizers";
 export const metaDescription = "We compared retractable cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "retractable cord organizers";

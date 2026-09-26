@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-office-chair-under-300";
 
 export const guideSlug = "best-office-chair-under-300";
-export const guideTitle = "8 Best Office Chairs Under $300 in 2026";
+export const guideTitle = "Best Office Chairs Under $300";
 export const metaTitle = "Best Office Chairs Under $300 in 2026 - Ergonomic Value";
 export const metaDescription =
   "Best office chairs under $300 in 2026. Ergonomic mesh and fabric chairs with lumbar support, adjustable arms, and all-day comfort for budget buyers.";

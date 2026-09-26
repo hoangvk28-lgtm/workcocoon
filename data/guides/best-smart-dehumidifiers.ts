@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-dehumidifiers";
-export const guideTitle = "8 Best Smart Dehumidifiers in 2026";
+export const guideTitle = "Best Smart Dehumidifiers";
 export const metaTitle = "Best Smart Dehumidifiers";
 export const metaDescription = "We compared smart dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "smart dehumidifier";

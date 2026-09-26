@@ -1,5 +1,5 @@
 export const guideSlug = "best-logitech-desk-pads";
-export const guideTitle = "3 Best Logitech Desk Pads in 2026";
+export const guideTitle = "Best Logitech Desk Pads";
 export const metaTitle = "Best Logitech Desk Pads";
 export const metaDescription = "We compared desk pad logitech models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad logitech";

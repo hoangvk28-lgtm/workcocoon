@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-small-rooms";
-export const guideTitle = "6 Best Space Heaters for Small Rooms in 2026";
+export const guideTitle = "Best Space Heaters for Small Rooms";
 export const metaTitle = "Best Space Heaters for Small Rooms";
 export const metaDescription = "We compared space heater for small room models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "space heater for small room";

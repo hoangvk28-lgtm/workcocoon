@@ -1,5 +1,5 @@
 export const guideSlug = "best-roku-projectors";
-export const guideTitle = "8 Best Roku Projectors in 2026";
+export const guideTitle = "Best Roku Projectors";
 export const metaTitle = "Best Roku Projectors";
 export const metaDescription = "We compared roku projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "roku projector";

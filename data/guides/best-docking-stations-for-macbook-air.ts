@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-macbook-air";
-export const guideTitle = "8 Best Docking Stations for MacBook Air in 2026";
+export const guideTitle = "Best Docking Stations for MacBook Air's Chip Limits";
 export const metaTitle = "Best Docking Stations for MacBook Air in 2026 (M1-M5)";
 export const metaDescription =
   "8 best docking stations for MacBook Air in 2026, matched to M1 through M5 display limits, DisplayLink dual-monitor setups, and real charging needs.";

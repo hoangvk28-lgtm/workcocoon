@@ -1,5 +1,5 @@
 export const guideSlug = "best-32-inch-oled-gaming-monitors";
-export const guideTitle = "6 Best 32-Inch OLED Gaming Monitors in 2026";
+export const guideTitle = "Best 32-Inch OLED Gaming Monitors";
 export const metaTitle = "Best 32-Inch OLED Gaming Monitors";
 export const metaDescription = "We compared 32-inch oled gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "32-inch oled gaming monitors";

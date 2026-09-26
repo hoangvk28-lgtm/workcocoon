@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-for-macbook-pro";
-export const guideTitle = "5 Best USB-C Monitors for MacBook Pro in 2026";
+export const guideTitle = "Best USB-C Monitors for MacBook Pro";
 export const metaTitle = "Best USB-C Monitors for MacBook Pro, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors for MacBook Pro we evaluated, with a note that MacBook Pro's Thunderbolt ports support higher bandwidth than standard USB-C, letting you drive higher resolutions and refresh rates than a base MacBook.";

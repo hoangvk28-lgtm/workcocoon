@@ -1,5 +1,5 @@
 export const guideSlug = "best-queen-murphy-beds-with-desks";
-export const guideTitle = "8 Best Queen Murphy Beds with Desks in 2026";
+export const guideTitle = "Best Queen Murphy Beds with Desks";
 export const metaTitle = "Best Queen Murphy Beds with Desks in 2026 (Size Guide)";
 export const metaDescription =
   "8 queen murphy beds with desks compared for ceiling clearance, room width, and mattress weight calibration, plus honest notes on which listings actually include a desk.";

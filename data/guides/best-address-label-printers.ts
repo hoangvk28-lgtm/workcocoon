@@ -1,5 +1,5 @@
 export const guideSlug = "best-address-label-printers";
-export const guideTitle = "6 Best Address Label Printers in 2026";
+export const guideTitle = "Best Address Label Printers";
 export const metaTitle = "Best Address Label Printers";
 export const metaDescription = "We compared address label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "address label printers";

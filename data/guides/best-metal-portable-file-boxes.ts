@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-portable-file-boxes";
-export const guideTitle = "5 Best Metal Portable File Boxes in 2026";
+export const guideTitle = "Best Metal Portable File Boxes";
 export const metaTitle = "Best Metal Portable File Boxes (2026)";
 export const metaDescription =
   "5 metal file boxes checked for steel gauge, rust resistance, and the real weight tradeoff of metal construction against this category's portable promise.";

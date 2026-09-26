@@ -1,5 +1,5 @@
 export const guideSlug = "best-radio-controlled-desk-clocks";
-export const guideTitle = "5 Best Radio-Controlled Desk Clocks in 2026";
+export const guideTitle = "Best Radio-Controlled Desk Clocks";
 export const metaTitle = "Best Radio-Controlled Desk Clocks (2026)";
 export const metaDescription =
   "5 atomic radio-controlled desk clocks compared for confirmed WWVB signal sync and features like auto-DST and USB charging, since \"atomic\" claims should be verified against the listing.";

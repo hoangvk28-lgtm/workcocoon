@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-macbook-air";
-export const guideTitle = "8 Best USB-C Ethernet Adapters for MacBook Air";
+export const guideTitle = "Best USB-C Ethernet Adapters for MacBook Air";
 export const metaTitle = "Best Ethernet Adapters for MacBook Air";
 export const metaDescription = "MacBook Air's limited port count makes compact design and driver-free setup matter more. Here's what fits that workflow best.";
 export const mainKeyword = "usb-c ethernet adapters for macbook air";

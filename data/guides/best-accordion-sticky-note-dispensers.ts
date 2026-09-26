@@ -1,5 +1,5 @@
 export const guideSlug = "best-accordion-sticky-note-dispensers";
-export const guideTitle = "6 Best Accordion Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Accordion Sticky Note Dispensers";
 export const metaTitle = "Best Accordion Sticky Note Dispensers";
 export const metaDescription = "We compared accordion sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "accordion sticky note dispensers";

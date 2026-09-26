@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-for-gaming";
-export const guideTitle = "5 Best Laptop Screen Extenders for Gaming in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for Gaming";
 export const metaTitle = "Best Laptop Screen Extenders for Gaming, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders for gaming we evaluated, with an honest note that most portable extenders cap out around 60Hz, which limits their usefulness for genuinely fast-paced competitive gaming.";

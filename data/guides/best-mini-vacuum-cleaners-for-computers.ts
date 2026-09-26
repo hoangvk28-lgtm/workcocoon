@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-vacuum-cleaners-for-computers";
-export const guideTitle = "8 Best Mini Vacuum Cleaners for Computers in 2026";
+export const guideTitle = "Best Mini Vacuum Cleaners for Computers";
 export const metaTitle = "Best Mini Vacuum Cleaners for Computers";
 export const metaDescription = "We compared mini vacuum cleaner for computer models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mini vacuum cleaner for computer";

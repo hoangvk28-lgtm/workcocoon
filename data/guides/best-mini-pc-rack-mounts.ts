@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-rack-mounts";
-export const guideTitle = "4 Best Mini PC Rack Mounts in 2026";
+export const guideTitle = "Best Mini PC Rack Mounts";
 export const metaTitle = "Best Mini PC Rack Mounts (2026)";
 export const metaDescription =
   "4 genuine 19-inch and 10-inch rack mounts for Mini PCs, honestly narrowed from a wider pool since true rack hardware is a small category.";

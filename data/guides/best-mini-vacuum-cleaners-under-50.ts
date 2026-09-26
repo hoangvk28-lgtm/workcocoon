@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-vacuum-cleaners-under-50";
-export const guideTitle = "6 Best Mini Vacuum Cleaners Under $50 in 2026";
+export const guideTitle = "Best Mini Vacuum Cleaners Under $50";
 export const metaTitle = "Best Mini Vacuum Cleaners Under $50";
 export const metaDescription = "We compared mini vacuum cleaners under $50 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mini vacuum cleaners under $50";

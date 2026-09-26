@@ -1,5 +1,5 @@
 export const guideSlug = "best-noise-canceling-speakerphones";
-export const guideTitle = "6 Best Noise-Canceling Speakerphones in 2026";
+export const guideTitle = "Best Noise-Canceling Speakerphones";
 export const metaTitle = "Best Noise-Canceling Speakerphones, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 speakerphones we evaluated for noise cancellation, with the distinction competitors blur: AI noise cancellation filters out background sound from what the mic picks up, it doesn't reduce echo or room reverb, a separate problem entirely.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-laser-engravers";
-export const guideTitle = "7 Best Portable Laser Engravers in 2026";
+export const guideTitle = "Best Portable Laser Engravers";
 export const metaTitle = "7 Best Portable Laser Engravers in 2026";
 export const metaDescription = "We compared portable laser engravers by actual weight, setup time when relocated, and power source rather than marketing claims of portability.";
 export const mainKeyword = "portable laser engraver";

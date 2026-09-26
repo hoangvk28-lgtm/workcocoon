@@ -1,5 +1,5 @@
 export const guideSlug = "best-pvc-cable-sleeves";
-export const guideTitle = "5 Best PVC Cable Sleeves in 2026";
+export const guideTitle = "Best PVC Cable Sleeves";
 export const metaTitle = "Best PVC Cable Sleeves";
 export const metaDescription = "We compared pvc cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "pvc cable sleeves";

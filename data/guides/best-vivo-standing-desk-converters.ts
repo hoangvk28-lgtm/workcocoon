@@ -1,5 +1,5 @@
 export const guideSlug = "best-vivo-standing-desk-converters";
-export const guideTitle = "8 Best VIVO Standing Desk Converters in 2026";
+export const guideTitle = "Best VIVO Standing Desk Converters";
 export const metaTitle = "Best VIVO Standing Desk Converters (2026)";
 export const metaDescription =
   "8 current VIVO converters compared across manual, electric, corner, and dual-monitor mount designs, spanning 26 to 48 inch platforms.";

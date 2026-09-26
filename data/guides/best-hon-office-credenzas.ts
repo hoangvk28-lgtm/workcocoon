@@ -1,5 +1,5 @@
 export const guideSlug = "best-hon-office-credenzas";
-export const guideTitle = "5 Best HON Office Credenzas in 2026";
+export const guideTitle = "Best HON Office Credenzas";
 export const metaTitle = "Best HON Office Credenzas 2026";
 export const metaDescription = "We compared hon office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "hon office credenzas";

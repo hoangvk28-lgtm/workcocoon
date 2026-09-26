@@ -1,5 +1,5 @@
 export const guideSlug = "best-kidde-air-quality-monitors";
-export const guideTitle = "8 Best Kidde Air Quality Monitors in 2026";
+export const guideTitle = "Best Kidde Air Quality Monitors";
 export const metaTitle = "Best Kidde Air Quality Monitors";
 export const metaDescription = "We compared kidde air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "kidde air quality monitor";

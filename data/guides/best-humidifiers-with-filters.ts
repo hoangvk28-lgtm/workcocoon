@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-with-filters";
-export const guideTitle = "8 Best Humidifiers With Filters in 2026";
+export const guideTitle = "Best Humidifiers With Filters";
 export const metaTitle = "Best Humidifiers With Filters";
 export const metaDescription = "We compared humidifier filters models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "humidifier filters";

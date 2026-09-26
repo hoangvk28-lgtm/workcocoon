@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-lenovo-thinkpad";
-export const guideTitle = "6 Best Laptop Locks for Lenovo ThinkPad in 2026";
+export const guideTitle = "Best Laptop Locks for Lenovo ThinkPad";
 export const metaTitle = "Best Laptop Locks for Lenovo ThinkPad (2026)";
 export const metaDescription =
   "6 laptop locks checked against ThinkPad's per-generation slot documentation, since the correct standard can change between ThinkPad generations.";

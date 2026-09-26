@@ -1,5 +1,5 @@
 export const guideSlug = "best-uhoo-air-quality-monitors";
-export const guideTitle = "7 Best uHoo Air Quality Monitors in 2026";
+export const guideTitle = "Best uHoo Air Quality Monitors";
 export const metaTitle = "Best uHoo Air Quality Monitors";
 export const metaDescription = "We compared uhoo air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "uhoo air quality monitor";

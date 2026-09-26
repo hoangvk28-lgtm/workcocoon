@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-corner-desks";
-export const guideTitle = "8 Best Metal Corner Desks in 2026";
+export const guideTitle = "Best Metal Corner Desks";
 export const metaTitle = "Best Metal Corner Desks";
 export const metaDescription = "We compared corner desks metal models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desks metal";

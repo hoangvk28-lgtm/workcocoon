@@ -1,5 +1,5 @@
 export const guideSlug = "best-electronic-interactive-whiteboards";
-export const guideTitle = "8 Best Electronic Interactive Whiteboards";
+export const guideTitle = "Best Electronic Interactive Whiteboards";
 export const metaTitle = "Best Electronic Interactive Whiteboards";
 export const metaDescription = "We separated passive sensor boards, projector systems, and self-contained flat panels by where touch detection and processing occur.";
 export const mainKeyword = "electronic interactive whiteboard";

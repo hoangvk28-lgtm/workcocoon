@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-splitter";
-export const guideTitle = "4 Best PoE Splitters in 2026";
+export const guideTitle = "Best PoE Splitters";
 export const metaTitle = "Best PoE Splitters in 2026";
 export const metaDescription = "We compared PoE splitters by real power delivery and pass-through, since one listing splits PoE into both 12V DC and a downstream PoE output.";
 export const mainKeyword = "best poe splitter";

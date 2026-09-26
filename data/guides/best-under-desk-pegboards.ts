@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-pegboards";
-export const guideTitle = "4 Best Under-Desk Pegboards in 2026";
+export const guideTitle = "Best Under-Desk Pegboards";
 export const metaTitle = "Best Under-Desk Pegboards (2026)";
 export const metaDescription =
   "4 under-desk pegboards we evaluated for knee clearance impact, mounting compatibility with desk underside construction, and visibility.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mounted-letter-trays";
-export const guideTitle = "6 Best Wall-Mounted Letter Trays in 2026";
+export const guideTitle = "Best Wall-Mounted Letter Trays";
 export const metaTitle = "Best Wall-Mounted Letter Trays";
 export const metaDescription = "We compared wall-mounted letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "wall-mounted letter trays";

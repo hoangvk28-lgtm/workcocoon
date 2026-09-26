@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-ssd-enclosures";
-export const guideTitle = "6 Best Thunderbolt 5 SSD Enclosures in 2026";
+export const guideTitle = "Best Thunderbolt 5 SSD Enclosures";
 export const metaTitle = "Best Thunderbolt 5 SSD Enclosures 2026";
 export const metaDescription = "Thunderbolt 5 brings 80Gbps bandwidth, but real enclosure speed still depends on bridge design, SSD power, and cooling. Here is what actually delivers.";
 export const mainKeyword = "thunderbolt 5 ssd enclosures";

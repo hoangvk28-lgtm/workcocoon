@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-cabinet";
-export const guideTitle = "8 Best Bookshelf Cabinets in 2026";
+export const guideTitle = "Best Bookshelf Cabinets";
 export const metaTitle = "Best Bookshelf Cabinets in 2026 (Doors, Glass Display & Locking)";
 export const metaDescription =
   "8 best bookshelf cabinets in 2026, comparing enclosed-door combos, glass LED display cabinets, and locking storage units. Compare capacity, features, and price.";

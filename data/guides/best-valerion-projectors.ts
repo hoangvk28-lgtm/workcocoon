@@ -1,5 +1,5 @@
 export const guideSlug = "best-valerion-projectors";
-export const guideTitle = "8 Best Valerion Projectors in 2026";
+export const guideTitle = "Best Valerion Projectors";
 export const metaTitle = "Best Valerion Projectors";
 export const metaDescription = "We compared valerion projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "valerion projector";

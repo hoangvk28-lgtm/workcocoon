@@ -1,5 +1,5 @@
 export const guideSlug = "best-external-cooling-fans-for-mini-pcs";
-export const guideTitle = "7 Best External Cooling Fans for Mini PCs in 2026";
+export const guideTitle = "Best External Cooling Fans for Mini PCs";
 export const metaTitle = "Best External Cooling Fans for Mini PCs";
 export const metaDescription =
   "7 external cooling fans we evaluated for sealed or non-serviceable Mini PCs, chosen for placement flexibility without opening the chassis.";

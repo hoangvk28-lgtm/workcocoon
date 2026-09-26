@@ -1,5 +1,5 @@
 export const guideSlug = "best-lap-desks-with-cup-holders-and-usb-ports";
-export const guideTitle = "5 Best Lap Desks with Cup Holders and USB Ports in 2026";
+export const guideTitle = "Best Lap Desks with Cup Holders and USB Ports";
 export const metaTitle = "Lap Desks with Cup Holders & USB Ports (2026)";
 export const metaDescription =
   "5 lap desks combining a cup holder with USB charging, checked for power source and whether ports are charging-only or genuine data connections.";

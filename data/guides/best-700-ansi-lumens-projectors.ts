@@ -1,5 +1,5 @@
 export const guideSlug = "best-700-ansi-lumens-projectors";
-export const guideTitle = "8 Best 700 Ansi Lumens Projectors in 2026";
+export const guideTitle = "Best 700 Ansi Lumens Projectors";
 export const metaTitle = "Best 700 Ansi Lumens Projectors";
 export const metaDescription = "We compared projector 700 ansi lumens models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "projector 700 ansi lumens";

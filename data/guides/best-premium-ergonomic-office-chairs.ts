@@ -1,5 +1,5 @@
 export const guideSlug = "best-premium-ergonomic-office-chairs";
-export const guideTitle = "8 Best Premium Ergonomic Office Chairs in 2026";
+export const guideTitle = "Best Premium Ergonomic Office Chairs";
 export const metaTitle = "Best Premium Ergonomic Office Chairs in 2026 (Honest Price Check)";
 export const metaDescription =
   "8 ergonomic office chairs we evaluated against premium-tier claims, with an honest note that most sit in the budget-to-midrange range, plus a certified refurbished path to true premium brands.";

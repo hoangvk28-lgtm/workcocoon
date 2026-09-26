@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-trays-with-labels";
-export const guideTitle = "6 Best Letter Trays with Labels in 2026";
+export const guideTitle = "Best Letter Trays with Labels";
 export const metaTitle = "Best Letter Trays with Labels";
 export const metaDescription = "We compared letter trays with labels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "letter trays with labels";

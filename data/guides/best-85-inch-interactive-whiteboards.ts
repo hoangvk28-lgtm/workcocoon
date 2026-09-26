@@ -1,5 +1,5 @@
 export const guideSlug = "best-85-inch-interactive-whiteboards";
-export const guideTitle = "8 Best 85-Inch Interactive Whiteboards";
+export const guideTitle = "Best 85-Inch Interactive Whiteboards";
 export const metaTitle = "Best 85-Inch Interactive Whiteboards";
 export const metaDescription = "We verified true 85-inch product availability against the deeper adjacent 86-inch tier and checked physical dimension differences.";
 export const mainKeyword = "85 inch interactive whiteboard";

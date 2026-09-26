@@ -1,5 +1,5 @@
 export const guideSlug = "best-hp-label-printers";
-export const guideTitle = "6 Best HP Label Printers in 2026";
+export const guideTitle = "Best HP Label Printers";
 export const metaTitle = "Best HP Label Printers";
 export const metaDescription = "We compared hp label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "hp label printers";

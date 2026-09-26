@@ -1,5 +1,5 @@
 export const guideSlug = "best-top-fill-humidifiers";
-export const guideTitle = "8 Best Top-Fill Humidifiers in 2026";
+export const guideTitle = "Best Top-Fill Humidifiers";
 export const metaTitle = "Best Top-Fill Humidifiers";
 export const metaDescription = "We compared humidifier top fill easy clean models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "humidifier top fill easy clean";

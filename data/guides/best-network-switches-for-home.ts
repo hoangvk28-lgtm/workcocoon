@@ -1,5 +1,5 @@
 export const guideSlug = "best-network-switches-for-home";
-export const guideTitle = "7 Best Network Switches for Home Use";
+export const guideTitle = "Best Network Switches for Home Use";
 export const metaTitle = "Best Network Switches for Home in 2026";
 export const metaDescription = "For home networks, simplicity and silence usually matter more than enterprise features. We picked switches on that basis.";
 export const mainKeyword = "network switches for home";

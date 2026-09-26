@@ -1,5 +1,5 @@
 export const guideSlug = "best-double-sided-ring-lights";
-export const guideTitle = "8 Best Double-Sided Ring Lights in 2026";
+export const guideTitle = "Best Double-Sided Ring Lights";
 export const metaTitle = "Best Double-Sided Ring Lights";
 export const metaDescription = "We compared ring light double sided models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ring light double sided";

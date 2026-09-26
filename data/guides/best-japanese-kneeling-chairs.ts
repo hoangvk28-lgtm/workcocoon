@@ -1,5 +1,5 @@
 export const guideSlug = "best-japanese-kneeling-chairs";
-export const guideTitle = "8 Best Japanese Kneeling Chairs in 2026";
+export const guideTitle = "Best Japanese Kneeling Chairs";
 export const metaTitle = "Best Japanese Kneeling Chairs";
 export const metaDescription = "We compared japanese kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "japanese kneeling chair";

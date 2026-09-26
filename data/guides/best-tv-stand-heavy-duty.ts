@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-heavy-duty";
-export const guideTitle = "8 Best Heavy Duty TV Stands in 2026";
+export const guideTitle = "Best Heavy Duty TV Stands";
 export const metaTitle = "Best Heavy Duty TV Stands in 2026 (Up to 2,000+ lbs)";
 export const metaDescription =
   "8 best heavy duty TV stands in 2026, from industrial steel-frame designs to a 2,000+ lb modular wall unit. Compare capacity, size, and construction.";

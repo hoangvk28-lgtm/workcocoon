@@ -1,5 +1,5 @@
 export const guideSlug = "best-oculus-vr-headsets";
-export const guideTitle = "6 Best Oculus VR Headsets in 2026";
+export const guideTitle = "Best Oculus VR Headsets";
 export const metaTitle = "Best Oculus VR Headsets";
 export const metaDescription = "We compared oculus vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "oculus vr headsets";

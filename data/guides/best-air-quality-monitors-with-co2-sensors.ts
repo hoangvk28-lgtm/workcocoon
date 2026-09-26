@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-with-co2-sensors";
-export const guideTitle = "8 Best Air Quality Monitors With CO2 Sensors in 2026";
+export const guideTitle = "Best Air Quality Monitors With CO2 Sensors";
 export const metaTitle = "Best Air Quality Monitors With CO2 Sensors";
 export const metaDescription = "We compared air quality monitor co2 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "air quality monitor co2";

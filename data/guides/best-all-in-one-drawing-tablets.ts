@@ -1,5 +1,5 @@
 export const guideSlug = "best-all-in-one-drawing-tablets";
-export const guideTitle = "6 Best All-in-One Drawing Tablets in 2026";
+export const guideTitle = "Best All-in-One Drawing Tablets";
 export const metaTitle = "Best All-in-One Drawing Tablets 2026";
 export const metaDescription = "We compared all-in-one drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "all-in-one drawing tablets";

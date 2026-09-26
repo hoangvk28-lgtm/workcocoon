@@ -1,5 +1,5 @@
 export const guideSlug = "best-cheap-drawing-tablets";
-export const guideTitle = "5 Best Cheap Drawing Tablets in 2026";
+export const guideTitle = "Best Cheap Drawing Tablets";
 export const metaTitle = "Best Cheap Drawing Tablets 2026";
 export const metaDescription = "We compared cheap drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "cheap drawing tablets";

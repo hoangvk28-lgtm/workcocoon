@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-cases";
-export const guideTitle = "6 Best Business Card Cases in 2026";
+export const guideTitle = "Best Business Card Cases";
 export const metaTitle = "Best Business Card Cases";
 export const metaDescription = "We compared business card cases models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "business card cases";

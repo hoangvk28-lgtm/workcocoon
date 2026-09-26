@@ -1,5 +1,5 @@
 export const guideSlug = "best-brady-label-printers";
-export const guideTitle = "6 Best Brady Label Printers in 2026";
+export const guideTitle = "Best Brady Label Printers";
 export const metaTitle = "Best Brady Label Printers";
 export const metaDescription = "We compared brady label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "brady label printers";

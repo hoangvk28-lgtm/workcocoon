@@ -1,5 +1,5 @@
 export const guideSlug = "best-layer-3-network-switches";
-export const guideTitle = "3 Best Layer 3 Network Switches in 2026";
+export const guideTitle = "Best Layer 3 Network Switches";
 export const metaTitle = "Best Layer 3 Network Switches 2026";
 export const metaDescription = "Layer 3 switches route between VLANs without a separate router. We covered accessible options from budget managed switches to enterprise Aruba gear.";
 export const mainKeyword = "layer 3 network switches";

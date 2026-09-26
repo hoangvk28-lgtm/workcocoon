@@ -1,5 +1,5 @@
 export const guideSlug = "best-rattan-paper-trays";
-export const guideTitle = "6 Best Rattan Paper Trays in 2026";
+export const guideTitle = "Best Rattan Paper Trays";
 export const metaTitle = "Best Rattan Paper Trays";
 export const metaDescription = "We compared rattan paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "rattan paper trays";

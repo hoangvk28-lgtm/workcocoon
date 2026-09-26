@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-windows";
-export const guideTitle = "5 Best Digital Notebooks for Windows in 2026";
+export const guideTitle = "Best Digital Notebooks for Windows";
 export const metaTitle = "Best Digital Notebooks for Windows (2026)";
 export const metaDescription =
   "5 E Ink writing tablets that connect to a Windows PC via a desktop companion app or file export, evaluated for how live the connection actually is.";

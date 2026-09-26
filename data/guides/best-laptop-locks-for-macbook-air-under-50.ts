@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-macbook-air-under-50";
-export const guideTitle = "5 Best Laptop Locks for MacBook Air Under $50 in 2026";
+export const guideTitle = "Best Laptop Locks for MacBook Air Under $50";
 export const metaTitle = "Best MacBook Air Laptop Locks Under $50";
 export const metaDescription = "We compared laptop locks for MacBook Air under $50 by mounting method, since Apple's design has no Kensington slot and generic laptop locks won't attach.";
 export const mainKeyword = "laptop lock for macbook air under $50";

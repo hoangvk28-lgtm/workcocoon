@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-metal-file-boxes-with-handles";
-export const guideTitle = "5 Best Portable Metal File Boxes with Handles in 2026";
+export const guideTitle = "Best Portable Metal File Boxes with Handles";
 export const metaTitle = "Best Portable Metal File Boxes with Handles (2026)";
 export const metaDescription =
   "5 file boxes marketed with fireproof or security features, with an honest note that metal construction or a lock alone doesn't guarantee a certified fire rating.";

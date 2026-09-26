@@ -1,5 +1,5 @@
 export const guideSlug = "best-stackable-paper-trays";
-export const guideTitle = "6 Best Stackable Paper Trays in 2026";
+export const guideTitle = "Best Stackable Paper Trays";
 export const metaTitle = "Best Stackable Paper Trays";
 export const metaDescription = "We compared stackable paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "stackable paper trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-outdoor-network-switches";
-export const guideTitle = "8 Best Outdoor Network Switches in 2026";
+export const guideTitle = "Best Outdoor Network Switches";
 export const metaTitle = "Best Outdoor Network Switches 2026";
 export const metaDescription = "Outdoor switches need genuine IP-rated weatherproofing and PoE for exposed camera or AP installations. We checked real IP ratings.";
 export const mainKeyword = "outdoor network switches";

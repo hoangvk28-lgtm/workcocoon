@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-under-300";
-export const guideTitle = "4 Best Filing Cabinets Under $300 in 2026";
+export const guideTitle = "Best Filing Cabinets Under $300";
 export const metaTitle = "Best Filing Cabinets Under $300";
 export const metaDescription = "We compared filing cabinets under $300 by charging ports, pull-out shelf design, and fluted wood styling, since the most fully featured units top out here.";
 export const mainKeyword = "best filing cabinets under $300";

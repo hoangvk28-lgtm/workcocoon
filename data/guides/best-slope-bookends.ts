@@ -1,5 +1,5 @@
 export const guideSlug = "best-slope-bookends";
-export const guideTitle = "6 Best Slope Bookends in 2026";
+export const guideTitle = "Best Slope Bookends";
 export const metaTitle = "Best Slope Bookends";
 export const metaDescription = "We compared slope bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "slope bookends";

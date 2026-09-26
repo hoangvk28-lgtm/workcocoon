@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-hutches-under-100";
-export const guideTitle = "4 Best Desk Hutches Under $100 in 2026";
+export const guideTitle = "Best Desk Hutches Under $100";
 export const metaTitle = "Best Desk Hutches Under $100";
 export const metaDescription = "We compared desk hutches under $100 by outlet capacity, adjustable clearance, and weight rating, since these top-tier picks add features basic shelves skip.";
 export const mainKeyword = "best desk hutches under $100";

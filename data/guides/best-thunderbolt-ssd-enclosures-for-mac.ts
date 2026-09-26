@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-ssd-enclosures-for-mac";
-export const guideTitle = "7 Best Thunderbolt SSD Enclosures for Mac in 2026";
+export const guideTitle = "Best Thunderbolt SSD Enclosures for Mac";
 export const metaTitle = "Best Thunderbolt SSD Enclosures for Mac";
 export const metaDescription = "Mac users need host-generation mapping and real Thunderbolt speeds, not Windows-centric headline link rates. Here is what to check first.";
 export const mainKeyword = "thunderbolt ssd enclosures for mac";

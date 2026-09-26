@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-drawing-tablets";
-export const guideTitle = "5 Best Small Drawing Tablets in 2026";
+export const guideTitle = "Best Small Drawing Tablets";
 export const metaTitle = "Best Small Drawing Tablets 2026";
 export const metaDescription = "We compared small drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "small drawing tablets";

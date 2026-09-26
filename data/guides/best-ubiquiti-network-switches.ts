@@ -1,5 +1,5 @@
 export const guideSlug = "best-ubiquiti-network-switches";
-export const guideTitle = "6 Best Ubiquiti Network Switches in 2026";
+export const guideTitle = "Best Ubiquiti Network Switches";
 export const metaTitle = "Best Ubiquiti Network Switches 2026";
 export const metaDescription = "Ubiquiti's UniFi line spans budget PoE switches through Layer 3 48-port units. We mapped the current lineup by port count and routing depth.";
 export const mainKeyword = "ubiquiti network switches";

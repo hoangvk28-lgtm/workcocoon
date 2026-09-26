@@ -1,5 +1,5 @@
 export const guideSlug = "best-vicks-humidifiers";
-export const guideTitle = "8 Best Vicks Humidifiers in 2026";
+export const guideTitle = "Best Vicks Humidifiers";
 export const metaTitle = "Best Vicks Humidifiers";
 export const metaDescription = "We compared humidifier vicks models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "humidifier vicks";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-with-usb-hubs";
-export const guideTitle = "6 Best Laptop Cooling Pads with USB Hubs in 2026";
+export const guideTitle = "Best Laptop Cooling Pads with USB Hubs";
 export const metaTitle = "Best Laptop Cooling Pads with USB Hubs";
 export const metaDescription =
   "6 laptop cooling pads we evaluated for genuine built-in USB hubs, checking port count, speed, and shared power budget with the cooling fans.";

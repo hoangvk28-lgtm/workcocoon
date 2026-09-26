@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-port-outdoor-poe-extender";
-export const guideTitle = "4 Best 4-Port Outdoor PoE Extenders in 2026";
+export const guideTitle = "Best 4-Port Outdoor PoE Extenders";
 export const metaTitle = "Best 4-Port Outdoor PoE Extenders";
 export const metaDescription = "We compared 4-port outdoor PoE extenders by real per-port wattage, since one listing delivers 90W PoE++ per port while budget options average just 8W each.";
 export const mainKeyword = "best 4 port outdoor poe extender";

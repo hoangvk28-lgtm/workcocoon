@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-with-desk-clamp-mount";
-export const guideTitle = "8 Best Ring Lights with Desk Clamp/Mount in 2026";
+export const guideTitle = "Best Ring Lights with Desk Clamp/Mount";
 export const metaTitle = "Best Ring Lights with Desk Clamp/Mount";
 export const metaDescription = "We compared ring light desk mount models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ring light desk mount";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-inkless-label-printers";
-export const guideTitle = "6 Best Inkless Label Printers in 2026";
+export const guideTitle = "Best Inkless Label Printers";
 export const metaTitle = "Best Inkless Label Printers";
 export const metaDescription = "We compared inkless label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "inkless label printers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-4-port-dock";
-export const guideTitle = "4 Best USB4 4-Port Docks in 2026";
+export const guideTitle = "Best USB4 4-Port Docks";
 export const metaTitle = "Best USB4 4-Port Docks";
 export const metaDescription = "We compared docks built around 4 Thunderbolt/USB4 ports by shared bandwidth allocation, since Thunderbolt bandwidth is split across every connected device.";
 export const mainKeyword = "best usb 4 port dock";

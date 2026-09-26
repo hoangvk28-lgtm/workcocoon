@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-hutches-with-pegboards";
-export const guideTitle = "5 Best Desk Hutches with Pegboards in 2026";
+export const guideTitle = "Best Desk Hutches with Pegboards";
 export const metaTitle = "Best Desk Hutches with Pegboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 desk hutches with integrated pegboards we evaluated, with the compounded-load check competitors skip: hutch weight plus pegboard hung-item weight compounds onto the desk surface itself, worth verifying the desk's own weight rating against this combined load.";

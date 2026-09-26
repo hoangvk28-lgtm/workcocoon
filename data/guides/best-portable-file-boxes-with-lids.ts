@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-with-lids";
-export const guideTitle = "5 Best Portable File Boxes with Lids in 2026";
+export const guideTitle = "Best Portable File Boxes with Lids";
 export const metaTitle = "Best File Boxes with Lids (2026)";
 export const metaDescription =
   "5 lidded file boxes comparing hinged versus fully removable lid designs, since nearly every genuine portable file box includes some form of lid.";

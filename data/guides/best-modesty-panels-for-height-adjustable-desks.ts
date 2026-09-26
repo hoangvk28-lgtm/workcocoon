@@ -1,5 +1,5 @@
 export const guideSlug = "best-modesty-panels-for-height-adjustable-desks";
-export const guideTitle = "8 Best Modesty Panels for Height-Adjustable Desks in 2026";
+export const guideTitle = "Best Modesty Panels for Height-Adjustable Desks";
 export const metaTitle = "Best Modesty Panels for Height-Adjustable Desks";
 export const metaDescription = "We compared modesty panel for height adjustable desk models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "modesty panel for height adjustable desk";

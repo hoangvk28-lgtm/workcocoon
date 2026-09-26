@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-monitor-shelves";
-export const guideTitle = "4 Best Corner Monitor Shelves in 2026";
+export const guideTitle = "Best Corner Monitor Shelves";
 export const metaTitle = "Best Corner Monitor Shelves (2026)";
 export const metaDescription =
   "4 corner monitor shelves we evaluated for corner-desk geometry variance, angled-mounting stress, and reach for items pushed to the back.";

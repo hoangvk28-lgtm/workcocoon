@@ -1,6 +1,6 @@
 const BASE = "/images/guides/best-monitor-light-bars-for-curved-monitors";
 export const guideSlug = "best-monitor-light-bars-for-curved-monitors";
-export const guideTitle = "8 Best Monitor Light Bars for Curved Monitors (2026)";
+export const guideTitle = "Best Monitor Light Bars for Curved Monitors (2026)";
 export const metaTitle = "Best Monitor Light Bars for Curved Monitors 2026";
 export const metaDescription =
   "Best monitor light bars for curved monitors in 2026. Covers compatibility from 1000R to 1800R, pivot arm designs, backlight options, and auto-dimming.";

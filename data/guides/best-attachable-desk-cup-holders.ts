@@ -1,5 +1,5 @@
 export const guideSlug = "best-attachable-desk-cup-holders";
-export const guideTitle = "5 Best Attachable Desk Cup Holders in 2026";
+export const guideTitle = "Best Attachable Desk Cup Holders";
 export const metaTitle = "Best Attachable Desk Cup Holders (2026)";
 export const metaDescription =
   "5 attachable cup holders compared as an umbrella term covering clamp and clip mechanisms, with honest notes on which term applies to which pick.";

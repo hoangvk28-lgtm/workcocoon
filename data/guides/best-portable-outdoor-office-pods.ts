@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-outdoor-office-pods";
-export const guideTitle = "1 Best Portable Outdoor Office Pod in 2026";
+export const guideTitle = "Best Portable Outdoor Office Pod";
 export const metaTitle = "Best Outdoor Office Pods (2026)";
 export const metaDescription =
   "Only one verified Amazon listing in this niche explicitly claims outdoor use, we cover it honestly and explain why the rest of the category doesn't qualify.";

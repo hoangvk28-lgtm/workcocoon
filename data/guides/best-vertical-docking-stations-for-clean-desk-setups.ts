@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-docking-stations-for-clean-desk-setups";
-export const guideTitle = "8 Best Vertical Docking Stations for Clean Desk Setups in 2026";
+export const guideTitle = "Best Vertical Docking Stations for a Cleaner Desk";
 export const metaTitle = "Best Vertical Docking Stations for Clean Desk Setups in 2026";
 export const metaDescription =
   "8 best vertical docking stations for a clean desk setup in 2026, from a dedicated vertical laptop stand dock to compact hubs that stand upright. Compare stability, ports, and MacBook clamshell fit.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-for-4k-120hz";
-export const guideTitle = "4 Best USB4 Docks for 4K 120Hz and 8K Displays in 2026";
+export const guideTitle = "Best USB4 Docks for 4K 120Hz and 8K Displays";
 export const metaTitle = "Best USB4 Docks for 4K 120Hz and 8K";
 export const metaDescription = "We compared high-resolution USB4 docks by Thunderbolt 5 requirements, since 8K and 4K 120Hz output ceilings depend heavily on your exact chip and host port.";
 export const mainKeyword = "best usb4 dock for 4k 120hz";

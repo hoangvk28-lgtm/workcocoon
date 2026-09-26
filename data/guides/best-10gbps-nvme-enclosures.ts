@@ -1,5 +1,5 @@
 export const guideSlug = "best-10gbps-nvme-enclosures";
-export const guideTitle = "6 Best 10Gbps NVMe Enclosures in 2026";
+export const guideTitle = "Best 10Gbps NVMe Enclosures";
 export const metaTitle = "Best 10Gbps NVMe Enclosures 2026";
 export const metaDescription = "10Gbps remains the largest, most affordable tier. We checked controller stability and real transfer speed, not just the theoretical link rate.";
 export const mainKeyword = "10gbps nvme enclosures";

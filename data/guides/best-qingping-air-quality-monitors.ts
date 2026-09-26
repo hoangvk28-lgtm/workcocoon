@@ -1,5 +1,5 @@
 export const guideSlug = "best-qingping-air-quality-monitors";
-export const guideTitle = "8 Best Qingping Air Quality Monitors in 2026";
+export const guideTitle = "Best Qingping Air Quality Monitors";
 export const metaTitle = "Best Qingping Air Quality Monitors";
 export const metaDescription = "We compared qingping air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "qingping air quality monitor";

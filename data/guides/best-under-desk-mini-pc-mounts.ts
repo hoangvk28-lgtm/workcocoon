@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-mini-pc-mounts";
-export const guideTitle = "4 Best Under-Desk Mini PC Mounts in 2026";
+export const guideTitle = "Best Under-Desk Mini PC Mounts";
 export const metaTitle = "Best Under-Desk Mini PC Mounts (2026)";
 export const metaDescription =
   "4 under-desk mini PC mounts we evaluated, genuinely scaled for small form factor PCs and Mac mini, plus when a VESA monitor mount fits better instead.";

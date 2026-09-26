@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-standing-desks";
-export const guideTitle = "8 Best Task Chairs for Standing Desks in 2026";
+export const guideTitle = "Best Task Chairs for Standing Desks";
 export const metaTitle = "Best Task Chairs for Standing Desks";
 export const metaDescription = "We compared task chair for standing desk models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair for standing desk";

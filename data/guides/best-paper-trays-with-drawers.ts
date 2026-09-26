@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-trays-with-drawers";
-export const guideTitle = "6 Best Paper Trays with Drawers in 2026";
+export const guideTitle = "Best Paper Trays with Drawers";
 export const metaTitle = "Best Paper Trays with Drawers";
 export const metaDescription = "We compared paper trays with drawers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "paper trays with drawers";

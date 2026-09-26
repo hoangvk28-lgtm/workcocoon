@@ -1,5 +1,5 @@
 export const guideSlug = "best-custom-sticky-note-holders";
-export const guideTitle = "6 Best Custom Sticky Note Holders in 2026";
+export const guideTitle = "Best Custom Sticky Note Holders";
 export const metaTitle = "Best Custom Sticky Note Holders";
 export const metaDescription = "We compared custom sticky note holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "custom sticky note holders";

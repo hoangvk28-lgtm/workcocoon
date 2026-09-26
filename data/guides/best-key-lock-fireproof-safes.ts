@@ -1,5 +1,5 @@
 export const guideSlug = "best-key-lock-fireproof-safes";
-export const guideTitle = "8 Best Key Lock Fireproof Safes in 2026";
+export const guideTitle = "Best Key Lock Fireproof Safes";
 export const metaTitle = "Best Key Lock Fireproof Safes 2026";
 export const metaDescription = "We compared key lock fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "key lock fireproof safes";

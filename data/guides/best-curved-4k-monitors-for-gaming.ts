@@ -1,5 +1,5 @@
 export const guideSlug = "best-curved-4k-monitors-for-gaming";
-export const guideTitle = "6 Best Curved 4K Monitors for Gaming in 2026";
+export const guideTitle = "Best Curved 4K Monitors for Gaming";
 export const metaTitle = "Best Curved 4K Monitors for Gaming";
 export const metaDescription = "We compared curved 4k monitors for gaming models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "curved 4k monitors for gaming";

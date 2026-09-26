@@ -1,5 +1,5 @@
 export const guideSlug = "best-entry-level-vr-headsets";
-export const guideTitle = "6 Best Entry-Level VR Headsets in 2026";
+export const guideTitle = "Best Entry-Level VR Headsets";
 export const metaTitle = "Best Entry-Level VR Headsets";
 export const metaDescription = "We compared entry-level vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "entry-level vr headsets";

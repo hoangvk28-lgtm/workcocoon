@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-without-screens";
-export const guideTitle = "7 Best Drawing Tablets Without Screens in 2026";
+export const guideTitle = "Best Drawing Tablets Without Screens";
 export const metaTitle = "Best Drawing Tablets Without Screens 2026";
 export const metaDescription = "We compared drawing tablets without screens by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets without screens";

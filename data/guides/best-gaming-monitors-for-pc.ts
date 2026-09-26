@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-for-pc";
-export const guideTitle = "6 Best Gaming Monitors for PC in 2026";
+export const guideTitle = "Best Gaming Monitors for PC";
 export const metaTitle = "Best Gaming Monitors for PC";
 export const metaDescription = "We compared gaming monitors for pc models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "gaming monitors for pc";

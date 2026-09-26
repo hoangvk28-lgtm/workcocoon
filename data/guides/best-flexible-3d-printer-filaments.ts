@@ -1,5 +1,5 @@
 export const guideSlug = "best-flexible-3d-printer-filaments";
-export const guideTitle = "6 Best Flexible 3D Printer Filaments in 2026";
+export const guideTitle = "Best Flexible 3D Printer Filaments";
 export const metaTitle = "Best Flexible 3D Printer Filaments";
 export const metaDescription = "We compared flexible 3d printer filaments models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "flexible 3d printer filaments";

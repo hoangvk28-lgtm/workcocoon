@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-desk-cup-holders";
-export const guideTitle = "5 Best Clamp-On Desk Cup Holders in 2026";
+export const guideTitle = "Best Clamp-On Desk Cup Holders";
 export const metaTitle = "Best Clamp-On Desk Cup Holders (2026)";
 export const metaDescription =
   "5 clamp-on cup holders researched for clamp torque under a full drink's weight, desk edge compatibility, and surface marking risk.";

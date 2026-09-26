@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-air-conditioners-with-heaters";
-export const guideTitle = "8 Best Portable Air Conditioners With Heaters in 2026";
+export const guideTitle = "Best Portable Air Conditioners With Heaters";
 export const metaTitle = "Best Portable Air Conditioners With Heaters";
 export const metaDescription = "We compared portable air conditioner with heater models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "portable air conditioner with heater";

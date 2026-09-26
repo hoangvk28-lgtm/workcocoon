@@ -1,5 +1,5 @@
 export const guideSlug = "best-plugable-nvme-enclosures";
-export const guideTitle = "3 Best Plugable NVMe Enclosures in 2026";
+export const guideTitle = "Best Plugable NVMe Enclosures";
 export const metaTitle = "Best Plugable NVMe Enclosures 2026";
 export const metaDescription = "Plugable's current lineup covers three distinct 10Gbps designs. We compared cooling method and size compatibility before ranking.";
 export const mainKeyword = "plugable nvme enclosures";

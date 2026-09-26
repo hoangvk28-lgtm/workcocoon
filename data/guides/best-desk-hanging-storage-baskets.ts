@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-hanging-storage-baskets";
-export const guideTitle = "5 Best Desk-Hanging Storage Baskets in 2026";
+export const guideTitle = "Best Desk-Hanging Storage Baskets";
 export const metaTitle = "Best Desk-Hanging Storage Baskets (2026)";
 export const metaDescription =
   "5 mesh and wire hanging storage options checked for weave openness against small-item containment, weight capacity, and desk-edge compatibility.";

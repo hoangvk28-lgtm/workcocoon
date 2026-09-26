@@ -1,5 +1,5 @@
 export const guideSlug = "best-fiber-laser-engravers-under-1500";
-export const guideTitle = "4 Best Fiber Laser Engravers Under $1500 in 2026";
+export const guideTitle = "Best Fiber Laser Engravers Under $1500";
 export const metaTitle = "Best Fiber Laser Engravers Under $1500";
 export const metaDescription = "We compared 20W fiber laser engravers under $1500 by engraving speed, working area, and software compatibility, since specs vary widely at this entry tier.";
 export const mainKeyword = "best fiber laser engravers under $1500";

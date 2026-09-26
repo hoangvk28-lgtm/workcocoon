@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-under-30";
-export const guideTitle = "6 Best Mug Warmers Under $30 in 2026";
+export const guideTitle = "Best Mug Warmers Under $30";
 export const metaTitle = "Best Mug Warmers Under $30";
 export const metaDescription = "We compared mug warmer under 30 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mug warmer under 30";

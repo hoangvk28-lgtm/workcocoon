@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-bungees-with-usb-hubs";
-export const guideTitle = "6 Best Mouse Bungees With USB Hubs in 2026";
+export const guideTitle = "Best Mouse Bungees With USB Hubs";
 export const metaTitle = "Best Mouse Bungees With USB Hubs";
 export const metaDescription = "We compared mouse bungees with usb hubs models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mouse bungees with usb hubs";

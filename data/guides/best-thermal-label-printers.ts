@@ -1,5 +1,5 @@
 export const guideSlug = "best-thermal-label-printers";
-export const guideTitle = "6 Best Thermal Label Printers in 2026";
+export const guideTitle = "Best Thermal Label Printers";
 export const metaTitle = "Best Thermal Label Printers";
 export const metaDescription = "We compared thermal label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "thermal label printers";

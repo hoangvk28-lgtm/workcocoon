@@ -1,5 +1,5 @@
 export const guideSlug = "best-glass-desktop-whiteboards";
-export const guideTitle = "8 Best Glass Desktop Whiteboards in 2026";
+export const guideTitle = "Best Glass Desktop Whiteboards";
 export const metaTitle = "Best Glass Desktop Whiteboards (2026)";
 export const metaDescription =
   "8 glass desktop whiteboards we evaluated for ghosting resistance, glare, weight, and edge finish, all genuinely glass surfaces per their listings.";

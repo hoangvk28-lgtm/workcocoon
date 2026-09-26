@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-under-200";
-export const guideTitle = "4 Best Filing Cabinets Under $200 in 2026";
+export const guideTitle = "Best Filing Cabinets Under $200";
 export const metaTitle = "Best Filing Cabinets Under $200";
 export const metaDescription = "We compared filing cabinets under $200 by built-in power outlets, interlock safety, and farmhouse styling, since feature-rich wood units appear here.";
 export const mainKeyword = "best filing cabinets under $200";

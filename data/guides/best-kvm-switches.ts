@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches";
-export const guideTitle = "5 Best KVM Switches in 2026";
+export const guideTitle = "Best KVM Switches for a Cleaner Desk";
 export const metaTitle = "Best KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches we evaluated, with a note that EDID emulation prevents a monitor from losing its resolution and color settings every time you switch between connected computers.";

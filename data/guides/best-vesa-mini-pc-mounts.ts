@@ -1,5 +1,5 @@
 export const guideSlug = "best-vesa-mini-pc-mounts";
-export const guideTitle = "8 Best VESA Mini PC Mounts in 2026";
+export const guideTitle = "Best VESA Mini PC Mounts";
 export const metaTitle = "Best VESA Mini PC Mounts (2026)";
 export const metaDescription =
   "8 VESA Mini PC mounts we compared for 75x75 vs 100x100mm compatibility, combined load ratings, and cable access behind the monitor.";

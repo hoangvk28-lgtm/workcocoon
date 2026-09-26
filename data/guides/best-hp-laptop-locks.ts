@@ -1,5 +1,5 @@
 export const guideSlug = "best-hp-laptop-locks";
-export const guideTitle = "7 Best HP Laptop Locks in 2026";
+export const guideTitle = "Best HP Laptop Locks";
 export const metaTitle = "Best HP Laptop Locks (2026)";
 export const metaDescription =
   "7 laptop locks checked against HP's actual slot implementations, since HP varies Standard and Nano slots by model rather than one brand-wide standard.";

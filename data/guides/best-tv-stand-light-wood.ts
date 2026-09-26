@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-light-wood";
-export const guideTitle = "6 Best Light Wood TV Stands in 2026";
+export const guideTitle = "Best Light Wood TV Stands";
 export const metaTitle = "Best Light Wood TV Stands in 2026 (Natural & Knotty Oak)";
 export const metaDescription =
   "6 best light wood TV stands in 2026, from fluted natural oak designs to solid fir consoles. Compare storage, TV size fit, and finish tone.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-landscape-letter-trays";
-export const guideTitle = "6 Best Landscape Letter Trays in 2026";
+export const guideTitle = "Best Landscape Letter Trays";
 export const metaTitle = "Best Landscape Letter Trays";
 export const metaDescription = "We compared landscape letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "landscape letter trays";

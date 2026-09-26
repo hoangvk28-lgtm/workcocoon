@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-shelf-sets";
-export const guideTitle = "8 Best Floating Shelf Sets in 2026";
+export const guideTitle = "Best Floating Shelf Sets";
 export const metaTitle = "Best Floating Shelf Sets";
 export const metaDescription = "We compared floating shelf set models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "floating shelf set";

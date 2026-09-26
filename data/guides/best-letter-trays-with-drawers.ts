@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-trays-with-drawers";
-export const guideTitle = "6 Best Letter Trays with Drawers in 2026";
+export const guideTitle = "Best Letter Trays with Drawers";
 export const metaTitle = "Best Letter Trays with Drawers";
 export const metaDescription = "We compared letter trays with drawers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "letter trays with drawers";

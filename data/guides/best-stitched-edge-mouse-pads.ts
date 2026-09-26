@@ -1,5 +1,5 @@
 export const guideSlug = "best-stitched-edge-mouse-pads";
-export const guideTitle = "8 Best Stitched-Edge Mouse Pads in 2026";
+export const guideTitle = "Best Stitched-Edge Mouse Pads";
 export const metaTitle = "Best Stitched-Edge Mouse Pads";
 export const metaDescription = "We compared mouse pad stitched edge models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse pad stitched edge";

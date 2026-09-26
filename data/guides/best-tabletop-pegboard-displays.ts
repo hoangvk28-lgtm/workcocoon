@@ -1,5 +1,5 @@
 export const guideSlug = "best-tabletop-pegboard-displays";
-export const guideTitle = "4 Best Tabletop Pegboard Displays in 2026";
+export const guideTitle = "Best Tabletop Pegboard Displays";
 export const metaTitle = "Best Tabletop Pegboard Displays (2026)";
 export const metaDescription =
   "4 tabletop pegboard displays we evaluated for craft shows and retail merchandising, not home-office desk cable organization.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-lightweight-portable-monitors-for-travel";
-export const guideTitle = "8 Best Lightweight Portable Monitors for Travel in 2026";
+export const guideTitle = "Best Portable Monitors When True Travel Weight Matters";
 export const metaTitle = "Best Lightweight Portable Monitors for Travel, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors we evaluated on true travel-kit weight, panel plus case plus cables, not the marketed panel-only weight that understates what actually goes in your bag.";

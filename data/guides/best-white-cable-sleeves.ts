@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-cable-sleeves";
-export const guideTitle = "6 Best White Cable Sleeves in 2026";
+export const guideTitle = "Best White Cable Sleeves";
 export const metaTitle = "Best White Cable Sleeves";
 export const metaDescription = "We compared white cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "white cable sleeves";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-under-20";
-export const guideTitle = "4 Best Mini PC Mounts Under $20 in 2026";
+export const guideTitle = "Best Mini PC Mounts Under $20";
 export const metaTitle = "Best Mini PC Mounts Under $20";
 export const metaDescription = "We compared mini PC mounts under $20 by adjustable width, mounting versatility, and extra features, since real adjustable brackets appear at this price.";
 export const mainKeyword = "best mini pc mounts under $20";

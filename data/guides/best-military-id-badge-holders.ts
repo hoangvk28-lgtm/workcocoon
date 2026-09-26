@@ -1,5 +1,5 @@
 export const guideSlug = "best-military-id-badge-holders";
-export const guideTitle = "6 Best Military ID Badge Holders in 2026";
+export const guideTitle = "Best Military ID Badge Holders";
 export const metaTitle = "Best Military ID Badge Holders";
 export const metaDescription = "We compared military id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "military id badge holders";

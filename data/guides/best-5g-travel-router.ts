@@ -1,5 +1,5 @@
 export const guideSlug = "best-5g-travel-router";
-export const guideTitle = "4 Best 5G and 4G Travel Routers in 2026";
+export const guideTitle = "Best 5G and 4G Travel Routers";
 export const metaTitle = "Best 5G and 4G Travel Routers";
 export const metaDescription = "We compared 5G and 4G travel routers by device count and speed, since one supports 32 devices at 3.6 Gbps while a budget pick caps at 16 devices and 600Mbps.";
 export const mainKeyword = "best 5g travel router";

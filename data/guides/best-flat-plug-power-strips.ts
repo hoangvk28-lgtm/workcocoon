@@ -1,5 +1,5 @@
 export const guideSlug = "best-flat-plug-power-strips";
-export const guideTitle = "5 Best Flat-Plug Power Strips in 2026";
+export const guideTitle = "Best Flat-Plug Power Strips for Tight Outlets";
 export const metaTitle = "Best Flat-Plug Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 flat-plug power strips we evaluated, with the distinction competitors skip: a flat plug solves the wall-outlet clearance problem, it doesn't reduce the strip body's own footprint behind furniture.";

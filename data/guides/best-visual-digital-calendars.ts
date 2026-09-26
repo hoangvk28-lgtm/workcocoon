@@ -1,5 +1,5 @@
 export const guideSlug = "best-visual-digital-calendars";
-export const guideTitle = "4 Best Visual Digital Calendars in 2026";
+export const guideTitle = "Best Visual Digital Calendars";
 export const metaTitle = "Best Visual Digital Calendars (2026)";
 export const metaDescription =
   "4 touchscreen digital calendars evaluated for their visual, photo-frame-style displays and chore-chart layouts, not just plain date readouts.";

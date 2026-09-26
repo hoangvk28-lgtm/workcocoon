@@ -1,5 +1,5 @@
 export const guideSlug = "best-sauder-office-credenzas";
-export const guideTitle = "5 Best Sauder Office Credenzas in 2026";
+export const guideTitle = "Best Sauder Office Credenzas";
 export const metaTitle = "Best Sauder Office Credenzas 2026";
 export const metaDescription = "We compared sauder office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "sauder office credenzas";

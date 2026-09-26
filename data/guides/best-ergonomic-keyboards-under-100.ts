@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-under-100";
-export const guideTitle = "8 Best Ergonomic Keyboards Under $100 in 2026";
+export const guideTitle = "Best Ergonomic Keyboards Under $100";
 export const metaTitle = "Best Ergonomic Keyboards Under $100";
 export const metaDescription =
   "8 ergonomic keyboards genuinely under $100 we evaluated, verifying every listed price and setting modest, realistic expectations for first-time buyers.";

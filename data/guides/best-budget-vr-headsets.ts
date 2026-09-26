@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-vr-headsets";
-export const guideTitle = "6 Best Budget VR Headsets in 2026";
+export const guideTitle = "Best Budget VR Headsets";
 export const metaTitle = "Best Budget VR Headsets";
 export const metaDescription = "We compared budget vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "budget vr headsets";

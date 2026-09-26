@@ -1,5 +1,5 @@
 export const guideSlug = "best-dog-bookends";
-export const guideTitle = "5 Best Dog Bookends in 2026";
+export const guideTitle = "Best Dog Bookends";
 export const metaTitle = "Best Dog Bookends";
 export const metaDescription = "We compared dog bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "dog bookends";

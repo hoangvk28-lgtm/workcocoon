@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizer-baskets";
-export const guideTitle = "4 Best Cord Organizer Baskets in 2026";
+export const guideTitle = "Best Cord Organizer Baskets";
 export const metaTitle = "Best Cord Organizer Baskets";
 export const metaDescription = "We compared cord organizer baskets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cord organizer baskets";

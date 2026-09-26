@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-outdoor-work";
-export const guideTitle = "5 Best Laptop Cooling Pads for Outdoor Work in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Outdoor Work";
 export const metaTitle = "Best Laptop Cooling Pads for Outdoor Work (2026)";
 export const metaDescription =
   "5 cooling pads for extended outdoor work sessions, overlapping with our general outdoor-use guide but weighted toward sustained comfort features like cushioning and mouse pad integration.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-combination-fireproof-safes";
-export const guideTitle = "8 Best Combination Fireproof Safes in 2026";
+export const guideTitle = "Best Combination Fireproof Safes";
 export const metaTitle = "Best Combination Fireproof Safes 2026";
 export const metaDescription = "We compared combination fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "combination fireproof safes";

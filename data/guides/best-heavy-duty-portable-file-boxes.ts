@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-portable-file-boxes";
-export const guideTitle = "5 Best Heavy-Duty Portable File Boxes in 2026";
+export const guideTitle = "Best Heavy-Duty Portable File Boxes";
 export const metaTitle = "Best Heavy-Duty Portable File Boxes (2026)";
 export const metaDescription =
   "5 file boxes marketed as heavy-duty, checked against genuine construction differences and realistic drop and impact resistance for transport use.";

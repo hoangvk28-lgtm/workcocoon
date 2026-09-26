@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-under-100";
-export const guideTitle = "8 Best Gaming Chairs Under $100 in 2026";
+export const guideTitle = "Best Gaming Chairs Under $100";
 export const metaTitle = "Best Gaming Chairs Under $100 in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs under $100 in 2026, covering massage lumbar, pull-out footrests, and high weight capacity options for every budget.";

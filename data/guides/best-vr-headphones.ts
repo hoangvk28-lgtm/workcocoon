@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headphones";
-export const guideTitle = "6 Best VR Headphones in 2026";
+export const guideTitle = "Best VR Headphones";
 export const metaTitle = "Best VR Headphones";
 export const metaDescription = "We compared vr headphones models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "vr headphones";

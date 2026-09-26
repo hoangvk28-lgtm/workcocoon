@@ -1,6 +1,6 @@
 const BASE = "/images/guides/best-clamp-on-desk-drawers";
 export const guideSlug = "best-clamp-on-desk-drawers";
-export const guideTitle = "8 Best Clamp-On Desk Drawers (2026)";
+export const guideTitle = "Best Clamp-On Desk Drawers (2026)";
 export const metaTitle = "Best Clamp-On Desk Drawers (2026)";
 export const metaDescription =
   "Clamp-on desk drawers compared for home offices. No-drill storage, 360-degree swivel options, keyboard tray combos, and sit-stand compatible picks.";

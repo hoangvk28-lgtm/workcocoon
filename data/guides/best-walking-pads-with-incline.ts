@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-walking-pads-with-incline";
 
 export const guideSlug = "best-walking-pads-with-incline";
-export const guideTitle = "8 Best Walking Pads with Incline (2026)";
+export const guideTitle = "Best Walking Pads with Incline (2026)";
 export const metaTitle = "Best Walking Pads with Incline 2026";
 export const metaDescription =
   "Best walking pads with incline in 2026. Auto-incline and manual-incline under-desk treadmills ranked by incline levels, motor power, and calorie burn.";

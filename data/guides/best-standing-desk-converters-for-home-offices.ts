@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-for-home-offices";
-export const guideTitle = "6 Best Standing Desk Converters for Home Offices in 2026";
+export const guideTitle = "Best Standing Desk Converters for Home Offices";
 export const metaTitle = "Best Standing Desk Converters for Home Offices (2026)";
 export const metaDescription =
   "6 standing desk converters compared for home office use: desk footprint, video-call stability, and cable management, not just a generic ranking.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-6-channel-audio-interfaces";
-export const guideTitle = "8 Best 6-Channel Audio Interfaces in 2026";
+export const guideTitle = "Best 6-Channel Audio Interfaces";
 export const metaTitle = "Best 6-Channel Audio Interfaces";
 export const metaDescription = "We compared 6 channel audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "6 channel audio interface";

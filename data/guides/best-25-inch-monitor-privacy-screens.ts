@@ -1,5 +1,5 @@
 export const guideSlug = "best-25-inch-monitor-privacy-screens";
-export const guideTitle = "3 Best 25-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 25-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 25-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "3 privacy filters confirmed for genuine 25 inch, 16:9 monitors, a less common size than 24 inch with a real but smaller selection.";

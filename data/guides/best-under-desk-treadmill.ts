@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-treadmill";
-export const guideTitle = "8 Best Under-Desk Treadmills in 2026";
+export const guideTitle = "Best Under-Desk Treadmills (Walking Pads)";
 export const metaTitle = "Best Under-Desk Treadmills in 2026 (Slim, Foldable & Incline Picks)";
 export const metaDescription =
   "8 best under-desk treadmills in 2026, from ultra-slim 4.1-inch models to a 4.5HP professional-grade walking pad. Compare speed, incline, safety features, and price.";

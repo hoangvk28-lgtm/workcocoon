@@ -1,5 +1,5 @@
 export const guideSlug = "best-nypot-kneeling-chairs";
-export const guideTitle = "8 Best NYPOT Kneeling Chairs in 2026";
+export const guideTitle = "Best NYPOT Kneeling Chairs";
 export const metaTitle = "Best NYPOT Kneeling Chairs";
 export const metaDescription = "We compared nypot kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "nypot kneeling chair";

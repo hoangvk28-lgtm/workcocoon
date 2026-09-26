@@ -1,5 +1,5 @@
 export const guideSlug = "best-modesty-panels-with-cable-management";
-export const guideTitle = "8 Best Modesty Panels With Cable Management in 2026";
+export const guideTitle = "Best Modesty Panels With Cable Management";
 export const metaTitle = "Best Modesty Panels With Cable Management";
 export const metaDescription = "We compared modesty panel with cable management models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "modesty panel with cable management";

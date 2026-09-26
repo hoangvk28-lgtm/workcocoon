@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-under-50";
-export const guideTitle = "4 Best Desk Clocks Under $50 in 2026";
+export const guideTitle = "Best Desk Clocks Under $50";
 export const metaTitle = "Best Desk Clocks Under $50";
 export const metaDescription = "We compared desk clocks under $50 by retro flip-clock mechanics, real wood grades, and full weather station versus quiet analog tradeoffs.";
 export const mainKeyword = "best desk clocks under $50";

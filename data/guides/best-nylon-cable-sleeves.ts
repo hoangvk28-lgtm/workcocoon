@@ -1,5 +1,5 @@
 export const guideSlug = "best-nylon-cable-sleeves";
-export const guideTitle = "6 Best Nylon Cable Sleeves in 2026";
+export const guideTitle = "Best Nylon Cable Sleeves";
 export const metaTitle = "Best Nylon Cable Sleeves";
 export const metaDescription = "We compared nylon cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "nylon cable sleeves";

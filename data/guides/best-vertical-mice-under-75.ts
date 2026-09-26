@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-under-75";
-export const guideTitle = "4 Best Vertical Mice Under $75 in 2026";
+export const guideTitle = "Best Vertical Mice Under $75";
 export const metaTitle = "Best Vertical Mice Under $75";
 export const metaDescription = "We compared vertical mice under $75 by ergonomist certification, hand-size fit, and connectivity, since named-brand flagship options cluster at this tier.";
 export const mainKeyword = "best vertical mice under $75";

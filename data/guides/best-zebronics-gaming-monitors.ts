@@ -1,5 +1,5 @@
 export const guideSlug = "best-zebronics-gaming-monitors";
-export const guideTitle = "6 Best Zebronics Gaming Monitors in 2026";
+export const guideTitle = "Best Zebronics Gaming Monitors";
 export const metaTitle = "Best Zebronics Gaming Monitors";
 export const metaDescription = "We compared zebronics gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "zebronics gaming monitors";

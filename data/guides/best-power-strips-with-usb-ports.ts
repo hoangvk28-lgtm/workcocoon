@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-with-usb-ports";
-export const guideTitle = "6 Best Power Strips with USB Ports in 2026";
+export const guideTitle = "Best Power Strips with USB Charging Ports";
 export const metaTitle = "Best Power Strips with USB Ports, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 power strips with USB ports we evaluated, with the charging-speed distinction competitors skip: most integrated USB ports deliver basic 5V/2.4A output, not modern fast-charging speeds.";

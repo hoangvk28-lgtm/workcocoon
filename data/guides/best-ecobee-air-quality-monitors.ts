@@ -1,5 +1,5 @@
 export const guideSlug = "best-ecobee-air-quality-monitors";
-export const guideTitle = "5 Best Ecobee Air Quality Monitors in 2026";
+export const guideTitle = "Best Ecobee Air Quality Monitors";
 export const metaTitle = "Best Ecobee Air Quality Monitors";
 export const metaDescription = "We compared ecobee air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "ecobee air quality monitor";

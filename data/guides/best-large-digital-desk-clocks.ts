@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-digital-desk-clocks";
-export const guideTitle = "3 Best Large Digital Desk Clocks in 2026";
+export const guideTitle = "Best Large Digital Desk Clocks";
 export const metaTitle = "Best Large Digital Desk Clocks";
 export const metaDescription =
   "3 large-display digital desk clocks compared for readability from across a room, covering digit size, power type, and extra features on each screen.";

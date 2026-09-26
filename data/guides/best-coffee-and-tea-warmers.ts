@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-and-tea-warmers";
-export const guideTitle = "6 Best Coffee and Tea Warmers in 2026";
+export const guideTitle = "Best Coffee and Tea Warmers";
 export const metaTitle = "Best Coffee and Tea Warmers";
 export const metaDescription = "We compared coffee and tea warmers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "coffee and tea warmers";

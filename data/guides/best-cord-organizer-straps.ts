@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizer-straps";
-export const guideTitle = "6 Best Cord Organizer Straps in 2026";
+export const guideTitle = "Best Cord Organizer Straps";
 export const metaTitle = "Best Cord Organizer Straps";
 export const metaDescription = "We compared cord organizer straps models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cord organizer straps";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-ssd-nas-for-fast-file-access";
-export const guideTitle = "8 Best SSD NAS for Fast File Access in 2026";
+export const guideTitle = "Best SSD NAS for Fast File Access";
 export const metaTitle = "Best SSD NAS for Fast File Access in 2026";
 export const metaDescription =
   "8 best SSD NAS and NVMe-cache NAS enclosures for fast file access in 2026. Compare all-SSD bays, NVMe cache setups, and when SSD NAS is actually worth the cost.";

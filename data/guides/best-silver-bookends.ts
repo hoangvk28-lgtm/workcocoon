@@ -1,5 +1,5 @@
 export const guideSlug = "best-silver-bookends";
-export const guideTitle = "4 Best Silver Bookends in 2026";
+export const guideTitle = "Best Silver Bookends";
 export const metaTitle = "Best Silver Bookends";
 export const metaDescription = "We compared silver bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "silver bookends";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tape-dispensers";
-export const guideTitle = "6 Best Tape Dispensers in 2026";
+export const guideTitle = "Best Tape Dispensers";
 export const metaTitle = "Best Tape Dispensers";
 export const metaDescription = "We compared tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "tape dispensers";

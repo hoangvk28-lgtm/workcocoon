@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-tray-organizers";
-export const guideTitle = "6 Best Paper Tray Organizers in 2026";
+export const guideTitle = "Best Paper Tray Organizers";
 export const metaTitle = "Best Paper Tray Organizers";
 export const metaDescription = "We compared paper tray organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "paper tray organizers";

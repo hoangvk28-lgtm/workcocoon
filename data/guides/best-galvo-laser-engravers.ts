@@ -1,5 +1,5 @@
 export const guideSlug = "best-galvo-laser-engravers";
-export const guideTitle = "7 Best Galvo Laser Engravers in 2026";
+export const guideTitle = "Best Galvo Laser Engravers";
 export const metaTitle = "Best Galvo Laser Engravers in 2026";
 export const metaDescription = "We compared best galvo laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "galvo laser engravers";

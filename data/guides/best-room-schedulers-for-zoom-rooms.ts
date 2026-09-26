@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-schedulers-for-zoom-rooms";
-export const guideTitle = "8 Best Room Schedulers for Zoom Rooms in 2026";
+export const guideTitle = "Best Room Schedulers for Zoom Rooms";
 export const metaTitle = "Best Room Schedulers for Zoom Rooms";
 export const metaDescription = "We compared room scheduler for zoom rooms models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "room scheduler for zoom rooms";

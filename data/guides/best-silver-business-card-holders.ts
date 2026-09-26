@@ -1,5 +1,5 @@
 export const guideSlug = "best-silver-business-card-holders";
-export const guideTitle = "3 Best Silver Business Card Holders in 2026";
+export const guideTitle = "Best Silver Business Card Holders";
 export const metaTitle = "Best Silver Business Card Holders";
 export const metaDescription = "We compared silver business card holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "silver business card holders";

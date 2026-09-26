@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-scanners-for-3d-printing";
-export const guideTitle = "6 Best 3D Scanners for 3D Printing in 2026";
+export const guideTitle = "Best 3D Scanners for 3D Printing";
 export const metaTitle = "Best 3D Scanners for 3D Printing";
 export const metaDescription = "We compared 3d scanners for 3d printing models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "3d scanners for 3d printing";

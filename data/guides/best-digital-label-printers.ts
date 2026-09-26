@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-label-printers";
-export const guideTitle = "6 Best Digital Label Printers in 2026";
+export const guideTitle = "Best Digital Label Printers";
 export const metaTitle = "Best Digital Label Printers";
 export const metaDescription = "We compared digital label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "digital label printers";

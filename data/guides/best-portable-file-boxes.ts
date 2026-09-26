@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes";
-export const guideTitle = "8 Best Portable File Boxes in 2026";
+export const guideTitle = "Best Portable File Boxes";
 export const metaTitle = "Best Portable File Boxes (2026)";
 export const metaDescription =
   "8 portable file boxes checked for loaded-weight handle comfort, hanging file rail compatibility, and lid-seal security during actual transport.";

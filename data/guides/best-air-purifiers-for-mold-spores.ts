@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-mold-spores";
-export const guideTitle = "5 Best Air Purifiers for Mold Spores in 2026";
+export const guideTitle = "Best Air Purifiers for Mold Spores";
 export const metaTitle = "Best Air Purifiers for Mold Spores, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for mold spores, with the source-vs-symptom distinction competitors skip: an air purifier captures airborne spores, it doesn't remediate an active mold source, which needs moisture control and physical remediation first.";

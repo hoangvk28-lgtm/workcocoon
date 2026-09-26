@@ -1,5 +1,5 @@
 export const guideSlug = "best-outdoor-poe-splitter";
-export const guideTitle = "4 Best Outdoor PoE Splitters in 2026";
+export const guideTitle = "Best Outdoor PoE Splitters";
 export const metaTitle = "Best Outdoor PoE Splitters";
 export const metaDescription = "We compared outdoor PoE splitters by real IP rating and price, since one industrial unit costs nearly 20 times more than a basic camera-combiner splitter.";
 export const mainKeyword = "best outdoor poe splitter";

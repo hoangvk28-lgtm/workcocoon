@@ -1,5 +1,5 @@
 export const guideSlug = "best-copy-holders-for-legal-documents";
-export const guideTitle = "6 Best Copy Holders for Legal Documents in 2026";
+export const guideTitle = "Best Copy Holders for Legal Documents";
 export const metaTitle = "Best Copy Holders for Legal Documents";
 export const metaDescription = "We compared copy holder for legal documents models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "copy holder for legal documents";

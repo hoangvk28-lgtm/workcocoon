@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-coffee-warmer-plates";
-export const guideTitle = "6 Best Dual Coffee Warmer Plates in 2026";
+export const guideTitle = "Best Dual Coffee Warmer Plates";
 export const metaTitle = "Best Dual Coffee Warmer Plates";
 export const metaDescription = "We compared dual coffee warmer plates models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "dual coffee warmer plates";

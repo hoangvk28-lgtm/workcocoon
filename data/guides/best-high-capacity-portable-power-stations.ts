@@ -1,5 +1,5 @@
 export const guideSlug = "best-high-capacity-portable-power-stations";
-export const guideTitle = "7 Best High Capacity Portable Power Stations in 2026";
+export const guideTitle = "Best High Capacity Portable Power Stations";
 export const metaTitle = "Best High Capacity Portable Power Stations 2026";
 export const metaDescription = "We compared high capacity portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "high capacity portable power stations";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-drafting-chairs-for-standing-desks";
-export const guideTitle = "8 Best Drafting Chairs for Standing Desks in 2026";
+export const guideTitle = "Best Drafting Chairs for Standing Desks";
 export const metaTitle = "Best Drafting Chairs for Standing Desks";
 export const metaDescription = "We compared drafting chair for standing desk models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "drafting chair for standing desk";

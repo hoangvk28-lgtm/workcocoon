@@ -1,5 +1,5 @@
 export const guideSlug = "best-3x3-sticky-note-dispensers";
-export const guideTitle = "6 Best 3x3 Sticky Note Dispensers in 2026";
+export const guideTitle = "Best 3x3 Sticky Note Dispensers";
 export const metaTitle = "Best 3x3 Sticky Note Dispensers";
 export const metaDescription = "We compared 3x3 sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "3x3 sticky note dispensers";

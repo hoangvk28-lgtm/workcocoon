@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-with-keyboard-trays";
-export const guideTitle = "6 Best Standing Desk Converters with Keyboard Trays";
+export const guideTitle = "Best Standing Desk Converters with Keyboard Trays";
 export const metaTitle = "Best Standing Desk Converters with Keyboard Trays";
 export const metaDescription =
   "6 dual-tier standing desk converters with a genuine separate keyboard tray, compared for tray depth and independent height from the monitor platform.";

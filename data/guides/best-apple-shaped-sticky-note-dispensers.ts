@@ -1,5 +1,5 @@
 export const guideSlug = "best-apple-shaped-sticky-note-dispensers";
-export const guideTitle = "4 Best Apple-Shaped Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Apple-Shaped Sticky Note Dispensers";
 export const metaTitle = "Best Apple-Shaped Sticky Note Dispensers";
 export const metaDescription = "We compared apple-shaped sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "apple-shaped sticky note dispensers";

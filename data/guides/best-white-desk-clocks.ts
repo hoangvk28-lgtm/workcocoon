@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-desk-clocks";
-export const guideTitle = "5 Best White Desk Clocks in 2026";
+export const guideTitle = "Best White Desk Clocks";
 export const metaTitle = "Best White Desk Clocks (2026)";
 export const metaDescription =
   "5 white and light-finish desk clocks spanning digital, mirror-surface, and metal designs, compared for legibility and material rather than assuming they're interchangeable by color.";

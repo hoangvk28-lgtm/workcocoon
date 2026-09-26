@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-digital-notebooks";
-export const guideTitle = "7 Best Smart Digital Notebooks in 2026";
+export const guideTitle = "Best Smart Digital Notebooks";
 export const metaTitle = "Best Smart Digital Notebooks (2026)";
 export const metaDescription =
   "7 smart digital notebooks we evaluated across all three product types, since app-sync and cloud connectivity work differently on each hardware category.";

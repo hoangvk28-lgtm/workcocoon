@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-occasional-use";
-export const guideTitle = "8 Best Printers for Occasional Use in 2026";
+export const guideTitle = "Best Printers for Occasional Use";
 export const metaTitle = "Best Printers for Occasional Use in 2026 (Low-Maintenance Picks)";
 export const metaDescription =
   "8 best printers for occasional use in 2026, chosen for resisting ink dry-out and jam-free performance after weeks of idle time. Compare price and upkeep.";

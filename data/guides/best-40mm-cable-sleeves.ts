@@ -1,5 +1,5 @@
 export const guideSlug = "best-40mm-cable-sleeves";
-export const guideTitle = "6 Best 40mm Cable Sleeves in 2026";
+export const guideTitle = "Best 40mm Cable Sleeves";
 export const metaTitle = "Best 40mm Cable Sleeves";
 export const metaDescription = "We compared 40mm cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "40mm cable sleeves";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-pecron-portable-power-stations";
-export const guideTitle = "5 Best PECRON Portable Power Stations in 2026";
+export const guideTitle = "Best PECRON Portable Power Stations";
 export const metaTitle = "Best PECRON Portable Power Stations 2026";
 export const metaDescription = "We compared pecron portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "pecron portable power stations";

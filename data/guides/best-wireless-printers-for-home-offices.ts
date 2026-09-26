@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-printers-for-home-offices";
-export const guideTitle = "8 Best Wireless Printers for Home Offices in 2026";
+export const guideTitle = "Best Wireless Printers for Home Offices";
 export const metaTitle = "Best Wireless Printers for Home Offices in 2026";
 export const metaDescription =
   "8 best wireless printers for home offices in 2026. Honest notes on WiFi Direct vs. network WiFi, offline issues, and Mac stability, not just specs.";

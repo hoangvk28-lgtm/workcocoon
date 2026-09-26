@@ -1,5 +1,5 @@
 export const guideSlug = "best-dog-sticky-note-dispensers";
-export const guideTitle = "4 Best Dog Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Dog Sticky Note Dispensers";
 export const metaTitle = "Best Dog Sticky Note Dispensers";
 export const metaDescription = "We compared dog sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "dog sticky note dispensers";

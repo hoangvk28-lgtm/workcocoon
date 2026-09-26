@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-under-15";
-export const guideTitle = "4 Best Surge Protectors Under $15 in 2026";
+export const guideTitle = "Best Surge Protectors Under $15";
 export const metaTitle = "Best Surge Protectors Under $15";
 export const metaDescription = "We compared surge protectors under $15 by joule rating, wall tap design, and connected equipment warranty, since real protection varies widely here.";
 export const mainKeyword = "best surge protectors under $15";

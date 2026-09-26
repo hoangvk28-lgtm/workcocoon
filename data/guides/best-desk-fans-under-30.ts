@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-under-30";
-export const guideTitle = "8 Best Desk Fans Under $30 in 2026";
+export const guideTitle = "Best Desk Fans Under $30";
 export const metaTitle = "Best Desk Fans Under $30";
 export const metaDescription = "We compared desk fan under $30 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan under $30";

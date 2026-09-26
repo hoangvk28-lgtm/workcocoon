@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvme-enclosures-for-mac-mini";
-export const guideTitle = "5 Best NVMe Enclosures for Mac Mini in 2026";
+export const guideTitle = "Best NVMe Enclosures for Mac Mini";
 export const metaTitle = "Best NVMe Enclosures for Mac Mini 2026";
 export const metaDescription = "Mac mini buyers care about desk stacking, cable reach, and host port speed. We compared dock-plus-storage combos built for this exact use case.";
 export const mainKeyword = "nvme enclosures for mac mini";

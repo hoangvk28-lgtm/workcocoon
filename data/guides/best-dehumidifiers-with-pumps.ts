@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-with-pumps";
-export const guideTitle = "8 Best Dehumidifiers With Pumps in 2026";
+export const guideTitle = "Best Dehumidifiers With Pumps";
 export const metaTitle = "Best Dehumidifiers With Pumps";
 export const metaDescription = "We compared dehumidifier with pump models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier with pump";

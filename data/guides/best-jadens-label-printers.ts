@@ -1,5 +1,5 @@
 export const guideSlug = "best-jadens-label-printers";
-export const guideTitle = "6 Best JADENS Label Printers in 2026";
+export const guideTitle = "Best JADENS Label Printers";
 export const metaTitle = "Best JADENS Label Printers";
 export const metaDescription = "We compared jadens label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "jadens label printers";

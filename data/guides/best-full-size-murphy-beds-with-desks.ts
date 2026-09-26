@@ -1,5 +1,5 @@
 export const guideSlug = "best-full-size-murphy-beds-with-desks";
-export const guideTitle = "8 Best Full-Size Murphy Beds with Desks in 2026";
+export const guideTitle = "Best Full-Size Murphy Beds with Desks";
 export const metaTitle = "Best Full-Size Murphy Beds with Desks in 2026 (Size Guide)";
 export const metaDescription =
   "8 full-size murphy beds with desks compared against queen alternatives on desk depth, mattress upgrade path, and assembly time, with honest notes on size mismatches.";

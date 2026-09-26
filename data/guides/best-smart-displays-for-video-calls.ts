@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-displays-for-video-calls";
-export const guideTitle = "4 Best Smart Displays for Video Calls in 2026";
+export const guideTitle = "Best Smart Displays for Video Calls";
 export const metaTitle = "Best Smart Displays for Video Calls";
 export const metaDescription =
   "4 smart displays with a genuine built-in camera evaluated for video calls, with the camera-free Nest Hub deliberately excluded from this guide.";

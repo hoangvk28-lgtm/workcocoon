@@ -1,5 +1,5 @@
 export const guideSlug = "best-honeywell-humidifiers";
-export const guideTitle = "6 Best Honeywell Humidifiers in 2026";
+export const guideTitle = "Best Honeywell Humidifiers";
 export const metaTitle = "Best Honeywell Humidifiers";
 export const metaDescription = "We compared humidifier honeywell models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier honeywell";

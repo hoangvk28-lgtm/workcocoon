@@ -1,5 +1,5 @@
 export const guideSlug = "best-mesh-letter-trays";
-export const guideTitle = "6 Best Mesh Letter Trays in 2026";
+export const guideTitle = "Best Mesh Letter Trays";
 export const metaTitle = "Best Mesh Letter Trays";
 export const metaDescription = "We compared mesh letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mesh letter trays";

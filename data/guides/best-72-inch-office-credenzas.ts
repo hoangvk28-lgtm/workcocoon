@@ -1,5 +1,5 @@
 export const guideSlug = "best-72-inch-office-credenzas";
-export const guideTitle = "8 Best 72-Inch Office Credenzas in 2026";
+export const guideTitle = "Best 72-Inch Office Credenzas";
 export const metaTitle = "Best 72-Inch Office Credenzas 2026";
 export const metaDescription = "We compared 72-inch office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "72-inch office credenzas";

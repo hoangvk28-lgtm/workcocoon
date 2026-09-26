@@ -1,5 +1,5 @@
 export const guideSlug = "best-food-safe-3d-printer-filaments";
-export const guideTitle = "6 Best Food-Safe 3D Printer Filaments in 2026";
+export const guideTitle = "Best Food-Safe 3D Printer Filaments";
 export const metaTitle = "Best Food-Safe 3D Printer Filaments";
 export const metaDescription = "We compared food-safe 3d printer filaments models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "food-safe 3d printer filaments";

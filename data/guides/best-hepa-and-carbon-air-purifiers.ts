@@ -1,5 +1,5 @@
 export const guideSlug = "best-hepa-and-carbon-air-purifiers";
-export const guideTitle = "5 Best HEPA and Carbon Air Purifiers in 2026";
+export const guideTitle = "Best HEPA and Carbon Air Purifiers";
 export const metaTitle = "Best HEPA and Carbon Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 combined HEPA and carbon air purifiers we evaluated, with the hidden variable competitors skip: carbon filter mass and thickness varies enormously between products, a thin pre-filter layer performs far worse against odors than a substantial dedicated carbon stage.";

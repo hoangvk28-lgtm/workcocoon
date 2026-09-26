@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-hose-portable-air-conditioners";
-export const guideTitle = "8 Best Dual-Hose Portable Air Conditioners in 2026";
+export const guideTitle = "Best Dual-Hose Portable Air Conditioners";
 export const metaTitle = "Best Dual-Hose Portable Air Conditioners";
 export const metaDescription = "We compared portable air conditioner dual hose models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "portable air conditioner dual hose";

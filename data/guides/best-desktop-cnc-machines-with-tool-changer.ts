@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-machines-with-tool-changer";
-export const guideTitle = "4 Best Desktop CNC Machines With Tool Changer in 2026";
+export const guideTitle = "Best Desktop CNC Machines With Tool Changer";
 export const metaTitle = "Best Desktop CNC Machines With Tool Changer 2026";
 export const metaDescription = "We compared desktop cnc machines with tool changer by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc machines with tool changer";

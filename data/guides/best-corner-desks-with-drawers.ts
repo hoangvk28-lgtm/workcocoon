@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-with-drawers";
-export const guideTitle = "8 Best Corner Desks with Drawers in 2026";
+export const guideTitle = "Best Corner Desks with Drawers";
 export const metaTitle = "Best Corner Desks with Drawers";
 export const metaDescription = "We compared corner desks with drawers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "corner desks with drawers";

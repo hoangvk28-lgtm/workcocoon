@@ -1,5 +1,5 @@
 export const guideSlug = "best-side-load-letter-trays";
-export const guideTitle = "5 Best Side-Load Letter Trays in 2026";
+export const guideTitle = "Best Side-Load Letter Trays";
 export const metaTitle = "Best Side-Load Letter Trays";
 export const metaDescription = "We compared side-load letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "side-load letter trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-flat-laptop-cooling-pads";
-export const guideTitle = "5 Best Flat Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Flat Laptop Cooling Pads";
 export const metaTitle = "Best Flat Laptop Cooling Pads (2026)";
 export const metaDescription =
   "5 low-profile laptop cooling pads that don't raise the laptop at a steep angle, overlapping substantially with our thin laptop cooling pads guide.";

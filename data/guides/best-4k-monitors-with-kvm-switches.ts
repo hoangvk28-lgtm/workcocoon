@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-monitors-with-kvm-switches";
-export const guideTitle = "6 Best 4K Monitors With KVM Switches in 2026";
+export const guideTitle = "Best 4K Monitors With KVM Switches";
 export const metaTitle = "Best 4K Monitors With KVM Switches";
 export const metaDescription = "We compared 4k monitors with kvm switches models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "4k monitors with kvm switches";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-2242-nvme-enclosures";
-export const guideTitle = "6 Best 2242 NVMe Enclosures in 2026";
+export const guideTitle = "Best 2242 NVMe Enclosures";
 export const metaTitle = "Best 2242 NVMe Enclosures in 2026";
 export const metaDescription = "2242 is a real, if less common, M.2 size. We checked retention method and thermal-pad coverage for this specific length before ranking.";
 export const mainKeyword = "2242 nvme enclosures";

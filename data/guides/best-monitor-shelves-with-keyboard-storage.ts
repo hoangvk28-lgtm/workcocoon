@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-with-keyboard-storage";
-export const guideTitle = "5 Best Monitor Shelves with Keyboard Storage in 2026";
+export const guideTitle = "Best Monitor Shelves with Keyboard Storage";
 export const metaTitle = "Best Monitor Shelves with Keyboard Storage, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 monitor shelves with keyboard storage we evaluated, with the slot-dimension check competitors skip: keyboard storage slot dimensions should be verified against your specific keyboard size, compact vs full-size, not assumed one-size-fits-all.";

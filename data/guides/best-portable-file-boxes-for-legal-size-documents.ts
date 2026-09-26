@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-for-legal-size-documents";
-export const guideTitle = "5 Best Portable File Boxes for Legal-Size Documents in 2026";
+export const guideTitle = "Best Portable File Boxes for Legal-Size Documents";
 export const metaTitle = "File Boxes for Legal-Size Documents (2026)";
 export const metaDescription =
   "5 file boxes verified for genuine 8.5x14 inch legal-size rail spacing, dual letter/legal compatibility, and the added weight and bulk tradeoff.";

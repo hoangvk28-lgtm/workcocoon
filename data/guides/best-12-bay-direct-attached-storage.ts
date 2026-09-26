@@ -1,5 +1,5 @@
 export const guideSlug = "best-12-bay-direct-attached-storage";
-export const guideTitle = "5 Best 12-Bay Direct-Attached Storage";
+export const guideTitle = "Best 12-Bay Direct-Attached Storage";
 export const metaTitle = "Best 12-Bay Direct-Attached Storage";
 export const metaDescription = "12-bay DAS spans enterprise SAS shelves and rackmount USB JBOD. We separated the two architectures before ranking.";
 export const mainKeyword = "12-bay direct-attached storage";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-with-temperature-displays";
-export const guideTitle = "5 Best Desk Clocks with Temperature Displays in 2026";
+export const guideTitle = "Best Desk Clocks with Temperature Displays";
 export const metaTitle = "Best Desk Clocks with Temperature (2026)";
 export const metaDescription =
   "5 desk clocks with built-in temperature readouts compared, covering accuracy expectations, power type, and what else each display shows alongside the time.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-edifier-studio-monitors";
-export const guideTitle = "8 Best Edifier Studio Monitors in 2026";
+export const guideTitle = "Best Edifier Studio Monitors";
 export const metaTitle = "Best Edifier Studio Monitors";
 export const metaDescription = "We compared edifier studio monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "edifier studio monitor";

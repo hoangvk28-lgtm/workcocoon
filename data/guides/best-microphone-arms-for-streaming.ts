@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-for-streaming";
-export const guideTitle = "8 Best Microphone Arms for Streaming in 2026";
+export const guideTitle = "Best Microphone Arms for Streaming";
 export const metaTitle = "Best Microphone Arms for Streaming";
 export const metaDescription = "We compared microphone arm for streaming models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm for streaming";

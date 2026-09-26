@@ -1,5 +1,5 @@
 export const guideSlug = "best-long-range-poe-extender";
-export const guideTitle = "4 Best Long-Range PoE Extenders in 2026";
+export const guideTitle = "Best Long-Range PoE Extenders";
 export const metaTitle = "Best Long-Range PoE Extenders";
 export const metaDescription = "We compared long-range PoE extenders by real speed at max distance, since several listings cut bandwidth well below Gigabit past a few hundred feet.";
 export const mainKeyword = "best long range poe extender";

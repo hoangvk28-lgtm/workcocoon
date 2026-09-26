@@ -1,5 +1,5 @@
 export const guideSlug = "best-120hz-4k-monitors-with-hdmi-2-1";
-export const guideTitle = "6 Best 120Hz 4K Monitors With HDMI 2.1 in 2026";
+export const guideTitle = "Best 120Hz 4K Monitors With HDMI 2.1";
 export const metaTitle = "Best 120Hz 4K Monitors With HDMI 2.1";
 export const metaDescription = "We compared 120hz 4k monitors with hdmi 2.1 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "120hz 4k monitors with hdmi 2.1";

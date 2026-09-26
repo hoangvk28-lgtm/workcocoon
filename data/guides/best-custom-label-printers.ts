@@ -1,5 +1,5 @@
 export const guideSlug = "best-custom-label-printers";
-export const guideTitle = "6 Best Custom Label Printers in 2026";
+export const guideTitle = "Best Custom Label Printers";
 export const metaTitle = "Best Custom Label Printers";
 export const metaDescription = "We compared custom label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "custom label printers";

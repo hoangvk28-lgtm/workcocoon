@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-laser-engravers";
-export const guideTitle = "8 Best Desktop Laser Engravers in 2026";
+export const guideTitle = "Best Desktop Laser Engravers";
 export const metaTitle = "Best Desktop Laser Engravers in 2026";
 export const metaDescription = "We compared best desktop laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "desktop laser engravers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-shredders-with-pull-out-bins";
-export const guideTitle = "8 Best Paper Shredders with Pull-Out Bins in 2026";
+export const guideTitle = "Best Paper Shredders with Pull-Out Bins";
 export const metaTitle = "Best Paper Shredders with Pull-Out Bins, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders with genuine pull-out bin designs, with a note on slide-rail wear over time and the clearance space a pull-out bin needs that a swing-open design doesn't.";

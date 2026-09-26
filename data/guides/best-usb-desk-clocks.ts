@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-desk-clocks";
-export const guideTitle = "2 Best USB Desk Clocks in 2026";
+export const guideTitle = "Best USB Desk Clocks";
 export const metaTitle = "Best USB Desk Clocks (2026)";
 export const metaDescription =
   "\"USB desk clock\" usually means a clock with a USB charging port, not one powered by USB. We clarify the difference and cover the 2 genuine picks.";

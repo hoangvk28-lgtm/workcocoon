@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-for-dell-computers";
-export const guideTitle = "5 Best Mini PC Mounts for Dell Computers in 2026";
+export const guideTitle = "Best Mini PC Mounts for Dell Computers";
 export const metaTitle = "Best Mini PC Mounts for Dell Computers (2026)";
 export const metaDescription =
   "Honest finding: current listings are universal VESA brackets with claimed Dell compatibility, not Dell-exclusive accessories with a verified chassis-by-chassis fit matrix.";

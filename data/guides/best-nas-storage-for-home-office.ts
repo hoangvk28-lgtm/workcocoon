@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-storage-for-home-office";
-export const guideTitle = "8 Best NAS Storage Devices for Home Office in 2026";
+export const guideTitle = "Best NAS Storage Devices for Home Office";
 export const metaTitle = "Best NAS Storage for Home Office in 2026 (2-Bay Picks Compared)";
 export const metaDescription =
   "8 best NAS storage devices for a home office in 2026, compact 2-bay picks compared on CPU, RAM, and real setup cost, from a $199.99 entry unit to Intel-powered options.";

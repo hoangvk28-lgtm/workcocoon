@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifier-and-humidifier-combos-for-home-offices";
-export const guideTitle = "5 Best Air Purifier and Humidifier Combos for Home Offices in 2026";
+export const guideTitle = "Best Air Purifier and Humidifier Combos for Home Offices";
 export const metaTitle = "Best Air Purifier and Humidifier Combos for Home Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 combo air purifier and humidifier units we evaluated, with the maintenance-multiplication tradeoff competitors skip: a combo unit means two separate maintenance schedules (filter replacement and water tank cleaning) in one device, not half the upkeep.";

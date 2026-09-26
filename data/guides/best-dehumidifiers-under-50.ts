@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-under-50";
-export const guideTitle = "6 Best Dehumidifiers Under $50 in 2026";
+export const guideTitle = "Best Dehumidifiers Under $50";
 export const metaTitle = "Best Dehumidifiers Under $50 in 2026";
 export const metaDescription = "We compared best dehumidifiers under $50 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "dehumidifiers under $50";

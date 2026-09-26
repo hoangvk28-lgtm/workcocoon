@@ -1,5 +1,5 @@
 export const guideSlug = "best-height-adjustable-4k-monitors";
-export const guideTitle = "6 Best Height-Adjustable 4K Monitors in 2026";
+export const guideTitle = "Best Height-Adjustable 4K Monitors";
 export const metaTitle = "Best Height-Adjustable 4K Monitors";
 export const metaDescription = "We compared height-adjustable 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "height-adjustable 4k monitors";

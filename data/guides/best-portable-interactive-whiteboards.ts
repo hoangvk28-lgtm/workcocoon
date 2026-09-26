@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-interactive-whiteboards";
-export const guideTitle = "5 Best Portable Interactive Whiteboards";
+export const guideTitle = "Best Portable Interactive Whiteboards";
 export const metaTitle = "Best Portable Interactive Whiteboards";
 export const metaDescription = "We treated true portable conversion systems separately from heavy flat panels on rolling carts, since only the former is genuinely one-person portable.";
 export const mainKeyword = "portable interactive whiteboard";

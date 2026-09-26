@@ -1,5 +1,5 @@
 export const guideSlug = "best-corrugated-cable-sleeves";
-export const guideTitle = "6 Best Corrugated Cable Sleeves in 2026";
+export const guideTitle = "Best Corrugated Cable Sleeves";
 export const metaTitle = "Best Corrugated Cable Sleeves";
 export const metaDescription = "We compared corrugated cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corrugated cable sleeves";

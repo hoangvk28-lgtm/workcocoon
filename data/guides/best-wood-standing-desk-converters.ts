@@ -1,5 +1,5 @@
 export const guideSlug = "best-wood-standing-desk-converters";
-export const guideTitle = "5 Best Wood Standing Desk Converters in 2026";
+export const guideTitle = "Best Wood Standing Desk Converters";
 export const metaTitle = "Best Wood Standing Desk Converters (2026)";
 export const metaDescription =
   "5 standing desk converters compared for actual wood or wood-composite construction, distinguishing genuine material from a wood-look laminate finish.";

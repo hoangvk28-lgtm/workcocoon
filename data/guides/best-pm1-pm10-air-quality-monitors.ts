@@ -1,5 +1,5 @@
 export const guideSlug = "best-pm1-pm10-air-quality-monitors";
-export const guideTitle = "8 Best PM1 / PM10 Air Quality Monitors in 2026";
+export const guideTitle = "Best PM1 / PM10 Air Quality Monitors";
 export const metaTitle = "Best PM1 / PM10 Air Quality Monitors";
 export const metaDescription = "We compared pm10 air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "pm10 air quality monitor";

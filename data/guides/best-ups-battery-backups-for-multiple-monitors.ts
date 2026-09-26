@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-for-multiple-monitors";
-export const guideTitle = "6 Best UPS Battery Backups for Multiple Monitors in 2026";
+export const guideTitle = "Best UPS Battery Backups for Multiple Monitors";
 export const metaTitle = "Best UPS Battery Backups for Multiple Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 UPS units we evaluated for multi-monitor desk setups, with the outlet-count and real-wattage math competitors skip: each additional monitor adds meaningful draw, and outlet count matters as much as capacity for a 2-3 monitor setup.";

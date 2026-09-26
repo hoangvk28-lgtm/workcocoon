@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-task-chairs-for-professional-offices";
-export const guideTitle = "8 Best Compact Task Chairs for Professional Offices in 2026";
+export const guideTitle = "Best Compact Task Chairs for Professional Offices";
 export const metaTitle = "Best Compact Task Chairs for Professional";
 export const metaDescription = "We compared task chair vs executive chair models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair vs executive chair";

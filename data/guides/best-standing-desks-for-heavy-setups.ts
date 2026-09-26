@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desks-for-heavy-setups";
-export const guideTitle = "8 Best Standing Desks for Heavy Setups in 2026";
+export const guideTitle = "Best Standing Desks for Heavy Setups";
 export const metaTitle = "Best Standing Desks for Heavy Setups in 2026 (Load Guide)";
 export const metaDescription =
   "8 standing desks we evaluated for heavy multi-monitor and dual-PC setups, comparing static weight capacity against real wobble risk at full height under load.";

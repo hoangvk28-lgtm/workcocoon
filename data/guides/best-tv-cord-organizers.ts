@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-cord-organizers";
-export const guideTitle = "6 Best TV Cord Organizers in 2026";
+export const guideTitle = "Best TV Cord Organizers";
 export const metaTitle = "Best TV Cord Organizers";
 export const metaDescription = "We compared tv cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "tv cord organizers";

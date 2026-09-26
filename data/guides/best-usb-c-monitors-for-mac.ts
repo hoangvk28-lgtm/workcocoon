@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-for-mac";
-export const guideTitle = "5 Best USB-C Monitors for Mac in 2026";
+export const guideTitle = "Best USB-C Monitors for Mac";
 export const metaTitle = "Best USB-C Monitors for Mac, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors for Mac we evaluated, with a note on macOS scaling: Apple's 'Looks like' scaling options don't always include every resolution a third-party monitor supports natively.";

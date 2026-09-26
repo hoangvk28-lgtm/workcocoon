@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-under-50";
-export const guideTitle = "4 Best Filing Cabinets Under $50 in 2026";
+export const guideTitle = "Best Filing Cabinets Under $50";
 export const metaTitle = "Best Filing Cabinets Under $50";
 export const metaDescription = "We compared filing cabinets under $50 by lock security, wheel stability, and drawer construction, since real security and mobility differences appear here.";
 export const mainKeyword = "best filing cabinets under $50";

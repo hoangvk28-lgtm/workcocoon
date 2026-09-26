@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-sleeves-under-10";
-export const guideTitle = "6 Best Cable Sleeves Under $10 in 2026";
+export const guideTitle = "Best Cable Sleeves Under $10";
 export const metaTitle = "Best Cable Sleeves Under $10";
 export const metaDescription = "We compared cable sleeves under $10 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cable sleeves under $10";

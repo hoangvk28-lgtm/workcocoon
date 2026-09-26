@@ -1,5 +1,5 @@
 export const guideSlug = "best-analog-desk-clocks";
-export const guideTitle = "4 Best Analog Desk Clocks in 2026";
+export const guideTitle = "Best Analog Desk Clocks";
 export const metaTitle = "Best Analog Desk Clocks in 2026";
 export const metaDescription =
   "4 genuinely analog, hands-based desk clocks we researched, covering face size, material, and silent movement, with digital displays excluded entirely.";

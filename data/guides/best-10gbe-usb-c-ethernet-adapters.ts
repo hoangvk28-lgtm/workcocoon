@@ -1,5 +1,5 @@
 export const guideSlug = "best-10gbe-usb-c-ethernet-adapters";
-export const guideTitle = "4 Best 10GbE USB-C Ethernet Adapters";
+export const guideTitle = "Best 10GbE USB-C Ethernet Adapters";
 export const metaTitle = "Best 10GbE USB-C Ethernet Adapters";
 export const metaDescription = "True 10GbE over USB-C now exists, but the host needs enough bandwidth and the adapter can run hot. Here is what to check first.";
 export const mainKeyword = "10gbe usb-c ethernet adapters";

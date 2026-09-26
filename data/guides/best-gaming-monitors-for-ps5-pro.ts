@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-for-ps5-pro";
-export const guideTitle = "6 Best Gaming Monitors for PS5 Pro in 2026";
+export const guideTitle = "Best Gaming Monitors for PS5 Pro";
 export const metaTitle = "Best Gaming Monitors for PS5 Pro";
 export const metaDescription = "We compared gaming monitors for ps5 pro models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "gaming monitors for ps5 pro";

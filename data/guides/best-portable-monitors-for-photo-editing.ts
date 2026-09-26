@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-photo-editing";
-export const guideTitle = "8 Best Portable Monitors for Photo Editing in 2026";
+export const guideTitle = "Best Portable Monitors for Color-Accurate Photo Editing";
 export const metaTitle = "Best Portable Monitors for Photo Editing, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors we evaluated for photo editing, with an honest note that gamut coverage percentage and color accuracy (Delta E) are different measurements most listings conflate.";

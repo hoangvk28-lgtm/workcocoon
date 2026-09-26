@@ -1,5 +1,5 @@
 export const guideSlug = "best-curved-monitor-privacy-screens";
-export const guideTitle = "4 Best Curved Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Curved Monitor Privacy Screens";
 export const metaTitle = "Best Curved Monitor Privacy Screens (2026)";
 export const metaDescription =
   "4 privacy filters confirmed as genuinely curved-compatible, since a standard flat filter will not conform properly to a curved monitor's panel.";

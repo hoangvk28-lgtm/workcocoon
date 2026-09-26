@@ -1,5 +1,5 @@
 export const guideSlug = "best-composite-video-switchers";
-export const guideTitle = "8 Best Composite Video Switchers in 2026";
+export const guideTitle = "Best Composite Video Switchers";
 export const metaTitle = "Best Composite Video Switchers";
 export const metaDescription = "We compared composite video switcher models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "composite video switcher";

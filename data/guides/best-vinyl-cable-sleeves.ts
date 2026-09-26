@@ -1,5 +1,5 @@
 export const guideSlug = "best-vinyl-cable-sleeves";
-export const guideTitle = "6 Best Vinyl Cable Sleeves in 2026";
+export const guideTitle = "Best Vinyl Cable Sleeves";
 export const metaTitle = "Best Vinyl Cable Sleeves";
 export const metaDescription = "We compared vinyl cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "vinyl cable sleeves";

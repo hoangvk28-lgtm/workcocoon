@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-for-cigarette-smoke";
-export const guideTitle = "8 Best Air Quality Monitors for Cigarette Smoke in 2026";
+export const guideTitle = "Best Air Quality Monitors for Cigarette Smoke";
 export const metaTitle = "Best Air Quality Monitors for Cigarette Smoke";
 export const metaDescription = "We compared air quality monitor cigarette smoke models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor cigarette smoke";

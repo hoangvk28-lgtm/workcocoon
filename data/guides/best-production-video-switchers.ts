@@ -1,5 +1,5 @@
 export const guideSlug = "best-production-video-switchers";
-export const guideTitle = "8 Best Production Video Switchers in 2026";
+export const guideTitle = "Best Production Video Switchers";
 export const metaTitle = "Best Production Video Switchers";
 export const metaDescription = "We compared production video switcher models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "production video switcher";

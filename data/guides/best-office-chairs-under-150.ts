@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-under-150";
-export const guideTitle = "4 Best Office Chairs Under $150 in 2026";
+export const guideTitle = "Best Office Chairs Under $150";
 export const metaTitle = "Best Office Chairs Under $150";
 export const metaDescription = "We compared office chairs under $150 by 3D armrest adjustment, lumbar range, and headrest design, since real multi-directional ergonomics appear at this tier.";
 export const mainKeyword = "best office chairs under $150";

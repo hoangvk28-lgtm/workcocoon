@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelves-under-150";
-export const guideTitle = "4 Best Bookshelves Under $150 in 2026";
+export const guideTitle = "Best Bookshelves Under $150";
 export const metaTitle = "Best Bookshelves Under $150";
 export const metaDescription = "We compared bookshelves under $150 by real 300-lb weight capacity claims, glass door display quality, and ladder-style versus back-panel construction.";
 export const mainKeyword = "best bookshelves under $150";

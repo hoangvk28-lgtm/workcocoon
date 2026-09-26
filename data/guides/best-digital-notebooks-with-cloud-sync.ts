@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-cloud-sync";
-export const guideTitle = "7 Best Digital Notebooks with Cloud Sync in 2026";
+export const guideTitle = "Best Digital Notebooks with Cloud Sync";
 export const metaTitle = "Best Digital Notebooks with Cloud Sync";
 export const metaDescription =
   "7 digital notebooks we evaluated for genuine cloud sync, verified against each specific listing across paper notebooks, e-ink devices, and smart pens.";

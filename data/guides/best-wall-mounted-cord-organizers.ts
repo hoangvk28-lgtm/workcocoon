@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mounted-cord-organizers";
-export const guideTitle = "6 Best Wall-Mounted Cord Organizers in 2026";
+export const guideTitle = "Best Wall-Mounted Cord Organizers";
 export const metaTitle = "Best Wall-Mounted Cord Organizers";
 export const metaDescription = "We compared wall-mounted cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "wall-mounted cord organizers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-cheap-mini-pcs";
-export const guideTitle = "5 Best Cheap Mini PCs in 2026";
+export const guideTitle = "Best Cheap Mini PCs";
 export const metaTitle = "Best Cheap Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 of the cheapest reliable mini PCs we evaluated, with an honest note that going below a certain price threshold usually means giving up either RAM, storage, or processor tier, know which trade-off you're making.";

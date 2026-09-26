@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-holders-under-200";
-export const guideTitle = "6 Best Business Card Holders Under $200 in 2026";
+export const guideTitle = "Best Business Card Holders Under $200";
 export const metaTitle = "Best Business Card Holders Under $200";
 export const metaDescription = "We compared business card holders under $200 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "business card holders under $200";

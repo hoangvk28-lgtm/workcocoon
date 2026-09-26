@@ -1,5 +1,5 @@
 export const guideSlug = "best-four-monitor-kvm-switches";
-export const guideTitle = "Best Four-Monitor KVM Switches in 2026";
+export const guideTitle = "Best Four-Monitor KVM Switches";
 export const metaTitle = "Best Four-Monitor KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "True dedicated 4-monitor KVM switches are genuinely rare in the current market, we researched what's actually available and the more realistic alternatives worth considering instead.";

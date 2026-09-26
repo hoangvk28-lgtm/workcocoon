@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters";
-export const guideTitle = "8 Best Space Heaters in 2026";
+export const guideTitle = "Best Space Heaters";
 export const metaTitle = "Best Space Heaters";
 export const metaDescription = "We compared space heater models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "space heater";

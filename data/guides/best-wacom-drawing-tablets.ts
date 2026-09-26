@@ -1,5 +1,5 @@
 export const guideSlug = "best-wacom-drawing-tablets";
-export const guideTitle = "5 Best Wacom Drawing Tablets in 2026";
+export const guideTitle = "Best Wacom Drawing Tablets";
 export const metaTitle = "Best Wacom Drawing Tablets 2026";
 export const metaDescription = "We compared wacom drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "wacom drawing tablets";

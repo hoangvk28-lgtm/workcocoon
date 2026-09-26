@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-dust";
-export const guideTitle = "5 Best Air Purifiers for Dust in 2026";
+export const guideTitle = "Best Air Purifiers for Dust";
 export const metaTitle = "Best Air Purifiers for Dust, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for dust, with the scope expectation competitors skip: dust settles on surfaces faster than an air purifier can capture airborne particulate, meaningfully reducing airborne dust but not replacing regular surface cleaning.";

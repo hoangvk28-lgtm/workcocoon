@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-for-seniors";
-export const guideTitle = "5 Best LCD Writing Tablets for Seniors in 2026";
+export const guideTitle = "Best LCD Writing Tablets for Seniors";
 export const metaTitle = "Best LCD Writing Tablets for Seniors (2026)";
 export const metaDescription =
   "An honest look at LCD writing tablets for seniors, since our research pool skews toward children's doodle boards rather than senior-specific designs.";

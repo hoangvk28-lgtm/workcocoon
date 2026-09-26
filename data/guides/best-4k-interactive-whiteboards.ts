@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-interactive-whiteboards";
-export const guideTitle = "8 Best 4K Interactive Whiteboards";
+export const guideTitle = "Best 4K Interactive Whiteboards";
 export const metaTitle = "Best 4K Interactive Whiteboards";
 export const metaDescription = "We compared how 4K actually behaves across different panel sizes, viewing distances, and UI scaling rather than treating 4K as a simple checkbox.";
 export const mainKeyword = "4k interactive whiteboard";

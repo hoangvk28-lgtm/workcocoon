@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-drawers-for-small-desks";
-export const guideTitle = "8 Best Under-Desk Drawers for Small Desks in 2026";
+export const guideTitle = "Best Under-Desk Drawers for Small Desks";
 export const metaTitle = "Best Under-Desk Drawers for Small Desks";
 export const metaDescription = "We compared under desk drawer big models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under desk drawer big";

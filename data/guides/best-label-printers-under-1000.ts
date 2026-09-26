@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-under-1000";
-export const guideTitle = "6 Best Label Printers Under $1000 in 2026";
+export const guideTitle = "Best Label Printers Under $1000";
 export const metaTitle = "Best Label Printers Under $1000";
 export const metaDescription = "We compared label printers under $1000 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "label printers under $1000";

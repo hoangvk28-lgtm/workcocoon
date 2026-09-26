@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-privacy-panels-clamp-on";
-export const guideTitle = "5 Best Clamp-On Desk Privacy Panels in 2026";
+export const guideTitle = "Best Clamp-On Desk Privacy Panels";
 export const metaTitle = "Best Clamp-On Desk Privacy Panels, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 clamp-on desk privacy panels we evaluated, with the desk-edge compatibility detail competitors skip: clamp mechanisms have a maximum desk thickness range, verify yours fits before buying.";

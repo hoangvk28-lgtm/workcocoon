@@ -1,7 +1,7 @@
 const BASE_IMAGES = "/images/guides/best-27-inch-monitor-under-200";
 
 export const guideSlug = "best-27-inch-monitor-under-200";
-export const guideTitle = "6 Best 27-Inch Monitors Under $200 in 2026: Top Picks for Work and Gaming";
+export const guideTitle = "Best 27-Inch Monitors Under $200 in 2026: Top Picks for Work and Gaming";
 export const metaTitle = "6 Best 27-Inch Monitors Under $200 in 2026";
 export const metaDescription =
   "Best 27-inch monitors under $200 in 2026: MSI G274QPF-QD, Acer VG271U M3, KTC, LG, Samsung. 1080p vs 1440p decision, GPU requirements, and use-case verdict.";

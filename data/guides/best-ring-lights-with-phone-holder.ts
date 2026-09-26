@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-with-phone-holder";
-export const guideTitle = "8 Best Ring Lights with Phone Holder in 2026";
+export const guideTitle = "Best Ring Lights with Phone Holder";
 export const metaTitle = "Best Ring Lights with Phone Holder";
 export const metaDescription = "We compared ring light for phone models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ring light for phone";

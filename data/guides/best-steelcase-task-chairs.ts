@@ -1,5 +1,5 @@
 export const guideSlug = "best-steelcase-task-chairs";
-export const guideTitle = "8 Best Steelcase Task Chairs in 2026";
+export const guideTitle = "Best Steelcase Task Chairs";
 export const metaTitle = "Best Steelcase Task Chairs";
 export const metaDescription = "We compared steelcase series 1 task chair models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "steelcase series 1 task chair";

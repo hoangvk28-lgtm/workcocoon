@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-low-volume-printing";
-export const guideTitle = "8 Best Printers for Low-Volume Printing in 2026";
+export const guideTitle = "Best Printers for Low-Volume Printing";
 export const metaTitle = "Best Printers for Low-Volume Printing in 2026";
 export const metaDescription =
   "8 printers we evaluated for low-volume home printing, from under 20 to a few hundred pages a month, with real ink cost math and a budget laser vs ink-tank comparison.";

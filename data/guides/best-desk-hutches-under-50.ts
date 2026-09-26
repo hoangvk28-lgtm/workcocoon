@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-hutches-under-50";
-export const guideTitle = "4 Best Desk Hutches Under $50 in 2026";
+export const guideTitle = "Best Desk Hutches Under $50";
 export const metaTitle = "Best Desk Hutches Under $50";
 export const metaDescription = "We compared desk hutches under $50 by shelf count, monitor clearance, and stability hardware, since these decide how much desk space you actually reclaim.";
 export const mainKeyword = "best desk hutches under $50";

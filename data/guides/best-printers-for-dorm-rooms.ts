@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-dorm-rooms";
-export const guideTitle = "8 Best Printers for Dorm Rooms in 2026";
+export const guideTitle = "Best Printers for Dorm Rooms";
 export const metaTitle = "Best Printers for Dorm Rooms in 2026 (Small, Wireless, Cheap Ink)";
 export const metaDescription =
   "8 best printers for dorm rooms in 2026, ranked by footprint, wireless setup, and true ink cost over a 4-year college stay. Compare picks and pricing.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-splitter-for-ip-camera";
-export const guideTitle = "4 Best PoE Splitters for IP Cameras in 2026";
+export const guideTitle = "Best PoE Splitters for IP Cameras";
 export const metaTitle = "Best PoE Splitters for IP Cameras";
 export const metaDescription = "We compared PoE splitters for IP cameras by output wattage and connector fit, since one listing warns it isn't compatible with certain camera revisions.";
 export const mainKeyword = "best poe splitter for ip camera";

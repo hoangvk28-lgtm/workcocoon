@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-port-kvm-switches";
-export const guideTitle = "5 Best 4-Port KVM Switches in 2026";
+export const guideTitle = "Best 4-Port KVM Switches";
 export const metaTitle = "Best 4-Port KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 4-port KVM switches we evaluated, with a note that switching between four sources usually means cycling through a sequence rather than jumping directly, worth checking the actual switching UX before assuming instant access to any of the four.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-for-desks";
-export const guideTitle = "8 Best Power Strips for Desks in 2026";
+export const guideTitle = "Best Power Strips for a Home Office Desk";
 export const metaTitle = "Best Power Strips for Desks, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 power strips we evaluated for desk use, with the distinction competitors skip: many desk power strips carry zero surge protection despite looking identical to surge-protected models.";

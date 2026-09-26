@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-tray-baskets";
-export const guideTitle = "6 Best Letter Tray Baskets in 2026";
+export const guideTitle = "Best Letter Tray Baskets";
 export const metaTitle = "Best Letter Tray Baskets";
 export const metaDescription = "We compared letter tray baskets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "letter tray baskets";

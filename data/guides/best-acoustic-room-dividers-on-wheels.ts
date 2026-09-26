@@ -1,5 +1,5 @@
 export const guideSlug = "best-acoustic-room-dividers-on-wheels";
-export const guideTitle = "5 Best Acoustic Room Dividers on Wheels in 2026";
+export const guideTitle = "Best Acoustic Room Dividers on Wheels";
 export const metaTitle = "Best Acoustic Room Dividers on Wheels, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 wheeled acoustic room dividers we evaluated, with the panel-count-vs-coverage math competitors skip: more panels mean more coverage width but also a wider folded footprint when stored.";

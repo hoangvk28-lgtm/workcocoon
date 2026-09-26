@@ -1,5 +1,5 @@
 export const guideSlug = "best-electric-sticky-note-dispensers";
-export const guideTitle = "6 Best Electric Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Electric Sticky Note Dispensers";
 export const metaTitle = "Best Electric Sticky Note Dispensers";
 export const metaDescription = "We compared electric sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "electric sticky note dispensers";

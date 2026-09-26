@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-mac";
-export const guideTitle = "8 Best Vertical Mice for Mac in 2026";
+export const guideTitle = "Best Vertical Mice for Mac";
 export const metaTitle = "Best Vertical Mice for Mac in 2026";
 export const metaDescription =
   "We evaluated 8 vertical mice for macOS compatibility, checking natural scrolling setup and realistic expectations versus a Magic Mouse gesture workflow.";

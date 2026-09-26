@@ -1,5 +1,5 @@
 export const guideSlug = "best-uv-resistant-3d-printer-filaments";
-export const guideTitle = "6 Best UV-Resistant 3D Printer Filaments in 2026";
+export const guideTitle = "Best UV-Resistant 3D Printer Filaments";
 export const metaTitle = "Best UV-Resistant 3D Printer Filaments";
 export const metaDescription = "We compared uv-resistant 3d printer filaments models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "uv-resistant 3d printer filaments";

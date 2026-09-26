@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-with-shelves";
-export const guideTitle = "8 Best Corner Desks with Shelves in 2026";
+export const guideTitle = "Best Corner Desks with Shelves";
 export const metaTitle = "Best Corner Desks with Shelves";
 export const metaDescription = "We compared corner desk shelf models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desk shelf";

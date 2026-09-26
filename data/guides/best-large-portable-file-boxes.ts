@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-portable-file-boxes";
-export const guideTitle = "5 Best Large Portable File Boxes in 2026";
+export const guideTitle = "Best Large Portable File Boxes";
 export const metaTitle = "Best Large Portable File Boxes (2026)";
 export const metaDescription =
   "5 large-capacity file boxes with concrete dimensions and fully loaded weight disclosed, honestly addressing when handle comfort becomes a real limit.";

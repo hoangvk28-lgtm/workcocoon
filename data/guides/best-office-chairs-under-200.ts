@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-under-200";
-export const guideTitle = "4 Best Office Chairs Under $200 in 2026";
+export const guideTitle = "Best Office Chairs Under $200";
 export const metaTitle = "Best Office Chairs Under $200";
 export const metaDescription = "We compared office chairs under $200 by BIFMA certification, weight capacity, and warranty length, since the most heavily certified budget chairs top out here.";
 export const mainKeyword = "best office chairs under $200";

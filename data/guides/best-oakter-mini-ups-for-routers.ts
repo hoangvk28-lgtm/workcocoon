@@ -1,5 +1,5 @@
 export const guideSlug = "best-oakter-mini-ups-for-routers";
-export const guideTitle = "5 Best Oakter Mini UPS for Routers in 2026";
+export const guideTitle = "Best Oakter Mini UPS for Routers";
 export const metaTitle = "Best Oakter Mini UPS for Routers 2026";
 export const metaDescription = "Oakter sells several mini UPS variants for routers and AirFiber gear. We mapped the current lineup by output voltage before ranking.";
 export const mainKeyword = "oakter mini ups for routers";

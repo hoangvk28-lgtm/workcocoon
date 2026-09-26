@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-laptop-screen-extenders";
-export const guideTitle = "5 Best 4K Laptop Screen Extenders in 2026";
+export const guideTitle = "Best 4K Laptop Screen Extenders";
 export const metaTitle = "Best 4K Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 4K laptop screen extenders we evaluated, with a note that a single USB-C or HDMI port doesn't always support full 4K at 60Hz, verify bandwidth support before assuming full resolution and refresh rate.";

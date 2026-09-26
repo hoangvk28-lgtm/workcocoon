@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-storage-carts";
-export const guideTitle = "8 Best Heavy-Duty Storage Carts in 2026";
+export const guideTitle = "Best Heavy-Duty Storage Carts";
 export const metaTitle = "Best Heavy-Duty Storage Carts";
 export const metaDescription = "We compared storage cart heavy duty models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart heavy duty";

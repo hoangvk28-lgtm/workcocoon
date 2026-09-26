@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-station-for-laptop";
-export const guideTitle = "8 Best Docking Stations for Laptops in 2026";
+export const guideTitle = "Best Docking Stations for a Simpler Laptop Setup";
 export const metaTitle = "Best Docking Station for Laptop in 2026 (Thunderbolt & USB-C Compared)";
 export const metaDescription =
   "8 best docking stations for laptops in 2026, from a $26.96 budget USB-C hub to certified Thunderbolt 4 docks, compared on ports, power delivery, and display support.";

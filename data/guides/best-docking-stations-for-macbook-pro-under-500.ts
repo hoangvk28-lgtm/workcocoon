@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-macbook-pro-under-500";
-export const guideTitle = "5 Best Docking Stations for MacBook Pro Under $500 in 2026";
+export const guideTitle = "Best Docking Stations for MacBook Pro Under $500";
 export const metaTitle = "Best MacBook Pro Docking Stations Under $500";
 export const metaDescription = "We compared Thunderbolt docking stations for MacBook Pro under $500 by port count, display support, and Thunderbolt certification, not just charging wattage.";
 export const mainKeyword = "docking station for macbook pro under $500";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-fabric-letter-trays";
-export const guideTitle = "6 Best Fabric Letter Trays in 2026";
+export const guideTitle = "Best Fabric Letter Trays";
 export const metaTitle = "Best Fabric Letter Trays";
 export const metaDescription = "We compared fabric letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "fabric letter trays";

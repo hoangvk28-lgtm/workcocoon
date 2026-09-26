@@ -1,5 +1,5 @@
 export const guideSlug = "best-two-tier-monitor-shelves";
-export const guideTitle = "5 Best Two-Tier Monitor Shelves in 2026";
+export const guideTitle = "Best Two-Tier Monitor Shelves";
 export const metaTitle = "Best Two-Tier Monitor Shelves, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 two-tier monitor shelves we evaluated, with the per-tier weight capacity check competitors skip: each tier bears independent weight, and vertical clearance between tiers should be verified against realistic monitor stand height plus accessories.";

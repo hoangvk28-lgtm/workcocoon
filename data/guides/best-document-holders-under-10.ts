@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-holders-under-10";
-export const guideTitle = "6 Best Document Holders Under $10 in 2026";
+export const guideTitle = "Best Document Holders Under $10";
 export const metaTitle = "Best Document Holders Under $10";
 export const metaDescription = "We compared document holders under $10 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "document holders under $10";

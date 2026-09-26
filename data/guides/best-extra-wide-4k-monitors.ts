@@ -1,5 +1,5 @@
 export const guideSlug = "best-extra-wide-4k-monitors";
-export const guideTitle = "6 Best Extra-Wide 4K Monitors in 2026";
+export const guideTitle = "Best Extra-Wide 4K Monitors";
 export const metaTitle = "Best Extra-Wide 4K Monitors";
 export const metaDescription = "We compared extra-wide 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "extra-wide 4k monitors";

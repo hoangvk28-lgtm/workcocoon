@@ -1,5 +1,5 @@
 export const guideSlug = "best-ecoflow-portable-power-stations";
-export const guideTitle = "8 Best EcoFlow Portable Power Stations in 2026";
+export const guideTitle = "Best EcoFlow Portable Power Stations";
 export const metaTitle = "Best EcoFlow Portable Power Stations";
 export const metaDescription = "We compared power bank ecoflow models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank ecoflow";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-quad-band-wifi-7-routers";
-export const guideTitle = "4 Best Quad-Band Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Quad-Band Wi-Fi 7 Routers";
 export const metaTitle = "Best Quad-Band Wi-Fi 7 Routers (2026)";
 export const metaDescription =
   "4 quad-band Wi-Fi 7 routers we evaluated for real device-density benefits, and an honest look at whether your household actually needs one.";

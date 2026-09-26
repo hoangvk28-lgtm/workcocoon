@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-home-assistant";
-export const guideTitle = "5 Best Mini PCs for Home Assistant in 2026";
+export const guideTitle = "Best Mini PCs for Home Assistant";
 export const metaTitle = "Best Mini PCs for Home Assistant (2026)";
 export const metaDescription =
   "5 mini PCs for Home Assistant we evaluated, focused on genuinely low idle power draw and reliable always-on operation for a smart home hub.";

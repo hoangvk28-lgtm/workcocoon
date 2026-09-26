@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers-under-100";
-export const guideTitle = "6 Best Coffee Warmers Under $100 in 2026";
+export const guideTitle = "Best Coffee Warmers Under $100";
 export const metaTitle = "Best Coffee Warmers Under $100";
 export const metaDescription = "We compared coffee warmers under $100 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "coffee warmers under $100";

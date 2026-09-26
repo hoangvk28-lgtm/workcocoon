@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-task-chairs";
-export const guideTitle = "8 Best Ergonomic Task Chairs in 2026";
+export const guideTitle = "Best Ergonomic Task Chairs";
 export const metaTitle = "Best Ergonomic Task Chairs";
 export const metaDescription = "We compared task chair ergonomic models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair ergonomic";

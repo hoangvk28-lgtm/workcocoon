@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-with-usb-c-ports";
-export const guideTitle = "5 Best Power Strips with USB-C Ports in 2026";
+export const guideTitle = "Best Power Strips with Real USB-C PD";
 export const metaTitle = "Best Power Strips with USB-C Ports, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 power strips with USB-C ports we evaluated, with the distinction competitors skip: USB-C port presence doesn't guarantee USB-C PD fast charging, many are simply USB-A speeds routed through a USB-C connector shape.";

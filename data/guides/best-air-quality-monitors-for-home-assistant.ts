@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-for-home-assistant";
-export const guideTitle = "8 Best Air Quality Monitors for Home Assistant in 2026";
+export const guideTitle = "Best Air Quality Monitors for Home Assistant";
 export const metaTitle = "Best Air Quality Monitors for Home Assistant";
 export const metaDescription = "We compared air quality monitor for home assistant models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor for home assistant";

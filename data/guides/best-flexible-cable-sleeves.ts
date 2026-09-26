@@ -1,5 +1,5 @@
 export const guideSlug = "best-flexible-cable-sleeves";
-export const guideTitle = "6 Best Flexible Cable Sleeves in 2026";
+export const guideTitle = "Best Flexible Cable Sleeves";
 export const metaTitle = "Best Flexible Cable Sleeves";
 export const metaDescription = "We compared flexible cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "flexible cable sleeves";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-5v-mini-ups-for-routers";
-export const guideTitle = "6 Best 5V Mini UPS for Routers in 2026";
+export const guideTitle = "Best 5V Mini UPS for Routers";
 export const metaTitle = "Best 5V Mini UPS for Routers in 2026";
 export const metaDescription = "5V covers USB-powered routers and small networking gear. We compared current, connector type, and whether output is USB or DC barrel.";
 export const mainKeyword = "5v mini ups for routers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-esd-tape-dispensers";
-export const guideTitle = "6 Best ESD Tape Dispensers in 2026";
+export const guideTitle = "Best ESD Tape Dispensers";
 export const metaTitle = "Best ESD Tape Dispensers";
 export const metaDescription = "We compared esd tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "esd tape dispensers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-remote-workers";
-export const guideTitle = "8 Best Printers for Remote Workers in 2026";
+export const guideTitle = "Best Printers for Remote Workers";
 export const metaTitle = "Best Printers for Remote Workers in 2026 (Volume, Privacy & Noise)";
 export const metaDescription =
   "8 best printers for remote workers in 2026, matched to realistic WFH print volume, confidential-document handling, and quiet operation for video calls.";

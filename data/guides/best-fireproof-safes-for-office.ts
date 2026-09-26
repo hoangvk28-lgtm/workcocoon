@@ -1,5 +1,5 @@
 export const guideSlug = "best-fireproof-safes-for-office";
-export const guideTitle = "8 Best Fireproof Safes for Office in 2026";
+export const guideTitle = "Best Fireproof Safes for Office";
 export const metaTitle = "Best Fireproof Safes for Office 2026";
 export const metaDescription = "We compared fireproof safes for office by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "fireproof safes for office";

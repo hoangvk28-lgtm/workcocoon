@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-for-apartments";
-export const guideTitle = "5 Best Wi-Fi 7 Routers for Apartments in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers for Apartments";
 export const metaTitle = "Best Wi-Fi 7 Routers for Apartments, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 Wi-Fi 7 routers we evaluated for apartments, with the concrete-and-neighbor-congestion angle competitors skip: concrete/steel construction meaningfully cuts 6GHz range, and dense neighbor networks create real interference beyond open-lab testing.";

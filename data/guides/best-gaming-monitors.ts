@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors";
-export const guideTitle = "6 Best Gaming Monitors in 2026";
+export const guideTitle = "Best Gaming Monitors";
 export const metaTitle = "Best Gaming Monitors";
 export const metaDescription = "We compared gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "gaming monitors";

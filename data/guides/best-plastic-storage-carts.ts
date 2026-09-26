@@ -1,5 +1,5 @@
 export const guideSlug = "best-plastic-storage-carts";
-export const guideTitle = "8 Best Plastic Storage Carts in 2026";
+export const guideTitle = "Best Plastic Storage Carts";
 export const metaTitle = "Best Plastic Storage Carts";
 export const metaDescription = "We compared storage cart plastic drawers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "storage cart plastic drawers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-vhb-tape-dispensers";
-export const guideTitle = "6 Best VHB Tape Dispensers in 2026";
+export const guideTitle = "Best VHB Tape Dispensers";
 export const metaTitle = "Best VHB Tape Dispensers";
 export const metaDescription = "We compared vhb tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "vhb tape dispensers";

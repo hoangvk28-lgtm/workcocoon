@@ -1,5 +1,5 @@
 export const guideSlug = "best-touchscreen-laptop-screen-extenders";
-export const guideTitle = "5 Best Touchscreen Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Touchscreen Laptop Screen Extenders";
 export const metaTitle = "Best Touchscreen Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 touchscreen laptop screen extenders we evaluated, with a note that touch functionality typically requires an extra USB cable beyond the main video connection, verify this before buying.";

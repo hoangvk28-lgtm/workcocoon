@@ -1,5 +1,5 @@
 export const guideSlug = "best-universal-mini-pc-mounts";
-export const guideTitle = "6 Best Universal Mini PC Mounts in 2026";
+export const guideTitle = "Best Universal Mini PC Mounts";
 export const metaTitle = "Best Universal Mini PC Mounts (2026)";
 export const metaDescription =
   "6 adjustable mini PC mounts we evaluated for genuine multi-model fit, checking real width ranges and load capacity, not just the word universal.";

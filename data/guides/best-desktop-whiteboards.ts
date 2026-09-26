@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards";
-export const guideTitle = "6 Best Desktop Whiteboards in 2026";
+export const guideTitle = "Best Desktop Whiteboards";
 export const metaTitle = "Best Desktop Whiteboards (2026)";
 export const metaDescription =
   "6 desktop whiteboards we evaluated across glass and melamine surfaces, sizes, and stand types to help you pick the right one for your desk.";

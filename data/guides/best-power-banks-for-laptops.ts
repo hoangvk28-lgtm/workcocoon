@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-for-laptops";
-export const guideTitle = "8 Best Power Banks for Laptops in 2026";
+export const guideTitle = "Best Power Banks for Laptops";
 export const metaTitle = "Best Power Banks for Laptops";
 export const metaDescription = "We compared power bank for laptop models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power bank for laptop";

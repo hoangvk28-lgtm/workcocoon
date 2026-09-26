@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-with-pass-through-charging";
-export const guideTitle = "8 Best Portable Monitors with Pass-Through Charging in 2026";
+export const guideTitle = "Best Portable Monitors with Real Pass-Through Charging";
 export const metaTitle = "Best Portable Monitors with Pass-Through Charging, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors with pass-through charging, with a real power-budget calculation since the rated wattage on the box is a ceiling your charger and cable have to actually deliver, not a guarantee.";

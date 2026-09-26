@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-for-makeup";
-export const guideTitle = "7 Best Ring Lights for Makeup in 2026";
+export const guideTitle = "Best Ring Lights for Makeup";
 export const metaTitle = "Best Ring Lights for Makeup";
 export const metaDescription = "We compared a ring light for makeup models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "a ring light for makeup";

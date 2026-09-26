@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-under-20";
-export const guideTitle = "4 Best Portable File Boxes Under $20 in 2026";
+export const guideTitle = "Best Portable File Boxes Under $20";
 export const metaTitle = "Best Portable File Boxes Under $20";
 export const metaDescription = "We compared portable file boxes under $20 by lid security, lock compatibility, and organizer compartments, since genuine latching lids appear at this tier.";
 export const mainKeyword = "best portable file boxes under $20";

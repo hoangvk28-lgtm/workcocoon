@@ -1,5 +1,5 @@
 export const guideSlug = "best-ips-4k-monitors-for-gaming";
-export const guideTitle = "6 Best IPS 4K Monitors for Gaming in 2026";
+export const guideTitle = "Best IPS 4K Monitors for Gaming";
 export const metaTitle = "Best IPS 4K Monitors for Gaming";
 export const metaDescription = "We compared ips 4k monitors for gaming models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "ips 4k monitors for gaming";

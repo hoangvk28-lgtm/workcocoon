@@ -1,5 +1,5 @@
 export const guideSlug = "best-audient-audio-interfaces";
-export const guideTitle = "8 Best Audient Audio Interfaces in 2026";
+export const guideTitle = "Best Audient Audio Interfaces";
 export const metaTitle = "Best Audient Audio Interfaces";
 export const metaDescription = "We compared audient audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "audient audio interface";

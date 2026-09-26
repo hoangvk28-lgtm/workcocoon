@@ -1,5 +1,5 @@
 export const guideSlug = "best-tower-power-strips";
-export const guideTitle = "5 Best High-Outlet Power Strips for Tower-Style Needs in 2026";
+export const guideTitle = "Best Tower-Style Power Strips for More Outlets";
 export const metaTitle = "Best High-Outlet Power Strips for Tower-Style Needs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 high-outlet-count power strips we evaluated for buyers considering a vertical tower design, with the tip-over risk competitors rarely stress-test against a realistic fully-loaded cable scenario.";

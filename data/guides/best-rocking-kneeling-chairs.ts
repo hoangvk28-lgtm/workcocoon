@@ -1,5 +1,5 @@
 export const guideSlug = "best-rocking-kneeling-chairs";
-export const guideTitle = "8 Best Rocking Kneeling Chairs in 2026";
+export const guideTitle = "Best Rocking Kneeling Chairs";
 export const metaTitle = "Best Rocking Kneeling Chairs";
 export const metaDescription = "We compared kneeling chair rocking models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "kneeling chair rocking";

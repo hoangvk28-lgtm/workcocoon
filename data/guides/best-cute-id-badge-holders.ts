@@ -1,5 +1,5 @@
 export const guideSlug = "best-cute-id-badge-holders";
-export const guideTitle = "6 Best Cute ID Badge Holders in 2026";
+export const guideTitle = "Best Cute ID Badge Holders";
 export const metaTitle = "Best Cute ID Badge Holders";
 export const metaDescription = "We compared cute id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cute id badge holders";

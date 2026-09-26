@@ -1,5 +1,5 @@
 export const guideSlug = "best-bench-tape-dispensers";
-export const guideTitle = "6 Best Bench Tape Dispensers in 2026";
+export const guideTitle = "Best Bench Tape Dispensers";
 export const metaTitle = "Best Bench Tape Dispensers";
 export const metaDescription = "We compared bench tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "bench tape dispensers";

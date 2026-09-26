@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-stand";
-export const guideTitle = "7 Best Ultrawide Monitor Stands in 2026";
+export const guideTitle = "Best Ultrawide Monitor Stands, Riser or Arm";
 export const metaTitle = "Best Ultrawide Monitor Stands in 2026 (Risers & Arms)";
 export const metaDescription =
   "7 best ultrawide monitor stands in 2026, covering both riser/shelf stands and VESA arm mounts, from a $26.99 riser to a heavy-duty 49-inch arm. Compare capacity and adjustability.";

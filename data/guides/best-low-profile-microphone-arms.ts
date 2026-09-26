@@ -1,5 +1,5 @@
 export const guideSlug = "best-low-profile-microphone-arms";
-export const guideTitle = "8 Best Low-Profile Microphone Arms in 2026";
+export const guideTitle = "Best Low-Profile Microphone Arms";
 export const metaTitle = "Best Low-Profile Microphone Arms";
 export const metaDescription = "We compared microphone arm low profile models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm low profile";

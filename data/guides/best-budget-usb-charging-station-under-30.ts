@@ -1,7 +1,7 @@
 const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-budget-usb-charging-station-under-30";
 
 export const guideSlug = "best-budget-usb-charging-station-under-30";
-export const guideTitle = "7 Best Budget USB Charging Stations Under $30 (2026)";
+export const guideTitle = "Best Budget USB Charging Stations Under $30 (2026)";
 export const guideDescription =
   "A tangled mess of individual chargers eating every outlet isn't a setup, it's a fire hazard. These are the 7 best USB charging stations under $30 in 2026, all verified on Amazon, all with solid ratings.";
 export const metaTitle = "7 Best USB Charging Stations Under $30 (2026)";

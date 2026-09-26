@@ -1,5 +1,5 @@
 export const guideSlug = "best-glass-mouse-pads";
-export const guideTitle = "8 Best Glass Mouse Pads in 2026";
+export const guideTitle = "Best Glass Mouse Pads";
 export const metaTitle = "Best Glass Mouse Pads";
 export const metaDescription = "We compared mouse pad glass models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad glass";

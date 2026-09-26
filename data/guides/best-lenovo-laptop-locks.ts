@@ -1,5 +1,5 @@
 export const guideSlug = "best-lenovo-laptop-locks";
-export const guideTitle = "7 Best Lenovo Laptop Locks in 2026";
+export const guideTitle = "Best Lenovo Laptop Locks";
 export const metaTitle = "Best Lenovo Laptop Locks (2026)";
 export const metaDescription =
   "7 laptop locks checked against Lenovo's model documentation, since current ThinkPad guides can specify NanoSaver locking rather than Standard.";

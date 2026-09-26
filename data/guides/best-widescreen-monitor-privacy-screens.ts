@@ -1,5 +1,5 @@
 export const guideSlug = "best-widescreen-monitor-privacy-screens";
-export const guideTitle = "8 Best Widescreen Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Widescreen Monitor Privacy Screens";
 export const metaTitle = "Best Widescreen Monitor Privacy Screens (2026)";
 export const metaDescription =
   "8 filters compared across both 16:9 and 16:10 widescreen monitors, since \"widescreen\" spans two distinct aspect ratios buyers often confuse.";

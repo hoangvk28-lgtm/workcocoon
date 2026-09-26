@@ -1,5 +1,5 @@
 export const guideSlug = "best-cheap-blue-light-glasses";
-export const guideTitle = "6 Best Cheap Blue Light Glasses in 2026";
+export const guideTitle = "Best Cheap Blue Light Glasses";
 export const metaTitle = "Best Cheap Blue Light Glasses";
 export const metaDescription = "We compared cheap blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cheap blue light glasses";

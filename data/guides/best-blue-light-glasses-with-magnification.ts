@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-glasses-with-magnification";
-export const guideTitle = "6 Best Blue Light Glasses With Magnification in 2026";
+export const guideTitle = "Best Blue Light Glasses With Magnification";
 export const metaTitle = "Best Blue Light Glasses With Magnification";
 export const metaDescription = "We compared blue light glasses with magnification models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "blue light glasses with magnification";

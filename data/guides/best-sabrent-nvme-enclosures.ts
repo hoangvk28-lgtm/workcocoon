@@ -1,5 +1,5 @@
 export const guideSlug = "best-sabrent-nvme-enclosures";
-export const guideTitle = "5 Best Sabrent NVMe Enclosures in 2026";
+export const guideTitle = "Best Sabrent NVMe Enclosures";
 export const metaTitle = "Best Sabrent NVMe Enclosures in 2026";
 export const metaDescription = "Sabrent sells enclosures spanning 10Gbps to 40Gbps USB4. We mapped the current lineup by interface, controller, and cooling before ranking.";
 export const mainKeyword = "sabrent nvme enclosures";

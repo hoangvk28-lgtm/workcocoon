@@ -1,5 +1,5 @@
 export const guideSlug = "best-yellow-tint-blue-light-glasses";
-export const guideTitle = "6 Best Yellow-Tint Blue Light Glasses in 2026";
+export const guideTitle = "Best Yellow-Tint Blue Light Glasses";
 export const metaTitle = "Best Yellow-Tint Blue Light Glasses";
 export const metaDescription = "We compared yellow-tint blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "yellow-tint blue light glasses";

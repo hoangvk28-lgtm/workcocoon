@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-monitor-standing-desk-converters";
-export const guideTitle = "7 Best Dual Monitor Standing Desk Converters in 2026";
+export const guideTitle = "Best Dual Monitor Standing Desk Converters";
 export const metaTitle = "Best Dual Monitor Standing Desk Converters (2026)";
 export const metaDescription =
   "7 standing desk converters with genuine dual-monitor support compared on platform width, mount type, and price, not just marketing badges.";

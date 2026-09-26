@@ -1,5 +1,5 @@
 export const guideSlug = "best-japanese-sticky-note-dispensers";
-export const guideTitle = "6 Best Japanese Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Japanese Sticky Note Dispensers";
 export const metaTitle = "Best Japanese Sticky Note Dispensers";
 export const metaDescription = "We compared japanese sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "japanese sticky note dispensers";

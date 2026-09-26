@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-drawers-under-50";
-export const guideTitle = "8 Best Under-Desk Drawers Under $50 in 2026";
+export const guideTitle = "Best Under-Desk Drawers Under $50";
 export const metaTitle = "Best Under-Desk Drawers Under $50";
 export const metaDescription = "We compared under desk drawer under 50 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under desk drawer under 50";

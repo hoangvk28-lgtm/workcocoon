@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-under-300";
-export const guideTitle = "5 Best Mini PCs Under $300 in 2026";
+export const guideTitle = "Best Mini PCs Under $300";
 export const metaTitle = "Best Mini PCs Under $300 (2026)";
 export const metaDescription =
   "5 mini PCs under $300 we evaluated, setting realistic expectations for entry-level chips and RAM at this competitive budget tier.";

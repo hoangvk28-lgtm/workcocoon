@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-ssd-enclosures-with-fans";
-export const guideTitle = "8 Best Thunderbolt SSD Enclosures With Fans in 2026";
+export const guideTitle = "Best Thunderbolt SSD Enclosures With Fans";
 export const metaTitle = "Best Thunderbolt SSD Enclosures w/ Fans";
 export const metaDescription = "Active cooling matters most at 40/80Gbps sustained workloads. We compared fan trigger temperature and noise against throttling reduction.";
 export const mainKeyword = "thunderbolt ssd enclosures with fans";

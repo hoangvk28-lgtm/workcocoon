@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-home-offices";
-export const guideTitle = "6 Best Air Purifiers for Home Offices in 2026";
+export const guideTitle = "Best Air Purifiers for Home Offices";
 export const metaTitle = "Best Air Purifiers for Home Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 air purifiers we evaluated for home offices, with the gap competitors skip: CADR-based room size recommendations assume an open, empty room, a furnished home office with a closed door reduces effective coverage well below the rated square footage.";

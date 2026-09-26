@@ -1,5 +1,5 @@
 export const guideSlug = "best-height-adjustable-drafting-chairs";
-export const guideTitle = "8 Best Height-Adjustable Drafting Chairs in 2026";
+export const guideTitle = "Best Height-Adjustable Drafting Chairs";
 export const metaTitle = "Best Height-Adjustable Drafting Chairs";
 export const metaDescription = "We compared height adjustable drafting chair models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "height adjustable drafting chair";

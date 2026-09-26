@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-tilt-lock";
-export const guideTitle = "5 Best Task Chairs With Tilt Lock in 2026";
+export const guideTitle = "Best Task Chairs With Tilt Lock";
 export const metaTitle = "Best Task Chairs With Tilt Lock";
 export const metaDescription = "We compared task chair tilt lock models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair tilt lock";

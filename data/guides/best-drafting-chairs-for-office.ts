@@ -1,5 +1,5 @@
 export const guideSlug = "best-drafting-chairs-for-office";
-export const guideTitle = "8 Best Drafting Chairs for Office in 2026";
+export const guideTitle = "Best Drafting Chairs for Office";
 export const metaTitle = "Best Drafting Chairs for Office";
 export const metaDescription = "We compared drafting chair for office models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "drafting chair for office";

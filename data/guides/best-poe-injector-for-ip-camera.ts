@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-injector-for-ip-camera";
-export const guideTitle = "4 Best PoE Injectors for IP Cameras in 2026";
+export const guideTitle = "Best PoE Injectors for IP Cameras";
 export const metaTitle = "Best PoE Injectors for IP Cameras";
 export const metaDescription = "We compared PoE injectors for IP cameras by installation scenario, since two nearby cameras on one cable need a different unit than a single camera does.";
 export const mainKeyword = "best poe injector for ip camera";

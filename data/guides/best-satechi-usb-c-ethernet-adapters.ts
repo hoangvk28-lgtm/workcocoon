@@ -1,5 +1,5 @@
 export const guideSlug = "best-satechi-usb-c-ethernet-adapters";
-export const guideTitle = "4 Best Satechi USB-C Ethernet Adapters";
+export const guideTitle = "Best Satechi USB-C Ethernet Adapters";
 export const metaTitle = "Best Satechi USB-C Ethernet Adapters";
 export const metaDescription = "Satechi spans a basic Gigabit adapter through a 2.5Gb 4-in-1 and an 8-in-1 hub. We mapped the current lineup by speed and port count.";
 export const mainKeyword = "satechi usb-c ethernet adapters";

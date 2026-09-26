@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-printers-for-home-offices";
-export const guideTitle = "8 Best Small Printers for Home Offices in 2026";
+export const guideTitle = "Best Small Printers for Home Offices";
 export const metaTitle = "Best Small Printers for Home Offices in 2026";
 export const metaDescription =
   "8 best small printers for home offices in 2026, split between laser and inkjet so you can match toner cost, energy use, and sharing needs to your setup.";

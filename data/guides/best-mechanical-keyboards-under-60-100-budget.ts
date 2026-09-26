@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-under-60-100-budget";
-export const guideTitle = "2 Best Mechanical Keyboards Under $60/$100 Budget in 2026";
+export const guideTitle = "Best Mechanical Keyboards Under $60-$100";
 export const metaTitle = "Best Budget Mechanical Keyboards Under $60/$100 in 2026";
 export const metaDescription =
   "2 genuinely mechanical keyboards verified under $60 and $100, compared on switch quality, hot-swap sockets, and firmware support for budget buyers.";

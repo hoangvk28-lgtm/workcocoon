@@ -1,5 +1,5 @@
 export const guideSlug = "best-tall-room-dividers-for-high-ceilings";
-export const guideTitle = "8 Best Tall Room Dividers for High Ceilings in 2026";
+export const guideTitle = "Best Tall Room Dividers for High Ceilings";
 export const metaTitle = "Best Tall Room Dividers for High Ceilings in 2026";
 export const metaDescription =
   "8 best tall room dividers for high ceilings in 2026. Honest height checks against 9-10 ft ceilings, tip-over risk, and why ceiling track systems often win.";

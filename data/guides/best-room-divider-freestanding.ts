@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-freestanding";
-export const guideTitle = "8 Best Freestanding Room Dividers in 2026";
+export const guideTitle = "Best Freestanding Room Dividers";
 export const metaTitle = "Best Freestanding Room Dividers in 2026 (No Assembly Screens)";
 export const metaDescription =
   "8 best freestanding room dividers in 2026, from authentic shoji screens to wheeled fabric panels. Compare panel count, weight, and no-assembly setup.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-for-artist";
-export const guideTitle = "7 Best Drawing Tablets for Artist in 2026";
+export const guideTitle = "Best Drawing Tablets for Artist";
 export const metaTitle = "Best Drawing Tablets for Artist 2026";
 export const metaDescription = "We compared drawing tablets for artist by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets for artist";

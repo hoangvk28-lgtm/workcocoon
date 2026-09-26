@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-charging-carts-for-classrooms";
-export const guideTitle = "8 Best Laptop Charging Carts for Classrooms in 2026";
+export const guideTitle = "Best Laptop Charging Carts for Classrooms";
 export const metaTitle = "Best Laptop Charging Carts for Classrooms (2026)";
 export const metaDescription =
   "8 classroom charging carts compared on capacity, security, and device handout workflow, from a 16-bay open cart to a 32-device locking unit.";

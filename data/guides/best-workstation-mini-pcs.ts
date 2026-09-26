@@ -1,5 +1,5 @@
 export const guideSlug = "best-workstation-mini-pcs";
-export const guideTitle = "4 Best Workstation Mini PCs in 2026";
+export const guideTitle = "Best Workstation Mini PCs";
 export const metaTitle = "Best Workstation Mini PCs (2026)";
 export const metaDescription =
   "4 workstation-class mini PCs we evaluated, checking genuine ISV certification and sustained multi-core throughput, not just a high core count spec.";

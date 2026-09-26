@@ -1,5 +1,5 @@
 export const guideSlug = "best-foldable-desk-privacy-panels";
-export const guideTitle = "5 Best Foldable Desk Privacy Panels in 2026";
+export const guideTitle = "Best Foldable Desk Privacy Panels";
 export const metaTitle = "Best Foldable Desk Privacy Panels, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 foldable desk privacy panels we evaluated, with the stability tradeoff competitors skip: foldable panels are easier to store but generally less rigid than a clamp-mounted panel under daily bumping.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-video-editing";
-export const guideTitle = "8 Best Portable Monitors for Video Editing in 2026";
+export const guideTitle = "Best Portable Monitors for Video Editing on the Go";
 export const metaTitle = "Best Portable Monitors for Video Editing, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors we evaluated for video editing, with an honest note that none carry real HDR certification for grading and that 60Hz, not high refresh rate, is what actually matters for timeline work.";

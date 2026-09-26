@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-glasses-for-computer-work";
-export const guideTitle = "6 Best Blue Light Glasses for Computer Work in 2026";
+export const guideTitle = "Best Blue Light Glasses for Computer Work";
 export const metaTitle = "Best Blue Light Glasses for Computer Work";
 export const metaDescription = "We compared blue light glasses for computer models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "blue light glasses for computer";

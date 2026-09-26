@@ -1,5 +1,5 @@
 export const guideSlug = "best-windows-11-mini-pcs";
-export const guideTitle = "5 Best Windows 11 Mini PCs in 2026";
+export const guideTitle = "Best Windows 11 Mini PCs";
 export const metaTitle = "Best Windows 11 Mini PCs (2026)";
 export const metaDescription =
   "5 Windows 11 mini PCs we evaluated, with a note on verifying genuine license activation rather than assuming any preinstalled Windows 11 copy is legitimate.";

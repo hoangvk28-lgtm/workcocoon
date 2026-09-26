@@ -1,5 +1,5 @@
 export const guideSlug = "best-3-port-poe-extender";
-export const guideTitle = "4 Best 3 Port PoE Extenders in 2026";
+export const guideTitle = "Best 3 Port PoE Extenders";
 export const metaTitle = "Best 3 Port PoE Extenders";
 export const metaDescription = "We compared 3-port PoE extenders by real power source flexibility, since one listing switches between PoE extender, network extender, and PoE switch modes.";
 export const mainKeyword = "best 3 port poe extender";

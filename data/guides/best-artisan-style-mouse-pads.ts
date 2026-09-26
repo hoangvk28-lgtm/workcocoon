@@ -1,5 +1,5 @@
 export const guideSlug = "best-artisan-style-mouse-pads";
-export const guideTitle = "8 Best Artisan-Style Mouse Pads in 2026";
+export const guideTitle = "Best Artisan-Style Mouse Pads";
 export const metaTitle = "Best Artisan-Style Mouse Pads";
 export const metaDescription = "We compared mouse pad artisan models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad artisan";

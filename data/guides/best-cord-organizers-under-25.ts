@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizers-under-25";
-export const guideTitle = "6 Best Cord Organizers Under $25 in 2026";
+export const guideTitle = "Best Cord Organizers Under $25";
 export const metaTitle = "Best Cord Organizers Under $25";
 export const metaDescription = "We compared cord organizers under $25 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cord organizers under $25";

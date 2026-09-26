@@ -1,5 +1,5 @@
 export const guideSlug = "best-streaming-mixers-under-300";
-export const guideTitle = "5 Best Streaming Mixers Under $300 in 2026";
+export const guideTitle = "Best Streaming Mixers Under $300";
 export const metaTitle = "Best Streaming Mixers Under $300 in 2026";
 export const metaDescription = "We compared best streaming mixers under $300 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "streaming mixers under $300";

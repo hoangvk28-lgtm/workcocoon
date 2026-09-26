@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pads-with-wrist-support";
-export const guideTitle = "8 Best Desk Pads with Wrist Support in 2026";
+export const guideTitle = "Best Desk Pads with Wrist Support";
 export const metaTitle = "Best Desk Pads with Wrist Support";
 export const metaDescription = "We compared desk pad with wrist support models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "desk pad with wrist support";

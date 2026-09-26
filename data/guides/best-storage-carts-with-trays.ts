@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-with-trays";
-export const guideTitle = "8 Best Storage Carts With Trays in 2026";
+export const guideTitle = "Best Storage Carts With Trays";
 export const metaTitle = "Best Storage Carts With Trays";
 export const metaDescription = "We compared storage cart tray models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "storage cart tray";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-microsoft-surface";
-export const guideTitle = "6 Best Laptop Locks for Microsoft Surface in 2026";
+export const guideTitle = "Best Laptop Locks for Microsoft Surface";
 export const metaTitle = "Best Laptop Locks for Microsoft Surface (2026)";
 export const metaDescription =
   "6 laptop locks checked against Surface Pro, Go, and Laptop's different kickstand and keyboard clearance needs, since these devices don't share one workflow.";

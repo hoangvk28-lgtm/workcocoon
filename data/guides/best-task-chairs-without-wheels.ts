@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-without-wheels";
-export const guideTitle = "8 Best Task Chairs Without Wheels in 2026";
+export const guideTitle = "Best Task Chairs Without Wheels";
 export const metaTitle = "Best Task Chairs Without Wheels";
 export const metaDescription = "We compared task chair no wheels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair no wheels";

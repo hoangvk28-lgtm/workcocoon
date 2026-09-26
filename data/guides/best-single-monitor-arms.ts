@@ -1,5 +1,5 @@
 export const guideSlug = "best-single-monitor-arms";
-export const guideTitle = "8 Best Single Monitor Arms in 2026";
+export const guideTitle = "Best Single Monitor Arms for Everyday Desks";
 export const metaTitle = "Best Single Monitor Arms in 2026 (Reach, Sag & Wobble Compared)";
 export const metaDescription =
   "8 single monitor arms compared on reach vs desk depth, gas spring sag over time, wobble under typing, and curved monitor compatibility for 2026.";

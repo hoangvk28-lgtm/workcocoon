@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-with-ups-functionality";
-export const guideTitle = "8 Best Portable Power Stations With UPS Functionality in 2026";
+export const guideTitle = "Best Portable Power Stations With UPS Functionality";
 export const metaTitle = "Best Portable Power Stations With UPS Functionality 2026";
 export const metaDescription = "We compared portable power stations with ups functionality by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "portable power stations with ups functionality";

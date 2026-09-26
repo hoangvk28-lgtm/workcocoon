@@ -1,5 +1,5 @@
 export const guideSlug = "best-34-inch-curved-gaming-monitors";
-export const guideTitle = "6 Best 34-Inch Curved Gaming Monitors in 2026";
+export const guideTitle = "Best 34-Inch Curved Gaming Monitors";
 export const metaTitle = "Best 34-Inch Curved Gaming Monitors";
 export const metaDescription = "We compared 34-inch curved gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "34-inch curved gaming monitors";

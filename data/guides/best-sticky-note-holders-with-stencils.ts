@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-holders-with-stencils";
-export const guideTitle = "6 Best Sticky Note Holders with Stencils in 2026";
+export const guideTitle = "Best Sticky Note Holders with Stencils";
 export const metaTitle = "Best Sticky Note Holders with Stencils";
 export const metaDescription = "We compared sticky note holders with stencils models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "sticky note holders with stencils";

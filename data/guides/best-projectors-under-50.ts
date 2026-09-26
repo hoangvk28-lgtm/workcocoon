@@ -1,5 +1,5 @@
 export const guideSlug = "best-projectors-under-50";
-export const guideTitle = "6 Best Projectors Under $50 in 2026";
+export const guideTitle = "Best Projectors Under $50";
 export const metaTitle = "Best Projectors Under $50 in 2026";
 export const metaDescription = "We compared best projectors under $50 by verified current price and real capability, not just the price ceiling alone. Every pick is checked against a real.";
 export const mainKeyword = "projectors under $50";

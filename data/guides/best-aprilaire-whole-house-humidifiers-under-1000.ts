@@ -1,5 +1,5 @@
 export const guideSlug = "best-aprilaire-whole-house-humidifiers-under-1000";
-export const guideTitle = "8 Best Aprilaire Whole-House Humidifiers Under $1000 in 2026";
+export const guideTitle = "Best Aprilaire Whole-House Humidifiers Under $1000";
 export const metaTitle = "Best Aprilaire Whole-House Humidifiers Under";
 export const metaDescription = "We compared aprilaire humidifier under $1000 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "aprilaire humidifier under $1000";

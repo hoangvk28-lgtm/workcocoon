@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-for-students";
-export const guideTitle = "5 Best Desktop Whiteboards for Students in 2026";
+export const guideTitle = "Best Desktop Whiteboards for Students";
 export const metaTitle = "Best Desktop Whiteboards for Students (2026)";
 export const metaDescription =
   "5 whiteboards evaluated for budget, dorm-desk footprint, and durability under repeated study-session erasing, since student needs differ from a home-office setup.";

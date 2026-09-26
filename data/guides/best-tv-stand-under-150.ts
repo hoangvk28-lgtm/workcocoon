@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-under-150";
-export const guideTitle = "4 Best TV Stands Under $150 in 2026";
+export const guideTitle = "Best TV Stands Under $150";
 export const metaTitle = "Best TV Stands Under $150";
 export const metaDescription = "We compared TV stands under $150 by sliding door mechanism, cabinet storage depth, and weight capacity for larger TVs up to 65 inches.";
 export const mainKeyword = "best tv stand under $150";

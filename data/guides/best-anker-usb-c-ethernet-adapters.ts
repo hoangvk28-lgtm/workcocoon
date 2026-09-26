@@ -1,5 +1,5 @@
 export const guideSlug = "best-anker-usb-c-ethernet-adapters";
-export const guideTitle = "3 Best Anker USB-C Ethernet Adapters in 2026";
+export const guideTitle = "Best Anker USB-C Ethernet Adapters";
 export const metaTitle = "Best Anker USB-C Ethernet Adapters 2026";
 export const metaDescription = "Anker sells both a basic Gigabit dongle and multiport hubs with Ethernet. We mapped the current lineup before ranking.";
 export const mainKeyword = "anker usb-c ethernet adapters";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-2d-barcode-label-printers";
-export const guideTitle = "6 Best 2D Barcode Label Printers in 2026";
+export const guideTitle = "Best 2D Barcode Label Printers";
 export const metaTitle = "Best 2D Barcode Label Printers";
 export const metaDescription = "We compared 2d barcode label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "2d barcode label printers";

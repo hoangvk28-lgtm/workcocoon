@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-trays-for-classrooms";
-export const guideTitle = "6 Best Paper Trays for Classrooms in 2026";
+export const guideTitle = "Best Paper Trays for Classrooms";
 export const metaTitle = "Best Paper Trays for Classrooms";
 export const metaDescription = "We compared paper trays for classrooms models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "paper trays for classrooms";

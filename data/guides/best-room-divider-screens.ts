@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-screens";
-export const guideTitle = "8 Best Room Divider Screens in 2026";
+export const guideTitle = "Best Room Divider Screens";
 export const metaTitle = "Best Room Divider Screens in 2026 (Shoji, Rattan & Acrylic)";
 export const metaDescription =
   "8 best room divider screens in 2026, from traditional shoji panels to frosted acrylic and rattan weave. Compare material, weight, and privacy level.";

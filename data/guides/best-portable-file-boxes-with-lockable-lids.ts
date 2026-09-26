@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-with-lockable-lids";
-export const guideTitle = "5 Best Portable File Boxes with Lockable Lids in 2026";
+export const guideTitle = "Best Portable File Boxes with Lockable Lids";
 export const metaTitle = "File Boxes with Lockable Lids (2026)";
 export const metaDescription =
   "5 file boxes checked specifically for lid-integrated locking mechanisms, distinguished from broader 'lockable' framing that could mean other lock types.";

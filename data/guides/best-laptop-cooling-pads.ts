@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads";
-export const guideTitle = "5 Best Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Laptop Cooling Pads";
 export const metaTitle = "Best Laptop Cooling Pads (2026)";
 export const metaDescription =
   "5 laptop cooling pads evaluated for real vent alignment, sustained-load thermal benefit, USB power draw, and noise, not marketing claims alone.";

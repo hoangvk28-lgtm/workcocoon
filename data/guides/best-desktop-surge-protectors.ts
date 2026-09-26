@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-surge-protectors";
-export const guideTitle = "5 Best Desktop Surge Protectors in 2026";
+export const guideTitle = "Best Desktop Surge Protectors";
 export const metaTitle = "Best Desktop Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 desktop-placed surge protectors we evaluated, with the genuine advantage competitors underweight: desktop placement is the one mounting context where the surge protection status indicator remains visible for regular monitoring.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-restaurant-label-printers";
-export const guideTitle = "6 Best Restaurant Label Printers in 2026";
+export const guideTitle = "Best Restaurant Label Printers";
 export const metaTitle = "Best Restaurant Label Printers";
 export const metaDescription = "We compared restaurant label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "restaurant label printers";

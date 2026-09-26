@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-with-xlr-cable-routing";
-export const guideTitle = "8 Best Microphone Arms With XLR Cable Routing in 2026";
+export const guideTitle = "Best Microphone Arms With XLR Cable Routing";
 export const metaTitle = "Best Microphone Arms With XLR Cable Routing";
 export const metaDescription = "We compared microphone arm xlr models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "microphone arm xlr";

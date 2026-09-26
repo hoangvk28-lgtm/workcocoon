@@ -1,5 +1,5 @@
 export const guideSlug = "best-whynter-portable-air-conditioners";
-export const guideTitle = "8 Best Whynter Portable Air Conditioners in 2026";
+export const guideTitle = "Best Whynter Portable Air Conditioners";
 export const metaTitle = "Best Whynter Portable Air Conditioners";
 export const metaDescription = "We compared whynter portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "whynter portable air conditioner";

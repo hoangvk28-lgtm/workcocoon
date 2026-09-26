@@ -1,5 +1,5 @@
 export const guideSlug = "best-bluetooth-drawing-tablets";
-export const guideTitle = "5 Best Bluetooth Drawing Tablets in 2026";
+export const guideTitle = "Best Bluetooth Drawing Tablets";
 export const metaTitle = "Best Bluetooth Drawing Tablets 2026";
 export const metaDescription = "We compared bluetooth drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "bluetooth drawing tablets";

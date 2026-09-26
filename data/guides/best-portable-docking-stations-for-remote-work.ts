@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-docking-stations-for-remote-work";
-export const guideTitle = "8 Best Portable Docking Stations for Remote Work in 2026";
+export const guideTitle = "Best Portable Docking Stations for Remote Work";
 export const metaTitle = "Best Portable Docking Stations for Remote Work in 2026";
 export const metaDescription =
   "8 best portable docking stations for remote work in 2026, from a $26.96 bus-powered hub to a $169.99 AC-powered desk anchor. Compare weight, power, and ports.";

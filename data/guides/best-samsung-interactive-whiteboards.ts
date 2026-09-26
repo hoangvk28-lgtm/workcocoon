@@ -1,5 +1,5 @@
 export const guideSlug = "best-samsung-interactive-whiteboards";
-export const guideTitle = "6 Best Samsung Interactive Whiteboards";
+export const guideTitle = "Best Samsung Interactive Whiteboards";
 export const metaTitle = "Best Samsung Interactive Whiteboards";
 export const metaDescription = "We mapped Samsung's current WAF and WAD interactive display series by exact size, touch points, and EDLA certification before ranking.";
 export const mainKeyword = "interactive whiteboard samsung";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-with-wheels-and-lids";
-export const guideTitle = "8 Best Storage Carts With Wheels and Lids in 2026";
+export const guideTitle = "Best Storage Carts With Wheels and Lids";
 export const metaTitle = "Best Storage Carts With Wheels and Lids";
 export const metaDescription = "We compared storage cart with lids models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart with lids";

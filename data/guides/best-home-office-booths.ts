@@ -1,5 +1,5 @@
 export const guideSlug = "best-home-office-booths";
-export const guideTitle = "4 Best Home Office Booths in 2026";
+export const guideTitle = "Best Home Office Booths";
 export const metaTitle = "Best Home Office Booths (2026)";
 export const metaDescription =
   "4 office pods evaluated for residential installation, covering doorway clearance, home electrical needs, and floor loading in apartments.";

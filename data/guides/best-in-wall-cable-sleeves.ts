@@ -1,5 +1,5 @@
 export const guideSlug = "best-in-wall-cable-sleeves";
-export const guideTitle = "6 Best In-Wall Cable Sleeves in 2026";
+export const guideTitle = "Best In-Wall Cable Sleeves";
 export const metaTitle = "Best In-Wall Cable Sleeves";
 export const metaDescription = "We compared in-wall cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "in-wall cable sleeves";

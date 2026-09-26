@@ -1,5 +1,5 @@
 export const guideSlug = "best-overhead-phone-arms-for-desks";
-export const guideTitle = "5 Best Overhead Phone Arms for Desks in 2026";
+export const guideTitle = "Best Overhead Phone Arms for Desks";
 export const metaTitle = "Best Overhead Phone Arms for Desks (2026)";
 export const metaDescription =
   "5 overhead arms researched for extended-reach stability and desk-airspace impact, built for top-down recording, cooking demos, and craft videos.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-plastic-cord-organizers";
-export const guideTitle = "6 Best Plastic Cord Organizers in 2026";
+export const guideTitle = "Best Plastic Cord Organizers";
 export const metaTitle = "Best Plastic Cord Organizers";
 export const metaDescription = "We compared plastic cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "plastic cord organizers";

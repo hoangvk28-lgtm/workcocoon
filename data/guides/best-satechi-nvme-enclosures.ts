@@ -1,5 +1,5 @@
 export const guideSlug = "best-satechi-nvme-enclosures";
-export const guideTitle = "5 Best Satechi NVMe Enclosures in 2026";
+export const guideTitle = "Best Satechi NVMe Enclosures";
 export const metaTitle = "Best Satechi NVMe Enclosures in 2026";
 export const metaDescription = "Satechi spans 10Gbps 2230-focused models to an 80Gbps DotDisk flagship. We used interface generation to separate the lineup.";
 export const mainKeyword = "satechi nvme enclosures";

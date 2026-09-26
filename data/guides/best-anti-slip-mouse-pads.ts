@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-slip-mouse-pads";
-export const guideTitle = "8 Best Anti-Slip Mouse Pads in 2026";
+export const guideTitle = "Best Anti-Slip Mouse Pads";
 export const metaTitle = "Best Anti-Slip Mouse Pads";
 export const metaDescription = "We compared mouse pad anti slip models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad anti slip";

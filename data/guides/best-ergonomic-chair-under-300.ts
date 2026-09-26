@@ -1,7 +1,7 @@
 const BASE = "/guides/best-ergonomic-chair-under-300";
 
 export const guideSlug = "best-ergonomic-chair-under-300";
-export const guideTitle = "10 Best Ergonomic Chairs Under $300 in 2026";
+export const guideTitle = "Best Ergonomic Chairs Under $300";
 export const metaTitle = "10 Best Ergonomic Chairs Under $300 in 2026";
 export const metaDescription =
   "Best ergonomic chairs under $300: Sihoo C300 dynamic lumbar, HON Ignition commercial-grade, Duramont memory foam, Nouhaus 4D arms. 10 picks compared.";

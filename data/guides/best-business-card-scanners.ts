@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-scanners";
-export const guideTitle = "8 Best Business Card Scanners in 2026";
+export const guideTitle = "Best Business Card Scanners";
 export const metaTitle = "Best Business Card Scanners, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 scanners we evaluated for business cards, with an honest note that OCR accuracy drops significantly on stylized fonts, dark/foil cards, and non-standard sizes most reviews test only on plain white samples.";

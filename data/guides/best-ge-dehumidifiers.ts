@@ -1,5 +1,5 @@
 export const guideSlug = "best-ge-dehumidifiers";
-export const guideTitle = "8 Best GE Dehumidifiers in 2026";
+export const guideTitle = "Best GE Dehumidifiers";
 export const metaTitle = "Best GE Dehumidifiers";
 export const metaDescription = "We compared dehumidifier ge models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "dehumidifier ge";

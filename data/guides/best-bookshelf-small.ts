@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-small";
-export const guideTitle = "8 Best Small Bookshelves in 2026";
+export const guideTitle = "Best Small Bookshelves";
 export const metaTitle = "Best Small Bookshelves in 2026 (Compact, Slim & Tree Designs)";
 export const metaDescription =
   "8 best small bookshelves in 2026, comparing low-profile, ultra-slim, and tree-style designs. Compare footprint, capacity, and features for tight spaces.";

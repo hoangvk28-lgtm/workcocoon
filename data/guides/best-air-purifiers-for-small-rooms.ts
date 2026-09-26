@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-small-rooms";
-export const guideTitle = "5 Best Air Purifiers for Small Rooms in 2026";
+export const guideTitle = "Best Air Purifiers for Small Rooms";
 export const metaTitle = "Best Air Purifiers for Small Rooms, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for small rooms, with the mismatch competitors skip: small-room-rated purifiers are sometimes oversized relative to actual need, running at unnecessarily high speeds to hit a CADR designed for a larger nominal room.";

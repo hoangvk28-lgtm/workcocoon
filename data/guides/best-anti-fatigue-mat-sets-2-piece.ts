@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-fatigue-mat-sets-2-piece";
-export const guideTitle = "8 Best Anti-Fatigue Mat Sets (2-Piece) in 2026";
+export const guideTitle = "Best Anti-Fatigue Mat Sets (2-Piece)";
 export const metaTitle = "Best Anti-Fatigue Mat Sets (2-Piece)";
 export const metaDescription = "We compared anti fatigue mat models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "anti fatigue mat";

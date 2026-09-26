@@ -1,5 +1,5 @@
 export const guideSlug = "best-pocket-digital-notebooks";
-export const guideTitle = "5 Best Pocket Digital Notebooks in 2026";
+export const guideTitle = "Best Pocket Digital Notebooks";
 export const metaTitle = "Best Pocket Digital Notebooks (2026)";
 export const metaDescription =
   "5 digital notebooks tested against an actual jacket pocket and bag pocket, not just picked because they're smaller than a full-size option.";

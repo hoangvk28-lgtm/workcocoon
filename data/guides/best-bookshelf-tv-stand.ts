@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-tv-stand";
-export const guideTitle = "6 Best Bookshelf TV Stands in 2026";
+export const guideTitle = "Best Bookshelf TV Stands";
 export const metaTitle = "Best Bookshelf TV Stands in 2026 (Wall Units with Storage)";
 export const metaDescription =
   "6 best bookshelf TV stands in 2026, combining media storage with built-in bookshelves, drawers, LED lighting, and even fireplaces for small living rooms.";

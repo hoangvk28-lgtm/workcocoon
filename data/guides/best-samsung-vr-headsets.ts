@@ -1,5 +1,5 @@
 export const guideSlug = "best-samsung-vr-headsets";
-export const guideTitle = "6 Best Samsung VR Headsets in 2026";
+export const guideTitle = "Best Samsung VR Headsets";
 export const metaTitle = "Best Samsung VR Headsets";
 export const metaDescription = "We compared samsung vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "samsung vr headsets";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-portable-air-conditioners";
-export const guideTitle = "8 Best Quiet Portable Air Conditioners in 2026";
+export const guideTitle = "Best Quiet Portable Air Conditioners";
 export const metaTitle = "Best Quiet Portable Air Conditioners";
 export const metaDescription = "We compared quiet portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "quiet portable air conditioner";

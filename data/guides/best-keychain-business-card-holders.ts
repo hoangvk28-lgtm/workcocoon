@@ -1,5 +1,5 @@
 export const guideSlug = "best-keychain-business-card-holders";
-export const guideTitle = "6 Best Keychain Business Card Holders in 2026";
+export const guideTitle = "Best Keychain Business Card Holders";
 export const metaTitle = "Best Keychain Business Card Holders";
 export const metaDescription = "We compared keychain business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "keychain business card holders";

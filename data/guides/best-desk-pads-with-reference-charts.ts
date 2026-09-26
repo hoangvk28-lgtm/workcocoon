@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pads-with-reference-charts";
-export const guideTitle = "8 Best Desk Pads with Reference Charts in 2026";
+export const guideTitle = "Best Desk Pads with Reference Charts";
 export const metaTitle = "Best Desk Pads with Reference Charts";
 export const metaDescription = "We compared desk pad with excel shortcuts models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "desk pad with excel shortcuts";

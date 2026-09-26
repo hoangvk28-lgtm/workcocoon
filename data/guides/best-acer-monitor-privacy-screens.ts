@@ -1,5 +1,5 @@
 export const guideSlug = "best-acer-monitor-privacy-screens";
-export const guideTitle = "6 Best Acer Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Acer Monitor Privacy Screens";
 export const metaTitle = "Best Acer Monitor Privacy Screens (2026)";
 export const metaDescription =
   "Honest note: these are third-party filters sized for common Acer monitor dimensions, not Acer-branded products. We matched by size, not by logo.";

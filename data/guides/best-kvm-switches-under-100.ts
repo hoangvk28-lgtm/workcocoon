@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-under-100";
-export const guideTitle = "4 Best KVM Switches Under $100 in 2026";
+export const guideTitle = "Best KVM Switches Under $100";
 export const metaTitle = "Best KVM Switches Under $100";
 export const metaDescription = "We compared KVM switches under $100 by real dual-monitor support, 4-computer scaling, and USB-C port count for growing multi-device desk setups.";
 export const mainKeyword = "best kvm switches under $100";

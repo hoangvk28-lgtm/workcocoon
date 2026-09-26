@@ -1,5 +1,5 @@
 export const guideSlug = "best-lateral-filing-cabinets";
-export const guideTitle = "8 Best Lateral Filing Cabinets in 2026";
+export const guideTitle = "Best Lateral Filing Cabinets";
 export const metaTitle = "Best Lateral Filing Cabinets in 2026 (Honest Lateral vs Vertical Guide)";
 export const metaDescription =
   "8 best lateral filing cabinets in 2026, honestly compared against vertical pedestal alternatives on clearance, file orientation, top surface load, and workflow speed.";

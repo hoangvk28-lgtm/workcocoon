@@ -1,5 +1,5 @@
 export const guideSlug = "best-evaporative-humidifiers";
-export const guideTitle = "8 Best Evaporative Humidifiers in 2026";
+export const guideTitle = "Best Evaporative Humidifiers";
 export const metaTitle = "Best Evaporative Humidifiers";
 export const metaDescription = "We compared humidifier evaporative type models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "humidifier evaporative type";

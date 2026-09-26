@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-office-chair-under-500";
 
 export const guideSlug = "best-office-chair-under-500";
-export const guideTitle = "8 Best Office Chairs Under $500 in 2026";
+export const guideTitle = "Best Office Chairs Under $500";
 export const metaTitle = "Best Office Chairs Under $500 in 2026 - Mid-Range Picks";
 export const metaDescription =
   "Best office chairs under $500 in 2026. Mid-range ergonomic chairs with full adjustability, mesh and leather options, for buyers who want more than budget.";

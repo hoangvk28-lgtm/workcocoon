@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes";
-export const guideTitle = "8 Best Small Safes in 2026";
+export const guideTitle = "Best Small Safes";
 export const metaTitle = "Best Small Safes (2026)";
 export const metaDescription =
   "8 small safes compared by protection type first, since basic security, fire resistance, and portable designs don't deserve the same evaluation.";

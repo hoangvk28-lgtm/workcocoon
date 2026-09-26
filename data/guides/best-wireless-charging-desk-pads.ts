@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-charging-desk-pads";
-export const guideTitle = "8 Best Wireless-Charging Desk Pads in 2026";
+export const guideTitle = "Best Wireless-Charging Desk Pads";
 export const metaTitle = "Best Wireless-Charging Desk Pads";
 export const metaDescription = "We compared desk pad with charger models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk pad with charger";

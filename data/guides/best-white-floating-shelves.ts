@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-floating-shelves";
-export const guideTitle = "8 Best White Floating Shelves in 2026";
+export const guideTitle = "Best White Floating Shelves";
 export const metaTitle = "Best White Floating Shelves";
 export const metaDescription = "We compared floating shelf white models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf white";

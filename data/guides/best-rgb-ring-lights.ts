@@ -1,5 +1,5 @@
 export const guideSlug = "best-rgb-ring-lights";
-export const guideTitle = "8 Best RGB Ring Lights in 2026";
+export const guideTitle = "Best RGB Ring Lights";
 export const metaTitle = "Best RGB Ring Lights";
 export const metaDescription = "We compared ring light rgb models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light rgb";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-desk-clocks";
-export const guideTitle = "6 Best Office Desk Clocks in 2026";
+export const guideTitle = "Best Office Desk Clocks";
 export const metaTitle = "Best Office Desk Clocks in 2026";
 export const metaDescription =
   "6 office-appropriate desk clocks we researched for professional look, silent operation, and formal desk presence in a shared workspace.";

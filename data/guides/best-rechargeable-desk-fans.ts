@@ -1,5 +1,5 @@
 export const guideSlug = "best-rechargeable-desk-fans";
-export const guideTitle = "8 Best Rechargeable Desk Fans in 2026";
+export const guideTitle = "Best Rechargeable Desk Fans";
 export const metaTitle = "Best Rechargeable Desk Fans";
 export const metaDescription = "We compared desk fan rechargeable models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk fan rechargeable";

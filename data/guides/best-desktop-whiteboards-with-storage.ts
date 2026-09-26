@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-with-storage";
-export const guideTitle = "5 Best Desktop Whiteboards with Storage in 2026";
+export const guideTitle = "Best Desktop Whiteboards with Storage";
 export const metaTitle = "Best Desktop Whiteboards with Storage";
 export const metaDescription =
   "5 desktop whiteboards we evaluated for genuine built-in storage, drawers, and trays, with real capacity details drawn from each listing.";

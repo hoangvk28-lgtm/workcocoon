@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-power-strips-for-travel-and-desks";
-export const guideTitle = "5 Best Small Power Strips for Travel and Desks in 2026";
+export const guideTitle = "Best Small Power Strips for Travel and Desks";
 export const metaTitle = "Best Small Power Strips for Travel and Desks, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 dual-use power strips we evaluated, with the honest tradeoff competitors present as a seamless win-win: a genuinely dual-purpose travel-and-desk strip compromises on both ends compared to a purpose-built option for just one.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-for-gaming-handhelds";
-export const guideTitle = "4 Best USB4 Docks for Gaming Handhelds in 2026";
+export const guideTitle = "Best USB4 Docks for Gaming Handhelds";
 export const metaTitle = "Best USB4 Docks for Gaming Handhelds";
 export const metaDescription = "We compared gaming handheld docks by charging wattage matched to Turbo Modes, HDMI refresh rate, and cooling, since underpowered charging hurts performance.";
 export const mainKeyword = "best usb4 dock for gaming handhelds";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-glasses-for-sleep-routine";
-export const guideTitle = "6 Best Blue Light Glasses for Sleep Routine in 2026";
+export const guideTitle = "Best Blue Light Glasses for Sleep Routine";
 export const metaTitle = "Best Blue Light Glasses for Sleep Routine";
 export const metaDescription = "We compared blue light glasses for sleep routine models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "blue light glasses for sleep routine";

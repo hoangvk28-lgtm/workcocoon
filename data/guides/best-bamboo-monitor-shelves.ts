@@ -1,5 +1,5 @@
 export const guideSlug = "best-bamboo-monitor-shelves";
-export const guideTitle = "5 Best Bamboo Monitor Shelves in 2026";
+export const guideTitle = "Best Bamboo Monitor Shelves";
 export const metaTitle = "Best Bamboo Monitor Shelves, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 bamboo monitor shelves we evaluated, with the construction-method decode competitors skip: bamboo sourcing and manufacturing quality, laminated strips versus solid bamboo, genuinely affects real durability and sag resistance.";

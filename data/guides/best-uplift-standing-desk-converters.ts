@@ -1,5 +1,5 @@
 export const guideSlug = "best-uplift-standing-desk-converters";
-export const guideTitle = "6 Best UPLIFT Standing Desk Converters in 2026";
+export const guideTitle = "Best UPLIFT Standing Desk Converters";
 export const metaTitle = "Best UPLIFT Standing Desk Converters (2026)";
 export const metaDescription =
   "6 current UPLIFT converters compared across the E7 electric and Lady Bird manual lines, spanning multiple worksurface finishes and base colors.";

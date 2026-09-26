@@ -1,5 +1,5 @@
 export const guideSlug = "best-ips-gaming-monitors";
-export const guideTitle = "6 Best IPS Gaming Monitors in 2026";
+export const guideTitle = "Best IPS Gaming Monitors";
 export const metaTitle = "Best IPS Gaming Monitors";
 export const metaDescription = "We compared ips gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ips gaming monitors";

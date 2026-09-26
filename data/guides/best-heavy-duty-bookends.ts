@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-bookends";
-export const guideTitle = "6 Best Heavy-Duty Bookends in 2026";
+export const guideTitle = "Best Heavy-Duty Bookends";
 export const metaTitle = "Best Heavy-Duty Bookends";
 export const metaDescription = "We compared heavy-duty bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "heavy-duty bookends";

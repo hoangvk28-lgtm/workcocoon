@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-4-40gbps-dock";
-export const guideTitle = "4 Best USB 4 40Gbps Docks in 2026";
+export const guideTitle = "Best USB 4 40Gbps Docks";
 export const metaTitle = "Best USB4 40Gbps Docks";
 export const metaDescription = "We compared 40Gbps USB4 docks by whether that bandwidth is upstream, downstream, or both, since most standard USB-C docks only offer 10Gbps upstream.";
 export const mainKeyword = "best usb 4 40gbps dock";

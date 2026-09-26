@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-under-20";
-export const guideTitle = "4 Best Surge Protectors Under $20 in 2026";
+export const guideTitle = "Best Surge Protectors Under $20";
 export const metaTitle = "Best Surge Protectors Under $20";
 export const metaDescription = "We compared surge protectors under $20 by joule rating, UL certification standards, and outlet expansion design, since real protection differences appear here.";
 export const mainKeyword = "best surge protectors under $20";

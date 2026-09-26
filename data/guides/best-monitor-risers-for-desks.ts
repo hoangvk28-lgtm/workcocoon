@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-risers-for-desks";
-export const guideTitle = "4 Best Monitor Risers for Desks in 2026";
+export const guideTitle = "Best Monitor Risers for Desks";
 export const metaTitle = "Best Monitor Risers for Desks (2026)";
 export const metaDescription =
   "4 monitor risers we evaluated for eye-level height matching, honest riser-versus-shelf terminology, and adjustment increment granularity.";

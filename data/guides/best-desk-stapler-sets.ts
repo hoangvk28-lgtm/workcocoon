@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-stapler-sets";
-export const guideTitle = "6 Best Desk Stapler Sets in 2026";
+export const guideTitle = "Best Desk Stapler Sets";
 export const metaTitle = "Best Desk Stapler Sets";
 export const metaDescription = "We compared desk stapler sets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk stapler sets";

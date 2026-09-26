@@ -1,5 +1,5 @@
 export const guideSlug = "best-silver-desk-clocks";
-export const guideTitle = "5 Best Silver Desk Clocks in 2026";
+export const guideTitle = "Best Silver Desk Clocks";
 export const metaTitle = "Best Silver Desk Clocks (2026)";
 export const metaDescription =
   "5 silver-finish desk clocks spanning digital LED, mirror-surface, and stainless steel designs, compared by actual construction rather than assuming they're interchangeable.";

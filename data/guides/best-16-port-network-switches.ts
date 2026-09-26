@@ -1,5 +1,5 @@
 export const guideSlug = "best-16-port-network-switches";
-export const guideTitle = "5 Best 16-Port Network Switches in 2026";
+export const guideTitle = "Best 16-Port Network Switches";
 export const metaTitle = "Best 16-Port Network Switches 2026";
 export const metaDescription = "16 ports covers a growing office or homelab. We compared unmanaged, PoE, and multi-gig options across the current lineup.";
 export const mainKeyword = "16-port network switches";

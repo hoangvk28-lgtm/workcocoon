@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-on-wheels";
-export const guideTitle = "8 Best Task Chairs on Wheels in 2026";
+export const guideTitle = "Best Task Chairs on Wheels";
 export const metaTitle = "Best Task Chairs on Wheels";
 export const metaDescription = "We compared task chair on wheels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair on wheels";

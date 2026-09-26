@@ -1,5 +1,5 @@
 export const guideSlug = "best-combination-laptop-locks";
-export const guideTitle = "8 Best Combination Laptop Locks in 2026";
+export const guideTitle = "Best Combination Laptop Locks";
 export const metaTitle = "Best Combination Laptop Locks (2026)";
 export const metaDescription =
   "8 mechanical combination laptop locks compared by resettability, wheel readability, and slot type, since forgotten-code recovery varies by design.";

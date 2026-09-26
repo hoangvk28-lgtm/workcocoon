@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-pc-mounts-for-standing-desks";
-export const guideTitle = "4 Best Under-Desk PC Mounts for Standing Desks in 2026";
+export const guideTitle = "Best Under-Desk PC Mounts for Standing Desks";
 export const metaTitle = "Best PC Mounts for Standing Desks (2026)";
 export const metaDescription =
   "4 under-desk PC mounts we evaluated for standing desks, covering cable slack across the full height range and added dynamic lift load on the desk motor.";

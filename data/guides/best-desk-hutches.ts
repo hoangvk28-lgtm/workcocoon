@@ -1,6 +1,6 @@
 const BASE = "/images/guides/best-desk-hutches";
 export const guideSlug = "best-desk-hutches";
-export const guideTitle = "8 Best Desk Hutches for Any Setup (2026)";
+export const guideTitle = "Best Desk Hutches for Any Setup (2026)";
 export const metaTitle = "Best Desk Hutches for Any Setup (2026)";
 export const metaDescription =
   "Best desk hutches in 2026. Covers open shelf, drawer, pegboard, and LED hutch options for home offices, dorm rooms, and compact workspaces at every price point.";

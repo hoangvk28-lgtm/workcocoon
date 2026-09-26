@@ -1,5 +1,5 @@
 export const guideSlug = "best-video-switchers-for-live-video";
-export const guideTitle = "8 Best Video Switchers for Live Video in 2026";
+export const guideTitle = "Best Video Switchers for Live Video";
 export const metaTitle = "Best Video Switchers for Live Video";
 export const metaDescription = "We compared live video switcher models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "live video switcher";

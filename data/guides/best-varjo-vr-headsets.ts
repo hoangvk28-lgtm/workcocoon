@@ -1,5 +1,5 @@
 export const guideSlug = "best-varjo-vr-headsets";
-export const guideTitle = "6 Best Varjo VR Headsets in 2026";
+export const guideTitle = "Best Varjo VR Headsets";
 export const metaTitle = "Best Varjo VR Headsets";
 export const metaDescription = "We compared varjo vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "varjo vr headsets";

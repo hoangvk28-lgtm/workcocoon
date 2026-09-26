@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-id-badge-holders";
-export const guideTitle = "6 Best Vertical ID Badge Holders in 2026";
+export const guideTitle = "Best Vertical ID Badge Holders";
 export const metaTitle = "Best Vertical ID Badge Holders";
 export const metaDescription = "We compared vertical id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "vertical id badge holders";

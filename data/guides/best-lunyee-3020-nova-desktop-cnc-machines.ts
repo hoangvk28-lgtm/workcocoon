@@ -1,5 +1,5 @@
 export const guideSlug = "best-lunyee-3020-nova-desktop-cnc-machines";
-export const guideTitle = "6 Best Lunyee 3020 Nova Desktop CNC Machines in 2026";
+export const guideTitle = "Best Lunyee 3020 Nova Desktop CNC Machines";
 export const metaTitle = "Best Lunyee 3020 Nova Desktop CNC Machines 2026";
 export const metaDescription = "We compared lunyee 3020 nova desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "lunyee 3020 nova desktop cnc machines";

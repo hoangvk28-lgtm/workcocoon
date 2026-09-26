@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-baby-rooms";
-export const guideTitle = "8 Best Humidifiers for Baby Rooms in 2026";
+export const guideTitle = "Best Humidifiers for Baby Rooms";
 export const metaTitle = "Best Humidifiers for Baby Rooms";
 export const metaDescription = "We compared humidifier for baby room models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier for baby room";

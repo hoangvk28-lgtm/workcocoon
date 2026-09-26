@@ -1,5 +1,5 @@
 export const guideSlug = "best-disney-id-badge-holders";
-export const guideTitle = "6 Best Disney ID Badge Holders in 2026";
+export const guideTitle = "Best Disney ID Badge Holders";
 export const metaTitle = "Best Disney ID Badge Holders";
 export const metaDescription = "We compared disney id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "disney id badge holders";

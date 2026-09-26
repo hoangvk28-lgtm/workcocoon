@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-under-300";
-export const guideTitle = "4 Best Murphy Beds Under $300 in 2026";
+export const guideTitle = "Best Murphy Beds Under $300";
 export const metaTitle = "Best Murphy Beds Under $300";
 export const metaDescription = "We compared murphy beds under $300 by hardware type, weight capacity, and wall requirements, since DIY kits and cabinet beds solve different problems here.";
 export const mainKeyword = "best murphy beds under $300";

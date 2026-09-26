@@ -1,5 +1,5 @@
 export const guideSlug = "best-id-badge-holders-for-kids";
-export const guideTitle = "3 Best ID Badge Holders for Kids in 2026";
+export const guideTitle = "Best ID Badge Holders for Kids";
 export const metaTitle = "Best ID Badge Holders for Kids";
 export const metaDescription = "We compared id badge holders for kids models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "id badge holders for kids";

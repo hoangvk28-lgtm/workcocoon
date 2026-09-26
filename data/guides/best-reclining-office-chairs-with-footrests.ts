@@ -1,5 +1,5 @@
 export const guideSlug = "best-reclining-office-chairs-with-footrests";
-export const guideTitle = "8 Best Reclining Office Chairs with Footrests in 2026";
+export const guideTitle = "Best Reclining Office Chairs with Footrests";
 export const metaTitle = "Best Reclining Office Chairs with Footrests in 2026";
 export const metaDescription =
   "8 best reclining office chairs with footrests in 2026, plus honest notes on which picks skip the footrest entirely. Compare recline angles, extension length, and lumbar support.";

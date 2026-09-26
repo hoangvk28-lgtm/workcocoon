@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-16gb-ram";
-export const guideTitle = "5 Best Mini PCs with 16GB RAM in 2026";
+export const guideTitle = "Best Mini PCs with 16GB RAM";
 export const metaTitle = "Best Mini PCs with 16GB RAM, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 mini PCs with 16GB RAM we evaluated, a genuinely solid everyday productivity tier for web browsing, office work, and moderate multitasking without overpaying for RAM you won't use.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-gaming-monitors";
-export const guideTitle = "6 Best Budget Gaming Monitors in 2026";
+export const guideTitle = "Best Budget Gaming Monitors";
 export const metaTitle = "Best Budget Gaming Monitors";
 export const metaDescription = "We compared budget gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "budget gaming monitors";

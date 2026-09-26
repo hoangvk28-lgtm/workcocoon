@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ups-for-routers-and-modems";
-export const guideTitle = "7 Best Mini UPS for Routers and Modems in 2026";
+export const guideTitle = "Best Mini UPS for Routers and Modems";
 export const metaTitle = "Best Mini UPS for Routers & Modems 2026";
 export const metaDescription = "Backing up a router and a modem needs two output rails, not one. We compared mini UPS units that can power both devices simultaneously.";
 export const mainKeyword = "mini ups for routers and modems";

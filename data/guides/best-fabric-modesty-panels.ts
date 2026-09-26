@@ -1,5 +1,5 @@
 export const guideSlug = "best-fabric-modesty-panels";
-export const guideTitle = "6 Best Fabric Modesty Panels in 2026";
+export const guideTitle = "Best Fabric Modesty Panels";
 export const metaTitle = "Best Fabric Modesty Panels";
 export const metaDescription = "We compared fabric modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "fabric modesty panels";

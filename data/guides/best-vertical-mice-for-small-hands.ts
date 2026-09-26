@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-small-hands";
-export const guideTitle = "7 Best Vertical Mice for Small Hands in 2026";
+export const guideTitle = "Best Vertical Mice for Small Hands";
 export const metaTitle = "Best Vertical Mice for Small Hands 2026";
 export const metaDescription =
   "We evaluated 7 vertical mice with genuinely smaller bodies, checking scroll wheel reach and overall fit for buyers with smaller hands specifically.";

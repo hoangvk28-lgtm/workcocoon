@@ -1,5 +1,5 @@
 export const guideSlug = "best-cellophane-tape-dispensers";
-export const guideTitle = "6 Best Cellophane Tape Dispensers in 2026";
+export const guideTitle = "Best Cellophane Tape Dispensers";
 export const metaTitle = "Best Cellophane Tape Dispensers";
 export const metaDescription = "We compared cellophane tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cellophane tape dispensers";

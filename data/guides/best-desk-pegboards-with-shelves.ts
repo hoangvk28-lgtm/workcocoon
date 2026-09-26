@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pegboards-with-shelves";
-export const guideTitle = "4 Best Desk Pegboards with Shelves in 2026";
+export const guideTitle = "Best Desk Pegboards with Shelves";
 export const metaTitle = "Best Desk Pegboards with Shelves (2026)";
 export const metaDescription =
   "4 desk pegboards with shelves we evaluated for shelf weight capacity, forward-leverage tipping risk, and edge lip design.";

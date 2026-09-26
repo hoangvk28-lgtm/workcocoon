@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-paper-trays";
-export const guideTitle = "6 Best Metal Paper Trays in 2026";
+export const guideTitle = "Best Metal Paper Trays";
 export const metaTitle = "Best Metal Paper Trays";
 export const metaDescription = "We compared metal paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "metal paper trays";

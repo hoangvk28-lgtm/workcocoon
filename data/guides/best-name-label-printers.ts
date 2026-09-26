@@ -1,5 +1,5 @@
 export const guideSlug = "best-name-label-printers";
-export const guideTitle = "6 Best Name Label Printers in 2026";
+export const guideTitle = "Best Name Label Printers";
 export const metaTitle = "Best Name Label Printers";
 export const metaDescription = "We compared name label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "name label printers";

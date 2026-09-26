@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-4k-monitors";
-export const guideTitle = "8 Best Docking Stations for 4K Monitors in 2026";
+export const guideTitle = "Best Docking Stations for a Genuine 4K Signal";
 export const metaTitle = "Best Docking Stations for 4K Monitors in 2026 (True 60Hz Picks)";
 export const metaDescription =
   "8 best docking stations for 4K monitors in 2026, compared on true 4K@60Hz support, HDR, and bandwidth. Avoid the 30Hz budget-dock trap.";

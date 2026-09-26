@@ -1,5 +1,5 @@
 export const guideSlug = "best-hexagon-shaped-desk-pads";
-export const guideTitle = "5 Best Hexagon-Shaped Desk Pads in 2026";
+export const guideTitle = "Best Hexagon-Shaped Desk Pads";
 export const metaTitle = "Best Hexagon-Shaped Desk Pads";
 export const metaDescription = "We compared desk pad hexagon models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad hexagon";

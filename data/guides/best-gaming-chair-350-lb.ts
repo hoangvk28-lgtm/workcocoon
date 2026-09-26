@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-350-lb";
-export const guideTitle = "8 Best Gaming Chairs with 350 lb Weight Capacity in 2026";
+export const guideTitle = "Best Gaming Chairs with 350 lb Weight Capacity";
 export const metaTitle = "Best Gaming Chairs 350 lb Weight Capacity in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs rated for 350 lb weight capacity in 2026, ranked by cushion type, recline range, and footrest quality for larger frames.";

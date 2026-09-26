@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-4-nvme-enclosures";
-export const guideTitle = "6 Best Thunderbolt 4 NVMe Enclosures in 2026";
+export const guideTitle = "Best Thunderbolt 4 NVMe Enclosures";
 export const metaTitle = "Best Thunderbolt 4 NVMe Enclosures 2026";
 export const metaDescription = "Thunderbolt 4 guarantees a 40Gbps link, but USB4 enclosures can also work on TB4 hosts. We separated certified from merely compatible.";
 export const mainKeyword = "thunderbolt 4 nvme enclosures";

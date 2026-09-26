@@ -1,5 +1,5 @@
 export const guideSlug = "best-30-inch-standing-desk-converters";
-export const guideTitle = "5 Best 30-Inch Standing Desk Converters in 2026";
+export const guideTitle = "Best 30-Inch Standing Desk Converters";
 export const metaTitle = "Best 30-Inch Standing Desk Converters (2026)";
 export const metaDescription =
   "5 converters confirmed at genuine 30 inch platform width, a compact-to-standard size bridging single-monitor and light dual-monitor use.";

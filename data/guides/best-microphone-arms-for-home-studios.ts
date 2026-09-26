@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-for-home-studios";
-export const guideTitle = "8 Best Microphone Arms for Home Studios in 2026";
+export const guideTitle = "Best Microphone Arms for Home Studios";
 export const metaTitle = "Best Microphone Arms for Home Studios";
 export const metaDescription = "We compared microphone arm home studio models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm home studio";

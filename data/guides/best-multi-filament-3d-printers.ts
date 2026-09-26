@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-filament-3d-printers";
-export const guideTitle = "6 Best Multi-Filament 3D Printers in 2026";
+export const guideTitle = "Best Multi-Filament 3D Printers";
 export const metaTitle = "Best Multi-Filament 3D Printers";
 export const metaDescription = "We compared multi-filament 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "multi-filament 3d printers";

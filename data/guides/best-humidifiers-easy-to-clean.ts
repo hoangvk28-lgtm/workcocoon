@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-easy-to-clean";
-export const guideTitle = "8 Best Humidifiers Easy to Clean in 2026";
+export const guideTitle = "Best Humidifiers Easy to Clean";
 export const metaTitle = "Best Humidifiers Easy to Clean";
 export const metaDescription = "We compared humidifier easy to clean models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier easy to clean";

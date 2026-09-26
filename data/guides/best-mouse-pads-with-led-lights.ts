@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-with-led-lights";
-export const guideTitle = "8 Best Mouse Pads With LED Lights in 2026";
+export const guideTitle = "Best Mouse Pads With LED Lights";
 export const metaTitle = "Best Mouse Pads With LED Lights";
 export const metaDescription = "We compared mouse pad led models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad led";

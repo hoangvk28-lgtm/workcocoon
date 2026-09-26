@@ -1,5 +1,5 @@
 export const guideSlug = "best-cpu-stands-for-small-pc-towers";
-export const guideTitle = "6 Best CPU Stands for Small PC Towers in 2026";
+export const guideTitle = "Best CPU Stands for Small PC Towers";
 export const metaTitle = "Best CPU Stands for Small PC Towers";
 export const metaDescription = "We compared cpu stands for small pc towers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "cpu stands for small pc towers";

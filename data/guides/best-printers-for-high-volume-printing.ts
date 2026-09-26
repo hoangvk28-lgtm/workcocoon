@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-high-volume-printing";
-export const guideTitle = "8 Best Printers for High-Volume Printing in 2026";
+export const guideTitle = "Best Printers for High-Volume Printing";
 export const metaTitle = "Best Printers for High-Volume Printing in 2026 (Laser & EcoTank Picks)";
 export const metaDescription =
   "8 best printers for high-volume printing in 2026, led by laser and ink-tank models built for duty cycle and low cost per page. Compare consumables and upkeep.";

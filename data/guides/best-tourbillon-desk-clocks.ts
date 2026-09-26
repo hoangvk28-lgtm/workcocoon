@@ -1,5 +1,5 @@
 export const guideSlug = "best-tourbillon-desk-clocks";
-export const guideTitle = "5 Best Tourbillon Desk Clocks in 2026";
+export const guideTitle = "Best Tourbillon Desk Clocks";
 export const metaTitle = "Best Tourbillon Desk Clocks (2026)";
 export const metaDescription =
   "5 tourbillon-mechanism desk clocks, including genuine 3D wooden and 3D-printed escapement puzzle builds, distinguished from decorative-only rotating clocks.";

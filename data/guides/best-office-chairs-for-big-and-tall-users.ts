@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-for-big-and-tall-users";
-export const guideTitle = "8 Best Office Chairs for Big and Tall Users in 2026";
+export const guideTitle = "Best Office Chairs for Big and Tall Users";
 export const metaTitle = "Best Office Chairs for Big and Tall Users in 2026 (Capacity Guide)";
 export const metaDescription =
   "8 best office chairs for big and tall users in 2026, compared on weight capacity buffer, seat height range, armrest spread, and warranty terms that actually matter.";

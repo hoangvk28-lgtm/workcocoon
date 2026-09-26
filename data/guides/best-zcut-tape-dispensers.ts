@@ -1,5 +1,5 @@
 export const guideSlug = "best-zcut-tape-dispensers";
-export const guideTitle = "6 Best ZCUT Tape Dispensers in 2026";
+export const guideTitle = "Best ZCUT Tape Dispensers";
 export const metaTitle = "Best ZCUT Tape Dispensers";
 export const metaDescription = "We compared zcut tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "zcut tape dispensers";

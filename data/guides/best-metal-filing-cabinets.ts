@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-filing-cabinets";
-export const guideTitle = "8 Best Metal Filing Cabinets in 2026";
+export const guideTitle = "Best Metal Filing Cabinets";
 export const metaTitle = "Best Metal Filing Cabinets in 2026";
 export const metaDescription =
   "8 best metal filing cabinets in 2026, from compact under-desk rolling cabinets to a tall garage storage unit. Compare drawer count, locking, and hanging file compatibility.";

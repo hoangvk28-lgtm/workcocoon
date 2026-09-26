@@ -1,5 +1,5 @@
 export const guideSlug = "best-shelves-for-under-computer-monitors";
-export const guideTitle = "6 Best Shelves for Under Computer Monitors in 2026";
+export const guideTitle = "Best Shelves for Under Computer Monitors";
 export const metaTitle = "Best Shelves for Under Computer Monitors";
 export const metaDescription = "We compared shelves for under computer monitors models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "shelves for under computer monitors";

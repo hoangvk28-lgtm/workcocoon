@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-holder-books";
-export const guideTitle = "6 Best Sticky Note Holder Books in 2026";
+export const guideTitle = "Best Sticky Note Holder Books";
 export const metaTitle = "Best Sticky Note Holder Books";
 export const metaDescription = "We compared sticky note holder books models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "sticky note holder books";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-ceramic-business-card-holders";
-export const guideTitle = "6 Best Ceramic Business Card Holders in 2026";
+export const guideTitle = "Best Ceramic Business Card Holders";
 export const metaTitle = "Best Ceramic Business Card Holders";
 export const metaDescription = "We compared ceramic business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "ceramic business card holders";

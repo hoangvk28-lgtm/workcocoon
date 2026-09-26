@@ -1,6 +1,6 @@
 const BASE = "/images/guides/best-under-desk-storage-drawers";
 export const guideSlug = "best-under-desk-storage-drawers";
-export const guideTitle = "8 Best Under Desk Storage Drawers (2026)";
+export const guideTitle = "Best Under Desk Storage Drawers (2026)";
 export const metaTitle = "Best Under Desk Storage Drawers (2026)";
 export const metaDescription =
   "Under desk storage drawers compared by installation method: adhesive, clamp-on, and bracket-mount. No-drill and renter-friendly picks for home offices included.";

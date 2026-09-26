@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-vertical-mice";
-export const guideTitle = "8 Best Wireless Vertical Mice in 2026";
+export const guideTitle = "Best Wireless Vertical Mice";
 export const metaTitle = "Best Wireless Vertical Mice 2026";
 export const metaDescription =
   "We compared 8 wireless vertical mice on dongle versus Bluetooth reliability, battery type, and signal range for real desk setups.";

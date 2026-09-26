@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-under-300";
-export const guideTitle = "4 Best Laptop Screen Extenders Under $300 in 2026";
+export const guideTitle = "Best Laptop Screen Extenders Under $300";
 export const metaTitle = "Best Laptop Screen Extenders Under $300";
 export const metaDescription = "We compared laptop screen extenders under $300 by brightness, viewing angle, weight, and real triple-screen setup requirements across price tiers.";
 export const mainKeyword = "best laptop screen extenders under $300";

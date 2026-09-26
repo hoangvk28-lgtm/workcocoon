@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-outdoor-projectors";
-export const guideTitle = "8 Best 4K Outdoor Projectors in 2026";
+export const guideTitle = "Best 4K Outdoor Projectors";
 export const metaTitle = "Best 4K Outdoor Projectors";
 export const metaDescription = "We compared projector 4k outdoor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "projector 4k outdoor";

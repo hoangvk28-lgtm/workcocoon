@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pads-with-clear-overlay";
-export const guideTitle = "8 Best Desk Pads with Clear Overlay in 2026";
+export const guideTitle = "Best Desk Pads with Clear Overlay";
 export const metaTitle = "Best Desk Pads with Clear Overlay";
 export const metaDescription = "We compared desk pad with clear overlay models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "desk pad with clear overlay";

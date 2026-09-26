@@ -1,5 +1,5 @@
 export const guideSlug = "best-vera-bradley-cord-organizers";
-export const guideTitle = "6 Best Vera Bradley Cord Organizers in 2026";
+export const guideTitle = "Best Vera Bradley Cord Organizers";
 export const metaTitle = "Best Vera Bradley Cord Organizers";
 export const metaDescription = "We compared vera bradley cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "vera bradley cord organizers";

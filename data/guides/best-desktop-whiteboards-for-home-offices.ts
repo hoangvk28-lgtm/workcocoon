@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-for-home-offices";
-export const guideTitle = "5 Best Desktop Whiteboards for Home Offices in 2026";
+export const guideTitle = "Best Desktop Whiteboards for Home Offices";
 export const metaTitle = "Best Desktop Whiteboards for Home Offices (2026)";
 export const metaDescription =
   "5 desktop whiteboards ranked by usable writing area per square inch of desk footprint, since home-office desks are usually smaller than a corporate workstation.";

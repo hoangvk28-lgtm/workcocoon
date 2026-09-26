@@ -1,5 +1,5 @@
 export const guideSlug = "best-36-inch-standing-desk-converters";
-export const guideTitle = "5 Best 36-Inch Standing Desk Converters in 2026";
+export const guideTitle = "Best 36-Inch Standing Desk Converters";
 export const metaTitle = "Best 36-Inch Standing Desk Converters (2026)";
 export const metaDescription =
   "5 converters confirmed at genuine 36 inch platform width, a strong size tier for dual-monitor or monitor-plus-laptop setups.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-filter-free-humidifiers";
-export const guideTitle = "8 Best Filter-Free Humidifiers in 2026";
+export const guideTitle = "Best Filter-Free Humidifiers";
 export const metaTitle = "Best Filter-Free Humidifiers";
 export const metaDescription = "We compared humidifier no filter models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier no filter";

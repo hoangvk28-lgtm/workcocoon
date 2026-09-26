@@ -1,5 +1,5 @@
 export const guideSlug = "best-qd-oled-4k-monitors";
-export const guideTitle = "6 Best QD-OLED 4K Monitors in 2026";
+export const guideTitle = "Best QD-OLED 4K Monitors";
 export const metaTitle = "Best QD-OLED 4K Monitors";
 export const metaDescription = "We compared qd-oled 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "qd-oled 4k monitors";

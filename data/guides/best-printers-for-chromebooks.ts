@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-chromebooks";
-export const guideTitle = "7 Best Printers for Chromebooks in 2026";
+export const guideTitle = "Best Printers for Chromebooks";
 export const metaTitle = "Best Printers for Chromebooks in 2026 (IPP Everywhere Explained)";
 export const metaDescription =
   "7 printers we evaluated for Chromebook households, plus why IPP Everywhere driverless printing, not brand, is the real compatibility requirement to check first.";

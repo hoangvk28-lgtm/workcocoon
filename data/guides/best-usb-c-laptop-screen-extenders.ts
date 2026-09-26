@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-laptop-screen-extenders";
-export const guideTitle = "5 Best USB-C Laptop Screen Extenders in 2026";
+export const guideTitle = "Best USB-C Laptop Screen Extenders";
 export const metaTitle = "Best USB-C Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C laptop screen extenders we evaluated, with the single-cable-power-ceiling check competitors skip: a single USB-C cable carries both video and power, meaning your laptop's specific port wattage caps real screen brightness and performance.";

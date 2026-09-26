@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-shredders-for-credit-cards";
-export const guideTitle = "8 Best Paper Shredders for Credit Cards in 2026";
+export const guideTitle = "Best Paper Shredders for Credit Cards";
 export const metaTitle = "Best Paper Shredders for Credit Cards, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders we evaluated for credit card destruction, with a note that P-4 micro-cut particle size actually matters for chip security, not just whether a card slot exists.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-charging-carts-under-200";
-export const guideTitle = "4 Best Laptop Charging Carts Under $200 in 2026";
+export const guideTitle = "Best Laptop Charging Carts Under $200";
 export const metaTitle = "Best Laptop Charging Carts Under $200";
 export const metaDescription = "We compared laptop charging carts under $200 by device slot count, lock security, and construction, since these decide how well a budget cart handles daily use.";
 export const mainKeyword = "best laptop charging carts under $200";

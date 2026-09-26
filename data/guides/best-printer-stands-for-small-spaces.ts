@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-stands-for-small-spaces";
-export const guideTitle = "8 Best Printer Stands for Small Spaces in 2026";
+export const guideTitle = "Best Printer Stands for Small Spaces";
 export const metaTitle = "Best Printer Stands for Small Spaces in 2026 (Compact & Vertical)";
 export const metaDescription =
   "8 best printer stands for small spaces in 2026, including compact carts, CPU stands, and utility carts sized honestly for apartments, dorms, and tight desk nooks.";

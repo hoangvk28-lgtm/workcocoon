@@ -1,5 +1,5 @@
 export const guideSlug = "best-food-label-printers";
-export const guideTitle = "6 Best Food Label Printers in 2026";
+export const guideTitle = "Best Food Label Printers";
 export const metaTitle = "Best Food Label Printers";
 export const metaDescription = "We compared food label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "food label printers";

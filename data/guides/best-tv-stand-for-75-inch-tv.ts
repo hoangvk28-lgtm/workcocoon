@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-for-75-inch-tv";
-export const guideTitle = "7 Best TV Stands for 75 Inch TVs in 2026";
+export const guideTitle = "Best TV Stands for 75 Inch TVs";
 export const metaTitle = "Best TV Stands for 75 Inch TVs 2026, Ranked Picks";
 export const metaDescription =
   "Best TV stands for 75 inch TVs in 2026. Wide, high-capacity consoles ranked by weight rating, footprint, and stability for large screens.";

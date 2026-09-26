@@ -1,5 +1,5 @@
 export const guideSlug = "best-240hz-curved-gaming-monitors";
-export const guideTitle = "6 Best 240Hz Curved Gaming Monitors in 2026";
+export const guideTitle = "Best 240Hz Curved Gaming Monitors";
 export const metaTitle = "Best 240Hz Curved Gaming Monitors";
 export const metaDescription = "We compared 240hz curved gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "240hz curved gaming monitors";

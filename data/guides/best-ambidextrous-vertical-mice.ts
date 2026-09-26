@@ -1,5 +1,5 @@
 export const guideSlug = "best-ambidextrous-vertical-mice";
-export const guideTitle = "2 Best Ambidextrous Vertical Mice in 2026";
+export const guideTitle = "Best Ambidextrous Vertical Mice";
 export const metaTitle = "Best Ambidextrous Vertical Mice 2026";
 export const metaDescription =
   "Truly ambidextrous vertical mice are rare. We evaluated the two genuine picks in this thin category, verified against actual listing design signals.";

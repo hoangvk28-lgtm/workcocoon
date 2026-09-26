@@ -1,5 +1,5 @@
 export const guideSlug = "best-high-performance-mini-pcs";
-export const guideTitle = "5 Best High-Performance Mini PCs in 2026";
+export const guideTitle = "Best High-Performance Mini PCs";
 export const metaTitle = "Best High-Performance Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 high-performance mini PCs we evaluated, with an honest note that even top-tier mini PC chips run in a lower power envelope than a full desktop tower's processor, verify this suits your genuinely demanding workload.";

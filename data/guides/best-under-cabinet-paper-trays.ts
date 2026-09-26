@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-cabinet-paper-trays";
-export const guideTitle = "5 Best Under-Cabinet Paper Trays in 2026";
+export const guideTitle = "Best Under-Cabinet Paper Trays";
 export const metaTitle = "Best Under-Cabinet Paper Trays";
 export const metaDescription = "We compared under-cabinet paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under-cabinet paper trays";

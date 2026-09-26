@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-monitor-light-bars-for-gaming";
 
 export const guideSlug = "best-monitor-light-bars-for-gaming";
-export const guideTitle = "9 Best Monitor Light Bars for Gaming (2026)";
+export const guideTitle = "Best Monitor Light Bars for Gaming (2026)";
 export const metaTitle = "Best Monitor Light Bars for Gaming (2026)";
 export const metaDescription =
   "Best monitor light bars for gaming in 2026. Covers RGB backlighting, screen color sync, ultrawide compatibility, and high-lux options for dark gaming setups.";

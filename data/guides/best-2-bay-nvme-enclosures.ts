@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-bay-nvme-enclosures";
-export const guideTitle = "5 Best 2-Bay NVMe Enclosures in 2026";
+export const guideTitle = "Best 2-Bay NVMe Enclosures";
 export const metaTitle = "Best 2-Bay NVMe Enclosures 2026";
 export const metaDescription = "Two-bay enclosures split between independent-drive and RAID designs. We documented which mode each product actually supports.";
 export const mainKeyword = "2-bay nvme enclosures";

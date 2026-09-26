@@ -1,5 +1,5 @@
 export const guideSlug = "best-tape-dispensers-for-kids";
-export const guideTitle = "6 Best Tape Dispensers for Kids in 2026";
+export const guideTitle = "Best Tape Dispensers for Kids";
 export const metaTitle = "Best Tape Dispensers for Kids";
 export const metaDescription = "We compared tape dispensers for kids models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "tape dispensers for kids";

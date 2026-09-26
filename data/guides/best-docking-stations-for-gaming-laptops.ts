@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-gaming-laptops";
-export const guideTitle = "7 Best Docking Stations for Gaming Laptops in 2026";
+export const guideTitle = "Best Docking Stations for Gaming Laptops";
 export const metaTitle = "Best Docking Stations for Gaming Laptops in 2026 (Power & eGPU Reality)";
 export const metaDescription =
   "7 best docking stations for gaming laptops in 2026, with an honest look at power delivery limits, eGPU compatibility, and USB dropouts under gaming load.";

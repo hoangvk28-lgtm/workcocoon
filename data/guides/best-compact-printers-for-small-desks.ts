@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-printers-for-small-desks";
-export const guideTitle = "8 Best Compact Printers for Small Desks in 2026";
+export const guideTitle = "Best Compact Printers for Small Desks";
 export const metaTitle = "Best Compact Printers for Small Desks in 2026";
 export const metaDescription =
   "8 best compact printers for small desks in 2026, compared on real footprint, paper tray capacity, and setup ease so you know exactly what fits.";

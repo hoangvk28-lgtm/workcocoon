@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-for-nas-setups";
-export const guideTitle = "5 Best Wi-Fi 7 Routers for NAS Setups in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers for NAS Setups";
 export const metaTitle = "Best Wi-Fi 7 Routers for NAS Setups, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 Wi-Fi 7 routers we evaluated for NAS setups, with the link-aggregation and switch-topology gap competitors skip: NAS-to-multiple-client transfer speed depends on more than the router's own multi-gig port, and link aggregation support matters here.";

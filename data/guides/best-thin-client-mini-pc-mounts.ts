@@ -1,5 +1,5 @@
 export const guideSlug = "best-thin-client-mini-pc-mounts";
-export const guideTitle = "5 Best Thin-Client Mini PC Mounts in 2026";
+export const guideTitle = "Best Thin-Client Mini PC Mounts";
 export const metaTitle = "Best Thin-Client Mini PC Mounts (2026)";
 export const metaDescription =
   "5 mounts we evaluated for thin-client and small form factor PC deployments, sized appropriately for lighter enterprise hardware.";

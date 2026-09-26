@@ -1,5 +1,5 @@
 export const guideSlug = "best-mackie-audio-interfaces";
-export const guideTitle = "8 Best Mackie Audio Interfaces in 2026";
+export const guideTitle = "Best Mackie Audio Interfaces";
 export const metaTitle = "Best Mackie Audio Interfaces";
 export const metaDescription = "We compared mackie audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mackie audio interface";

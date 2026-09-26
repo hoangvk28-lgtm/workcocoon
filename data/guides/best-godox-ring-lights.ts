@@ -1,5 +1,5 @@
 export const guideSlug = "best-godox-ring-lights";
-export const guideTitle = "5 Best Godox Ring Lights in 2026";
+export const guideTitle = "Best Godox Ring Lights";
 export const metaTitle = "Best Godox Ring Lights";
 export const metaDescription = "We compared ring light godox models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light godox";

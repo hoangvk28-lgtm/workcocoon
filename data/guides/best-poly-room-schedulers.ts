@@ -1,5 +1,5 @@
 export const guideSlug = "best-poly-room-schedulers";
-export const guideTitle = "8 Best Poly Room Schedulers in 2026";
+export const guideTitle = "Best Poly Room Schedulers";
 export const metaTitle = "Best Poly Room Schedulers";
 export const metaDescription = "We compared poly meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "poly meeting room scheduler";

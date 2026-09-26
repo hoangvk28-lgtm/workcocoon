@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-gaming";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for Gaming and eGPU Setups in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for Gaming and eGPU Setups";
 export const metaTitle = "Best Thunderbolt 5 Docks for Gaming";
 export const metaDescription = "We compared Thunderbolt 5 gaming and eGPU docks by whether the graphics card, power supply, and PSU are included, since most enclosures sell those separately.";
 export const mainKeyword = "best thunderbolt 5 dock for gaming";

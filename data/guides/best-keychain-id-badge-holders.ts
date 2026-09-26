@@ -1,5 +1,5 @@
 export const guideSlug = "best-keychain-id-badge-holders";
-export const guideTitle = "6 Best Keychain ID Badge Holders in 2026";
+export const guideTitle = "Best Keychain ID Badge Holders";
 export const metaTitle = "Best Keychain ID Badge Holders";
 export const metaDescription = "We compared keychain id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "keychain id badge holders";

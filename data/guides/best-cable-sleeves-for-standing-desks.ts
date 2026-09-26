@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-sleeves-for-standing-desks";
-export const guideTitle = "6 Best Cable Sleeves for Standing Desks in 2026";
+export const guideTitle = "Best Cable Sleeves for Standing Desks";
 export const metaTitle = "Best Cable Sleeves for Standing Desks";
 export const metaDescription = "We compared cable sleeves for standing desks models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "cable sleeves for standing desks";

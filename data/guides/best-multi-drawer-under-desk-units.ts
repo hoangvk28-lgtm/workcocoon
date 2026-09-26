@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-drawer-under-desk-units";
-export const guideTitle = "8 Best Multi-Drawer Under-Desk Units in 2026";
+export const guideTitle = "Best Multi-Drawer Under-Desk Units";
 export const metaTitle = "Best Multi-Drawer Under-Desk Units";
 export const metaDescription = "We compared under desk drawer set models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under desk drawer set";

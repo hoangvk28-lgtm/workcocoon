@@ -1,5 +1,5 @@
 export const guideSlug = "best-honeywell-portable-air-conditioners";
-export const guideTitle = "8 Best Honeywell Portable Air Conditioners in 2026";
+export const guideTitle = "Best Honeywell Portable Air Conditioners";
 export const metaTitle = "Best Honeywell Portable Air Conditioners";
 export const metaDescription = "We compared honeywell portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "honeywell portable air conditioner";

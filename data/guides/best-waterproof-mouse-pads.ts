@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-mouse-pads";
-export const guideTitle = "8 Best Waterproof Mouse Pads in 2026";
+export const guideTitle = "Best Waterproof Mouse Pads";
 export const metaTitle = "Best Waterproof Mouse Pads";
 export const metaDescription = "We compared mouse pad waterproof models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse pad waterproof";

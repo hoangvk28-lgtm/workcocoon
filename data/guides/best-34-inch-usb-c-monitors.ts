@@ -1,5 +1,5 @@
 export const guideSlug = "best-34-inch-usb-c-monitors";
-export const guideTitle = "5 Best 34-Inch USB-C Monitors in 2026";
+export const guideTitle = "Best 34-Inch USB-C Monitors";
 export const metaTitle = "Best 34-Inch USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 34-inch USB-C monitors we evaluated, with a note that a 34-inch panel typically demands roughly a 30-inch minimum desk depth for comfortable viewing distance, measure before buying.";

@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-executive-office-chair";
 
 export const guideSlug = "best-executive-office-chair";
-export const guideTitle = "8 Best Executive Office Chairs in 2026";
+export const guideTitle = "Best Executive Office Chairs";
 export const metaTitle = "Best Executive Office Chairs 2026 - Leather & High-Back";
 export const metaDescription =
   "Best executive office chairs in 2026. High-back leather and premium fabric chairs ranked for home office setups by comfort and build quality.";

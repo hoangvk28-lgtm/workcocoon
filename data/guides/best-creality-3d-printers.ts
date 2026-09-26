@@ -1,5 +1,5 @@
 export const guideSlug = "best-creality-3d-printers";
-export const guideTitle = "5 Best Creality 3D Printers in 2026";
+export const guideTitle = "Best Creality 3D Printers";
 export const metaTitle = "Best Creality 3D Printers";
 export const metaDescription = "We compared creality 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "creality 3d printers";

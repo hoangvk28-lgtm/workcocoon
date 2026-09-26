@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-tape-dispensers";
-export const guideTitle = "6 Best Metal Tape Dispensers in 2026";
+export const guideTitle = "Best Metal Tape Dispensers";
 export const metaTitle = "Best Metal Tape Dispensers";
 export const metaDescription = "We compared metal tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "metal tape dispensers";

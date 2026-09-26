@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounting-brackets";
-export const guideTitle = "8 Best Mini PC Mounting Brackets in 2026";
+export const guideTitle = "Best Mini PC Mounting Brackets";
 export const metaTitle = "Best Mini PC Mounting Brackets (2026)";
 export const metaDescription =
   "8 Mini PC mounting brackets we compared for material strength and whether the listing includes full hardware or a bracket alone.";

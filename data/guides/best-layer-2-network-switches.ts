@@ -1,5 +1,5 @@
 export const guideSlug = "best-layer-2-network-switches";
-export const guideTitle = "6 Best Layer 2 Network Switches in 2026";
+export const guideTitle = "Best Layer 2 Network Switches";
 export const metaTitle = "Best Layer 2 Network Switches 2026";
 export const metaDescription = "Layer 2 switches handle VLAN tagging and traffic prioritization without inter-VLAN routing. We compared the current managed lineup.";
 export const mainKeyword = "layer 2 network switches";

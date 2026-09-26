@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-port-poe-extender";
-export const guideTitle = "4 Best 8-Port PoE Extenders in 2026";
+export const guideTitle = "Best 8-Port PoE Extenders";
 export const metaTitle = "Best 8-Port PoE Extenders";
 export const metaDescription = "An 8-port PoE extender is really a PoE+ switch with an Extend Mode toggle, and we compared how much bandwidth each listing sacrifices when that mode is enabled.";
 export const mainKeyword = "best 8 port poe extender";

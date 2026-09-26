@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-mounted-staplers";
-export const guideTitle = "6 Best Desk-Mounted Staplers in 2026";
+export const guideTitle = "Best Desk-Mounted Staplers";
 export const metaTitle = "Best Desk-Mounted Staplers";
 export const metaDescription = "We compared desk-mounted staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk-mounted staplers";

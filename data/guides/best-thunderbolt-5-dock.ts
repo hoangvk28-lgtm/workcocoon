@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock";
-export const guideTitle = "4 Best Thunderbolt 5 Docks in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks";
 export const metaTitle = "Best Thunderbolt 5 Docks in 2026";
 export const metaDescription = "We compared Thunderbolt 5 docks by real per-chip Apple Silicon display support and warranty coverage, since generic branding hides real per-model differences.";
 export const mainKeyword = "best thunderbolt 5 dock";

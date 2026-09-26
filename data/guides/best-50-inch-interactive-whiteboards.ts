@@ -1,5 +1,5 @@
 export const guideSlug = "best-50-inch-interactive-whiteboards";
-export const guideTitle = "5 Best 50-Inch Interactive Whiteboards";
+export const guideTitle = "Best 50-Inch Interactive Whiteboards";
 export const metaTitle = "Best 50-Inch Interactive Whiteboards";
 export const metaDescription = "50-inch is a specialty collaboration size. We verified true product availability and compared against nearby 43/55-inch alternatives.";
 export const mainKeyword = "50 inch interactive whiteboard";

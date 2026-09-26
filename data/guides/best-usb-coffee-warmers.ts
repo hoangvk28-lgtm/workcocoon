@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-coffee-warmers";
-export const guideTitle = "6 Best USB Coffee Warmers in 2026";
+export const guideTitle = "Best USB Coffee Warmers";
 export const metaTitle = "Best USB Coffee Warmers";
 export const metaDescription = "We compared usb coffee warmer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "usb coffee warmer";

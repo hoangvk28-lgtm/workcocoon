@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-under-300";
-export const guideTitle = "4 Best Office Chairs Under $300 in 2026";
+export const guideTitle = "Best Office Chairs Under $300";
 export const metaTitle = "Best Office Chairs Under $300";
 export const metaDescription = "We compared office chairs under $300 by recline mechanism, footrest design, and named brand backing, since genuinely premium features cluster at this tier.";
 export const mainKeyword = "best office chairs under $300";

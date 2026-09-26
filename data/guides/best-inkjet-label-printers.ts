@@ -1,5 +1,5 @@
 export const guideSlug = "best-inkjet-label-printers";
-export const guideTitle = "6 Best Inkjet Label Printers in 2026";
+export const guideTitle = "Best Inkjet Label Printers";
 export const metaTitle = "Best Inkjet Label Printers";
 export const metaDescription = "We compared inkjet label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "inkjet label printers";

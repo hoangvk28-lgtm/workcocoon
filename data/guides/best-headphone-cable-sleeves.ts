@@ -1,5 +1,5 @@
 export const guideSlug = "best-headphone-cable-sleeves";
-export const guideTitle = "3 Best Headphone Cable Sleeves in 2026";
+export const guideTitle = "Best Headphone Cable Sleeves";
 export const metaTitle = "Best Headphone Cable Sleeves";
 export const metaDescription = "We compared headphone cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "headphone cable sleeves";

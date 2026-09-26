@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-for-photography";
-export const guideTitle = "8 Best Ring Lights for Photography in 2026";
+export const guideTitle = "Best Ring Lights for Photography";
 export const metaTitle = "Best Ring Lights for Photography";
 export const metaDescription = "We compared a ring light for photography models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "a ring light for photography";

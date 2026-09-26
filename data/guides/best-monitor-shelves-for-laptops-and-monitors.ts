@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-for-laptops-and-monitors";
-export const guideTitle = "5 Best Monitor Shelves for Laptops and Monitors in 2026";
+export const guideTitle = "Best Monitor Shelves for Laptops and Monitors";
 export const metaTitle = "Best Monitor Shelves for Laptops and Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 monitor shelves for laptops and monitors we evaluated, with the genuine-dual-support verification competitors skip: some products genuinely support both simultaneously, others are a monitor riser or laptop stand marketed ambiguously as serving both.";

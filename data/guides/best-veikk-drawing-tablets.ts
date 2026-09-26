@@ -1,5 +1,5 @@
 export const guideSlug = "best-veikk-drawing-tablets";
-export const guideTitle = "5 Best VEIKK Drawing Tablets in 2026";
+export const guideTitle = "Best VEIKK Drawing Tablets";
 export const metaTitle = "Best VEIKK Drawing Tablets 2026";
 export const metaDescription = "We compared veikk drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "veikk drawing tablets";

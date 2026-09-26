@@ -1,5 +1,5 @@
 export const guideSlug = "best-affordable-drawing-tablets-with-screen";
-export const guideTitle = "5 Best Affordable Drawing Tablets With Screen in 2026";
+export const guideTitle = "Best Affordable Drawing Tablets With Screen";
 export const metaTitle = "Best Affordable Drawing Tablets With Screen 2026";
 export const metaDescription = "We compared affordable drawing tablets with screen by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "affordable drawing tablets with screen";

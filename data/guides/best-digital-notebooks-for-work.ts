@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-work";
-export const guideTitle = "7 Best Digital Notebooks for Work in 2026";
+export const guideTitle = "Best Digital Notebooks for Work";
 export const metaTitle = "Best Digital Notebooks for Work (2026)";
 export const metaDescription =
   "7 digital notebooks we evaluated for professional use, spanning reusable paper notebooks, e-ink tablets, and smart pen sets for meetings and notes.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headset-cases";
-export const guideTitle = "6 Best VR Headset Cases in 2026";
+export const guideTitle = "Best VR Headset Cases";
 export const metaTitle = "Best VR Headset Cases";
 export const metaDescription = "We compared vr headset cases models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "vr headset cases";

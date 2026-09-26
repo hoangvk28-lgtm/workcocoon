@@ -1,5 +1,5 @@
 export const guideSlug = "best-plugable-usb-c-ethernet-adapters";
-export const guideTitle = "5 Best Plugable USB-C Ethernet Adapters";
+export const guideTitle = "Best Plugable USB-C Ethernet Adapters";
 export const metaTitle = "Best Plugable USB-C Ethernet Adapters";
 export const metaDescription = "Plugable spans Gigabit, 2.5G, and 2.5G-with-charging models. We mapped the current lineup by speed and Nintendo Switch compatibility.";
 export const mainKeyword = "plugable usb-c ethernet adapters";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-frigidaire-portable-air-conditioners";
-export const guideTitle = "8 Best Frigidaire Portable Air Conditioners in 2026";
+export const guideTitle = "Best Frigidaire Portable Air Conditioners";
 export const metaTitle = "Best Frigidaire Portable Air Conditioners";
 export const metaDescription = "We compared portable air conditioner frigidaire models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "portable air conditioner frigidaire";

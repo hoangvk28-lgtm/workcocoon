@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-retractable-badge-holders";
-export const guideTitle = "6 Best Heavy-Duty Retractable Badge Holders in 2026";
+export const guideTitle = "Best Heavy-Duty Retractable Badge Holders";
 export const metaTitle = "Best Heavy-Duty Retractable Badge Holders";
 export const metaDescription = "We compared heavy-duty retractable badge holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "heavy-duty retractable badge holders";

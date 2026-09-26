@@ -1,5 +1,5 @@
 export const guideSlug = "best-gold-desk-clocks";
-export const guideTitle = "5 Best Gold Desk Clocks in 2026";
+export const guideTitle = "Best Gold Desk Clocks";
 export const metaTitle = "Best Gold Desk Clocks (2026)";
 export const metaDescription =
   "5 gold-finish desk clocks compared by actual material, metal versus plated, since \"gold\" in a product title doesn't guarantee solid metal construction.";

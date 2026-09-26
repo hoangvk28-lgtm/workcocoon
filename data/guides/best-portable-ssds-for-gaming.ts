@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-gaming";
-export const guideTitle = "4 Best Portable SSDs for PC Gaming in 2026";
+export const guideTitle = "Best Portable SSDs for PC Gaming";
 export const metaTitle = "Best Portable SSDs for PC Gaming";
 export const metaDescription = "4 portable SSDs we evaluated for PC gaming, covering Steam and Epic library migration, read speed for load times, and realistic capacity planning.";
 export const mainKeyword = "best portable ssd for pc gaming";

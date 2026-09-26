@@ -1,5 +1,5 @@
 export const guideSlug = "best-book-copy-holders";
-export const guideTitle = "6 Best Book Copy Holders in 2026";
+export const guideTitle = "Best Book Copy Holders";
 export const metaTitle = "Best Book Copy Holders";
 export const metaDescription = "We compared book copy holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "book copy holders";

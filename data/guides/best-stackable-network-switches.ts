@@ -1,5 +1,5 @@
 export const guideSlug = "best-stackable-network-switches";
-export const guideTitle = "5 Best Stackable Network Switches in 2026";
+export const guideTitle = "Best Stackable Network Switches";
 export const metaTitle = "Best Stackable Network Switches 2026";
 export const metaDescription = "True hardware stacking is mostly an enterprise feature. We separated genuine stacking switches from controller-managed alternatives.";
 export const mainKeyword = "stackable network switches";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-oscillating-space-heaters";
-export const guideTitle = "8 Best Oscillating Space Heaters in 2026";
+export const guideTitle = "Best Oscillating Space Heaters";
 export const metaTitle = "Best Oscillating Space Heaters";
 export const metaDescription = "We compared space heater oscillating models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater oscillating";

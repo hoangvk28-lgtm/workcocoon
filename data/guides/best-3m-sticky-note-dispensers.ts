@@ -1,5 +1,5 @@
 export const guideSlug = "best-3m-sticky-note-dispensers";
-export const guideTitle = "6 Best 3M Sticky Note Dispensers in 2026";
+export const guideTitle = "Best 3M Sticky Note Dispensers";
 export const metaTitle = "Best 3M Sticky Note Dispensers";
 export const metaDescription = "We compared 3m sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "3m sticky note dispensers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-hard-drives-for-home-office-storage";
-export const guideTitle = "8 Best NAS Hard Drives for Home Office Storage in 2026";
+export const guideTitle = "Best NAS Hard Drives for Home Office Storage";
 export const metaTitle = "Best NAS Hard Drives for Home Office Storage in 2026";
 export const metaDescription =
   "8 best NAS hard drives and NAS enclosures for home office storage in 2026, covering CMR drives, diskless bays, and drives-included bundles. Compare capacity and workload ratings.";

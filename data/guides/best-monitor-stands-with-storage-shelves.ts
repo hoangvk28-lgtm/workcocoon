@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-stands-with-storage-shelves";
-export const guideTitle = "6 Best Monitor Stands with Storage Shelves in 2026";
+export const guideTitle = "Best Monitor Stands with Storage Shelves";
 export const metaTitle = "Best Monitor Stands with Storage Shelves";
 export const metaDescription = "We compared monitor stands with storage shelves models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "monitor stands with storage shelves";

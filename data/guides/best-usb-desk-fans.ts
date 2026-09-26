@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-desk-fans";
-export const guideTitle = "8 Best USB Desk Fans in 2026";
+export const guideTitle = "Best USB Desk Fans";
 export const metaTitle = "Best USB Desk Fans";
 export const metaDescription = "We compared desk fan usb models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan usb";

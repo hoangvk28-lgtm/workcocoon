@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-displays-for-desks";
-export const guideTitle = "5 Best Smart Displays for Desks in 2026";
+export const guideTitle = "Best Smart Displays for Desks";
 export const metaTitle = "Best Smart Displays for Desks (2026)";
 export const metaDescription =
   "5 smart displays evaluated for desk use, covering Alexa and Google Assistant models from compact 7 inch screens up to a motorized 10 inch pick.";

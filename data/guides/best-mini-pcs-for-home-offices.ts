@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-home-offices";
-export const guideTitle = "4 Best Mini PCs for Home Offices in 2026";
+export const guideTitle = "Best Mini PCs for Home Offices";
 export const metaTitle = "Best Mini PCs for Home Offices (2026)";
 export const metaDescription =
   "4 mini PCs for home offices we evaluated, weighing everyday reliability and multitasking headroom over raw benchmark scores.";

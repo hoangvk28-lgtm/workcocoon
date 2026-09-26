@@ -1,5 +1,5 @@
 export const guideSlug = "best-fast-charging-power-banks";
-export const guideTitle = "7 Best Fast-Charging Power Banks in 2026";
+export const guideTitle = "Best Fast-Charging Power Banks";
 export const metaTitle = "Best Fast-Charging Power Banks";
 export const metaDescription = "We compared power bank with fast charging models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "power bank with fast charging";

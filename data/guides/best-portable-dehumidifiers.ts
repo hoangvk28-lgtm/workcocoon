@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-dehumidifiers";
-export const guideTitle = "8 Best Portable Dehumidifiers in 2026";
+export const guideTitle = "Best Portable Dehumidifiers";
 export const metaTitle = "Best Portable Dehumidifiers";
 export const metaDescription = "We compared dehumidifier portable models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier portable";

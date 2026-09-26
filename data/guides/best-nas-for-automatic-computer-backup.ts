@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-for-automatic-computer-backup";
-export const guideTitle = "8 Best NAS for Automatic Computer Backup in 2026";
+export const guideTitle = "Best NAS for Automatic Computer Backup";
 export const metaTitle = "Best NAS for Automatic Computer Backup in 2026 (Set-and-Forget Picks)";
 export const metaDescription =
   "8 best NAS devices for automatic computer backup in 2026, from a $199 diskless 2-bay to a 5-core 4-bay for multiple PCs. Compare quotas, RAID, and setup time.";

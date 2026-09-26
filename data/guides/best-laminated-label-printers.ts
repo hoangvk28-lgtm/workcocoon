@@ -1,5 +1,5 @@
 export const guideSlug = "best-laminated-label-printers";
-export const guideTitle = "6 Best Laminated Label Printers in 2026";
+export const guideTitle = "Best Laminated Label Printers";
 export const metaTitle = "Best Laminated Label Printers";
 export const metaDescription = "We compared laminated label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "laminated label printers";

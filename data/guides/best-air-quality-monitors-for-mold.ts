@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-for-mold";
-export const guideTitle = "8 Best Air Quality Monitors for Mold in 2026";
+export const guideTitle = "Best Air Quality Monitors for Mold";
 export const metaTitle = "Best Air Quality Monitors for Mold";
 export const metaDescription = "We compared air quality monitor for mold models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "air quality monitor for mold";

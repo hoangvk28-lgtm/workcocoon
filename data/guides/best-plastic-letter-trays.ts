@@ -1,5 +1,5 @@
 export const guideSlug = "best-plastic-letter-trays";
-export const guideTitle = "6 Best Plastic Letter Trays in 2026";
+export const guideTitle = "Best Plastic Letter Trays";
 export const metaTitle = "Best Plastic Letter Trays";
 export const metaDescription = "We compared plastic letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "plastic letter trays";

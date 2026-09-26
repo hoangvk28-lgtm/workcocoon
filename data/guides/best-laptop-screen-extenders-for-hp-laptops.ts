@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-for-hp-laptops";
-export const guideTitle = "5 Best Laptop Screen Extenders for HP Laptops in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for HP Laptops";
 export const metaTitle = "Best Laptop Screen Extenders for HP Laptops, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders we evaluated for HP laptops, with the EliteBook-versus-Pavilion port variance competitors skip: HP's business EliteBook and consumer Pavilion/Envy lines have different USB-C power delivery specs worth checking before buying.";

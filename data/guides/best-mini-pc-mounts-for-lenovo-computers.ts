@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-for-lenovo-computers";
-export const guideTitle = "5 Best Mini PC Mounts for Lenovo Computers in 2026";
+export const guideTitle = "Best Mini PC Mounts for Lenovo Computers";
 export const metaTitle = "Best Mini PC Mounts for Lenovo Computers (2026)";
 export const metaDescription =
   "Honest finding: current listings are universal VESA brackets, not Lenovo-exclusive accessories, though Lenovo also publishes its own official ThinkCentre Tiny mounting options.";

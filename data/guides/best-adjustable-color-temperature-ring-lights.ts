@@ -1,5 +1,5 @@
 export const guideSlug = "best-adjustable-color-temperature-ring-lights";
-export const guideTitle = "8 Best Adjustable Color Temperature Ring Lights in 2026";
+export const guideTitle = "Best Adjustable Color Temperature Ring Lights";
 export const metaTitle = "Best Adjustable Color Temperature Ring Lights";
 export const metaDescription = "We compared ring light color options models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ring light color options";

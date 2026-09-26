@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safe-boxes";
-export const guideTitle = "8 Best Small Safe Boxes in 2026";
+export const guideTitle = "Best Small Safe Boxes";
 export const metaTitle = "Best Small Safe Boxes (2026)";
 export const metaDescription =
   "8 safe boxes compared by actual construction type, mountable steel security boxes versus lighter portable lockboxes, since the two aren't equally theft-resistant.";

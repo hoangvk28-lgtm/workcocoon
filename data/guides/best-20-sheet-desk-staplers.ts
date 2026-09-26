@@ -1,5 +1,5 @@
 export const guideSlug = "best-20-sheet-desk-staplers";
-export const guideTitle = "5 Best 20-Sheet Desk Staplers in 2026";
+export const guideTitle = "Best 20-Sheet Desk Staplers";
 export const metaTitle = "Best 20-Sheet Desk Staplers";
 export const metaDescription = "We compared 20-sheet desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "20-sheet desk staplers";

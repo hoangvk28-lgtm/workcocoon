@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-tables-for-home-offices";
-export const guideTitle = "8 Best Printer Tables for Home Offices in 2026";
+export const guideTitle = "Best Printer Tables for Home Offices";
 export const metaTitle = "Best Printer Tables for Home Offices in 2026 (With Storage)";
 export const metaDescription =
   "8 best printer tables for home offices in 2026, compared on tabletop size, storage, cable clearance, and weight capacity, from rolling carts to file-cabinet tables.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-drawing-tablets";
-export const guideTitle = "5 Best Portable Drawing Tablets in 2026";
+export const guideTitle = "Best Portable Drawing Tablets";
 export const metaTitle = "Best Portable Drawing Tablets 2026";
 export const metaDescription = "We compared portable drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "portable drawing tablets";

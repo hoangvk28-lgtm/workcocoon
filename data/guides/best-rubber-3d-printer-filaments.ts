@@ -1,5 +1,5 @@
 export const guideSlug = "best-rubber-3d-printer-filaments";
-export const guideTitle = "6 Best Rubber 3D Printer Filaments in 2026";
+export const guideTitle = "Best Rubber 3D Printer Filaments";
 export const metaTitle = "Best Rubber 3D Printer Filaments";
 export const metaDescription = "We compared rubber 3d printer filaments models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "rubber 3d printer filaments";

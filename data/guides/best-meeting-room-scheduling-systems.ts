@@ -1,5 +1,5 @@
 export const guideSlug = "best-meeting-room-scheduling-systems";
-export const guideTitle = "8 Best Meeting Room Scheduling Systems in 2026";
+export const guideTitle = "Best Meeting Room Scheduling Systems";
 export const metaTitle = "Best Meeting Room Scheduling Systems";
 export const metaDescription = "We compared meeting room scheduling system models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "meeting room scheduling system";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protector-power-strips";
-export const guideTitle = "6 Best Surge Protector Power Strips in 2026";
+export const guideTitle = "Best Surge Protector Power Strips";
 export const metaTitle = "Best Surge Protector Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 surge protector power strips we evaluated, with the mechanism competitors almost never explain: joule rating is a cumulative lifetime capacity, not a per-surge rating, and MOV components degrade with each surge absorbed.";

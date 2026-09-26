@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-under-300";
-export const guideTitle = "4 Best Portable SSDs Under $300 in 2026";
+export const guideTitle = "Best Portable SSDs Under $300";
 export const metaTitle = "Best Portable SSDs Under $300 (2026)";
 export const metaDescription = "We compared portable SSDs under $300 by real capacity per dollar at the 2TB tier, USB generation, and brand track record.";
 export const mainKeyword = "best portable ssds under $300";

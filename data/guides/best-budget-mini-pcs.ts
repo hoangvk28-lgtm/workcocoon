@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-mini-pcs";
-export const guideTitle = "5 Best Budget Mini PCs in 2026";
+export const guideTitle = "Best Budget Mini PCs";
 export const metaTitle = "Best Budget Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 budget mini PCs we evaluated, with a note that a lower price often means a smaller SSD and less RAM, verify these specs actually cover your real usage before assuming any cheap mini PC is a good value.";

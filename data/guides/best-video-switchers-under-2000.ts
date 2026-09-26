@@ -1,5 +1,5 @@
 export const guideSlug = "best-video-switchers-under-2000";
-export const guideTitle = "8 Best Video Switchers Under $2000 in 2026";
+export const guideTitle = "Best Video Switchers Under $2000";
 export const metaTitle = "Best Video Switchers Under $2000 in 2026";
 export const metaDescription = "We compared best video switchers under $2000 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "video switchers under $2000";

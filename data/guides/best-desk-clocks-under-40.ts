@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-under-40";
-export const guideTitle = "4 Best Desk Clocks Under $40 in 2026";
+export const guideTitle = "Best Desk Clocks Under $40";
 export const metaTitle = "Best Desk Clocks Under $40";
 export const metaDescription = "We compared desk clocks under $40 by wireless outdoor sensor range, weather forecast accuracy, and multi-sensor expandability for home weather stations.";
 export const mainKeyword = "best desk clocks under $40";

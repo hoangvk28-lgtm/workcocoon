@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-4k-monitors";
-export const guideTitle = "6 Best USB-C 4K Monitors in 2026";
+export const guideTitle = "Best USB-C 4K Monitors";
 export const metaTitle = "Best USB-C 4K Monitors";
 export const metaDescription = "We compared usb-c 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "usb-c 4k monitors";

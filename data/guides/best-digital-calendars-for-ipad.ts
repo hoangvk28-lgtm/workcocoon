@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-calendars-for-ipad";
-export const guideTitle = "4 Best Digital Calendars for iPad Users in 2026";
+export const guideTitle = "Best Digital Calendars for iPad Users";
 export const metaTitle = "Best Digital Calendars for iPad Users";
 export const metaDescription =
   "None of these standalone digital calendars are iPad accessories. We clarify that upfront and cover the closest genuine ambient display options.";

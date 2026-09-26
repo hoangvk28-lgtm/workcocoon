@@ -1,5 +1,5 @@
 export const guideSlug = "best-dimmable-ring-lights";
-export const guideTitle = "8 Best Dimmable Ring Lights in 2026";
+export const guideTitle = "Best Dimmable Ring Lights";
 export const metaTitle = "Best Dimmable Ring Lights";
 export const metaDescription = "We compared ring light dimmable models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light dimmable";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-5-bay-direct-attached-storage";
-export const guideTitle = "6 Best 5-Bay Direct-Attached Storage";
+export const guideTitle = "Best 5-Bay Direct-Attached Storage";
 export const metaTitle = "Best 5-Bay Direct-Attached Storage";
 export const metaDescription = "5-bay DAS has a credible SATA/RAID product pool useful for RAID 5-style capacity planning. We compared the current lineup.";
 export const mainKeyword = "5-bay direct-attached storage";

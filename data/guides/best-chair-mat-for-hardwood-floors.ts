@@ -1,5 +1,5 @@
 export const guideSlug = "best-chair-mat-for-hardwood-floors";
-export const guideTitle = "8 Best Chair Mats for Hardwood Floors in 2026";
+export const guideTitle = "Best Chair Mats Safe for Hardwood Floors";
 export const metaTitle = "Best Chair Mat for Hardwood Floors in 2026 (Won't Damage the Finish)";
 export const metaDescription =
   "8 best chair mats for hardwood floors in 2026, including glass-hardness and PET options that won't react with your floor's finish over time.";

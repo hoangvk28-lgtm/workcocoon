@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-with-100w-charging";
-export const guideTitle = "7 Best USB-C Ethernet Adapters With 100W Charging";
+export const guideTitle = "Best USB-C Ethernet Adapters With 100W Charging";
 export const metaTitle = "Best Ethernet Adapters with 100W Charging";
 export const metaDescription = "100W is a meaningful PD threshold, but the adapter's input rating isn't the same as what reaches your host after its own power draw.";
 export const mainKeyword = "usb-c ethernet adapters with 100w charging";

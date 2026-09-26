@@ -1,5 +1,5 @@
 export const guideSlug = "best-zippered-business-card-holders";
-export const guideTitle = "6 Best Zippered Business Card Holders in 2026";
+export const guideTitle = "Best Zippered Business Card Holders";
 export const metaTitle = "Best Zippered Business Card Holders";
 export const metaDescription = "We compared zippered business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "zippered business card holders";

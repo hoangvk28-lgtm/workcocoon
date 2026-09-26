@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-whole-house";
-export const guideTitle = "8 Best Dehumidifiers for Whole House in 2026";
+export const guideTitle = "Best Dehumidifiers for Whole House";
 export const metaTitle = "Best Dehumidifiers for Whole House";
 export const metaDescription = "We compared whole house dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "whole house dehumidifier";

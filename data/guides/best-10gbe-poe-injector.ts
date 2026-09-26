@@ -1,5 +1,5 @@
 export const guideSlug = "best-10gbe-poe-injector";
-export const guideTitle = "4 Best 10GbE PoE Injectors in 2026";
+export const guideTitle = "Best 10GbE PoE Injectors";
 export const metaTitle = "Best 10GbE PoE Injectors";
 export const metaDescription = "We compared 10GbE PoE injectors by real named device compatibility, since one targets eero and UniFi hardware while another names Cudy's own high-power APs.";
 export const mainKeyword = "best 10gbe poe injector";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-locking-office-credenzas";
-export const guideTitle = "8 Best Locking Office Credenzas in 2026";
+export const guideTitle = "Best Locking Office Credenzas";
 export const metaTitle = "Best Locking Office Credenzas 2026";
 export const metaDescription = "We compared locking office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "locking office credenzas";

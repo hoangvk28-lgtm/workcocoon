@@ -1,5 +1,5 @@
 export const guideSlug = "best-qidi-3d-printers";
-export const guideTitle = "6 Best QIDI 3D Printers in 2026";
+export const guideTitle = "Best QIDI 3D Printers";
 export const metaTitle = "Best QIDI 3D Printers";
 export const metaDescription = "We compared qidi 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "qidi 3d printers";

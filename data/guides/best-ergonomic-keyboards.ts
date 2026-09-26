@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards";
-export const guideTitle = "7 Best Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Everyday Typing";
 export const metaTitle = "Best Ergonomic Keyboards in 2026 (Wave, Split & Curved Picks)";
 export const metaDescription =
   "7 best ergonomic keyboards in 2026, from wave-style options to true split layouts. Compare tenting range, wrist support, and price before you switch.";

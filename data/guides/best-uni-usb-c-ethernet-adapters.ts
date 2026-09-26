@@ -1,5 +1,5 @@
 export const guideSlug = "best-uni-usb-c-ethernet-adapters";
-export const guideTitle = "4 Best uni USB-C Ethernet Adapters";
+export const guideTitle = "Best uni USB-C Ethernet Adapters";
 export const metaTitle = "Best uni USB-C Ethernet Adapters";
 export const metaDescription = "uni spans Gigabit through 2.5Gbps adapters, including PD-charging and 4-in-1 hub variants. We mapped the current lineup.";
 export const mainKeyword = "uni usb-c ethernet adapters";

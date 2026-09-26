@@ -1,5 +1,5 @@
 export const guideSlug = "best-cpu-bottom-stands";
-export const guideTitle = "6 Best CPU Bottom Stands in 2026";
+export const guideTitle = "Best CPU Bottom Stands";
 export const metaTitle = "Best CPU Bottom Stands";
 export const metaDescription = "We compared cpu bottom stands models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "cpu bottom stands";

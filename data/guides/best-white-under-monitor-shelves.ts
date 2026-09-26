@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-under-monitor-shelves";
-export const guideTitle = "6 Best White Under-Monitor Shelves in 2026";
+export const guideTitle = "Best White Under-Monitor Shelves";
 export const metaTitle = "Best White Under-Monitor Shelves";
 export const metaDescription = "We compared white under-monitor shelves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "white under-monitor shelves";

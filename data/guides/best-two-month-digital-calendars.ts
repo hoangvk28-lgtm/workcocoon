@@ -1,5 +1,5 @@
 export const guideSlug = "best-two-month-digital-calendars";
-export const guideTitle = "3 Best Two-Month Digital Calendars in 2026";
+export const guideTitle = "Best Two-Month Digital Calendars";
 export const metaTitle = "Best Two-Month Digital Calendars (2026)";
 export const metaDescription =
   "No verified digital calendar here has a literal two-month view. We explain that gap and cover the closest large-format digital alternatives.";

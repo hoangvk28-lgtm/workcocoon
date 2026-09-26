@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-organizer-sets-with-staplers";
-export const guideTitle = "6 Best Desk Organizer Sets with Staplers in 2026";
+export const guideTitle = "Best Desk Organizer Sets with Staplers";
 export const metaTitle = "Best Desk Organizer Sets with Staplers";
 export const metaDescription = "We compared desk organizer sets with staplers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "desk organizer sets with staplers";

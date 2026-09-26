@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-plastic-file-boxes-with-handles";
-export const guideTitle = "5 Best Portable Plastic File Boxes with Handles in 2026";
+export const guideTitle = "Best Portable Plastic File Boxes with Handles";
 export const metaTitle = "Best Portable Plastic File Boxes with Handles (2026)";
 export const metaDescription =
   "5 plastic file boxes with real handles and hanging-folder support, from budget clear totes to a heavier-duty organizer, compared across a wide price range.";

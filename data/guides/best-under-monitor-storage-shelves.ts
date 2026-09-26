@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-monitor-storage-shelves";
-export const guideTitle = "6 Best Under-Monitor Storage Shelves in 2026";
+export const guideTitle = "Best Under-Monitor Storage Shelves";
 export const metaTitle = "Best Under-Monitor Storage Shelves";
 export const metaDescription = "We compared under-monitor storage shelves models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under-monitor storage shelves";

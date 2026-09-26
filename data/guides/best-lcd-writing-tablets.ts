@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets";
-export const guideTitle = "7 Best LCD Writing Tablets in 2026";
+export const guideTitle = "Best LCD Writing Tablets";
 export const metaTitle = "Best LCD Writing Tablets (2026)";
 export const metaDescription =
   "7 LCD writing tablets we evaluated for note-taking, sketching, and memo use, covering size, battery type, and what erase-only screens can and cannot do.";

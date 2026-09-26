@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engravers-under-700";
-export const guideTitle = "6 Best Laser Engravers Under $700 in 2026";
+export const guideTitle = "Best Laser Engravers Under $700";
 export const metaTitle = "Best Laser Engravers Under $700 in 2026";
 export const metaDescription = "We compared best laser engravers under $700 by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "laser engravers under $700";

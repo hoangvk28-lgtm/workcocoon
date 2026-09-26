@@ -1,5 +1,5 @@
 export const guideSlug = "best-lightweight-vr-headsets";
-export const guideTitle = "6 Best Lightweight VR Headsets in 2026";
+export const guideTitle = "Best Lightweight VR Headsets";
 export const metaTitle = "Best Lightweight VR Headsets";
 export const metaDescription = "We compared lightweight vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "lightweight vr headsets";

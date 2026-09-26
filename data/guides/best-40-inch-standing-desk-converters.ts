@@ -1,5 +1,5 @@
 export const guideSlug = "best-40-inch-standing-desk-converters";
-export const guideTitle = "5 Best 40-Inch Standing Desk Converters in 2026";
+export const guideTitle = "Best 40-Inch Standing Desk Converters";
 export const metaTitle = "Best 40-Inch Standing Desk Converters (2026)";
 export const metaDescription =
   "5 converters confirmed at genuine 40 inch platform width, sized between the more common 36 and 42 inch tiers for a specific fit.";

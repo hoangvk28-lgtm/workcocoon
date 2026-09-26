@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizer-boxes-for-desks";
-export const guideTitle = "6 Best Cord Organizer Boxes for Desks in 2026";
+export const guideTitle = "Best Cord Organizer Boxes for Desks";
 export const metaTitle = "Best Cord Organizer Boxes for Desks";
 export const metaDescription = "We compared cord organizer boxes for desks models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "cord organizer boxes for desks";

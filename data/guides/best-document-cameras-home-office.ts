@@ -1,7 +1,7 @@
 const BASE = "/guides/best-document-cameras-home-office";
 
 export const guideSlug = "best-document-cameras-home-office";
-export const guideTitle = "7 Best Document Cameras for Home Office and Teaching in 2026";
+export const guideTitle = "Best Document Cameras for Home Office and Teaching";
 export const metaTitle = "7 Best Document Cameras for Home Office and Teaching 2026";
 export const metaDescription =
   "7 best document cameras for home office workers and teachers in 2026, from $50 to $200. USB, HDMI, OCR, and wireless options compared and ranked.";

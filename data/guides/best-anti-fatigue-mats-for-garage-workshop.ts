@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-fatigue-mats-for-garage-workshop";
-export const guideTitle = "8 Best Anti-Fatigue Mats for Garage/Workshop in 2026";
+export const guideTitle = "Best Anti-Fatigue Mats for Garage/Workshop";
 export const metaTitle = "Best Anti-Fatigue Mats for Garage/Workshop";
 export const metaDescription = "We compared anti fatigue mat industrial models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "anti fatigue mat industrial";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desk-organizers";
-export const guideTitle = "8 Best Corner Desk Organizers in 2026";
+export const guideTitle = "Best Corner Desk Organizers";
 export const metaTitle = "Best Corner Desk Organizers";
 export const metaDescription = "We compared corner desk organizer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk organizer";

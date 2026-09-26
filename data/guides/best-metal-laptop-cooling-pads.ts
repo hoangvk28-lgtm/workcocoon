@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-laptop-cooling-pads";
-export const guideTitle = "8 Best Metal Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Metal Laptop Cooling Pads";
 export const metaTitle = "Best Metal Laptop Cooling Pads (2026)";
 export const metaDescription =
   "8 laptop cooling pads checked for genuine aluminum or steel construction versus a metal-look mesh top, with weight and noise tradeoffs explained.";

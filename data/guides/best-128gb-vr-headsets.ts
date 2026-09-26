@@ -1,5 +1,5 @@
 export const guideSlug = "best-128gb-vr-headsets";
-export const guideTitle = "6 Best 128GB VR Headsets in 2026";
+export const guideTitle = "Best 128GB VR Headsets";
 export const metaTitle = "Best 128GB VR Headsets";
 export const metaDescription = "We compared 128gb vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "128gb vr headsets";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-in-1-mug-warmer-and-charger-combos";
-export const guideTitle = "6 Best 2-in-1 Mug Warmer and Charger Combos in 2026";
+export const guideTitle = "Best 2-in-1 Mug Warmer and Charger Combos";
 export const metaTitle = "Best 2-in-1 Mug Warmer and Charger Combos";
 export const metaDescription = "We compared 2-in-1 mug warmer and charger combos models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "2-in-1 mug warmer and charger combos";

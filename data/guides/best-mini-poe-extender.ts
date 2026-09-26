@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-poe-extender";
-export const guideTitle = "4 Best Mini PoE Extenders in 2026";
+export const guideTitle = "Best Mini PoE Extenders";
 export const metaTitle = "Best Mini PoE Extenders";
 export const metaDescription = "We compared mini PoE extenders by real distance and power delivery, since one compact unit reaches 2,624ft over just two wires with no remote power needed.";
 export const mainKeyword = "best mini poe extender";

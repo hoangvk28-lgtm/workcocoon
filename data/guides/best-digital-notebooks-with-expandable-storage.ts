@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-expandable-storage";
-export const guideTitle = "5 Best Digital Notebooks with Expandable Storage in 2026";
+export const guideTitle = "Best Digital Notebooks with Expandable Storage";
 export const metaTitle = "Best Digital Notebooks with Expandable Storage (2026)";
 export const metaDescription =
   "Honest disclosure: true removable-card expandable storage is rare on premium E Ink notebooks. We ranked by actual fixed storage tier instead, since that's the real lever available on most current devices.";

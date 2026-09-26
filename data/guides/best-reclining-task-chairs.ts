@@ -1,5 +1,5 @@
 export const guideSlug = "best-reclining-task-chairs";
-export const guideTitle = "8 Best Reclining Task Chairs in 2026";
+export const guideTitle = "Best Reclining Task Chairs";
 export const metaTitle = "Best Reclining Task Chairs";
 export const metaDescription = "We compared task chair that reclines models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair that reclines";

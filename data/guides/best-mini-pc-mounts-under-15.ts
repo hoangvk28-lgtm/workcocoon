@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-under-15";
-export const guideTitle = "4 Best Mini PC Mounts Under $15 in 2026";
+export const guideTitle = "Best Mini PC Mounts Under $15";
 export const metaTitle = "Best Mini PC Mounts Under $15";
 export const metaDescription = "We compared mini PC mounts under $15 by VESA compatibility, device fit, and mounting hardware, since most picks at this price are simple extension plates.";
 export const mainKeyword = "best mini pc mounts under $15";

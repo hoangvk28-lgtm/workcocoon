@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-for-accountants";
-export const guideTitle = "6 Best Document Scanners for Accountants in 2026";
+export const guideTitle = "Best Document Scanners for Accountants";
 export const metaTitle = "Best Document Scanners for Accountants, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 scanners we evaluated for accounting workflows, with a note that tax-season volume spikes require duty cycle headroom far above average monthly use, a seasonality factor generic speed comparisons ignore.";

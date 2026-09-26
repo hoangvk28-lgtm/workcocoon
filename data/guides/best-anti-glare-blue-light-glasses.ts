@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-glare-blue-light-glasses";
-export const guideTitle = "6 Best Anti-Glare Blue Light Glasses in 2026";
+export const guideTitle = "Best Anti-Glare Blue Light Glasses";
 export const metaTitle = "Best Anti-Glare Blue Light Glasses";
 export const metaDescription = "We compared anti glare blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "anti glare blue light glasses";

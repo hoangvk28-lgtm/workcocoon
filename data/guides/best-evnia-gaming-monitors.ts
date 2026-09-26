@@ -1,5 +1,5 @@
 export const guideSlug = "best-evnia-gaming-monitors";
-export const guideTitle = "6 Best Evnia Gaming Monitors in 2026";
+export const guideTitle = "Best Evnia Gaming Monitors";
 export const metaTitle = "Best Evnia Gaming Monitors";
 export const metaDescription = "We compared evnia gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "evnia gaming monitors";

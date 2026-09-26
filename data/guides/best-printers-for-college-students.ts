@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-college-students";
-export const guideTitle = "8 Best Printers for College Students in 2026";
+export const guideTitle = "Best Printers for College Students";
 export const metaTitle = "Best Printers for College Students in 2026 (By Major & Budget)";
 export const metaDescription =
   "8 best printers for college students in 2026, matched to major, semester print volume, and device compatibility. Compare cost-per-page and scan features.";

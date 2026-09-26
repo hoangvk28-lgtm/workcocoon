@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-between-washer-and-dryer";
-export const guideTitle = "8 Best Storage Carts Between Washer and Dryer in 2026";
+export const guideTitle = "Best Storage Carts Between Washer and Dryer";
 export const metaTitle = "Best Storage Carts Between Washer and Dryer";
 export const metaDescription = "We compared storage cart between washer & dryer models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "storage cart between washer & dryer";

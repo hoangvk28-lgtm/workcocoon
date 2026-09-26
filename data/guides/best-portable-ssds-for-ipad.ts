@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-ipad";
-export const guideTitle = "5 Best Portable SSDs for iPad in 2026";
+export const guideTitle = "Best Portable SSDs for iPad";
 export const metaTitle = "Best Portable SSDs for iPad, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable SSDs we evaluated for iPad, with the read/write-versus-read-only distinction competitors skip: USB-C iPad models vary in whether they support full external drive read/write or read-only access within certain apps.";

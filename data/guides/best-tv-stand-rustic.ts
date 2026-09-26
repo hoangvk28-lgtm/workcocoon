@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-rustic";
-export const guideTitle = "8 Best Rustic TV Stands (Farmhouse Style) in 2026";
+export const guideTitle = "Best Rustic TV Stands (Farmhouse Style)";
 export const metaTitle = "Best Rustic TV Stands 2026, Farmhouse & Barn Door Picks";
 export const metaDescription =
   "Best rustic and farmhouse TV stands in 2026. Sliding barn door, reclaimed barnwood, and industrial picks ranked by storage, finish, and TV size fit.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-projector-screens-under-50";
-export const guideTitle = "4 Best Projector Screens Under $50 in 2026";
+export const guideTitle = "Best Projector Screens Under $50";
 export const metaTitle = "Best Projector Screens Under $50";
 export const metaDescription = "We compared projector screens under $50 by backing layer, stand inclusion, and support policy, since black-backed contrast screens appear at this tier.";
 export const mainKeyword = "best projector screens under $50";

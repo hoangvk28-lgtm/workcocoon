@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-mechanical-keyboard-switches";
-export const guideTitle = "8 Best Quiet Mechanical Keyboard Switches (Buying Guide) in 2026";
+export const guideTitle = "Best Quiet Mechanical Keyboard Switches";
 export const metaTitle = "Best Quiet Mechanical Keyboard Switches in 2026 (Buying Guide)";
 export const metaDescription =
   "8 keyboards evaluated by switch type for quiet typing in 2026, covering silent linear, tactile brown, linear red, and low-profile quiet options.";

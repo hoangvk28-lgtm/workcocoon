@@ -1,5 +1,5 @@
 export const guideSlug = "best-freestanding-murphy-beds";
-export const guideTitle = "8 Best Freestanding Murphy Beds in 2026";
+export const guideTitle = "Best Freestanding Murphy Beds";
 export const metaTitle = "Best Freestanding Murphy Beds in 2026 (Renter-Friendly Reality Check)";
 export const metaDescription =
   "8 freestanding murphy beds compared with an honest look at anchor requirements, renter lease reality, cabinet weight stability, and mattress compatibility before you buy.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-lock-adapters";
-export const guideTitle = "6 Best Laptop Lock Adapters in 2026";
+export const guideTitle = "Best Laptop Lock Adapters";
 export const metaTitle = "Best Laptop Lock Adapters (2026)";
 export const metaDescription =
   "6 lock-slot adapters compared by attachment method and downstream cable-lock standard, since adapters solve the no-slot problem differently.";

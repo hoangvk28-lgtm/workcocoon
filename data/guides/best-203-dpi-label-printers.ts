@@ -1,5 +1,5 @@
 export const guideSlug = "best-203-dpi-label-printers";
-export const guideTitle = "6 Best 203 DPI Label Printers in 2026";
+export const guideTitle = "Best 203 DPI Label Printers";
 export const metaTitle = "Best 203 DPI Label Printers";
 export const metaDescription = "We compared 203 dpi label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "203 dpi label printers";

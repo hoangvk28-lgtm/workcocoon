@@ -1,5 +1,5 @@
 export const guideSlug = "best-low-noise-tape-dispensers";
-export const guideTitle = "6 Best Low-Noise Tape Dispensers in 2026";
+export const guideTitle = "Best Low-Noise Tape Dispensers";
 export const metaTitle = "Best Low-Noise Tape Dispensers";
 export const metaDescription = "We compared low-noise tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "low-noise tape dispensers";

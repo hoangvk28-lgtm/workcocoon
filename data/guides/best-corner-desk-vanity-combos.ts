@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desk-vanity-combos";
-export const guideTitle = "8 Best Corner Desk Vanity Combos in 2026";
+export const guideTitle = "Best Corner Desk Vanity Combos";
 export const metaTitle = "Best Corner Desk Vanity Combos";
 export const metaDescription = "We compared corner desk vanity models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desk vanity";

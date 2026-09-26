@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pads-for-dual-monitor-setups";
-export const guideTitle = "8 Best Desk Pads for Dual Monitor Setups in 2026";
+export const guideTitle = "Best Desk Pads for Dual Monitor Setups";
 export const metaTitle = "Best Desk Pads for Dual Monitor Setups";
 export const metaDescription = "We compared desk pad large models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad large";

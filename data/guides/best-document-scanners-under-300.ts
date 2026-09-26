@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-under-300";
-export const guideTitle = "4 Best Document Scanners Under $300 in 2026";
+export const guideTitle = "Best Document Scanners Under $300";
 export const metaTitle = "Best Document Scanners Under $300";
 export const metaDescription = "We compared document scanners under $300 by real duplex speed, feeder capacity, and wireless support, since desktop-class scanners begin at this tier.";
 export const mainKeyword = "best document scanners under $300";

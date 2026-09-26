@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-4k-120hz-monitors";
-export const guideTitle = "8 Best Docking Stations for 4K 120Hz Monitors in 2026";
+export const guideTitle = "Best Docking Stations for 4K at 120Hz";
 export const metaTitle = "Best Docking Stations for 4K 120Hz Monitors in 2026";
 export const metaDescription =
   "8 best docking stations for 4K 120Hz monitors in 2026, covering Thunderbolt 4 with DSC, DisplayLink multi-monitor docks, and KVM switch docks. Compare bandwidth and cable needs.";

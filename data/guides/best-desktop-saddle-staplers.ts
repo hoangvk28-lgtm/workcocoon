@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-saddle-staplers";
-export const guideTitle = "4 Best Desktop Saddle Staplers in 2026";
+export const guideTitle = "Best Desktop Saddle Staplers";
 export const metaTitle = "Best Desktop Saddle Staplers";
 export const metaDescription = "We compared desktop saddle staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desktop saddle staplers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-3-2-gen-2-portable-ssds";
-export const guideTitle = "4 Best USB 3.2 Gen 2 Portable SSDs in 2026";
+export const guideTitle = "Best USB 3.2 Gen 2 Portable SSDs";
 export const metaTitle = "Best USB 3.2 Gen 2 Portable SSDs";
 export const metaDescription = "4 genuine USB 3.2 Gen 2 portable SSDs we evaluated, decoding the confusing Gen 2 vs Gen 2x2 naming so you know exactly what speed you're buying.";
 export const mainKeyword = "usb 3.2 gen 2 portable ssd";

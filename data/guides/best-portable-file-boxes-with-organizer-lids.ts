@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-with-organizer-lids";
-export const guideTitle = "5 Best Portable File Boxes with Organizer Lids in 2026";
+export const guideTitle = "Best Portable File Boxes with Organizer Lids";
 export const metaTitle = "File Boxes with Organizer Lids (2026)";
 export const metaDescription =
   "5 file boxes with a lid that doubles as a small organizer tray, checked for genuine compartment utility and whether it compromises lid sealing.";

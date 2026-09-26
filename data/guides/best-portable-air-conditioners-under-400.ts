@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-air-conditioners-under-400";
-export const guideTitle = "7 Best Portable Air Conditioners Under $400 in 2026";
+export const guideTitle = "Best Portable Air Conditioners Under $400";
 export const metaTitle = "Best Portable Air Conditioners Under $400";
 export const metaDescription = "We compared best portable air conditioners under $400 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "portable air conditioners under $400";

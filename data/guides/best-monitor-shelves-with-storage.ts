@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-with-storage";
-export const guideTitle = "4 Best Monitor Shelves with Storage in 2026";
+export const guideTitle = "Best Monitor Shelves with Storage";
 export const metaTitle = "Best Monitor Shelves with Storage (2026)";
 export const metaDescription =
   "4 monitor shelves with storage we evaluated, covering open cubbies, phone slots, and cable channels, each with its own weight capacity.";

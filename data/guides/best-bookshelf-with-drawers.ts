@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-with-drawers";
-export const guideTitle = "7 Best Bookshelves with Drawers in 2026";
+export const guideTitle = "Best Bookshelves with Drawers";
 export const metaTitle = "Best Bookshelves with Drawers in 2026 (Fabric Bins & Cabinets)";
 export const metaDescription =
   "7 best bookshelves with drawers in 2026, comparing removable fabric drawers, slide-out cabinets, and tree-shaped shelving units for small rooms and tight corners.";

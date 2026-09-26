@@ -1,5 +1,5 @@
 export const guideSlug = "best-3m-cord-organizers";
-export const guideTitle = "6 Best 3M Cord Organizers in 2026";
+export const guideTitle = "Best 3M Cord Organizers";
 export const metaTitle = "Best 3M Cord Organizers";
 export const metaDescription = "We compared 3m cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "3m cord organizers";

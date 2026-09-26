@@ -1,5 +1,5 @@
 export const guideSlug = "best-photochromic-blue-light-glasses";
-export const guideTitle = "6 Best Photochromic Blue Light Glasses in 2026";
+export const guideTitle = "Best Photochromic Blue Light Glasses";
 export const metaTitle = "Best Photochromic Blue Light Glasses";
 export const metaDescription = "We compared photochromic blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "photochromic blue light glasses";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-storage-and-charging-carts";
-export const guideTitle = "8 Best Laptop Storage and Charging Carts in 2026";
+export const guideTitle = "Best Laptop Storage and Charging Carts";
 export const metaTitle = "Best Laptop Storage and Charging Carts (2026)";
 export const metaDescription =
   "8 carts compared specifically on secure storage plus charging, from open-access designs to locking cabinets, across 16 to 36-device capacity tiers.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-router-and-modem-combos";
-export const guideTitle = "4 Best Wi-Fi 7 Router and Modem Combos in 2026";
+export const guideTitle = "Best Wi-Fi 7 Router and Modem Combos";
 export const metaTitle = "Best Wi-Fi 7 Router-Modem Combos (2026)";
 export const metaDescription =
   "4 router-modem combos we evaluated for cable households, honestly noting genuine Wi-Fi 7 combos are still a thin category compared to mature Wi-Fi 6 options.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-modesty-panels-for-desks";
-export const guideTitle = "6 Best White Modesty Panels for Desks in 2026";
+export const guideTitle = "Best White Modesty Panels for Desks";
 export const metaTitle = "Best White Modesty Panels for Desks";
 export const metaDescription = "We compared white modesty panels for desks models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "white modesty panels for desks";

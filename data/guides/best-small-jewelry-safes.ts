@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-jewelry-safes";
-export const guideTitle = "8 Best Small Jewelry Safes in 2026";
+export const guideTitle = "Best Small Jewelry Safes";
 export const metaTitle = "Best Small Jewelry Safes (2026)";
 export const metaDescription =
   "8 safes compared on soft-contact interior lining, anti-tangle organization, and anchoring, since jewelry organization shouldn't compensate for weak security.";

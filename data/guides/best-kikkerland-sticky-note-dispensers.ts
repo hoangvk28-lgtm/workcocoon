@@ -1,5 +1,5 @@
 export const guideSlug = "best-kikkerland-sticky-note-dispensers";
-export const guideTitle = "6 Best Kikkerland Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Kikkerland Sticky Note Dispensers";
 export const metaTitle = "Best Kikkerland Sticky Note Dispensers";
 export const metaDescription = "We compared kikkerland sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "kikkerland sticky note dispensers";

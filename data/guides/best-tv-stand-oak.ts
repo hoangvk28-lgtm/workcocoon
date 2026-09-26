@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-oak";
-export const guideTitle = "7 Best Oak TV Stands in 2026";
+export const guideTitle = "Best Oak TV Stands";
 export const metaTitle = "Best Oak TV Stands in 2026 (Fluted, Curved & Farmhouse)";
 export const metaDescription =
   "7 best oak TV stands in 2026, from fluted mid-century designs to farmhouse cabinets. Compare storage, TV size fit, and finish across natural oak options.";

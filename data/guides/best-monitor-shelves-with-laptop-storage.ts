@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-with-laptop-storage";
-export const guideTitle = "4 Best Monitor Shelves with Laptop Storage in 2026";
+export const guideTitle = "Best Monitor Shelves with Laptop Storage";
 export const metaTitle = "Best Laptop Storage Monitor Shelves (2026)";
 export const metaDescription =
   "4 monitor shelves with laptop storage we evaluated for slot depth versus thick gaming laptops, heat buildup risk, and lid-scratch protection.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-dust-and-pet-hair";
-export const guideTitle = "5 Best Air Purifiers for Dust and Pet Hair in 2026";
+export const guideTitle = "Best Air Purifiers for Dust and Pet Hair";
 export const metaTitle = "Best Air Purifiers for Dust and Pet Hair, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for combined dust and pet hair loads, with the pre-filter maintenance reality competitors skip: pet hair mixed with dust clogs pre-filters faster than either alone, needing more frequent cleaning than a single-issue estimate.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-magnetic-document-holders";
-export const guideTitle = "8 Best Magnetic Document Holders in 2026";
+export const guideTitle = "Best Magnetic Document Holders";
 export const metaTitle = "Best Magnetic Document Holders";
 export const metaDescription = "We compared magnetic document holder models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "magnetic document holder";

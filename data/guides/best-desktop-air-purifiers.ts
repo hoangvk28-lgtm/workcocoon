@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-air-purifiers";
-export const guideTitle = "5 Best Desktop Air Purifiers in 2026";
+export const guideTitle = "Best Desktop Air Purifiers";
 export const metaTitle = "Best Desktop Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 desktop-placed air purifiers we evaluated, with the proximity consideration competitors skip: sitting within a user's direct breathing zone makes close-range noise and airflow-on-skin sensation more perceptible than for room-corner-placed units.";

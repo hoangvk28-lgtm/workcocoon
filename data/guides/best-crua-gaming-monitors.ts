@@ -1,5 +1,5 @@
 export const guideSlug = "best-crua-gaming-monitors";
-export const guideTitle = "6 Best CRUA Gaming Monitors in 2026";
+export const guideTitle = "Best CRUA Gaming Monitors";
 export const metaTitle = "Best CRUA Gaming Monitors";
 export const metaDescription = "We compared crua gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "crua gaming monitors";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-stackable-letter-trays";
-export const guideTitle = "6 Best Stackable Letter Trays in 2026";
+export const guideTitle = "Best Stackable Letter Trays";
 export const metaTitle = "Best Stackable Letter Trays";
 export const metaDescription = "We compared stackable letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "stackable letter trays";

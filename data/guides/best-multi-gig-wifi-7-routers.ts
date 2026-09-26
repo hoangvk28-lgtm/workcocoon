@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-gig-wifi-7-routers";
-export const guideTitle = "5 Best Multi-Gig Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Multi-Gig Wi-Fi 7 Routers";
 export const metaTitle = "Best Multi-Gig Wi-Fi 7 Routers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 multi-gig Wi-Fi 7 routers we evaluated, with the ambiguous-term decode competitors skip: 'multi-gig' spans 2.5GbE, 5GbE, and 10GbE port speeds, and WAN versus LAN port purpose matters as much as the raw speed tier.";

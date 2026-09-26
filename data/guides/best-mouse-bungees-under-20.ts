@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-bungees-under-20";
-export const guideTitle = "6 Best Mouse Bungees Under $20 in 2026";
+export const guideTitle = "Best Mouse Bungees Under $20";
 export const metaTitle = "Best Mouse Bungees Under $20";
 export const metaDescription = "We compared mouse bungees under $20 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse bungees under $20";

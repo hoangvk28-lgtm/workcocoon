@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-wrist-pain";
-export const guideTitle = "8 Best Ergonomic Keyboards for Wrist Pain in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Wrist Pain";
 export const metaTitle = "Best Ergonomic Keyboards for Wrist Pain";
 export const metaDescription =
   "8 ergonomic keyboards we evaluated for wrist pain relevant to positioning and wrist rest use. Not medical treatment, see a doctor for diagnosis or symptoms.";

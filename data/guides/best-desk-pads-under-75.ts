@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pads-under-75";
-export const guideTitle = "8 Best Desk Pads Under $75 in 2026";
+export const guideTitle = "Best Desk Pads Under $75";
 export const metaTitle = "Best Desk Pads Under $75";
 export const metaDescription = "We compared desk pad reviews models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad reviews";

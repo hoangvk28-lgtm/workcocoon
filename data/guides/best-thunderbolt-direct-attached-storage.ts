@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-direct-attached-storage";
-export const guideTitle = "8 Best Thunderbolt Direct-Attached Storage";
+export const guideTitle = "Best Thunderbolt Direct-Attached Storage";
 export const metaTitle = "Best Thunderbolt DAS Storage";
 export const metaDescription = "We separated Thunderbolt 3/4-class 40Gbps DAS from the newer 80Gbps Thunderbolt 5 tier before ranking by real sustained throughput.";
 export const mainKeyword = "thunderbolt direct-attached storage";

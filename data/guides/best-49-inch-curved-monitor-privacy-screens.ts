@@ -1,5 +1,5 @@
 export const guideSlug = "best-49-inch-curved-monitor-privacy-screens";
-export const guideTitle = "4 Best 49-Inch Curved Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 49-Inch Curved Monitor Privacy Screens";
 export const metaTitle = "Best 49-Inch Curved Monitor Privacy Screens (2026)";
 export const metaDescription =
   "4 model-specific privacy filters for 49 inch super-ultrawide monitors, an extremely niche category with no accumulated review history yet.";

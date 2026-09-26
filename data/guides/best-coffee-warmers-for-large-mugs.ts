@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers-for-large-mugs";
-export const guideTitle = "6 Best Coffee Warmers for Large Mugs in 2026";
+export const guideTitle = "Best Coffee Warmers for Large Mugs";
 export const metaTitle = "Best Coffee Warmers for Large Mugs";
 export const metaDescription = "We compared coffee warmer for large mug models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "coffee warmer for large mug";

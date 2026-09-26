@@ -1,5 +1,5 @@
 export const guideSlug = "best-warm-mist-humidifiers";
-export const guideTitle = "8 Best Warm Mist Humidifiers in 2026";
+export const guideTitle = "Best Warm Mist Humidifiers";
 export const metaTitle = "Best Warm Mist Humidifiers";
 export const metaDescription = "We compared humidifier warm mist models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier warm mist";

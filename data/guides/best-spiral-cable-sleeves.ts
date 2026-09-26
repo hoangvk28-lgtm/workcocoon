@@ -1,5 +1,5 @@
 export const guideSlug = "best-spiral-cable-sleeves";
-export const guideTitle = "6 Best Spiral Cable Sleeves in 2026";
+export const guideTitle = "Best Spiral Cable Sleeves";
 export const metaTitle = "Best Spiral Cable Sleeves";
 export const metaDescription = "We compared spiral cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "spiral cable sleeves";

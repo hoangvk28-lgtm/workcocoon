@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-usb4-dock";
-export const guideTitle = "4 Best Budget USB4 Docks in 2026";
+export const guideTitle = "Best Budget USB4 Docks";
 export const metaTitle = "Best Budget USB4 Docks";
 export const metaDescription = "We compared budget USB-C docks by exact named laptop compatibility, since several listings require Thunderbolt or DisplayPort Alt Mode most cheap laptops lack.";
 export const mainKeyword = "best budget usb4 dock";

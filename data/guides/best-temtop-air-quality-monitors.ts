@@ -1,5 +1,5 @@
 export const guideSlug = "best-temtop-air-quality-monitors";
-export const guideTitle = "8 Best Temtop Air Quality Monitors in 2026";
+export const guideTitle = "Best Temtop Air Quality Monitors";
 export const metaTitle = "Best Temtop Air Quality Monitors";
 export const metaDescription = "We compared temtop air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "temtop air quality monitor";

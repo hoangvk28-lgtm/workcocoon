@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-ergonomic-keyboards";
-export const guideTitle = "8 Best Budget Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Budget Ergonomic Keyboards";
 export const metaTitle = "Best Budget Ergonomic Keyboards (2026)";
 export const metaDescription =
   "8 budget ergonomic keyboards we evaluated honestly for how much real split or ergonomic design survives price-cutting, plus warranty and return-friendliness.";

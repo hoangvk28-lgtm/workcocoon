@@ -1,5 +1,5 @@
 export const guideSlug = "best-clear-letter-trays";
-export const guideTitle = "6 Best Clear Letter Trays in 2026";
+export const guideTitle = "Best Clear Letter Trays";
 export const metaTitle = "Best Clear Letter Trays";
 export const metaDescription = "We compared clear letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "clear letter trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-hanging-file-organizers";
-export const guideTitle = "5 Best Desktop Hanging File Organizers in 2026";
+export const guideTitle = "Best Desktop Hanging File Organizers";
 export const metaTitle = "Best Desktop Hanging File Organizers (2026)";
 export const metaDescription =
   "5 freestanding desktop organizers with internal hanging-file storage, checked for tip-over stability and desk-footprint consumption.";

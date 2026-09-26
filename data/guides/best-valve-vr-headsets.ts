@@ -1,5 +1,5 @@
 export const guideSlug = "best-valve-vr-headsets";
-export const guideTitle = "6 Best Valve VR Headsets in 2026";
+export const guideTitle = "Best Valve VR Headsets";
 export const metaTitle = "Best Valve VR Headsets";
 export const metaDescription = "We compared valve vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "valve vr headsets";

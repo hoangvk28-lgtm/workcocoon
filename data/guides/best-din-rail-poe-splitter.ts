@@ -1,5 +1,5 @@
 export const guideSlug = "best-din-rail-poe-splitter";
-export const guideTitle = "4 Best DIN-Rail PoE Splitters in 2026";
+export const guideTitle = "Best DIN-Rail PoE Splitters";
 export const metaTitle = "Best DIN-Rail PoE Splitters";
 export const metaDescription = "We compared DIN-rail PoE splitters by real output flexibility, since one listing delivers two simultaneous DC outputs at an adjustable 3-36V plus a fixed 24V.";
 export const mainKeyword = "best din rail poe splitter";

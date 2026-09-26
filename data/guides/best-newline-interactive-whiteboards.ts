@@ -1,5 +1,5 @@
 export const guideSlug = "best-newline-interactive-whiteboards";
-export const guideTitle = "5 Best Newline Interactive Whiteboards";
+export const guideTitle = "Best Newline Interactive Whiteboards";
 export const metaTitle = "Best Newline Interactive Whiteboards";
 export const metaDescription = "We mapped Newline's current RS+ series against the older Lyra generation and separated Newline's magnetic whiteboard accessory from its electronic panels.";
 export const mainKeyword = "newline interactive whiteboard";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-chair-mat-hard-floor";
-export const guideTitle = "8 Best Chair Mats for Hard Floors in 2026";
+export const guideTitle = "Best Chair Mats for Hard Floors in a Home Office";
 export const metaTitle = "Best Chair Mat for Hard Floor in 2026 (Wood, Tile, Vinyl & Concrete)";
 export const metaDescription =
   "8 best chair mats for hard floors in 2026, from a $18.99 budget PVC pick to a tempered glass mat that never yellows. Compare backing type and floor fit.";

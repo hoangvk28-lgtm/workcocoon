@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-gaming";
-export const guideTitle = "6 Best Vertical Mice for Gaming in 2026";
+export const guideTitle = "Best Vertical Mice for Gaming";
 export const metaTitle = "Best Vertical Mice for Gaming 2026";
 export const metaDescription =
   "We evaluated 6 vertical mice marketed for gaming, checking sensor quality, button count, and fast lateral movement comfort against the claims.";

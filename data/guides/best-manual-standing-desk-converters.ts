@@ -1,5 +1,5 @@
 export const guideSlug = "best-manual-standing-desk-converters";
-export const guideTitle = "7 Best Manual Standing Desk Converters in 2026";
+export const guideTitle = "Best Manual Standing Desk Converters";
 export const metaTitle = "Best Manual Standing Desk Converters (2026)";
 export const metaDescription =
   "7 gas-spring manual standing desk converters compared on platform size, price, and review history, no power outlet or motor noise required.";

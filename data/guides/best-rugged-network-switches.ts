@@ -1,5 +1,5 @@
 export const guideSlug = "best-rugged-network-switches";
-export const guideTitle = "5 Best Rugged Network Switches in 2026";
+export const guideTitle = "Best Rugged Network Switches";
 export const metaTitle = "Best Rugged Network Switches 2026";
 export const metaDescription = "Rugged switches handle vibration, dust, and temperature extremes beyond what standard industrial switches are rated for.";
 export const mainKeyword = "rugged network switches";

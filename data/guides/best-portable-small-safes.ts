@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-small-safes";
-export const guideTitle = "7 Best Portable Small Safes in 2026";
+export const guideTitle = "Best Portable Small Safes";
 export const metaTitle = "Best Portable Small Safes (2026)";
 export const metaDescription =
   "7 verified portable safes compared on tether options, carry weight, and travel-specific features, after excluding one ASIN not accessible in our research.";

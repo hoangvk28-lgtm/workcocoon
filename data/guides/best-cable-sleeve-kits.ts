@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-sleeve-kits";
-export const guideTitle = "6 Best Cable Sleeve Kits in 2026";
+export const guideTitle = "Best Cable Sleeve Kits";
 export const metaTitle = "Best Cable Sleeve Kits";
 export const metaDescription = "We compared cable sleeve kits models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "cable sleeve kits";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-engravers";
-export const guideTitle = "8 Best Desktop CNC Engravers in 2026";
+export const guideTitle = "Best Desktop CNC Engravers";
 export const metaTitle = "Best Desktop CNC Engravers 2026";
 export const metaDescription = "We compared desktop cnc engravers by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc engravers";

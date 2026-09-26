@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-desk-fans";
-export const guideTitle = "7 Best Metal Desk Fans in 2026";
+export const guideTitle = "Best Metal Desk Fans";
 export const metaTitle = "Best Metal Desk Fans";
 export const metaDescription = "We compared desk fan metal models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan metal";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tascam-podcast-mixers";
-export const guideTitle = "8 Best Tascam Podcast Mixers in 2026";
+export const guideTitle = "Best Tascam Podcast Mixers";
 export const metaTitle = "Best Tascam Podcast Mixers";
 export const metaDescription = "We compared tascam podcast mixer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "tascam podcast mixer";

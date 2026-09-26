@@ -1,5 +1,5 @@
 export const guideSlug = "best-ugreen-usb-c-ethernet-adapters";
-export const guideTitle = "5 Best UGREEN USB-C Ethernet Adapters";
+export const guideTitle = "Best UGREEN USB-C Ethernet Adapters";
 export const metaTitle = "Best UGREEN USB-C Ethernet Adapters";
 export const metaDescription = "UGREEN sells Gigabit through 5G adapters plus multiport hubs. We mapped the current lineup by speed and Mac chip compatibility.";
 export const mainKeyword = "ugreen usb-c ethernet adapters";

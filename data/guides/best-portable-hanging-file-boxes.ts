@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-hanging-file-boxes";
-export const guideTitle = "5 Best Portable Hanging File Boxes in 2026";
+export const guideTitle = "Best Portable Hanging File Boxes";
 export const metaTitle = "Best Portable Hanging File Boxes (2026)";
 export const metaDescription =
   "5 file boxes checked specifically for the near-universal hanging file rail feature, with rail spacing standardization and durability verified.";

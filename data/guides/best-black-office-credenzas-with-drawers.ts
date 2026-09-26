@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-office-credenzas-with-drawers";
-export const guideTitle = "8 Best Black Office Credenzas With Drawers in 2026";
+export const guideTitle = "Best Black Office Credenzas With Drawers";
 export const metaTitle = "Best Black Office Credenzas With Drawers 2026";
 export const metaDescription = "We compared black office credenzas with drawers by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "black office credenzas with drawers";

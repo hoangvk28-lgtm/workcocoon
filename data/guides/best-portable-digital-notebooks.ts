@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-digital-notebooks";
-export const guideTitle = "6 Best Portable Digital Notebooks in 2026";
+export const guideTitle = "Best Portable Digital Notebooks";
 export const metaTitle = "Best Portable Digital Notebooks (2026)";
 export const metaDescription =
   "6 genuinely compact and lightweight digital notebooks we evaluated, from pocket-size reusable notepads to slim smart pen sets, for on-the-go note taking.";

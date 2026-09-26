@@ -1,5 +1,5 @@
 export const guideSlug = "best-11-inch-drawing-tablets";
-export const guideTitle = "5 Best 11-Inch Drawing Tablets in 2026";
+export const guideTitle = "Best 11-Inch Drawing Tablets";
 export const metaTitle = "Best 11-Inch Drawing Tablets 2026";
 export const metaDescription = "We compared 11-inch drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "11-inch drawing tablets";

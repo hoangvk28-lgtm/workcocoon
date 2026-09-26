@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-for-dorm";
-export const guideTitle = "8 Best Storage Carts for Dorm in 2026";
+export const guideTitle = "Best Storage Carts for Dorm";
 export const metaTitle = "Best Storage Carts for Dorm";
 export const metaDescription = "We compared storage cart for dorm models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart for dorm";

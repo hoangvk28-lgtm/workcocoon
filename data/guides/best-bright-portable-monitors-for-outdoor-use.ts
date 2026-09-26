@@ -1,5 +1,5 @@
 export const guideSlug = "best-bright-portable-monitors-for-outdoor-use";
-export const guideTitle = "8 Best Bright Portable Monitors for Outdoor Use in 2026";
+export const guideTitle = "Best Portable Monitors Bright Enough for Outdoor Use";
 export const metaTitle = "Best Bright Portable Monitors for Outdoor Use, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors we evaluated for outdoor brightness, with a realistic nits-to-lux legibility check since direct sunlight needs far more than the 250-400 nits most portable monitors offer.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks";
-export const guideTitle = "8 Best Corner Desks in 2026";
+export const guideTitle = "Best Corner Desks";
 export const metaTitle = "Best Corner Desks";
 export const metaDescription = "We compared corner desks models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desks";

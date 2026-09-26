@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-photo-storage";
-export const guideTitle = "4 Best Portable SSDs for Photo Storage in 2026";
+export const guideTitle = "Best Portable SSDs for Photo Storage";
 export const metaTitle = "Best Portable SSDs for Photo Storage";
 export const metaDescription = "4 portable SSDs we evaluated for photo archival, weighing long-term endurance and warranty length over raw speed for a written-once library.";
 export const mainKeyword = "best portable ssd for photo storage";

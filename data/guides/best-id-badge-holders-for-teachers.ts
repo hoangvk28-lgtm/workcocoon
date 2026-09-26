@@ -1,5 +1,5 @@
 export const guideSlug = "best-id-badge-holders-for-teachers";
-export const guideTitle = "6 Best ID Badge Holders for Teachers in 2026";
+export const guideTitle = "Best ID Badge Holders for Teachers";
 export const metaTitle = "Best ID Badge Holders for Teachers";
 export const metaDescription = "We compared id badge holders for teachers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "id badge holders for teachers";

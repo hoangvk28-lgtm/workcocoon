@@ -1,5 +1,5 @@
 export const guideSlug = "best-japanese-style-bookends";
-export const guideTitle = "6 Best Japanese-Style Bookends in 2026";
+export const guideTitle = "Best Japanese-Style Bookends";
 export const metaTitle = "Best Japanese-Style Bookends";
 export const metaDescription = "We compared japanese-style bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "japanese-style bookends";

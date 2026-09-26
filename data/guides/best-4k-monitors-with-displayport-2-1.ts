@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-monitors-with-displayport-2-1";
-export const guideTitle = "6 Best 4K Monitors With DisplayPort 2.1 in 2026";
+export const guideTitle = "Best 4K Monitors With DisplayPort 2.1";
 export const metaTitle = "Best 4K Monitors With DisplayPort 2.1";
 export const metaDescription = "We compared 4k monitors with displayport 2.1 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "4k monitors with displayport 2.1";

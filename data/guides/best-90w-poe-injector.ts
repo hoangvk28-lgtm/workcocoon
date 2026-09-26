@@ -1,5 +1,5 @@
 export const guideSlug = "best-90w-poe-injector";
-export const guideTitle = "4 Best 90W PoE++ Injectors in 2026";
+export const guideTitle = "Best 90W PoE++ Injectors";
 export const metaTitle = "Best 90W PoE++ Injectors";
 export const metaDescription = "We compared 90W 802.3bt PoE++ injectors by real port speed and industrial protection, since one offers 10Gbps ports while others cap at Gigabit.";
 export const mainKeyword = "best 90w poe injector";

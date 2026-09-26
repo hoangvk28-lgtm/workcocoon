@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pegboards-with-monitor-mounts";
-export const guideTitle = "4 Best Desk Pegboards with Monitor Mounts in 2026";
+export const guideTitle = "Best Desk Pegboards with Monitor Mounts";
 export const metaTitle = "Best Pegboards with Monitor Mounts (2026)";
 export const metaDescription =
   "4 desk pegboards with monitor mounts we evaluated for combined-load rigidity, VESA compatibility, and value against buying separately.";

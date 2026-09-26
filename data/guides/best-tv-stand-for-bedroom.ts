@@ -1,7 +1,7 @@
 const BASE_IMG = "https://m.media-amazon.com/images/I";
 
 export const guideSlug = "best-tv-stand-for-bedroom";
-export const guideTitle = "8 Best TV Stands for Bedroom in 2026";
+export const guideTitle = "Best TV Stands for Bedroom";
 export const metaTitle = "Best TV Stand for Bedroom 2026, Low-Profile Picks";
 export const metaDescription =
   "Best TV stands for bedroom in 2026. Low-profile consoles, dresser combos, and compact picks ranked by viewing height, footprint, and storage.";

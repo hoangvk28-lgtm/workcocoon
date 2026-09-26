@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-with-lumbar-support";
-export const guideTitle = "8 Best Gaming Chairs with Lumbar Support in 2026";
+export const guideTitle = "Best Gaming Chairs with Lumbar Support";
 export const metaTitle = "Best Gaming Chairs with Lumbar Support in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs with lumbar support in 2026, from removable pillows to micro-adjustable dials, ranked by adjustability and buyer feedback.";

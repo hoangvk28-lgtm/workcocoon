@@ -1,5 +1,5 @@
 export const guideSlug = "best-leather-task-chairs";
-export const guideTitle = "8 Best Leather Task Chairs in 2026";
+export const guideTitle = "Best Leather Task Chairs";
 export const metaTitle = "Best Leather Task Chairs";
 export const metaDescription = "We compared task chair leather models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "task chair leather";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-kneeling-chairs";
-export const guideTitle = "8 Best White Kneeling Chairs in 2026";
+export const guideTitle = "Best White Kneeling Chairs";
 export const metaTitle = "Best White Kneeling Chairs";
 export const metaDescription = "We compared white kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "white kneeling chair";

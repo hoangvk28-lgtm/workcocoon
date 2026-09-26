@@ -1,5 +1,5 @@
 export const guideSlug = "best-vinyl-label-printers";
-export const guideTitle = "6 Best Vinyl Label Printers in 2026";
+export const guideTitle = "Best Vinyl Label Printers";
 export const metaTitle = "Best Vinyl Label Printers";
 export const metaDescription = "We compared vinyl label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vinyl label printers";

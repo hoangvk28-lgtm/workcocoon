@@ -1,5 +1,5 @@
 export const guideSlug = "best-3-tier-storage-carts";
-export const guideTitle = "8 Best 3-Tier Storage Carts in 2026";
+export const guideTitle = "Best 3-Tier Storage Carts";
 export const metaTitle = "Best 3-Tier Storage Carts";
 export const metaDescription = "We compared storage cart 3 tier and organizer models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "storage cart 3 tier and organizer";

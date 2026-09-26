@@ -1,5 +1,5 @@
 export const guideSlug = "best-vintage-bookends";
-export const guideTitle = "6 Best Vintage Bookends in 2026";
+export const guideTitle = "Best Vintage Bookends";
 export const metaTitle = "Best Vintage Bookends";
 export const metaDescription = "We compared vintage bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "vintage bookends";

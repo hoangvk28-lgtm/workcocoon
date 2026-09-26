@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-with-timers";
-export const guideTitle = "6 Best Mug Warmers With Timers in 2026";
+export const guideTitle = "Best Mug Warmers With Timers";
 export const metaTitle = "Best Mug Warmers With Timers";
 export const metaDescription = "We compared mug warmers with timers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mug warmers with timers";

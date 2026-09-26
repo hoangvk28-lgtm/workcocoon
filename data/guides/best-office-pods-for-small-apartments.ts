@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-pods-for-small-apartments";
-export const guideTitle = "3 Best Office Pods for Small Apartments in 2026";
+export const guideTitle = "Best Office Pods for Small Apartments";
 export const metaTitle = "Best Office Pods for Apartments (2026)";
 export const metaDescription =
   "3 compact office pods evaluated for apartment feasibility, covering floor loading, doorway clearance, and lease restriction guidance.";

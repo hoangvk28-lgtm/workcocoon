@@ -1,5 +1,5 @@
 export const guideSlug = "best-anime-bookends";
-export const guideTitle = "6 Best Anime Bookends in 2026";
+export const guideTitle = "Best Anime Bookends";
 export const metaTitle = "Best Anime Bookends";
 export const metaDescription = "We compared anime bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "anime bookends";

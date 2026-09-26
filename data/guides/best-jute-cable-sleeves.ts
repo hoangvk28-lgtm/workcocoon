@@ -1,5 +1,5 @@
 export const guideSlug = "best-jute-cable-sleeves";
-export const guideTitle = "6 Best Jute Cable Sleeves in 2026";
+export const guideTitle = "Best Jute Cable Sleeves";
 export const metaTitle = "Best Jute Cable Sleeves";
 export const metaDescription = "We compared jute cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "jute cable sleeves";

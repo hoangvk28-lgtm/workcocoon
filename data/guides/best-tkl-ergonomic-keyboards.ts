@@ -1,5 +1,5 @@
 export const guideSlug = "best-tkl-ergonomic-keyboards";
-export const guideTitle = "5 Best TKL Ergonomic Keyboards in 2026";
+export const guideTitle = "Best TKL Ergonomic Keyboards";
 export const metaTitle = "Best TKL Ergonomic Keyboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 tenkeyless ergonomic keyboards we evaluated, with the navigation-cluster verification competitors skip: TKL keyboards remove the number pad, but whether arrow keys and Home/End survive varies, a real functional distinction worth checking before buying.";

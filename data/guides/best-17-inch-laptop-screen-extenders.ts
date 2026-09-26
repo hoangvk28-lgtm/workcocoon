@@ -1,5 +1,5 @@
 export const guideSlug = "best-17-inch-laptop-screen-extenders";
-export const guideTitle = "5 Best 17-Inch Laptop Screen Extenders in 2026";
+export const guideTitle = "Best 17-Inch Laptop Screen Extenders";
 export const metaTitle = "Best 17-Inch Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 17-inch laptop screen extenders we evaluated, with the genuine-17-inch-versus-fits-17-inch-laptops distinction competitors skip: many 'for 17-inch laptop' listings ship a smaller panel, not a genuine 17-inch extender screen.";

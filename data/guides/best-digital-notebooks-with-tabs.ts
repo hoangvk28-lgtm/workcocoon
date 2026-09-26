@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-tabs";
-export const guideTitle = "5 Best Digital Notebooks with Tabs in 2026";
+export const guideTitle = "Best Digital Notebooks with Tabs";
 export const metaTitle = "Best Digital Notebooks with Tabs (2026)";
 export const metaDescription =
   "Important disclosure: this exact search currently returns physical notebooks with removable paper divider tabs, not digital hardware. We verified this directly and are covering the honest match.";

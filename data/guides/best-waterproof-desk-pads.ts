@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-desk-pads";
-export const guideTitle = "8 Best Waterproof Desk Pads in 2026";
+export const guideTitle = "Best Waterproof Desk Pads";
 export const metaTitle = "Best Waterproof Desk Pads";
 export const metaDescription = "We compared desk pad protective cover models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "desk pad protective cover";

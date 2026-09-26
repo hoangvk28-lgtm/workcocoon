@@ -1,5 +1,5 @@
 export const guideSlug = "best-displayport-kvm-switches";
-export const guideTitle = "5 Best DisplayPort KVM Switches in 2026";
+export const guideTitle = "Best DisplayPort KVM Switches";
 export const metaTitle = "Best DisplayPort KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 DisplayPort KVM switches we evaluated, with a note that DisplayPort generally supports higher refresh rates than HDMI at the same resolution, worth choosing DisplayPort specifically if high refresh rate matters to you.";

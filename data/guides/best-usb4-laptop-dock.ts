@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-laptop-dock";
-export const guideTitle = "4 Best USB4 Laptop Docks in 2026";
+export const guideTitle = "Best USB4 Laptop Docks";
 export const metaTitle = "Best USB4 Laptop Docks";
 export const metaDescription = "We compared USB4 laptop docks by exact excluded models, since several listings name specific laptops like ThinkPad X1 Carbon that lack video-capable USB-C.";
 export const mainKeyword = "best usb4 laptop dock";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-falcon-laser-engravers";
-export const guideTitle = "7 Best Falcon Laser Engravers in 2026";
+export const guideTitle = "Best Falcon Laser Engravers";
 export const metaTitle = "Best Falcon Laser Engravers in 2026";
 export const metaDescription = "We compared best falcon laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "falcon laser engravers";

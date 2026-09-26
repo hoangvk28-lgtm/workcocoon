@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-under-desk-drawers";
-export const guideTitle = "7 Best Clamp-On Under-Desk Drawers in 2026";
+export const guideTitle = "Best Clamp-On Under-Desk Drawers";
 export const metaTitle = "Best Clamp-On Under-Desk Drawers";
 export const metaDescription = "We compared under desk drawer organizer clamp-on models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under desk drawer organizer clamp-on";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-monochrome-laser-printers-for-home-offices";
-export const guideTitle = "8 Best Monochrome Laser Printers for Home Offices in 2026";
+export const guideTitle = "Best Monochrome Laser Printers for Home Offices";
 export const metaTitle = "Best Monochrome Laser Printers for Home Offices in 2026";
 export const metaDescription =
   "Laser printers we evaluated for home offices, covering starter toner traps, drum vs toner cost, warm-up time, ozone in small rooms, and third-party toner compatibility.";

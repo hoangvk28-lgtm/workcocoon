@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-projectors-under-1000";
-export const guideTitle = "4 Best 4K Projectors Under $1000 in 2026";
+export const guideTitle = "Best 4K Projectors Under $1000";
 export const metaTitle = "Best 4K Projectors Under $1000";
 export const metaDescription = "We compared 4K projectors under $1000 by true native resolution, refresh rate, and laser light source, since genuine 4K UHD panels finally appear at this tier.";
 export const mainKeyword = "best 4k projectors under $1000";

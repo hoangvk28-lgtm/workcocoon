@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-windows-11";
-export const guideTitle = "7 Best Printers for Windows 11 in 2026";
+export const guideTitle = "Best Printers for Windows 11";
 export const metaTitle = "Best Printers for Windows 11 in 2026 (Driver Guide)";
 export const metaDescription =
   "7 best printers for Windows 11 in 2026, compared on built-in vs full OEM driver support, spooler reliability, and setup ease for a home office.";

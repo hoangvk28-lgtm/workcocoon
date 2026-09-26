@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-standing-desks-for-gaming";
 
 export const guideSlug = "best-standing-desks-for-gaming";
-export const guideTitle = "8 Best Standing Desks for Gaming in 2026";
+export const guideTitle = "Best Standing Desks for Gaming";
 export const metaTitle = "Best Standing Desks for Gaming 2026, RGB, Wing-Shape, L-Shaped Picks";
 export const metaDescription =
   "Best standing desks for gaming in 2026. Wing-shaped battlestations, RGB frames, and L-shaped dual-motor desks ranked by features, stability, and value.";

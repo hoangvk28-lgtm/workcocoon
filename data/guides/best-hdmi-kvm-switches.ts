@@ -1,5 +1,5 @@
 export const guideSlug = "best-hdmi-kvm-switches";
-export const guideTitle = "5 Best HDMI KVM Switches in 2026";
+export const guideTitle = "Best HDMI KVM Switches";
 export const metaTitle = "Best HDMI KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 HDMI KVM switches we evaluated, with a note that HDMI version matters as much as the switch itself, an HDMI 2.0 switch caps your resolution and refresh rate below what HDMI 2.1 supports.";

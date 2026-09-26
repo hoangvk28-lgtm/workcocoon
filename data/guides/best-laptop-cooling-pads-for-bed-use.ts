@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-bed-use";
-export const guideTitle = "4 Best Laptop Cooling Pads for Bed Use in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Bed Use";
 export const metaTitle = "Best Laptop Cooling Pads for Bed Use (2026)";
 export const metaDescription =
   "4 laptop desks and cooling pads we evaluated for genuine bed use, checking rigid base design and whether soft bedding blocks fan intake.";

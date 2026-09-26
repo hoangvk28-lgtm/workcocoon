@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-ergonomic-keyboards";
-export const guideTitle = "6 Best 'Vertical' Ergonomic Keyboards in 2026 (Split and Tented, Explained)";
+export const guideTitle = "Best 'Vertical' Ergonomic Keyboards in 2026 (Split and Tented, Explained)";
 export const metaTitle = "Best Vertical Ergonomic Keyboards";
 export const metaDescription =
   "Genuinely vertical-tilt keyboards are rare, so we clarify split vs tented vs vertical terminology and evaluate the closest verified split and tented options.";

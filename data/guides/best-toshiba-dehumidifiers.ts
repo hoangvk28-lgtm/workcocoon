@@ -1,5 +1,5 @@
 export const guideSlug = "best-toshiba-dehumidifiers";
-export const guideTitle = "8 Best Toshiba Dehumidifiers in 2026";
+export const guideTitle = "Best Toshiba Dehumidifiers";
 export const metaTitle = "Best Toshiba Dehumidifiers";
 export const metaDescription = "We compared toshiba dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "toshiba dehumidifier";

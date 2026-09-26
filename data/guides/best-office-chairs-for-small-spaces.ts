@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-office-chairs-for-small-spaces";
 
 export const guideSlug = "best-office-chairs-for-small-spaces";
-export const guideTitle = "8 Best Office Chairs for Small Spaces in 2026";
+export const guideTitle = "Best Office Chairs for Small Spaces";
 export const metaTitle = "Best Office Chairs for Small Spaces 2026, Compact Picks";
 export const metaDescription =
   "Best office chairs for small spaces in 2026, ranked by base diameter and real floor footprint, not just seat width, for dorms and tight home offices.";

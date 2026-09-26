@@ -1,5 +1,5 @@
 export const guideSlug = "best-nelko-label-printers";
-export const guideTitle = "5 Best Nelko Label Printers in 2026";
+export const guideTitle = "Best Nelko Label Printers";
 export const metaTitle = "Best Nelko Label Printers";
 export const metaDescription = "We compared nelko label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "nelko label printers";

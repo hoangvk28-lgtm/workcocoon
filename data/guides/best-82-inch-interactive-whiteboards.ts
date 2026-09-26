@@ -1,5 +1,5 @@
 export const guideSlug = "best-82-inch-interactive-whiteboards";
-export const guideTitle = "8 Best 82-Inch Interactive Whiteboards";
+export const guideTitle = "Best 82-Inch Interactive Whiteboards";
 export const metaTitle = "Best 82-Inch Interactive Whiteboards";
 export const metaDescription = "82-inch searches surface projector-era boards alongside current panels. We identified passive versus self-contained architecture per candidate.";
 export const mainKeyword = "interactive whiteboard 82 inch";

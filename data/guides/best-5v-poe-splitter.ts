@@ -1,5 +1,5 @@
 export const guideSlug = "best-5v-poe-splitter";
-export const guideTitle = "4 Best 5V USB PoE Splitters in 2026";
+export const guideTitle = "Best 5V USB PoE Splitters";
 export const metaTitle = "Best 5V USB PoE Splitters";
 export const metaDescription = "We compared 5V USB PoE splitters by connector type and amperage, since Micro USB, USB-A, and Gigabit-rated models deliver different device compatibility.";
 export const mainKeyword = "best 5v poe splitter";

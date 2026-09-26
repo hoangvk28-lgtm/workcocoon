@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-under-500";
-export const guideTitle = "8 Best Digital Notebooks Under $500 in 2026";
+export const guideTitle = "Best Digital Notebooks Under $500";
 export const metaTitle = "Best Digital Notebooks Under $500";
 export const metaDescription =
   "8 digital notebooks under $500 we evaluated, including an entry-level true e-ink device alongside affordable paper notebooks and smart pen sets.";

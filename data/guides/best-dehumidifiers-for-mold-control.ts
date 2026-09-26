@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-mold-control";
-export const guideTitle = "8 Best Dehumidifiers for Mold Control in 2026";
+export const guideTitle = "Best Dehumidifiers for Mold Control";
 export const metaTitle = "Best Dehumidifiers for Mold Control";
 export const metaDescription = "We compared dehumidifier for mold models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier for mold";

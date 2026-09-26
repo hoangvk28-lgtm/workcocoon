@@ -1,5 +1,5 @@
 export const guideSlug = "best-pass-through-charging-portable-power-stations";
-export const guideTitle = "8 Best Pass Through Charging Portable Power Stations in 2026";
+export const guideTitle = "Best Pass Through Charging Portable Power Stations";
 export const metaTitle = "Best Pass Through Charging Portable Power Stations 2026";
 export const metaDescription = "We compared pass through charging portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "pass through charging portable power stations";

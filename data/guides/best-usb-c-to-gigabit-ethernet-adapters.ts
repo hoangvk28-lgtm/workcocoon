@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-to-gigabit-ethernet-adapters";
-export const guideTitle = "8 Best USB-C to Gigabit Ethernet Adapters";
+export const guideTitle = "Best USB-C to Gigabit Ethernet Adapters";
 export const metaTitle = "Best USB-C to Gigabit Ethernet Adapters";
 export const metaDescription = "1GbE remains the widest-compatibility tier. We ranked mature Gigabit adapters by stability, driver-free behavior, and cable durability.";
 export const mainKeyword = "usb-c to gigabit ethernet adapters";

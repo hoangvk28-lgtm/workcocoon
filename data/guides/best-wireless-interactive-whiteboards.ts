@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-interactive-whiteboards";
-export const guideTitle = "8 Best Wireless Interactive Whiteboards";
+export const guideTitle = "Best Wireless Interactive Whiteboards";
 export const metaTitle = "Best Wireless Interactive Whiteboards";
 export const metaDescription = "We defined exactly what wireless means for each product, casting, touch-back, or sensor connection, rather than treating it as one feature.";
 export const mainKeyword = "wireless interactive whiteboard system";

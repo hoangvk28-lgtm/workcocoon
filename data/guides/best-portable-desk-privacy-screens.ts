@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-desk-privacy-screens";
-export const guideTitle = "5 Best Portable Desk Privacy Screens in 2026";
+export const guideTitle = "Best Portable Desk Privacy Screens";
 export const metaTitle = "Best Portable Desk Privacy Screens, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable desk privacy screens we evaluated for buyers who move between desks or workspaces, weighing genuine portability (weight, fold-flat size) against the setup time each design actually takes.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-with-remote-control";
-export const guideTitle = "7 Best Desk Fans With Remote Control in 2026";
+export const guideTitle = "Best Desk Fans With Remote Control";
 export const metaTitle = "Best Desk Fans With Remote Control";
 export const metaDescription = "We compared desk fan with remote control models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "desk fan with remote control";

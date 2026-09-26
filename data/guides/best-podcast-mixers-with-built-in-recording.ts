@@ -1,5 +1,5 @@
 export const guideSlug = "best-podcast-mixers-with-built-in-recording";
-export const guideTitle = "8 Best Podcast Mixers With Built-In Recording in 2026";
+export const guideTitle = "Best Podcast Mixers With Built-In Recording";
 export const metaTitle = "Best Podcast Mixers With Built-In Recording";
 export const metaDescription = "We compared podcast mixer recorder models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "podcast mixer recorder";

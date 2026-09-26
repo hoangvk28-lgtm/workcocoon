@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-bungees-for-op1-8k";
-export const guideTitle = "6 Best Mouse Bungees for OP1 8K in 2026";
+export const guideTitle = "Best Mouse Bungees for OP1 8K";
 export const metaTitle = "Best Mouse Bungees for OP1 8K";
 export const metaDescription = "We compared mouse bungees for op1 8k models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse bungees for op1 8k";

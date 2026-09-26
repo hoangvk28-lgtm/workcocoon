@@ -1,5 +1,5 @@
 export const guideSlug = "best-vellgoo-dehumidifiers";
-export const guideTitle = "8 Best Vellgoo Dehumidifiers in 2026";
+export const guideTitle = "Best Vellgoo Dehumidifiers";
 export const metaTitle = "Best Vellgoo Dehumidifiers";
 export const metaDescription = "We compared vellgoo dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vellgoo dehumidifier";

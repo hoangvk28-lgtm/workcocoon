@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-gaming-monitors-for-ps5";
-export const guideTitle = "6 Best 4K Gaming Monitors for PS5 in 2026";
+export const guideTitle = "Best 4K Gaming Monitors for PS5";
 export const metaTitle = "Best 4K Gaming Monitors for PS5";
 export const metaDescription = "We compared 4k gaming monitors for ps5 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "4k gaming monitors for ps5";

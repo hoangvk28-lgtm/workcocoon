@@ -1,5 +1,5 @@
 export const guideSlug = "best-3000-lumens-projectors";
-export const guideTitle = "8 Best 3000 Lumens Projectors in 2026";
+export const guideTitle = "Best 3000 Lumens Projectors";
 export const metaTitle = "Best 3000 Lumens Projectors";
 export const metaDescription = "We compared projector 3000 lumens models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "projector 3000 lumens";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-encrypted-portable-ssds";
-export const guideTitle = "5 Best Encrypted Portable SSDs in 2026";
+export const guideTitle = "Best Encrypted Portable SSDs";
 export const metaTitle = "Best Encrypted Portable SSDs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 encrypted portable SSDs we evaluated, with the hardware-vs-software distinction competitors skip: hardware-based AES-256 encryption is meaningfully more secure and often faster than software-based encryption, and password recovery risk deserves upfront disclosure.";

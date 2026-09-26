@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-under-2000";
-export const guideTitle = "8 Best Portable Power Stations Under $2000 in 2026";
+export const guideTitle = "Best Portable Power Stations Under $2000";
 export const metaTitle = "Best Portable Power Stations Under $2000 in 2026";
 export const metaDescription = "We compared best portable power stations under $2000 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "portable power stations under $2000";

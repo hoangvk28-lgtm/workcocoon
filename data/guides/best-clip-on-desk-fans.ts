@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-desk-fans";
-export const guideTitle = "8 Best Clip-On Desk Fans in 2026";
+export const guideTitle = "Best Clip-On Desk Fans";
 export const metaTitle = "Best Clip-On Desk Fans";
 export const metaDescription = "We compared desk fan clip on models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan clip on";

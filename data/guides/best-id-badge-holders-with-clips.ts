@@ -1,5 +1,5 @@
 export const guideSlug = "best-id-badge-holders-with-clips";
-export const guideTitle = "6 Best ID Badge Holders with Clips in 2026";
+export const guideTitle = "Best ID Badge Holders with Clips";
 export const metaTitle = "Best ID Badge Holders with Clips";
 export const metaDescription = "We compared id badge holders with clips models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "id badge holders with clips";

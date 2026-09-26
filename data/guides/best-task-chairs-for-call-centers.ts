@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-call-centers";
-export const guideTitle = "8 Best Task Chairs for Call Centers in 2026";
+export const guideTitle = "Best Task Chairs for Call Centers";
 export const metaTitle = "Best Task Chairs for Call Centers";
 export const metaDescription = "We compared task chair call center models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair call center";

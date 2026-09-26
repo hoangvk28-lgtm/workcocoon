@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboard-and-mouse-sets";
-export const guideTitle = "8 Best Ergonomic Keyboard and Mouse Sets in 2026";
+export const guideTitle = "Best Ergonomic Keyboard and Mouse Sets";
 export const metaTitle = "Best Ergonomic Keyboard and Mouse Sets in 2026";
 export const metaDescription =
   "8 keyboard and mouse sets in 2026, reviewed honestly on which are genuinely ergonomic and which are standard wireless combos sold under an ergonomic label.";

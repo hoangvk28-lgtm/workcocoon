@@ -1,5 +1,5 @@
 export const guideSlug = "best-book-and-document-holders";
-export const guideTitle = "6 Best Book and Document Holders in 2026";
+export const guideTitle = "Best Book and Document Holders";
 export const metaTitle = "Best Book and Document Holders";
 export const metaDescription = "We compared book and document holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "book and document holders";

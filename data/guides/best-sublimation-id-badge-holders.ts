@@ -1,5 +1,5 @@
 export const guideSlug = "best-sublimation-id-badge-holders";
-export const guideTitle = "6 Best Sublimation ID Badge Holders in 2026";
+export const guideTitle = "Best Sublimation ID Badge Holders";
 export const metaTitle = "Best Sublimation ID Badge Holders";
 export const metaDescription = "We compared sublimation id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "sublimation id badge holders";

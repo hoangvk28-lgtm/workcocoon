@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-power-banks";
-export const guideTitle = "8 Best Wireless Power Banks in 2026";
+export const guideTitle = "Best Wireless Power Banks";
 export const metaTitle = "Best Wireless Power Banks";
 export const metaDescription = "We compared power bank wireless models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank wireless";

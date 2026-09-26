@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-for-carpal-tunnel";
-export const guideTitle = "8 Best Mouse Pads for Carpal Tunnel in 2026";
+export const guideTitle = "Best Mouse Pads for Carpal Tunnel";
 export const metaTitle = "Best Mouse Pads for Carpal Tunnel";
 export const metaDescription = "We compared mouse pad for carpal tunnel models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mouse pad for carpal tunnel";

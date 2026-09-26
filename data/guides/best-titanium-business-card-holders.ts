@@ -1,5 +1,5 @@
 export const guideSlug = "best-titanium-business-card-holders";
-export const guideTitle = "6 Best Titanium Business Card Holders in 2026";
+export const guideTitle = "Best Titanium Business Card Holders";
 export const metaTitle = "Best Titanium Business Card Holders";
 export const metaDescription = "We compared titanium business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "titanium business card holders";

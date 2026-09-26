@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-black-and-white-documents";
-export const guideTitle = "8 Best Printers for Black-and-White Documents in 2026";
+export const guideTitle = "Best Printers for Black-and-White Documents";
 export const metaTitle = "Best Printers for Black-and-White Documents in 2026";
 export const metaDescription =
   "8 printers we evaluated for black-and-white document printing, comparing text quality, grayscale photos, toner-save mode, and color-mode-vs-mono-laser cost.";

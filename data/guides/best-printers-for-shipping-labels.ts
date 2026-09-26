@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-shipping-labels";
-export const guideTitle = "8 Best Printers for Shipping Labels in 2026";
+export const guideTitle = "Best Printers for Shipping Labels";
 export const metaTitle = "Best Printers for Shipping Labels in 2026";
 export const metaDescription =
   "8 thermal 4x6 shipping label printers we evaluated for e-commerce sellers, plus a break-even guide against inkjet and sheet labels for lower shipment volume.";

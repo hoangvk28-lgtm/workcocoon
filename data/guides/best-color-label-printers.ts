@@ -1,5 +1,5 @@
 export const guideSlug = "best-color-label-printers";
-export const guideTitle = "6 Best Color Label Printers in 2026";
+export const guideTitle = "Best Color Label Printers";
 export const metaTitle = "Best Color Label Printers";
 export const metaDescription = "We compared color label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "color label printers";

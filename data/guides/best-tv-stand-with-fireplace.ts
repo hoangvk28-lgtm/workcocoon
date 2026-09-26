@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-with-fireplace";
-export const guideTitle = "8 Best TV Stands with Fireplace in 2026";
+export const guideTitle = "Best TV Stands with Fireplace";
 export const metaTitle = "Best TV Stands with Fireplace 2026, Ranked Picks";
 export const metaDescription =
   "Best TV stands with electric fireplace in 2026. Farmhouse, corner, and modern consoles ranked by insert size, TV weight capacity, clearance, and heat output.";

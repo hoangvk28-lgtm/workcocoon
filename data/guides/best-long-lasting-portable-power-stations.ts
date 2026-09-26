@@ -1,5 +1,5 @@
 export const guideSlug = "best-long-lasting-portable-power-stations";
-export const guideTitle = "8 Best Long Lasting Portable Power Stations in 2026";
+export const guideTitle = "Best Long Lasting Portable Power Stations";
 export const metaTitle = "Best Long Lasting Portable Power Stations 2026";
 export const metaDescription = "We compared long lasting portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "long lasting portable power stations";

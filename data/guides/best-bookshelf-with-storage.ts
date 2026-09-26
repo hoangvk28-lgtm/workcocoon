@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-with-storage";
-export const guideTitle = "8 Best Bookshelves with Storage in 2026";
+export const guideTitle = "Best Bookshelves with Storage";
 export const metaTitle = "Best Bookshelves with Storage in 2026 (Cubes, Cabinets & Drawers)";
 export const metaDescription =
   "8 best bookshelves with storage in 2026, comparing cube organizers, cabinet-door units, and drawer combos. Compare capacity, footprint, and enclosed vs open storage.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-upright-business-card-holders";
-export const guideTitle = "6 Best Upright Business Card Holders in 2026";
+export const guideTitle = "Best Upright Business Card Holders";
 export const metaTitle = "Best Upright Business Card Holders";
 export const metaDescription = "We compared upright business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "upright business card holders";

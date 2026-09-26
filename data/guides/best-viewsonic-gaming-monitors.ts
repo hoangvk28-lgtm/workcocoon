@@ -1,5 +1,5 @@
 export const guideSlug = "best-viewsonic-gaming-monitors";
-export const guideTitle = "6 Best ViewSonic Gaming Monitors in 2026";
+export const guideTitle = "Best ViewSonic Gaming Monitors";
 export const metaTitle = "Best ViewSonic Gaming Monitors";
 export const metaDescription = "We compared viewsonic gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "viewsonic gaming monitors";

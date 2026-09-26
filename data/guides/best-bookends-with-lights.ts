@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookends-with-lights";
-export const guideTitle = "3 Best Bookends with Lights in 2026";
+export const guideTitle = "Best Bookends with Lights";
 export const metaTitle = "Best Bookends with Lights";
 export const metaDescription = "We compared bookends with lights models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "bookends with lights";

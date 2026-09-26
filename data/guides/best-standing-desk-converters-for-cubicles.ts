@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-for-cubicles";
-export const guideTitle = "5 Best Standing Desk Converters for Cubicles in 2026";
+export const guideTitle = "Best Standing Desk Converters for Cubicles";
 export const metaTitle = "Best Standing Desk Converters for Cubicles (2026)";
 export const metaDescription =
   "5 standing desk converters compared for cubicle fit: panel clearance, return-desk depth, and forward projection into shared aisle space.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-split-cable-sleeves";
-export const guideTitle = "5 Best Split Cable Sleeves in 2026";
+export const guideTitle = "Best Split Cable Sleeves";
 export const metaTitle = "Best Split Cable Sleeves";
 export const metaDescription = "We compared split cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "split cable sleeves";

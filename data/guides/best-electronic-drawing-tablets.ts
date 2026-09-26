@@ -1,5 +1,5 @@
 export const guideSlug = "best-electronic-drawing-tablets";
-export const guideTitle = "6 Best Electronic Drawing Tablets in 2026";
+export const guideTitle = "Best Electronic Drawing Tablets";
 export const metaTitle = "Best Electronic Drawing Tablets 2026";
 export const metaDescription = "We compared electronic drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "electronic drawing tablets";

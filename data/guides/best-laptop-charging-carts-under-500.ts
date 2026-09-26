@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-charging-carts-under-500";
-export const guideTitle = "4 Best Laptop Charging Carts Under $500 in 2026";
+export const guideTitle = "Best Laptop Charging Carts Under $500";
 export const metaTitle = "Best Laptop Charging Carts Under $500";
 export const metaDescription = "We compared laptop charging carts under $500 by device capacity, lock type, and construction, since 30-36 device carts with heavier build quality appear here.";
 export const mainKeyword = "best laptop charging carts under $500";

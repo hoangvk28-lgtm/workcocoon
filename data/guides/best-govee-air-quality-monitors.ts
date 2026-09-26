@@ -1,5 +1,5 @@
 export const guideSlug = "best-govee-air-quality-monitors";
-export const guideTitle = "8 Best Govee Air Quality Monitors in 2026";
+export const guideTitle = "Best Govee Air Quality Monitors";
 export const metaTitle = "Best Govee Air Quality Monitors";
 export const metaDescription = "We compared govee air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "govee air quality monitor";

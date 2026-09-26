@@ -1,5 +1,5 @@
 export const guideSlug = "best-linux-mini-pcs";
-export const guideTitle = "5 Best Linux Mini PCs in 2026";
+export const guideTitle = "Best Linux Mini PCs";
 export const metaTitle = "Best Linux Mini PCs (2026)";
 export const metaDescription =
   "5 Linux-friendly mini PCs we evaluated, focused on Wi-Fi, suspend/resume, and driver compatibility rather than assuming any modern chip runs Linux flawlessly.";

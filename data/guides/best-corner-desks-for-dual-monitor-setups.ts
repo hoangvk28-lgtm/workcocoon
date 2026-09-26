@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-for-dual-monitor-setups";
-export const guideTitle = "8 Best Corner Desks for Dual Monitor Setups in 2026";
+export const guideTitle = "Best Corner Desks for Dual Monitor Setups";
 export const metaTitle = "Best Corner Desks for Dual Monitor Setups";
 export const metaDescription = "We compared corner desk monitor riser models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "corner desk monitor riser";

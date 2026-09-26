@@ -1,5 +1,5 @@
 export const guideSlug = "best-wooden-business-card-holders";
-export const guideTitle = "6 Best Wooden Business Card Holders in 2026";
+export const guideTitle = "Best Wooden Business Card Holders";
 export const metaTitle = "Best Wooden Business Card Holders";
 export const metaDescription = "We compared wooden business card holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "wooden business card holders";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-boss-podcast-mixers";
-export const guideTitle = "8 Best Boss Podcast Mixers in 2026";
+export const guideTitle = "Best Boss Podcast Mixers";
 export const metaTitle = "Best Boss Podcast Mixers";
 export const metaDescription = "We compared boss podcast mixer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "boss podcast mixer";

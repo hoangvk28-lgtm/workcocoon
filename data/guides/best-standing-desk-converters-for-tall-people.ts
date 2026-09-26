@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-for-tall-people";
-export const guideTitle = "6 Best Standing Desk Converters for Tall People";
+export const guideTitle = "Best Standing Desk Converters for Tall People";
 export const metaTitle = "Best Standing Desk Converters for Tall People (2026)";
 export const metaDescription =
   "6 standing desk converters compared for maximum keyboard and monitor height, calculated from your existing desk plus the converter's full lift range.";

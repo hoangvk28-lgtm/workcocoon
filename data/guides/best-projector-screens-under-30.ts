@@ -1,5 +1,5 @@
 export const guideSlug = "best-projector-screens-under-30";
-export const guideTitle = "4 Best Projector Screens Under $30 in 2026";
+export const guideTitle = "Best Projector Screens Under $30";
 export const metaTitle = "Best Projector Screens Under $30";
 export const metaDescription = "We compared projector screens under $30 by fabric thickness, viewing area, and mounting method, since these fabric-only screens skip a stand entirely.";
 export const mainKeyword = "best projector screens under $30";

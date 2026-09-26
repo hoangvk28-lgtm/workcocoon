@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-for-gre-and-toefl";
-export const guideTitle = "5 Best Desktop Whiteboards for GRE and TOEFL in 2026";
+export const guideTitle = "Best Desktop Whiteboards for GRE and TOEFL";
 export const metaTitle = "Best Desktop Whiteboards for GRE and TOEFL (2026)";
 export const metaDescription =
   "5 small erasable whiteboards suited to at-home GRE and TOEFL scratch work, with a direct reminder to verify current ETS rules before your test date since testing policies can change.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-powerful-mini-pcs";
-export const guideTitle = "5 Best Powerful Mini PCs in 2026";
+export const guideTitle = "Best Powerful Mini PCs";
 export const metaTitle = "Best Powerful Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 powerful mini PCs we evaluated, focused on core count and multi-threaded throughput specifically, since raw power for demanding workloads depends more on this than clock speed alone.";

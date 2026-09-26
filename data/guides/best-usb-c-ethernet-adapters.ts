@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters";
-export const guideTitle = "8 Best USB-C Ethernet Adapters in 2026";
+export const guideTitle = "Best USB-C Ethernet Adapters";
 export const metaTitle = "Best USB-C Ethernet Adapters in 2026";
 export const metaDescription = "The same buying decision as USB-C to Ethernet Adapters: real speed, host USB mode, and OS support matter more than the USB-C label.";
 export const mainKeyword = "usb-c ethernet adapters";

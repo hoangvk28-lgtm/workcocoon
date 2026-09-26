@@ -1,5 +1,5 @@
 export const guideSlug = "best-ai-digital-notebooks";
-export const guideTitle = "5 Best AI Digital Notebooks in 2026";
+export const guideTitle = "Best AI Digital Notebooks";
 export const metaTitle = "Best AI Digital Notebooks (2026)";
 export const metaDescription =
   "5 dedicated E Ink notebook devices with real AI note features, excluding software-only note apps and generic voice recorders that also show up for this search.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-for-home-offices";
-export const guideTitle = "8 Best Filing Cabinets for Home Offices in 2026";
+export const guideTitle = "Best Filing Cabinets for Home Offices";
 export const metaTitle = "Best Filing Cabinets for Home Offices in 2026 (Steel Gauge Guide)";
 export const metaDescription =
   "8 filing cabinets for home offices compared on steel gauge, drawer extension type, anti-tip safety, and hanging file compatibility, not just price and drawer count.";

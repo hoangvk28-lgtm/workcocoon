@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-with-led-display";
-export const guideTitle = "6 Best Mug Warmers With LED Display in 2026";
+export const guideTitle = "Best Mug Warmers With LED Display";
 export const metaTitle = "Best Mug Warmers With LED Display";
 export const metaDescription = "We compared mug warmer led display models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mug warmer led display";

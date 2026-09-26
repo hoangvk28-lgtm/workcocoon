@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawer-fireproof-safes";
-export const guideTitle = "8 Best Drawer Fireproof Safes in 2026";
+export const guideTitle = "Best Drawer Fireproof Safes";
 export const metaTitle = "Best Drawer Fireproof Safes 2026";
 export const metaDescription = "We compared drawer fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "drawer fireproof safes";

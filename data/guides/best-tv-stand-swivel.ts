@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-swivel";
-export const guideTitle = "8 Best Swivel TV Stands in 2026";
+export const guideTitle = "Best Swivel TV Stands";
 export const metaTitle = "Best Swivel TV Stands 2026, Tabletop & Floor Picks";
 export const metaDescription =
   "Best swivel TV stands in 2026, tabletop bases and full floor consoles ranked by swivel range, weight capacity, and TV size fit for every room.";

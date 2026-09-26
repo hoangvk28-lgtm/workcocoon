@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-trays-with-lids";
-export const guideTitle = "6 Best Paper Trays with Lids in 2026";
+export const guideTitle = "Best Paper Trays with Lids";
 export const metaTitle = "Best Paper Trays with Lids";
 export const metaDescription = "We compared paper trays with lids models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "paper trays with lids";

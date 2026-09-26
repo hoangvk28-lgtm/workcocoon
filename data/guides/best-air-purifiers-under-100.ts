@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-under-100";
-export const guideTitle = "5 Best Air Purifiers Under $100 in 2026";
+export const guideTitle = "Best Air Purifiers Under $100";
 export const metaTitle = "Best Air Purifiers Under $100, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers under $100 we evaluated, with the true cost-of-ownership angle competitors skip: the sticker price is only part of the story, ongoing filter replacement cost over a year can rival or exceed the unit's original price.";

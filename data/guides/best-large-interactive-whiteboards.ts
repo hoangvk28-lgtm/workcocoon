@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-interactive-whiteboards";
-export const guideTitle = "7 Best Large Interactive Whiteboards";
+export const guideTitle = "Best Large Interactive Whiteboards";
 export const metaTitle = "Best Large Interactive Whiteboards";
 export const metaDescription = "We used the 86/98-inch tier as the large-room hub, emphasizing structural installation requirements and writing reach.";
 export const mainKeyword = "large interactive whiteboard";

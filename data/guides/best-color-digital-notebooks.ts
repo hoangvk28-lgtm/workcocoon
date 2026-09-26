@@ -1,5 +1,5 @@
 export const guideSlug = "best-color-digital-notebooks";
-export const guideTitle = "5 Best Color Digital Notebooks in 2026";
+export const guideTitle = "Best Color Digital Notebooks";
 export const metaTitle = "Best Color Digital Notebooks (2026)";
 export const metaDescription =
   "5 digital notebooks we evaluated with a color display explicitly confirmed on the listing, excluding any black-and-white e-ink model from this specific guide.";

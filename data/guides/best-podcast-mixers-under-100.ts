@@ -1,5 +1,5 @@
 export const guideSlug = "best-podcast-mixers-under-100";
-export const guideTitle = "5 Best Podcast Mixers Under $100 in 2026";
+export const guideTitle = "Best Podcast Mixers Under $100";
 export const metaTitle = "Best Podcast Mixers Under $100 in 2026";
 export const metaDescription = "We compared best podcast mixers under $100 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "podcast mixers under $100";

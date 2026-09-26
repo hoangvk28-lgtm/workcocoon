@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-under-50";
-export const guideTitle = "8 Best USB-C Ethernet Adapters Under $50 in 2026";
+export const guideTitle = "Best USB-C Ethernet Adapters Under $50";
 export const metaTitle = "Best USB-C Ethernet Adapters Under $50 in 2026";
 export const metaDescription = "We compared best usb-c ethernet adapters under $50 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "usb-c ethernet adapters under $50";

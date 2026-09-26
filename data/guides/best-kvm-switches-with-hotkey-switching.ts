@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-with-hotkey-switching";
-export const guideTitle = "5 Best KVM Switches with Hotkey Switching in 2026";
+export const guideTitle = "Best KVM Switches with Hotkey Switching";
 export const metaTitle = "Best KVM Switches with Hotkey Switching, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches with hotkey switching we evaluated, with a note that hotkey combinations vary by manufacturer, some use Scroll Lock twice, others use Ctrl combinations that can conflict with app shortcuts.";

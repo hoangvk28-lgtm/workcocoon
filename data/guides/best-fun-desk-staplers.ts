@@ -1,5 +1,5 @@
 export const guideSlug = "best-fun-desk-staplers";
-export const guideTitle = "4 Best Fun Desk Staplers in 2026";
+export const guideTitle = "Best Fun Desk Staplers";
 export const metaTitle = "Best Fun Desk Staplers";
 export const metaDescription = "We compared fun desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "fun desk staplers";

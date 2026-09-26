@@ -1,5 +1,5 @@
 export const guideSlug = "best-id-badge-holders-with-zipper-pockets";
-export const guideTitle = "6 Best ID Badge Holders with Zipper Pockets in 2026";
+export const guideTitle = "Best ID Badge Holders with Zipper Pockets";
 export const metaTitle = "Best ID Badge Holders with Zipper Pockets";
 export const metaDescription = "We compared id badge holders with zipper pockets models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "id badge holders with zipper pockets";

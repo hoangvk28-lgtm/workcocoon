@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-with-keypads";
-export const guideTitle = "8 Best Small Safes With Keypads in 2026";
+export const guideTitle = "Best Small Safes With Keypads";
 export const metaTitle = "Best Small Safes With Keypads (2026)";
 export const metaDescription =
   "8 keypad safes compared on battery access, backup entry security, and lockout behavior, the electronic-lock details that actually matter day to day.";

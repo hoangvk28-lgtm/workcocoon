@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-dell-laptops";
-export const guideTitle = "8 Best Laptop Cooling Pads for Dell Laptops in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Dell Laptops";
 export const metaTitle = "Best Cooling Pads for Dell Laptops (2026)";
 export const metaDescription =
   "8 laptop cooling pads that list Dell compatibility, with honest notes on universal fit versus what thin XPS models specifically need.";

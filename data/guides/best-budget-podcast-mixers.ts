@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-podcast-mixers";
-export const guideTitle = "8 Best Budget Podcast Mixers in 2026";
+export const guideTitle = "Best Budget Podcast Mixers";
 export const metaTitle = "Best Budget Podcast Mixers";
 export const metaDescription = "We compared cheap podcast mixer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "cheap podcast mixer";

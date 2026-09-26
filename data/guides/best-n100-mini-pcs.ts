@@ -1,5 +1,5 @@
 export const guideSlug = "best-n100-mini-pcs";
-export const guideTitle = "5 Best N100 Mini PCs in 2026";
+export const guideTitle = "Best N100 Mini PCs";
 export const metaTitle = "Best N100 Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 N100 mini PCs we evaluated, with an honest note that the N100 chip is genuinely well-suited to light everyday tasks and home server use, but not video editing or heavy multitasking.";

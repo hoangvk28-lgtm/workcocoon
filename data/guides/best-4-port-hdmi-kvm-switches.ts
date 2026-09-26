@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-port-hdmi-kvm-switches";
-export const guideTitle = "5 Best 4-Port HDMI KVM Switches in 2026";
+export const guideTitle = "Best 4-Port HDMI KVM Switches";
 export const metaTitle = "Best 4-Port HDMI KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 4-port HDMI KVM switches we evaluated, with a note that HDMI cable length and quality matter more at four ports since more cables running to one switch increases the chance of a weak connection somewhere in the chain.";

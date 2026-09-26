@@ -1,5 +1,5 @@
 export const guideSlug = "best-formaldehyde-air-quality-monitors";
-export const guideTitle = "8 Best Formaldehyde Air Quality Monitors in 2026";
+export const guideTitle = "Best Formaldehyde Air Quality Monitors";
 export const metaTitle = "Best Formaldehyde Air Quality Monitors";
 export const metaDescription = "We compared formaldehyde air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "formaldehyde air quality monitor";

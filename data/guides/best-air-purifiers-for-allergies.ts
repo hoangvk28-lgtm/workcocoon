@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-allergies";
-export const guideTitle = "5 Best Air Purifiers for Allergies in 2026";
+export const guideTitle = "Best Air Purifiers for Allergies";
 export const metaTitle = "Best Air Purifiers for Allergies, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for allergies, with the specific target competitors skip: allergist-recommended guidance specifies 4-5 air changes per hour for meaningful symptom relief, a checkable target most consumer marketing never states.";

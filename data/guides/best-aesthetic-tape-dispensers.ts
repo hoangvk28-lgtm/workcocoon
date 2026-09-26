@@ -1,5 +1,5 @@
 export const guideSlug = "best-aesthetic-tape-dispensers";
-export const guideTitle = "6 Best Aesthetic Tape Dispensers in 2026";
+export const guideTitle = "Best Aesthetic Tape Dispensers";
 export const metaTitle = "Best Aesthetic Tape Dispensers";
 export const metaDescription = "We compared aesthetic tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "aesthetic tape dispensers";

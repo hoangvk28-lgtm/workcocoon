@@ -1,5 +1,5 @@
 export const guideSlug = "best-wood-kneeling-chairs";
-export const guideTitle = "8 Best Wood Kneeling Chairs in 2026";
+export const guideTitle = "Best Wood Kneeling Chairs";
 export const metaTitle = "Best Wood Kneeling Chairs";
 export const metaDescription = "We compared kneeling chair wood models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "kneeling chair wood";

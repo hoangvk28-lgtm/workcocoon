@@ -1,5 +1,5 @@
 export const guideSlug = "best-cpu-stands-for-gaming-pcs";
-export const guideTitle = "8 Best CPU Stands for Gaming PCs in 2026";
+export const guideTitle = "Best CPU Stands for Gaming PCs";
 export const metaTitle = "Best CPU Stands for Gaming PCs";
 export const metaDescription = "We compared gaming cpu stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "gaming cpu stand";

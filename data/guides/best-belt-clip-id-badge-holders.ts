@@ -1,5 +1,5 @@
 export const guideSlug = "best-belt-clip-id-badge-holders";
-export const guideTitle = "6 Best Belt-Clip ID Badge Holders in 2026";
+export const guideTitle = "Best Belt-Clip ID Badge Holders";
 export const metaTitle = "Best Belt-Clip ID Badge Holders";
 export const metaDescription = "We compared belt-clip id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "belt-clip id badge holders";

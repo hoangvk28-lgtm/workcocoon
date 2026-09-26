@@ -1,5 +1,5 @@
 export const guideSlug = "best-vornado-desk-fans";
-export const guideTitle = "8 Best Vornado Desk Fans in 2026";
+export const guideTitle = "Best Vornado Desk Fans";
 export const metaTitle = "Best Vornado Desk Fans";
 export const metaDescription = "We compared desk fan vornado models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan vornado";

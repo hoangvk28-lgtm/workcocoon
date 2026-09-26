@@ -1,5 +1,5 @@
 export const guideSlug = "best-14-inch-laptop-cooling-pads";
-export const guideTitle = "6 Best 14-Inch Laptop Cooling Pads in 2026";
+export const guideTitle = "Best 14-Inch Laptop Cooling Pads";
 export const metaTitle = "Best 14-Inch Laptop Cooling Pads (2026)";
 export const metaDescription =
   "6 laptop cooling pads we evaluated for genuine fit with 14-inch laptops, an increasingly common size many ultrabooks have shifted to from 13 inches.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-projectors";
-export const guideTitle = "8 Best Mini Projectors in 2026";
+export const guideTitle = "Best Mini Projectors";
 export const metaTitle = "Best Mini Projectors";
 export const metaDescription = "We compared mini projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mini projector";

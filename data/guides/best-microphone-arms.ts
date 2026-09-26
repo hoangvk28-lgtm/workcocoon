@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms";
-export const guideTitle = "8 Best Microphone Arms in 2026";
+export const guideTitle = "Best Microphone Arms";
 export const metaTitle = "Best Microphone Arms";
 export const metaDescription = "We compared microphone arm models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "microphone arm";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-under-100";
-export const guideTitle = "4 Best Office Chairs Under $100 in 2026";
+export const guideTitle = "Best Office Chairs Under $100";
 export const metaTitle = "Best Office Chairs Under $100";
 export const metaDescription = "We compared office chairs under $100 by weight capacity, lumbar adjustability, and certified gas lift safety, since quality varies widely at this budget tier.";
 export const mainKeyword = "best office chairs under $100";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-glasses-multipacks";
-export const guideTitle = "6 Best Blue Light Glasses Multipacks in 2026";
+export const guideTitle = "Best Blue Light Glasses Multipacks";
 export const metaTitle = "Best Blue Light Glasses Multipacks";
 export const metaDescription = "We compared blue light glasses multipacks models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "blue light glasses multipacks";

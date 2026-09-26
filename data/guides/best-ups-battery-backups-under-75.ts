@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-under-75";
-export const guideTitle = "4 Best UPS Battery Backups Under $75 in 2026";
+export const guideTitle = "Best UPS Battery Backups Under $75";
 export const metaTitle = "Best UPS Battery Backups Under $75";
 export const metaDescription = "We compared UPS battery backups under $75 by VA rating, outlet count, and connected equipment warranty, since real desktop AC-outlet units begin at this tier.";
 export const mainKeyword = "best ups battery backups under $75";

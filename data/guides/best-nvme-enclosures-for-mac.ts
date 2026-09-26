@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvme-enclosures-for-mac";
-export const guideTitle = "6 Best NVMe Enclosures for Mac in 2026";
+export const guideTitle = "Best NVMe Enclosures for Mac";
 export const metaTitle = "Best NVMe Enclosures for Mac in 2026";
 export const metaDescription = "Mac compatibility depends on the exact port generation, not the USB-C connector shape. We built a compatibility-first comparison.";
 export const mainKeyword = "nvme enclosures for mac";

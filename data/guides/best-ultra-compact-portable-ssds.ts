@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultra-compact-portable-ssds";
-export const guideTitle = "4 Best Ultra-Compact Portable SSDs in 2026";
+export const guideTitle = "Best Ultra-Compact Portable SSDs";
 export const metaTitle = "Best Ultra-Compact Portable SSDs";
 export const metaDescription = "4 ultra-compact portable SSDs we evaluated, weighing real thermal throttling risk and connector durability against their small size and weight.";
 export const mainKeyword = "best ultra compact portable ssd";

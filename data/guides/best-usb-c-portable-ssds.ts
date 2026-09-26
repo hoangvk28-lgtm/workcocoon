@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-portable-ssds";
-export const guideTitle = "4 Best USB-C Portable SSDs in 2026";
+export const guideTitle = "Best USB-C Portable SSDs";
 export const metaTitle = "Best USB-C Portable SSDs in 2026";
 export const metaDescription = "4 USB-C portable SSDs we evaluated, with a clear reminder that the connector shape alone never guarantees any particular speed tier.";
 export const mainKeyword = "best usb c portable ssd";

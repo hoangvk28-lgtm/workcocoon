@@ -1,5 +1,5 @@
 export const guideSlug = "best-projectors-for-living-room";
-export const guideTitle = "8 Best Projectors for Living Room in 2026";
+export const guideTitle = "Best Projectors for Living Room";
 export const metaTitle = "Best Projectors for Living Room";
 export const metaDescription = "We compared projector living room models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "projector living room";

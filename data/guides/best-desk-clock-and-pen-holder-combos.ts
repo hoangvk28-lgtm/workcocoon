@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clock-and-pen-holder-combos";
-export const guideTitle = "6 Best Desk Clock and Pen Holder Combos in 2026";
+export const guideTitle = "Best Desk Clock and Pen Holder Combos";
 export const metaTitle = "Best Desk Clock Pen Holder Combos";
 export const metaDescription =
   "6 desk organizers that combine a digital clock with a pen and pencil holder compared, covering display features, price, and which desks each suits best.";

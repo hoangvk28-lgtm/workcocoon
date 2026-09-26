@@ -1,5 +1,5 @@
 export const guideSlug = "best-ai-mini-pcs";
-export const guideTitle = "5 Best AI Mini PCs in 2026";
+export const guideTitle = "Best AI Mini PCs";
 export const metaTitle = "Best AI Mini PCs (2026)";
 export const metaDescription =
   "5 AI mini PCs we evaluated, defined by real NPU capability, memory bandwidth, and usable local model size, not just an AI marketing badge.";

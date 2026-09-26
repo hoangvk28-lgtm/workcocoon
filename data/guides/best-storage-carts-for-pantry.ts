@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-for-pantry";
-export const guideTitle = "8 Best Storage Carts for Pantry in 2026";
+export const guideTitle = "Best Storage Carts for Pantry";
 export const metaTitle = "Best Storage Carts for Pantry";
 export const metaDescription = "We compared storage cart pantry models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "storage cart pantry";

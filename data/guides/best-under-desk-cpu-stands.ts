@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-cpu-stands";
-export const guideTitle = "8 Best Under-Desk CPU Stands in 2026";
+export const guideTitle = "Best Under-Desk CPU Stands";
 export const metaTitle = "Best Under-Desk CPU Stands";
 export const metaDescription = "We compared under desk cpu stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under desk cpu stand";

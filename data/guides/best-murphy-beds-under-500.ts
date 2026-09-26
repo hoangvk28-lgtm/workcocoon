@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-under-500";
-export const guideTitle = "4 Best Murphy Beds Under $500 in 2026";
+export const guideTitle = "Best Murphy Beds Under $500";
 export const metaTitle = "Best Murphy Beds Under $500";
 export const metaDescription = "We compared murphy beds under $500 by weight capacity, storage design, and mechanism type, since fully assembled cabinet beds with real storage appear here.";
 export const mainKeyword = "best murphy beds under $500";

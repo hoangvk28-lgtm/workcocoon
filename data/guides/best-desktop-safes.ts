@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-safes";
-export const guideTitle = "8 Best Desktop Safes in 2026";
+export const guideTitle = "Best Desktop Safes";
 export const metaTitle = "Best Desktop Safes (2026)";
 export const metaDescription =
   "8 desktop-appropriate safes compared with an anchoring requirement first, since a visible desktop safe without mounting hardware is an easy target to carry off.";

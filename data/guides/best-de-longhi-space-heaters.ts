@@ -1,5 +1,5 @@
 export const guideSlug = "best-de-longhi-space-heaters";
-export const guideTitle = "8 Best De'Longhi Space Heaters in 2026";
+export const guideTitle = "Best De'Longhi Space Heaters";
 export const metaTitle = "Best De'Longhi Space Heaters";
 export const metaDescription = "We compared space heater delonghi models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater delonghi";

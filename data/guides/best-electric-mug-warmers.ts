@@ -1,5 +1,5 @@
 export const guideSlug = "best-electric-mug-warmers";
-export const guideTitle = "6 Best Electric Mug Warmers in 2026";
+export const guideTitle = "Best Electric Mug Warmers";
 export const metaTitle = "Best Electric Mug Warmers";
 export const metaDescription = "We compared electric mug warmers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "electric mug warmers";

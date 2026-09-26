@@ -1,5 +1,5 @@
 export const guideSlug = "best-oupes-portable-power-stations";
-export const guideTitle = "2 Best OUPES Portable Power Stations in 2026";
+export const guideTitle = "Best OUPES Portable Power Stations";
 export const metaTitle = "Best OUPES Portable Power Stations 2026";
 export const metaDescription = "We compared oupes portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "oupes portable power stations";

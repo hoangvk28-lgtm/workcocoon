@@ -1,5 +1,5 @@
 export const guideSlug = "best-triple-monitor-docking-stations";
-export const guideTitle = "8 Best Triple-Monitor Docking Stations in 2026";
+export const guideTitle = "Best Docking Stations for a Triple-Monitor Setup";
 export const metaTitle = "Best Triple-Monitor Docking Stations in 2026 (Windows & Mac Picks)";
 export const metaDescription =
   "8 best triple-monitor docking stations in 2026, covering true DisplayLink triple output and native Thunderbolt options. Compare bandwidth, power, and Mac compatibility.";

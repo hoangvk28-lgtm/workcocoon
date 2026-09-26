@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebook-tablets";
-export const guideTitle = "8 Best Digital Notebook Tablets in 2026";
+export const guideTitle = "Best Digital Notebook Tablets";
 export const metaTitle = "Best Digital Notebook Tablets (2026)";
 export const metaDescription =
   "8 e-ink digital notebook tablets we evaluated, standalone screen-based devices you write on directly, distinct from paper-based reusable notebooks.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-5-inch-lcd-writing-tablets";
-export const guideTitle = "7 Best 8.5 Inch LCD Writing Tablets in 2026";
+export const guideTitle = "Best 8.5 Inch LCD Writing Tablets";
 export const metaTitle = "Best 8.5 Inch LCD Writing Tablets (2026)";
 export const metaDescription =
   "7 genuinely 8.5 inch LCD writing tablets we evaluated, the most common size in this category, balancing portability with enough room for a short note.";

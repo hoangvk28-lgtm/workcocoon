@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-compatible-with-hp-dell-laptops";
-export const guideTitle = "8 Best Docking Stations Compatible with HP & Dell Laptops in 2026";
+export const guideTitle = "Best Docking Stations for HP and Dell Business Laptops";
 export const metaTitle = "Best Docking Stations for HP & Dell Laptops (2026)";
 export const metaDescription =
   "8 best docking stations for HP and Dell business laptops in 2026, from official G-series and WD docks to renewed bundles. Compare ports, power, and IT-fleet fit.";

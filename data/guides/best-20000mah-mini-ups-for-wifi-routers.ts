@@ -1,5 +1,5 @@
 export const guideSlug = "best-20000mah-mini-ups-for-wifi-routers";
-export const guideTitle = "3 Best 20,000mAh Mini UPS for Wi-Fi Routers";
+export const guideTitle = "Best 20,000mAh Mini UPS for Wi-Fi Routers";
 export const metaTitle = "Best 20,000mAh Mini UPS for Routers";
 export const metaDescription = "20,000mAh isn't directly comparable across brands without knowing pack voltage. We converted this tier to watt-hours before ranking.";
 export const mainKeyword = "20000mah mini ups for wifi routers";

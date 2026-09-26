@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-laser-engravers";
-export const guideTitle = "8 Best Industrial Laser Engravers in 2026";
+export const guideTitle = "Best Industrial Laser Engravers";
 export const metaTitle = "Best Industrial Laser Engravers in 2026";
 export const metaDescription = "We compared best industrial laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "industrial laser engravers";

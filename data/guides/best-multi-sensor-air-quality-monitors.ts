@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-sensor-air-quality-monitors";
-export const guideTitle = "8 Best Multi-Sensor Air Quality Monitors in 2026";
+export const guideTitle = "Best Multi-Sensor Air Quality Monitors";
 export const metaTitle = "Best Multi-Sensor Air Quality Monitors";
 export const metaDescription = "We compared multi sensor air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "multi sensor air quality monitor";

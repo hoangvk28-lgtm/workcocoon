@@ -1,5 +1,5 @@
 export const guideSlug = "best-four-in-one-desk-cup-holders";
-export const guideTitle = "5 Best Four-in-One Desk Cup Holders in 2026";
+export const guideTitle = "Best Four-in-One Desk Cup Holders";
 export const metaTitle = "Best Four-in-One Desk Cup Holders (2026)";
 export const metaDescription =
   "5 four-in-one desk cup holders, with each product's actual combined functions decoded and independently verified for genuine quality.";

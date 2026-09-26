@@ -1,5 +1,5 @@
 export const guideSlug = "best-cisco-network-switches";
-export const guideTitle = "5 Best Cisco Network Switches in 2026";
+export const guideTitle = "Best Cisco Network Switches";
 export const metaTitle = "Best Cisco Network Switches in 2026";
 export const metaDescription = "Cisco's Amazon presence is mostly Meraki cloud-managed hardware. We covered licensing considerations and included an Arista alternative.";
 export const mainKeyword = "cisco network switches";

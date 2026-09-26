@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-with-carbon-monoxide-detection";
-export const guideTitle = "8 Best Air Quality Monitors With Carbon Monoxide Detection in 2026";
+export const guideTitle = "Best Air Quality Monitors With Carbon Monoxide Detection";
 export const metaTitle = "Best Air Quality Monitors With Carbon Monoxide";
 export const metaDescription = "We compared air quality monitor carbon monoxide models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor carbon monoxide";

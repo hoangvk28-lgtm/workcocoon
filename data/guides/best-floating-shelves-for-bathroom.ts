@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-shelves-for-bathroom";
-export const guideTitle = "8 Best Floating Shelves for Bathroom in 2026";
+export const guideTitle = "Best Floating Shelves for Bathroom";
 export const metaTitle = "Best Floating Shelves for Bathroom";
 export const metaDescription = "We compared floating shelf for bathroom models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "floating shelf for bathroom";

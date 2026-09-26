@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-with-flip-up-arms";
-export const guideTitle = "8 Best Office Chairs with Flip-Up Arms in 2026";
+export const guideTitle = "Best Office Chairs with Flip-Up Arms";
 export const metaTitle = "Best Office Chairs with Flip-Up Arms in 2026 (Arm Type Guide)";
 export const metaDescription =
   "8 office chairs we evaluated for flip-up and adjustable armrests, comparing genuine flip-up designs against fixed or unclear arm styles so you know what you're buying.";

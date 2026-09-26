@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-blocking-glasses";
-export const guideTitle = "6 Best Blue Light Blocking Glasses in 2026";
+export const guideTitle = "Best Blue Light Blocking Glasses";
 export const metaTitle = "Best Blue Light Blocking Glasses";
 export const metaDescription = "We compared blue light blocking glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "blue light blocking glasses";

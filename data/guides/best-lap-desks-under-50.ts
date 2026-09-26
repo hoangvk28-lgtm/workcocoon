@@ -1,5 +1,5 @@
 export const guideSlug = "best-lap-desks-under-50";
-export const guideTitle = "4 Best Lap Desks Under $50 in 2026";
+export const guideTitle = "Best Lap Desks Under $50";
 export const metaTitle = "Best Lap Desks Under $50";
 export const metaDescription = "We compared lap desks under $50 by USB cooling fans, hidden storage drawers, and weight rating, since the most fully featured bed desks top out at this tier.";
 export const mainKeyword = "best lap desks under $50";

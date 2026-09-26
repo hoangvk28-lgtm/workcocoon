@@ -1,5 +1,5 @@
 export const guideSlug = "best-vial-label-printers";
-export const guideTitle = "6 Best Vial Label Printers in 2026";
+export const guideTitle = "Best Vial Label Printers";
 export const metaTitle = "Best Vial Label Printers";
 export const metaDescription = "We compared vial label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "vial label printers";

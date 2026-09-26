@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-size-sticky-note-holders";
-export const guideTitle = "6 Best Multi-Size Sticky Note Holders in 2026";
+export const guideTitle = "Best Multi-Size Sticky Note Holders";
 export const metaTitle = "Best Multi-Size Sticky Note Holders";
 export const metaDescription = "We compared multi-size sticky note holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "multi-size sticky note holders";

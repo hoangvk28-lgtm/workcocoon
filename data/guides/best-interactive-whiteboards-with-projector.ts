@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-with-projector";
-export const guideTitle = "6 Best Interactive Whiteboards With Projector";
+export const guideTitle = "Best Interactive Whiteboards With Projector";
 export const metaTitle = "Best Interactive Whiteboards With Projector";
 export const metaDescription = "We compared projected interactive area, ambient-light limits, and calibration stability against flat-panel alternatives for projector-based systems.";
 export const mainKeyword = "interactive whiteboard with projector";

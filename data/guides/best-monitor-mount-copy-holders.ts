@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-mount-copy-holders";
-export const guideTitle = "6 Best Monitor-Mount Copy Holders in 2026";
+export const guideTitle = "Best Monitor-Mount Copy Holders";
 export const metaTitle = "Best Monitor-Mount Copy Holders";
 export const metaDescription = "We compared monitor-mount copy holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "monitor-mount copy holders";

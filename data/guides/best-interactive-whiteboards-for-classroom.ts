@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-classroom";
-export const guideTitle = "8 Best Interactive Whiteboards for Classroom";
+export const guideTitle = "Best Interactive Whiteboards for Classroom";
 export const metaTitle = "Best Classroom Interactive Whiteboards";
 export const metaDescription = "We compared classroom interactive whiteboards by real touch matrix, lesson software, and daily startup workflow rather than generic spec sheets.";
 export const mainKeyword = "classroom interactive whiteboard";

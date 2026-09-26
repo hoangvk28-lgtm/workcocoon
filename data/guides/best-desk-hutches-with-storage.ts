@@ -1,6 +1,6 @@
 const BASE = "/images/guides/best-desk-hutches-with-storage";
 export const guideSlug = "best-desk-hutches-with-storage";
-export const guideTitle = "8 Best Desk Hutches with Storage (2026)";
+export const guideTitle = "Best Desk Hutches with Storage (2026)";
 export const metaTitle = "Best Desk Hutches with Storage (2026)";
 export const metaDescription =
   "Best desk hutches with storage in 2026. Covers open shelves, drawer hutches, LED-lit bookcases with outlets, and fabric drawer units for any desk.";

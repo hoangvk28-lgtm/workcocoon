@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-for-mac";
-export const guideTitle = "4 Best USB4 Docks for Mac and MacBook in 2026";
+export const guideTitle = "Best USB4 Docks for Mac and MacBook";
 export const metaTitle = "Best USB4 Docks for Mac and MacBook";
 export const metaDescription = "We compared USB4 docks for Mac by display count per chip generation, built-in storage, and charging wattage, since Apple's own display limits vary by chip.";
 export const mainKeyword = "best usb4 dock for mac";

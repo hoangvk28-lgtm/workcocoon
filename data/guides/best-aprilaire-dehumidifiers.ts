@@ -1,5 +1,5 @@
 export const guideSlug = "best-aprilaire-dehumidifiers";
-export const guideTitle = "8 Best Aprilaire Dehumidifiers in 2026";
+export const guideTitle = "Best Aprilaire Dehumidifiers";
 export const metaTitle = "Best Aprilaire Dehumidifiers";
 export const metaDescription = "We compared aprilaire dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "aprilaire dehumidifier";

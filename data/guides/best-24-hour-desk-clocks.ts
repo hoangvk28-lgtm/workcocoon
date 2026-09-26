@@ -1,5 +1,5 @@
 export const guideSlug = "best-24-hour-desk-clocks";
-export const guideTitle = "5 Best 24-Hour Desk Clocks in 2026";
+export const guideTitle = "Best 24-Hour Desk Clocks";
 export const metaTitle = "Best 24-Hour Desk Clocks (2026)";
 export const metaDescription =
   "5 digital desk clocks that support a native 24-hour display mode, verified as a genuine setting option rather than assumed from general product descriptions.";

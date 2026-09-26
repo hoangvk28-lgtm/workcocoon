@@ -1,5 +1,5 @@
 export const guideSlug = "best-network-switches-for-10-inch-racks";
-export const guideTitle = "7 Best Network Switches for 10-Inch Racks";
+export const guideTitle = "Best Network Switches for 10-Inch Racks";
 export const metaTitle = "Best Switches for 10-Inch Racks 2026";
 export const metaDescription = "True 10-inch rack-native switches are limited. We covered slim switches with mounting adapters and matching mini rack enclosures.";
 export const mainKeyword = "network switches for 10-inch racks";

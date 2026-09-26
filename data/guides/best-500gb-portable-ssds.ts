@@ -1,5 +1,5 @@
 export const guideSlug = "best-500gb-portable-ssds";
-export const guideTitle = "3 Best Compact-Capacity Portable SSDs in 2026";
+export const guideTitle = "Best Compact-Capacity Portable SSDs";
 export const metaTitle = "Best Compact-Capacity Portable SSDs";
 export const metaDescription = "3 compact-capacity portable SSDs we evaluated, with honest capacity notes since true 500GB listings were limited in our verified research pool.";
 export const mainKeyword = "best 500gb portable ssd";

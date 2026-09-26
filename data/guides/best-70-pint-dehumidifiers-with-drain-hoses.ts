@@ -1,5 +1,5 @@
 export const guideSlug = "best-70-pint-dehumidifiers-with-drain-hoses";
-export const guideTitle = "8 Best 70-Pint Dehumidifiers With Drain Hoses in 2026";
+export const guideTitle = "Best 70-Pint Dehumidifiers With Drain Hoses";
 export const metaTitle = "Best 70-Pint Dehumidifiers With Drain Hoses";
 export const metaDescription = "We compared 70 pint dehumidifier with drain hose models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "70 pint dehumidifier with drain hose";

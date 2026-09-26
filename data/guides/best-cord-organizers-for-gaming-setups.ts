@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizers-for-gaming-setups";
-export const guideTitle = "6 Best Cord Organizers for Gaming Setups in 2026";
+export const guideTitle = "Best Cord Organizers for Gaming Setups";
 export const metaTitle = "Best Cord Organizers for Gaming Setups";
 export const metaDescription = "We compared cord organizers for gaming setups models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "cord organizers for gaming setups";

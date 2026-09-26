@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-under-75";
-export const guideTitle = "4 Best KVM Switches Under $75 in 2026";
+export const guideTitle = "Best KVM Switches Under $75";
 export const metaTitle = "Best KVM Switches Under $75";
 export const metaDescription = "We compared KVM switches under $75 by USB-C hybrid support, trusted brand reliability, and Power Delivery charging for a genuine two-laptop setup.";
 export const mainKeyword = "best kvm switches under $75";

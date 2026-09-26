@@ -1,5 +1,5 @@
 export const guideSlug = "best-openwrt-travel-router";
-export const guideTitle = "4 Best OpenWrt Travel Routers in 2026";
+export const guideTitle = "Best OpenWrt Travel Routers";
 export const metaTitle = "Best OpenWrt Travel Routers";
 export const metaDescription = "We compared OpenWrt travel routers by firmware version and plugin storage, since one runs OpenWrt 23.05 with 512MB storage while another uses the older 21.02.";
 export const mainKeyword = "best openwrt travel router";

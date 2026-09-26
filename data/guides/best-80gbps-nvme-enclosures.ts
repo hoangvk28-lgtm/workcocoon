@@ -1,5 +1,5 @@
 export const guideSlug = "best-80gbps-nvme-enclosures";
-export const guideTitle = "5 Best 80Gbps NVMe Enclosures in 2026";
+export const guideTitle = "Best 80Gbps NVMe Enclosures";
 export const metaTitle = "Best 80Gbps NVMe Enclosures 2026";
 export const metaDescription = "USB4 80Gbps and Thunderbolt 5 are now real enclosure classes. We checked host support, controller, and SSD power limits before ranking.";
 export const mainKeyword = "80gbps nvme enclosures";

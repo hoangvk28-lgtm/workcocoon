@@ -1,5 +1,5 @@
 export const guideSlug = "best-behringer-studio-monitors";
-export const guideTitle = "8 Best Behringer Studio Monitors in 2026";
+export const guideTitle = "Best Behringer Studio Monitors";
 export const metaTitle = "Best Behringer Studio Monitors";
 export const metaDescription = "We compared behringer studio monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "behringer studio monitor";

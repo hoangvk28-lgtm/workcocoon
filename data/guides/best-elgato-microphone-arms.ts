@@ -1,5 +1,5 @@
 export const guideSlug = "best-elgato-microphone-arms";
-export const guideTitle = "8 Best Elgato Microphone Arms in 2026";
+export const guideTitle = "Best Elgato Microphone Arms";
 export const metaTitle = "Best Elgato Microphone Arms";
 export const metaDescription = "We compared elgato wave mic arm models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "elgato wave mic arm";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-for-office";
-export const guideTitle = "8 Best Bookshelves for Office in 2026";
+export const guideTitle = "Best Bookshelves for Office";
 export const metaTitle = "Best Bookshelves for Office in 2026 (Storage, Doors & Desktop)";
 export const metaDescription =
   "8 best bookshelves for a home or work office in 2026, comparing capacity, concealed storage, and desktop options. Find the sturdiest pick for your setup.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-long-range-wifi-7-routers";
-export const guideTitle = "4 Best Long-Range Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Long-Range Wi-Fi 7 Routers";
 export const metaTitle = "Best Long-Range Wi-Fi 7 Routers (2026)";
 export const metaDescription =
   "4 long-range Wi-Fi 7 routers we evaluated, plus an honest look at when a single router hits its physical limit and mesh becomes the better answer.";

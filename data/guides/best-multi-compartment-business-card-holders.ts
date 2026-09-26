@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-compartment-business-card-holders";
-export const guideTitle = "6 Best Multi-Compartment Business Card Holders in 2026";
+export const guideTitle = "Best Multi-Compartment Business Card Holders";
 export const metaTitle = "Best Multi-Compartment Business Card Holders";
 export const metaDescription = "We compared multi-compartment business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "multi-compartment business card holders";

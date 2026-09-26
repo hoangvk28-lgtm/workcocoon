@@ -1,5 +1,5 @@
 export const guideSlug = "best-perforated-metal-modesty-panels";
-export const guideTitle = "8 Best Perforated Metal Modesty Panels in 2026";
+export const guideTitle = "Best Perforated Metal Modesty Panels";
 export const metaTitle = "Best Perforated Metal Modesty Panels";
 export const metaDescription = "We compared perforated metal modesty panel models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "perforated metal modesty panel";

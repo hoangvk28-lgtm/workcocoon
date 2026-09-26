@@ -1,5 +1,5 @@
 export const guideSlug = "best-alex-tech-cable-sleeves";
-export const guideTitle = "4 Best Alex Tech Cable Sleeves in 2026";
+export const guideTitle = "Best Alex Tech Cable Sleeves";
 export const metaTitle = "Best Alex Tech Cable Sleeves";
 export const metaDescription = "We compared alex tech cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "alex tech cable sleeves";

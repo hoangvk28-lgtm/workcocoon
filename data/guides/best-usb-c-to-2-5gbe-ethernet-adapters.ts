@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-to-2-5gbe-ethernet-adapters";
-export const guideTitle = "8 Best USB-C to 2.5GbE Ethernet Adapters";
+export const guideTitle = "Best USB-C to 2.5GbE Ethernet Adapters";
 export const metaTitle = "Best USB-C to 2.5GbE Ethernet Adapters";
 export const metaDescription = "2.5GbE is now a strong mainstream multi-gig tier. We required real 2.5GBASE-T support and backward negotiation before ranking.";
 export const mainKeyword = "usb-c to 2.5gbe ethernet adapters";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-with-100w-power-delivery";
-export const guideTitle = "8 Best Docking Stations with 100W Power Delivery in 2026";
+export const guideTitle = "Best Docking Stations with Real 100W Power Delivery";
 export const metaTitle = "Best 100W Power Delivery Docking Stations in 2026";
 export const metaDescription =
   "8 best docking stations with 100W power delivery in 2026. Compare rated vs. actual wattage, display support, and which laptops 100W PD actually suits.";

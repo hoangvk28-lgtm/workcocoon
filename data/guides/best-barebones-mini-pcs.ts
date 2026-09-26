@@ -1,5 +1,5 @@
 export const guideSlug = "best-barebones-mini-pcs";
-export const guideTitle = "4 Best Barebones Mini PCs in 2026";
+export const guideTitle = "Best Barebones Mini PCs";
 export const metaTitle = "Best Barebones Mini PCs (2026)";
 export const metaDescription =
   "4 barebones mini PCs we evaluated, with a note that the low sticker price excludes RAM and storage, verify true configured cost first.";

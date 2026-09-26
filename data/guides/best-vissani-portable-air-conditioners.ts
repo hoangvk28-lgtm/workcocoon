@@ -1,5 +1,5 @@
 export const guideSlug = "best-vissani-portable-air-conditioners";
-export const guideTitle = "8 Best Vissani Portable Air Conditioners in 2026";
+export const guideTitle = "Best Vissani Portable Air Conditioners";
 export const metaTitle = "Best Vissani Portable Air Conditioners";
 export const metaDescription = "We compared vissani portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "vissani portable air conditioner";

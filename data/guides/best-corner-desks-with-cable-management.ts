@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-with-cable-management";
-export const guideTitle = "8 Best Corner Desks with Cable Management in 2026";
+export const guideTitle = "Best Corner Desks with Cable Management";
 export const metaTitle = "Best Corner Desks with Cable Management";
 export const metaDescription = "We compared corner desk organizer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk organizer";

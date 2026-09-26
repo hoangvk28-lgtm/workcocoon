@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-with-monitor-mounts";
-export const guideTitle = "6 Best Standing Desk Converters with Monitor Mounts";
+export const guideTitle = "Best Standing Desk Converters with Monitor Mounts";
 export const metaTitle = "Best Standing Desk Converters with Monitor Mounts";
 export const metaDescription =
   "6 converters with a genuine integrated monitor mount compared on VESA compatibility and monitor size range, not just open platform space.";

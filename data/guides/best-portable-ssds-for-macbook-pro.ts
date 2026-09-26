@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-macbook-pro";
-export const guideTitle = "4 Best Portable SSDs for MacBook Pro in 2026";
+export const guideTitle = "Best Portable SSDs for MacBook Pro";
 export const metaTitle = "Best Portable SSDs for MacBook Pro";
 export const metaDescription = "4 portable SSDs we evaluated specifically for MacBook Pro's Thunderbolt 4 and 5 ports, which offer more real bandwidth than base MacBook Air.";
 export const mainKeyword = "best portable ssd for macbook pro";

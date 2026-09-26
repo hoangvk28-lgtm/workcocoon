@@ -1,5 +1,5 @@
 export const guideSlug = "best-dreo-portable-air-conditioners";
-export const guideTitle = "8 Best Dreo Portable Air Conditioners in 2026";
+export const guideTitle = "Best Dreo Portable Air Conditioners";
 export const metaTitle = "Best Dreo Portable Air Conditioners";
 export const metaDescription = "We compared dreo portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "dreo portable air conditioner";

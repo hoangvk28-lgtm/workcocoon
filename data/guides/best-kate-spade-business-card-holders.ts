@@ -1,5 +1,5 @@
 export const guideSlug = "best-kate-spade-business-card-holders";
-export const guideTitle = "6 Best Kate Spade Business Card Holders in 2026";
+export const guideTitle = "Best Kate Spade Business Card Holders";
 export const metaTitle = "Best Kate Spade Business Card Holders";
 export const metaDescription = "We compared kate spade business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "kate spade business card holders";

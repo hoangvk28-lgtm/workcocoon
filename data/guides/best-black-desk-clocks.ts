@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-desk-clocks";
-export const guideTitle = "5 Best Black Desk Clocks in 2026";
+export const guideTitle = "Best Black Desk Clocks";
 export const metaTitle = "Best Black Desk Clocks (2026)";
 export const metaDescription =
   "5 black desk clocks spanning flip-display, LED digital, and analog styles, compared for legibility and display contrast rather than treating them as interchangeable by color alone.";

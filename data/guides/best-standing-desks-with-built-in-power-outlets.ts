@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desks-with-built-in-power-outlets";
-export const guideTitle = "8 Best Standing Desks with Built-In Power Outlets in 2026";
+export const guideTitle = "Best Standing Desks with Built-In Power Outlets";
 export const metaTitle = "Best Standing Desks with Built-In Power Outlets (2026)";
 export const metaDescription =
   "Only 1 of these 8 listings confirms built-in power outlets. We rank it first and flag the rest honestly, plus what to check before assuming any desk has one.";

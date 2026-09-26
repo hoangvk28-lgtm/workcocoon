@@ -1,5 +1,5 @@
 export const guideSlug = "best-plastic-id-badge-holders";
-export const guideTitle = "6 Best Plastic ID Badge Holders in 2026";
+export const guideTitle = "Best Plastic ID Badge Holders";
 export const metaTitle = "Best Plastic ID Badge Holders";
 export const metaDescription = "We compared plastic id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "plastic id badge holders";

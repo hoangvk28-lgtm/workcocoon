@@ -1,5 +1,5 @@
 export const guideSlug = "best-qled-4k-monitors";
-export const guideTitle = "6 Best QLED 4K Monitors in 2026";
+export const guideTitle = "Best QLED 4K Monitors";
 export const metaTitle = "Best QLED 4K Monitors";
 export const metaDescription = "We compared qled 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "qled 4k monitors";

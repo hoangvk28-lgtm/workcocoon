@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers-with-timers";
-export const guideTitle = "6 Best Coffee Warmers With Timers in 2026";
+export const guideTitle = "Best Coffee Warmers With Timers";
 export const metaTitle = "Best Coffee Warmers With Timers";
 export const metaDescription = "We compared coffee warmers with timers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "coffee warmers with timers";

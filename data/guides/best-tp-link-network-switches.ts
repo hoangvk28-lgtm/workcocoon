@@ -1,5 +1,5 @@
 export const guideSlug = "best-tp-link-network-switches";
-export const guideTitle = "8 Best TP-Link Network Switches in 2026";
+export const guideTitle = "Best TP-Link Network Switches";
 export const metaTitle = "Best TP-Link Network Switches 2026";
 export const metaDescription = "TP-Link's SG-series spans unmanaged through Omada SDN-managed switches. We mapped the current lineup by tier and speed.";
 export const mainKeyword = "tp-link network switches";

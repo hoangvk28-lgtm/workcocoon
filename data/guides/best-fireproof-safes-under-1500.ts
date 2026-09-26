@@ -1,5 +1,5 @@
 export const guideSlug = "best-fireproof-safes-under-1500";
-export const guideTitle = "8 Best Fireproof Safes Under $1500 in 2026";
+export const guideTitle = "Best Fireproof Safes Under $1500";
 export const metaTitle = "Best Fireproof Safes Under $1500 in 2026";
 export const metaDescription = "We compared best fireproof safes under $1500 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "fireproof safes under $1500";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-organizers-for-desks";
-export const guideTitle = "6 Best Cable Organizers for Desks in 2026";
+export const guideTitle = "Best Cable Organizers for Desks";
 export const metaTitle = "Best Cable Organizers for Desks";
 export const metaDescription = "We compared cable organizers for desks models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cable organizers for desks";

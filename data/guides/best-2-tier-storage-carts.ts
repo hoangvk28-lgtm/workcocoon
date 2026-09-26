@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-tier-storage-carts";
-export const guideTitle = "8 Best 2-Tier Storage Carts in 2026";
+export const guideTitle = "Best 2-Tier Storage Carts";
 export const metaTitle = "Best 2-Tier Storage Carts";
 export const metaDescription = "We compared storage cart 2 tier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "storage cart 2 tier";

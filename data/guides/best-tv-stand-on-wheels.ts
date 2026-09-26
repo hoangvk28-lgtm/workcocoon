@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-on-wheels";
-export const guideTitle = "8 Best TV Stands on Wheels in 2026";
+export const guideTitle = "Best TV Stands on Wheels";
 export const metaTitle = "Best TV Stands on Wheels 2026, Rolling TV Carts Ranked";
 export const metaDescription =
   "Best TV stands on wheels in 2026. Rolling TV carts with locking casters ranked by weight capacity, height range, and stability for classrooms, offices, and homes.";

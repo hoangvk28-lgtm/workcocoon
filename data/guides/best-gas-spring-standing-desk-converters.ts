@@ -1,5 +1,5 @@
 export const guideSlug = "best-gas-spring-standing-desk-converters";
-export const guideTitle = "6 Best Gas-Spring Standing Desk Converters in 2026";
+export const guideTitle = "Best Gas-Spring Standing Desk Converters";
 export const metaTitle = "Best Gas-Spring Standing Desk Converters (2026)";
 export const metaDescription =
   "6 counterbalanced gas-spring standing desk converters compared on smooth adjustment and load range, for effortless manual height changes.";

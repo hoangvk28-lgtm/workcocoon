@@ -1,5 +1,5 @@
 export const guideSlug = "best-htc-vive-vr-headsets";
-export const guideTitle = "6 Best HTC Vive VR Headsets in 2026";
+export const guideTitle = "Best HTC Vive VR Headsets";
 export const metaTitle = "Best HTC Vive VR Headsets";
 export const metaDescription = "We compared htc vive vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "htc vive vr headsets";

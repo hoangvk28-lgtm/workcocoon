@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-with-night-mode";
-export const guideTitle = "8 Best Humidifiers With Night Mode in 2026";
+export const guideTitle = "Best Humidifiers With Night Mode";
 export const metaTitle = "Best Humidifiers With Night Mode";
 export const metaDescription = "We compared humidifier night mode models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier night mode";

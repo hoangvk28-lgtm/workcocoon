@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-machines-for-stainless-steel";
-export const guideTitle = "6 Best Desktop CNC Machines for Stainless Steel in 2026";
+export const guideTitle = "Best Desktop CNC Machines for Stainless Steel";
 export const metaTitle = "Best Desktop CNC Machines for Stainless Steel 2026";
 export const metaDescription = "We compared desktop cnc machines for stainless steel by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc machines for stainless steel";

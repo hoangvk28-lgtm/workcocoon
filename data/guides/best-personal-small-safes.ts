@@ -1,5 +1,5 @@
 export const guideSlug = "best-personal-small-safes";
-export const guideTitle = "8 Best Personal Small Safes in 2026";
+export const guideTitle = "Best Personal Small Safes";
 export const metaTitle = "Best Personal Small Safes (2026)";
 export const metaDescription =
   "8 safes compared for personal storage, passports, medication, and small valuables, in shared bedrooms, dorms, or offices where privacy matters most.";

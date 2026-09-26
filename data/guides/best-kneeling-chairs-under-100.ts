@@ -1,5 +1,5 @@
 export const guideSlug = "best-kneeling-chairs-under-100";
-export const guideTitle = "7 Best Kneeling Chairs Under $100 in 2026";
+export const guideTitle = "Best Kneeling Chairs Under $100";
 export const metaTitle = "Best Kneeling Chairs Under $100 in 2026";
 export const metaDescription = "We compared best kneeling chairs under $100 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "kneeling chairs under $100";

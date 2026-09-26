@@ -1,5 +1,5 @@
 export const guideSlug = "best-keypad-fireproof-safes";
-export const guideTitle = "8 Best Keypad Fireproof Safes in 2026";
+export const guideTitle = "Best Keypad Fireproof Safes";
 export const metaTitle = "Best Keypad Fireproof Safes 2026";
 export const metaDescription = "We compared keypad fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "keypad fireproof safes";

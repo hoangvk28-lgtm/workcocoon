@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-external-gpu-support";
-export const guideTitle = "5 Best Mini PCs with External GPU Support in 2026";
+export const guideTitle = "Best Mini PCs with External GPU Support";
 export const metaTitle = "Best Mini PCs with External GPU Support";
 export const metaDescription =
   "5 eGPU-ready mini PC options we evaluated, explaining how OCuLink, USB4, and Thunderbolt affect real external GPU performance.";

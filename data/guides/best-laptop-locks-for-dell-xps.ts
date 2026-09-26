@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-dell-xps";
-export const guideTitle = "5 Best Laptop Locks for Dell XPS in 2026";
+export const guideTitle = "Best Laptop Locks for Dell XPS";
 export const metaTitle = "Best Laptop Locks for Dell XPS (2026)";
 export const metaDescription =
   "5 laptop locks checked against Dell XPS's exact generation and slot documentation, since chassis and slot design has changed across XPS generations.";

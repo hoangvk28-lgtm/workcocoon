@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebook-and-planner-combos";
-export const guideTitle = "5 Best Digital Notebook and Planner Combos in 2026";
+export const guideTitle = "Best Digital Notebook and Planner Combos";
 export const metaTitle = "Best Digital Notebook and Planner Combos (2026)";
 export const metaDescription =
   "5 reusable notebooks that combine handwriting pages with built-in planner templates, from the Rocketbook Fusion line, which is the actual product match for this search.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-fiber-network-switches";
-export const guideTitle = "3 Best Fiber Network Switches in 2026";
+export const guideTitle = "Best Fiber Network Switches";
 export const metaTitle = "Best Fiber Network Switches in 2026";
 export const metaDescription = "Consumer-grade fiber switches are limited. We focused on SFP uplink switches and dedicated fiber media converters that actually deliver.";
 export const mainKeyword = "fiber network switches";

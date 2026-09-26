@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-for-mac";
-export const guideTitle = "8 Best Mechanical Keyboards for Mac in 2026";
+export const guideTitle = "Best Mechanical Keyboards Built for Mac";
 export const metaTitle = "Best Mechanical Keyboards for Mac in 2026";
 export const metaDescription =
   "8 mechanical keyboards built or verified for Mac in 2026, compared on Mac keycap legends, Bluetooth compatibility, switch type, and hot-swap support.";

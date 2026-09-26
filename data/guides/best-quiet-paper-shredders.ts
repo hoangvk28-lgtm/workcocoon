@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-paper-shredders";
-export const guideTitle = "8 Best Quiet Paper Shredders in 2026";
+export const guideTitle = "Best Quiet Paper Shredders";
 export const metaTitle = "Best Quiet Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders ranked by real noise level, with a note that manufacturer dB ratings are usually measured at idle or with a single sheet, not under an actual loaded, stapled batch.";

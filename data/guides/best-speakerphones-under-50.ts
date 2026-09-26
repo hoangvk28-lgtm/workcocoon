@@ -1,5 +1,5 @@
 export const guideSlug = "best-speakerphones-under-50";
-export const guideTitle = "4 Best Speakerphones Under $50 in 2026";
+export const guideTitle = "Best Speakerphones Under $50";
 export const metaTitle = "Best Speakerphones Under $50";
 export const metaDescription = "We compared speakerphones under $50 by mic count, connection type, and daisy chain support, since these decide how well a budget unit handles group calls.";
 export const mainKeyword = "best speakerphones under $50";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-touch-screen-interactive-whiteboards";
-export const guideTitle = "8 Best Touch Screen Interactive Whiteboards";
+export const guideTitle = "Best Touch Screen Interactive Whiteboards";
 export const metaTitle = "Best Touch Screen Interactive Whiteboards";
 export const metaDescription = "We used this as the canonical touch-technology comparison, publishing actual touch tech, simultaneous points, and bonding/parallax behavior.";
 export const mainKeyword = "interactive whiteboard touch screen";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-staplers-for-paper";
-export const guideTitle = "6 Best Desk Staplers for Paper in 2026";
+export const guideTitle = "Best Desk Staplers for Paper";
 export const metaTitle = "Best Desk Staplers for Paper";
 export const metaDescription = "We compared desk staplers for paper models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk staplers for paper";

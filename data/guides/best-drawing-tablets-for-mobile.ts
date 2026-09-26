@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-for-mobile";
-export const guideTitle = "7 Best Drawing Tablets for Mobile in 2026";
+export const guideTitle = "Best Drawing Tablets for Mobile";
 export const metaTitle = "Best Drawing Tablets for Mobile 2026";
 export const metaDescription = "We compared drawing tablets for mobile by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets for mobile";

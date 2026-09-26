@@ -1,5 +1,5 @@
 export const guideSlug = "best-iphone-desk-arms";
-export const guideTitle = "5 Best iPhone Desk Arms in 2026";
+export const guideTitle = "Best iPhone Desk Arms";
 export const metaTitle = "Best iPhone Desk Arms (2026)";
 export const metaDescription =
   "5 desk arms we checked for real iPhone width compatibility across base, Plus, and Pro Max models, plus Lightning vs USB-C charging notes.";

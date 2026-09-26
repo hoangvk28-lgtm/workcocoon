@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-stands-under-20";
-export const guideTitle = "4 Best Printer Stands Under $20 in 2026";
+export const guideTitle = "Best Printer Stands Under $20";
 export const metaTitle = "Best Printer Stands Under $20";
 export const metaDescription = "We compared printer stands under $20 by weight capacity, mobility, and construction, since these details decide how well a budget stand handles daily use.";
 export const mainKeyword = "best printer stands under $20";

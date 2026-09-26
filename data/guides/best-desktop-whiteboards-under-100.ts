@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-under-100";
-export const guideTitle = "4 Best Desktop Whiteboards Under $100 in 2026";
+export const guideTitle = "Best Desktop Whiteboards Under $100";
 export const metaTitle = "Best Desktop Whiteboards Under $100";
 export const metaDescription = "We compared desktop whiteboards under $100 by large-format glass sizing, wall-mount versus desktop flexibility, and real installation time for offices.";
 export const mainKeyword = "best desktop whiteboards under $100";

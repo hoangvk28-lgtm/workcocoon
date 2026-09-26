@@ -1,5 +1,5 @@
 export const guideSlug = "best-computer-desks-with-pegboards";
-export const guideTitle = "5 Best Computer Desks with Pegboards in 2026";
+export const guideTitle = "Best Computer Desks with Pegboards";
 export const metaTitle = "Best Computer Desks with Pegboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 computer desks with integrated pegboards we evaluated, with the SERP-intent clarification competitors skip: this keyword represents complete desk products, not standalone pegboard accessories, and the desk's own quality deserves full evaluation.";

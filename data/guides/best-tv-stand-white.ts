@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-tv-stand-white";
 
 export const guideSlug = "best-tv-stand-white";
-export const guideTitle = "8 Best White TV Stands in 2026";
+export const guideTitle = "Best White TV Stands";
 export const metaTitle = "Best White TV Stands 2026, Farmhouse, Modern & Budget Picks";
 export const metaDescription =
   "Best white TV stands in 2026. Farmhouse barn door, modern, and budget picks ranked by TV size fit, storage, weight capacity, and finish durability.";

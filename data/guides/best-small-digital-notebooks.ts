@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-digital-notebooks";
-export const guideTitle = "5 Best Small Digital Notebooks in 2026";
+export const guideTitle = "Best Small Digital Notebooks";
 export const metaTitle = "Best Small Digital Notebooks (2026)";
 export const metaDescription =
   "5 small digital notebooks compared by actual footprint and writing area, after finding the current search results are dominated by Rocketbook's reusable-paper lineup rather than E Ink tablets.";

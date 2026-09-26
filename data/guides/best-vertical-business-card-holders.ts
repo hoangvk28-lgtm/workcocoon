@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-business-card-holders";
-export const guideTitle = "6 Best Vertical Business Card Holders in 2026";
+export const guideTitle = "Best Vertical Business Card Holders";
 export const metaTitle = "Best Vertical Business Card Holders";
 export const metaDescription = "We compared vertical business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "vertical business card holders";

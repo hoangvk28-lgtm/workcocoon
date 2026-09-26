@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-for-small-homes";
-export const guideTitle = "5 Best Wi-Fi 7 Routers for Small Homes in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers for Small Homes";
 export const metaTitle = "Best Wi-Fi 7 Routers for Small Homes, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 Wi-Fi 7 routers we evaluated for small homes, with the single-router-sufficiency framing competitors skip: modest device counts and single-floor layouts mean budget/mid-tier routers, not flagship capacity, are the right buying priority here.";

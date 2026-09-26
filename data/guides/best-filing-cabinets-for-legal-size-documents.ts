@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-for-legal-size-documents";
-export const guideTitle = "6 Best Filing Cabinets for Legal-Size Documents in 2026";
+export const guideTitle = "Best Filing Cabinets for Legal-Size Documents";
 export const metaTitle = "Best Filing Cabinets for Legal-Size Documents in 2026 (Drawer Width Guide)";
 export const metaDescription =
   "6 filing cabinets compared on internal drawer width, hanging rail spacing, and slide load rating for legal-size files, since a legal label alone does not guarantee true fit.";

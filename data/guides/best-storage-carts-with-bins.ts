@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-with-bins";
-export const guideTitle = "8 Best Storage Carts With Bins in 2026";
+export const guideTitle = "Best Storage Carts With Bins";
 export const metaTitle = "Best Storage Carts With Bins";
 export const metaDescription = "We compared storage cart with bins models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart with bins";

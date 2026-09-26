@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-port-gigabit-poe-extender";
-export const guideTitle = "4 Best 2 Port Gigabit PoE Extenders in 2026";
+export const guideTitle = "Best 2 Port Gigabit PoE Extenders";
 export const metaTitle = "Best 2 Port Gigabit PoE Extenders";
 export const metaDescription = "We compared 2-port Gigabit PoE extenders by real per-device wattage and PoE++ support, since one listing extends 60W PoE++ power, not just standard 30W PoE+.";
 export const mainKeyword = "best 2 port gigabit poe extender";

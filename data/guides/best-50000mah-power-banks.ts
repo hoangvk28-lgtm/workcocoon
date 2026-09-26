@@ -1,5 +1,5 @@
 export const guideSlug = "best-50000mah-power-banks";
-export const guideTitle = "8 Best 50000mAh+ Power Banks in 2026";
+export const guideTitle = "Best 50000mAh+ Power Banks";
 export const metaTitle = "Best 50000mAh+ Power Banks";
 export const metaDescription = "We compared power bank 50000mah models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank 50000mah";

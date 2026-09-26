@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-portable-power-stations";
-export const guideTitle = "8 Best Quiet Portable Power Stations in 2026";
+export const guideTitle = "Best Quiet Portable Power Stations";
 export const metaTitle = "Best Quiet Portable Power Stations 2026";
 export const metaDescription = "We compared quiet portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "quiet portable power stations";

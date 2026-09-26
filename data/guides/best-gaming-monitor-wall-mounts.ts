@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitor-wall-mounts";
-export const guideTitle = "6 Best Gaming Monitor Wall Mounts in 2026";
+export const guideTitle = "Best Gaming Monitor Wall Mounts";
 export const metaTitle = "Best Gaming Monitor Wall Mounts";
 export const metaDescription = "We compared gaming monitor wall mounts models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "gaming monitor wall mounts";

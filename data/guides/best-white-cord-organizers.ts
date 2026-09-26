@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-cord-organizers";
-export const guideTitle = "6 Best White Cord Organizers in 2026";
+export const guideTitle = "Best White Cord Organizers";
 export const metaTitle = "Best White Cord Organizers";
 export const metaDescription = "We compared white cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "white cord organizers";

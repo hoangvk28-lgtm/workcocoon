@@ -1,5 +1,5 @@
 export const guideSlug = "best-rfid-blocking-id-badge-holders";
-export const guideTitle = "6 Best RFID-Blocking ID Badge Holders in 2026";
+export const guideTitle = "Best RFID-Blocking ID Badge Holders";
 export const metaTitle = "Best RFID-Blocking ID Badge Holders";
 export const metaDescription = "We compared rfid-blocking id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "rfid-blocking id badge holders";

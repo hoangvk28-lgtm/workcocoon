@@ -1,5 +1,5 @@
 export const guideSlug = "best-honeywell-fireproof-safes";
-export const guideTitle = "8 Best Honeywell Fireproof Safes in 2026";
+export const guideTitle = "Best Honeywell Fireproof Safes";
 export const metaTitle = "Best Honeywell Fireproof Safes 2026";
 export const metaDescription = "We compared honeywell fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "honeywell fireproof safes";

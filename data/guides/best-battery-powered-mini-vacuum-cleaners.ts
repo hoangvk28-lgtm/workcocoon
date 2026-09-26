@@ -1,5 +1,5 @@
 export const guideSlug = "best-battery-powered-mini-vacuum-cleaners";
-export const guideTitle = "6 Best Battery-Powered Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best Battery-Powered Mini Vacuum Cleaners";
 export const metaTitle = "Best Battery-Powered Mini Vacuum Cleaners";
 export const metaDescription = "We compared battery-powered mini vacuum cleaners models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "battery-powered mini vacuum cleaners";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-with-air-purifying-filter";
-export const guideTitle = "8 Best Desk Fans With Air Purifying Filter in 2026";
+export const guideTitle = "Best Desk Fans With Air Purifying Filter";
 export const metaTitle = "Best Desk Fans With Air Purifying Filter";
 export const metaDescription = "We compared desk fan air purifier combo models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "desk fan air purifier combo";

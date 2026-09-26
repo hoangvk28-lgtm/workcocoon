@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-desk-drawers-under-50";
-export const guideTitle = "6 Best Clamp-On Desk Drawers Under $50 in 2026";
+export const guideTitle = "Best Clamp-On Desk Drawers Under $50";
 export const metaTitle = "Best Clamp-On Desk Drawers Under $50";
 export const metaDescription = "We compared clamp-on desk drawers and keyboard trays under $50 by max desk thickness and weight capacity, since these two product types serve different needs.";
 export const mainKeyword = "clamp on desk drawer under $50";

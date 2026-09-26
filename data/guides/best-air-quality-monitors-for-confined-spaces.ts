@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-for-confined-spaces";
-export const guideTitle = "8 Best Air Quality Monitors for Confined Spaces in 2026";
+export const guideTitle = "Best Air Quality Monitors for Confined Spaces";
 export const metaTitle = "Best Air Quality Monitors for Confined Spaces";
 export const metaDescription = "We compared air quality monitor confined space models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor confined space";

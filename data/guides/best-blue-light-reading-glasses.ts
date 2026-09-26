@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-reading-glasses";
-export const guideTitle = "6 Best Blue Light Reading Glasses in 2026";
+export const guideTitle = "Best Blue Light Reading Glasses";
 export const metaTitle = "Best Blue Light Reading Glasses";
 export const metaDescription = "We compared blue light reading glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "blue light reading glasses";

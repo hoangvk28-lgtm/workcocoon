@@ -1,5 +1,5 @@
 export const guideSlug = "best-led-desk-clocks";
-export const guideTitle = "5 Best LED Desk Clocks in 2026";
+export const guideTitle = "Best LED Desk Clocks";
 export const metaTitle = "Best LED Desk Clocks (2026)";
 export const metaDescription =
   "5 LED desk clocks compared for display size, date and temperature readouts, and power type, so you can match one to your desk setup and outlet access.";

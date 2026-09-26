@@ -1,5 +1,5 @@
 export const guideSlug = "best-geode-bookends";
-export const guideTitle = "6 Best Geode Bookends in 2026";
+export const guideTitle = "Best Geode Bookends";
 export const metaTitle = "Best Geode Bookends";
 export const metaDescription = "We compared geode bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "geode bookends";

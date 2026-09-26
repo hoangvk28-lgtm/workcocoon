@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-nas-for-home-offices";
-export const guideTitle = "8 Best Quiet NAS for Home Offices in 2026";
+export const guideTitle = "Best Quiet NAS for Home Offices";
 export const metaTitle = "Best Quiet NAS for Home Offices in 2026";
 export const metaDescription =
   "8 best quiet NAS for home offices in 2026, from a $153.99 drives-included pick to a $379 fanless-style mini PC NAS. Compare real-world noise, not just idle specs.";

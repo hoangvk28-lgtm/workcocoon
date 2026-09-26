@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-machines-under-500";
-export const guideTitle = "7 Best Desktop CNC Machines Under $500 in 2026";
+export const guideTitle = "Best Desktop CNC Machines Under $500";
 export const metaTitle = "Best Desktop CNC Machines Under $500 2026";
 export const metaDescription = "We compared desktop cnc machines under $500 by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc machines under $500";

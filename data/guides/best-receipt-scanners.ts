@@ -1,5 +1,5 @@
 export const guideSlug = "best-receipt-scanners";
-export const guideTitle = "6 Best Receipt Scanners in 2026";
+export const guideTitle = "Best Receipt Scanners";
 export const metaTitle = "Best Receipt Scanners, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 scanners we evaluated for receipt digitization, with an urgent note that thermal receipt paper fades within months regardless of when you eventually scan it, a timing risk most reviews never mention.";

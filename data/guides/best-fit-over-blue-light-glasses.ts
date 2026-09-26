@@ -1,5 +1,5 @@
 export const guideSlug = "best-fit-over-blue-light-glasses";
-export const guideTitle = "6 Best Fit-Over Blue Light Glasses in 2026";
+export const guideTitle = "Best Fit-Over Blue Light Glasses";
 export const metaTitle = "Best Fit-Over Blue Light Glasses";
 export const metaDescription = "We compared fit-over blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "fit-over blue light glasses";

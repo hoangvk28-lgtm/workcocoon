@@ -1,5 +1,5 @@
 export const guideSlug = "best-cabinet-beds-with-desks";
-export const guideTitle = "8 Best Cabinet Beds with Desks in 2026";
+export const guideTitle = "Best Cabinet Beds with Desks";
 export const metaTitle = "Best Cabinet Beds with Desks in 2026 (Murphy Bed Desks)";
 export const metaDescription =
   "8 murphy and cabinet beds we evaluated for home offices, with an honest breakdown of which listings confirm a fold-down desk and which are storage-focused beds without one.";

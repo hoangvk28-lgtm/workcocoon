@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-for-gaming";
-export const guideTitle = "8 Best Ultrawide Monitors for Gaming in 2026";
+export const guideTitle = "Best Ultrawide Monitors for Gaming";
 export const metaTitle = "Best Ultrawide Monitor for Gaming in 2026 (34-Inch & 45-Inch Picks)";
 export const metaDescription =
   "8 best ultrawide monitors for gaming in 2026, from budget VA panels to 360Hz QD-OLED. Compare refresh rate, curve, contrast, and desk fit.";

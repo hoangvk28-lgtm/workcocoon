@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-office-booths";
-export const guideTitle = "4 Best Portable Office Booths in 2026";
+export const guideTitle = "Best Portable Office Booths";
 export const metaTitle = "Best Portable Office Booths (2026)";
 export const metaDescription =
   "4 fully enclosed office booths we evaluated, with an honest note that none of the verified listings are open-front booth-style designs.";

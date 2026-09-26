@@ -1,5 +1,5 @@
 export const guideSlug = "best-udpower-portable-power-stations";
-export const guideTitle = "4 Best UDPOWER Portable Power Stations in 2026";
+export const guideTitle = "Best UDPOWER Portable Power Stations";
 export const metaTitle = "Best UDPOWER Portable Power Stations 2026";
 export const metaDescription = "We compared udpower portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "udpower portable power stations";

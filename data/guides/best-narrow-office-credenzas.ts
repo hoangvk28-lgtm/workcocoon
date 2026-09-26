@@ -1,5 +1,5 @@
 export const guideSlug = "best-narrow-office-credenzas";
-export const guideTitle = "8 Best Narrow Office Credenzas in 2026";
+export const guideTitle = "Best Narrow Office Credenzas";
 export const metaTitle = "Best Narrow Office Credenzas 2026";
 export const metaDescription = "We compared narrow office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "narrow office credenzas";

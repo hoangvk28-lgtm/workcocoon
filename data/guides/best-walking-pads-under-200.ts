@@ -1,5 +1,5 @@
 export const guideSlug = "best-walking-pads-under-200";
-export const guideTitle = "4 Best Walking Pads Under $200 in 2026";
+export const guideTitle = "Best Walking Pads Under $200";
 export const metaTitle = "Best Walking Pads Under $200";
 export const metaDescription = "We compared walking pads under $200 by top speed, weight capacity, and dual-mode design, since running-capable pads with raised handrails appear at this tier.";
 export const mainKeyword = "best walking pads under $200";

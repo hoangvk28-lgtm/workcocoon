@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-interactive-whiteboards";
-export const guideTitle = "8 Best Digital Interactive Whiteboards";
+export const guideTitle = "Best Digital Interactive Whiteboards";
 export const metaTitle = "Best Digital Interactive Whiteboards";
 export const metaDescription = "We defined the full digital workflow, create, save, export, share, before ranking rather than evaluating touch hardware alone.";
 export const mainKeyword = "interactive whiteboard digital";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-oak-office-credenzas";
-export const guideTitle = "5 Best Oak Office Credenzas in 2026";
+export const guideTitle = "Best Oak Office Credenzas";
 export const metaTitle = "Best Oak Office Credenzas 2026";
 export const metaDescription = "We compared oak office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "oak office credenzas";

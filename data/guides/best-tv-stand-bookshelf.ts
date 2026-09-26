@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-bookshelf";
-export const guideTitle = "6 Best TV Stand Bookshelf Combos in 2026";
+export const guideTitle = "Best TV Stand Bookshelf Combos";
 export const metaTitle = "Best TV Stand Bookshelf Combos in 2026 - Top 6 Picks";
 export const metaDescription =
   "The 6 best TV stand bookshelf combos in 2026, ranked by storage capacity, modularity, and design from budget cube shelves to full entertainment walls.";

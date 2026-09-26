@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-with-automatic-document-feeders";
-export const guideTitle = "8 Best Printers with Automatic Document Feeders in 2026";
+export const guideTitle = "Best Printers with Automatic Document Feeders";
 export const metaTitle = "Best Printers with Automatic Document Feeders in 2026";
 export const metaDescription =
   "8 best printers with automatic document feeders in 2026. Honest notes on ADF vs. flatbed use cases, paper limits, noise, and jam frequency.";

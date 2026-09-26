@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts";
-export const guideTitle = "8 Best Storage Carts in 2026";
+export const guideTitle = "Best Storage Carts";
 export const metaTitle = "Best Storage Carts";
 export const metaDescription = "We compared storage cart models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "storage cart";

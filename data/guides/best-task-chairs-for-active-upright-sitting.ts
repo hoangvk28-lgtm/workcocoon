@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-active-upright-sitting";
-export const guideTitle = "8 Best Task Chairs for Active, Upright Sitting in 2026";
+export const guideTitle = "Best Task Chairs for Active, Upright Sitting";
 export const metaTitle = "Best Task Chairs for Active, Upright Sitting";
 export const metaDescription = "We compared task chair vs stool models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "task chair vs stool";

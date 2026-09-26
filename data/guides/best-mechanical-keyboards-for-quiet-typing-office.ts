@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-for-quiet-typing-office";
-export const guideTitle = "8 Best Mechanical Keyboards for Quiet Typing and Office Use in 2026";
+export const guideTitle = "Best Quiet Mechanical Keyboards for a Shared Office";
 export const metaTitle = "Best Mechanical Keyboards for Quiet Typing and Office Use in 2026";
 export const metaDescription =
   "8 quiet keyboards for office typing in 2026, from true low-profile mechanical switches to near-silent scissor-switch alternatives. Compare noise level and fit.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-for-plex-media-servers";
-export const guideTitle = "8 Best NAS for Plex Media Servers in 2026";
+export const guideTitle = "Best NAS for Plex Media Servers";
 export const metaTitle = "Best NAS for Plex Media Servers in 2026 (Direct Play & Transcoding)";
 export const metaDescription =
   "8 best NAS devices for Plex media servers in 2026, from budget ARM boxes for direct play to Intel-powered NAS for hardware transcoding and multi-room 4K.";

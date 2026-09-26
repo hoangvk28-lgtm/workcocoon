@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-mini-dock-with-dual-hdmi";
-export const guideTitle = "4 Best USB4 Mini Docks with Dual HDMI in 2026";
+export const guideTitle = "Best USB4 Mini Docks with Dual HDMI";
 export const metaTitle = "Best USB4 Mini Docks with Dual HDMI";
 export const metaDescription = "We compared mini dual HDMI docks by MST support versus mirror-only macOS behavior, since Multi-Stream Transport for independent screens is Windows-only.";
 export const mainKeyword = "best usb4 mini dock with dual hdmi";

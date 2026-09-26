@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-under-150";
-export const guideTitle = "6 Best Small Safes Under $150 in 2026";
+export const guideTitle = "Best Small Safes Under $150";
 export const metaTitle = "Best Small Safes Under $150 in 2026";
 export const metaDescription = "We compared best small safes under $150 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "small safes under $150";

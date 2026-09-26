@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-standing-desk-converters";
-export const guideTitle = "6 Best Corner Standing Desk Converters in 2026";
+export const guideTitle = "Best Corner Standing Desk Converters";
 export const metaTitle = "Best Corner Standing Desk Converters (2026)";
 export const metaDescription =
   "6 converters built specifically for L-shaped and corner desks, compared on return-depth fit and platform geometry, not just triangular shape alone.";

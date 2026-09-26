@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-5gbe-poe-extender";
-export const guideTitle = "4 Best Multi-Gig (2.5GbE) PoE Extenders in 2026";
+export const guideTitle = "Best Multi-Gig (2.5GbE) PoE Extenders";
 export const metaTitle = "Best 2.5GbE Multi-Gig PoE Extenders";
 export const metaDescription = "We compared 2.5GbE PoE extenders by real per-port wattage, since a 90W total input consistently splits down to just 30W max per port across every listing.";
 export const mainKeyword = "best 2.5gbe poe extender";

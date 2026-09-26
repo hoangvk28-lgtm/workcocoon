@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-for-esports";
-export const guideTitle = "6 Best Gaming Monitors for Esports in 2026";
+export const guideTitle = "Best Gaming Monitors for Esports";
 export const metaTitle = "Best Gaming Monitors for Esports";
 export const metaDescription = "We compared gaming monitors for esports models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "gaming monitors for esports";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-for-nurseries";
-export const guideTitle = "8 Best Storage Carts for Nurseries in 2026";
+export const guideTitle = "Best Storage Carts for Nurseries";
 export const metaTitle = "Best Storage Carts for Nurseries";
 export const metaDescription = "We compared storage cart nursery models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart nursery";

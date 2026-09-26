@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-calendars-for-offices";
-export const guideTitle = "6 Best Digital Calendars for Offices in 2026";
+export const guideTitle = "Best Digital Calendars for Offices";
 export const metaTitle = "Best Digital Calendars for Offices (2026)";
 export const metaDescription =
   "6 digital calendars evaluated for office use, from shared touchscreen schedulers to compact clock-and-notepad boards built for business desks.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-shelves-under-150";
-export const guideTitle = "6 Best Floating Shelves Under $150 in 2026";
+export const guideTitle = "Best Floating Shelves Under $150";
 export const metaTitle = "Best Floating Shelves Under $150";
 export const metaDescription = "We compared floating shelf set models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "floating shelf set";

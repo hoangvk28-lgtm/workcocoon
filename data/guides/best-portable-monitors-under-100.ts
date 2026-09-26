@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-under-100";
-export const guideTitle = "4 Best Portable Monitors Under $100 in 2026";
+export const guideTitle = "Best Portable Monitors Under $100";
 export const metaTitle = "Best Portable Monitors Under $100 (2026)";
 export const metaDescription =
   "4 portable monitors under $100 we evaluated, setting realistic expectations for panel quality and brightness at this competitive budget tier.";

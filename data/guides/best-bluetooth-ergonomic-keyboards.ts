@@ -1,5 +1,5 @@
 export const guideSlug = "best-bluetooth-ergonomic-keyboards";
-export const guideTitle = "8 Best Bluetooth Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Bluetooth Ergonomic Keyboards";
 export const metaTitle = "Best Bluetooth Ergonomic Keyboards (2026)";
 export const metaDescription =
   "8 Bluetooth ergonomic keyboards we evaluated for multi-device pairing switching, connection stability over long sessions, and anti-ghosting reliability.";

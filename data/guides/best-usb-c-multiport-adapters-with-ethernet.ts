@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-multiport-adapters-with-ethernet";
-export const guideTitle = "7 Best USB-C Multiport Adapters With Ethernet";
+export const guideTitle = "Best USB-C Multiport Adapters With Ethernet";
 export const metaTitle = "Best USB-C Multiport Hubs with Ethernet";
 export const metaDescription = "These hubs share host bandwidth between Ethernet, video, and storage. We compared what each actually delivers simultaneously.";
 export const mainKeyword = "usb-c multiport adapters with ethernet";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-17-inch-laptop-cooling-pads";
-export const guideTitle = "5 Best 17-Inch Laptop Cooling Pads in 2026";
+export const guideTitle = "Best 17-Inch Laptop Cooling Pads";
 export const metaTitle = "Best 17-Inch Laptop Cooling Pads (2026)";
 export const metaDescription =
   "5 laptop cooling pads we evaluated for 17-inch laptops, a common gaming laptop size class with high heat output under sustained load.";

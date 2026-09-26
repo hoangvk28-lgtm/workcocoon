@@ -1,5 +1,5 @@
 export const guideSlug = "best-electric-desk-staplers";
-export const guideTitle = "6 Best Electric Desk Staplers in 2026";
+export const guideTitle = "Best Electric Desk Staplers";
 export const metaTitle = "Best Electric Desk Staplers";
 export const metaDescription = "We compared electric desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "electric desk staplers";

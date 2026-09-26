@@ -1,5 +1,5 @@
 export const guideSlug = "best-high-wattage-100w-power-banks-for-laptops";
-export const guideTitle = "8 Best High-Wattage (100W+) Power Banks for Laptops in 2026";
+export const guideTitle = "Best High-Wattage (100W+) Power Banks for Laptops";
 export const metaTitle = "Best High-Wattage (100W+) Power Banks for";
 export const metaDescription = "We compared power bank 100w models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank 100w";

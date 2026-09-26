@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-cooling-stands";
-export const guideTitle = "7 Best Mini PC Cooling Stands in 2026";
+export const guideTitle = "Best Mini PC Cooling Stands";
 export const metaTitle = "Best Mini PC Cooling Stands (2026)";
 export const metaDescription =
   "7 Mini PC cooling stands we evaluated for vent alignment and sustained-load airflow, with honest notes on which are passive and which add a fan.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-with-individual-switches";
-export const guideTitle = "5 Best Power Strips with Individual Switches in 2026";
+export const guideTitle = "Best Power Strips with Individual Outlet Switches";
 export const metaTitle = "Best Power Strips with Individual Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 power strips with individual switches we evaluated, with the phantom-load detail competitors skip: switched outlets still draw standby power for the strip's own indicator LEDs and protection circuitry.";

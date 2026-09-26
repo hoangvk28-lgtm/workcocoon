@@ -1,5 +1,5 @@
 export const guideSlug = "best-modern-floating-shelves";
-export const guideTitle = "8 Best Modern Floating Shelves in 2026";
+export const guideTitle = "Best Modern Floating Shelves";
 export const metaTitle = "Best Modern Floating Shelves";
 export const metaDescription = "We compared floating shelf designs models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf designs";

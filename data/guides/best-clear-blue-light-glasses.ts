@@ -1,5 +1,5 @@
 export const guideSlug = "best-clear-blue-light-glasses";
-export const guideTitle = "6 Best Clear Blue Light Glasses in 2026";
+export const guideTitle = "Best Clear Blue Light Glasses";
 export const metaTitle = "Best Clear Blue Light Glasses";
 export const metaDescription = "We compared clear blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "clear blue light glasses";

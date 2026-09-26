@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs";
-export const guideTitle = "8 Best Task Chairs in 2026";
+export const guideTitle = "Best Task Chairs";
 export const metaTitle = "Best Task Chairs";
 export const metaDescription = "We compared task chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "task chair";

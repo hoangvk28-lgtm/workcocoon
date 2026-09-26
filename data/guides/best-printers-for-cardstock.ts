@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-cardstock";
-export const guideTitle = "8 Best Printers for Cardstock in 2026";
+export const guideTitle = "Best Printers for Cardstock";
 export const metaTitle = "Best Printers for Cardstock in 2026 (Invitations & Crafts)";
 export const metaDescription =
   "8 best printers for cardstock in 2026 for invitations, greeting cards, and craft projects. Compare max paper weight, feed path, and jam risk by model.";

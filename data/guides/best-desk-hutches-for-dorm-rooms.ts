@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-desk-hutches-for-dorm-rooms";
 
 export const guideSlug = "best-desk-hutches-for-dorm-rooms";
-export const guideTitle = "8 Best Desk Hutches for Dorm Rooms (2026)";
+export const guideTitle = "Best Desk Hutches for Dorm Rooms (2026)";
 export const metaTitle = "Best Desk Hutches for Dorm Rooms 2026";
 export const metaDescription =
   "Best desk hutches for dorm rooms in 2026. Compact options that fit twin XL setups, add vertical storage, and keep supplies organized on a small desk.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-air-purifiers-for-desks";
-export const guideTitle = "5 Best Compact Air Purifiers for Desks in 2026";
+export const guideTitle = "Best Compact Air Purifiers for Desks";
 export const metaTitle = "Best Compact Air Purifiers for Desks, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 compact desk air purifiers we evaluated, with the distinction competitors blur: desk-proximity CADR effectiveness is fundamentally different from whole-room CADR, a compact desk unit primarily cleans your immediate vicinity, not the whole room.";

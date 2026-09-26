@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-for-home-use";
-export const guideTitle = "4 Best Wi-Fi 7 Routers for Home Use in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers for Home Use";
 export const metaTitle = "Best Wi-Fi 7 Routers for Home Use (2026)";
 export const metaDescription =
   "4 Wi-Fi 7 routers we evaluated for everyday home use, covering concrete-wall penetration, home-office needs, and when a premium router is overkill.";

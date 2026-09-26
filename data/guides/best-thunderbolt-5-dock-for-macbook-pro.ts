@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-macbook-pro";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for MacBook Pro in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for MacBook Pro";
 export const metaTitle = "Best Thunderbolt 5 Docks for MacBook Pro";
 export const metaDescription = "We compared Thunderbolt 5 docks for MacBook Pro by exact display limits per Apple chip tier, since M1-M3 base, Pro, and Max chips each cap displays differently.";
 export const mainKeyword = "best thunderbolt 5 dock for macbook pro";

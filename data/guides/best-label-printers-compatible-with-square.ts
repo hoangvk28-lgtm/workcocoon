@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-compatible-with-square";
-export const guideTitle = "6 Best Label Printers Compatible With Square in 2026";
+export const guideTitle = "Best Label Printers Compatible With Square";
 export const metaTitle = "Best Label Printers Compatible With Square";
 export const metaDescription = "We compared label printers compatible with square models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "label printers compatible with square";

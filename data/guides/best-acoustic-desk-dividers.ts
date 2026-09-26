@@ -1,5 +1,5 @@
 export const guideSlug = "best-acoustic-desk-dividers";
-export const guideTitle = "6 Best Acoustic Desk Dividers in 2026";
+export const guideTitle = "Best Acoustic Desk Dividers";
 export const metaTitle = "Best Acoustic Desk Dividers (2026)";
 export const metaDescription =
   "6 acoustic desk dividers we evaluated for clamp-on versus freestanding mounting, coverage height, and fit for shared-office or single-desk privacy use.";

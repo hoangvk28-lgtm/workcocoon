@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-work-pods";
-export const guideTitle = "4 Best Portable Work Pods in 2026";
+export const guideTitle = "Best Portable Work Pods";
 export const metaTitle = "Best Portable Work Pods (2026)";
 export const metaDescription =
   "4 portable work pods we evaluated, with an honest note that \"work pod\" and \"office pod\" describe the same Amazon product category.";

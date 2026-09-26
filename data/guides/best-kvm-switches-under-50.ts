@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-under-50";
-export const guideTitle = "5 Best KVM Switches Under $50 in 2026";
+export const guideTitle = "Best KVM Switches Under $50";
 export const metaTitle = "Best KVM Switches Under $50 (2026)";
 export const metaDescription = "We compared KVM switches under $50 by video connector type, real 4K bandwidth per port, and USB throughput, not headline specs alone.";
 export const mainKeyword = "best kvm switches under $50";

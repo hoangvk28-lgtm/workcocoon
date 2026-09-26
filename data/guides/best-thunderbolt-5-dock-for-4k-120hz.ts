@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-4k-120hz";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for 4K 120Hz and 240Hz in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for 4K 120Hz and 240Hz";
 export const metaTitle = "Best TB5 Docks for 4K 120Hz/240Hz";
 export const metaDescription = "We compared Thunderbolt 5 docks by their stated refresh rate ceilings per display count, since 120Hz and 240Hz support often depends on monitor count.";
 export const mainKeyword = "best thunderbolt 5 dock for 4k 120hz";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-mug-warmers";
-export const guideTitle = "6 Best USB Mug Warmers in 2026";
+export const guideTitle = "Best USB Mug Warmers";
 export const metaTitle = "Best USB Mug Warmers";
 export const metaDescription = "We compared usb mug warmer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "usb mug warmer";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-home-office-credenzas-with-file-drawers";
-export const guideTitle = "8 Best Home Office Credenzas With File Drawers in 2026";
+export const guideTitle = "Best Home Office Credenzas With File Drawers";
 export const metaTitle = "Best Home Office Credenzas With File Drawers 2026";
 export const metaDescription = "We compared home office credenzas with file drawers by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "home office credenzas with file drawers";

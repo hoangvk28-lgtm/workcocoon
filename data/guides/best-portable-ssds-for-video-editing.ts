@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-video-editing";
-export const guideTitle = "4 Best Portable SSDs for Video Editing in 2026";
+export const guideTitle = "Best Portable SSDs for Video Editing";
 export const metaTitle = "Best Portable SSDs for Video Editing";
 export const metaDescription = "4 portable SSDs we evaluated for video editing, covering sustained speed after cache exhaustion, thermal throttling, and codec-specific demands.";
 export const mainKeyword = "best portable ssd for video editing";

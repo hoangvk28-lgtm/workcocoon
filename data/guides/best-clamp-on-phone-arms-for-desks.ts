@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-phone-arms-for-desks";
-export const guideTitle = "5 Best Clamp-On Phone Arms for Desks in 2026";
+export const guideTitle = "Best Clamp-On Phone Arms for Desks";
 export const metaTitle = "Best Clamp-On Phone Arms for Desks (2026)";
 export const metaDescription =
   "5 clamp-on phone arms researched for desk edge compatibility, clamp torque, and surface marking risk, no drilling required for any pick.";

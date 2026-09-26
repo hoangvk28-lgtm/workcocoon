@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-for-65-inch-tv";
-export const guideTitle = "7 Best TV Stands for 65 Inch TVs in 2026";
+export const guideTitle = "Best TV Stands for 65 Inch TVs";
 export const metaTitle = "Best TV Stands for 65 Inch TVs 2026, Ranked Picks";
 export const metaDescription =
   "Best TV stands for 65 inch TVs in 2026. Barn door, mid-century, drawer, and fireplace consoles ranked by weight capacity, storage, and base fit.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-with-external-power";
-export const guideTitle = "8 Best Laptop Cooling Pads with External Power in 2026";
+export const guideTitle = "Best Laptop Cooling Pads with External Power";
 export const metaTitle = "Best Cooling Pads with External Power (2026)";
 export const metaDescription =
   "Only 2 laptop cooling pads in this research pool include a genuine external power adapter. See those plus 6 honestly-labeled USB-powered alternatives.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-netgear-network-switches";
-export const guideTitle = "8 Best NETGEAR Network Switches in 2026";
+export const guideTitle = "Best NETGEAR Network Switches";
 export const metaTitle = "Best NETGEAR Network Switches 2026";
 export const metaDescription = "NETGEAR's GS-series spans unmanaged through smart-managed PoE switches. We mapped the current lineup by port count and management tier.";
 export const mainKeyword = "netgear network switches";

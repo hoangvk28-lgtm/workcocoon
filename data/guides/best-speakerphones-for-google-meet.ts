@@ -1,5 +1,5 @@
 export const guideSlug = "best-speakerphones-for-google-meet";
-export const guideTitle = "5 Best Speakerphones for Google Meet in 2026";
+export const guideTitle = "Best Speakerphones for Google Meet";
 export const metaTitle = "Best Speakerphones for Google Meet, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 speakerphones we evaluated for Google Meet, including which carry genuine Google Meet hardware certification versus general USB compatibility that works but isn't specifically tested.";

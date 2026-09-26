@@ -1,5 +1,5 @@
 export const guideSlug = "best-gigabit-poe-splitter";
-export const guideTitle = "4 Best Gigabit PoE Splitters in 2026";
+export const guideTitle = "Best Gigabit PoE Splitters";
 export const metaTitle = "Best Gigabit PoE Splitters";
 export const metaDescription = "We compared Gigabit PoE splitters by real wattage and voltage options, since one listing delivers 51W at your choice of 12V or 24V via a simple selector switch.";
 export const mainKeyword = "best gigabit poe splitter";

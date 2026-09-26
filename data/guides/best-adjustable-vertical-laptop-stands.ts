@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-adjustable-vertical-laptop-stands";
 
 export const guideSlug = "best-adjustable-vertical-laptop-stands";
-export const guideTitle = "8 Best Adjustable Vertical Laptop Stands (2026)";
+export const guideTitle = "Best Adjustable Vertical Laptop Stands (2026)";
 export const metaTitle = "Best Adjustable Vertical Laptop Stands 2026";
 export const metaDescription =
   "Best adjustable vertical laptop stands in 2026. Wide-range screw-lock aluminum stands and multi-slot adjustable organizers ranked by buyer rating.";

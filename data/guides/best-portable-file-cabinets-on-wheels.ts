@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-cabinets-on-wheels";
-export const guideTitle = "5 Best Portable File Cabinets on Wheels in 2026";
+export const guideTitle = "Best Portable File Cabinets on Wheels";
 export const metaTitle = "Best Portable File Cabinets on Wheels (2026)";
 export const metaDescription =
   "5 rolling file cabinets checked against our wheeled file box research for genuine scale differences, wheel locking, and multi-drawer capacity.";

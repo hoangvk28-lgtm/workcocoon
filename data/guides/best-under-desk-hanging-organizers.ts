@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-hanging-organizers";
-export const guideTitle = "5 Best Under-Desk Hanging Organizers in 2026";
+export const guideTitle = "Best Under-Desk Hanging Organizers";
 export const metaTitle = "Best Under-Desk Hanging Organizers (2026)";
 export const metaDescription =
   "5 under-desk organizers checked for knee clearance impact, desk underside construction compatibility, and no-drill clamp-on attachment.";

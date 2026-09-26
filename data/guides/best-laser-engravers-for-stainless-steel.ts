@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engravers-for-stainless-steel";
-export const guideTitle = "8 Best Laser Engravers for Stainless Steel in 2026";
+export const guideTitle = "Best Laser Engravers for Stainless Steel";
 export const metaTitle = "Best Laser Engravers for Stainless Steel in 2026";
 export const metaDescription = "We compared best laser engravers for stainless steel by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "laser engravers for stainless steel";

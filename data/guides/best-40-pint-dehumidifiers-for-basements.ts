@@ -1,5 +1,5 @@
 export const guideSlug = "best-40-pint-dehumidifiers-for-basements";
-export const guideTitle = "8 Best 40-Pint Dehumidifiers for Basements in 2026";
+export const guideTitle = "Best 40-Pint Dehumidifiers for Basements";
 export const metaTitle = "Best 40-Pint Dehumidifiers for Basements";
 export const metaDescription = "We compared 40 pint dehumidifier for basement models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "40 pint dehumidifier for basement";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-for-trackball-mice";
-export const guideTitle = "6 Best Mouse Pads for Trackball Mice in 2026";
+export const guideTitle = "Best Mouse Pads for Trackball Mice";
 export const metaTitle = "Best Mouse Pads for Trackball Mice";
 export const metaDescription = "We compared mouse pad trackball models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad trackball";

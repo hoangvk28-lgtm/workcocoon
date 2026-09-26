@@ -1,5 +1,5 @@
 export const guideSlug = "best-120w-mini-vacuum-cleaners";
-export const guideTitle = "6 Best 120W Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best 120W Mini Vacuum Cleaners";
 export const metaTitle = "Best 120W Mini Vacuum Cleaners";
 export const metaDescription = "We compared 120w mini vacuum cleaners models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "120w mini vacuum cleaners";

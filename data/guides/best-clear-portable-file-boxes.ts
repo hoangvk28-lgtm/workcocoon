@@ -1,5 +1,5 @@
 export const guideSlug = "best-clear-portable-file-boxes";
-export const guideTitle = "5 Best Clear Portable File Boxes in 2026";
+export const guideTitle = "Best Clear Portable File Boxes";
 export const metaTitle = "Best Clear Portable File Boxes (2026)";
 export const metaDescription =
   "5 clear plastic file boxes checked for UV yellowing over years of exposure, scratch resistance, and honest tradeoffs against document privacy.";

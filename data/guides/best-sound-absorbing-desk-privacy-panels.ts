@@ -1,5 +1,5 @@
 export const guideSlug = "best-sound-absorbing-desk-privacy-panels";
-export const guideTitle = "5 Best Sound-Absorbing Desk Privacy Panels in 2026";
+export const guideTitle = "Best Sound-Absorbing Desk Privacy Panels";
 export const metaTitle = "Best Sound-Absorbing Desk Privacy Panels, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 desk privacy panels we evaluated for sound absorption, with the honest distinction competitors blur: felt and acoustic foam absorb some reflected sound, they don't block sound transmission the way a soundproof partition does.";

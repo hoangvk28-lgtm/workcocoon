@@ -1,5 +1,5 @@
 export const guideSlug = "best-5-tier-storage-carts";
-export const guideTitle = "8 Best 5-Tier Storage Carts in 2026";
+export const guideTitle = "Best 5-Tier Storage Carts";
 export const metaTitle = "Best 5-Tier Storage Carts";
 export const metaDescription = "We compared 5 storage cart with drawers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "5 storage cart with drawers";

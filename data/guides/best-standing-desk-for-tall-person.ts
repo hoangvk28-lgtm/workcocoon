@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-standing-desk-for-tall-person";
 
 export const guideSlug = "best-standing-desk-for-tall-person";
-export const guideTitle = "8 Best Standing Desks for Tall People in 2026";
+export const guideTitle = "Best Standing Desks for Tall People";
 export const metaTitle = "Best Standing Desks for Tall People 2026 - Up to 52\" High";
 export const metaDescription =
   "Best standing desks for tall people in 2026. We compare desks reaching 50-52 inches high for users 6'2\" and above, ranked by height range and stability.";

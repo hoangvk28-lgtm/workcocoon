@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-home-use";
-export const guideTitle = "8 Best Printers for Home Use in 2026";
+export const guideTitle = "Best Printers for Home Use";
 export const metaTitle = "Best Printers for Home Use in 2026 (Plus a Labeling Pick)";
 export const metaDescription =
   "8 printers we evaluated for home use, from budget inkjets to an ink-tank workhorse, plus true cost of ownership, idle-ink risk, and volume-based picks for every household.";

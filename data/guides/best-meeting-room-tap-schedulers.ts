@@ -1,5 +1,5 @@
 export const guideSlug = "best-meeting-room-tap-schedulers";
-export const guideTitle = "8 Best Meeting Room Tap Schedulers in 2026";
+export const guideTitle = "Best Meeting Room Tap Schedulers";
 export const metaTitle = "Best Meeting Room Tap Schedulers";
 export const metaDescription = "We compared meeting room tap scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "meeting room tap scheduler";

@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-under-desk-footrests";
 
 export const guideSlug = "best-under-desk-footrests";
-export const guideTitle = "8 Best Under-Desk Footrests (2026)";
+export const guideTitle = "Best Under-Desk Footrests (2026)";
 export const metaTitle = "Best Under-Desk Footrests 2026";
 export const metaDescription = "Best under-desk footrests in 2026. Memory foam, adjustable height, rocking balance boards, and massage roller options ranked by Amazon buyer rating.";
 export const lastUpdated = "2026-07-10";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-12v-poe-splitter";
-export const guideTitle = "4 Best 12V PoE Splitters in 2026";
+export const guideTitle = "Best 12V PoE Splitters";
 export const metaTitle = "Best 12V PoE Splitters";
 export const metaDescription = "We compared 12V PoE splitters by real amperage output, since a 2A splitter delivers double the continuous power of a 1A model at the identical 12V rating.";
 export const mainKeyword = "best 12v poe splitter";

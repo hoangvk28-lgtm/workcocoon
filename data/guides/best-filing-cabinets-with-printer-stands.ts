@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-with-printer-stands";
-export const guideTitle = "6 Best Filing Cabinets with Printer Stands in 2026";
+export const guideTitle = "Best Filing Cabinets with Printer Stands";
 export const metaTitle = "Best Filing Cabinets with Printer Stands in 2026 (Load Capacity Guide)";
 export const metaDescription =
   "6 filing cabinets with printer-stand tops compared on top surface load capacity, footprint versus printer size, and cable routing, not just drawer count.";

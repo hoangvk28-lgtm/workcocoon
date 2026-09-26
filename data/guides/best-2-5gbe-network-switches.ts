@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-5gbe-network-switches";
-export const guideTitle = "8 Best 2.5GbE Network Switches in 2026";
+export const guideTitle = "Best 2.5GbE Network Switches";
 export const metaTitle = "Best 2.5GbE Network Switches 2026";
 export const metaDescription = "2.5GbE is now the mainstream multi-gig upgrade tier, working over existing Cat5e cabling. We compared the current switch lineup.";
 export const mainKeyword = "2.5gbe network switches";

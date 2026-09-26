@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-for-monitor";
-export const guideTitle = "8 Best Ring Lights for Monitor in 2026";
+export const guideTitle = "Best Ring Lights for Monitor";
 export const metaTitle = "Best Ring Lights for Monitor";
 export const metaDescription = "We compared ring light for monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ring light for monitor";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-1000-joule-surge-protectors";
-export const guideTitle = "5 Best 1000-Joule Surge Protectors in 2026";
+export const guideTitle = "Best 1000-Joule Surge Protectors";
 export const metaTitle = "Best 1000-Joule Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 surge protectors around 1000 joules we evaluated, with the reality competitors skip: at this tier, the joule budget can be meaningfully depleted by a handful of moderate grid fluctuations, not just one dramatic lightning event.";

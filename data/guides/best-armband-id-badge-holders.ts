@@ -1,5 +1,5 @@
 export const guideSlug = "best-armband-id-badge-holders";
-export const guideTitle = "6 Best Armband ID Badge Holders in 2026";
+export const guideTitle = "Best Armband ID Badge Holders";
 export const metaTitle = "Best Armband ID Badge Holders";
 export const metaDescription = "We compared armband id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "armband id badge holders";

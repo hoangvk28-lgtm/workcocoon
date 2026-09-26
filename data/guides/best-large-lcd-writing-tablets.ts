@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-lcd-writing-tablets";
-export const guideTitle = "4 Best Large LCD Writing Tablets in 2026";
+export const guideTitle = "Best Large LCD Writing Tablets";
 export const metaTitle = "Best Large LCD Writing Tablets (2026)";
 export const metaDescription =
   "4 large LCD writing tablets we evaluated, spanning the 16, 15, and 11.5 inch tiers, quantified by actual screen dimensions rather than vague size claims.";

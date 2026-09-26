@@ -1,5 +1,5 @@
 export const guideSlug = "best-for-aluminum-desktop-cnc-machines";
-export const guideTitle = "6 Best For Aluminum Desktop CNC Machines in 2026";
+export const guideTitle = "Best For Aluminum Desktop CNC Machines";
 export const metaTitle = "Best For Aluminum Desktop CNC Machines 2026";
 export const metaDescription = "We compared for aluminum desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "for aluminum desktop cnc machines";

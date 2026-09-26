@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-standing-desk-converters";
-export const guideTitle = "5 Best Heavy-Duty Standing Desk Converters in 2026";
+export const guideTitle = "Best Heavy-Duty Standing Desk Converters";
 export const metaTitle = "Best Heavy-Duty Standing Desk Converters (2026)";
 export const metaDescription =
   "5 standing desk converters compared for genuine loaded stability, not just a high advertised weight capacity number from the listing.";

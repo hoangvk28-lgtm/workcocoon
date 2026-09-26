@@ -1,5 +1,5 @@
 export const guideSlug = "best-targus-laptop-locks";
-export const guideTitle = "5 Best Targus Laptop Locks in 2026";
+export const guideTitle = "Best Targus Laptop Locks";
 export const metaTitle = "Best Targus Laptop Locks (2026)";
 export const metaDescription =
   "5 current Targus DEFCON laptop locks compared by keying system and slot compatibility, since Targus spans keyed, resettable, and serialized designs.";

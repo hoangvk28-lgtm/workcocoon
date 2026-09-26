@@ -1,5 +1,5 @@
 export const guideSlug = "best-construction-paper-trays";
-export const guideTitle = "6 Best Construction-Paper Trays in 2026";
+export const guideTitle = "Best Construction-Paper Trays";
 export const metaTitle = "Best Construction-Paper Trays";
 export const metaDescription = "We compared construction-paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "construction-paper trays";

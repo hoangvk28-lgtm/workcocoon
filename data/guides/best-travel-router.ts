@@ -1,5 +1,5 @@
 export const guideSlug = "best-travel-router";
-export const guideTitle = "4 Best Travel Routers in 2026";
+export const guideTitle = "Best Travel Routers";
 export const metaTitle = "Best Travel Routers";
 export const metaDescription = "We compared travel routers by real firmware, since an OpenWrt router with built-in VPN clients handles hotel Wi-Fi differently than a basic model.";
 export const mainKeyword = "best travel router";

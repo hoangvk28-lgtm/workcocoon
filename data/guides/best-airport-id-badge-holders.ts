@@ -1,5 +1,5 @@
 export const guideSlug = "best-airport-id-badge-holders";
-export const guideTitle = "6 Best Airport ID Badge Holders in 2026";
+export const guideTitle = "Best Airport ID Badge Holders";
 export const metaTitle = "Best Airport ID Badge Holders";
 export const metaDescription = "We compared airport id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "airport id badge holders";

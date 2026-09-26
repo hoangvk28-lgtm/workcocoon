@@ -1,5 +1,5 @@
 export const guideSlug = "best-multicolor-3d-printers";
-export const guideTitle = "6 Best Multicolor 3D Printers in 2026";
+export const guideTitle = "Best Multicolor 3D Printers";
 export const metaTitle = "Best Multicolor 3D Printers";
 export const metaDescription = "We compared multicolor 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "multicolor 3d printers";

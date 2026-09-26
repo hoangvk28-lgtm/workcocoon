@@ -1,5 +1,5 @@
 export const guideSlug = "best-jam-proof-paper-shredders";
-export const guideTitle = "8 Best Jam-Proof Paper Shredders in 2026";
+export const guideTitle = "Best Jam-Proof Paper Shredders";
 export const metaTitle = "Best Jam-Proof Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders with genuine anti-jam auto-reverse systems, with an honest clarification that 'jam-proof' means jam-sensing plus auto-reverse, not mechanically impossible to jam.";

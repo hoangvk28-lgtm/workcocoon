@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-fatigue-mats-for-home-gym";
-export const guideTitle = "7 Best Anti-Fatigue Mats for Home Gym in 2026";
+export const guideTitle = "Best Anti-Fatigue Mats for Home Gym";
 export const metaTitle = "Best Anti-Fatigue Mats for Home Gym";
 export const metaDescription = "We compared anti-fatigue mat for gym models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "anti-fatigue mat for gym";

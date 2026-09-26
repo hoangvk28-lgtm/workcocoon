@@ -1,5 +1,5 @@
 export const guideSlug = "best-cordless-coffee-warmers";
-export const guideTitle = "6 Best Cordless Coffee Warmers in 2026";
+export const guideTitle = "Best Cordless Coffee Warmers";
 export const metaTitle = "Best Cordless Coffee Warmers";
 export const metaDescription = "We compared cordless coffee warmers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cordless coffee warmers";

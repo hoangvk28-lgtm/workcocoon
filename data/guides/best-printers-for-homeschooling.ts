@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-homeschooling";
-export const guideTitle = "8 Best Printers for Homeschooling in 2026";
+export const guideTitle = "Best Printers for Homeschooling";
 export const metaTitle = "Best Printers for Homeschooling in 2026 (Ink-Tank & Budget Picks)";
 export const metaDescription =
   "8 best printers for homeschooling in 2026, from budget inkjets to ink-tank models built for high-volume worksheet printing. Compare cost and durability.";

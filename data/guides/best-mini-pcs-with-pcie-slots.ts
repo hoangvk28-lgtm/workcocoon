@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-pcie-slots";
-export const guideTitle = "5 Best Mini PCs with PCIe Slots in 2026";
+export const guideTitle = "Best Mini PCs with PCIe Slots";
 export const metaTitle = "Best Mini PCs with PCIe Slots (2026)";
 export const metaDescription =
   "5 mini PCs with PCIe expansion we evaluated, distinguishing true physical PCIe slots from M.2 adapters and OCuLink-based expansion.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-double-sided-bookshelves";
-export const guideTitle = "8 Best Double-Sided Bookshelves in 2026";
+export const guideTitle = "Best Double-Sided Bookshelves";
 export const metaTitle = "Best Double-Sided Bookshelves in 2026";
 export const metaDescription =
   "8 best double-sided bookshelves in 2026. Open vs. closed back privacy, bilateral loading weight limits, and which picks are genuinely bookshelf-style.";

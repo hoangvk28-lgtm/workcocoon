@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-dc-ups-for-wifi-routers";
-export const guideTitle = "6 Best Mini DC UPS for Wi-Fi Routers in 2026";
+export const guideTitle = "Best Mini DC UPS for Wi-Fi Routers";
 export const metaTitle = "Best Mini DC UPS for Wi-Fi Routers 2026";
 export const metaDescription = "DC UPS is the precise term for router battery backup. We compared voltage, polarity, and watt-hours across the current mini DC UPS lineup.";
 export const mainKeyword = "mini dc ups for wifi routers";

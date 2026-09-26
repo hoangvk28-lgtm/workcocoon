@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-with-power-delivery";
-export const guideTitle = "7 Best USB-C Ethernet Adapters With Power Delivery";
+export const guideTitle = "Best USB-C Ethernet Adapters With Power Delivery";
 export const metaTitle = "Best USB-C Ethernet Adapters with PD";
 export const metaDescription = "PD passthrough creates a genuine one-port workflow. We separated charger input rating from what actually reaches your device.";
 export const mainKeyword = "usb-c ethernet adapters with power delivery";

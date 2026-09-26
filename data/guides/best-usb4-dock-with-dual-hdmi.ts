@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-with-dual-hdmi";
-export const guideTitle = "4 Best USB4 Docks with Dual HDMI in 2026";
+export const guideTitle = "Best USB4 Docks with Dual HDMI";
 export const metaTitle = "Best USB4 Docks with Dual HDMI";
 export const metaDescription = "We compared dual HDMI USB4 docks by native versus DisplayLink video and macOS mirror limits, since Mac and Windows handle dual HDMI very differently.";
 export const mainKeyword = "best usb4 dock with dual hdmi";

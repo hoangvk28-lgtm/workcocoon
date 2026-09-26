@@ -1,5 +1,5 @@
 export const guideSlug = "best-12-outlet-surge-protectors";
-export const guideTitle = "5 Best 12-Outlet Surge Protectors in 2026";
+export const guideTitle = "Best 12-Outlet Surge Protectors";
 export const metaTitle = "Best 12-Outlet Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 twelve-outlet surge protectors we evaluated, with the risk-concentration point competitors skip: consolidating an entire home theater or office onto one 12-outlet unit means a single point of failure takes down everything at once.";

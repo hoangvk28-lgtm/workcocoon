@@ -1,5 +1,5 @@
 export const guideSlug = "best-glass-desktop-whiteboards-with-storage";
-export const guideTitle = "5 Best Glass Desktop Whiteboards with Storage in 2026";
+export const guideTitle = "Best Glass Desktop Whiteboards with Storage";
 export const metaTitle = "Best Glass Desktop Whiteboards with Storage (2026)";
 export const metaDescription =
   "5 glass whiteboards with genuine built-in storage compartments, compared by how much they actually hold rather than a decorative marker groove.";

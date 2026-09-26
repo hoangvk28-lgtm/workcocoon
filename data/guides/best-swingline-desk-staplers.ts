@@ -1,5 +1,5 @@
 export const guideSlug = "best-swingline-desk-staplers";
-export const guideTitle = "4 Best Swingline Desk Staplers in 2026";
+export const guideTitle = "Best Swingline Desk Staplers";
 export const metaTitle = "Best Swingline Desk Staplers";
 export const metaDescription = "We compared swingline desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "swingline desk staplers";

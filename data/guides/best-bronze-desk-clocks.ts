@@ -1,5 +1,5 @@
 export const guideSlug = "best-bronze-desk-clocks";
-export const guideTitle = "5 Best Bronze Desk Clocks in 2026";
+export const guideTitle = "Best Bronze Desk Clocks";
 export const metaTitle = "Best Bronze Desk Clocks (2026)";
 export const metaDescription =
   "5 bronze and bronze-toned desk clocks compared by actual price and construction, spanning budget metal clocks to genuine bronze-finish mantel pieces.";

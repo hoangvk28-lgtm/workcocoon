@@ -1,5 +1,5 @@
 export const guideSlug = "best-49-inch-ultrawide-gaming-monitors";
-export const guideTitle = "6 Best 49-Inch Ultrawide Gaming Monitors in 2026";
+export const guideTitle = "Best 49-Inch Ultrawide Gaming Monitors";
 export const metaTitle = "Best 49-Inch Ultrawide Gaming Monitors";
 export const metaDescription = "We compared 49-inch ultrawide gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "49-inch ultrawide gaming monitors";

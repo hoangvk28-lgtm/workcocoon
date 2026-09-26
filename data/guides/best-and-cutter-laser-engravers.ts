@@ -1,5 +1,5 @@
 export const guideSlug = "best-and-cutter-laser-engravers";
-export const guideTitle = "8 Best And Cutter Laser Engravers in 2026";
+export const guideTitle = "Best And Cutter Laser Engravers";
 export const metaTitle = "Best And Cutter Laser Engravers in 2026";
 export const metaDescription = "We compared best and cutter laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "and cutter laser engravers";

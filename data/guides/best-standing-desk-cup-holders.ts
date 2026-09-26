@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-cup-holders";
-export const guideTitle = "5 Best Standing Desk Cup Holders in 2026";
+export const guideTitle = "Best Standing Desk Cup Holders";
 export const metaTitle = "Best Standing Desk Cup Holders (2026)";
 export const metaDescription =
   "5 cup holders checked for compatibility across a standing desk's full height range, desktop mounting, and stability during height transitions.";

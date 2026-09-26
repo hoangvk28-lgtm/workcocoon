@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-calendars-under-50";
-export const guideTitle = "4 Best Digital Calendars Under $50 in 2026";
+export const guideTitle = "Best Digital Calendars Under $50";
 export const metaTitle = "Best Digital Calendars Under $50";
 export const metaDescription = "We compared digital calendars under $50 by calendar sync depth, chore tracking, and subscription terms, since no-subscription models genuinely vary here.";
 export const mainKeyword = "best digital calendars under $50";

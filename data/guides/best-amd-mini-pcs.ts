@@ -1,5 +1,5 @@
 export const guideSlug = "best-amd-mini-pcs";
-export const guideTitle = "5 Best AMD Mini PCs in 2026";
+export const guideTitle = "Best AMD Mini PCs";
 export const metaTitle = "Best AMD Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 AMD mini PCs we evaluated, with a note that AMD's integrated Radeon graphics generally outperform Intel's integrated graphics at similar price points, worth weighing this if light gaming matters to you.";

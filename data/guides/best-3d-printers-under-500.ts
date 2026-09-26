@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-printers-under-500";
-export const guideTitle = "6 Best 3D Printers Under $500 in 2026";
+export const guideTitle = "Best 3D Printers Under $500";
 export const metaTitle = "Best 3D Printers Under $500";
 export const metaDescription = "We compared 3d printers under $500 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "3d printers under $500";

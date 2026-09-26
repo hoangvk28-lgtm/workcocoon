@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-elderly-users";
-export const guideTitle = "8 Best Task Chairs for Elderly Users in 2026";
+export const guideTitle = "Best Task Chairs for Elderly Users";
 export const metaTitle = "Best Task Chairs for Elderly Users";
 export const metaDescription = "We compared task chair for elderly with brakes models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair for elderly with brakes";

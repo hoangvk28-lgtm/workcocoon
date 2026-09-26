@@ -1,5 +1,5 @@
 export const guideSlug = "best-freestanding-desktop-whiteboards";
-export const guideTitle = "5 Best Freestanding Desktop Whiteboards in 2026";
+export const guideTitle = "Best Freestanding Desktop Whiteboards";
 export const metaTitle = "Best Freestanding Desktop Whiteboards (2026)";
 export const metaDescription =
   "5 whiteboards that stand upright on their own base without needing a wall mount, compared for base stability under actual writing pressure.";

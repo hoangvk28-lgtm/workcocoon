@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-vacuum-cleaners-with-strong-suction";
-export const guideTitle = "6 Best Mini Vacuum Cleaners With Strong Suction in 2026";
+export const guideTitle = "Best Mini Vacuum Cleaners With Strong Suction";
 export const metaTitle = "Best Mini Vacuum Cleaners With Strong Suction";
 export const metaDescription = "We compared mini vacuum cleaners with strong suction models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mini vacuum cleaners with strong suction";

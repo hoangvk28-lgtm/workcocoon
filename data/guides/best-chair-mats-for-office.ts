@@ -1,5 +1,5 @@
 export const guideSlug = "best-chair-mats-for-office";
-export const guideTitle = "8 Best Chair Mats for Office in 2026";
+export const guideTitle = "Best Chair Mats for Home and Shared Office Use";
 export const metaTitle = "Best Chair Mats for Office Use in 2026 (Home & Commercial)";
 export const metaDescription =
   "8 best chair mats for office use in 2026, for home offices and shared commercial workspaces. Compare durability, certifications, and total cost of ownership.";

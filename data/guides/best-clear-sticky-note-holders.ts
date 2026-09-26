@@ -1,5 +1,5 @@
 export const guideSlug = "best-clear-sticky-note-holders";
-export const guideTitle = "6 Best Clear Sticky Note Holders in 2026";
+export const guideTitle = "Best Clear Sticky Note Holders";
 export const metaTitle = "Best Clear Sticky Note Holders";
 export const metaDescription = "We compared clear sticky note holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "clear sticky note holders";

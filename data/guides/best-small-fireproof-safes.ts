@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-fireproof-safes";
-export const guideTitle = "7 Best Small Fireproof Safes in 2026";
+export const guideTitle = "Best Small Fireproof Safes";
 export const metaTitle = "Best Small Fireproof Safes (2026)";
 export const metaDescription =
   "7 verified fireproof safes compared on UL classification, ETL verification, and confirmed protection duration, after excluding one inaccessible ASIN.";

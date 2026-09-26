@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-usb-c-monitors";
-export const guideTitle = "5 Best Portable USB-C Monitors in 2026";
+export const guideTitle = "Best Portable USB-C Monitors";
 export const metaTitle = "Best Portable USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable USB-C monitors we evaluated, with a note on single-cable power draw: a portable monitor pulling power from your laptop's battery can drain it faster than expected on the go.";

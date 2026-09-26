@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-ai-workloads";
-export const guideTitle = "5 Best Mini PCs for AI Workloads in 2026";
+export const guideTitle = "Best Mini PCs for AI Workloads";
 export const metaTitle = "Best Mini PCs for AI Workloads (2026)";
 export const metaDescription =
   "5 mini PCs for AI workloads we evaluated, matched to specific tasks like local inference, image generation, and transcription, not generic AI benchmarks.";

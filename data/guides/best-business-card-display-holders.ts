@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-display-holders";
-export const guideTitle = "6 Best Business Card Display Holders in 2026";
+export const guideTitle = "Best Business Card Display Holders";
 export const metaTitle = "Best Business Card Display Holders";
 export const metaDescription = "We compared business card display holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "business card display holders";

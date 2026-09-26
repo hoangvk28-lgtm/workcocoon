@@ -1,5 +1,5 @@
 export const guideSlug = "best-beige-cable-sleeves";
-export const guideTitle = "5 Best Beige Cable Sleeves in 2026";
+export const guideTitle = "Best Beige Cable Sleeves";
 export const metaTitle = "Best Beige Cable Sleeves";
 export const metaDescription = "We compared beige cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "beige cable sleeves";

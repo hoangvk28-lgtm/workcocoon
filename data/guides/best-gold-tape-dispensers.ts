@@ -1,5 +1,5 @@
 export const guideSlug = "best-gold-tape-dispensers";
-export const guideTitle = "3 Best Gold Tape Dispensers in 2026";
+export const guideTitle = "Best Gold Tape Dispensers";
 export const metaTitle = "Best Gold Tape Dispensers";
 export const metaDescription = "We compared gold tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "gold tape dispensers";

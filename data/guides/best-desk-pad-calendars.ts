@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pad-calendars";
-export const guideTitle = "6 Best Desk Pad Calendars in 2026";
+export const guideTitle = "Best Desk Pad Calendars";
 export const metaTitle = "Best Desk Pad Calendars";
 export const metaDescription = "We compared desk pad calendar models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad calendar";

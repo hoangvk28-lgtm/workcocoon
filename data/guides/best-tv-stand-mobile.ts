@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-mobile";
-export const guideTitle = "6 Best Mobile TV Stands in 2026";
+export const guideTitle = "Best Mobile TV Stands";
 export const metaTitle = "Best Mobile TV Stands in 2026 (Rolling Carts for Office & AV)";
 export const metaDescription =
   "6 best mobile TV stands in 2026, rolling carts built for offices, schools, and AV setups. Compare locking casters, tilt range, and weight capacity.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-privacy-screens-under-30";
-export const guideTitle = "4 Best Monitor Privacy Screens Under $30 in 2026";
+export const guideTitle = "Best Monitor Privacy Screens Under $30";
 export const metaTitle = "Best Monitor Privacy Screens Under $30 in 2026";
 export const metaDescription = "We compared best monitor privacy screens under $30 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "monitor privacy screens under $30";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-with-screens-under-90";
-export const guideTitle = "8 Best Drawing Tablets With Screens Under $90 in 2026";
+export const guideTitle = "Best Drawing Tablets With Screens Under $90";
 export const metaTitle = "Best Drawing Tablets With Screens Under $90";
 export const metaDescription = "We compared best drawing tablets with screens under $90 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "drawing tablets with screens under $90";

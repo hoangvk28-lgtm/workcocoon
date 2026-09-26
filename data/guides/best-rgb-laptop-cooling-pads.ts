@@ -1,5 +1,5 @@
 export const guideSlug = "best-rgb-laptop-cooling-pads";
-export const guideTitle = "8 Best RGB Laptop Cooling Pads in 2026";
+export const guideTitle = "Best RGB Laptop Cooling Pads";
 export const metaTitle = "Best RGB Laptop Cooling Pads (2026)";
 export const metaDescription =
   "8 RGB laptop cooling pads evaluated on cooling performance first and lighting second, with power draw and software notes for each.";

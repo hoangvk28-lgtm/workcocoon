@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-under-500";
-export const guideTitle = "4 Best WiFi 7 Routers Under $500 in 2026";
+export const guideTitle = "Best WiFi 7 Routers Under $500";
 export const metaTitle = "Best WiFi 7 Routers Under $500";
 export const metaDescription = "We compared WiFi 7 routers under $500 by real tri-band mesh coverage, unit count, and 10 Gbps backhaul for large homes and demanding households.";
 export const mainKeyword = "best wifi 7 routers under $500";

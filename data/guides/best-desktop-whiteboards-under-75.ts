@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-under-75";
-export const guideTitle = "4 Best Desktop Whiteboards Under $75 in 2026";
+export const guideTitle = "Best Desktop Whiteboards Under $75";
 export const metaTitle = "Best Desktop Whiteboards Under $75";
 export const metaDescription = "We compared desktop whiteboards under $75 by cubicle privacy sizing, GREENGUARD certification, and accessory storage tray depth for office setups.";
 export const mainKeyword = "best desktop whiteboards under $75";

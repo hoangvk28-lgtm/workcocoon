@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-large-home-offices";
-export const guideTitle = "5 Best Air Purifiers for Large Home Offices in 2026";
+export const guideTitle = "Best Air Purifiers for Large Home Offices";
 export const metaTitle = "Best Air Purifiers for Large Home Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for large home offices, with the ACH-at-distance math competitors skip: a coverage rating assumes an open room, a large office with furniture, shelving, and room dividers needs meaningfully more capacity than the raw square footage suggests.";

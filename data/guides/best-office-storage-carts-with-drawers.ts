@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-storage-carts-with-drawers";
-export const guideTitle = "8 Best Office Storage Carts With Drawers in 2026";
+export const guideTitle = "Best Office Storage Carts With Drawers";
 export const metaTitle = "Best Office Storage Carts With Drawers (2026)";
 export const metaDescription =
   "8 drawer-based office storage carts compared on drawer count, review base, and price, from a 4-drawer budget pick to a 10-drawer maximum-capacity cart.";

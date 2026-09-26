@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-for-reading";
-export const guideTitle = "7 Best Ring Lights for Reading in 2026";
+export const guideTitle = "Best Ring Lights for Reading";
 export const metaTitle = "Best Ring Lights for Reading";
 export const metaDescription = "We compared l ring light for reading models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "l ring light for reading";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-with-fans";
-export const guideTitle = "6 Best Laptop Cooling Pads with Fans in 2026";
+export const guideTitle = "Best Laptop Cooling Pads with Fans";
 export const metaTitle = "Best Laptop Cooling Pads with Fans (2026)";
 export const metaDescription =
   "6 fan-equipped laptop cooling pads compared on fan count, size, speed control, noise, and documented cooling evidence, not fan presence alone.";

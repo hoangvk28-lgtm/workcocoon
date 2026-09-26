@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-chromebooks";
-export const guideTitle = "8 Best Docking Stations for Chromebooks in 2026";
+export const guideTitle = "Best Docking Stations for Chromebooks";
 export const metaTitle = "Best Docking Stations for Chromebooks in 2026 (USB-C & DisplayLink)";
 export const metaDescription =
   "8 best docking stations for Chromebooks in 2026, covering USB-C Alt Mode limits, DisplayLink dual-display setups, and Thunderbolt Chromebook compatibility.";

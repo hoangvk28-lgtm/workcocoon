@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-with-drawers";
-export const guideTitle = "8 Best Storage Carts With Drawers in 2026";
+export const guideTitle = "Best Storage Carts With Drawers";
 export const metaTitle = "Best Storage Carts With Drawers";
 export const metaDescription = "We compared storage cart with drawers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "storage cart with drawers";

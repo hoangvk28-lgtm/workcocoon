@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-schedulers-for-outlook";
-export const guideTitle = "8 Best Room Schedulers for Outlook in 2026";
+export const guideTitle = "Best Room Schedulers for Outlook";
 export const metaTitle = "Best Room Schedulers for Outlook";
 export const metaDescription = "We compared room scheduler for outlook models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "room scheduler for outlook";

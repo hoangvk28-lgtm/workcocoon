@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-corner-desks";
-export const guideTitle = "8 Best Black Corner Desks in 2026";
+export const guideTitle = "Best Black Corner Desks";
 export const metaTitle = "Best Black Corner Desks";
 export const metaDescription = "We compared corner desks black models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desks black";

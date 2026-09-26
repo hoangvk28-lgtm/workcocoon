@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-desk-clocks";
-export const guideTitle = "5 Best Digital Desk Clocks in 2026";
+export const guideTitle = "Best Digital Desk Clocks";
 export const metaTitle = "Best Digital Desk Clocks (2026)";
 export const metaDescription =
   "5 digital desk clocks we researched for date, temperature, and alarm features, covering which are corded, which run on batteries, and who each suits.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-diskless-nas-enclosures";
-export const guideTitle = "8 Best Diskless NAS Enclosures in 2026";
+export const guideTitle = "Best Diskless NAS Enclosures";
 export const metaTitle = "Best Diskless NAS Enclosures in 2026 (2-Bay to 4-Bay)";
 export const metaDescription =
   "8 best diskless NAS enclosures in 2026, from 2-bay Synology home hubs to 4-bay DAS and NAS units. Compare bays, RAID support, and drive compatibility.";

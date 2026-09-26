@@ -1,5 +1,5 @@
 export const guideSlug = "best-home-smart-displays";
-export const guideTitle = "5 Best Home Smart Displays in 2026";
+export const guideTitle = "Best Home Smart Displays";
 export const metaTitle = "Best Home Smart Displays (2026)";
 export const metaDescription =
   "5 wall-mounted family smart displays compared on screen size, subscription costs, and calendar sync, from a 10.1 inch unit to a 21.5 inch command center.";

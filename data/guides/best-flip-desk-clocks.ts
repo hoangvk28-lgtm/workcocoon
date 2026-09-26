@@ -1,5 +1,5 @@
 export const guideSlug = "best-flip-desk-clocks";
-export const guideTitle = "4 Best Flip Desk Clocks in 2026";
+export const guideTitle = "Best Flip Desk Clocks";
 export const metaTitle = "Best Flip Desk Clocks in 2026";
 export const metaDescription =
   "4 flip desk clocks we researched, comparing gear-driven versus silent electronic movement, base material, and size to help you pick the right one.";

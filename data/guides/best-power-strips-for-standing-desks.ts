@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-for-standing-desks";
-export const guideTitle = "5 Best Power Strips for Standing Desks in 2026";
+export const guideTitle = "Best Power Strips for a Standing Desk";
 export const metaTitle = "Best Power Strips for Standing Desks, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 power strips we evaluated for standing desks, with the cable-strain issue competitors skip: a fixed-position strip creates real mechanical stress as the desk moves through its full height range.";

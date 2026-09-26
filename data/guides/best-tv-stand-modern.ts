@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-modern";
-export const guideTitle = "8 Best Modern TV Stands in 2026";
+export const guideTitle = "Best Modern TV Stands";
 export const metaTitle = "Best Modern TV Stands 2026, Mid-Century, Farmhouse & LED Picks";
 export const metaDescription =
   "Best modern TV stands in 2026. Mid-century fluted door, farmhouse sliding barn door, and LED floating stands ranked by size, storage, and cable management.";

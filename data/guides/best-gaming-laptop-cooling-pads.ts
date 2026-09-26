@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-laptop-cooling-pads";
-export const guideTitle = "6 Best Gaming Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Gaming Laptop Cooling Pads";
 export const metaTitle = "Best Gaming Laptop Cooling Pads (2026)";
 export const metaDescription =
   "6 gaming laptop cooling pads evaluated for sustained-load thermal benefit, multi-zone vent alignment, noise tradeoffs, and real USB power draw.";

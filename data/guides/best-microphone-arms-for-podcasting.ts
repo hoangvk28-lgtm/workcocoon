@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-for-podcasting";
-export const guideTitle = "8 Best Microphone Arms for Podcasting in 2026";
+export const guideTitle = "Best Microphone Arms for Podcasting";
 export const metaTitle = "Best Microphone Arms for Podcasting";
 export const metaDescription = "We compared microphone arm for podcasting models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "microphone arm for podcasting";

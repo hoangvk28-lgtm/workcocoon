@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-interactive-whiteboards";
-export const guideTitle = "7 Best Budget Interactive Whiteboards";
+export const guideTitle = "Best Budget Interactive Whiteboards";
 export const metaTitle = "Best Budget Interactive Whiteboards";
 export const metaDescription = "We calculated deployed price including stand, compute, and cables rather than ranking by panel sticker price alone.";
 export const mainKeyword = "cheap interactive whiteboard";

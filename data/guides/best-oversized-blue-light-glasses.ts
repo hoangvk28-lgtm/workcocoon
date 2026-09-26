@@ -1,5 +1,5 @@
 export const guideSlug = "best-oversized-blue-light-glasses";
-export const guideTitle = "6 Best Oversized Blue Light Glasses in 2026";
+export const guideTitle = "Best Oversized Blue Light Glasses";
 export const metaTitle = "Best Oversized Blue Light Glasses";
 export const metaDescription = "We compared oversized blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "oversized blue light glasses";

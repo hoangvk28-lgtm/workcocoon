@@ -1,5 +1,5 @@
 export const guideSlug = "best-hprt-label-printers";
-export const guideTitle = "6 Best HPRT Label Printers in 2026";
+export const guideTitle = "Best HPRT Label Printers";
 export const metaTitle = "Best HPRT Label Printers";
 export const metaDescription = "We compared hprt label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "hprt label printers";

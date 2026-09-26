@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-with-doors";
-export const guideTitle = "8 Best Bookshelves with Doors in 2026";
+export const guideTitle = "Best Bookshelves with Doors";
 export const metaTitle = "Best Bookshelves with Doors in 2026 (Cabinet, Barn Door & Arched)";
 export const metaDescription =
   "8 best bookshelves with doors in 2026, comparing enclosed cabinet doors, sliding barn doors, and arched scalloped-door designs. Compare capacity, style, and price.";

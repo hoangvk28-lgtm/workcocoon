@@ -1,5 +1,5 @@
 export const guideSlug = "best-xlr-mixers-for-podcasting";
-export const guideTitle = "8 Best XLR Mixers for Podcasting in 2026";
+export const guideTitle = "Best XLR Mixers for Podcasting";
 export const metaTitle = "Best XLR Mixers for Podcasting";
 export const metaDescription = "We compared best xlr mixer for podcast models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "best xlr mixer for podcast";

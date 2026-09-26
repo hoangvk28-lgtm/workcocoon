@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-monitor-shelves";
-export const guideTitle = "4 Best Clamp-On Monitor Shelves in 2026";
+export const guideTitle = "Best Clamp-On Monitor Shelves";
 export const metaTitle = "Best Clamp-On Monitor Shelves (2026)";
 export const metaDescription =
   "4 clamp-on monitor shelves we evaluated for desk-edge thickness compatibility, leverage-reduced weight capacity, and desk-surface marking risk.";

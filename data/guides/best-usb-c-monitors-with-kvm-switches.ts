@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-with-kvm-switches";
-export const guideTitle = "5 Best USB-C Monitors with KVM Switches in 2026";
+export const guideTitle = "Best USB-C Monitors with a Built-In KVM Switch";
 export const metaTitle = "Best USB-C Monitors with KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors with KVM switches we evaluated, with a note that a built-in KVM's switching method (hotkey, button, or auto-detect) affects daily convenience more than most spec sheets highlight.";

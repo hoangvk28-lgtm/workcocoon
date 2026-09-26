@@ -1,5 +1,5 @@
 export const guideSlug = "best-glass-monitor-shelves";
-export const guideTitle = "4 Best Glass Monitor Shelves in 2026";
+export const guideTitle = "Best Glass Monitor Shelves";
 export const metaTitle = "Best Glass Monitor Shelves (2026)";
 export const metaDescription =
   "4 glass monitor shelves we evaluated, disclosing tempered versus untempered glass safety, lower capacity limits, and edge-finish injury risk.";

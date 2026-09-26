@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-oculink";
-export const guideTitle = "5 Best Mini PCs with OCuLink in 2026";
+export const guideTitle = "Best Mini PCs with OCuLink";
 export const metaTitle = "Best Mini PCs with OCuLink (2026)";
 export const metaDescription =
   "5 OCuLink-equipped mini PCs we evaluated, explaining why this interface gives closer-to-native eGPU bandwidth than USB4 or Thunderbolt.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-desk-calendar-clocks";
-export const guideTitle = "4 Best Digital Desk Calendar Clocks in 2026";
+export const guideTitle = "Best Digital Desk Calendar Clocks";
 export const metaTitle = "Best Digital Desk Calendar Clocks (2026)";
 export const metaDescription =
   "4 desk calendar-clock combo devices ranked, covering both compact clock-first notepad boards and larger calendar-first touchscreen displays.";

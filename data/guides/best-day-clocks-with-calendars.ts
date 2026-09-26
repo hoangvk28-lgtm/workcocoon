@@ -1,5 +1,5 @@
 export const guideSlug = "best-day-clocks-with-calendars";
-export const guideTitle = "5 Best Day Clocks with Calendars in 2026";
+export const guideTitle = "Best Day Clocks with Calendars";
 export const metaTitle = "Best Day Clocks with Calendars (2026)";
 export const metaDescription =
   "5 large-display day clocks with calendar date tracking, compared on screen size, alarm count, and dementia-friendly design for seniors and low vision.";

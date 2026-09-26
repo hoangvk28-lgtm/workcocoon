@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-mesh-office-chair";
 
 export const guideSlug = "best-mesh-office-chair";
-export const guideTitle = "8 Best Mesh Office Chairs in 2026";
+export const guideTitle = "Best Mesh Office Chairs";
 export const metaTitle = "Best Mesh Office Chairs 2026 - Breathable & Ergonomic";
 export const metaDescription =
   "Best mesh office chairs in 2026. Breathable mesh back ergonomic chairs ranked by lumbar support, breathability, adjustability, and value for daily use.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-under-100";
-export const guideTitle = "5 Best Printers Under $100 in 2026";
+export const guideTitle = "Best Printers Under $100";
 export const metaTitle = "Best Printers Under $100 in 2026 (Verified Prices)";
 export const metaDescription =
   "5 best printers under $100 in 2026, all verified current pricing. Compare true first-year cost, feature cuts, and honest lifespan expectations at this price tier.";

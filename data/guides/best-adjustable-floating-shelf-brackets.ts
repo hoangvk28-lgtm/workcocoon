@@ -1,5 +1,5 @@
 export const guideSlug = "best-adjustable-floating-shelf-brackets";
-export const guideTitle = "7 Best Adjustable Floating Shelf Brackets in 2026";
+export const guideTitle = "Best Adjustable Floating Shelf Brackets";
 export const metaTitle = "Best Adjustable Floating Shelf Brackets";
 export const metaDescription = "We compared floating shelf brackets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf brackets";

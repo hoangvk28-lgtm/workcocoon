@@ -1,5 +1,5 @@
 export const guideSlug = "best-frunsi-drawing-tablets";
-export const guideTitle = "4 Best Frunsi Drawing Tablets in 2026";
+export const guideTitle = "Best Frunsi Drawing Tablets";
 export const metaTitle = "Best Frunsi Drawing Tablets 2026";
 export const metaDescription = "We compared frunsi drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "frunsi drawing tablets";

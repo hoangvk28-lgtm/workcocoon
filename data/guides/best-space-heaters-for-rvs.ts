@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-rvs";
-export const guideTitle = "7 Best Space Heaters for RVs in 2026";
+export const guideTitle = "Best Space Heaters for RVs";
 export const metaTitle = "Best Space Heaters for RVs";
 export const metaDescription = "We compared space heater for rv models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "space heater for rv";

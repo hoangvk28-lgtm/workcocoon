@@ -1,5 +1,5 @@
 export const guideSlug = "best-nfc-business-card-holders";
-export const guideTitle = "6 Best NFC Business Card Holders in 2026";
+export const guideTitle = "Best NFC Business Card Holders";
 export const metaTitle = "Best NFC Business Card Holders";
 export const metaDescription = "We compared nfc business card holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "nfc business card holders";

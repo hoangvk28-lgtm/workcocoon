@@ -1,5 +1,5 @@
 export const guideSlug = "best-aluminum-mini-pc-cooling-stands";
-export const guideTitle = "5 Best Aluminum Mini PC Cooling Stands in 2026";
+export const guideTitle = "Best Aluminum Mini PC Cooling Stands";
 export const metaTitle = "Best Aluminum Mini PC Cooling Stands";
 export const metaDescription =
   "5 aluminum Mini PC stands we evaluated for verified material construction and vent alignment, not just an aluminum-sounding product name.";

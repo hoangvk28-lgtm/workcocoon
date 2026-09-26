@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-under-desk-treadmill";
-export const guideTitle = "4 Best Compact Under-Desk Treadmills in 2026";
+export const guideTitle = "Best Compact Under-Desk Treadmills for Tight Clearance";
 export const metaTitle = "Best Compact Under-Desk Treadmills in 2026 (Under 4.5 Inches Thin)";
 export const metaDescription =
   "4 best compact under-desk treadmills in 2026 for tight desk clearance, from a 4.1-inch ultra-slim pad to a handlebar-equipped incline model. Compare thickness, speed, and price.";

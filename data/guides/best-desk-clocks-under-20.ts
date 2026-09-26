@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-under-20";
-export const guideTitle = "4 Best Desk Clocks Under $20 in 2026";
+export const guideTitle = "Best Desk Clocks Under $20";
 export const metaTitle = "Best Desk Clocks Under $20";
 export const metaDescription = "We compared desk clocks under $20 by dimmable brightness range, alarm volume options, and USB charging, since features vary more at this tier.";
 export const mainKeyword = "best desk clocks under $20";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-quad-screen-laptop-extenders";
-export const guideTitle = "5 Best Quad-Screen Laptop Extenders in 2026";
+export const guideTitle = "Best Quad-Screen Laptop Extenders";
 export const metaTitle = "Best Quad-Screen Laptop Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 quad-screen laptop extenders we evaluated, with an honest note about total port bandwidth: driving four panels at once can exceed what a single USB-C port supports at full resolution.";

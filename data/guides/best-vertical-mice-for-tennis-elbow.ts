@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-tennis-elbow";
-export const guideTitle = "8 Best Vertical Mice for Tennis Elbow in 2026";
+export const guideTitle = "Best Vertical Mice for Tennis Elbow";
 export const metaTitle = "Best Vertical Mice for Tennis Elbow";
 export const metaDescription =
   "We evaluated 8 vertical mice for forearm rotation, mouse weight, and DPI settings relevant to tennis elbow, alongside professional consultation guidance.";

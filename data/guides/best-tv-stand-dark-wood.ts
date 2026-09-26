@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-dark-wood";
-export const guideTitle = "8 Best Dark Wood TV Stands in 2026";
+export const guideTitle = "Best Dark Wood TV Stands";
 export const metaTitle = "Best Dark Wood TV Stands in 2026 (Walnut & Espresso)";
 export const metaDescription =
   "8 best dark wood TV stands in 2026, from walnut fluted mid-century designs to espresso sliding barn doors. Compare storage, TV size fit, and finish.";

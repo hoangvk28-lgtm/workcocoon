@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-for-mac-and-time-machine-backup-under-700";
-export const guideTitle = "6 Best NAS for Mac Time Machine Backup Under $700 in 2026";
+export const guideTitle = "Best NAS for Mac Time Machine Backup Under $700";
 export const metaTitle = "Best NAS for Mac Time Machine Under $700";
 export const metaDescription = "We compared NAS units under $700 by CPU class, bay count, and NVMe cache support for Mac Time Machine backup and content creation workflows beyond it.";
 export const mainKeyword = "nas for mac time machine backup under $700";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-folding-kneeling-chairs";
-export const guideTitle = "8 Best Folding Kneeling Chairs in 2026";
+export const guideTitle = "Best Folding Kneeling Chairs";
 export const metaTitle = "Best Folding Kneeling Chairs";
 export const metaDescription = "We compared folding kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "folding kneeling chair";

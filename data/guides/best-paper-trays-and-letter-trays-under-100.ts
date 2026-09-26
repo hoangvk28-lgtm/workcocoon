@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-trays-and-letter-trays-under-100";
-export const guideTitle = "6 Best Paper Trays and Letter Trays Under $100 in 2026";
+export const guideTitle = "Best Paper Trays and Letter Trays Under $100";
 export const metaTitle = "Best Paper Trays and Letter Trays Under $100";
 export const metaDescription = "We compared paper trays and letter trays under $100 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "paper trays and letter trays under $100";

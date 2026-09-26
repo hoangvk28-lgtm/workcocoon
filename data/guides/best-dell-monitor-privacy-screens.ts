@@ -1,5 +1,5 @@
 export const guideSlug = "best-dell-monitor-privacy-screens";
-export const guideTitle = "7 Best Dell Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Dell Monitor Privacy Screens";
 export const metaTitle = "Best Dell Monitor Privacy Screens (2026)";
 export const metaDescription =
   "Honest note: these are third-party filters sized for common Dell monitor dimensions, not Dell-branded products. We matched by size, not by logo.";

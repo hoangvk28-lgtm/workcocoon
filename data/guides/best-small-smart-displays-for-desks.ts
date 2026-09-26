@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-smart-displays-for-desks";
-export const guideTitle = "2 Best Small Smart Displays for Desks in 2026";
+export const guideTitle = "Best Small Smart Displays for Desks";
 export const metaTitle = "Best Small Smart Displays for Desks";
 export const metaDescription =
   "2 genuinely compact smart displays evaluated for small desks, the 5.5 inch Echo Show 5 and the 7 inch Nest Hub, with an honest size comparison.";

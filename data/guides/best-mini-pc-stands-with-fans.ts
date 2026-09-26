@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-stands-with-fans";
-export const guideTitle = "4 Best Mini PC Stands with Fans in 2026";
+export const guideTitle = "Best Mini PC Stands with Fans";
 export const metaTitle = "Best Mini PC Stands with Fans (2026)";
 export const metaDescription =
   "4 active, fan-equipped Mini PC stands we evaluated for vent alignment, noise control, and stability, narrowed from our broader stands guide.";

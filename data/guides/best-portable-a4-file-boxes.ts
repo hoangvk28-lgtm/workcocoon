@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-a4-file-boxes";
-export const guideTitle = "5 Best Portable A4 File Boxes in 2026";
+export const guideTitle = "Best Portable A4 File Boxes";
 export const metaTitle = "Best Portable A4 File Boxes (2026)";
 export const metaDescription =
   "5 file boxes assessed for genuine A4 international paper-size compatibility versus US letter-size boxes marketed loosely as A4 compatible.";

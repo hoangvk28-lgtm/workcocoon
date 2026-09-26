@@ -1,5 +1,5 @@
 export const guideSlug = "best-34-inch-curved-monitor-privacy-screens";
-export const guideTitle = "5 Best 34-Inch Curved Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 34-Inch Curved Monitor Privacy Screens";
 export const metaTitle = "Best 34-Inch Curved Monitor Privacy Screens (2026)";
 export const metaDescription =
   "5 privacy filters confirmed curved-compatible for genuine 34 inch, 21:9 ultrawide monitors, from a $49.99 single unit to a $143.99 matched 2-pack.";

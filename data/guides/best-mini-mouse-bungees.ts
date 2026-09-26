@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-mouse-bungees";
-export const guideTitle = "6 Best Mini Mouse Bungees in 2026";
+export const guideTitle = "Best Mini Mouse Bungees";
 export const metaTitle = "Best Mini Mouse Bungees";
 export const metaDescription = "We compared mini mouse bungees models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mini mouse bungees";

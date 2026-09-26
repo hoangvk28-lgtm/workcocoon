@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-under-300";
-export const guideTitle = "4 Best WiFi 7 Routers Under $300 in 2026";
+export const guideTitle = "Best WiFi 7 Routers Under $300";
 export const metaTitle = "Best WiFi 7 Routers Under $300";
 export const metaDescription = "We compared WiFi 7 routers under $300 by real tri-band speed figures, 10 Gbps port availability, and full-home mesh coverage for larger houses.";
 export const mainKeyword = "best wifi 7 routers under $300";

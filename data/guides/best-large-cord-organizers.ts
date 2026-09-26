@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-cord-organizers";
-export const guideTitle = "6 Best Large Cord Organizers in 2026";
+export const guideTitle = "Best Large Cord Organizers";
 export const metaTitle = "Best Large Cord Organizers";
 export const metaDescription = "We compared large cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "large cord organizers";

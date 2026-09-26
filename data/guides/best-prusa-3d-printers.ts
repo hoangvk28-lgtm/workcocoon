@@ -1,5 +1,5 @@
 export const guideSlug = "best-prusa-3d-printers";
-export const guideTitle = "6 Best Prusa 3D Printers in 2026";
+export const guideTitle = "Best Prusa 3D Printers";
 export const metaTitle = "Best Prusa 3D Printers";
 export const metaDescription = "We compared prusa 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "prusa 3d printers";

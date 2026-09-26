@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-poe-splitter";
-export const guideTitle = "4 Best Budget PoE Splitters in 2026";
+export const guideTitle = "Best Budget PoE Splitters";
 export const metaTitle = "Best Budget PoE Splitters";
 export const metaDescription = "We compared budget PoE splitters under $32 by real voltage flexibility, since one adjusts between 5V, 9V, and 12V while others stay locked to one voltage.";
 export const mainKeyword = "best budget poe splitter";

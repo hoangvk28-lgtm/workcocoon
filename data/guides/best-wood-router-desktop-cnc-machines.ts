@@ -1,5 +1,5 @@
 export const guideSlug = "best-wood-router-desktop-cnc-machines";
-export const guideTitle = "8 Best Wood Router Desktop CNC Machines in 2026";
+export const guideTitle = "Best Wood Router Desktop CNC Machines";
 export const metaTitle = "Best Wood Router Desktop CNC Machines 2026";
 export const metaDescription = "We compared wood router desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "wood router desktop cnc machines";

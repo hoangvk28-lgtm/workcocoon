@@ -1,5 +1,5 @@
 export const guideSlug = "best-86-inch-interactive-whiteboards";
-export const guideTitle = "8 Best 86-Inch Interactive Whiteboards";
+export const guideTitle = "Best 86-Inch Interactive Whiteboards";
 export const metaTitle = "Best 86-Inch Interactive Whiteboards";
 export const metaDescription = "86 inches is a major current tier across nearly every major brand. We required exact current SKUs and compared weight/installation demands.";
 export const mainKeyword = "86 inch interactive whiteboard";

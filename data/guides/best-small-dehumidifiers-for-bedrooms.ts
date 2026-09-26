@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-dehumidifiers-for-bedrooms";
-export const guideTitle = "8 Best Small Dehumidifiers for Bedrooms in 2026";
+export const guideTitle = "Best Small Dehumidifiers for Bedrooms";
 export const metaTitle = "Best Small Dehumidifiers for Bedrooms";
 export const metaDescription = "We compared small dehumidifier for bedroom models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "small dehumidifier for bedroom";

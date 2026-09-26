@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-printer-cabinets";
-export const guideTitle = "6 Best 3D Printer Cabinets in 2026";
+export const guideTitle = "Best 3D Printer Cabinets";
 export const metaTitle = "Best 3D Printer Cabinets";
 export const metaDescription = "We compared 3d printer cabinets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "3d printer cabinets";

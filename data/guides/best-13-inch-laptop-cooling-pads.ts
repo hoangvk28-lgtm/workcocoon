@@ -1,5 +1,5 @@
 export const guideSlug = "best-13-inch-laptop-cooling-pads";
-export const guideTitle = "6 Best 13-Inch Laptop Cooling Pads in 2026";
+export const guideTitle = "Best 13-Inch Laptop Cooling Pads";
 export const metaTitle = "Best 13-Inch Laptop Cooling Pads (2026)";
 export const metaDescription =
   "6 laptop cooling pads we evaluated for genuine fit with 13-inch laptops, since screen diagonal doesn't tell you the actual base footprint.";

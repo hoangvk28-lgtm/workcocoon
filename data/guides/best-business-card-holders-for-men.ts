@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-holders-for-men";
-export const guideTitle = "6 Best Business Card Holders for Men in 2026";
+export const guideTitle = "Best Business Card Holders for Men";
 export const metaTitle = "Best Business Card Holders for Men";
 export const metaDescription = "We compared business card holders for men models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "business card holders for men";

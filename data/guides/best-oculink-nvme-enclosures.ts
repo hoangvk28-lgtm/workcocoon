@@ -1,5 +1,5 @@
 export const guideSlug = "best-oculink-nvme-enclosures";
-export const guideTitle = "5 Best OCuLink NVMe Enclosures in 2026";
+export const guideTitle = "Best OCuLink NVMe Enclosures";
 export const metaTitle = "Best OCuLink NVMe Enclosures 2026";
 export const metaDescription = "OCuLink is a direct PCIe interface, fundamentally different from USB4/Thunderbolt bridge enclosures. Host support requirements are strict.";
 export const mainKeyword = "oculink nvme enclosures";

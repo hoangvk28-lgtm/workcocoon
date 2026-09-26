@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-kvm-switches";
-export const guideTitle = "5 Best USB-C KVM Switches in 2026";
+export const guideTitle = "Best USB-C KVM Switches";
 export const metaTitle = "Best USB-C KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C KVM switches we evaluated, with a note that USB-C connectivity on a switch doesn't automatically mean it carries video, some USB-C ports are data or power only.";

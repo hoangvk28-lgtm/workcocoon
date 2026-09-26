@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-usb-c-ethernet-adapters";
-export const guideTitle = "6 Best Compact USB-C Ethernet Adapters";
+export const guideTitle = "Best Compact USB-C Ethernet Adapters";
 export const metaTitle = "Best Compact USB-C Ethernet Adapters";
 export const metaDescription = "Compactness can reduce travel bulk and cable strain. We compared genuine size differences rather than assuming every adapter is equally portable.";
 export const mainKeyword = "compact usb-c ethernet adapters";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-privacy-screens";
-export const guideTitle = "7 Best Ultrawide Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Ultrawide Monitor Privacy Screens";
 export const metaTitle = "Best Ultrawide Monitor Privacy Screens (2026)";
 export const metaDescription =
   "7 privacy filters for 21:9 ultrawide monitors at 30 and 34 inch, with an honest note that 32:9 super-ultrawide needs model-specific filters instead.";

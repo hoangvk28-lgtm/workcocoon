@@ -1,5 +1,5 @@
 export const guideSlug = "best-trackball-vertical-mice";
-export const guideTitle = "4 Best Vertical Trackball Mice in 2026";
+export const guideTitle = "Best Vertical Trackball Mice";
 export const metaTitle = "Best Vertical Trackball Mice 2026";
 export const metaDescription =
   "We evaluated 4 vertical trackball mice, covering thumb versus finger ball placement, cleaning needs, and a longer adjustment period than standard picks.";

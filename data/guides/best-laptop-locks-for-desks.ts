@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-desks";
-export const guideTitle = "8 Best Laptop Locks for Desks in 2026";
+export const guideTitle = "Best Laptop Locks for Desks";
 export const metaTitle = "Best Laptop Locks for Desks (2026)";
 export const metaDescription =
   "8 laptop locks and desk anchors compared as a full security chain, since a strong cable looped around a weak furniture component is a poor deployment.";

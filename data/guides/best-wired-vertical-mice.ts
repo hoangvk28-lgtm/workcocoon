@@ -1,5 +1,5 @@
 export const guideSlug = "best-wired-vertical-mice";
-export const guideTitle = "6 Best Wired Vertical Mice in 2026";
+export const guideTitle = "Best Wired Vertical Mice";
 export const metaTitle = "Best Wired Vertical Mice in 2026";
 export const metaDescription =
   "We evaluated 6 genuinely wired vertical mice, weighing cable drag on the tilted body, cable length, and the ergonomic upside of no battery weight.";

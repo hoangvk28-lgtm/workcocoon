@@ -1,5 +1,5 @@
 export const guideSlug = "best-240w-thunderbolt-5-dock";
-export const guideTitle = "4 Best High-Power Thunderbolt 5 Docks with 240W or 300W Input in 2026";
+export const guideTitle = "Best High-Power Thunderbolt 5 Docks with 240W or 300W Input";
 export const metaTitle = "Best 240W/300W Thunderbolt 5 Docks";
 export const metaDescription = "We compared high-power Thunderbolt 5 docks by sustained wattage, since several listings deliver less power to non-Dell systems than to Dell ones.";
 export const mainKeyword = "best 240w thunderbolt 5 dock";

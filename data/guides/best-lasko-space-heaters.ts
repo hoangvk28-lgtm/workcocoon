@@ -1,5 +1,5 @@
 export const guideSlug = "best-lasko-space-heaters";
-export const guideTitle = "7 Best Lasko Space Heaters in 2026";
+export const guideTitle = "Best Lasko Space Heaters";
 export const metaTitle = "Best Lasko Space Heaters";
 export const metaDescription = "We compared space heater lasko models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "space heater lasko";

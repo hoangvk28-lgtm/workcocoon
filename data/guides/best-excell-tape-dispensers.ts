@@ -1,5 +1,5 @@
 export const guideSlug = "best-excell-tape-dispensers";
-export const guideTitle = "6 Best Excell Tape Dispensers in 2026";
+export const guideTitle = "Best Excell Tape Dispensers";
 export const metaTitle = "Best Excell Tape Dispensers";
 export const metaDescription = "We compared excell tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "excell tape dispensers";

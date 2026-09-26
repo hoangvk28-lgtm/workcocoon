@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-office-credenzas";
-export const guideTitle = "8 Best Small Office Credenzas in 2026";
+export const guideTitle = "Best Small Office Credenzas";
 export const metaTitle = "Best Small Office Credenzas 2026";
 export const metaDescription = "We compared small office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "small office credenzas";

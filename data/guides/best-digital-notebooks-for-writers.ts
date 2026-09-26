@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-writers";
-export const guideTitle = "6 Best Digital Notebooks for Writers in 2026";
+export const guideTitle = "Best Digital Notebooks for Writers";
 export const metaTitle = "Best Digital Notebooks for Writers (2026)";
 export const metaDescription =
   "6 digital notebooks we evaluated for distraction-free writing, focused on e-ink devices with minimal app clutter and paper-based alternatives.";

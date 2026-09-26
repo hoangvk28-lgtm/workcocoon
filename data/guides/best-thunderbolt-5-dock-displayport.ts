@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-displayport";
-export const guideTitle = "4 Best Thunderbolt 5 Docks with DisplayPort in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks with DisplayPort";
 export const metaTitle = "Best Thunderbolt 5 Docks with DisplayPort";
 export const metaDescription = "We compared Thunderbolt 5 docks with DisplayPort by cable bundling and real resolution ceilings, since a DisplayPort 2.1 cable often ships separately.";
 export const mainKeyword = "best thunderbolt 5 dock displayport";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-minimalist-corner-desks";
-export const guideTitle = "8 Best Minimalist Corner Desks in 2026";
+export const guideTitle = "Best Minimalist Corner Desks";
 export const metaTitle = "Best Minimalist Corner Desks";
 export const metaDescription = "We compared corner desk small spaces models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk small spaces";

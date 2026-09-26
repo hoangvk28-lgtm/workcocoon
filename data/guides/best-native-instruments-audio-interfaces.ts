@@ -1,5 +1,5 @@
 export const guideSlug = "best-native-instruments-audio-interfaces";
-export const guideTitle = "8 Best Native Instruments Audio Interfaces in 2026";
+export const guideTitle = "Best Native Instruments Audio Interfaces";
 export const metaTitle = "Best Native Instruments Audio Interfaces";
 export const metaDescription = "We compared native instruments audio interface models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "native instruments audio interface";

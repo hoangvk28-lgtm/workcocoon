@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice";
-export const guideTitle = "8 Best Vertical Mice in 2026";
+export const guideTitle = "Best Vertical Mice";
 export const metaTitle = "Best Vertical Mice in 2026";
 export const metaDescription =
   "We evaluated 8 vertical mice for wrist angle, grip comfort, and build quality to help you find the right ergonomic fit for your desk.";

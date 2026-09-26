@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-paper-trays";
-export const guideTitle = "3 Best Small Paper Trays in 2026";
+export const guideTitle = "Best Small Paper Trays";
 export const metaTitle = "Best Small Paper Trays";
 export const metaDescription = "We compared small paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "small paper trays";

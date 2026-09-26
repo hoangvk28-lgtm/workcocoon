@@ -1,5 +1,5 @@
 export const guideSlug = "best-short-throw-projectors";
-export const guideTitle = "8 Best Short-Throw Projectors in 2026";
+export const guideTitle = "Best Short-Throw Projectors";
 export const metaTitle = "Best Short-Throw Projectors";
 export const metaDescription = "We compared short throw projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "short throw projector";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-pet-cable-sleeves";
-export const guideTitle = "6 Best PET Cable Sleeves in 2026";
+export const guideTitle = "Best PET Cable Sleeves";
 export const metaTitle = "Best PET Cable Sleeves";
 export const metaDescription = "We compared pet cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "pet cable sleeves";

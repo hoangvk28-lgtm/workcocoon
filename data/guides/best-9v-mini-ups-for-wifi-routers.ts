@@ -1,5 +1,5 @@
 export const guideSlug = "best-9v-mini-ups-for-wifi-routers";
-export const guideTitle = "6 Best 9V Mini UPS for Wi-Fi Routers in 2026";
+export const guideTitle = "Best 9V Mini UPS for Wi-Fi Routers";
 export const metaTitle = "Best 9V Mini UPS for Wi-Fi Routers 2026";
 export const metaDescription = "9V is a distinct output class on multi-rail mini UPS units. We compared current rating and connector fit across the current lineup.";
 export const mainKeyword = "9v mini ups for wifi routers";

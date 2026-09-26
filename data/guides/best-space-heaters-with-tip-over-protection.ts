@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-with-tip-over-protection";
-export const guideTitle = "8 Best Space Heaters With Tip-Over Protection in 2026";
+export const guideTitle = "Best Space Heaters With Tip-Over Protection";
 export const metaTitle = "Best Space Heaters With Tip-Over Protection";
 export const metaDescription = "We compared space heater tip over protection models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "space heater tip over protection";

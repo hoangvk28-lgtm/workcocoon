@@ -1,5 +1,5 @@
 export const guideSlug = "best-moxa-network-switches";
-export const guideTitle = "5 Best Moxa Network Switches in 2026";
+export const guideTitle = "Best Moxa Network Switches";
 export const metaTitle = "Best Moxa Network Switches in 2026";
 export const metaDescription = "Moxa specializes in ruggedized industrial switches. Amazon's selection is limited, we noted where to find more of the current lineup.";
 export const mainKeyword = "moxa network switches";

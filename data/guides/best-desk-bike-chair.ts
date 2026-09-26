@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-bike-chair";
-export const guideTitle = "8 Best Desk Bike Chairs in 2026";
+export const guideTitle = "Best Desk Bike Chairs for Staying Active While You Work";
 export const metaTitle = "Best Desk Bike Chairs in 2026 (Chair + Bike + Standing Desk Combos)";
 export const metaDescription =
   "8 best desk bike chairs in 2026, from all-in-one 3-in-1 desk and bike combos to compact chair/bike units for a desk you already own. Compare resistance, capacity, and price.";

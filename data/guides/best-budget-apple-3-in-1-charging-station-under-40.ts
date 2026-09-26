@@ -1,7 +1,7 @@
 const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-budget-apple-3-in-1-charging-station-under-40";
 
 export const guideSlug = "best-budget-apple-3-in-1-charging-station-under-40";
-export const guideTitle = "5 Best Budget Apple 3-in-1 Charging Stations Under $40 (2026)";
+export const guideTitle = "Best Budget Apple 3-in-1 Charging Stations Under $40 (2026)";
 export const guideDescription =
   "Apple's official MagSafe Duo costs $149. For $25–$40 you can charge your iPhone, Apple Watch, and AirPods from a single stand that folds flat into your bag. These are the 5 best budget picks, all MagSafe-compatible, all under $40.";
 export const metaTitle = "5 Best Apple 3-in-1 Charging Stations Under $40 (2026)";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-synchro-tilt";
-export const guideTitle = "8 Best Task Chairs With Synchro-Tilt in 2026";
+export const guideTitle = "Best Task Chairs With Synchro-Tilt";
 export const metaTitle = "Best Task Chairs With Synchro-Tilt";
 export const metaDescription = "We compared task chair synchro tilt mechanism models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair synchro tilt mechanism";

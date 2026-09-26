@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-under-50";
-export const guideTitle = "6 Best Standing Desk Converters Under $50 in 2026";
+export const guideTitle = "Best Standing Desk Converters Under $50";
 export const metaTitle = "Best Standing Desk Converters Under $50 in 2026";
 export const metaDescription = "We compared best standing desk converters under $50 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "standing desk converters under $50";

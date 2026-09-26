@@ -1,5 +1,5 @@
 export const guideSlug = "best-masking-tape-dispensers";
-export const guideTitle = "6 Best Masking Tape Dispensers in 2026";
+export const guideTitle = "Best Masking Tape Dispensers";
 export const metaTitle = "Best Masking Tape Dispensers";
 export const metaDescription = "We compared masking tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "masking tape dispensers";

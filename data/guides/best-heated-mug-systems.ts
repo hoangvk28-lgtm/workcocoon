@@ -1,5 +1,5 @@
 export const guideSlug = "best-heated-mug-systems";
-export const guideTitle = "6 Best Heated Mug Systems in 2026";
+export const guideTitle = "Best Heated Mug Systems";
 export const metaTitle = "Best Heated Mug Systems";
 export const metaDescription = "We compared heated mug systems models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "heated mug systems";

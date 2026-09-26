@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-schedulers-for-microsoft-365";
-export const guideTitle = "8 Best Room Schedulers for Microsoft 365 in 2026";
+export const guideTitle = "Best Room Schedulers for Microsoft 365";
 export const metaTitle = "Best Room Schedulers for Microsoft 365";
 export const metaDescription = "We compared room scheduler for microsoft 365 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "room scheduler for microsoft 365";

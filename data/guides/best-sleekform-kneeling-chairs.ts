@@ -1,5 +1,5 @@
 export const guideSlug = "best-sleekform-kneeling-chairs";
-export const guideTitle = "8 Best Sleekform Kneeling Chairs in 2026";
+export const guideTitle = "Best Sleekform Kneeling Chairs";
 export const metaTitle = "Best Sleekform Kneeling Chairs";
 export const metaDescription = "We compared sleekform kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "sleekform kneeling chair";

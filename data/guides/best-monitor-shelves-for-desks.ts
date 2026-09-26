@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-for-desks";
-export const guideTitle = "4 Best Monitor Shelves for Desks in 2026";
+export const guideTitle = "Best Monitor Shelves for Desks";
 export const metaTitle = "Best Monitor Shelves for Desks (2026)";
 export const metaDescription =
   "4 monitor shelves for desks we evaluated for point-load capacity, real desk-depth impact, and knee clearance underneath.";

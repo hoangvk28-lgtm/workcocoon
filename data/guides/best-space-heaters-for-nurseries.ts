@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-nurseries";
-export const guideTitle = "5 Best Space Heaters for Nurseries in 2026";
+export const guideTitle = "Best Space Heaters for Nurseries";
 export const metaTitle = "Best Space Heaters for Nurseries";
 export const metaDescription = "We compared space heater nursery safe models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "space heater nursery safe";

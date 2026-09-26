@@ -1,5 +1,5 @@
 export const guideSlug = "best-cruise-approved-power-strips";
-export const guideTitle = "5 Best Cruise-Approved Power Strips in 2026";
+export const guideTitle = "Best Cruise-Approved Power Strips";
 export const metaTitle = "Best Cruise-Approved Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 cruise-approved power strips we evaluated, with the rule competitors sometimes get backwards: major cruise lines prohibit surge protectors and traditional power strips with internal circuitry, only basic non-surge extenders are typically permitted.";

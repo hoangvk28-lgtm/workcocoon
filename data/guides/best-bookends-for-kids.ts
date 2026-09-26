@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookends-for-kids";
-export const guideTitle = "6 Best Bookends for Kids in 2026";
+export const guideTitle = "Best Bookends for Kids";
 export const metaTitle = "Best Bookends for Kids";
 export const metaDescription = "We compared bookends for kids models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "bookends for kids";

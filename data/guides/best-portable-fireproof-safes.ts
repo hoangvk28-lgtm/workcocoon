@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-fireproof-safes";
-export const guideTitle = "8 Best Portable Fireproof Safes in 2026";
+export const guideTitle = "Best Portable Fireproof Safes";
 export const metaTitle = "Best Portable Fireproof Safes 2026";
 export const metaDescription = "We compared portable fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "portable fireproof safes";

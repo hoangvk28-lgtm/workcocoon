@@ -1,5 +1,5 @@
 export const guideSlug = "best-asus-laptop-locks";
-export const guideTitle = "5 Best ASUS Laptop Locks in 2026";
+export const guideTitle = "Best ASUS Laptop Locks";
 export const metaTitle = "Best ASUS Laptop Locks (2026)";
 export const metaDescription =
   "5 laptop locks checked against ASUS's varying security-slot availability across consumer, gaming, and business models by exact model documentation.";

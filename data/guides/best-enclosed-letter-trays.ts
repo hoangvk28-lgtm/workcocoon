@@ -1,5 +1,5 @@
 export const guideSlug = "best-enclosed-letter-trays";
-export const guideTitle = "6 Best Enclosed Letter Trays in 2026";
+export const guideTitle = "Best Enclosed Letter Trays";
 export const metaTitle = "Best Enclosed Letter Trays";
 export const metaDescription = "We compared enclosed letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "enclosed letter trays";

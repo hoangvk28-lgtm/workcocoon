@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-gaming";
-export const guideTitle = "8 Best Task Chairs for Gaming in 2026";
+export const guideTitle = "Best Task Chairs for Gaming";
 export const metaTitle = "Best Task Chairs for Gaming";
 export const metaDescription = "We compared task chair for gaming models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair for gaming";

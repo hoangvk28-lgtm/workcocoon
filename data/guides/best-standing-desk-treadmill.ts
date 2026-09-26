@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-treadmill";
-export const guideTitle = "8 Best Standing Desk Treadmills in 2026";
+export const guideTitle = "Best Standing Desk Treadmill Combos";
 export const metaTitle = "Best Standing Desk Treadmills in 2026 (Combo Desk + Walking Pad)";
 export const metaDescription =
   "8 best standing desk treadmills in 2026, combo units with a removable desk workstation built in. Compare incline, motor power, noise level, and desk weight limits.";

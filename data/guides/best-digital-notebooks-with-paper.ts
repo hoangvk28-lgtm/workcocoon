@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-paper";
-export const guideTitle = "5 Best Digital Notebooks with Paper in 2026";
+export const guideTitle = "Best Digital Notebooks with Paper";
 export const metaTitle = "Best Digital Notebooks with Paper (2026)";
 export const metaDescription =
   "5 devices split between real-paper Rocketbook notebooks and E Ink tablets designed to visually resemble paper, so you can pick the category that actually matches what you want.";

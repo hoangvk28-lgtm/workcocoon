@@ -1,5 +1,5 @@
 export const guideSlug = "best-electric-standing-desk-converters";
-export const guideTitle = "8 Best Electric Standing Desk Converters in 2026";
+export const guideTitle = "Best Electric Standing Desk Converters";
 export const metaTitle = "Best Electric Standing Desk Converters (2026)";
 export const metaDescription =
   "8 push-button electric standing desk converters compared on platform size, price, and review history, for effortless height changes without a lever.";

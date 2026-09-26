@@ -1,5 +1,5 @@
 export const guideSlug = "best-easythreed-3d-printers";
-export const guideTitle = "6 Best EasyThreed 3D Printers in 2026";
+export const guideTitle = "Best EasyThreed 3D Printers";
 export const metaTitle = "Best EasyThreed 3D Printers";
 export const metaDescription = "We compared easythreed 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "easythreed 3d printers";

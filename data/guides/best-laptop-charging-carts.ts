@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-charging-carts";
-export const guideTitle = "8 Best Laptop Charging Carts in 2026";
+export const guideTitle = "Best Laptop Charging Carts";
 export const metaTitle = "Best Laptop Charging Carts (2026)";
 export const metaDescription =
   "8 laptop charging carts compared on usable bay geometry, charging architecture, loaded mobility, and cost per bay for schools and offices.";

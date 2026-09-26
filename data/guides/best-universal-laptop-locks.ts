@@ -1,5 +1,5 @@
 export const guideSlug = "best-universal-laptop-locks";
-export const guideTitle = "8 Best Universal Laptop Locks in 2026";
+export const guideTitle = "Best Universal Laptop Locks";
 export const metaTitle = "Best Universal Laptop Locks (2026)";
 export const metaDescription =
   "8 universal laptop locks compared by verified slot coverage, since multi-tip products still don't secure a slotless laptop without an adapter.";

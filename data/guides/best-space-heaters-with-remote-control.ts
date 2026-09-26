@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-with-remote-control";
-export const guideTitle = "7 Best Space Heaters With Remote Control in 2026";
+export const guideTitle = "Best Space Heaters With Remote Control";
 export const metaTitle = "Best Space Heaters With Remote Control";
 export const metaDescription = "We compared space heater remote control models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "space heater remote control";

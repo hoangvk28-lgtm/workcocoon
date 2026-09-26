@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks";
-export const guideTitle = "8 Best Laptop Locks in 2026";
+export const guideTitle = "Best Laptop Locks";
 export const metaTitle = "Best Laptop Locks (2026)";
 export const metaDescription =
   "8 laptop locks ranked by confirmed security-slot type first, since Standard, Wedge, Nano, and slotless devices all need different hardware.";

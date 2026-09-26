@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-for-drawing-and-painting";
-export const guideTitle = "6 Best VR Headsets for Drawing and Painting in 2026";
+export const guideTitle = "Best VR Headsets for Drawing and Painting";
 export const metaTitle = "Best VR Headsets for Drawing and Painting";
 export const metaDescription = "We compared vr headsets for drawing and painting models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "vr headsets for drawing and painting";

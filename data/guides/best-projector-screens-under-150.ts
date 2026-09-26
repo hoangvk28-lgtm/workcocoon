@@ -1,5 +1,5 @@
 export const guideSlug = "best-projector-screens-under-150";
-export const guideTitle = "4 Best Projector Screens Under $150 in 2026";
+export const guideTitle = "Best Projector Screens Under $150";
 export const metaTitle = "Best Projector Screens Under $150";
 export const metaDescription = "We compared projector screens under $150 by motor design, mounting method, and screen layers, since motorized remote-controlled screens appear at this tier.";
 export const mainKeyword = "best projector screens under $150";

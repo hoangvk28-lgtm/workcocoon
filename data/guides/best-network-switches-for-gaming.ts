@@ -1,5 +1,5 @@
 export const guideSlug = "best-network-switches-for-gaming";
-export const guideTitle = "7 Best Network Switches for Gaming in 2026";
+export const guideTitle = "Best Network Switches for Gaming";
 export const metaTitle = "Best Network Switches for Gaming 2026";
 export const metaDescription = "Gaming benefits more from low latency and QoS than raw bandwidth. We covered both budget Gigabit and premium multi-gig options.";
 export const mainKeyword = "network switches for gaming";

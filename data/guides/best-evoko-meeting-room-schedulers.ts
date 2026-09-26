@@ -1,5 +1,5 @@
 export const guideSlug = "best-evoko-meeting-room-schedulers";
-export const guideTitle = "8 Best Evoko Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Evoko Meeting Room Schedulers";
 export const metaTitle = "Best Evoko Meeting Room Schedulers";
 export const metaDescription = "We compared evoko meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "evoko meeting room scheduler";

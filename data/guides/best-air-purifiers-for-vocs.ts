@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-vocs";
-export const guideTitle = "5 Best Air Purifiers for VOCs in 2026";
+export const guideTitle = "Best Air Purifiers for VOCs";
 export const metaTitle = "Best Air Purifiers for VOCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for VOCs (volatile organic compounds), with the HEPA-doesn't-help gap competitors skip: HEPA filters trap particulate, not gas-phase VOC molecules, only a genuine activated carbon stage addresses VOCs.";

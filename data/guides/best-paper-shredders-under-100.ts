@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-shredders-under-100";
-export const guideTitle = "8 Best Paper Shredders Under $100 in 2026";
+export const guideTitle = "Best Paper Shredders Under $100";
 export const metaTitle = "Best Paper Shredders Under $100, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders under $100, with an honest security-level ceiling disclosure: sub-$100 shredders are almost universally P-3 to P-4, buyers needing higher security won't find it reliably at this price.";

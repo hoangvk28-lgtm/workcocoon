@@ -1,5 +1,5 @@
 export const guideSlug = "best-direct-attached-storage-for-mac-mini";
-export const guideTitle = "8 Best Direct-Attached Storage for Mac Mini";
+export const guideTitle = "Best Direct-Attached Storage for Mac Mini";
 export const metaTitle = "Best DAS for Mac Mini in 2026";
 export const metaDescription = "Same permanent-desk DAS buying decision as our Mac Mini hub guide, covering sleep/wake reliability and Thunderbolt generation matching.";
 export const mainKeyword = "direct-attached storage for mac mini";

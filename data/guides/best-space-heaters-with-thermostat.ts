@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-with-thermostat";
-export const guideTitle = "8 Best Space Heaters With Thermostat in 2026";
+export const guideTitle = "Best Space Heaters With Thermostat";
 export const metaTitle = "Best Space Heaters With Thermostat";
 export const metaDescription = "We compared space heater with thermostat models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "space heater with thermostat";

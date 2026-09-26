@@ -1,5 +1,5 @@
 export const guideSlug = "best-costway-portable-air-conditioners";
-export const guideTitle = "8 Best Costway Portable Air Conditioners in 2026";
+export const guideTitle = "Best Costway Portable Air Conditioners";
 export const metaTitle = "Best Costway Portable Air Conditioners";
 export const metaDescription = "We compared costway portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "costway portable air conditioner";

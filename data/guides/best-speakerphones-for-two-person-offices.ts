@@ -1,5 +1,5 @@
 export const guideSlug = "best-speakerphones-for-two-person-offices";
-export const guideTitle = "5 Best Speakerphones for Two-Person Offices in 2026";
+export const guideTitle = "Best Speakerphones for Two-Person Offices";
 export const metaTitle = "Best Speakerphones for Two-Person Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 speakerphones we evaluated for two-person offices, where a 6-mic conference-room design is genuinely overkill, a compact 1-2 mic speakerphone handles close-range calls just as well for a fraction of the price.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-weathertight-portable-file-boxes";
-export const guideTitle = "5 Best Weathertight Portable File Boxes in 2026";
+export const guideTitle = "Best Weathertight Portable File Boxes";
 export const metaTitle = "Best Weathertight Portable File Boxes (2026)";
 export const metaDescription =
   "5 file boxes checked for actual seal/gasket quality at the lid closure, distinguishing genuine weathertight protection from simple spill resistance.";

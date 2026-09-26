@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-kvm-switches";
-export const guideTitle = "5 Best Thunderbolt KVM Switches in 2026";
+export const guideTitle = "Best Thunderbolt KVM Switches";
 export const metaTitle = "Best Thunderbolt KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 Thunderbolt KVM switches we evaluated, with a note that Thunderbolt ports look identical to USB-C but only work at full speed with a genuinely Thunderbolt-certified cable and laptop port.";

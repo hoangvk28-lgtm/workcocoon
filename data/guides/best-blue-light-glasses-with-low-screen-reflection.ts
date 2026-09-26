@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-glasses-with-low-screen-reflection";
-export const guideTitle = "6 Best Blue Light Glasses With Low Screen Reflection in 2026";
+export const guideTitle = "Best Blue Light Glasses With Low Screen Reflection";
 export const metaTitle = "Best Blue Light Glasses With Low Screen";
 export const metaDescription = "We compared blue light glasses with low screen reflection models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "blue light glasses with low screen reflection";

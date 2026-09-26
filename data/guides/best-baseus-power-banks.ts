@@ -1,5 +1,5 @@
 export const guideSlug = "best-baseus-power-banks";
-export const guideTitle = "7 Best Baseus Power Banks in 2026";
+export const guideTitle = "Best Baseus Power Banks";
 export const metaTitle = "Best Baseus Power Banks";
 export const metaDescription = "We compared power bank baseus models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank baseus";

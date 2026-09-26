@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-shelves-above-bed";
-export const guideTitle = "8 Best Floating Shelves Above Bed in 2026";
+export const guideTitle = "Best Floating Shelves Above Bed";
 export const metaTitle = "Best Floating Shelves Above Bed";
 export const metaDescription = "We compared floating shelf above bed models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf above bed";

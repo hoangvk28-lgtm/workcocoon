@@ -1,5 +1,5 @@
 export const guideSlug = "best-walking-pads-under-150";
-export const guideTitle = "4 Best Walking Pads Under $150 in 2026";
+export const guideTitle = "Best Walking Pads Under $150";
 export const metaTitle = "Best Walking Pads Under $150";
 export const metaDescription = "We compared walking pads under $150 by incline levels, weight capacity, and motor strength, since multi-level incline and higher capacities appear at this tier.";
 export const mainKeyword = "best walking pads under $150";

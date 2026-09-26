@@ -1,5 +1,5 @@
 export const guideSlug = "best-plastic-portable-file-boxes";
-export const guideTitle = "5 Best Plastic Portable File Boxes in 2026";
+export const guideTitle = "Best Plastic Portable File Boxes";
 export const metaTitle = "Best Plastic Portable File Boxes (2026)";
 export const metaDescription =
   "5 plastic file boxes checked for material grade, UV brittleness resistance, and latch durability, the lightweight alternative to metal construction.";

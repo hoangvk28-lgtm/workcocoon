@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-for-heavy-people";
-export const guideTitle = "8 Best Office Chairs for Heavy People in 2026";
+export const guideTitle = "Best Office Chairs for Heavy People";
 export const metaTitle = "Best Office Chairs for Heavy People in 2026 (Weight Capacity Guide)";
 export const metaDescription =
   "8 big and tall office chairs we evaluated for heavy users, applying a 50 lb buffer rule to stated weight capacity so you buy a margin of safety, not just a marketed number.";

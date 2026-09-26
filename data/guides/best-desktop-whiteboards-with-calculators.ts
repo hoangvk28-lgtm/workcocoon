@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-with-calculators";
-export const guideTitle = "5 Best Desktop Whiteboards with Calculators in 2026";
+export const guideTitle = "Best Desktop Whiteboards with Calculators";
 export const metaTitle = "Best Desktop Whiteboards with Calculators (2026)";
 export const metaDescription =
   "5 glass desk whiteboards with a built-in, permanently integrated calculator, all clustered in a similar $35-37 price band regardless of brand.";

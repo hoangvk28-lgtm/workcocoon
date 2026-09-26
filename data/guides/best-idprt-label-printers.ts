@@ -1,5 +1,5 @@
 export const guideSlug = "best-idprt-label-printers";
-export const guideTitle = "5 Best iDPRT Label Printers in 2026";
+export const guideTitle = "Best iDPRT Label Printers";
 export const metaTitle = "Best iDPRT Label Printers";
 export const metaDescription = "We compared idprt label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "idprt label printers";

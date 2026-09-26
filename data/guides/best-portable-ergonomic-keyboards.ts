@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ergonomic-keyboards";
-export const guideTitle = "4 Best Portable Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Portable Ergonomic Keyboards";
 export const metaTitle = "Best Portable Ergonomic Keyboards 2026";
 export const metaDescription =
   "4 portable ergonomic keyboards we evaluated for how much true split or foldable ergonomic benefit survives a smaller travel footprint, with case notes.";

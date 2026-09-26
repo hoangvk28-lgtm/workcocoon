@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-under-30";
-export const guideTitle = "5 Best Laptop Locks Under $30 in 2026";
+export const guideTitle = "Best Laptop Locks Under $30";
 export const metaTitle = "Best Laptop Locks Under $30 in 2026";
 export const metaDescription = "We compared best laptop locks under $30 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "laptop locks under $30";

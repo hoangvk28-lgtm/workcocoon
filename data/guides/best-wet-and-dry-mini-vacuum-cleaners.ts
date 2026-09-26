@@ -1,5 +1,5 @@
 export const guideSlug = "best-wet-and-dry-mini-vacuum-cleaners";
-export const guideTitle = "6 Best Wet and Dry Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best Wet and Dry Mini Vacuum Cleaners";
 export const metaTitle = "Best Wet and Dry Mini Vacuum Cleaners";
 export const metaDescription = "We compared wet and dry mini vacuum cleaners models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "wet and dry mini vacuum cleaners";

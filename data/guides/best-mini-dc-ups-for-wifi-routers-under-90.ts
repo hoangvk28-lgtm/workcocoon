@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-dc-ups-for-wifi-routers-under-90";
-export const guideTitle = "6 Best Mini DC UPS for WiFi Routers Under $90 in 2026";
+export const guideTitle = "Best Mini DC UPS for WiFi Routers Under $90";
 export const metaTitle = "Best Mini DC UPS for Routers Under $90";
 export const metaDescription = "We compared mini DC UPS units under $90 by PoE support, battery chemistry, and max wattage, since higher-end routers and ONTs need more than basic DC output.";
 export const mainKeyword = "mini dc ups for wifi router under $90";

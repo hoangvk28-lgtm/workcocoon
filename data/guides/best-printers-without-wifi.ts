@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-without-wifi";
-export const guideTitle = "8 Best Printers Without Wi-Fi in 2026";
+export const guideTitle = "Best Printers Without Wi-Fi";
 export const metaTitle = "Best Printers Without Wi-Fi in 2026 (Wired & Wifi-Off Picks)";
 export const metaDescription =
   "8 printers we evaluated for wired-only and wifi-disabled use, including one genuinely wireless-free model and 7 wifi-capable printers you can run with wifi turned off.";

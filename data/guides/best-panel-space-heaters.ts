@@ -1,5 +1,5 @@
 export const guideSlug = "best-panel-space-heaters";
-export const guideTitle = "8 Best Panel Space Heaters in 2026";
+export const guideTitle = "Best Panel Space Heaters";
 export const metaTitle = "Best Panel Space Heaters";
 export const metaDescription = "We compared space heater panel models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "space heater panel";

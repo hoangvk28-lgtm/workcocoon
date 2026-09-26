@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ups-for-fiber-routers";
-export const guideTitle = "7 Best Mini UPS for Fiber Routers in 2026";
+export const guideTitle = "Best Mini UPS for Fiber Routers";
 export const metaTitle = "Best Mini UPS for Fiber Routers 2026";
 export const metaDescription = "Fiber setups often mean an ONU plus a router. We compared mini UPS units that can back up both devices in a fiber internet chain.";
 export const mainKeyword = "mini ups for fiber routers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-with-ocr";
-export const guideTitle = "8 Best Document Scanners with OCR in 2026";
+export const guideTitle = "Best Document Scanners with OCR";
 export const metaTitle = "Best Document Scanners with OCR, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 scanners with bundled OCR, with an honest note that OCR accuracy depends heavily on scan resolution and source document quality, and that bundled software ranges from full ABBYY licenses to stripped-down tools.";

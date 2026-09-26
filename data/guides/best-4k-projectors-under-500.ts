@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-projectors-under-500";
-export const guideTitle = "4 Best 4K Projectors Under $500 in 2026";
+export const guideTitle = "Best 4K Projectors Under $500";
 export const metaTitle = "Best 4K Projectors Under $500";
 export const metaDescription = "We compared 4K projectors under $500 by verified ANSI accuracy, motion smoothing, and warranty length, since honestly-rated brightness claims matter most here.";
 export const mainKeyword = "best 4k projectors under $500";

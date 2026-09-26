@@ -1,5 +1,5 @@
 export const guideSlug = "best-luxury-desk-clocks";
-export const guideTitle = "5 Best Luxury Desk Clocks in 2026";
+export const guideTitle = "Best Luxury Desk Clocks";
 export const metaTitle = "Best Luxury Desk Clocks in 2026";
 export const metaDescription =
   "5 higher-end desk clocks we researched in marble, crystal, and glass, chosen for genuine premium material and price rather than marketing alone.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-powered-network-switches";
-export const guideTitle = "5 Best PoE-Powered Network Switches in 2026";
+export const guideTitle = "Best PoE-Powered Network Switches";
 export const metaTitle = "Best PoE-Powered Network Switches 2026";
 export const metaDescription = "PoE-powered switches run entirely off incoming PoE rather than a wall outlet, useful where no power receptacle is available.";
 export const mainKeyword = "poe-powered network switches";

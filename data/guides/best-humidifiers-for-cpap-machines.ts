@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-cpap-machines";
-export const guideTitle = "8 Best Humidifiers for CPAP Machines in 2026";
+export const guideTitle = "Best Humidifiers for CPAP Machines";
 export const metaTitle = "Best Humidifiers for CPAP Machines";
 export const metaDescription = "We compared humidifier heated used w pap models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "humidifier heated used w pap";

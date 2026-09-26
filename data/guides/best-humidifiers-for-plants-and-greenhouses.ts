@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-plants-and-greenhouses";
-export const guideTitle = "7 Best Humidifiers for Plants and Greenhouses in 2026";
+export const guideTitle = "Best Humidifiers for Plants and Greenhouses";
 export const metaTitle = "Best Humidifiers for Plants and Greenhouses";
 export const metaDescription = "We compared humidifier greenhouse plants models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "humidifier greenhouse plants";

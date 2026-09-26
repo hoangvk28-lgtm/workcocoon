@@ -1,5 +1,5 @@
 export const guideSlug = "best-drafting-chairs-with-arms";
-export const guideTitle = "8 Best Drafting Chairs With Arms in 2026";
+export const guideTitle = "Best Drafting Chairs With Arms";
 export const metaTitle = "Best Drafting Chairs With Arms";
 export const metaDescription = "We compared drafting chair with arms models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "drafting chair with arms";

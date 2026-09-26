@@ -1,5 +1,5 @@
 export const guideSlug = "best-be6500-wifi-7-routers";
-export const guideTitle = "5 Best BE6500 Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best BE6500 Wi-Fi 7 Routers";
 export const metaTitle = "Best BE6500 Wi-Fi 7 Routers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 BE6500 Wi-Fi 7 routers we evaluated, with the mid-tier 6GHz verification competitors skip: at this tier some models still lack a real 6GHz radio, and when present, its channel width is often capped below flagship-tier capability.";

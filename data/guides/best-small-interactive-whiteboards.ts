@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-interactive-whiteboards";
-export const guideTitle = "7 Best Small Interactive Whiteboards";
+export const guideTitle = "Best Small Interactive Whiteboards";
 export const metaTitle = "Best Small Interactive Whiteboards";
 export const metaDescription = "We defined small as under 55 inches explicitly and separated true interactive whiteboards from touch monitors and portable conversion systems.";
 export const mainKeyword = "interactive whiteboard small";

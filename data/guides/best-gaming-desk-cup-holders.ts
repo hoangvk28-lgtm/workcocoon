@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-desk-cup-holders";
-export const guideTitle = "5 Best Gaming Desk Cup Holders in 2026";
+export const guideTitle = "Best Gaming Desk Cup Holders";
 export const metaTitle = "Best Gaming Desk Cup Holders (2026)";
 export const metaDescription =
   "5 cup holders for gaming desks, honestly noting none carry gaming-specific RGB features, evaluated instead on spill risk near costly PC gear.";

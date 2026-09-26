@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-msi-laptops";
-export const guideTitle = "5 Best Laptop Cooling Pads for MSI Laptops in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for MSI Laptops";
 export const metaTitle = "Best Laptop Cooling Pads for MSI Laptops";
 export const metaDescription =
   "5 laptop cooling pads we evaluated for MSI laptops, spanning gaming and creator lines with substantial heat output under sustained load.";

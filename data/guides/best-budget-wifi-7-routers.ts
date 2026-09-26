@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-wifi-7-routers";
-export const guideTitle = "4 Best Budget Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Budget Wi-Fi 7 Routers";
 export const metaTitle = "Best Budget Wi-Fi 7 Routers (2026)";
 export const metaDescription =
   "4 budget Wi-Fi 7 routers we evaluated, honestly checking how much genuine Wi-Fi 7 capability actually survives at this price tier before you buy.";

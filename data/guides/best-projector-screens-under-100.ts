@@ -1,5 +1,5 @@
 export const guideSlug = "best-projector-screens-under-100";
-export const guideTitle = "4 Best Projector Screens Under $100 in 2026";
+export const guideTitle = "Best Projector Screens Under $100";
 export const metaTitle = "Best Projector Screens Under $100";
 export const metaDescription = "We compared projector screens under $100 by material layers, tripod design, and installation flexibility, since premium PVC and X-frame stands appear here.";
 export const mainKeyword = "best projector screens under $100";

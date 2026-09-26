@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-for-fiber-internet";
-export const guideTitle = "4 Best Wi-Fi 7 Routers for Fiber Internet in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers for Fiber Internet";
 export const metaTitle = "Best Wi-Fi 7 Routers for Fiber Internet (2026)";
 export const metaDescription =
   "4 Wi-Fi 7 routers we evaluated for fiber plans, verifying genuine multi-gig WAN ports so the router doesn't become the bottleneck on your connection.";

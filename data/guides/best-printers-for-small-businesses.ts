@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-small-businesses";
-export const guideTitle = "8 Best Printers for Small Businesses in 2026";
+export const guideTitle = "Best Printers for Small Businesses";
 export const metaTitle = "Best Printers for Small Businesses in 2026 (Laser & Ink Tank)";
 export const metaDescription =
   "8 best printers for small businesses in 2026, from color laser workhorses to ink-tank picks. Compare cost per page, volume, and business-type fit.";

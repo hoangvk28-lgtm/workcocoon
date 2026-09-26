@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelves-under-50";
-export const guideTitle = "4 Best Bookshelves Under $50 in 2026";
+export const guideTitle = "Best Bookshelves Under $50";
 export const metaTitle = "Best Bookshelves Under $50";
 export const metaDescription = "We compared bookshelves under $50 by real per-shelf weight capacity, tier count, and footprint, since budget bookshelves vary widely in sturdiness.";
 export const mainKeyword = "best bookshelves under $50";

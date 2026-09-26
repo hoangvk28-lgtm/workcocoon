@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-ssd-raid-enclosures";
-export const guideTitle = "4 Best Thunderbolt SSD RAID Enclosures in 2026";
+export const guideTitle = "Best Thunderbolt SSD RAID Enclosures";
 export const metaTitle = "Best Thunderbolt SSD RAID Enclosures";
 export const metaDescription = "Thunderbolt RAID enclosures are a professional multi-drive class. RAID level, host bandwidth, and rebuild behavior are non-negotiable to check.";
 export const mainKeyword = "thunderbolt ssd raid enclosures";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-tape-dispensers";
-export const guideTitle = "6 Best Black Tape Dispensers in 2026";
+export const guideTitle = "Best Black Tape Dispensers";
 export const metaTitle = "Best Black Tape Dispensers";
 export const metaDescription = "We compared black tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "black tape dispensers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-18-inch-ring-lights";
-export const guideTitle = "8 Best 18-Inch Ring Lights in 2026";
+export const guideTitle = "Best 18-Inch Ring Lights";
 export const metaTitle = "Best 18-Inch Ring Lights";
 export const metaDescription = "We compared ring light 18 inch models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light 18 inch";

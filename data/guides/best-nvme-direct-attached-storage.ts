@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvme-direct-attached-storage";
-export const guideTitle = "8 Best NVMe Direct-Attached Storage";
+export const guideTitle = "Best NVMe Direct-Attached Storage";
 export const metaTitle = "Best NVMe Direct-Attached Storage";
 export const metaDescription = "NVMe DAS now spans 10Gbps through 80Gbps enclosures. We verified real chipset, host bandwidth, and sustained thermal behavior.";
 export const mainKeyword = "nvme direct-attached storage";

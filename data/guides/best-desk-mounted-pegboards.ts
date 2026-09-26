@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-mounted-pegboards";
-export const guideTitle = "4 Best Desk-Mounted Pegboards in 2026";
+export const guideTitle = "Best Desk-Mounted Pegboards";
 export const metaTitle = "Best Desk-Mounted Pegboards (2026)";
 export const metaDescription =
   "4 desk-mounted pegboards we evaluated across clamp, screw, and adhesive mounting, with renter-friendliness and hardware tradeoffs.";

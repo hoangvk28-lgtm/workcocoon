@@ -1,5 +1,5 @@
 export const guideSlug = "best-red-tint-blue-light-glasses";
-export const guideTitle = "6 Best Red-Tint Blue Light Glasses in 2026";
+export const guideTitle = "Best Red-Tint Blue Light Glasses";
 export const metaTitle = "Best Red-Tint Blue Light Glasses";
 export const metaDescription = "We compared red-tint blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "red-tint blue light glasses";

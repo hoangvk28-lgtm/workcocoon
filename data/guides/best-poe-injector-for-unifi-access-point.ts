@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-injector-for-unifi-access-point";
-export const guideTitle = "4 Best PoE Injectors for UniFi and Wi-Fi 7 Access Points in 2026";
+export const guideTitle = "Best PoE Injectors for UniFi and Wi-Fi 7 Access Points";
 export const metaTitle = "Best PoE Injectors for UniFi APs";
 export const metaDescription = "We compared PoE injectors for UniFi and Wi-Fi 7 access points by real power class and link speed, since newer U7 models draw more power than older U6 hardware.";
 export const mainKeyword = "best poe injector for unifi access point";

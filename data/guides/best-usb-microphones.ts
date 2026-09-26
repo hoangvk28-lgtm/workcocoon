@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-microphones";
-export const guideTitle = "8 Best USB Microphones in 2026";
+export const guideTitle = "Best USB Microphones Matched to Your Room, Not Just Your Budget";
 export const metaTitle = "Best USB Microphones in 2026 (Podcasting, Streaming, Calls)";
 export const metaDescription =
   "8 best USB microphones in 2026 for podcasting, streaming, and video calls, from the Blue Yeti to budget FIFINE and TONOR kits. Compare mute buttons, room fit, and price.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-height-adjustable-monitor-stands";
-export const guideTitle = "4 Best Height-Adjustable Monitor Stands in 2026";
+export const guideTitle = "Best Height-Adjustable Monitor Stands";
 export const metaTitle = "Best Height-Adjustable Monitor Stands (2026)";
 export const metaDescription =
   "4 height-adjustable monitor stands we evaluated for mechanism type, dynamic capacity loss at extended height, and VESA versus flat-platform mounting.";

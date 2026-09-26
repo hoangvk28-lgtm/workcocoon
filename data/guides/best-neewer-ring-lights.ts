@@ -1,5 +1,5 @@
 export const guideSlug = "best-neewer-ring-lights";
-export const guideTitle = "6 Best Neewer Ring Lights in 2026";
+export const guideTitle = "Best Neewer Ring Lights";
 export const metaTitle = "Best Neewer Ring Lights";
 export const metaDescription = "We compared ring light neewer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light neewer";

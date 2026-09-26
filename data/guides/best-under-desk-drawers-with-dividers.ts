@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-drawers-with-dividers";
-export const guideTitle = "8 Best Under-Desk Drawers with Dividers in 2026";
+export const guideTitle = "Best Under-Desk Drawers with Dividers";
 export const metaTitle = "Best Under-Desk Drawers with Dividers";
 export const metaDescription = "We compared e under-desk drawer dividers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "e under-desk drawer dividers";

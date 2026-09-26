@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-power-strips-for-desks";
-export const guideTitle = "5 Best Clamp-On Power Strips for Desks in 2026";
+export const guideTitle = "Best Clamp-On Power Strips for Any Desk Edge";
 export const metaTitle = "Best Clamp-On Power Strips for Desks, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 clamp-on power strips we evaluated, with the compatibility detail competitors skip: clamp mounts are rated for a specific desk edge thickness range that doesn't universally fit every desk type.";

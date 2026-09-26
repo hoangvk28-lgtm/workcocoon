@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvidia-g-sync-gaming-monitors";
-export const guideTitle = "6 Best NVIDIA G-Sync Gaming Monitors in 2026";
+export const guideTitle = "Best NVIDIA G-Sync Gaming Monitors";
 export const metaTitle = "Best NVIDIA G-Sync Gaming Monitors";
 export const metaDescription = "We compared nvidia g-sync gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "nvidia g-sync gaming monitors";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-charging-stations-for-multiple-devices";
-export const guideTitle = "6 Best Laptop Charging Stations for Multiple Devices in 2026";
+export const guideTitle = "Best Laptop Charging Stations for Multiple Devices";
 export const metaTitle = "Best Charging Stations for Multiple Devices (2026)";
 export const metaDescription =
   "6 verified multi-device charging stations compared on total wattage and port count, after excluding two candidate ASINs that didn't fit this category.";

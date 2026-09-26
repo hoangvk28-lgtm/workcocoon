@@ -1,5 +1,5 @@
 export const guideSlug = "best-32-inch-standing-desk-converters";
-export const guideTitle = "6 Best 32-Inch Standing Desk Converters in 2026";
+export const guideTitle = "Best 32-Inch Standing Desk Converters";
 export const metaTitle = "Best 32-Inch Standing Desk Converters (2026)";
 export const metaDescription =
   "6 converters confirmed at genuine 32 inch platform width, the single most common and well-reviewed size across multiple brands.";

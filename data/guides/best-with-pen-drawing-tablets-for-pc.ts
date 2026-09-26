@@ -1,5 +1,5 @@
 export const guideSlug = "best-with-pen-drawing-tablets-for-pc";
-export const guideTitle = "7 Best With Pen Drawing Tablets for PC in 2026";
+export const guideTitle = "Best With Pen Drawing Tablets for PC";
 export const metaTitle = "Best With Pen Drawing Tablets for PC 2026";
 export const metaDescription = "We compared with pen drawing tablets for pc by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "with pen drawing tablets for pc";

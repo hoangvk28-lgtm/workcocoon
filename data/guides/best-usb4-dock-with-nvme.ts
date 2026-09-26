@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-with-nvme";
-export const guideTitle = "4 Best USB4 Docks with NVMe Storage in 2026";
+export const guideTitle = "Best USB4 Docks with NVMe Storage";
 export const metaTitle = "Best USB4 Docks With NVMe Storage";
 export const metaDescription = "We compared USB4 docks with built-in NVMe storage by enclosure speed, cooling design, and whether an SSD is included, since most enclosures sell separately.";
 export const mainKeyword = "best usb4 dock with nvme";

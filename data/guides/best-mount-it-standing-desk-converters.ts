@@ -1,5 +1,5 @@
 export const guideSlug = "best-mount-it-standing-desk-converters";
-export const guideTitle = "6 Best Mount-It! Standing Desk Converters in 2026";
+export const guideTitle = "Best Mount-It! Standing Desk Converters";
 export const metaTitle = "Best Mount-It! Standing Desk Converters (2026)";
 export const metaDescription =
   "6 current Mount-It! converters compared across compact, dual-monitor, triple-monitor, and standard platform designs, with real specs and pricing.";

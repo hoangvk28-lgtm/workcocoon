@@ -1,5 +1,5 @@
 export const guideSlug = "best-curved-monitor-shelves";
-export const guideTitle = "4 Best Curved Monitor Shelves in 2026";
+export const guideTitle = "Best Curved Monitor Shelves";
 export const metaTitle = "Best Curved Monitor Shelves (2026)";
 export const metaDescription =
   "4 curved monitor shelves we evaluated, clarifying whether \"curved\" means a curved physical shelf shape or a shelf sized for curved monitors.";

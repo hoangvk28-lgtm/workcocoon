@@ -1,5 +1,5 @@
 export const guideSlug = "best-glass-top-corner-desks";
-export const guideTitle = "8 Best Glass-Top Corner Desks in 2026";
+export const guideTitle = "Best Glass-Top Corner Desks";
 export const metaTitle = "Best Glass-Top Corner Desks";
 export const metaDescription = "We compared corner desk glass top models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk glass top";

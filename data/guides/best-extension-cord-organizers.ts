@@ -1,5 +1,5 @@
 export const guideSlug = "best-extension-cord-organizers";
-export const guideTitle = "6 Best Extension Cord Organizers in 2026";
+export const guideTitle = "Best Extension Cord Organizers";
 export const metaTitle = "Best Extension Cord Organizers";
 export const metaDescription = "We compared extension cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "extension cord organizers";

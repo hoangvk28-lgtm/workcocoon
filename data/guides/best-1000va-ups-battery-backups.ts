@@ -1,5 +1,5 @@
 export const guideSlug = "best-1000va-ups-battery-backups";
-export const guideTitle = "6 Best 1000VA UPS Battery Backups in 2026";
+export const guideTitle = "Best 1000VA UPS Battery Backups";
 export const metaTitle = "Best 1000VA UPS Battery Backups, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 UPS units we evaluated at the 1000VA capacity tier, with the real-watt spread competitors ignore: 1000VA-labeled units in this guide range from 600W to 800W of real capacity depending on design, a meaningful difference for sizing.";

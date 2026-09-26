@@ -1,5 +1,5 @@
 export const guideSlug = "best-meeting-room-schedulers";
-export const guideTitle = "8 Best Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Meeting Room Schedulers";
 export const metaTitle = "Best Meeting Room Schedulers";
 export const metaDescription = "We compared meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "meeting room scheduler";

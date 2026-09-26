@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-shelves-for-dorm-rooms";
-export const guideTitle = "8 Best Floating Shelves for Dorm Rooms in 2026";
+export const guideTitle = "Best Floating Shelves for Dorm Rooms";
 export const metaTitle = "Best Floating Shelves for Dorm Rooms";
 export const metaDescription = "We compared floating shelf ideas models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf ideas";

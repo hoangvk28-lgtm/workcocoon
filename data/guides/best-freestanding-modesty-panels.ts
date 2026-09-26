@@ -1,5 +1,5 @@
 export const guideSlug = "best-freestanding-modesty-panels";
-export const guideTitle = "6 Best Freestanding Modesty Panels in 2026";
+export const guideTitle = "Best Freestanding Modesty Panels";
 export const metaTitle = "Best Freestanding Modesty Panels";
 export const metaDescription = "We compared freestanding modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "freestanding modesty panels";

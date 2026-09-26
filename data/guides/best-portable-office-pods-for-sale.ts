@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-office-pods-for-sale";
-export const guideTitle = "4 Best Portable Office Pods for Sale in 2026";
+export const guideTitle = "Best Portable Office Pods for Sale";
 export const metaTitle = "Best Portable Office Pods for Sale (2026)";
 export const metaDescription =
   "4 office pods currently for sale on Amazon, with a focus on freight return policy, financing, and whether installation is actually included.";

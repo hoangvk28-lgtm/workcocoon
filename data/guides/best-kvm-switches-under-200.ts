@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-under-200";
-export const guideTitle = "4 Best KVM Switches Under $200 in 2026";
+export const guideTitle = "Best KVM Switches Under $200";
 export const metaTitle = "Best KVM Switches Under $200";
 export const metaDescription = "We compared KVM switches under $200 by Multi-Stream Transport support, full docking station capability, and independent USB and audio switching.";
 export const mainKeyword = "best kvm switches under $200";

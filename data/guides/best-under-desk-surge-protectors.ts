@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-surge-protectors";
-export const guideTitle = "5 Best Under-Desk Surge Protectors in 2026";
+export const guideTitle = "Best Under-Desk Surge Protectors";
 export const metaTitle = "Best Under-Desk Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 under-desk surge protectors we evaluated, with the compounded risk competitors skip: under-desk mounting hides the one visible signal of MOV status, making a hidden failure even more consequential than for a basic power strip.";

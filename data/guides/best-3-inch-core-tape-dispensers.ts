@@ -1,5 +1,5 @@
 export const guideSlug = "best-3-inch-core-tape-dispensers";
-export const guideTitle = "6 Best 3-Inch-Core Tape Dispensers in 2026";
+export const guideTitle = "Best 3-Inch-Core Tape Dispensers";
 export const metaTitle = "Best 3-Inch-Core Tape Dispensers";
 export const metaDescription = "We compared 3-inch-core tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "3-inch-core tape dispensers";

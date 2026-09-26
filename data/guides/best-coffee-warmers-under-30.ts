@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers-under-30";
-export const guideTitle = "6 Best Coffee Warmers Under $30 in 2026";
+export const guideTitle = "Best Coffee Warmers Under $30";
 export const metaTitle = "Best Coffee Warmers Under $30";
 export const metaDescription = "We compared coffee warmer under 30 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "coffee warmer under 30";

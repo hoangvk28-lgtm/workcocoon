@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-cup-holders-for-desks";
-export const guideTitle = "5 Best Coffee Cup Holders for Desks in 2026";
+export const guideTitle = "Best Coffee Cup Holders for Desks";
 export const metaTitle = "Best Coffee Cup Holders for Desks (2026)";
 export const metaDescription =
   "5 desk cup holders checked for real mug and tumbler diameter compatibility, including popular Yeti and Stanley dimensions for coffee drinkers.";

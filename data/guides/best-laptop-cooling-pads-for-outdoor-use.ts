@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-outdoor-use";
-export const guideTitle = "5 Best Laptop Cooling Pads for Outdoor Use in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Outdoor Use";
 export const metaTitle = "Best Laptop Cooling Pads for Outdoor Use (2026)";
 export const metaDescription =
   "5 cooling pads suited to outdoor conditions like uneven surfaces and elevated ambient heat, prioritizing lap-friendly and stable designs over standard desk stands.";

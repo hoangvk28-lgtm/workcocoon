@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-desk-fans";
-export const guideTitle = "8 Best Mini Desk Fans in 2026";
+export const guideTitle = "Best Mini Desk Fans";
 export const metaTitle = "Best Mini Desk Fans";
 export const metaDescription = "We compared desk fan mini models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan mini";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-dividers-on-wheels";
-export const guideTitle = "8 Best Room Dividers on Wheels in 2026";
+export const guideTitle = "Best Room Dividers on Wheels";
 export const metaTitle = "Best Room Dividers on Wheels in 2026";
 export const metaDescription =
   "8 best room dividers on wheels in 2026. Caster load rating vs. panel weight, floor-type material match, and which picks genuinely confirm wheels.";

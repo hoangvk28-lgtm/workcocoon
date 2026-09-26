@@ -1,5 +1,5 @@
 export const guideSlug = "best-sealed-laptop-cooling-pads";
-export const guideTitle = "7 Best Sealed Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Sealed Laptop Cooling Pads";
 export const metaTitle = "Best Sealed Laptop Cooling Pads (2026)";
 export const metaDescription =
   "7 laptop cooling pads with a genuine foam pressure seal against the laptop base, explained honestly, since 'sealed' does not mean waterproof here.";

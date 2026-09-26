@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-vesa";
-export const guideTitle = "7 Best VESA TV Stands in 2026";
+export const guideTitle = "Best VESA TV Stands";
 export const metaTitle = "Best VESA TV Stands in 2026 (Match Your Mount Pattern)";
 export const metaDescription =
   "7 best VESA-compatible TV stands in 2026. Compare max VESA hole pattern, weight capacity, and swivel across tabletop and floor-standing designs.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-lumbar-support";
-export const guideTitle = "8 Best Task Chairs With Lumbar Support in 2026";
+export const guideTitle = "Best Task Chairs With Lumbar Support";
 export const metaTitle = "Best Task Chairs With Lumbar Support";
 export const metaDescription = "We compared task chair with lumbar support models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair with lumbar support";

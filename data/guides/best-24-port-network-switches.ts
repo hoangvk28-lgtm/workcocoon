@@ -1,5 +1,5 @@
 export const guideSlug = "best-24-port-network-switches";
-export const guideTitle = "6 Best 24-Port Network Switches in 2026";
+export const guideTitle = "Best 24-Port Network Switches";
 export const metaTitle = "Best 24-Port Network Switches 2026";
 export const metaDescription = "24-port switches suit growing offices and server rooms. We compared unmanaged, PoE, and smart-managed options.";
 export const mainKeyword = "24-port network switches";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-elliptical";
-export const guideTitle = "8 Best Under Desk Ellipticals in 2026";
+export const guideTitle = "Best Under-Desk Ellipticals for a Standing Desk";
 export const metaTitle = "Best Under Desk Ellipticals in 2026 (Quiet & Fits Any Desk)";
 export const metaDescription =
   "8 best under desk ellipticals in 2026, from the most-reviewed Cubii JR1 to a motorized pick that pedals for you. Compare clearance, noise, and resistance.";

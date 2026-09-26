@@ -1,5 +1,5 @@
 export const guideSlug = "best-jmgo-projectors";
-export const guideTitle = "8 Best JMGO Projectors in 2026";
+export const guideTitle = "Best JMGO Projectors";
 export const metaTitle = "Best JMGO Projectors";
 export const metaDescription = "We compared jmgo projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "jmgo projector";

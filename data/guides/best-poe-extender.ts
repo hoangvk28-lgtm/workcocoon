@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-extender";
-export const guideTitle = "4 Best PoE Extenders in 2026";
+export const guideTitle = "Best PoE Extenders";
 export const metaTitle = "Best PoE Extenders in 2026";
 export const metaDescription = "We compared PoE extenders by real power at daisy-chained distance, since one listing documents wattage dropping from 24.6W to 8.6W across five units.";
 export const mainKeyword = "best poe extender";

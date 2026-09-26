@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-under-100";
-export const guideTitle = "5 Best Digital Notebooks Under $100 in 2026";
+export const guideTitle = "Best Digital Notebooks Under $100";
 export const metaTitle = "Best Digital Notebooks Under $100 (2026)";
 export const metaDescription =
   "Honest category disclosure: under $100 you're choosing between Rocketbook reusable paper notebooks and basic LCD writing tablets, not a true E Ink smart notebook with cloud sync.";

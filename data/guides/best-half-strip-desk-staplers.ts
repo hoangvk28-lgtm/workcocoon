@@ -1,5 +1,5 @@
 export const guideSlug = "best-half-strip-desk-staplers";
-export const guideTitle = "4 Best Half-Strip Desk Staplers in 2026";
+export const guideTitle = "Best Half-Strip Desk Staplers";
 export const metaTitle = "Best Half-Strip Desk Staplers";
 export const metaDescription = "We compared half-strip desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "half-strip desk staplers";

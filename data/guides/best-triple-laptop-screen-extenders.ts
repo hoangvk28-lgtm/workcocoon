@@ -1,5 +1,5 @@
 export const guideSlug = "best-triple-laptop-screen-extenders";
-export const guideTitle = "5 Best Triple Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Triple Laptop Screen Extenders";
 export const metaTitle = "Best Triple Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 triple laptop screen extenders we evaluated, with the total-screen-count clarification competitors skip: 'triple' can mean your laptop plus two extra panels, or three extra panels plus your laptop, a real difference worth verifying before buying.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-corner";
-export const guideTitle = "3 Best Corner TV Stands (Floor Consoles + Wall Mounts) in 2026";
+export const guideTitle = "Best Corner TV Stands (Floor Consoles + Wall Mounts)";
 export const metaTitle = "Best Corner TV Stands 2026, Floor Consoles & Wall Mounts";
 export const metaDescription =
   "Best corner TV stands in 2026, covering both floor consoles and long-arm corner wall mounts. Ranked by weight capacity, swivel range, and corner fit.";

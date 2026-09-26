@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-mac-users";
-export const guideTitle = "6 Best Digital Notebooks for Mac Users in 2026";
+export const guideTitle = "Best Digital Notebooks for Mac Users";
 export const metaTitle = "Best Digital Notebooks for Mac Users";
 export const metaDescription =
   "6 digital notebooks we evaluated with general Mac compatibility in mind, noting that most sync via mobile apps and cloud services with desktop access.";

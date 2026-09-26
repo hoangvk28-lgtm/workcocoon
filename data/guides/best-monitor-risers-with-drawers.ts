@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-risers-with-drawers";
-export const guideTitle = "4 Best Monitor Risers with Drawers in 2026";
+export const guideTitle = "Best Monitor Risers with Drawers";
 export const metaTitle = "Best Monitor Risers with Drawers (2026)";
 export const metaDescription =
   "4 compact monitor risers with drawers we evaluated, checking if they are a genuinely smaller tier or the same stands under different keywords.";

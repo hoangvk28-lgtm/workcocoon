@@ -1,5 +1,5 @@
 export const guideSlug = "best-green-cable-sleeves";
-export const guideTitle = "3 Best Green Cable Sleeves in 2026";
+export const guideTitle = "Best Green Cable Sleeves";
 export const metaTitle = "Best Green Cable Sleeves";
 export const metaDescription = "We compared green cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "green cable sleeves";

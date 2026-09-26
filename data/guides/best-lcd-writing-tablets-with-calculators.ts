@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-with-calculators";
-export const guideTitle = "3 Best LCD Writing Tablets with Calculators in 2026";
+export const guideTitle = "Best LCD Writing Tablets with Calculators";
 export const metaTitle = "Best LCD Writing Tablets w/ Calculators (2026)";
 export const metaDescription =
   "3 LCD writing tablets with a built-in calculator we evaluated, a small novelty niche in this category covered honestly without padding the list.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks";
-export const guideTitle = "7 Best Digital Notebooks in 2026";
+export const guideTitle = "Best Digital Notebooks";
 export const metaTitle = "Best Digital Notebooks (2026)";
 export const metaDescription =
   "7 digital notebooks we evaluated across three genuinely different product types, so you can pick the right category before comparing specific picks.";

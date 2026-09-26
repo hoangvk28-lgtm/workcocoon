@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookend-lamps";
-export const guideTitle = "5 Best Bookend Lamps in 2026";
+export const guideTitle = "Best Bookend Lamps";
 export const metaTitle = "Best Bookend Lamps";
 export const metaDescription = "We compared bookend lamps models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "bookend lamps";

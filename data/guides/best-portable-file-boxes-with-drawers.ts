@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-with-drawers";
-export const guideTitle = "5 Best Portable File Boxes with Drawers in 2026";
+export const guideTitle = "Best Portable File Boxes with Drawers";
 export const metaTitle = "Best File Boxes with Drawers (2026)";
 export const metaDescription =
   "5 file boxes combined with small drawer compartments, checked for independent drawer weight capacity, slide quality, and genuine combo value.";

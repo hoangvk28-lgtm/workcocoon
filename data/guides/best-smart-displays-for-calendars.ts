@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-displays-for-calendars";
-export const guideTitle = "5 Best Smart Displays for Calendars in 2026";
+export const guideTitle = "Best Smart Displays for Calendars";
 export const metaTitle = "Best Smart Displays for Calendars (2026)";
 export const metaDescription =
   "5 smart displays evaluated for calendar and scheduling use, all supporting Alexa or Google Assistant calendar integration for at-a-glance viewing.";

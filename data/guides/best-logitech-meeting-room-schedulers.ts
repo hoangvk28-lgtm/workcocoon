@@ -1,5 +1,5 @@
 export const guideSlug = "best-logitech-meeting-room-schedulers";
-export const guideTitle = "6 Best Logitech Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Logitech Meeting Room Schedulers";
 export const metaTitle = "Best Logitech Meeting Room Schedulers";
 export const metaDescription = "We compared logitech meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "logitech meeting room scheduler";

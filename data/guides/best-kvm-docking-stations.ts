@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-docking-stations";
-export const guideTitle = "5 Best KVM Docking Stations in 2026";
+export const guideTitle = "Best KVM Docking Stations";
 export const metaTitle = "Best KVM Docking Stations, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM docking stations we evaluated, with a note that a docking station's total power delivery is shared across laptop charging and peripheral power, verify this budget before assuming everything runs at full power at once.";

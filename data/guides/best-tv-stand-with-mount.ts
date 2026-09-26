@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-tv-stand-with-mount";
 
 export const guideSlug = "best-tv-stand-with-mount";
-export const guideTitle = "8 Best TV Stands with Mount (Built-In Bracket) in 2026";
+export const guideTitle = "Best TV Stands with Mount (Built-In Bracket)";
 export const metaTitle = "Best TV Stand with Mount 2026, Built-In Bracket Consoles";
 export const metaDescription =
   "Best TV stands with a built-in mount bracket in 2026. Swivel, height-adjustable, and storage consoles ranked by VESA range, mount weight limit, and tilt.";

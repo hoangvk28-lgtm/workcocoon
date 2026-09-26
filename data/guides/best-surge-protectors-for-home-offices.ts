@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-for-home-offices";
-export const guideTitle = "5 Best Surge Protectors for Home Offices in 2026";
+export const guideTitle = "Best Surge Protectors for a Full Home Office Setup";
 export const metaTitle = "Best Surge Protectors for Home Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 surge protectors we evaluated for home offices, with the sizing gap competitors skip: a realistic home office setup accumulates total wattage and joule-rating consumption faster than single-device framing accounts for.";

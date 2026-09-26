@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-channel-with-effects-audio-mixers-for-streaming";
-export const guideTitle = "8 Best 8-Channel With Effects Audio Mixers for Streaming in 2026";
+export const guideTitle = "Best 8-Channel With Effects Audio Mixers for Streaming";
 export const metaTitle = "Best 8-Channel With Effects Audio Mixers for";
 export const metaDescription = "We compared 8 channel mixer with effects models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "8 channel mixer with effects";

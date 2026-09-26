@@ -1,5 +1,5 @@
 export const guideSlug = "best-fiber-laser-engravers-under-3000";
-export const guideTitle = "4 Best Fiber Laser Engravers Under $3000 in 2026";
+export const guideTitle = "Best Fiber Laser Engravers Under $3000";
 export const metaTitle = "Best Fiber Laser Engravers Under $3000";
 export const metaDescription = "We compared fiber laser engravers under $3000 by MOPA color marking, autofocus, and 50W deep engraving, since this tier's top features differ meaningfully.";
 export const mainKeyword = "best fiber laser engravers under $3000";

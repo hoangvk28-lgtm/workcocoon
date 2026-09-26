@@ -1,5 +1,5 @@
 export const guideSlug = "best-long-floating-shelves";
-export const guideTitle = "7 Best Long Floating Shelves in 2026";
+export const guideTitle = "Best Long Floating Shelves";
 export const metaTitle = "Best Long Floating Shelves";
 export const metaDescription = "We compared floating shelf long models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "floating shelf long";

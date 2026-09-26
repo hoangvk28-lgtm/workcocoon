@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-video-editing";
-export const guideTitle = "4 Best Mini PCs for Video Editing in 2026";
+export const guideTitle = "Best Mini PCs for Video Editing";
 export const metaTitle = "Best Mini PCs for Video Editing (2026)";
 export const metaDescription =
   "4 mini PCs for video editing we evaluated, checking genuine hardware encode and decode support for your specific codec, not just CPU core count.";

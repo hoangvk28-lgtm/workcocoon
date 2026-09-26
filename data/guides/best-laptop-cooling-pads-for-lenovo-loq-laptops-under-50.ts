@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-lenovo-loq-laptops-under-50";
-export const guideTitle = "6 Best Laptop Cooling Pads for Lenovo LOQ Under $50 in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Lenovo LOQ Under $50";
 export const metaTitle = "Best Cooling Pads for Lenovo LOQ Under $50";
 export const metaDescription = "We compared cooling pads under $50 by fan count and stated size range, since the Lenovo LOQ's 15.6 and 16 inch models need a pad rated for that exact size.";
 export const mainKeyword = "laptop cooling pad for lenovo loq under $50";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-surface";
-export const guideTitle = "7 Best USB-C Ethernet Adapters for Surface";
+export const guideTitle = "Best USB-C Ethernet Adapters for Surface";
 export const metaTitle = "Best USB-C Ethernet Adapters for Surface";
 export const metaDescription = "Surface compatibility depends on the exact model's USB-C/USB4 support and Windows driver behavior. Here's what to check first.";
 export const mainKeyword = "usb-c ethernet adapters for surface";

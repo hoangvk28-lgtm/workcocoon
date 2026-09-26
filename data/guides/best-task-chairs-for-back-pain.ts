@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-back-pain";
-export const guideTitle = "8 Best Task Chairs for Back Pain in 2026";
+export const guideTitle = "Best Task Chairs for Back Pain";
 export const metaTitle = "Best Task Chairs for Back Pain";
 export const metaDescription = "We compared task chair for back pain models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair for back pain";

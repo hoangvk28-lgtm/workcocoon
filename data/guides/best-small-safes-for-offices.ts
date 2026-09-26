@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-for-offices";
-export const guideTitle = "8 Best Small Safes for Offices in 2026";
+export const guideTitle = "Best Small Safes for Offices";
 export const metaTitle = "Best Small Safes for Offices (2026)";
 export const metaDescription =
   "8 safes compared for office use: desk-drawer fit, multi-user code access, and anchoring, since office safes need different features than home valuables safes.";

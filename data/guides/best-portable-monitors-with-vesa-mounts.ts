@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-with-vesa-mounts";
-export const guideTitle = "7 Best Portable Monitors with VESA Mounts in 2026";
+export const guideTitle = "Best Portable Monitors You Can Actually VESA-Mount";
 export const metaTitle = "Best Portable Monitors with VESA Mounts, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 portable monitors we checked specifically for real native VESA holes, since most 'portable' monitors marketed as VESA-compatible actually require a separate adapter plate or don't have holes at all.";

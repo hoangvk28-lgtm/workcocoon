@@ -1,5 +1,5 @@
 export const guideSlug = "best-garment-label-printers";
-export const guideTitle = "6 Best Garment Label Printers in 2026";
+export const guideTitle = "Best Garment Label Printers";
 export const metaTitle = "Best Garment Label Printers";
 export const metaDescription = "We compared garment label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "garment label printers";

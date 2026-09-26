@@ -1,5 +1,5 @@
 export const guideSlug = "best-uv-resistant-cable-sleeves";
-export const guideTitle = "6 Best UV-Resistant Cable Sleeves in 2026";
+export const guideTitle = "Best UV-Resistant Cable Sleeves";
 export const metaTitle = "Best UV-Resistant Cable Sleeves";
 export const metaDescription = "We compared uv-resistant cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "uv-resistant cable sleeves";

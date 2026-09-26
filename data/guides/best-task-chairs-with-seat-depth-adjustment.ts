@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-seat-depth-adjustment";
-export const guideTitle = "8 Best Task Chairs With Seat Depth Adjustment in 2026";
+export const guideTitle = "Best Task Chairs With Seat Depth Adjustment";
 export const metaTitle = "Best Task Chairs With Seat Depth Adjustment";
 export const metaDescription = "We compared task chair seat depth adjustable models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair seat depth adjustable";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-purple-desk-staplers";
-export const guideTitle = "3 Best Purple Desk Staplers in 2026";
+export const guideTitle = "Best Purple Desk Staplers";
 export const metaTitle = "Best Purple Desk Staplers";
 export const metaDescription = "We compared purple desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "purple desk staplers";

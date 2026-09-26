@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-ring-lights";
-export const guideTitle = "8 Best Clip-On Ring Lights in 2026";
+export const guideTitle = "Best Clip-On Ring Lights";
 export const metaTitle = "Best Clip-On Ring Lights";
 export const metaDescription = "We compared ring light clip models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light clip";

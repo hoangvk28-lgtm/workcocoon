@@ -1,5 +1,5 @@
 export const guideSlug = "best-temperature-control-mug-warmers";
-export const guideTitle = "6 Best Temperature-Control Mug Warmers in 2026";
+export const guideTitle = "Best Temperature-Control Mug Warmers";
 export const metaTitle = "Best Temperature-Control Mug Warmers";
 export const metaDescription = "We compared temperature-control mug warmers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "temperature-control mug warmers";

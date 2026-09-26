@@ -1,5 +1,5 @@
 export const guideSlug = "best-ecoflow-portable-air-conditioners";
-export const guideTitle = "8 Best EcoFlow Portable Air Conditioners in 2026";
+export const guideTitle = "Best EcoFlow Portable Air Conditioners";
 export const metaTitle = "Best EcoFlow Portable Air Conditioners";
 export const metaDescription = "We compared ecoflow portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "ecoflow portable air conditioner";

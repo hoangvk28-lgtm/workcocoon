@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-lcd-writing-tablets";
-export const guideTitle = "6 Best Smart LCD Writing Tablets in 2026";
+export const guideTitle = "Best Smart LCD Writing Tablets";
 export const metaTitle = "Best Smart LCD Writing Tablets (2026)";
 export const metaDescription =
   "6 LCD writing tablets we evaluated for 'smart' claims, with one genuinely Bluetooth-connected pick and five capable non-connected alternatives, clearly labeled.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-5gbe-usb-c-ethernet-adapters";
-export const guideTitle = "5 Best 5GbE USB-C Ethernet Adapters";
+export const guideTitle = "Best 5GbE USB-C Ethernet Adapters";
 export const metaTitle = "Best 5GbE USB-C Ethernet Adapters";
 export const metaDescription = "5GbE adapters are now real products, but they need at least a USB 3.2 Gen 2 host path for best performance. Here's what to verify.";
 export const mainKeyword = "5gbe usb-c ethernet adapters";

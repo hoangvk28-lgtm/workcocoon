@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-for-tall-people";
-export const guideTitle = "8 Best Gaming Chairs for Tall People in 2026";
+export const guideTitle = "Best Gaming Chairs for Tall People";
 export const metaTitle = "Best Gaming Chairs for Tall People in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs for tall people in 2026, ranked by backrest height, headrest reach, and recline range for users who need more than a big & tall frame.";

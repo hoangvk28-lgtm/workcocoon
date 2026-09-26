@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-ssd-enclosures-under-100";
-export const guideTitle = "4 Best Thunderbolt SSD Enclosures Under $100 in 2026";
+export const guideTitle = "Best Thunderbolt SSD Enclosures Under $100";
 export const metaTitle = "Best Thunderbolt SSD Enclosures Under $100";
 export const metaDescription = "We compared Thunderbolt SSD enclosures under $100 by warranty tier, brand certification, and tool-free design, since established storage brands appear here.";
 export const mainKeyword = "best thunderbolt ssd enclosures under $100";

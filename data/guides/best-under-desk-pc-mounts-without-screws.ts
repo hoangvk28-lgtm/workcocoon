@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-pc-mounts-without-screws";
-export const guideTitle = "5 Best Under-Desk PC Mounts Without Screws in 2026";
+export const guideTitle = "Best Under-Desk PC Mounts Without Screws";
 export const metaTitle = "Best Under-Desk PC Mounts Without Screws, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 screw-free under-desk PC mounts we evaluated, with the mechanism-and-weight-tradeoff angle competitors skip: clamp, friction-fit, and adhesive designs carry different weight-capacity limits, and genuine renter-friendliness isn't guaranteed by every 'no screws' claim.";

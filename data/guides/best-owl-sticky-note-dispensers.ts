@@ -1,5 +1,5 @@
 export const guideSlug = "best-owl-sticky-note-dispensers";
-export const guideTitle = "6 Best Owl Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Owl Sticky Note Dispensers";
 export const metaTitle = "Best Owl Sticky Note Dispensers";
 export const metaDescription = "We compared owl sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "owl sticky note dispensers";

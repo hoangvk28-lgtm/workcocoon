@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-for-tax-documents";
-export const guideTitle = "6 Best Document Scanners for Tax Documents in 2026";
+export const guideTitle = "Best Document Scanners for Tax Documents";
 export const metaTitle = "Best Document Scanners for Tax Documents, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 scanners we evaluated for tax document digitization, with a split recommendation: a one-time multi-year backlog project needs different capacity than ongoing annual scanning, a distinction most tax-scanner content ignores.";

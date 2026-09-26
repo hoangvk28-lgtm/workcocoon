@@ -1,5 +1,5 @@
 export const guideSlug = "best-arm-mount-copy-holders";
-export const guideTitle = "6 Best Arm-Mount Copy Holders in 2026";
+export const guideTitle = "Best Arm-Mount Copy Holders";
 export const metaTitle = "Best Arm-Mount Copy Holders";
 export const metaDescription = "We compared arm-mount copy holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "arm-mount copy holders";

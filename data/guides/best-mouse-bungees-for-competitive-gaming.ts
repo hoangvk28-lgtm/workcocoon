@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-bungees-for-competitive-gaming";
-export const guideTitle = "6 Best Mouse Bungees for Competitive Gaming in 2026";
+export const guideTitle = "Best Mouse Bungees for Competitive Gaming";
 export const metaTitle = "Best Mouse Bungees for Competitive Gaming";
 export const metaDescription = "We compared mouse bungees for competitive gaming models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mouse bungees for competitive gaming";

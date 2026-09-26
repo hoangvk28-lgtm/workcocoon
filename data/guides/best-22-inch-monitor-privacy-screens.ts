@@ -1,5 +1,5 @@
 export const guideSlug = "best-22-inch-monitor-privacy-screens";
-export const guideTitle = "5 Best 22-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 22-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 22-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "5 privacy filters compared for 22 inch monitors, including both 16:9 and 16:10 aspect ratios, since 22 inch spans both formats in current listings.";

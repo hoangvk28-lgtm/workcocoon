@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-nozzle-3d-printers";
-export const guideTitle = "6 Best Dual-Nozzle 3D Printers in 2026";
+export const guideTitle = "Best Dual-Nozzle 3D Printers";
 export const metaTitle = "Best Dual-Nozzle 3D Printers";
 export const metaDescription = "We compared dual-nozzle 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dual-nozzle 3d printers";

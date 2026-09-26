@@ -1,5 +1,5 @@
 export const guideSlug = "best-audio-interfaces-for-recording";
-export const guideTitle = "8 Best Audio Interfaces for Recording in 2026";
+export const guideTitle = "Best Audio Interfaces for Recording";
 export const metaTitle = "Best Audio Interfaces for Recording";
 export const metaDescription = "We compared audio interface for recording models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "audio interface for recording";

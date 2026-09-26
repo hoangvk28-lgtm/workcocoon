@@ -1,5 +1,5 @@
 export const guideSlug = "best-color-laser-engravers";
-export const guideTitle = "6 Best Color Laser Engravers in 2026";
+export const guideTitle = "Best Color Laser Engravers";
 export const metaTitle = "Best Color Laser Engravers in 2026";
 export const metaDescription = "We compared best color laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "color laser engravers";

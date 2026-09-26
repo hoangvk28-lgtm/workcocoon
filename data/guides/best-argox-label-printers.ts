@@ -1,5 +1,5 @@
 export const guideSlug = "best-argox-label-printers";
-export const guideTitle = "6 Best Argox Label Printers in 2026";
+export const guideTitle = "Best Argox Label Printers";
 export const metaTitle = "Best Argox Label Printers";
 export const metaDescription = "We compared argox label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "argox label printers";

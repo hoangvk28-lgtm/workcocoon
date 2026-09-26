@@ -2,7 +2,7 @@ import type { ProductReviewCardProps } from "@/components/product/ProductReviewC
 import type { AtAGlanceItem } from "@/components/product/AtAGlance";
 
 export const guideSlug = "best-small-keyboards";
-export const guideTitle = "8 Best Small Keyboards (2026): Compact Picks for Desk, Dorm Room and Travel";
+export const guideTitle = "Best Small Keyboards (2026): Compact Picks for Desk, Dorm Room and Travel";
 export const guideDescription =
   "Eight compact keyboards compared across layout, switch type, connectivity, and price - from hot-swap mechanical 75% boards to ultra-portable mini keyboards. The right pick for every setup and budget.";
 export const metaTitle = "Best Small Keyboards 2026: Compact Picks";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-locking-casters";
-export const guideTitle = "8 Best Task Chairs With Locking Casters in 2026";
+export const guideTitle = "Best Task Chairs With Locking Casters";
 export const metaTitle = "Best Task Chairs With Locking Casters";
 export const metaDescription = "We compared task chair locking casters models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair locking casters";

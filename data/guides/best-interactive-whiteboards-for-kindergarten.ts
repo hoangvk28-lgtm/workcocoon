@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-kindergarten";
-export const guideTitle = "7 Best Interactive Whiteboards for Kindergarten";
+export const guideTitle = "Best Interactive Whiteboards for Kindergarten";
 export const metaTitle = "Best Kindergarten Interactive Whiteboards";
 export const metaDescription = "We set child-accessible mounting height and tested large-target multi-child touch before ranking kindergarten interactive whiteboards.";
 export const mainKeyword = "interactive whiteboard kindergarten";

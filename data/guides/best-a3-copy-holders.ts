@@ -1,5 +1,5 @@
 export const guideSlug = "best-a3-copy-holders";
-export const guideTitle = "6 Best A3 Copy Holders in 2026";
+export const guideTitle = "Best A3 Copy Holders";
 export const metaTitle = "Best A3 Copy Holders";
 export const metaDescription = "We compared a3 copy holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "a3 copy holders";

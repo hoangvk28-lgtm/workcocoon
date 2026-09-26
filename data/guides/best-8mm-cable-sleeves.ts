@@ -1,5 +1,5 @@
 export const guideSlug = "best-8mm-cable-sleeves";
-export const guideTitle = "3 Best 8mm Cable Sleeves in 2026";
+export const guideTitle = "Best 8mm Cable Sleeves";
 export const metaTitle = "Best 8mm Cable Sleeves";
 export const metaDescription = "We compared 8mm cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "8mm cable sleeves";

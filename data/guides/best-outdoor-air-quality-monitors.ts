@@ -1,5 +1,5 @@
 export const guideSlug = "best-outdoor-air-quality-monitors";
-export const guideTitle = "8 Best Outdoor Air Quality Monitors in 2026";
+export const guideTitle = "Best Outdoor Air Quality Monitors";
 export const metaTitle = "Best Outdoor Air Quality Monitors";
 export const metaDescription = "We compared outdoor air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "outdoor air quality monitor";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-frame-blue-light-glasses";
-export const guideTitle = "6 Best Black-Frame Blue Light Glasses in 2026";
+export const guideTitle = "Best Black-Frame Blue Light Glasses";
 export const metaTitle = "Best Black-Frame Blue Light Glasses";
 export const metaDescription = "We compared black-frame blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "black-frame blue light glasses";

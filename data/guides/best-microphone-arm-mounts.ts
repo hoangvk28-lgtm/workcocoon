@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arm-mounts";
-export const guideTitle = "8 Best Microphone Arm Mounts in 2026";
+export const guideTitle = "Best Microphone Arm Mounts";
 export const metaTitle = "Best Microphone Arm Mounts";
 export const metaDescription = "We compared microphone arm mount models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "microphone arm mount";

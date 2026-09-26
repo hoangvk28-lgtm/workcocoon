@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-small-offices";
-export const guideTitle = "5 Best Air Purifiers for Small Offices in 2026";
+export const guideTitle = "Best Air Purifiers for Small Offices";
 export const metaTitle = "Best Air Purifiers for Small Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for shared small offices, with the sizing gap competitors skip: multiple occupants generate more particulates than a single-person room the same size, under-serving actual occupancy-driven air quality needs.";

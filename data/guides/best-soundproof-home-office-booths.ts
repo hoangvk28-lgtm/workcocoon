@@ -1,5 +1,5 @@
 export const guideSlug = "best-soundproof-home-office-booths";
-export const guideTitle = "4 Best Soundproof Home Office Booths in 2026";
+export const guideTitle = "Best Soundproof Home Office Booths";
 export const metaTitle = "Best Soundproof Home Office Booths (2026)";
 export const metaDescription =
   "4 home office booths marketed as soundproof, reviewed with heightened scrutiny given that none disclose formal STC or NRC test data.";

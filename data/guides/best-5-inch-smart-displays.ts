@@ -1,5 +1,5 @@
 export const guideSlug = "best-5-inch-smart-displays";
-export const guideTitle = "1 Best 5 Inch Smart Display in 2026";
+export const guideTitle = "Best 5 Inch Smart Display";
 export const metaTitle = "Best 5 Inch Smart Displays (2026)";
 export const metaDescription =
   "Only one genuinely 5 inch class smart display exists in our verified research pool, the Echo Show 5. Here is an honest, detailed look at it.";

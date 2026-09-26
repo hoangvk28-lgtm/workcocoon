@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-laptop-cooling-pads";
-export const guideTitle = "8 Best USB-C Laptop Cooling Pads in 2026";
+export const guideTitle = "Best USB-C Laptop Cooling Pads";
 export const metaTitle = "Best USB-C Laptop Cooling Pads (2026)";
 export const metaDescription =
   "Most 'laptop cooling pad' listings are actually USB-A. Here are the ones with a genuine USB-C connector, plus honest notes on the rest.";

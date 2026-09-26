@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-band-wifi-7-routers";
-export const guideTitle = "4 Best Dual-Band Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Dual-Band Wi-Fi 7 Routers";
 export const metaTitle = "Best Dual-Band Wi-Fi 7 Routers (2026)";
 export const metaDescription =
   "4 dual-band Wi-Fi 7 routers we evaluated, including which ones skip the 6GHz radio entirely and what that tradeoff actually costs you.";

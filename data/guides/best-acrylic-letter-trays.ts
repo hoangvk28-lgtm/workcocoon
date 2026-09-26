@@ -1,5 +1,5 @@
 export const guideSlug = "best-acrylic-letter-trays";
-export const guideTitle = "6 Best Acrylic Letter Trays in 2026";
+export const guideTitle = "Best Acrylic Letter Trays";
 export const metaTitle = "Best Acrylic Letter Trays";
 export const metaDescription = "We compared acrylic letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "acrylic letter trays";

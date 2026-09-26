@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-recliner";
-export const guideTitle = "8 Best Gaming Chair Recliners in 2026";
+export const guideTitle = "Best Gaming Chair Recliners";
 export const metaTitle = "8 Best Gaming Chair Recliners in 2026";
 export const metaDescription =
   "The 8 best gaming chair recliners in 2026, from console-style recliners to 180-degree flat models, compared on recline range, footrest, and capacity.";

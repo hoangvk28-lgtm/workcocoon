@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-with-wrist-rests";
-export const guideTitle = "8 Best Ergonomic Keyboards with Wrist Rests in 2026";
+export const guideTitle = "Best Ergonomic Keyboards with Wrist Rests";
 export const metaTitle = "Ergonomic Keyboards with Wrist Rests 2026";
 export const metaDescription =
   "8 ergonomic keyboards with wrist rests we evaluated for firmness, angle, and built-in vs detachable design, plus the resting-vs-hovering habit that matters.";

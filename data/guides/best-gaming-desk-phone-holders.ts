@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-desk-phone-holders";
-export const guideTitle = "5 Best Gaming Desk Phone Holders in 2026";
+export const guideTitle = "Best Gaming Desk Phone Holders";
 export const metaTitle = "Best Gaming Desk Phone Holders (2026)";
 export const metaDescription =
   "5 desk phone stands honestly evaluated for gaming setups, noting most are compact standing holders, not full articulating arms, with real specs.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-serenelife-portable-air-conditioners";
-export const guideTitle = "8 Best SereneLife Portable Air Conditioners in 2026";
+export const guideTitle = "Best SereneLife Portable Air Conditioners";
 export const metaTitle = "Best SereneLife Portable Air Conditioners";
 export const metaDescription = "We compared serenelife portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "serenelife portable air conditioner";

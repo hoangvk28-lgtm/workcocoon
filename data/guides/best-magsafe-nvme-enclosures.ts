@@ -1,5 +1,5 @@
 export const guideSlug = "best-magsafe-nvme-enclosures";
-export const guideTitle = "5 Best MagSafe NVMe Enclosures in 2026";
+export const guideTitle = "Best MagSafe NVMe Enclosures";
 export const metaTitle = "Best MagSafe NVMe Enclosures 2026";
 export const metaDescription = "MagSafe-style magnetic enclosures are a phone accessory workflow, not a storage protocol. We checked retention, phone compatibility, and thermals.";
 export const mainKeyword = "magsafe nvme enclosures";

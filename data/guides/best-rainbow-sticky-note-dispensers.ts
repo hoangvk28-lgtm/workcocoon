@@ -1,5 +1,5 @@
 export const guideSlug = "best-rainbow-sticky-note-dispensers";
-export const guideTitle = "5 Best Rainbow Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Rainbow Sticky Note Dispensers";
 export const metaTitle = "Best Rainbow Sticky Note Dispensers";
 export const metaDescription = "We compared rainbow sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "rainbow sticky note dispensers";

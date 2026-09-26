@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-air-conditioners-for-rvs";
-export const guideTitle = "8 Best Portable Air Conditioners for RVs in 2026";
+export const guideTitle = "Best Portable Air Conditioners for RVs";
 export const metaTitle = "Best Portable Air Conditioners for RVs";
 export const metaDescription = "We compared rv portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "rv portable air conditioner";

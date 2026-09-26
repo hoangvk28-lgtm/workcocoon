@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-for-tvs-and-home-office-monitors";
-export const guideTitle = "5 Best Surge Protectors for TVs and Home Office Monitors in 2026";
+export const guideTitle = "Best Surge Protectors for TVs and Home Office Monitors";
 export const metaTitle = "Best Surge Protectors for TVs and Home Office Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 surge protectors we evaluated for TVs and monitors, with the density gap competitors skip: multi-monitor home office setups share one surge protector's joule budget across several expensive panels simultaneously.";

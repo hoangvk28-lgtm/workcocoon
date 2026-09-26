@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-ssd-enclosures-under-150";
-export const guideTitle = "4 Best Thunderbolt SSD Enclosures Under $150 in 2026";
+export const guideTitle = "Best Thunderbolt SSD Enclosures Under $150";
 export const metaTitle = "Best Thunderbolt SSD Enclosures Under $150";
 export const metaDescription = "We compared Thunderbolt SSD enclosures under $150 by 80Gbps chip generation, cooling display, and PCIe Gen5 support, since true next-gen speed appears here.";
 export const mainKeyword = "best thunderbolt ssd enclosures under $150";

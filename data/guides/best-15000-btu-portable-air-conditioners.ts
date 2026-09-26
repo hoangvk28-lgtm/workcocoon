@@ -1,5 +1,5 @@
 export const guideSlug = "best-15000-btu-portable-air-conditioners";
-export const guideTitle = "8 Best 15,000 BTU Portable Air Conditioners in 2026";
+export const guideTitle = "Best 15,000 BTU Portable Air Conditioners";
 export const metaTitle = "Best 15,000 BTU Portable Air Conditioners";
 export const metaDescription = "We compared portable air conditioner 15000 btu models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "portable air conditioner 15000 btu";

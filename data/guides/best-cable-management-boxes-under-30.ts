@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-management-boxes-under-30";
-export const guideTitle = "6 Best Cable Management Boxes Under $30 in 2026";
+export const guideTitle = "Best Cable Management Boxes Under $30";
 export const metaTitle = "Best Cable Management Boxes Under $30";
 export const metaDescription = "We compared cable management boxes and under-desk trays under $30 by mounting method, since these two product types solve different clutter problems.";
 export const mainKeyword = "cable management box under $30";

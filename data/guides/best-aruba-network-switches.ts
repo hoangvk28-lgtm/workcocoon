@@ -1,5 +1,5 @@
 export const guideSlug = "best-aruba-network-switches";
-export const guideTitle = "6 Best Aruba Network Switches in 2026";
+export const guideTitle = "Best Aruba Network Switches";
 export const metaTitle = "Best Aruba Network Switches in 2026";
 export const metaDescription = "Aruba Instant On switches span 8 to 48 ports with genuinely subscription-free cloud management. We mapped the current lineup.";
 export const mainKeyword = "aruba network switches";

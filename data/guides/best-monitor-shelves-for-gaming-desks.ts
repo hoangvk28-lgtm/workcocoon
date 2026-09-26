@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-for-gaming-desks";
-export const guideTitle = "5 Best Monitor Shelves for Gaming Desks in 2026";
+export const guideTitle = "Best Monitor Shelves for Gaming Desks";
 export const metaTitle = "Best Monitor Shelves for Gaming Desks, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 monitor shelves we evaluated for gaming desks, with the aesthetics-versus-engineering distinction competitors skip: gaming-desk styling doesn't guarantee better structural quality, and realistic gaming-accessory point-load should be tested separately.";

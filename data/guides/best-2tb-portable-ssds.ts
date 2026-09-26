@@ -1,5 +1,5 @@
 export const guideSlug = "best-2tb-portable-ssds";
-export const guideTitle = "4 Best 2TB Portable SSDs in 2026";
+export const guideTitle = "Best 2TB Portable SSDs";
 export const metaTitle = "Best 2TB Portable SSDs in 2026";
 export const metaDescription = "4 genuinely 2TB portable SSDs we evaluated for large game and media libraries, covering real usable space and sustained transfer speed.";
 export const mainKeyword = "best 2tb portable ssd";

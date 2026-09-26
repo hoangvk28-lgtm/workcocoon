@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-professionals";
-export const guideTitle = "7 Best Digital Notebooks for Professionals in 2026";
+export const guideTitle = "Best Digital Notebooks for Professionals";
 export const metaTitle = "Best Digital Notebooks for Professionals (2026)";
 export const metaDescription =
   "7 premium-leaning digital notebooks we evaluated for professionals, spanning e-ink devices and smart pen sets built for daily, sustained use.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-luxury-id-badge-holders";
-export const guideTitle = "6 Best Luxury ID Badge Holders in 2026";
+export const guideTitle = "Best Luxury ID Badge Holders";
 export const metaTitle = "Best Luxury ID Badge Holders";
 export const metaDescription = "We compared luxury id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "luxury id badge holders";

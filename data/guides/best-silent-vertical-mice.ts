@@ -1,5 +1,5 @@
 export const guideSlug = "best-silent-vertical-mice";
-export const guideTitle = "5 Best Silent Vertical Mice in 2026";
+export const guideTitle = "Best Silent Vertical Mice";
 export const metaTitle = "Best Silent Vertical Mice, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 silent vertical mice we evaluated, with the tactile-feedback tradeoff competitors skip: silent click mechanisms sometimes trade tactile click feel for noise reduction, and scroll wheel noise deserves separate testing from the click mechanism.";

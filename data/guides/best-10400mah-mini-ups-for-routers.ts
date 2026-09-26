@@ -1,5 +1,5 @@
 export const guideSlug = "best-10400mah-mini-ups-for-routers";
-export const guideTitle = "5 Best 10,400mAh Mini UPS for Routers in 2026";
+export const guideTitle = "Best 10,400mAh Mini UPS for Routers";
 export const metaTitle = "Best 10,400mAh Mini UPS for Routers";
 export const metaDescription = "10,400mAh is a common WGP-style tier, but real watt-hours vary between products carrying the same label. We compared the current lineup.";
 export const mainKeyword = "10400mah mini ups for routers";

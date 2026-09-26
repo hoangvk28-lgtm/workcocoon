@@ -1,5 +1,5 @@
 export const guideSlug = "best-legal-size-paper-trays";
-export const guideTitle = "6 Best Legal-Size Paper Trays in 2026";
+export const guideTitle = "Best Legal-Size Paper Trays";
 export const metaTitle = "Best Legal-Size Paper Trays";
 export const metaDescription = "We compared legal-size paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "legal-size paper trays";

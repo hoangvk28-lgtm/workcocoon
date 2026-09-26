@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-ipad";
-export const guideTitle = "7 Best USB-C Ethernet Adapters for iPad";
+export const guideTitle = "Best USB-C Ethernet Adapters for iPad";
 export const metaTitle = "Best USB-C Ethernet Adapters for iPad";
 export const metaDescription = "Apple documents USB-C Ethernet use on iPad directly. We focused on iPadOS behavior, bus power, and PD passthrough for this specific workflow.";
 export const mainKeyword = "usb-c ethernet adapters for ipad";

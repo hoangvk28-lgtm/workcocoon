@@ -1,5 +1,5 @@
 export const guideSlug = "best-very-small-safes";
-export const guideTitle = "7 Best Very Small Safes in 2026";
+export const guideTitle = "Best Very Small Safes";
 export const metaTitle = "Best Very Small Safes (2026)";
 export const metaDescription =
   "7 verified compact safes compared by exact exterior footprint, since 'very small' needs a defined maximum size before it's a useful buying category.";

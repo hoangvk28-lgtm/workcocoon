@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-with-shelves";
-export const guideTitle = "7 Best Room Dividers with Shelves in 2026";
+export const guideTitle = "Best Room Dividers with Shelves";
 export const metaTitle = "Best Room Dividers with Shelves in 2026 (S-Shaped & Bamboo)";
 export const metaDescription =
   "7 best room dividers with shelves in 2026, from S-shaped freestanding bookcases to a bamboo folding screen with storage. Compare height, stability, and capacity.";

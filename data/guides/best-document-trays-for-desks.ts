@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-trays-for-desks";
-export const guideTitle = "6 Best Document Trays for Desks in 2026";
+export const guideTitle = "Best Document Trays for Desks";
 export const metaTitle = "Best Document Trays for Desks";
 export const metaDescription = "We compared document trays for desks models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "document trays for desks";

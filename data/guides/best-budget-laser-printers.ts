@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-laser-printers";
-export const guideTitle = "5 Best Budget Laser Printers in 2026";
+export const guideTitle = "Best Budget Laser Printers";
 export const metaTitle = "Best Budget Laser Printers in 2026 (Under $300)";
 export const metaDescription =
   "5 best budget laser printers in 2026 for crisp text and low per-page cost. Compare toner yield, duplex, color options, and real long-term ownership cost.";

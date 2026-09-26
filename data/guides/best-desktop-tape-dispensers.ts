@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-tape-dispensers";
-export const guideTitle = "6 Best Desktop Tape Dispensers in 2026";
+export const guideTitle = "Best Desktop Tape Dispensers";
 export const metaTitle = "Best Desktop Tape Dispensers";
 export const metaDescription = "We compared desktop tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desktop tape dispensers";

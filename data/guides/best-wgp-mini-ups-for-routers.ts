@@ -1,5 +1,5 @@
 export const guideSlug = "best-wgp-mini-ups-for-routers";
-export const guideTitle = "5 Best WGP Mini UPS for Routers in 2026";
+export const guideTitle = "Best WGP Mini UPS for Routers";
 export const metaTitle = "Best WGP Mini UPS for Routers 2026";
 export const metaDescription = "WGP is one of the few brands publishing official watt-hour specs alongside mAh. We mapped its current router UPS lineup.";
 export const mainKeyword = "wgp mini ups for routers";

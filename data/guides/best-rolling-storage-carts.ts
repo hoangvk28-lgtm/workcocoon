@@ -1,5 +1,5 @@
 export const guideSlug = "best-rolling-storage-carts";
-export const guideTitle = "8 Best Rolling Storage Carts in 2026";
+export const guideTitle = "Best Rolling Storage Carts";
 export const metaTitle = "Best Rolling Storage Carts";
 export const metaDescription = "We compared storage cart rolling models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart rolling";

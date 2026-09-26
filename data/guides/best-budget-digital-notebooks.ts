@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-digital-notebooks";
-export const guideTitle = "7 Best Budget Digital Notebooks in 2026";
+export const guideTitle = "Best Budget Digital Notebooks";
 export const metaTitle = "Best Budget Digital Notebooks (2026)";
 export const metaDescription =
   "7 digital notebooks under $30 we evaluated, all genuinely low-priced reusable paper notebooks verified against current listing prices.";

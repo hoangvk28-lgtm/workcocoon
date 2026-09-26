@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-laptop-locks";
-export const guideTitle = "6 Best Portable Laptop Locks in 2026";
+export const guideTitle = "Best Portable Laptop Locks";
 export const metaTitle = "Best Portable Laptop Locks (2026)";
 export const metaDescription =
   "6 portable laptop locks compared by real packed dimensions and usable reach, since portability trades cable length and bulk for travel convenience.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-10-inch-smart-displays";
-export const guideTitle = "1 Best 10 Inch Smart Display in 2026";
+export const guideTitle = "Best 10 Inch Smart Display";
 export const metaTitle = "Best 10 Inch Smart Displays (2026)";
 export const metaDescription =
   "The Echo Show 10 is the only verified genuine 10 inch class smart display we found this pass. Here is a detailed, honest look at it.";

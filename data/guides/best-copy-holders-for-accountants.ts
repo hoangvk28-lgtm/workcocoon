@@ -1,5 +1,5 @@
 export const guideSlug = "best-copy-holders-for-accountants";
-export const guideTitle = "6 Best Copy Holders for Accountants in 2026";
+export const guideTitle = "Best Copy Holders for Accountants";
 export const metaTitle = "Best Copy Holders for Accountants";
 export const metaDescription = "We compared copy holder for accounting models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "copy holder for accounting";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-21-5-inch-monitor-privacy-screens";
-export const guideTitle = "4 Best 21.5-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 21.5-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 21.5-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "4 privacy filters confirmed for genuine 21.5 inch, 16:9 monitors, from a $25.99 single unit to well-reviewed matched 2-pack options.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-chromebook-and-laptop-charging-carts";
-export const guideTitle = "8 Best Chromebook and Laptop Charging Carts in 2026";
+export const guideTitle = "Best Chromebook and Laptop Charging Carts";
 export const metaTitle = "Best Chromebook and Laptop Charging Carts (2026)";
 export const metaDescription =
   "8 carts compared for mixed Chromebook and laptop fleets, distinguishing carts that explicitly confirm mixed-device compatibility from those that don't.";

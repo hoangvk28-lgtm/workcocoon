@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-storage-devices";
-export const guideTitle = "8 Best NAS Storage Devices in 2026";
+export const guideTitle = "Best NAS Storage Devices";
 export const metaTitle = "Best NAS Storage Devices in 2026 (2-Bay to 6-Bay Compared)";
 export const metaDescription =
   "8 best NAS storage devices in 2026 across 2-bay, 4-bay, and 6-bay tiers, compared on CPU, RAM, and RAID setup, from a $284.99 entry unit to a $939.15 6-bay flagship.";

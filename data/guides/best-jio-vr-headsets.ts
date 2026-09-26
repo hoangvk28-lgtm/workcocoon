@@ -1,5 +1,5 @@
 export const guideSlug = "best-jio-vr-headsets";
-export const guideTitle = "6 Best Jio VR Headsets in 2026";
+export const guideTitle = "Best Jio VR Headsets";
 export const metaTitle = "Best Jio VR Headsets";
 export const metaDescription = "We compared jio vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "jio vr headsets";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-huion-drawing-tablets";
-export const guideTitle = "6 Best Huion Drawing Tablets in 2026";
+export const guideTitle = "Best Huion Drawing Tablets";
 export const metaTitle = "Best Huion Drawing Tablets 2026";
 export const metaDescription = "We compared huion drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "huion drawing tablets";

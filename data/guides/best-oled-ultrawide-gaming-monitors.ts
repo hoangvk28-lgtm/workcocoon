@@ -1,5 +1,5 @@
 export const guideSlug = "best-oled-ultrawide-gaming-monitors";
-export const guideTitle = "6 Best OLED Ultrawide Gaming Monitors in 2026";
+export const guideTitle = "Best OLED Ultrawide Gaming Monitors";
 export const metaTitle = "Best OLED Ultrawide Gaming Monitors";
 export const metaDescription = "We compared oled ultrawide gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "oled ultrawide gaming monitors";

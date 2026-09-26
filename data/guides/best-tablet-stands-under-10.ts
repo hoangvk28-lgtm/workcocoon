@@ -1,5 +1,5 @@
 export const guideSlug = "best-tablet-stands-under-10";
-export const guideTitle = "4 Best Tablet Stands Under $10 in 2026";
+export const guideTitle = "Best Tablet Stands Under $10";
 export const metaTitle = "Best Tablet Stands Under $10";
 export const metaDescription = "We compared tablet stands under $10 by device compatibility, hook thickness, and construction material, since even budget stands vary meaningfully here.";
 export const mainKeyword = "best tablet stands under $10";

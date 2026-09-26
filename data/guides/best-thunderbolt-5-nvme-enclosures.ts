@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-nvme-enclosures";
-export const guideTitle = "6 Best Thunderbolt 5 NVMe Enclosures in 2026";
+export const guideTitle = "Best Thunderbolt 5 NVMe Enclosures";
 export const metaTitle = "Best Thunderbolt 5 NVMe Enclosures 2026";
 export const metaDescription = "The more precise canonical page for Thunderbolt 5 storage. Host support, controller, and sustained thermals drive these rankings.";
 export const mainKeyword = "thunderbolt 5 nvme enclosures";

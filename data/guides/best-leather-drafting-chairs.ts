@@ -1,5 +1,5 @@
 export const guideSlug = "best-leather-drafting-chairs";
-export const guideTitle = "8 Best Leather Drafting Chairs in 2026";
+export const guideTitle = "Best Leather Drafting Chairs";
 export const metaTitle = "Best Leather Drafting Chairs";
 export const metaDescription = "We compared leather drafting chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "leather drafting chair";

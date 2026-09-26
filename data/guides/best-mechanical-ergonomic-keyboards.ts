@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-ergonomic-keyboards";
-export const guideTitle = "6 Best Mechanical Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Mechanical Ergonomic Keyboards";
 export const metaTitle = "Best Mechanical Ergonomic Keyboards 2026";
 export const metaDescription =
   "6 mechanical ergonomic keyboards we evaluated for switch type, hot-swap availability, keycap material, and stabilizer quality on larger keys.";

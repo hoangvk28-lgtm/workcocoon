@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-mounted-power-strips";
-export const guideTitle = "5 Best Desk-Mounted Power Strips in 2026";
+export const guideTitle = "Best Desk-Mounted Power Strips, Rental-Friendly Picks";
 export const metaTitle = "Best Desk-Mounted Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 desk-mounted power strips we evaluated, with the mounting-method tradeoff competitors treat as interchangeable: screw, adhesive, and clamp mounts have fundamentally different desk-damage and rental-friendliness implications.";

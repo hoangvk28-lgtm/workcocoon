@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-handwriting-conversion";
-export const guideTitle = "5 Best Digital Notebooks with Handwriting Conversion in 2026";
+export const guideTitle = "Best Digital Notebooks with Handwriting Conversion";
 export const metaTitle = "Best Notebooks with Handwriting Conversion";
 export const metaDescription =
   "5 digital notebooks we evaluated for handwriting-to-text conversion, with an honest note that OCR accuracy is a software feature you should verify currently.";

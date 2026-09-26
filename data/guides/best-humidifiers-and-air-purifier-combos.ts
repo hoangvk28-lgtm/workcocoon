@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-and-air-purifier-combos";
-export const guideTitle = "8 Best Humidifiers and Air Purifier Combos in 2026";
+export const guideTitle = "Best Humidifiers and Air Purifier Combos";
 export const metaTitle = "Best Humidifiers and Air Purifier Combos";
 export const metaDescription = "We compared humidifier and air purifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "humidifier and air purifier";

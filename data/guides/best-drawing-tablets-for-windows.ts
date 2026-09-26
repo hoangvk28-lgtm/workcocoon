@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-for-windows";
-export const guideTitle = "5 Best Drawing Tablets for Windows in 2026";
+export const guideTitle = "Best Drawing Tablets for Windows";
 export const metaTitle = "Best Drawing Tablets for Windows 2026";
 export const metaDescription = "We compared drawing tablets for windows by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets for windows";

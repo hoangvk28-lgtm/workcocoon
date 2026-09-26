@@ -1,5 +1,5 @@
 export const guideSlug = "best-owc-nvme-enclosures";
-export const guideTitle = "4 Best OWC NVMe Enclosures in 2026";
+export const guideTitle = "Best OWC NVMe Enclosures";
 export const metaTitle = "Best OWC NVMe Enclosures in 2026";
 export const metaDescription = "OWC sells both prebuilt SSD solutions and diskless multi-bay enclosures. We separated the two before ranking.";
 export const mainKeyword = "owc nvme enclosures";

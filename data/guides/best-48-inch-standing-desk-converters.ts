@@ -1,5 +1,5 @@
 export const guideSlug = "best-48-inch-standing-desk-converters";
-export const guideTitle = "5 Best 48-Inch Standing Desk Converters in 2026";
+export const guideTitle = "Best 48-Inch Standing Desk Converters";
 export const metaTitle = "Best 48-Inch Standing Desk Converters (2026)";
 export const metaDescription =
   "5 converters confirmed at genuine 48 inch platform width, distinguished from nearby 46 and 47 inch models often rounded together in listings.";

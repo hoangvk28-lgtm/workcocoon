@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-thunderbolt-5-dock";
-export const guideTitle = "4 Best Budget Thunderbolt 5 Docks in 2026";
+export const guideTitle = "Best Budget Thunderbolt 5 Docks";
 export const metaTitle = "Best Budget Thunderbolt 5 Docks";
 export const metaDescription = "We compared budget Thunderbolt 5 docks by exact per-chip Mac display limits, since even lower-cost TB5 docks disclose real testing-based caps, not just specs.";
 export const mainKeyword = "best budget thunderbolt 5 dock";

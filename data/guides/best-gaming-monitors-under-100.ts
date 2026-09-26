@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-under-100";
-export const guideTitle = "6 Best Gaming Monitors Under $100 in 2026";
+export const guideTitle = "Best Gaming Monitors Under $100";
 export const metaTitle = "Best Gaming Monitors Under $100";
 export const metaDescription = "We compared gaming monitors under $100 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "gaming monitors under $100";

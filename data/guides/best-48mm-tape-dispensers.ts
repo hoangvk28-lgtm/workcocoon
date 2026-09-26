@@ -1,5 +1,5 @@
 export const guideSlug = "best-48mm-tape-dispensers";
-export const guideTitle = "6 Best 48mm Tape Dispensers in 2026";
+export const guideTitle = "Best 48mm Tape Dispensers";
 export const metaTitle = "Best 48mm Tape Dispensers";
 export const metaDescription = "We compared 48mm tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "48mm tape dispensers";

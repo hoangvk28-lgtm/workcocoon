@@ -1,5 +1,5 @@
 export const guideSlug = "best-cute-desk-clocks";
-export const guideTitle = "5 Best Cute Desk Clocks in 2026";
+export const guideTitle = "Best Cute Desk Clocks";
 export const metaTitle = "Best Cute Desk Clocks (2026)";
 export const metaDescription =
   "5 playful and decorative desk clocks that still prioritize legibility and stable placement, not just novelty appearance.";

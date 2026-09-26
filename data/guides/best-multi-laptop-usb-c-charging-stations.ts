@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-laptop-usb-c-charging-stations";
-export const guideTitle = "7 Best Multi-Laptop USB-C Charging Stations in 2026";
+export const guideTitle = "Best Multi-Laptop USB-C Charging Stations";
 export const metaTitle = "Best Multi-Laptop USB-C Charging Stations (2026)";
 export const metaDescription =
   "7 verified USB-C charging stations compared on total wattage, port count, and price, after excluding one ASIN not accessible in our product data pull.";

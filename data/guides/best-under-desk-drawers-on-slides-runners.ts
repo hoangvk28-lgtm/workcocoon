@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-drawers-on-slides-runners";
-export const guideTitle = "8 Best Under-Desk Drawers on Slides/Runners in 2026";
+export const guideTitle = "Best Under-Desk Drawers on Slides/Runners";
 export const metaTitle = "Best Under-Desk Drawers on Slides/Runners";
 export const metaDescription = "We compared under desk drawer slides models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under desk drawer slides";

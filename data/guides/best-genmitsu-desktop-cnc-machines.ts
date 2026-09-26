@@ -1,5 +1,5 @@
 export const guideSlug = "best-genmitsu-desktop-cnc-machines";
-export const guideTitle = "6 Best Genmitsu Desktop CNC Machines in 2026";
+export const guideTitle = "Best Genmitsu Desktop CNC Machines";
 export const metaTitle = "Best Genmitsu Desktop CNC Machines 2026";
 export const metaDescription = "We compared genmitsu desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "genmitsu desktop cnc machines";

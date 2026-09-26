@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-with-bookshelves";
-export const guideTitle = "6 Best Filing Cabinets with Bookshelves in 2026";
+export const guideTitle = "Best Filing Cabinets with Bookshelves";
 export const metaTitle = "Best Filing Cabinets with Bookshelves in 2026 (Shelf Load Guide)";
 export const metaDescription =
   "6 filing cabinet and bookshelf combo units compared on shelf load capacity, material quality, and filing capacity trade-offs versus dedicated filing cabinets.";

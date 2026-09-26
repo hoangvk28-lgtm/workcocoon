@@ -1,5 +1,5 @@
 export const guideSlug = "best-a5-paper-trays";
-export const guideTitle = "3 Best A5 Paper Trays in 2026";
+export const guideTitle = "Best A5 Paper Trays";
 export const metaTitle = "Best A5 Paper Trays";
 export const metaDescription = "We compared a5 paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "a5 paper trays";

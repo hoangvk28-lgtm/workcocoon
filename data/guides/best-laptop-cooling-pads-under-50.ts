@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-under-50";
-export const guideTitle = "8 Best Laptop Cooling Pads Under $50 in 2026";
+export const guideTitle = "Best Laptop Cooling Pads Under $50";
 export const metaTitle = "Best Laptop Cooling Pads Under $50 (2026)";
 export const metaDescription =
   "8 laptop cooling pads we verified were priced under $50 on 2026-08-08, compared on fan count, USB ports, and stated features, not just price alone.";

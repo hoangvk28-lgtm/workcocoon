@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-modesty-panels";
-export const guideTitle = "8 Best Under-Desk Modesty Panels in 2026";
+export const guideTitle = "Best Under-Desk Modesty Panels";
 export const metaTitle = "Best Under-Desk Modesty Panels";
 export const metaDescription = "We compared under desk modesty panel models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under desk modesty panel";

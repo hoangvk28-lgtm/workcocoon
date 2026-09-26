@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-ipad-users";
-export const guideTitle = "4 Best Digital Notebooks for iPad Users in 2026";
+export const guideTitle = "Best Digital Notebooks for iPad Users";
 export const metaTitle = "Best Digital Notebooks for iPad Users";
 export const metaDescription =
   "4 standalone digital notebook devices we evaluated as an iPad alternative or companion, plus what to buy instead if you want a paper-like iPad screen.";

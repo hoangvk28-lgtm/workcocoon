@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-routers";
-export const guideTitle = "8 Best Desktop CNC Routers in 2026";
+export const guideTitle = "Best Desktop CNC Routers";
 export const metaTitle = "Best Desktop CNC Routers 2026";
 export const metaDescription = "We compared desktop cnc routers by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc routers";

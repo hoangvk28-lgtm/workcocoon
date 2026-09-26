@@ -1,5 +1,5 @@
 export const guideSlug = "best-wooden-sticky-note-holders";
-export const guideTitle = "3 Best Wooden Sticky Note Holders in 2026";
+export const guideTitle = "Best Wooden Sticky Note Holders";
 export const metaTitle = "Best Wooden Sticky Note Holders";
 export const metaDescription = "We compared wooden sticky note holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "wooden sticky note holders";

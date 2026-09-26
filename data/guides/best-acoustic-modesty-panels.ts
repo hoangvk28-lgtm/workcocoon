@@ -1,5 +1,5 @@
 export const guideSlug = "best-acoustic-modesty-panels";
-export const guideTitle = "6 Best Acoustic Modesty Panels in 2026";
+export const guideTitle = "Best Acoustic Modesty Panels";
 export const metaTitle = "Best Acoustic Modesty Panels";
 export const metaDescription = "We compared acoustic modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "acoustic modesty panels";

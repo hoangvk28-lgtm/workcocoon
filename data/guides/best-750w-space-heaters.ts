@@ -1,5 +1,5 @@
 export const guideSlug = "best-750w-space-heaters";
-export const guideTitle = "8 Best 750W Space Heaters in 2026";
+export const guideTitle = "Best 750W Space Heaters";
 export const metaTitle = "Best 750W Space Heaters";
 export const metaDescription = "We compared space heater 750 watts models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater 750 watts";

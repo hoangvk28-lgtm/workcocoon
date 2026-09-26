@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-that-feel-like-paper";
-export const guideTitle = "5 Best Digital Notebooks That Feel Like Paper in 2026";
+export const guideTitle = "Best Digital Notebooks That Feel Like Paper";
 export const metaTitle = "Best Digital Notebooks That Feel Like Paper (2026)";
 export const metaDescription =
   "5 E Ink writing tablets compared on their actual textured-screen technology rather than marketing language, since \"feels like paper\" depends on specific display and stylus hardware.";

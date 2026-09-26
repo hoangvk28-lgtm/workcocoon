@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmer-plates";
-export const guideTitle = "6 Best Coffee Warmer Plates in 2026";
+export const guideTitle = "Best Coffee Warmer Plates";
 export const metaTitle = "Best Coffee Warmer Plates";
 export const metaDescription = "We compared coffee warmer plate models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "coffee warmer plate";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mopa-laser-engravers";
-export const guideTitle = "5 Best MOPA Laser Engravers in 2026";
+export const guideTitle = "Best MOPA Laser Engravers";
 export const metaTitle = "Best MOPA Laser Engravers in 2026";
 export const metaDescription = "We compared best mopa laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "mopa laser engravers";

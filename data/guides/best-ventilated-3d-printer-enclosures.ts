@@ -1,5 +1,5 @@
 export const guideSlug = "best-ventilated-3d-printer-enclosures";
-export const guideTitle = "6 Best Ventilated 3D Printer Enclosures in 2026";
+export const guideTitle = "Best Ventilated 3D Printer Enclosures";
 export const metaTitle = "Best Ventilated 3D Printer Enclosures";
 export const metaDescription = "We compared ventilated 3d printer enclosures models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "ventilated 3d printer enclosures";

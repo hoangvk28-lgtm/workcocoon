@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-home-servers";
-export const guideTitle = "5 Best Mini PCs for Home Servers in 2026";
+export const guideTitle = "Best Mini PCs for Home Servers";
 export const metaTitle = "Best Mini PCs for Home Servers (2026)";
 export const metaDescription =
   "5 mini PCs for home servers we evaluated, focused on idle power draw, sustained thermals, and reliable always-on 24/7 operation.";

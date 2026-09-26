@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-macbook-pro";
-export const guideTitle = "8 Best Docking Stations for MacBook Pro on a Small Desk (2026)";
+export const guideTitle = "Best Docking Stations for MacBook Pro on a Small Desk (2026)";
 export const metaTitle = "Best Docking Stations for MacBook Pro in 2026 (Thunderbolt 4 & 5)";
 export const metaDescription =
   "8 docking stations for MacBook Pro compared on the one thing that actually trips buyers up: whether your M-chip generation can drive the extra monitor the dock promises. From a $53.99 USB-C hub to a $499.99 Thunderbolt 5 CalDigit dock.";

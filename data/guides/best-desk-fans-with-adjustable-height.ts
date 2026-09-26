@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-with-adjustable-height";
-export const guideTitle = "8 Best Desk Fans With Adjustable Height in 2026";
+export const guideTitle = "Best Desk Fans With Adjustable Height";
 export const metaTitle = "Best Desk Fans With Adjustable Height";
 export const metaDescription = "We compared desk fan adjustable height models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "desk fan adjustable height";

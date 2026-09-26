@@ -1,5 +1,5 @@
 export const guideSlug = "best-flexispot-standing-desk-converters";
-export const guideTitle = "8 Best FlexiSpot Standing Desk Converters in 2026";
+export const guideTitle = "Best FlexiSpot Standing Desk Converters";
 export const metaTitle = "Best FlexiSpot Standing Desk Converters (2026)";
 export const metaDescription =
   "8 current FlexiSpot converters compared across manual and electric lift, from a $104 space-saving riser to a 42 inch electric model.";

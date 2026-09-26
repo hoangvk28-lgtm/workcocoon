@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-fan-laptop-cooling-pads";
-export const guideTitle = "5 Best Dual-Fan Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Dual-Fan Laptop Cooling Pads";
 export const metaTitle = "Best Dual-Fan Laptop Cooling Pads (2026)";
 export const metaDescription =
   "5 laptop cooling pads compared for two-fan airflow coverage, distinguished from single-fan and multi-fan (5-6 fan) designs since fan count changes noise and coverage tradeoffs.";

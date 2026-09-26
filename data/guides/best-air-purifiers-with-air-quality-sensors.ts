@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-with-air-quality-sensors";
-export const guideTitle = "5 Best Air Purifiers with Air Quality Sensors in 2026";
+export const guideTitle = "Best Air Purifiers with Air Quality Sensors";
 export const metaTitle = "Best Air Purifiers with Air Quality Sensors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers with built-in air quality sensors we evaluated, with the sensor-specificity gap competitors skip: most built-in sensors detect general PM2.5 particulate, not VOCs or CO2 specifically, worth knowing before trusting the reading for a specific concern.";

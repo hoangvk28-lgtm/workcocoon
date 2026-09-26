@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-meeting-room-schedulers";
-export const guideTitle = "8 Best Wireless Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Wireless Meeting Room Schedulers";
 export const metaTitle = "Best Wireless Meeting Room Schedulers";
 export const metaDescription = "We compared wireless meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "wireless meeting room scheduler";

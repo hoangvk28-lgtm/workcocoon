@@ -1,5 +1,5 @@
 export const guideSlug = "best-battery-powered-desk-staplers";
-export const guideTitle = "6 Best Battery-Powered Desk Staplers in 2026";
+export const guideTitle = "Best Battery-Powered Desk Staplers";
 export const metaTitle = "Best Battery-Powered Desk Staplers";
 export const metaDescription = "We compared battery-powered desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "battery-powered desk staplers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-wi-fi-air-quality-monitors";
-export const guideTitle = "8 Best Wi-Fi Air Quality Monitors in 2026";
+export const guideTitle = "Best Wi-Fi Air Quality Monitors";
 export const metaTitle = "Best Wi-Fi Air Quality Monitors";
 export const metaDescription = "We compared wifi air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "wifi air quality monitor";

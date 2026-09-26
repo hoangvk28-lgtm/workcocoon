@@ -1,5 +1,5 @@
 export const guideSlug = "best-65-inch-interactive-whiteboards";
-export const guideTitle = "8 Best 65-Inch Interactive Whiteboards";
+export const guideTitle = "Best 65-Inch Interactive Whiteboards";
 export const metaTitle = "Best 65-Inch Interactive Whiteboards";
 export const metaDescription = "65 inches is one of the deepest current size tiers. We required an exact current SKU at this diagonal and verified room-viewing-distance fit.";
 export const mainKeyword = "65 inch interactive whiteboard";

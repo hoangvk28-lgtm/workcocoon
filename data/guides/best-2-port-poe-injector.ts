@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-port-poe-injector";
-export const guideTitle = "4 Best 2-Port PoE Injectors in 2026";
+export const guideTitle = "Best 2-Port PoE Injectors";
 export const metaTitle = "Best 2-Port PoE Injectors";
 export const metaDescription = "We compared 2-port PoE injectors by real ESD protection and power ceiling, since one states 15kV ESD protection while another delivers 60W from a DC cabinet.";
 export const mainKeyword = "best 2-port poe injector";

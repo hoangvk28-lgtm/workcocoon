@@ -1,5 +1,5 @@
 export const guideSlug = "best-outdoor-power-strips";
-export const guideTitle = "3 Best Outdoor Power Strips in 2026";
+export const guideTitle = "Best Outdoor Power Strips";
 export const metaTitle = "Best Outdoor Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "3 outdoor power strips we evaluated, with the distinction competitors blur: genuine outdoor electrical safety requires GFCI protection, a separate, more critical feature than basic weather-resistant casing alone.";

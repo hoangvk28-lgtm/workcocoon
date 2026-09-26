@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-holders-with-qr-codes";
-export const guideTitle = "6 Best Business Card Holders with QR Codes in 2026";
+export const guideTitle = "Best Business Card Holders with QR Codes";
 export const metaTitle = "Best Business Card Holders with QR Codes";
 export const metaDescription = "We compared business card holders with qr codes models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "business card holders with qr codes";

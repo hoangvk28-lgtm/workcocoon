@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookends-under-200";
-export const guideTitle = "6 Best Bookends Under $200 in 2026";
+export const guideTitle = "Best Bookends Under $200";
 export const metaTitle = "Best Bookends Under $200";
 export const metaDescription = "We compared bookends under $200 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "bookends under $200";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-under-50";
-export const guideTitle = "8 Best Task Chairs Under $50 in 2026";
+export const guideTitle = "Best Task Chairs Under $50";
 export const metaTitle = "Best Task Chairs Under $50";
 export const metaDescription = "We compared task chair under 50 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "task chair under 50";

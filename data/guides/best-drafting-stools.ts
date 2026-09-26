@@ -1,5 +1,5 @@
 export const guideSlug = "best-drafting-stools";
-export const guideTitle = "8 Best Drafting Stools in 2026";
+export const guideTitle = "Best Drafting Stools";
 export const metaTitle = "Best Drafting Stools";
 export const metaDescription = "We compared drafting stool models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "drafting stool";

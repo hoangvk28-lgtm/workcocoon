@@ -1,5 +1,5 @@
 export const guideSlug = "best-dymo-label-printers";
-export const guideTitle = "6 Best DYMO Label Printers in 2026";
+export const guideTitle = "Best DYMO Label Printers";
 export const metaTitle = "Best DYMO Label Printers";
 export const metaDescription = "We compared dymo label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "dymo label printers";

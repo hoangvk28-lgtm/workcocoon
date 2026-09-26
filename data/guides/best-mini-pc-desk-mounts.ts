@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-desk-mounts";
-export const guideTitle = "5 Best Mini PC Desk Mounts in 2026";
+export const guideTitle = "Best Mini PC Desk Mounts";
 export const metaTitle = "Best Mini PC Desk Mounts (2026)";
 export const metaDescription =
   "5 VESA-compatible mini PC mounting brackets compared for device depth range, mounting location flexibility, and price, covering under-desk, behind-monitor, and pole mounting.";

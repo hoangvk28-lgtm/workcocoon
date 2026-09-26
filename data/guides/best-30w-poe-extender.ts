@@ -1,5 +1,5 @@
 export const guideSlug = "best-30w-poe-extender";
-export const guideTitle = "4 Best 30W PoE Extenders in 2026";
+export const guideTitle = "Best 30W PoE Extenders";
 export const metaTitle = "Best 30W PoE Extenders";
 export const metaDescription = "We compared 30W PoE extenders by real output wattage, since a 30W input rating doesn't always mean a full 30W actually reaches your connected device.";
 export const mainKeyword = "best 30w poe extender";

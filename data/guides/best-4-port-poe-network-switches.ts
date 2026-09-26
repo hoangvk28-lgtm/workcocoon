@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-port-poe-network-switches";
-export const guideTitle = "5 Best 4-Port PoE Network Switches in 2026";
+export const guideTitle = "Best 4-Port PoE Network Switches";
 export const metaTitle = "Best 4-Port PoE Network Switches";
 export const metaDescription = "4-port PoE switches suit small camera or AP deployments where a full 5- or 8-port switch is more than needed.";
 export const mainKeyword = "4-port poe network switches";

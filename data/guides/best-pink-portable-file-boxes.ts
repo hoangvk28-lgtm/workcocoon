@@ -1,5 +1,5 @@
 export const guideSlug = "best-pink-portable-file-boxes";
-export const guideTitle = "5 Best Pink Portable File Boxes in 2026";
+export const guideTitle = "Best Pink Portable File Boxes";
 export const metaTitle = "Best Pink Portable File Boxes (2026)";
 export const metaDescription =
   "5 file boxes confirmed available in pink, compared on real construction quality rather than just listing anything with the color keyword.";

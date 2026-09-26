@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-under-1000";
-export const guideTitle = "4 Best Murphy Beds Under $1000 in 2026";
+export const guideTitle = "Best Murphy Beds Under $1000";
 export const metaTitle = "Best Murphy Beds Under $1000";
 export const metaDescription = "We compared murphy beds under $1000 by mattress inclusion, weight rating, and charging features, since mattress-included bundles start appearing at this tier.";
 export const mainKeyword = "best murphy beds under $1000";

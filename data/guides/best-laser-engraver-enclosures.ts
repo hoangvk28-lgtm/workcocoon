@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engraver-enclosures";
-export const guideTitle = "4 Best Laser Engraver Enclosures in 2026";
+export const guideTitle = "Best Laser Engraver Enclosures";
 export const metaTitle = "Best Laser Engraver Enclosures in 2026";
 export const metaDescription = "We compared best laser engraver enclosures by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "laser engraver enclosures";

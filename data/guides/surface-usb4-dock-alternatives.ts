@@ -1,5 +1,5 @@
 export const guideSlug = "surface-usb4-dock-alternatives";
-export const guideTitle = "4 Best Microsoft Surface USB4 Dock Alternatives in 2026";
+export const guideTitle = "Best Microsoft Surface USB4 Dock Alternatives";
 export const metaTitle = "Best Surface USB4 Dock Alternatives";
 export const metaDescription = "We compared alternatives to Microsoft's own Surface dock by Microsoft certification, port count, and price, since third-party support varies widely.";
 export const mainKeyword = "surface usb4 dock alternatives";

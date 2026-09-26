@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-under-30";
-export const guideTitle = "4 Best Power Strips Under $30 in 2026";
+export const guideTitle = "Best Power Strips Under $30";
 export const metaTitle = "Best Power Strips Under $30";
 export const metaDescription = "We compared power strips under $30 by joule rating, brand warranty, and USB-C power delivery, since recognized brands and higher protection appear at this tier.";
 export const mainKeyword = "best power strips under $30";

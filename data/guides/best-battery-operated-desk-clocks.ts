@@ -1,5 +1,5 @@
 export const guideSlug = "best-battery-operated-desk-clocks";
-export const guideTitle = "8 Best Battery Operated Desk Clocks in 2026";
+export const guideTitle = "Best Battery Operated Desk Clocks";
 export const metaTitle = "Best Battery Operated Desk Clocks";
 export const metaDescription =
   "8 battery powered desk clocks we researched, verified to run cordlessly, so you can place them anywhere on a desk without needing a nearby outlet.";

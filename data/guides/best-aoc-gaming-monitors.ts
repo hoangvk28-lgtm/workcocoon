@@ -1,5 +1,5 @@
 export const guideSlug = "best-aoc-gaming-monitors";
-export const guideTitle = "6 Best AOC Gaming Monitors in 2026";
+export const guideTitle = "Best AOC Gaming Monitors";
 export const metaTitle = "Best AOC Gaming Monitors";
 export const metaDescription = "We compared aoc gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "aoc gaming monitors";

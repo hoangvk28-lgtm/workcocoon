@@ -1,5 +1,5 @@
 export const guideSlug = "best-canon-label-printers";
-export const guideTitle = "6 Best Canon Label Printers in 2026";
+export const guideTitle = "Best Canon Label Printers";
 export const metaTitle = "Best Canon Label Printers";
 export const metaDescription = "We compared canon label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "canon label printers";

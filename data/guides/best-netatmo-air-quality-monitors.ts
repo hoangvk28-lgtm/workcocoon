@@ -1,5 +1,5 @@
 export const guideSlug = "best-netatmo-air-quality-monitors";
-export const guideTitle = "8 Best Netatmo Air Quality Monitors in 2026";
+export const guideTitle = "Best Netatmo Air Quality Monitors";
 export const metaTitle = "Best Netatmo Air Quality Monitors";
 export const metaDescription = "We compared netatmo air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "netatmo air quality monitor";

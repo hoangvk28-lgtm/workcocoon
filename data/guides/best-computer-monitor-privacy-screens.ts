@@ -1,5 +1,5 @@
 export const guideSlug = "best-computer-monitor-privacy-screens";
-export const guideTitle = "8 Best Computer Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Computer Monitor Privacy Screens";
 export const metaTitle = "Best Computer Monitor Privacy Screens (2026)";
 export const metaDescription =
   "8 monitor privacy filters compared on real side-angle blackout, brightness loss, and fit accuracy, rather than one advertised viewing cone.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-port-kvm-switches";
-export const guideTitle = "5 Best 2-Port KVM Switches in 2026";
+export const guideTitle = "Best 2-Port KVM Switches";
 export const metaTitle = "Best 2-Port KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 2-port KVM switches we evaluated, with a note that a 2-port switch is the simplest and most affordable KVM category, but check EDID emulation before assuming lower price means lower quality is acceptable.";

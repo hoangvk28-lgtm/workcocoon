@@ -1,5 +1,5 @@
 export const guideSlug = "best-two-point-microphone-arms";
-export const guideTitle = "8 Best Two-Point Microphone Arms in 2026";
+export const guideTitle = "Best Two-Point Microphone Arms";
 export const metaTitle = "Best Two-Point Microphone Arms";
 export const metaDescription = "We compared microphone arm two section models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm two section";

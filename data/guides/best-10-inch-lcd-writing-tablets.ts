@@ -1,5 +1,5 @@
 export const guideSlug = "best-10-inch-lcd-writing-tablets";
-export const guideTitle = "6 Best 10 Inch LCD Writing Tablets in 2026";
+export const guideTitle = "Best 10 Inch LCD Writing Tablets";
 export const metaTitle = "Best 10 Inch LCD Writing Tablets (2026)";
 export const metaDescription =
   "6 genuinely 10 inch LCD writing tablets we evaluated, a step up from 8.5 inch models with more room for lists and sketches while staying desk-friendly.";

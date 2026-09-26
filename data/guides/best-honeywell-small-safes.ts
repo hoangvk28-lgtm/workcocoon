@@ -1,5 +1,5 @@
 export const guideSlug = "best-honeywell-small-safes";
-export const guideTitle = "8 Best Honeywell Small Safes in 2026";
+export const guideTitle = "Best Honeywell Small Safes";
 export const metaTitle = "Best Honeywell Small Safes (2026)";
 export const metaDescription =
   "8 current Honeywell-branded safes mapped by protection category, security, fire-resistant, and fire-and-water models, with an honest note on unconfirmed pricing.";

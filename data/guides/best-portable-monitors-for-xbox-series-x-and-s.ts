@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-xbox-series-x-and-s";
-export const guideTitle = "8 Best Portable Monitors for Xbox Series X and S in 2026";
+export const guideTitle = "Best Portable Monitors for Xbox Series X and S";
 export const metaTitle = "Best Portable Monitors for Xbox Series X/S, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors we evaluated for Xbox Series X and S, with a clear read on why these two consoles have different real resolution needs and which panels can actually use Xbox's Auto HDR and VRR.";

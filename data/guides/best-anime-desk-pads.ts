@@ -1,5 +1,5 @@
 export const guideSlug = "best-anime-desk-pads";
-export const guideTitle = "8 Best Anime Desk Pads in 2026";
+export const guideTitle = "Best Anime Desk Pads";
 export const metaTitle = "Best Anime Desk Pads";
 export const metaDescription = "We compared desk pad anime models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad anime";

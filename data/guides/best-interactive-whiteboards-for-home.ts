@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-home";
-export const guideTitle = "7 Best Interactive Whiteboards for Home";
+export const guideTitle = "Best Interactive Whiteboards for Home";
 export const metaTitle = "Best Interactive Whiteboards for Home";
 export const metaDescription = "We prioritized small-room fit, quiet operation, and consumer app access over enterprise classroom features for home interactive whiteboard buyers.";
 export const mainKeyword = "interactive whiteboard home";

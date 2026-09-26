@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-for-recording";
-export const guideTitle = "8 Best Microphone Arms for Recording in 2026";
+export const guideTitle = "Best Microphone Arms for Recording";
 export const metaTitle = "Best Microphone Arms for Recording";
 export const metaDescription = "We compared microphone arm for recording models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm for recording";

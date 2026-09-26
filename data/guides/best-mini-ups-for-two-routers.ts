@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ups-for-two-routers";
-export const guideTitle = "6 Best Mini UPS for Two Routers in 2026";
+export const guideTitle = "Best Mini UPS for Two Routers";
 export const metaTitle = "Best Mini UPS for Two Routers 2026";
 export const metaDescription = "Two routers on one UPS needs real simultaneous outputs, not just a splitter cable. We compared units with genuine dual-output support.";
 export const mainKeyword = "mini ups for two routers";

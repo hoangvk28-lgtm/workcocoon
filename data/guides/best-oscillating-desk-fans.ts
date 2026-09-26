@@ -1,5 +1,5 @@
 export const guideSlug = "best-oscillating-desk-fans";
-export const guideTitle = "8 Best Oscillating Desk Fans in 2026";
+export const guideTitle = "Best Oscillating Desk Fans";
 export const metaTitle = "Best Oscillating Desk Fans";
 export const metaDescription = "We compared desk fan oscillating models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk fan oscillating";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-audio-interfaces-for-iphone";
-export const guideTitle = "8 Best Audio Interfaces for iPhone in 2026";
+export const guideTitle = "Best Audio Interfaces for iPhone";
 export const metaTitle = "Best Audio Interfaces for iPhone";
 export const metaDescription = "We compared iphone audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "iphone audio interface";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-cordless-handheld-vacuum-cleaners-for-desks";
-export const guideTitle = "8 Best Cordless Handheld Vacuum Cleaners for Desks in 2026";
+export const guideTitle = "Best Cordless Handheld Vacuum Cleaners for Desks";
 export const metaTitle = "Best Cordless Handheld Vacuum Cleaners for Desks";
 export const metaDescription = "We compared cordless handheld vacuum cleaner for desk models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "cordless handheld vacuum cleaner for desk";

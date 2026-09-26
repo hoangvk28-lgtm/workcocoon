@@ -1,5 +1,5 @@
 export const guideSlug = "best-outlet-surge-protectors";
-export const guideTitle = "5 Best Outlet Surge Protectors in 2026";
+export const guideTitle = "Best Outlet Surge Protectors";
 export const metaTitle = "Best Outlet Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 plug-in outlet surge protectors we evaluated, with the ambiguity competitors skip: 'outlet surge protector' could mean a plug-in strip or a professionally-installed in-wall receptacle, genuinely different products with different scopes of protection.";

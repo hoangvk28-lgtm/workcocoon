@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-compact-walking-pads-for-small-spaces";
 
 export const guideSlug = "best-compact-walking-pads-for-small-spaces";
-export const guideTitle = "8 Best Compact Walking Pads for Small Spaces (2026)";
+export const guideTitle = "Best Compact Walking Pads for Small Spaces (2026)";
 export const metaTitle = "Best Compact Walking Pads for Small Spaces 2026";
 export const metaDescription = "Best compact walking pads for small spaces in 2026. Foldable under-desk treadmills ranked by folded profile, weight, and apartment-friendly noise levels.";
 export const lastUpdated = "2026-07-11";

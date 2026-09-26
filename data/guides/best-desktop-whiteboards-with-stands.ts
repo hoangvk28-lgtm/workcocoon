@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-with-stands";
-export const guideTitle = "7 Best Desktop Whiteboards with Stands in 2026";
+export const guideTitle = "Best Desktop Whiteboards with Stands";
 export const metaTitle = "Best Desktop Whiteboards with Stands";
 export const metaDescription =
   "7 desktop whiteboards we evaluated that genuinely include a stand per their listings, compared on footprint, assembly, and stand construction.";

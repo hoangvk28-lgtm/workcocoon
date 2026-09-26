@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-poe-splitter";
-export const guideTitle = "4 Best USB-C PoE Splitters in 2026";
+export const guideTitle = "Best USB-C PoE Splitters";
 export const metaTitle = "Best USB-C PoE Splitters";
 export const metaDescription = "We compared USB-C PoE splitters by real amperage, since output ranges from 2.4A to 4A depending on the model and whether it needs an 802.3at PoE+ source.";
 export const mainKeyword = "best usb-c poe splitter";

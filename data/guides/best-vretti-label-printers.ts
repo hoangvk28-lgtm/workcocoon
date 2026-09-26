@@ -1,5 +1,5 @@
 export const guideSlug = "best-vretti-label-printers";
-export const guideTitle = "6 Best VRETTI Label Printers in 2026";
+export const guideTitle = "Best VRETTI Label Printers";
 export const metaTitle = "Best VRETTI Label Printers";
 export const metaDescription = "We compared vretti label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vretti label printers";

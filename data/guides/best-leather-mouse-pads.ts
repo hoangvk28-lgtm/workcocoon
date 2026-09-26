@@ -1,5 +1,5 @@
 export const guideSlug = "best-leather-mouse-pads";
-export const guideTitle = "8 Best Leather Mouse Pads in 2026";
+export const guideTitle = "Best Leather Mouse Pads";
 export const metaTitle = "Best Leather Mouse Pads";
 export const metaDescription = "We compared mouse pad leather desk mat models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mouse pad leather desk mat";

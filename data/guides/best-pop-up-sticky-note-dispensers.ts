@@ -1,5 +1,5 @@
 export const guideSlug = "best-pop-up-sticky-note-dispensers";
-export const guideTitle = "6 Best Pop-Up Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Pop-Up Sticky Note Dispensers";
 export const metaTitle = "Best Pop-Up Sticky Note Dispensers";
 export const metaDescription = "We compared pop-up sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "pop-up sticky note dispensers";

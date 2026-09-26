@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-label-printers";
-export const guideTitle = "6 Best Portable Label Printers in 2026";
+export const guideTitle = "Best Portable Label Printers";
 export const metaTitle = "Best Portable Label Printers";
 export const metaDescription = "We compared portable label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "portable label printers";

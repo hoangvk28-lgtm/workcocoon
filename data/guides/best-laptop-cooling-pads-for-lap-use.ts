@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-lap-use";
-export const guideTitle = "8 Best Laptop Cooling Pads for Lap Use in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Lap Use";
 export const metaTitle = "Best Laptop Cooling Pads for Lap Use (2026)";
 export const metaDescription =
   "8 laptop cooling pads for laps, couches, and chairs, checked for balance, warmth against the body, and vibration, not just bed-surface rigidity.";

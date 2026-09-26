@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-calendars-with-google-calendar-sync";
-export const guideTitle = "4 Best Digital Calendars with Calendar Sync in 2026";
+export const guideTitle = "Best Digital Calendars with Calendar Sync";
 export const metaTitle = "Best Digital Calendars w/ Calendar Sync";
 export const metaDescription =
   "4 digital calendars that genuinely sync personal calendar accounts, with notepad-style devices deliberately excluded since they cannot sync.";

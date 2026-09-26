@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-laptop-locks";
-export const guideTitle = "4 Best USB-C Laptop Locks in 2026";
+export const guideTitle = "Best USB-C Laptop Locks";
 export const metaTitle = "Best USB-C Laptop Locks (2026)";
 export const metaDescription =
   "4 USB-C laptop security products compared honestly, since only one of these is a physical anti-theft lock and three are data-only port blockers.";

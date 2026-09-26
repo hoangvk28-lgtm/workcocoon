@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-microphone-arms";
-export const guideTitle = "8 Best Heavy-Duty Microphone Arms in 2026";
+export const guideTitle = "Best Heavy-Duty Microphone Arms";
 export const metaTitle = "Best Heavy-Duty Microphone Arms";
 export const metaDescription = "We compared microphone arm heavy duty models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm heavy duty";

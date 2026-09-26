@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-laptop-screen-extenders";
-export const guideTitle = "5 Best Dual Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Dual Laptop Screen Extenders";
 export const metaTitle = "Best Dual Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 dual laptop screen extenders we evaluated, with the single-versus-two-panel clarification competitors skip: 'dual' can mean one extra screen making a dual-monitor setup, or a genuinely two-panel extender kit, and buyers should verify which before ordering.";

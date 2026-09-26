@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-with-cutters";
-export const guideTitle = "6 Best Label Printers With Cutters in 2026";
+export const guideTitle = "Best Label Printers With Cutters";
 export const metaTitle = "Best Label Printers With Cutters";
 export const metaDescription = "We compared label printers with cutters models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "label printers with cutters";

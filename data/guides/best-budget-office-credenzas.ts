@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-office-credenzas";
-export const guideTitle = "8 Best Budget Office Credenzas in 2026";
+export const guideTitle = "Best Budget Office Credenzas";
 export const metaTitle = "Best Budget Office Credenzas 2026";
 export const metaDescription = "We compared budget office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "budget office credenzas";

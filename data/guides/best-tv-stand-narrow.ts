@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-narrow";
-export const guideTitle = "7 Best Narrow TV Stands in 2026";
+export const guideTitle = "Best Narrow TV Stands";
 export const metaTitle = "Best Narrow TV Stands 2026, Shallow-Depth Picks";
 export const metaDescription =
   "Best narrow TV stands in 2026 for tight bedrooms and small apartments. Shallow-depth picks from 11\" to 14\" deep, plus a narrow-width option.";

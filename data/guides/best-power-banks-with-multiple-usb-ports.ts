@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-with-multiple-usb-ports";
-export const guideTitle = "7 Best Power Banks with Multiple USB Ports in 2026";
+export const guideTitle = "Best Power Banks with Multiple USB Ports";
 export const metaTitle = "Best Power Banks with Multiple USB Ports";
 export const metaDescription = "We compared power bank phone charger models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power bank phone charger";

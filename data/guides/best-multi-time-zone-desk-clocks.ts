@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-time-zone-desk-clocks";
-export const guideTitle = "2 Best Multi-Time Zone Desk Clocks in 2026";
+export const guideTitle = "Best Multi-Time Zone Desk Clocks";
 export const metaTitle = "Best Multi-Time Zone Desk Clocks";
 export const metaDescription =
   "2 desk clocks compared for tracking specific city time zones at a glance, a small but genuinely useful category for remote teams and international calls.";

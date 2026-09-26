@@ -1,5 +1,5 @@
 export const guideSlug = "best-seat-cushions-for-office-chair-under-25";
-export const guideTitle = "4 Best Seat Cushions for Office Chairs Under $25 in 2026";
+export const guideTitle = "Best Seat Cushions for Office Chairs Under $25";
 export const metaTitle = "Best Office Chair Seat Cushions Under $25";
 export const metaDescription = "We compared memory foam seat cushions under $25 by foam density and U-cutout depth, since these two specs determine actual tailbone relief more than price.";
 export const mainKeyword = "seat cushion for office chair under $25";

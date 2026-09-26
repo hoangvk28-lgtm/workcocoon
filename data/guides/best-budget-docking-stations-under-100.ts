@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-docking-stations-under-100";
-export const guideTitle = "7 Best Budget Docking Stations Under $100 in 2026";
+export const guideTitle = "Best Docking Stations Under $100";
 export const metaTitle = "Best Budget Docking Stations Under $100 in 2026";
 export const metaDescription =
   "7 best budget docking stations under $100 in 2026, from a $26.96 hub-style dock to a $97.99 self-powered business dock. Compare ports, power, and heat.";

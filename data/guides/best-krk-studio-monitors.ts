@@ -1,5 +1,5 @@
 export const guideSlug = "best-krk-studio-monitors";
-export const guideTitle = "8 Best KRK Studio Monitors in 2026";
+export const guideTitle = "Best KRK Studio Monitors";
 export const metaTitle = "Best KRK Studio Monitors";
 export const metaDescription = "We compared krk studio monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "krk studio monitor";

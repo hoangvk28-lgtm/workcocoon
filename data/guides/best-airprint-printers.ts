@@ -1,5 +1,5 @@
 export const guideSlug = "best-airprint-printers";
-export const guideTitle = "8 Best AirPrint Printers in 2026";
+export const guideTitle = "Best AirPrint Printers";
 export const metaTitle = "Best AirPrint Printers in 2026 (iPhone & iPad Picks)";
 export const metaDescription =
   "8 wireless printers we evaluated for iPhone and iPad printing, with an honest look at which listings confirm AirPrint and how to check compatibility before buying.";

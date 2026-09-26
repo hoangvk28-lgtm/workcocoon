@@ -1,5 +1,5 @@
 export const guideSlug = "best-luxton-kneeling-chairs";
-export const guideTitle = "8 Best Luxton Kneeling Chairs in 2026";
+export const guideTitle = "Best Luxton Kneeling Chairs";
 export const metaTitle = "Best Luxton Kneeling Chairs";
 export const metaDescription = "We compared luxton kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "luxton kneeling chair";

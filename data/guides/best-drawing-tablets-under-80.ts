@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-under-80";
-export const guideTitle = "8 Best Drawing Tablets Under $80 in 2026";
+export const guideTitle = "Best Drawing Tablets Under $80";
 export const metaTitle = "Best Drawing Tablets Under $80 in 2026";
 export const metaDescription = "We compared best drawing tablets under $80 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "drawing tablets under $80";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tape-dispensers-with-liner-removers";
-export const guideTitle = "6 Best Tape Dispensers with Liner Removers in 2026";
+export const guideTitle = "Best Tape Dispensers with Liner Removers";
 export const metaTitle = "Best Tape Dispensers with Liner Removers";
 export const metaDescription = "We compared tape dispensers with liner removers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "tape dispensers with liner removers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-digital-calendar-displays";
-export const guideTitle = "6 Best Large Digital Calendar Displays in 2026";
+export const guideTitle = "Best Large Digital Calendar Displays";
 export const metaTitle = "Best Large Digital Calendar Displays (2026)";
 export const metaDescription =
   "6 large touchscreen digital calendars compared on screen size, subscription requirements, and calendar sync, from a 10.1 inch budget pick to a 21.5 inch model.";

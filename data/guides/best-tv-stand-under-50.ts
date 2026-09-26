@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-under-50";
-export const guideTitle = "4 Best TV Stands Under $50 in 2026";
+export const guideTitle = "Best TV Stands Under $50";
 export const metaTitle = "Best TV Stands Under $50";
 export const metaDescription = "We compared TV stands under $50 by real weight capacity, TV size compatibility, and build material, since budget stands vary widely in sturdiness.";
 export const mainKeyword = "best tv stand under $50";

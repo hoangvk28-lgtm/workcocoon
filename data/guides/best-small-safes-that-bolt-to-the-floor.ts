@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-that-bolt-to-the-floor";
-export const guideTitle = "8 Best Small Safes That Bolt to the Floor in 2026";
+export const guideTitle = "Best Small Safes That Bolt to the Floor";
 export const metaTitle = "Best Safes That Bolt to the Floor (2026)";
 export const metaDescription =
   "8 safes compared on confirmed factory floor bolt-down support, separating true floor-anchorable picks from wall or cabinet-only mounting hardware.";

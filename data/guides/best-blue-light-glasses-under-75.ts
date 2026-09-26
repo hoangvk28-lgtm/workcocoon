@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-glasses-under-75";
-export const guideTitle = "6 Best Blue Light Glasses Under $75 in 2026";
+export const guideTitle = "Best Blue Light Glasses Under $75";
 export const metaTitle = "Best Blue Light Glasses Under $75";
 export const metaDescription = "We compared blue light glasses under $75 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "blue light glasses under $75";

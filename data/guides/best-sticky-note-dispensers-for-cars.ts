@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-dispensers-for-cars";
-export const guideTitle = "6 Best Sticky Note Dispensers for Cars in 2026";
+export const guideTitle = "Best Sticky Note Dispensers for Cars";
 export const metaTitle = "Best Sticky Note Dispensers for Cars";
 export const metaDescription = "We compared sticky note dispensers for cars models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "sticky note dispensers for cars";

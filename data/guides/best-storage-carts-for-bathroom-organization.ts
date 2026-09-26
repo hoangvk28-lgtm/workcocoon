@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-for-bathroom-organization";
-export const guideTitle = "8 Best Storage Carts for Bathroom Organization in 2026";
+export const guideTitle = "Best Storage Carts for Bathroom Organization";
 export const metaTitle = "Best Storage Carts for Bathroom Organization";
 export const metaDescription = "We compared storage cart bathroom organizer models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "storage cart bathroom organizer";

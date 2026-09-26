@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-under-20";
-export const guideTitle = "8 Best Mouse Pads Under $20 in 2026";
+export const guideTitle = "Best Mouse Pads Under $20";
 export const metaTitle = "Best Mouse Pads Under $20";
 export const metaDescription = "We compared mouse pad under 20 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad under 20";

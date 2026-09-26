@@ -1,5 +1,5 @@
 export const guideSlug = "best-zebra-label-printers";
-export const guideTitle = "6 Best Zebra Label Printers in 2026";
+export const guideTitle = "Best Zebra Label Printers";
 export const metaTitle = "Best Zebra Label Printers";
 export const metaDescription = "We compared zebra label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "zebra label printers";

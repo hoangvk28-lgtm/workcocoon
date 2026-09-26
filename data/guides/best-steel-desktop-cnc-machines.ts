@@ -1,5 +1,5 @@
 export const guideSlug = "best-steel-desktop-cnc-machines";
-export const guideTitle = "5 Best Steel Desktop CNC Machines in 2026";
+export const guideTitle = "Best Steel Desktop CNC Machines";
 export const metaTitle = "Best Steel Desktop CNC Machines 2026";
 export const metaDescription = "We compared steel desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "steel desktop cnc machines";

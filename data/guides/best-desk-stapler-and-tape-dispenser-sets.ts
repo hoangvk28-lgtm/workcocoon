@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-stapler-and-tape-dispenser-sets";
-export const guideTitle = "6 Best Desk Stapler and Tape Dispenser Sets in 2026";
+export const guideTitle = "Best Desk Stapler and Tape Dispenser Sets";
 export const metaTitle = "Best Desk Stapler and Tape Dispenser Sets";
 export const metaDescription = "We compared desk stapler and tape dispenser sets models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "desk stapler and tape dispenser sets";

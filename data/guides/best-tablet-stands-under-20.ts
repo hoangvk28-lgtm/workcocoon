@@ -1,5 +1,5 @@
 export const guideSlug = "best-tablet-stands-under-20";
-export const guideTitle = "4 Best Tablet Stands Under $20 in 2026";
+export const guideTitle = "Best Tablet Stands Under $20";
 export const metaTitle = "Best Tablet Stands Under $20";
 export const metaDescription = "We compared tablet stands under $20 by height range, dual-device support, and load capacity, since floor-standing designs with tall reach appear at this tier.";
 export const mainKeyword = "best tablet stands under $20";

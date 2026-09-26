@@ -1,5 +1,5 @@
 export const guideSlug = "best-kensington-laptop-locks";
-export const guideTitle = "8 Best Kensington Laptop Locks in 2026";
+export const guideTitle = "Best Kensington Laptop Locks";
 export const metaTitle = "Best Kensington Laptop Locks (2026)";
 export const metaDescription =
   "8 Kensington laptop locks grouped by actual slot type, since Standard, Nano, and Wedge lock heads are not interchangeable across the lineup.";

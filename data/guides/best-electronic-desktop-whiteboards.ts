@@ -1,5 +1,5 @@
 export const guideSlug = "best-electronic-desktop-whiteboards";
-export const guideTitle = "5 Best Electronic Desktop Whiteboards in 2026";
+export const guideTitle = "Best Electronic Desktop Whiteboards";
 export const metaTitle = "Best Electronic Desktop Whiteboards (2026)";
 export const metaDescription =
   "Honest finding: this search mixes ordinary dry-erase glass whiteboards with genuinely electronic LCD writing tablets. We separated the two categories rather than treating them as equivalent.";

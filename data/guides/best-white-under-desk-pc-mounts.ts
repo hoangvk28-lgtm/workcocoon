@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-under-desk-pc-mounts";
-export const guideTitle = "5 Best White Under-Desk PC Mounts in 2026";
+export const guideTitle = "Best White Under-Desk PC Mounts";
 export const metaTitle = "Best White Under-Desk PC Mounts, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 white under-desk PC mounts we evaluated, with the visibility-and-durability angle competitors skip: white is a genuinely less discreet choice for a typically hidden accessory, and white finishes show installation wear and dust more visibly than black.";

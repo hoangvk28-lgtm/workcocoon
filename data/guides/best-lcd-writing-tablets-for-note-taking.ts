@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-for-note-taking";
-export const guideTitle = "6 Best LCD Writing Tablets for Note-Taking in 2026";
+export const guideTitle = "Best LCD Writing Tablets for Note-Taking";
 export const metaTitle = "Best LCD Writing Tablets for Notes (2026)";
 export const metaDescription =
   "6 LCD writing tablets we evaluated for note-taking, with an honest callout that only one model actually saves notes, the rest simply erase permanently.";

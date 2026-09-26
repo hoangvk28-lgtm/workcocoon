@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-shelves-for-entryway";
-export const guideTitle = "7 Best Floating Shelves for Entryway in 2026";
+export const guideTitle = "Best Floating Shelves for Entryway";
 export const metaTitle = "Best Floating Shelves for Entryway";
 export const metaDescription = "We compared floating shelf entryway models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf entryway";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-charging-stations-for-multiple-devices-desk-under-50";
-export const guideTitle = "4 Best Multi-Device Charging Stations Under $50 in 2026";
+export const guideTitle = "Best Multi-Device Charging Stations Under $50";
 export const metaTitle = "Best Multi-Device Charging Stations Under $50";
 export const metaDescription = "We compared charging stations under $50 by included cables and port count, since these bundled accessories affect real value more than the base unit price.";
 export const mainKeyword = "charging station for multiple devices desk under $50";

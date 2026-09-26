@@ -1,5 +1,5 @@
 export const guideSlug = "best-zowie-gaming-monitors";
-export const guideTitle = "6 Best ZOWIE Gaming Monitors in 2026";
+export const guideTitle = "Best ZOWIE Gaming Monitors";
 export const metaTitle = "Best ZOWIE Gaming Monitors";
 export const metaDescription = "We compared zowie gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "zowie gaming monitors";

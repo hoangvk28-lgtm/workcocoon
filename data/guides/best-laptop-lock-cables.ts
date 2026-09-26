@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-lock-cables";
-export const guideTitle = "8 Best Laptop Lock Cables in 2026";
+export const guideTitle = "Best Laptop Lock Cables";
 export const metaTitle = "Best Laptop Lock Cables (2026)";
 export const metaDescription =
   "8 laptop lock cables compared by length, construction, and portability, the specific factors that separate one cable lock from another.";

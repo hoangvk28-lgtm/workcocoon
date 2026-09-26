@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-under-300";
-export const guideTitle = "8 Best Drawing Tablets Under $300 in 2026";
+export const guideTitle = "Best Drawing Tablets Under $300";
 export const metaTitle = "Best Drawing Tablets Under $300 2026";
 export const metaDescription = "We compared drawing tablets under $300 by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets under $300";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-organizers";
-export const guideTitle = "6 Best Business Card Organizers in 2026";
+export const guideTitle = "Best Business Card Organizers";
 export const metaTitle = "Best Business Card Organizers";
 export const metaDescription = "We compared business card organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "business card organizers";

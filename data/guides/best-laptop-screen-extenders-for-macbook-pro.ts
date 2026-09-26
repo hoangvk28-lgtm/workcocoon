@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-for-macbook-pro";
-export const guideTitle = "5 Best Laptop Screen Extenders for MacBook Pro in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for MacBook Pro";
 export const metaTitle = "Best Laptop Screen Extenders for MacBook Pro, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders we evaluated for MacBook Pro, with the Thunderbolt-versus-standard-USB-C check competitors skip: MacBook Pro's Thunderbolt ports support extenders fine, but verify the extender itself doesn't require a specific chipset MacBook Pro lacks.";

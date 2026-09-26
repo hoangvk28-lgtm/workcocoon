@@ -1,5 +1,5 @@
 export const guideSlug = "best-wooden-paper-trays";
-export const guideTitle = "6 Best Wooden Paper Trays in 2026";
+export const guideTitle = "Best Wooden Paper Trays";
 export const metaTitle = "Best Wooden Paper Trays";
 export const metaDescription = "We compared wooden paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "wooden paper trays";

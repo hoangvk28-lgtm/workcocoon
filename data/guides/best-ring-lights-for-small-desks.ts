@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-for-small-desks";
-export const guideTitle = "8 Best Ring Lights for Small Desks in 2026";
+export const guideTitle = "Best Ring Lights for Small Desks";
 export const metaTitle = "Best Ring Lights for Small Desks";
 export const metaDescription = "We compared ring light desk stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ring light desk stand";

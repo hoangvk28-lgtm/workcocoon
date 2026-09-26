@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-for-android-phones";
-export const guideTitle = "7 Best Power Banks for Android Phones in 2026";
+export const guideTitle = "Best Power Banks for Android Phones";
 export const metaTitle = "Best Power Banks for Android Phones";
 export const metaDescription = "We compared power bank for android models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power bank for android";

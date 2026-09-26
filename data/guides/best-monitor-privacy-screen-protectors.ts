@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-privacy-screen-protectors";
-export const guideTitle = "8 Best Monitor Privacy Screen Protectors in 2026";
+export const guideTitle = "Best Monitor Privacy Screen Protectors";
 export const metaTitle = "Best Monitor Privacy Screen Protectors (2026)";
 export const metaDescription =
   "8 privacy screen protectors that actually reduce side-angle visibility, distinguished from plain glare or scratch protectors sold under the same search term.";

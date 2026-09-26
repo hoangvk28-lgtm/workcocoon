@@ -1,5 +1,5 @@
 export const guideSlug = "best-27-inch-4k-monitors-for-gaming";
-export const guideTitle = "6 Best 27-Inch 4K Monitors for Gaming in 2026";
+export const guideTitle = "Best 27-Inch 4K Monitors for Gaming";
 export const metaTitle = "Best 27-Inch 4K Monitors for Gaming";
 export const metaDescription = "We compared 27-inch 4k monitors for gaming models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "27-inch 4k monitors for gaming";

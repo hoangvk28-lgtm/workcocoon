@@ -1,5 +1,5 @@
 export const guideSlug = "best-lap-desks-under-30";
-export const guideTitle = "4 Best Lap Desks Under $30 in 2026";
+export const guideTitle = "Best Lap Desks Under $30";
 export const metaTitle = "Best Lap Desks Under $30";
 export const metaDescription = "We compared lap desks under $30 by cup holder design, device slots, and wrist support, since genuine multi-feature designs appear once you cross $22.";
 export const mainKeyword = "best lap desks under $30";

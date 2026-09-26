@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-for-ebay-shipping";
-export const guideTitle = "6 Best Label Printers for eBay Shipping in 2026";
+export const guideTitle = "Best Label Printers for eBay Shipping";
 export const metaTitle = "Best Label Printers for eBay Shipping";
 export const metaDescription = "We compared label printers for ebay shipping models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "label printers for ebay shipping";

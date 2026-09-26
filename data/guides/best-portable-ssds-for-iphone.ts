@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-iphone";
-export const guideTitle = "4 Best Portable SSDs for iPhone in 2026";
+export const guideTitle = "Best Portable SSDs for iPhone";
 export const metaTitle = "Best Portable SSDs for iPhone in 2026";
 export const metaDescription = "4 portable SSDs we evaluated for iPhone use, including ProRes recording speed requirements and older Lightning-port compatibility notes.";
 export const mainKeyword = "best portable ssd for iphone";

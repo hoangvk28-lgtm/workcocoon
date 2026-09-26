@@ -1,5 +1,5 @@
 export const guideSlug = "best-acrylic-sticky-note-holders";
-export const guideTitle = "6 Best Acrylic Sticky Note Holders in 2026";
+export const guideTitle = "Best Acrylic Sticky Note Holders";
 export const metaTitle = "Best Acrylic Sticky Note Holders";
 export const metaDescription = "We compared acrylic sticky note holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "acrylic sticky note holders";

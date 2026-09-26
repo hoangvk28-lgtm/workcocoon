@@ -1,5 +1,5 @@
 export const guideSlug = "best-quartz-desk-clocks";
-export const guideTitle = "5 Best Quartz Desk Clocks in 2026";
+export const guideTitle = "Best Quartz Desk Clocks";
 export const metaTitle = "Best Quartz Desk Clocks (2026)";
 export const metaDescription =
   "5 analog desk clocks with genuine quartz movements, verified against listing descriptions rather than assuming every clock in this search uses quartz.";

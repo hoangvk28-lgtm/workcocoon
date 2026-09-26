@@ -1,5 +1,5 @@
 export const guideSlug = "best-drafting-chairs-under-200";
-export const guideTitle = "7 Best Drafting Chairs Under $200 in 2026";
+export const guideTitle = "Best Drafting Chairs Under $200";
 export const metaTitle = "Best Drafting Chairs Under $200 in 2026";
 export const metaDescription = "We compared best drafting chairs under $200 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "drafting chairs under $200";

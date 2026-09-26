@@ -1,5 +1,5 @@
 export const guideSlug = "best-single-outlet-surge-protectors";
-export const guideTitle = "5 Best Single-Outlet Surge Protectors in 2026";
+export const guideTitle = "Best Single-Outlet Surge Protectors";
 export const metaTitle = "Best Single-Outlet Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 single-outlet surge protectors we evaluated, with the value framing competitors skip: since only one device shares the protection budget, this category arguably offers the most protection per device for its joule rating.";

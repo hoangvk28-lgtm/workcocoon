@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-sticky-note-dispensers";
-export const guideTitle = "6 Best Black Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Black Sticky Note Dispensers";
 export const metaTitle = "Best Black Sticky Note Dispensers";
 export const metaDescription = "We compared black sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "black sticky note dispensers";

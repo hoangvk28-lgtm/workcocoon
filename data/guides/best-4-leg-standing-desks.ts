@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-leg-standing-desks";
-export const guideTitle = "8 Best Standing Desk Frames for Small Home Offices in 2026";
+export const guideTitle = "Best Standing Desk Frames for Small Home Offices";
 export const metaTitle = "Best Standing Desk Frames for Small Home Offices (2026)";
 export const metaDescription =
   "8 standing desk frames we evaluated for small home offices, plus an honest guide to telling a true 4-leg frame from a standard 2-leg design before you buy.";

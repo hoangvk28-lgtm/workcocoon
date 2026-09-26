@@ -1,5 +1,5 @@
 export const guideSlug = "best-ceramic-coffee-warmers";
-export const guideTitle = "6 Best Ceramic Coffee Warmers in 2026";
+export const guideTitle = "Best Ceramic Coffee Warmers";
 export const metaTitle = "Best Ceramic Coffee Warmers";
 export const metaDescription = "We compared ceramic coffee warmer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ceramic coffee warmer";

@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-vertical-laptop-stands-for-desk-setup";
 
 export const guideSlug = "best-vertical-laptop-stands-for-desk-setup";
-export const guideTitle = "8 Best Vertical Laptop Stands for Desk Setup (2026)";
+export const guideTitle = "Best Vertical Laptop Stands for Desk Setup (2026)";
 export const metaTitle = "Best Vertical Laptop Stands for Desk Setup 2026";
 export const metaDescription =
   "Best vertical laptop stands for desk setup in 2026. Aluminum aesthetic stands, cable-management cutouts, and premium walnut options ranked by buyer rating.";

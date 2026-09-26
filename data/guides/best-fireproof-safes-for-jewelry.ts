@@ -1,5 +1,5 @@
 export const guideSlug = "best-fireproof-safes-for-jewelry";
-export const guideTitle = "8 Best Fireproof Safes for Jewelry in 2026";
+export const guideTitle = "Best Fireproof Safes for Jewelry";
 export const metaTitle = "Best Fireproof Safes for Jewelry 2026";
 export const metaDescription = "We compared fireproof safes for jewelry by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "fireproof safes for jewelry";

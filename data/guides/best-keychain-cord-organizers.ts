@@ -1,5 +1,5 @@
 export const guideSlug = "best-keychain-cord-organizers";
-export const guideTitle = "4 Best Keychain Cord Organizers in 2026";
+export const guideTitle = "Best Keychain Cord Organizers";
 export const metaTitle = "Best Keychain Cord Organizers";
 export const metaDescription = "We compared keychain cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "keychain cord organizers";

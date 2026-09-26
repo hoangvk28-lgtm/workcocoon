@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-for-flight-sims";
-export const guideTitle = "6 Best VR Headsets for Flight Sims in 2026";
+export const guideTitle = "Best VR Headsets for Flight Sims";
 export const metaTitle = "Best VR Headsets for Flight Sims";
 export const metaDescription = "We compared vr headsets for flight sims models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "vr headsets for flight sims";

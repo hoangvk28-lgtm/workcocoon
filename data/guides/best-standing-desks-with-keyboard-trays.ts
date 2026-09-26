@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desks-with-keyboard-trays";
-export const guideTitle = "8 Best Standing Desks with Keyboard Trays in 2026";
+export const guideTitle = "Best Standing Desks with Keyboard Trays";
 export const metaTitle = "Best Standing Desks with Keyboard Trays for Ergonomics (2026)";
 export const metaDescription =
   "8 standing desks and converters with keyboard trays, evaluated for negative tilt angle, usable depth loss, and which listings actually confirm a tray at all.";

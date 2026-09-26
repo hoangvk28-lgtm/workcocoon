@@ -1,5 +1,5 @@
 export const guideSlug = "best-projector-screens-under-75";
-export const guideTitle = "4 Best Projector Screens Under $75 in 2026";
+export const guideTitle = "Best Projector Screens Under $75";
 export const metaTitle = "Best Projector Screens Under $75";
 export const metaDescription = "We compared projector screens under $75 by material type, gain rating, and stand construction, since fiberglass and aluminum frames appear at this tier.";
 export const mainKeyword = "best projector screens under $75";

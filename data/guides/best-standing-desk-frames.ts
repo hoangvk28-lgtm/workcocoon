@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-frames";
-export const guideTitle = "8 Best Standing Desk Frames for Desktop Compatibility in 2026";
+export const guideTitle = "Best Standing Desk Frames for Desktop Compatibility";
 export const metaTitle = "Best Standing Desk Frames for Any Desktop Size (2026)";
 export const metaDescription =
   "8 standing desk frames we evaluated for desktop compatibility, minimum top thickness, and leveling range, including one converter that is not a frame at all.";

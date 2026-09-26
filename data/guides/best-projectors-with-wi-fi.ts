@@ -1,5 +1,5 @@
 export const guideSlug = "best-projectors-with-wi-fi";
-export const guideTitle = "8 Best Projectors With Wi-Fi in 2026";
+export const guideTitle = "Best Projectors With Wi-Fi";
 export const metaTitle = "Best Projectors With Wi-Fi";
 export const metaDescription = "We compared projector with wifi and bluetooth models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "projector with wifi and bluetooth";

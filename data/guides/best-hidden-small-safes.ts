@@ -1,5 +1,5 @@
 export const guideSlug = "best-hidden-small-safes";
-export const guideTitle = "8 Best Hidden Small Safes in 2026";
+export const guideTitle = "Best Hidden Small Safes";
 export const metaTitle = "Best Hidden Small Safes (2026)";
 export const metaDescription =
   "8 safes compared on genuine concealment design, peg-mounting and discreet finishes, versus general safes simply placed out of sight without hidden features.";

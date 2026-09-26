@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-grey";
-export const guideTitle = "8 Best Grey TV Stands in 2026";
+export const guideTitle = "Best Grey TV Stands";
 export const metaTitle = "Best Grey TV Stands in 2026 (Barn Door, LED & Farmhouse)";
 export const metaDescription =
   "8 best grey TV stands in 2026, from budget open-shelf consoles to barn door and LED cabinets. Compare storage, weight capacity, and TV size fit.";

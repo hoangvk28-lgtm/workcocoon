@@ -1,5 +1,5 @@
 export const guideSlug = "best-haier-portable-air-conditioners";
-export const guideTitle = "8 Best Haier Portable Air Conditioners in 2026";
+export const guideTitle = "Best Haier Portable Air Conditioners";
 export const metaTitle = "Best Haier Portable Air Conditioners";
 export const metaDescription = "We compared haier portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "haier portable air conditioner";

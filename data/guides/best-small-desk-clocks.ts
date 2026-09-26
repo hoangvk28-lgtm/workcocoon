@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-desk-clocks";
-export const guideTitle = "4 Best Small Desk Clocks in 2026";
+export const guideTitle = "Best Small Desk Clocks";
 export const metaTitle = "Best Small Desk Clocks in 2026";
 export const metaDescription =
   "4 small desk clocks we researched for tight desk corners, comparing face size, material, and readability so you pick the right small clock for you.";

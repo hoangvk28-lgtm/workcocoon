@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-office-chair-for-short-people";
 
 export const guideSlug = "best-office-chair-for-short-people";
-export const guideTitle = "8 Best Office Chairs for Short People in 2026";
+export const guideTitle = "Best Office Chairs for Short People";
 export const metaTitle = "Best Office Chairs for Short People 2026 - Low Seat Heights";
 export const metaDescription =
   "Best office chairs for short people in 2026. We compare low seat heights, shorter seat depths, and adjustable lumbar for users 5'4\" and under.";

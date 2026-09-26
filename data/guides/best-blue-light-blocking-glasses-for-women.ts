@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-blocking-glasses-for-women";
-export const guideTitle = "6 Best Blue Light Blocking Glasses for Women in 2026";
+export const guideTitle = "Best Blue Light Blocking Glasses for Women";
 export const metaTitle = "Best Blue Light Blocking Glasses for Women";
 export const metaDescription = "We compared blue light blocking glasses for women models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "blue light blocking glasses for women";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-for-office";
-export const guideTitle = "8 Best Desk Fans for Office in 2026";
+export const guideTitle = "Best Desk Fans for Office";
 export const metaTitle = "Best Desk Fans for Office";
 export const metaDescription = "We compared desk fan for office models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan for office";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-boom-arms";
-export const guideTitle = "8 Best Microphone Boom Arms in 2026";
+export const guideTitle = "Best Microphone Boom Arms";
 export const metaTitle = "Best Microphone Boom Arms";
 export const metaDescription = "We compared microphone boom arm stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone boom arm stand";

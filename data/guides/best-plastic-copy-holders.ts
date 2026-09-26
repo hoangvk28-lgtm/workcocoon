@@ -1,5 +1,5 @@
 export const guideSlug = "best-plastic-copy-holders";
-export const guideTitle = "6 Best Plastic Copy Holders in 2026";
+export const guideTitle = "Best Plastic Copy Holders";
 export const metaTitle = "Best Plastic Copy Holders";
 export const metaDescription = "We compared plastic copy holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "plastic copy holders";

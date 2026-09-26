@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pads-for-home-office";
-export const guideTitle = "8 Best Desk Pads for Home Office in 2026";
+export const guideTitle = "Best Desk Pads for Home Office";
 export const metaTitle = "Best Desk Pads for Home Office";
 export const metaDescription = "We compared desk pad for home office models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk pad for home office";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-aesthetic-desk-pegboards";
-export const guideTitle = "5 Best Aesthetic Desk Pegboards in 2026";
+export const guideTitle = "Best Aesthetic Desk Pegboards";
 export const metaTitle = "Best Aesthetic Desk Pegboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 aesthetic desk pegboards we evaluated, with the hole-density check competitors skip: aesthetic-focused designs sometimes sacrifice hook density for a cleaner look, worth verifying this doesn't reduce practical accessory-hanging capacity.";

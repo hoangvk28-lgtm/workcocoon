@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-for-salons";
-export const guideTitle = "8 Best Storage Carts for Salons in 2026";
+export const guideTitle = "Best Storage Carts for Salons";
 export const metaTitle = "Best Storage Carts for Salons";
 export const metaDescription = "We compared storage cart salon models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "storage cart salon";

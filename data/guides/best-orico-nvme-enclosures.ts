@@ -1,5 +1,5 @@
 export const guideSlug = "best-orico-nvme-enclosures";
-export const guideTitle = "7 Best ORICO NVMe Enclosures in 2026";
+export const guideTitle = "Best ORICO NVMe Enclosures";
 export const metaTitle = "Best ORICO NVMe Enclosures in 2026";
 export const metaDescription = "ORICO's current lineup spans single-bay 10Gbps models to dual-bay independent-drive enclosures. We mapped it by protocol and bay count.";
 export const mainKeyword = "orico nvme enclosures";

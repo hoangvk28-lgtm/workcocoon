@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-desk-fans";
-export const guideTitle = "8 Best Large Desk Fans in 2026";
+export const guideTitle = "Best Large Desk Fans";
 export const metaTitle = "Best Large Desk Fans";
 export const metaDescription = "We compared desk fan large models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan large";

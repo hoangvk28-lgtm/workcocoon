@@ -1,5 +1,5 @@
 export const guideSlug = "best-rugged-portable-ssds";
-export const guideTitle = "4 Best Rugged Portable SSDs in 2026";
+export const guideTitle = "Best Rugged Portable SSDs";
 export const metaTitle = "Best Rugged Portable SSDs in 2026";
 export const metaDescription = "4 rugged portable SSDs we evaluated, decoding the actual IP rating differences between IP55 and IP65 rather than treating them as one claim.";
 export const mainKeyword = "best rugged portable ssd";

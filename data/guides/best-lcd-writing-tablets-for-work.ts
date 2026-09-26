@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-for-work";
-export const guideTitle = "7 Best LCD Writing Tablets for Work in 2026";
+export const guideTitle = "Best LCD Writing Tablets for Work";
 export const metaTitle = "Best LCD Writing Tablets for Work (2026)";
 export const metaDescription =
   "7 LCD writing tablets for the office we evaluated, from memo boards with lock functions to a Bluetooth sync model for buyers who need to save notes.";

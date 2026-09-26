@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-supply-organizer-carts";
-export const guideTitle = "8 Best Office Supply Organizer Carts in 2026";
+export const guideTitle = "Best Office Supply Organizer Carts";
 export const metaTitle = "Best Office Supply Organizer Carts (2026)";
 export const metaDescription =
   "8 organizer carts compared on real drawer or bin organization versus generic open shelving, from a $22.99 3-tier cart to a $59.99 8-drawer unit.";

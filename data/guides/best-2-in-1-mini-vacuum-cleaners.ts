@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-in-1-mini-vacuum-cleaners";
-export const guideTitle = "8 Best 2-in-1 Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best 2-in-1 Mini Vacuum Cleaners";
 export const metaTitle = "Best 2-in-1 Mini Vacuum Cleaners";
 export const metaDescription = "We compared 2 in 1 mini vacuum cleaner models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "2 in 1 mini vacuum cleaner";

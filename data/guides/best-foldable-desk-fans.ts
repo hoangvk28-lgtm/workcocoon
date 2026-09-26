@@ -1,5 +1,5 @@
 export const guideSlug = "best-foldable-desk-fans";
-export const guideTitle = "8 Best Foldable Desk Fans in 2026";
+export const guideTitle = "Best Foldable Desk Fans";
 export const metaTitle = "Best Foldable Desk Fans";
 export const metaDescription = "We compared desk fan foldable travel models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk fan foldable travel";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-heat-tape-dispensers";
-export const guideTitle = "5 Best Heat Tape Dispensers in 2026";
+export const guideTitle = "Best Heat Tape Dispensers";
 export const metaTitle = "Best Heat Tape Dispensers";
 export const metaDescription = "We compared heat tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "heat tape dispensers";

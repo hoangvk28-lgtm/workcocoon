@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-with-displayport";
-export const guideTitle = "4 Best USB4 Docks with DisplayPort in 2026";
+export const guideTitle = "Best USB4 Docks with DisplayPort";
 export const metaTitle = "Best USB4 Docks with DisplayPort";
 export const metaDescription = "We compared USB4 docks with DisplayPort by native uncompressed video versus DisplayLink, since gaming and protected content playback fail on DisplayLink docks.";
 export const mainKeyword = "best usb4 dock with displayport";

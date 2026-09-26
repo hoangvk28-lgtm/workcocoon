@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-for-tvs";
-export const guideTitle = "5 Best Mini PC Mounts for TVs in 2026";
+export const guideTitle = "Best Mini PC Mounts for TVs";
 export const metaTitle = "Best Mini PC Mounts for TVs (2026)";
 export const metaDescription =
   "5 VESA-compatible mounts suited to attaching a mini PC behind a wall-mounted TV, sharing VESA holes or mounting to a nearby pole/surface.";

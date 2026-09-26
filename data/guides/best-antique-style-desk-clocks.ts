@@ -1,5 +1,5 @@
 export const guideSlug = "best-antique-style-desk-clocks";
-export const guideTitle = "3 Best Antique-Style Desk Clocks in 2026";
+export const guideTitle = "Best Antique-Style Desk Clocks";
 export const metaTitle = "Best Antique-Style Desk Clocks";
 export const metaDescription =
   "An honest look at antique-style desk clocks. Few genuinely antique-look pieces turned up in our research, here are the closest verified picks and why.";

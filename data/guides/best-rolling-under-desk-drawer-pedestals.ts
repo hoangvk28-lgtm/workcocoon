@@ -1,5 +1,5 @@
 export const guideSlug = "best-rolling-under-desk-drawer-pedestals";
-export const guideTitle = "8 Best Rolling Under-Desk Drawer Pedestals in 2026";
+export const guideTitle = "Best Rolling Under-Desk Drawer Pedestals";
 export const metaTitle = "Best Rolling Under-Desk Drawer Pedestals";
 export const metaDescription = "We compared under desk drawer cabinet models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under desk drawer cabinet";

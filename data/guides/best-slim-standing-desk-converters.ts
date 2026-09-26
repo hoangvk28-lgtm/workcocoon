@@ -1,5 +1,5 @@
 export const guideSlug = "best-slim-standing-desk-converters";
-export const guideTitle = "5 Best Slim Standing Desk Converters in 2026";
+export const guideTitle = "Best Slim Standing Desk Converters";
 export const metaTitle = "Best Slim Standing Desk Converters (2026)";
 export const metaDescription =
   "5 standing desk converters defined by low folded height specifically, distinguished from our compact (width) and low-profile (base height) guides.";

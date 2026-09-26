@@ -1,5 +1,5 @@
 export const guideSlug = "best-prescription-blue-light-glasses";
-export const guideTitle = "6 Best Prescription Blue Light Glasses in 2026";
+export const guideTitle = "Best Prescription Blue Light Glasses";
 export const metaTitle = "Best Prescription Blue Light Glasses";
 export const metaDescription = "We compared prescription blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "prescription blue light glasses";

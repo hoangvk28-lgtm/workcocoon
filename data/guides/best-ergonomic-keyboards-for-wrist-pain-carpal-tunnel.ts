@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-wrist-pain-carpal-tunnel";
-export const guideTitle = "8 Best Ergonomic Keyboards for Wrist Pain and Carpal Tunnel in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Wrist Pain and Carpal Tunnel";
 export const metaTitle = "Best Ergonomic Keyboards for Wrist Pain and Carpal Tunnel in 2026";
 export const metaDescription =
   "8 ergonomic keyboards evaluated for wrist pain and carpal tunnel prevention, from split layouts to negative-tilt designs. Not a substitute for medical care.";

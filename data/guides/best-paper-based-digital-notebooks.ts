@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-based-digital-notebooks";
-export const guideTitle = "5 Best Paper-Based Digital Notebooks in 2026";
+export const guideTitle = "Best Paper-Based Digital Notebooks";
 export const metaTitle = "Best Paper-Based Digital Notebooks (2026)";
 export const metaDescription =
   "5 real-paper capture notebooks from the Rocketbook lineup, kept separate from E Ink tablets, since these use actual paper and a scan-to-app workflow rather than a digital screen.";

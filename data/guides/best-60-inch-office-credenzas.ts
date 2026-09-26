@@ -1,5 +1,5 @@
 export const guideSlug = "best-60-inch-office-credenzas";
-export const guideTitle = "8 Best 60-Inch Office Credenzas in 2026";
+export const guideTitle = "Best 60-Inch Office Credenzas";
 export const metaTitle = "Best 60-Inch Office Credenzas 2026";
 export const metaDescription = "We compared 60-inch office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "60-inch office credenzas";

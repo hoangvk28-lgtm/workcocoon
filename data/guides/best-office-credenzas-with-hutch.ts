@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-credenzas-with-hutch";
-export const guideTitle = "8 Best Office Credenzas With Hutch in 2026";
+export const guideTitle = "Best Office Credenzas With Hutch";
 export const metaTitle = "Best Office Credenzas With Hutch 2026";
 export const metaDescription = "We compared office credenzas with hutch by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "office credenzas with hutch";

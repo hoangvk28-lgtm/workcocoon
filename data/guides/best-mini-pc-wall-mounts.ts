@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-wall-mounts";
-export const guideTitle = "8 Best Mini PC Wall Mounts in 2026";
+export const guideTitle = "Best Mini PC Wall Mounts";
 export const metaTitle = "Best Mini PC Wall Mounts (2026)";
 export const metaDescription =
   "8 Mini PC wall mounts we compared for anchor type, cable routing, and mounted airflow, with honest notes on drywall vs stud anchoring.";

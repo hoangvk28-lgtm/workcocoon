@@ -1,5 +1,5 @@
 export const guideSlug = "best-flexible-gooseneck-phone-arms";
-export const guideTitle = "5 Best Flexible Gooseneck Phone Arms in 2026";
+export const guideTitle = "Best Flexible Gooseneck Phone Arms";
 export const metaTitle = "Best Flexible Gooseneck Phone Arms (2026)";
 export const metaDescription =
   "5 gooseneck phone arms researched for hold-position reliability under weight, material gauge, and long-term repositioning durability.";

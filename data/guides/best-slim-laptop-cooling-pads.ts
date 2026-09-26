@@ -1,5 +1,5 @@
 export const guideSlug = "best-slim-laptop-cooling-pads";
-export const guideTitle = "5 Best Slim Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Slim Laptop Cooling Pads";
 export const metaTitle = "Best Slim Laptop Cooling Pads (2026)";
 export const metaDescription =
   "5 laptop cooling pads we verified as genuinely slim, checking real thickness claims and what cooling capacity gets traded away for a thinner profile.";

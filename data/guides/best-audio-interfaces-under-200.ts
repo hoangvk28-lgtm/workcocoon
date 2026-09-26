@@ -1,5 +1,5 @@
 export const guideSlug = "best-audio-interfaces-under-200";
-export const guideTitle = "6 Best Audio Interfaces Under $200 in 2026";
+export const guideTitle = "Best Audio Interfaces Under $200";
 export const metaTitle = "Best Audio Interfaces Under $200 in 2026";
 export const metaDescription = "We compared best audio interfaces under $200 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "audio interfaces under $200";

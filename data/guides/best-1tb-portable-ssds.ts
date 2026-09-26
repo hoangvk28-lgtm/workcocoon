@@ -1,5 +1,5 @@
 export const guideSlug = "best-1tb-portable-ssds";
-export const guideTitle = "4 Best 1TB Portable SSDs in 2026";
+export const guideTitle = "Best 1TB Portable SSDs";
 export const metaTitle = "Best 1TB Portable SSDs in 2026";
 export const metaDescription = "4 genuinely 1TB portable SSDs we evaluated on real usable capacity, sustained speed, and price per gigabyte for everyday storage needs.";
 export const mainKeyword = "best 1tb portable ssd";

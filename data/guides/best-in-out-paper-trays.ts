@@ -1,5 +1,5 @@
 export const guideSlug = "best-in-out-paper-trays";
-export const guideTitle = "6 Best In/Out Paper Trays in 2026";
+export const guideTitle = "Best In/Out Paper Trays";
 export const metaTitle = "Best In/Out Paper Trays";
 export const metaDescription = "We compared in/out paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "in/out paper trays";

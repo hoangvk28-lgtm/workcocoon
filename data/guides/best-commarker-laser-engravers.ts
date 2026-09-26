@@ -1,5 +1,5 @@
 export const guideSlug = "best-commarker-laser-engravers";
-export const guideTitle = "5 Best ComMarker Laser Engravers in 2026";
+export const guideTitle = "Best ComMarker Laser Engravers";
 export const metaTitle = "Best ComMarker Laser Engravers in 2026";
 export const metaDescription = "We compared best commarker laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "commarker laser engravers";

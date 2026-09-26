@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-usb-c";
-export const guideTitle = "7 Best Ultrawide Monitors with USB-C in 2026";
+export const guideTitle = "Best Ultrawide Monitors for a Single-Cable Desk";
 export const metaTitle = "Best Ultrawide Monitors with USB-C in 2026 (Power Delivery Compared)";
 export const metaDescription =
   "7 best ultrawide monitors with USB-C in 2026, comparing Power Delivery wattage, KVM switches, and Thunderbolt 4, from a $299 LG to a $1,225 49-inch Dell.";

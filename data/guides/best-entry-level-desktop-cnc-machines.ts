@@ -1,5 +1,5 @@
 export const guideSlug = "best-entry-level-desktop-cnc-machines";
-export const guideTitle = "5 Best Entry Level Desktop CNC Machines in 2026";
+export const guideTitle = "Best Entry Level Desktop CNC Machines";
 export const metaTitle = "Best Entry Level Desktop CNC Machines 2026";
 export const metaDescription = "We compared entry level desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "entry level desktop cnc machines";

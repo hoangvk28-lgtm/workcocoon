@@ -1,5 +1,5 @@
 export const guideSlug = "best-cute-sticky-note-dispensers";
-export const guideTitle = "6 Best Cute Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Cute Sticky Note Dispensers";
 export const metaTitle = "Best Cute Sticky Note Dispensers";
 export const metaDescription = "We compared cute sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cute sticky note dispensers";

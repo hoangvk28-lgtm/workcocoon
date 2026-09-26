@@ -1,5 +1,5 @@
 export const guideSlug = "best-wooden-bookends";
-export const guideTitle = "6 Best Wooden Bookends in 2026";
+export const guideTitle = "Best Wooden Bookends";
 export const metaTitle = "Best Wooden Bookends";
 export const metaDescription = "We compared wooden bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "wooden bookends";

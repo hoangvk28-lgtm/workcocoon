@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-no-wheels-under-300";
-export const guideTitle = "6 Best Gaming Chairs No Wheels Under $300 in 2026";
+export const guideTitle = "Best Gaming Chairs No Wheels Under $300";
 export const metaTitle = "Best Gaming Chairs Without Wheels Under $300";
 export const metaDescription = "We compared wheel-free gaming chairs under $300 across floor chairs and full recliners, since these serve very different setups and price points.";
 export const mainKeyword = "gaming chair no wheels under $300";

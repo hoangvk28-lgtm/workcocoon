@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-vertical-laptop-stands";
 
 export const guideSlug = "best-vertical-laptop-stands";
-export const guideTitle = "8 Best Vertical Laptop Stands (2026)";
+export const guideTitle = "Best Vertical Laptop Stands (2026)";
 export const metaTitle = "Best Vertical Laptop Stands 2026";
 export const metaDescription = "Best vertical laptop stands in 2026. Aluminum holders, dual-slot organizers, auto-lock designs, and walnut premium stands ranked by Amazon buyer rating.";
 export const lastUpdated = "2026-07-10";

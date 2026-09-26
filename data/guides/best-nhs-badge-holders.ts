@@ -1,5 +1,5 @@
 export const guideSlug = "best-nhs-badge-holders";
-export const guideTitle = "6 Best NHS Badge Holders in 2026";
+export const guideTitle = "Best NHS Badge Holders";
 export const metaTitle = "Best NHS Badge Holders";
 export const metaDescription = "We compared nhs badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "nhs badge holders";

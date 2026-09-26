@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-bay-direct-attached-storage";
-export const guideTitle = "8 Best 4-Bay Direct-Attached Storage";
+export const guideTitle = "Best 4-Bay Direct-Attached Storage";
 export const metaTitle = "Best 4-Bay Direct-Attached Storage";
 export const metaDescription = "4-bay is DAS's strongest capacity tier. We verified true usable bay count, drive type, and RAID/JBOD mode before ranking.";
 export const mainKeyword = "4-bay direct-attached storage";

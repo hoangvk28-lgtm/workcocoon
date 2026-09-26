@@ -1,5 +1,5 @@
 export const guideSlug = "best-aoc-4k-monitors";
-export const guideTitle = "6 Best AOC 4K Monitors in 2026";
+export const guideTitle = "Best AOC 4K Monitors";
 export const metaTitle = "Best AOC 4K Monitors";
 export const metaDescription = "We compared aoc 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "aoc 4k monitors";

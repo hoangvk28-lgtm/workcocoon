@@ -1,5 +1,5 @@
 export const guideSlug = "best-diy-style-mouse-bungee-alternatives";
-export const guideTitle = "6 Best DIY-Style Mouse Bungee Alternatives in 2026";
+export const guideTitle = "Best DIY-Style Mouse Bungee Alternatives";
 export const metaTitle = "Best DIY-Style Mouse Bungee Alternatives";
 export const metaDescription = "We compared diy-style mouse bungee alternatives models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "diy-style mouse bungee alternatives";

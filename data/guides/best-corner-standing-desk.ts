@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-corner-standing-desk";
 
 export const guideSlug = "best-corner-standing-desk";
-export const guideTitle = "8 Best Corner Standing Desks (L-Shaped) in 2026";
+export const guideTitle = "Best Corner Standing Desks (L-Shaped)";
 export const metaTitle = "Best Corner Standing Desks 2026, L-Shaped Electric Picks";
 export const metaDescription =
   "Best corner standing desks in 2026. L-shaped electric sit-stand desks with dual and triple motors and built-in charging ranked by size and features.";

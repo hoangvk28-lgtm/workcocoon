@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-tray-organizers";
-export const guideTitle = "6 Best Letter Tray Organizers in 2026";
+export const guideTitle = "Best Letter Tray Organizers";
 export const metaTitle = "Best Letter Tray Organizers";
 export const metaDescription = "We compared letter tray organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "letter tray organizers";

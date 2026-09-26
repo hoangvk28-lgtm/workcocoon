@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-for-multiple-monitors";
-export const guideTitle = "5 Best KVM Switches for Multiple Monitors in 2026";
+export const guideTitle = "Best KVM Switches for Multiple Monitors";
 export const metaTitle = "Best KVM Switches for Multiple Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches for multiple monitors we evaluated, with a note that three or more simultaneous monitors can exceed a switch's rated bandwidth even when each port is individually rated for high resolution.";

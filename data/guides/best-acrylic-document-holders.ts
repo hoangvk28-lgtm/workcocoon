@@ -1,5 +1,5 @@
 export const guideSlug = "best-acrylic-document-holders";
-export const guideTitle = "6 Best Acrylic Document Holders in 2026";
+export const guideTitle = "Best Acrylic Document Holders";
 export const metaTitle = "Best Acrylic Document Holders";
 export const metaDescription = "We compared acrylic document holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "acrylic document holders";

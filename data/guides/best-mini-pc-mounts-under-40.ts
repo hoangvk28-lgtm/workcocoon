@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-under-40";
-export const guideTitle = "4 Best Mini PC Mounts Under $40 in 2026";
+export const guideTitle = "Best Mini PC Mounts Under $40";
 export const metaTitle = "Best Mini PC Mounts Under $40";
 export const metaDescription = "We compared mini PC mounts under $40 by weight capacity, NAS compatibility, and multi-pack value, since heavier-duty designs and 2-packs appear at this tier.";
 export const mainKeyword = "best mini pc mounts under $40";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-battery-operated-mug-warmers";
-export const guideTitle = "6 Best Battery-Operated Mug Warmers in 2026";
+export const guideTitle = "Best Battery-Operated Mug Warmers";
 export const metaTitle = "Best Battery-Operated Mug Warmers";
 export const metaDescription = "We compared battery-operated mug warmers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "battery-operated mug warmers";

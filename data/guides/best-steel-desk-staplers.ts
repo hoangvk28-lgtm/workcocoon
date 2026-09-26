@@ -1,5 +1,5 @@
 export const guideSlug = "best-steel-desk-staplers";
-export const guideTitle = "6 Best Steel Desk Staplers in 2026";
+export const guideTitle = "Best Steel Desk Staplers";
 export const metaTitle = "Best Steel Desk Staplers";
 export const metaDescription = "We compared steel desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "steel desk staplers";

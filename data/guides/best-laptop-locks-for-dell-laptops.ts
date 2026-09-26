@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-dell-laptops";
-export const guideTitle = "5 Best Laptop Locks for Dell Laptops in 2026";
+export const guideTitle = "Best Laptop Locks for Dell Laptops";
 export const metaTitle = "Best Laptop Locks for Dell Laptops (2026)";
 export const metaDescription =
   "5 laptop locks checked against Dell's actual slot documentation, since many thin Dell systems use the Noble Wedge slot instead of Standard.";

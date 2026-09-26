@@ -1,5 +1,5 @@
 export const guideSlug = "best-walking-pads-under-100";
-export const guideTitle = "4 Best Walking Pads Under $100 in 2026";
+export const guideTitle = "Best Walking Pads Under $100";
 export const metaTitle = "Best Walking Pads Under $100";
 export const metaDescription = "We compared walking pads under $100 by motor power, belt cushioning, and weight capacity, since these details decide how comfortable daily use actually feels.";
 export const mainKeyword = "best walking pads under $100";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-be9300-wifi-7-routers";
-export const guideTitle = "5 Best BE9300 Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best BE9300 Wi-Fi 7 Routers";
 export const metaTitle = "Best BE9300 Wi-Fi 7 Routers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 BE9300 Wi-Fi 7 routers we evaluated, the common flagship tri-band tier, with the per-vendor MLO maturity check competitors skip: different manufacturers' chipset implementations vary meaningfully even under the same BE9300 designation.";

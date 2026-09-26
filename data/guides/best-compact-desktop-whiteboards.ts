@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-desktop-whiteboards";
-export const guideTitle = "5 Best Compact Desktop Whiteboards in 2026";
+export const guideTitle = "Best Compact Desktop Whiteboards";
 export const metaTitle = "Best Compact Desktop Whiteboards (2026)";
 export const metaDescription =
   "5 small desktop whiteboards ranked by writing area relative to footprint, so \"compact\" means space-efficient rather than just narrow packaging.";

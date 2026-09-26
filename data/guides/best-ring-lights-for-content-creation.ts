@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-for-content-creation";
-export const guideTitle = "8 Best Ring Lights for Content Creation in 2026";
+export const guideTitle = "Best Ring Lights for Content Creation";
 export const metaTitle = "Best Ring Lights for Content Creation";
 export const metaDescription = "We compared ring light for video recording models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "ring light for video recording";

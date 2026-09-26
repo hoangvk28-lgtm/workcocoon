@@ -1,5 +1,5 @@
 export const guideSlug = "best-onyx-bookends";
-export const guideTitle = "6 Best Onyx Bookends in 2026";
+export const guideTitle = "Best Onyx Bookends";
 export const metaTitle = "Best Onyx Bookends";
 export const metaDescription = "We compared onyx bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "onyx bookends";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tape-dispensers-under-100";
-export const guideTitle = "6 Best Tape Dispensers Under $100 in 2026";
+export const guideTitle = "Best Tape Dispensers Under $100";
 export const metaTitle = "Best Tape Dispensers Under $100";
 export const metaDescription = "We compared tape dispensers under $100 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "tape dispensers under $100";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-zoom";
-export const guideTitle = "7 Best Interactive Whiteboards for Zoom";
+export const guideTitle = "Best Interactive Whiteboards for Zoom";
 export const metaTitle = "Best Interactive Whiteboards for Zoom";
 export const metaDescription = "We used Zoom Rooms for Touch and Zoom Whiteboard workflow as the real inclusion standard, not generic Zoom-compatible marketing claims.";
 export const mainKeyword = "zoom interactive whiteboard";

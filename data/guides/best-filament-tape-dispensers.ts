@@ -1,5 +1,5 @@
 export const guideSlug = "best-filament-tape-dispensers";
-export const guideTitle = "4 Best Filament Tape Dispensers in 2026";
+export const guideTitle = "Best Filament Tape Dispensers";
 export const metaTitle = "Best Filament Tape Dispensers";
 export const metaDescription = "We compared filament tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "filament tape dispensers";

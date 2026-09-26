@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-odors";
-export const guideTitle = "5 Best Air Purifiers for Odors in 2026";
+export const guideTitle = "Best Air Purifiers for Odors";
 export const metaTitle = "Best Air Purifiers for Odors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for household odors, with the saturation-cycle math competitors skip: activated carbon has a finite absorption capacity and saturates faster in a small room with a strong odor source than the standard replacement estimate assumes.";

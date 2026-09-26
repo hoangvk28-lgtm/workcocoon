@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmer-and-coaster-sets";
-export const guideTitle = "6 Best Mug Warmer and Coaster Sets in 2026";
+export const guideTitle = "Best Mug Warmer and Coaster Sets";
 export const metaTitle = "Best Mug Warmer and Coaster Sets";
 export const metaDescription = "We compared mug warmer coaster set models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mug warmer coaster set";

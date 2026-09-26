@@ -1,5 +1,5 @@
 export const guideSlug = "best-self-closing-cable-sleeves";
-export const guideTitle = "6 Best Self-Closing Cable Sleeves in 2026";
+export const guideTitle = "Best Self-Closing Cable Sleeves";
 export const metaTitle = "Best Self-Closing Cable Sleeves";
 export const metaDescription = "We compared self-closing cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "self-closing cable sleeves";

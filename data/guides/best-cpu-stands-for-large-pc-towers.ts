@@ -1,5 +1,5 @@
 export const guideSlug = "best-cpu-stands-for-large-pc-towers";
-export const guideTitle = "8 Best CPU Stands for Large PC Towers in 2026";
+export const guideTitle = "Best CPU Stands for Large PC Towers";
 export const metaTitle = "Best CPU Stands for Large PC Towers";
 export const metaDescription = "We compared large cpu stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "large cpu stand";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-gigabit-poe-extender";
-export const guideTitle = "4 Best Gigabit PoE Extenders in 2026";
+export const guideTitle = "Best Gigabit PoE Extenders";
 export const metaTitle = "Best Gigabit PoE Extenders";
 export const metaDescription = "We compared Gigabit PoE extenders by whether 1000Mbps actually holds at full extension distance, since some listings only reach full speed at a shorter range.";
 export const mainKeyword = "best gigabit poe extender";

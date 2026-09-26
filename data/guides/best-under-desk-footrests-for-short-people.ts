@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-under-desk-footrests-for-short-people";
 
 export const guideSlug = "best-under-desk-footrests-for-short-people";
-export const guideTitle = "8 Best Under-Desk Footrests for Short People (2026)";
+export const guideTitle = "Best Under-Desk Footrests for Short People (2026)";
 export const metaTitle = "Best Under-Desk Footrests for Short People 2026";
 export const metaDescription =
   "Best under-desk footrests for short people in 2026. Memory foam rockers, adjustable-height models, massage rollers, and firm foam ranked for users under 5'5\".";

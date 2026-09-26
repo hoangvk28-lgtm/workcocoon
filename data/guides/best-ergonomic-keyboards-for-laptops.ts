@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-laptops";
-export const guideTitle = "7 Best Ergonomic Keyboards for Laptops in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Laptops";
 export const metaTitle = "Best Ergonomic Keyboards for Laptops 2026";
 export const metaDescription =
   "7 ergonomic keyboards for laptop pairing we evaluated as part of a full setup, including the stand and mouse a laptop-height mismatch actually requires.";

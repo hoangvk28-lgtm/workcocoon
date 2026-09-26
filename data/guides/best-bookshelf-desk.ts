@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-desk";
-export const guideTitle = "8 Best Bookshelf Desks in 2026";
+export const guideTitle = "Best Bookshelf Desks";
 export const metaTitle = "Best Bookshelf Desks in 2026 (L-Shaped, Hutch & Wall-Mounted)";
 export const metaDescription =
   "8 best bookshelf desks in 2026, comparing L-shaped corner desks, hutch-style bookshelves, and space-saving wall-mounted picks with built-in power and storage.";

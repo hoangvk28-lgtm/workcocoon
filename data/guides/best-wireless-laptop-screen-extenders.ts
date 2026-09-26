@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-laptop-screen-extenders";
-export const guideTitle = "5 Best Wireless Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Wireless Laptop Screen Extenders";
 export const metaTitle = "Best Wireless Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 wireless laptop screen extenders we evaluated, with an honest note that most 'wireless' screen extenders still require a wired power connection, only the video signal is cable-free.";

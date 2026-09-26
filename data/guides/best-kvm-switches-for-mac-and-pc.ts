@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-for-mac-and-pc";
-export const guideTitle = "5 Best KVM Switches for Mac and PC in 2026";
+export const guideTitle = "Best KVM Switches for Mac and PC";
 export const metaTitle = "Best KVM Switches for Mac and PC, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches for Mac and PC we evaluated, with a note that keyboard layout differences between macOS and Windows can cause the Command and Alt/Option keys to map incorrectly through some switches.";

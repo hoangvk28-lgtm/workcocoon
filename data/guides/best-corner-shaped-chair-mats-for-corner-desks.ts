@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-shaped-chair-mats-for-corner-desks";
-export const guideTitle = "8 Best Corner-Shaped Chair Mats for Corner Desks in 2026";
+export const guideTitle = "Best Corner-Shaped Chair Mats for Corner Desks";
 export const metaTitle = "Best Corner-Shaped Chair Mats for Corner Desks";
 export const metaDescription = "We compared corner desk chair mat for carpet models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "corner desk chair mat for carpet";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-for-dual-monitors";
-export const guideTitle = "4 Best Monitor Shelves for Dual Monitors in 2026";
+export const guideTitle = "Best Monitor Shelves for Dual Monitors";
 export const metaTitle = "Best Monitor Shelves for Dual Monitors (2026)";
 export const metaDescription =
   "4 monitor shelves for dual-monitor setups we evaluated for uneven-load wobble risk, cable capacity for two screens, and mismatched-size stability.";

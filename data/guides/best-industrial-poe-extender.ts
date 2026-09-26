@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-poe-extender";
-export const guideTitle = "4 Best Industrial DIN-Rail PoE Extenders in 2026";
+export const guideTitle = "Best Industrial DIN-Rail PoE Extenders";
 export const metaTitle = "Best Industrial DIN-Rail PoE Extenders";
 export const metaDescription = "We compared industrial PoE extenders by real IP rating and temperature range, since DIN-rail mounting alone doesn't guarantee outdoor-grade waterproofing.";
 export const mainKeyword = "best industrial poe extender";

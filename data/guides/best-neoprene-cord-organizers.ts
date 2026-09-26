@@ -1,5 +1,5 @@
 export const guideSlug = "best-neoprene-cord-organizers";
-export const guideTitle = "6 Best Neoprene Cord Organizers in 2026";
+export const guideTitle = "Best Neoprene Cord Organizers";
 export const metaTitle = "Best Neoprene Cord Organizers";
 export const metaDescription = "We compared neoprene cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "neoprene cord organizers";

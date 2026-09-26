@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pegboard-organizers";
-export const guideTitle = "4 Best Desk Pegboard Organizers in 2026";
+export const guideTitle = "Best Desk Pegboard Organizers";
 export const metaTitle = "Best Desk Pegboard Organizers (2026)";
 export const metaDescription =
   "4 desk pegboard organizer accessories we evaluated for hole-spacing compatibility, per-hook weight capacity, and kit completeness.";

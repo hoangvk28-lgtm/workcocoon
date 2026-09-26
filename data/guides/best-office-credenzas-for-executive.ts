@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-credenzas-for-executive";
-export const guideTitle = "8 Best Office Credenzas for Executive in 2026";
+export const guideTitle = "Best Office Credenzas for Executive";
 export const metaTitle = "Best Office Credenzas for Executive 2026";
 export const metaDescription = "We compared office credenzas for executive by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "office credenzas for executive";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-monitor-shelves";
-export const guideTitle = "4 Best Floating Monitor Shelves in 2026";
+export const guideTitle = "Best Floating Monitor Shelves";
 export const metaTitle = "Best Floating Monitor Shelves (2026)";
 export const metaDescription =
   "4 floating monitor shelves we evaluated, clarifying clamp-on illusion-of-floating designs versus genuine zero-desk-contact wall mounts.";

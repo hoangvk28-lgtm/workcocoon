@@ -1,5 +1,5 @@
 export const guideSlug = "best-hanging-desk-drawer-organizers";
-export const guideTitle = "5 Best Hanging Desk Drawer Organizers in 2026";
+export const guideTitle = "Best Hanging Desk Drawer Organizers";
 export const metaTitle = "Best Hanging Desk Drawer Organizers (2026)";
 export const metaDescription =
   "5 products for this ambiguous search term, disambiguated between drawer-rail-hanging organizers and in-drawer compartment trays.";

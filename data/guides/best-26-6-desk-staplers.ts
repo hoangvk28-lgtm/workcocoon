@@ -1,5 +1,5 @@
 export const guideSlug = "best-26-6-desk-staplers";
-export const guideTitle = "4 Best 26/6 Desk Staplers in 2026";
+export const guideTitle = "Best 26/6 Desk Staplers";
 export const metaTitle = "Best 26/6 Desk Staplers";
 export const metaDescription = "We compared 26/6 desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "26/6 desk staplers";

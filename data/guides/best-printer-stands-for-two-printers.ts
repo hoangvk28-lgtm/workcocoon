@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-stands-for-two-printers";
-export const guideTitle = "8 Best Printer Stands for Two Printers in 2026";
+export const guideTitle = "Best Printer Stands for Two Printers";
 export const metaTitle = "Best Printer Stands for Two Printers in 2026 (Honest Picks)";
 export const metaDescription =
   "8 printer stands and file cabinets we evaluated for holding two printers, from a genuine 2-tier rolling cart to wide-top file cabinets best paired or used with one printer plus supplies.";

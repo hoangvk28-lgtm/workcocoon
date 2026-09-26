@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-small-hands";
-export const guideTitle = "7 Best Ergonomic Keyboards for Small Hands in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Small Hands";
 export const metaTitle = "Ergonomic Keyboards for Small Hands (2026)";
 export const metaDescription =
   "7 ergonomic keyboards we evaluated for genuine reach-to-modifier-key comfort and adjustable split-distance limits relevant to smaller hand and shoulder width.";

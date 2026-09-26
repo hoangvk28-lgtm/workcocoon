@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-treadmill-with-incline";
-export const guideTitle = "8 Best Under Desk Treadmills with Incline in 2026";
+export const guideTitle = "Best Under-Desk Treadmills with Incline";
 export const metaTitle = "Best Under Desk Treadmills with Incline in 2026 (Auto & Manual)";
 export const metaDescription =
   "8 best under desk treadmills with incline in 2026, from a $89.99 flat-pad starter to a 15% auto-incline model. Compare motor power, incline range, and clearance.";

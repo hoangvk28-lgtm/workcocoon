@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-mounted-document-holders";
-export const guideTitle = "8 Best Monitor-Mounted Document Holders in 2026";
+export const guideTitle = "Best Monitor-Mounted Document Holders";
 export const metaTitle = "Best Monitor-Mounted Document Holders";
 export const metaDescription = "We compared document holder for monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "document holder for monitor";

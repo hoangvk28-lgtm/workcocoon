@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-sheet-paper-shredders";
-export const guideTitle = "8 Best 8-Sheet Paper Shredders in 2026";
+export const guideTitle = "Best 8-Sheet Paper Shredders";
 export const metaTitle = "Best 8-Sheet Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders rated for 8 sheets, with an honest note that real-world capacity with letterhead or cardstock is often 5-6 sheets, not the full rated 8.";

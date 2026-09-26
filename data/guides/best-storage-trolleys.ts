@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-trolleys";
-export const guideTitle = "8 Best Storage Trolleys in 2026";
+export const guideTitle = "Best Storage Trolleys";
 export const metaTitle = "Best Storage Trolleys";
 export const metaDescription = "We compared storage cart trolley models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart trolley";

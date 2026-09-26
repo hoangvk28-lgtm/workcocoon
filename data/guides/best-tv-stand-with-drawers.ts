@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-with-drawers";
-export const guideTitle = "7 Best TV Stands with Drawers in 2026";
+export const guideTitle = "Best TV Stands with Drawers";
 export const metaTitle = "Best TV Stands with Drawers 2026, Real Pull-Out Storage";
 export const metaDescription =
   "Best TV stands with real pull-out drawers in 2026. Ranked by glide quality, drawer depth, and build so you avoid flimsy fabric-fold storage.";

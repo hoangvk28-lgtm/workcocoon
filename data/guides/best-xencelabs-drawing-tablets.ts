@@ -1,5 +1,5 @@
 export const guideSlug = "best-xencelabs-drawing-tablets";
-export const guideTitle = "5 Best Xencelabs Drawing Tablets in 2026";
+export const guideTitle = "Best Xencelabs Drawing Tablets";
 export const metaTitle = "Best Xencelabs Drawing Tablets 2026";
 export const metaDescription = "We compared xencelabs drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "xencelabs drawing tablets";

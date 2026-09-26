@@ -1,5 +1,5 @@
 export const guideSlug = "best-direct-attached-storage-devices";
-export const guideTitle = "8 Best Direct-Attached Storage Devices";
+export const guideTitle = "Best Direct-Attached Storage Devices";
 export const metaTitle = "Best Direct-Attached Storage Devices";
 export const metaDescription = "The same core DAS buying decision as our pillar guide, covering USB and RAID enclosures verified by real connection and drive architecture.";
 export const mainKeyword = "direct-attached storage devices";

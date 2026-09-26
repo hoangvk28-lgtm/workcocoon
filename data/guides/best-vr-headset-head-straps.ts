@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headset-head-straps";
-export const guideTitle = "4 Best VR Headset Head Straps in 2026";
+export const guideTitle = "Best VR Headset Head Straps";
 export const metaTitle = "Best VR Headset Head Straps";
 export const metaDescription = "We compared vr headset head straps models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vr headset head straps";

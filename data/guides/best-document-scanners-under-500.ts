@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-under-500";
-export const guideTitle = "4 Best Document Scanners Under $500 in 2026";
+export const guideTitle = "Best Document Scanners Under $500";
 export const metaTitle = "Best Document Scanners Under $500";
 export const metaDescription = "We compared document scanners under $500 by touchscreen controls, feeder capacity, and Wi-Fi speed, since the top-tier desktop models cluster here.";
 export const mainKeyword = "best document scanners under $500";

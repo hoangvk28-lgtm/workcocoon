@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-with-footrest";
-export const guideTitle = "6 Best Gaming Chairs with Footrest in 2026";
+export const guideTitle = "Best Gaming Chairs with Footrest";
 export const metaTitle = "Best Gaming Chairs with Footrest in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs with a built-in footrest in 2026, covering pull-out, detachable, and recliner-style designs for every budget.";

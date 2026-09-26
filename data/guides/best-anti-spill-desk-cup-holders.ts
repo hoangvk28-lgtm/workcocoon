@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-spill-desk-cup-holders";
-export const guideTitle = "5 Best Anti-Spill Desk Cup Holders in 2026";
+export const guideTitle = "Best Anti-Spill Desk Cup Holders";
 export const metaTitle = "Best Anti-Spill Desk Cup Holders (2026)";
 export const metaDescription =
   "5 desk cup holders verified for genuine anti-spill mechanism design, not just marketing claims, tested against realistic incidental bumping.";

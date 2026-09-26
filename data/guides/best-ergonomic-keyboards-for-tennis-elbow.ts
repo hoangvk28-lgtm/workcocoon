@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-tennis-elbow";
-export const guideTitle = "8 Best Ergonomic Keyboards for Tennis Elbow in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Tennis Elbow";
 export const metaTitle = "Ergonomic Keyboards for Tennis Elbow";
 export const metaDescription =
   "8 ergonomic keyboards we evaluated as a secondary aid for tennis elbow, since mouse grip is the more common cause. Not treatment, see a doctor for symptoms.";

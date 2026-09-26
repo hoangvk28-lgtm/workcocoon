@@ -1,5 +1,5 @@
 export const guideSlug = "best-atomstack-laser-engravers";
-export const guideTitle = "7 Best Atomstack Laser Engravers in 2026";
+export const guideTitle = "Best Atomstack Laser Engravers";
 export const metaTitle = "Best Atomstack Laser Engravers in 2026";
 export const metaDescription = "We compared best atomstack laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "atomstack laser engravers";

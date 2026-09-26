@@ -1,5 +1,5 @@
 export const guideSlug = "best-nearfield-studio-monitors";
-export const guideTitle = "8 Best Nearfield Studio Monitors in 2026";
+export const guideTitle = "Best Nearfield Studio Monitors";
 export const metaTitle = "Best Nearfield Studio Monitors";
 export const metaDescription = "We compared 2-way 3.5-inch near field studio monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "2-way 3.5-inch near field studio monitor";

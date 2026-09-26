@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-for-fedex";
-export const guideTitle = "6 Best Label Printers for FedEx in 2026";
+export const guideTitle = "Best Label Printers for FedEx";
 export const metaTitle = "Best Label Printers for FedEx";
 export const metaDescription = "We compared label printers for fedex models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "label printers for fedex";

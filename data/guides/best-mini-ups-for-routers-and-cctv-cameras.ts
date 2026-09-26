@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ups-for-routers-and-cctv-cameras";
-export const guideTitle = "8 Best Mini UPS for Routers and CCTV Cameras in 2026";
+export const guideTitle = "Best Mini UPS for Routers and CCTV Cameras";
 export const metaTitle = "Best Mini UPS for Routers & CCTV 2026";
 export const metaDescription = "Router plus CCTV camera backup means two different voltage classes and, often, PoE. We compared units built to handle both loads.";
 export const mainKeyword = "mini ups for routers and cctv cameras";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-displays-under-200";
-export const guideTitle = "4 Best Smart Displays Under $200 in 2026";
+export const guideTitle = "Best Smart Displays Under $200";
 export const metaTitle = "Best Smart Displays Under $200";
 export const metaDescription = "We compared smart displays under $200 by chip performance, smart home hub protocols, and camera quality, since the newest flagship-tier features top out here.";
 export const mainKeyword = "best smart displays under $200";

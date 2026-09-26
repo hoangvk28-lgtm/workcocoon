@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-drawer-under-desk-units";
-export const guideTitle = "8 Best 8-Drawer Under-Desk Units in 2026";
+export const guideTitle = "Best 8-Drawer Under-Desk Units";
 export const metaTitle = "Best 8-Drawer Under-Desk Units";
 export const metaDescription = "We compared under-desk drawer 8 drawer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under-desk drawer 8 drawer";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-desktop-whiteboards";
-export const guideTitle = "5 Best Small Desktop Whiteboards in 2026";
+export const guideTitle = "Best Small Desktop Whiteboards";
 export const metaTitle = "Best Small Desktop Whiteboards (2026)";
 export const metaDescription =
   "5 small desktop whiteboards we evaluated with actual stated dimensions, from 8x6 to 9x11 inches, to help you judge real writing capacity before buying.";

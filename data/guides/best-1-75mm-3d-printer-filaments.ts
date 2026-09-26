@@ -1,5 +1,5 @@
 export const guideSlug = "best-1-75mm-3d-printer-filaments";
-export const guideTitle = "6 Best 1.75mm 3D Printer Filaments in 2026";
+export const guideTitle = "Best 1.75mm 3D Printer Filaments";
 export const metaTitle = "Best 1.75mm 3D Printer Filaments";
 export const metaDescription = "We compared 1.75mm 3d printer filaments models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "1.75mm 3d printer filaments";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-brass-desk-clocks";
-export const guideTitle = "5 Best Brass Desk Clocks in 2026";
+export const guideTitle = "Best Brass Desk Clocks";
 export const metaTitle = "Best Brass Desk Clocks (2026)";
 export const metaDescription =
   "5 desk clocks compared for actual brass or brass-toned metal construction, since \"brass\" in a listing title can mean solid metal or simply a brass-colored finish.";

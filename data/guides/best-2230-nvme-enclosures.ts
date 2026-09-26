@@ -1,5 +1,5 @@
 export const guideSlug = "best-2230-nvme-enclosures";
-export const guideTitle = "6 Best 2230 NVMe Enclosures in 2026";
+export const guideTitle = "Best 2230 NVMe Enclosures";
 export const metaTitle = "Best 2230 NVMe Enclosures in 2026";
 export const metaDescription = "2230 is a real, distinct M.2 form factor used by handhelds and compact SSDs. We compared enclosures purpose-built for this exact size.";
 export const mainKeyword = "2230 nvme enclosures";

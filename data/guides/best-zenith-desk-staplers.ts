@@ -1,5 +1,5 @@
 export const guideSlug = "best-zenith-desk-staplers";
-export const guideTitle = "6 Best Zenith Desk Staplers in 2026";
+export const guideTitle = "Best Zenith Desk Staplers";
 export const metaTitle = "Best Zenith Desk Staplers";
 export const metaDescription = "We compared zenith desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "zenith desk staplers";

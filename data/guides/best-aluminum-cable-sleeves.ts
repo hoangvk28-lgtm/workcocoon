@@ -1,5 +1,5 @@
 export const guideSlug = "best-aluminum-cable-sleeves";
-export const guideTitle = "6 Best Aluminum Cable Sleeves in 2026";
+export const guideTitle = "Best Aluminum Cable Sleeves";
 export const metaTitle = "Best Aluminum Cable Sleeves";
 export const metaDescription = "We compared aluminum cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "aluminum cable sleeves";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-crestron-room-scheduling-panels";
-export const guideTitle = "5 Best Crestron Room Scheduling Panels in 2026";
+export const guideTitle = "Best Crestron Room Scheduling Panels";
 export const metaTitle = "Best Crestron Room Scheduling Panels";
 export const metaDescription = "We compared crestron room scheduling panel models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "crestron room scheduling panel";

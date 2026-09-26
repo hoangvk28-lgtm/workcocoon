@@ -1,5 +1,5 @@
 export const guideSlug = "best-lap-desks-under-20";
-export const guideTitle = "4 Best Lap Desks Under $20 in 2026";
+export const guideTitle = "Best Lap Desks Under $20";
 export const metaTitle = "Best Lap Desks Under $20";
 export const metaDescription = "We compared lap desks under $20 by surface size, cushion design, and heat management, since real airflow and stability differences appear at this price.";
 export const mainKeyword = "best lap desks under $20";

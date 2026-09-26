@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-poe-extender";
-export const guideTitle = "4 Best Budget PoE Extenders in 2026";
+export const guideTitle = "Best Budget PoE Extenders";
 export const metaTitle = "Best Budget PoE Extenders";
 export const metaDescription = "We compared budget PoE extenders under $17 by real cascade distance and per-port count, since even the cheapest options differ meaningfully in total reach.";
 export const mainKeyword = "best budget poe extender";

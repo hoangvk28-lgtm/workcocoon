@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-documents";
-export const guideTitle = "8 Best Printers for Documents in 2026";
+export const guideTitle = "Best Printers for Documents";
 export const metaTitle = "Best Printers for Documents in 2026";
 export const metaDescription =
   "8 printers we evaluated for document printing, with an honest look at why laser text beats inkjet, DPI myths, archival quality, and letterhead printing.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-2000-joule-surge-protectors";
-export const guideTitle = "5 Best 2000-Joule Surge Protectors in 2026";
+export const guideTitle = "Best 2000-Joule Surge Protectors";
 export const metaTitle = "Best 2000-Joule Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 surge protectors around 2000 joules we evaluated, with the comparison competitors don't make: two single-outlet units protecting two separate devices independently can offer better risk distribution than one 2000-joule strip sharing the budget across both.";

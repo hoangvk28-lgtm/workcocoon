@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-with-long-cords";
-export const guideTitle = "5 Best Surge Protectors with Long Cords in 2026";
+export const guideTitle = "Best Surge Protectors with Long Cords";
 export const metaTitle = "Best Surge Protectors with Long Cords, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 long-cord surge protectors we evaluated, with the irony competitors skip: long-cord surge protectors often serve exactly the older or secondary electrical infrastructure locations where protection matters most, yet face the most cord-quality cost-cutting.";

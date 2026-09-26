@@ -1,5 +1,5 @@
 export const guideSlug = "best-curved-desktop-copy-holders";
-export const guideTitle = "6 Best Curved Desktop Copy Holders in 2026";
+export const guideTitle = "Best Curved Desktop Copy Holders";
 export const metaTitle = "Best Curved Desktop Copy Holders";
 export const metaDescription = "We compared curved desktop copy holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "curved desktop copy holders";

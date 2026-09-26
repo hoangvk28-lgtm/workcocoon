@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-for-nas-devices";
-export const guideTitle = "6 Best UPS Battery Backups for NAS Devices in 2026";
+export const guideTitle = "Best UPS Battery Backups for NAS Devices";
 export const metaTitle = "Best UPS Battery Backups for NAS Devices, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 UPS units we evaluated for NAS protection, with the detail that actually prevents RAID corruption: graceful shutdown signal timing must be configured with enough margin, or your NAS may not fully shut down before the battery depletes.";

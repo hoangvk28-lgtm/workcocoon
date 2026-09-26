@@ -1,5 +1,5 @@
 export const guideSlug = "best-shipping-tape-dispensers";
-export const guideTitle = "6 Best Shipping Tape Dispensers in 2026";
+export const guideTitle = "Best Shipping Tape Dispensers";
 export const metaTitle = "Best Shipping Tape Dispensers";
 export const metaDescription = "We compared shipping tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "shipping tape dispensers";

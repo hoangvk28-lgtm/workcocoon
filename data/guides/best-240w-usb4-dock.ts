@@ -1,5 +1,5 @@
 export const guideSlug = "best-240w-usb4-dock";
-export const guideTitle = "4 Best 240W USB4 Docks in 2026";
+export const guideTitle = "Best 240W USB4 Docks";
 export const metaTitle = "Best 240W USB4 Docks";
 export const metaDescription = "We compared 240W docks by actual delivered Power Delivery wattage, since a 240W power adapter rating is not the same as 240W reaching your laptop.";
 export const mainKeyword = "best 240w usb4 dock";

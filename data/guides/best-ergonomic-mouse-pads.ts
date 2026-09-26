@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-mouse-pads";
-export const guideTitle = "8 Best Ergonomic Mouse Pads in 2026";
+export const guideTitle = "Best Ergonomic Mouse Pads";
 export const metaTitle = "Best Ergonomic Mouse Pads";
 export const metaDescription = "We compared mouse pad ergonomic models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad ergonomic";

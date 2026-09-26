@@ -1,5 +1,5 @@
 export const guideSlug = "best-dante-audio-interfaces";
-export const guideTitle = "8 Best Dante Audio Interfaces in 2026";
+export const guideTitle = "Best Dante Audio Interfaces";
 export const metaTitle = "Best Dante Audio Interfaces";
 export const metaDescription = "We compared audio interface dante models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "audio interface dante";

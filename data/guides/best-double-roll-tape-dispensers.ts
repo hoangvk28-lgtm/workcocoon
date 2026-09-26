@@ -1,5 +1,5 @@
 export const guideSlug = "best-double-roll-tape-dispensers";
-export const guideTitle = "6 Best Double-Roll Tape Dispensers in 2026";
+export const guideTitle = "Best Double-Roll Tape Dispensers";
 export const metaTitle = "Best Double-Roll Tape Dispensers";
 export const metaDescription = "We compared double-roll tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "double-roll tape dispensers";

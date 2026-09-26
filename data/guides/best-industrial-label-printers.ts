@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-label-printers";
-export const guideTitle = "6 Best Industrial Label Printers in 2026";
+export const guideTitle = "Best Industrial Label Printers";
 export const metaTitle = "Best Industrial Label Printers";
 export const metaDescription = "We compared industrial label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "industrial label printers";

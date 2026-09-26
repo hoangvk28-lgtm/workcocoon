@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-air-conditioners-for-cars";
-export const guideTitle = "8 Best Portable Air Conditioners for Cars in 2026";
+export const guideTitle = "Best Portable Air Conditioners for Cars";
 export const metaTitle = "Best Portable Air Conditioners for Cars";
 export const metaDescription = "We compared portable air conditioner car models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "portable air conditioner car";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-injector";
-export const guideTitle = "4 Best PoE Injectors in 2026";
+export const guideTitle = "Best PoE Injectors";
 export const metaTitle = "Best PoE Injectors";
 export const metaDescription = "We compared PoE injectors by real power budget and port speed, since a 15.4W 802.3af unit and a 30W 802.3at unit serve genuinely different device categories.";
 export const mainKeyword = "best poe injector";

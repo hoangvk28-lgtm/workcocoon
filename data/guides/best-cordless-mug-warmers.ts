@@ -1,5 +1,5 @@
 export const guideSlug = "best-cordless-mug-warmers";
-export const guideTitle = "6 Best Cordless Mug Warmers in 2026";
+export const guideTitle = "Best Cordless Mug Warmers";
 export const metaTitle = "Best Cordless Mug Warmers";
 export const metaDescription = "We compared cordless mug warmers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cordless mug warmers";

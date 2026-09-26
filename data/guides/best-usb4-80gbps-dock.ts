@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-80gbps-dock";
-export const guideTitle = "4 Best USB4 80Gbps Docks in 2026";
+export const guideTitle = "Best USB4 80Gbps Docks";
 export const metaTitle = "Best USB4 80Gbps Docks";
 export const metaDescription = "We compared 80Gbps USB4 v2 and Thunderbolt 5 docks by real bandwidth allocation and host requirements, since 80Gbps needs a genuine TB5/USB4 v2 host port.";
 export const mainKeyword = "best usb4 80gbps dock";

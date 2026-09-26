@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-3-ssd-enclosures";
-export const guideTitle = "4 Best Thunderbolt 3 SSD Enclosures in 2026";
+export const guideTitle = "Best Thunderbolt 3 SSD Enclosures";
 export const metaTitle = "Best Thunderbolt 3 SSD Enclosures 2026";
 export const metaDescription = "Thunderbolt 3 remains relevant on older hosts, but current buyers should weigh it against USB4 40Gbps alternatives. Here is what to know.";
 export const mainKeyword = "thunderbolt 3 ssd enclosures";

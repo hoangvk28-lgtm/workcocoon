@@ -1,5 +1,5 @@
 export const guideSlug = "best-smallest-mini-pcs";
-export const guideTitle = "5 Best Smallest Mini PCs in 2026";
+export const guideTitle = "Best Smallest Mini PCs";
 export const metaTitle = "Best Smallest Mini PCs (2026)";
 export const metaDescription =
   "5 of the smallest mini PCs we evaluated, using actual measured chassis volume plus power brick size, not just marketing dimensions.";

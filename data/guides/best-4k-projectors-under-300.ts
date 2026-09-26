@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-projectors-under-300";
-export const guideTitle = "4 Best 4K Projectors Under $300 in 2026";
+export const guideTitle = "Best 4K Projectors Under $300";
 export const metaTitle = "Best 4K Projectors Under $300";
 export const metaDescription = "We compared 4K projectors under $300 by lamp lifespan, streaming OS, and connectivity generation, since 100,000 hour lamps and Android 14 appear here.";
 export const mainKeyword = "best 4k projectors under $300";

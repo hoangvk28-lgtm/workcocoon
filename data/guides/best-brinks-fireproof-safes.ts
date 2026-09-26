@@ -1,5 +1,5 @@
 export const guideSlug = "best-brinks-fireproof-safes";
-export const guideTitle = "8 Best Brinks Fireproof Safes in 2026";
+export const guideTitle = "Best Brinks Fireproof Safes";
 export const metaTitle = "Best Brinks Fireproof Safes 2026";
 export const metaDescription = "We compared brinks fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "brinks fireproof safes";

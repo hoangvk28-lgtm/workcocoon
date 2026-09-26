@@ -1,5 +1,5 @@
 export const guideSlug = "best-breakaway-lanyards-with-id-badge-holders";
-export const guideTitle = "6 Best Breakaway Lanyards with ID Badge Holders in 2026";
+export const guideTitle = "Best Breakaway Lanyards with ID Badge Holders";
 export const metaTitle = "Best Breakaway Lanyards with ID Badge Holders";
 export const metaDescription = "We compared breakaway lanyards with id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "breakaway lanyards with id badge holders";

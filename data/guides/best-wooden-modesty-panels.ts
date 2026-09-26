@@ -1,5 +1,5 @@
 export const guideSlug = "best-wooden-modesty-panels";
-export const guideTitle = "6 Best Wooden Modesty Panels in 2026";
+export const guideTitle = "Best Wooden Modesty Panels";
 export const metaTitle = "Best Wooden Modesty Panels";
 export const metaDescription = "We compared wooden modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "wooden modesty panels";

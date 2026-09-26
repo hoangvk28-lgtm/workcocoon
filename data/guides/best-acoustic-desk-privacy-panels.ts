@@ -1,5 +1,5 @@
 export const guideSlug = "best-acoustic-desk-privacy-panels";
-export const guideTitle = "3 Best Acoustic Desk Privacy Panels in 2026";
+export const guideTitle = "Best Acoustic Desk Privacy Panels";
 export const metaTitle = "Best Acoustic Desk Privacy Panels (2026)";
 export const metaDescription =
   "3 acoustic desk privacy panels we evaluated, with notes on how this pick set overlaps with our dedicated sound-absorbing desk privacy panel guide.";

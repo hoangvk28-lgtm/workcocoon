@@ -1,5 +1,5 @@
 export const guideSlug = "best-executive-letter-trays";
-export const guideTitle = "6 Best Executive Letter Trays in 2026";
+export const guideTitle = "Best Executive Letter Trays";
 export const metaTitle = "Best Executive Letter Trays";
 export const metaDescription = "We compared executive letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "executive letter trays";

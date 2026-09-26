@@ -1,5 +1,5 @@
 export const guideSlug = "best-meeting-room-booking-displays";
-export const guideTitle = "8 Best Meeting Room Booking Displays in 2026";
+export const guideTitle = "Best Meeting Room Booking Displays";
 export const metaTitle = "Best Meeting Room Booking Displays";
 export const metaDescription = "We compared meeting room booking display models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "meeting room booking display";

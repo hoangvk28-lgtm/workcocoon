@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-standing-desk-converters";
-export const guideTitle = "6 Best Budget Standing Desk Converters in 2026";
+export const guideTitle = "Best Budget Standing Desk Converters";
 export const metaTitle = "Best Budget Standing Desk Converters (2026)";
 export const metaDescription =
   "6 affordable standing desk converters compared with minimum review and rating thresholds, not just the lowest sticker price alone.";

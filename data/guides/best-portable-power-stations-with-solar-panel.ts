@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-with-solar-panel";
-export const guideTitle = "6 Best Portable Power Stations With Solar Panel in 2026";
+export const guideTitle = "Best Portable Power Stations With Solar Panel";
 export const metaTitle = "Best Portable Power Stations With Solar Panel 2026";
 export const metaDescription = "We compared portable power stations with solar panel by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "portable power stations with solar panel";

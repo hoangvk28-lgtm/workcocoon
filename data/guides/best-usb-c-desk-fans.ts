@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-desk-fans";
-export const guideTitle = "8 Best USB-C Desk Fans in 2026";
+export const guideTitle = "Best USB-C Desk Fans";
 export const metaTitle = "Best USB-C Desk Fans";
 export const metaDescription = "We compared desk fan usb-c powered models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk fan usb-c powered";

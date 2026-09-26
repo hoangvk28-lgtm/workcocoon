@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizer-reels";
-export const guideTitle = "6 Best Cord Organizer Reels in 2026";
+export const guideTitle = "Best Cord Organizer Reels";
 export const metaTitle = "Best Cord Organizer Reels";
 export const metaDescription = "We compared cord organizer reels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cord organizer reels";

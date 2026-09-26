@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-with-ac-outlet";
-export const guideTitle = "8 Best Power Banks with AC Outlet in 2026";
+export const guideTitle = "Best Power Banks with AC Outlet";
 export const metaTitle = "Best Power Banks with AC Outlet";
 export const metaDescription = "We compared power bank with ac outlet models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "power bank with ac outlet";

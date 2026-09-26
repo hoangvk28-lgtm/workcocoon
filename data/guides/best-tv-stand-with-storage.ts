@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-with-storage";
-export const guideTitle = "8 Best TV Stands with Storage in 2026";
+export const guideTitle = "Best TV Stands with Storage";
 export const metaTitle = "Best TV Stands with Storage 2026, Cabinets, Drawers, Shelving";
 export const metaDescription =
   "Best TV stands with storage in 2026. Closed cabinets, drawers, and open shelving ranked by capacity, IR-friendly doors, and console fit.";

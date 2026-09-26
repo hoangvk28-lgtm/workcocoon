@@ -1,5 +1,5 @@
 export const guideSlug = "best-neat-room-schedulers";
-export const guideTitle = "8 Best Neat Room Schedulers in 2026";
+export const guideTitle = "Best Neat Room Schedulers";
 export const metaTitle = "Best Neat Room Schedulers";
 export const metaDescription = "We compared neat meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "neat meeting room scheduler";

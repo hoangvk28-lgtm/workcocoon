@@ -1,5 +1,5 @@
 export const guideSlug = "best-copy-holders-for-transcription";
-export const guideTitle = "6 Best Copy Holders for Transcription in 2026";
+export const guideTitle = "Best Copy Holders for Transcription";
 export const metaTitle = "Best Copy Holders for Transcription";
 export const metaDescription = "We compared copy holder for transcription models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "copy holder for transcription";

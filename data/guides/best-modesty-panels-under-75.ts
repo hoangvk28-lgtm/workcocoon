@@ -1,5 +1,5 @@
 export const guideSlug = "best-modesty-panels-under-75";
-export const guideTitle = "6 Best Modesty Panels Under $75 in 2026";
+export const guideTitle = "Best Modesty Panels Under $75";
 export const metaTitle = "Best Modesty Panels Under $75";
 export const metaDescription = "We compared modesty panels under $75 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "modesty panels under $75";

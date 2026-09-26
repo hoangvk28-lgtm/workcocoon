@@ -1,5 +1,5 @@
 export const guideSlug = "best-q-connect-letter-trays";
-export const guideTitle = "6 Best Q-Connect Letter Trays in 2026";
+export const guideTitle = "Best Q-Connect Letter Trays";
 export const metaTitle = "Best Q-Connect Letter Trays";
 export const metaDescription = "We compared q-connect letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "q-connect letter trays";

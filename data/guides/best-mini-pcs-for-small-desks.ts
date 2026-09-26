@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-small-desks";
-export const guideTitle = "4 Best Mini PCs for Small Desks in 2026";
+export const guideTitle = "Best Mini PCs for Small Desks";
 export const metaTitle = "Best Mini PCs for Small Desks (2026)";
 export const metaDescription =
   "4 mini PCs for small desks we evaluated, calculating the true installed footprint including cables and the power brick, not just chassis size.";

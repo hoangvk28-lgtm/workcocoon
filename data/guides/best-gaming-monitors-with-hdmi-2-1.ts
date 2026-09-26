@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-with-hdmi-2-1";
-export const guideTitle = "6 Best Gaming Monitors With HDMI 2.1 in 2026";
+export const guideTitle = "Best Gaming Monitors With HDMI 2.1";
 export const metaTitle = "Best Gaming Monitors With HDMI 2.1";
 export const metaDescription = "We compared gaming monitors with hdmi 2.1 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "gaming monitors with hdmi 2.1";

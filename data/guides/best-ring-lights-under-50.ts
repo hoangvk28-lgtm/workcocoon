@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-under-50";
-export const guideTitle = "7 Best Ring Lights Under $50 in 2026";
+export const guideTitle = "Best Ring Lights Under $50";
 export const metaTitle = "Best Ring Lights Under $50";
 export const metaDescription = "We compared ring light under 300 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ring light under 300";

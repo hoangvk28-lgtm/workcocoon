@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pegboards-for-l-shaped-desks";
-export const guideTitle = "3 Best Desk Pegboards for L-Shaped Desks in 2026";
+export const guideTitle = "Best Desk Pegboards for L-Shaped Desks";
 export const metaTitle = "Best Pegboards for L-Shaped Desks (2026)";
 export const metaDescription =
   "3 L-shaped desks with built-in pegboards we evaluated, since this search mostly reflects buyers wanting an integrated desk, not an add-on.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-usb-4-dock";
-export const guideTitle = "4 Best USB-C USB4 Docks in 2026";
+export const guideTitle = "Best USB-C USB4 Docks";
 export const metaTitle = "Best USB-C USB4 Docks";
 export const metaDescription = "We compared universal USB-C docks by real cross-brand laptop compatibility and IT management features, since a genuinely universal dock avoids fleet mismatches.";
 export const mainKeyword = "best usb c usb 4 dock";

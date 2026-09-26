@@ -1,5 +1,5 @@
 export const guideSlug = "best-chair-mats-for-thick-carpet";
-export const guideTitle = "8 Best Chair Mats for Thick Carpet in 2026";
+export const guideTitle = "Best Chair Mats That Won't Sink Into Thick Carpet";
 export const metaTitle = "Best Chair Mats for Thick Carpet in 2026 (Won't Sink Into the Pile)";
 export const metaDescription =
   "8 best chair mats for thick carpet in 2026, from a GreenGuard-certified polycarbonate pick to a 1,400 lb rigid mat that won't sink into deep pile.";

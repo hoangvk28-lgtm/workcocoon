@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-for-wildfire-smoke";
-export const guideTitle = "8 Best Air Quality Monitors for Wildfire Smoke in 2026";
+export const guideTitle = "Best Air Quality Monitors for Wildfire Smoke";
 export const metaTitle = "Best Air Quality Monitors for Wildfire Smoke";
 export const metaDescription = "We compared air quality monitor for wildfire smoke models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor for wildfire smoke";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-asus-nvme-enclosures";
-export const guideTitle = "5 Best ASUS NVMe Enclosures in 2026";
+export const guideTitle = "Best ASUS NVMe Enclosures";
 export const metaTitle = "Best ASUS NVMe Enclosures in 2026";
 export const metaDescription = "ASUS's ROG and TUF Gaming lines add MIL-STD-810H toughness and RGB to NVMe enclosures. We mapped the current lineup by protocol.";
 export const mainKeyword = "asus nvme enclosures";

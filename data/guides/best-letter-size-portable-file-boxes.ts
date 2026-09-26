@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-size-portable-file-boxes";
-export const guideTitle = "5 Best Letter-Size Portable File Boxes in 2026";
+export const guideTitle = "Best Letter-Size Portable File Boxes";
 export const metaTitle = "Best Letter-Size Portable File Boxes (2026)";
 export const metaDescription =
   "5 letter-size file boxes, the standard US document size, checked for genuine hanging file rail compatibility and proven review track records.";

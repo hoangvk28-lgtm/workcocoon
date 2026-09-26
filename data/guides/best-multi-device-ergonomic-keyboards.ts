@@ -1,5 +1,5 @@
 export const guideSlug = "best-multi-device-ergonomic-keyboards";
-export const guideTitle = "5 Best Multi-Device Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Multi-Device Ergonomic Keyboards";
 export const metaTitle = "Best Multi-Device Ergonomic Keyboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 multi-device ergonomic keyboards we evaluated, with the OS-layout-auto-switching check competitors skip: switching to a different paired device running a different OS should ideally adjust the keyboard's active layout mapping, a genuinely advanced feature worth verifying.";

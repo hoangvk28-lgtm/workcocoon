@@ -1,5 +1,5 @@
 export const guideSlug = "best-costway-kneeling-chairs";
-export const guideTitle = "8 Best Costway Kneeling Chairs in 2026";
+export const guideTitle = "Best Costway Kneeling Chairs";
 export const metaTitle = "Best Costway Kneeling Chairs";
 export const metaDescription = "We compared costway ergonomic kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "costway ergonomic kneeling chair";

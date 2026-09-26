@@ -1,5 +1,5 @@
 export const guideSlug = "best-cardboard-letter-trays";
-export const guideTitle = "4 Best Cardboard Letter Trays in 2026";
+export const guideTitle = "Best Cardboard Letter Trays";
 export const metaTitle = "Best Cardboard Letter Trays";
 export const metaDescription = "We compared cardboard letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cardboard letter trays";

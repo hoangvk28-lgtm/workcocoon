@@ -1,5 +1,5 @@
 export const guideSlug = "best-receipt-printers-for-small-businesses";
-export const guideTitle = "5 Best Receipt Printers for Small Businesses in 2026";
+export const guideTitle = "Best Receipt Printers for Small Businesses";
 export const metaTitle = "Best Receipt Printers for Small Businesses in 2026 (POS & Labels)";
 export const metaDescription =
   "5 best receipt and shipping label printers for small businesses in 2026. Compare 58mm vs 80mm thermal width, POS software fit, and Bluetooth label options.";

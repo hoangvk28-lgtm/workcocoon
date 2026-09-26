@@ -1,5 +1,5 @@
 export const guideSlug = "best-frigidaire-dehumidifiers";
-export const guideTitle = "8 Best Frigidaire Dehumidifiers in 2026";
+export const guideTitle = "Best Frigidaire Dehumidifiers";
 export const metaTitle = "Best Frigidaire Dehumidifiers";
 export const metaDescription = "We compared frigidaire dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "frigidaire dehumidifier";

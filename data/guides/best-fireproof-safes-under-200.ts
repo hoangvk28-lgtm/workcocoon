@@ -1,5 +1,5 @@
 export const guideSlug = "best-fireproof-safes-under-200";
-export const guideTitle = "8 Best Fireproof Safes Under $200 in 2026";
+export const guideTitle = "Best Fireproof Safes Under $200";
 export const metaTitle = "Best Fireproof Safes Under $200 2026";
 export const metaDescription = "We compared fireproof safes under $200 by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "fireproof safes under $200";

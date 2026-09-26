@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-space-heaters";
-export const guideTitle = "7 Best Mini Space Heaters in 2026";
+export const guideTitle = "Best Mini Space Heaters";
 export const metaTitle = "Best Mini Space Heaters";
 export const metaDescription = "We compared space heater mini models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "space heater mini";

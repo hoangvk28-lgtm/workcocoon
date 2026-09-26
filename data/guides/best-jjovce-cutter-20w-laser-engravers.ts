@@ -1,5 +1,5 @@
 export const guideSlug = "best-jjovce-cutter-20w-laser-engravers";
-export const guideTitle = "3 Best Jjovce Cutter 20W Laser Engravers in 2026";
+export const guideTitle = "Best Jjovce Cutter 20W Laser Engravers";
 export const metaTitle = "Best Jjovce Cutter 20W Laser Engravers in 2026";
 export const metaDescription = "We compared best jjovce cutter 20w laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "jjovce cutter 20w laser engravers";

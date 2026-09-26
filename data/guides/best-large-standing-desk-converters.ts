@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-standing-desk-converters";
-export const guideTitle = "6 Best Large Standing Desk Converters in 2026";
+export const guideTitle = "Best Large Standing Desk Converters";
 export const metaTitle = "Best Large Standing Desk Converters (2026)";
 export const metaDescription =
   "6 wide-platform standing desk converters compared on real desk footprint and load, for buyers who need serious surface area for multiple devices.";

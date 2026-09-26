@@ -1,5 +1,5 @@
 export const guideSlug = "best-formlabs-3d-printers";
-export const guideTitle = "6 Best Formlabs 3D Printers in 2026";
+export const guideTitle = "Best Formlabs 3D Printers";
 export const metaTitle = "Best Formlabs 3D Printers";
 export const metaDescription = "We compared formlabs 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "formlabs 3d printers";

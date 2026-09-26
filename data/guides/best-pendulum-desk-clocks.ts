@@ -1,5 +1,5 @@
 export const guideSlug = "best-pendulum-desk-clocks";
-export const guideTitle = "5 Best Pendulum Desk Clocks in 2026";
+export const guideTitle = "Best Pendulum Desk Clocks";
 export const metaTitle = "Best Pendulum Desk Clocks (2026)";
 export const metaDescription =
   "5 mantel clocks with a genuinely visible, moving pendulum mechanism, verified against listing descriptions rather than assuming decorative gear motion counts.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-foldable-office-pods";
-export const guideTitle = "3 Best Portable Office Pods in 2026";
+export const guideTitle = "Best Portable Office Pods";
 export const metaTitle = "Best Portable Office Pods, Foldable (2026)";
 export const metaDescription =
   "3 office pods described as portable in their Amazon listings, reviewed honestly since none are explicitly described as foldable.";

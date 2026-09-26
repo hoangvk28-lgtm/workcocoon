@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-home-offices";
-export const guideTitle = "8 Best Printers for Home Offices in 2026";
+export const guideTitle = "Best Printers for Home Offices";
 export const metaTitle = "Best Printers for Home Offices in 2026 (Duty Cycle Explained)";
 export const metaDescription =
   "8 printers we evaluated for home offices, covering duty cycle versus real monthly volume, multi-user wifi sharing, scan quality for documents, and an honest fax reality check.";

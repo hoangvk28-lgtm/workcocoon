@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engravers";
-export const guideTitle = "7 Best Laser Engravers in 2026";
+export const guideTitle = "Best Laser Engravers";
 export const metaTitle = "7 Best Laser Engravers in 2026";
 export const metaDescription = "We compared laser engravers by verified power output, enclosure safety hardware, and real cutting depth rather than ranking by marketed wattage alone.";
 export const mainKeyword = "laser engraver";

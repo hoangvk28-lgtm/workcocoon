@@ -1,5 +1,5 @@
 export const guideSlug = "best-parcel-tape-dispensers";
-export const guideTitle = "6 Best Parcel Tape Dispensers in 2026";
+export const guideTitle = "Best Parcel Tape Dispensers";
 export const metaTitle = "Best Parcel Tape Dispensers";
 export const metaDescription = "We compared parcel tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "parcel tape dispensers";

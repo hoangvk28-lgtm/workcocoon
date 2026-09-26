@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-under-40";
-export const guideTitle = "4 Best Portable File Boxes Under $40 in 2026";
+export const guideTitle = "Best Portable File Boxes Under $40";
 export const metaTitle = "Best Portable File Boxes Under $40";
 export const metaDescription = "We compared portable file boxes under $40 by fire resistance rating, wheel mobility, and lock design, since genuine fireproofing appears at this tier.";
 export const mainKeyword = "best portable file boxes under $40";

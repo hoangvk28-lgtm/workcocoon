@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-students";
-export const guideTitle = "8 Best Task Chairs for Students in 2026";
+export const guideTitle = "Best Task Chairs for Students";
 export const metaTitle = "Best Task Chairs for Students";
 export const metaDescription = "We compared task chair for students models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair for students";

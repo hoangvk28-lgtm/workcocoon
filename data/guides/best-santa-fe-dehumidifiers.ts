@@ -1,5 +1,5 @@
 export const guideSlug = "best-santa-fe-dehumidifiers";
-export const guideTitle = "8 Best Santa Fe Dehumidifiers in 2026";
+export const guideTitle = "Best Santa Fe Dehumidifiers";
 export const metaTitle = "Best Santa Fe Dehumidifiers";
 export const metaDescription = "We compared santa fe dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "santa fe dehumidifier";

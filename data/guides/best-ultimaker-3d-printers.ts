@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultimaker-3d-printers";
-export const guideTitle = "6 Best UltiMaker 3D Printers in 2026";
+export const guideTitle = "Best UltiMaker 3D Printers";
 export const metaTitle = "Best UltiMaker 3D Printers";
 export const metaDescription = "We compared ultimaker 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ultimaker 3d printers";

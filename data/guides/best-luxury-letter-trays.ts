@@ -1,5 +1,5 @@
 export const guideSlug = "best-luxury-letter-trays";
-export const guideTitle = "6 Best Luxury Letter Trays in 2026";
+export const guideTitle = "Best Luxury Letter Trays";
 export const metaTitle = "Best Luxury Letter Trays";
 export const metaDescription = "We compared luxury letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "luxury letter trays";

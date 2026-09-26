@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-cnc-mills";
-export const guideTitle = "8 Best Desktop CNC Mills in 2026";
+export const guideTitle = "Best Desktop CNC Mills";
 export const metaTitle = "Best Desktop CNC Mills 2026";
 export const metaDescription = "We compared desktop cnc mills by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "desktop cnc mills";

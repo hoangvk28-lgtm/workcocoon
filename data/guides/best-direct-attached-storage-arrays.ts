@@ -1,5 +1,5 @@
 export const guideSlug = "best-direct-attached-storage-arrays";
-export const guideTitle = "8 Best Direct-Attached Storage Arrays";
+export const guideTitle = "Best Direct-Attached Storage Arrays";
 export const metaTitle = "Best Direct-Attached Storage Arrays";
 export const metaDescription = "Array specifically means multi-drive protected storage. We required real RAID metadata ownership and rebuild documentation before ranking.";
 export const mainKeyword = "direct-attached storage arrays";

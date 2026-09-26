@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-filing-cabinets-for-small-spaces";
 
 export const guideSlug = "best-filing-cabinets-for-small-spaces";
-export const guideTitle = "8 Best Filing Cabinets for Small Spaces in 2026";
+export const guideTitle = "Best Filing Cabinets for Small Spaces";
 export const metaTitle = "Best Filing Cabinets for Small Spaces 2026, Compact Picks";
 export const metaDescription =
   "Best filing cabinets for small spaces in 2026, ranked by footprint, access clearance, and standing-desk compatibility, not just drawer count.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-monitors-for-xbox-series-x";
-export const guideTitle = "6 Best 4K Monitors for Xbox Series X in 2026";
+export const guideTitle = "Best 4K Monitors for Xbox Series X";
 export const metaTitle = "Best 4K Monitors for Xbox Series X";
 export const metaDescription = "We compared 4k monitors for xbox series x models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "4k monitors for xbox series x";

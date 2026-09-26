@@ -1,5 +1,5 @@
 export const guideSlug = "best-phomemo-label-printers";
-export const guideTitle = "6 Best Phomemo Label Printers in 2026";
+export const guideTitle = "Best Phomemo Label Printers";
 export const metaTitle = "Best Phomemo Label Printers";
 export const metaDescription = "We compared phomemo label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "phomemo label printers";

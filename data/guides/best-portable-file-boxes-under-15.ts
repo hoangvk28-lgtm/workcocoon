@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-under-15";
-export const guideTitle = "4 Best Portable File Boxes Under $15 in 2026";
+export const guideTitle = "Best Portable File Boxes Under $15";
 export const metaTitle = "Best Portable File Boxes Under $15";
 export const metaDescription = "We compared portable file boxes under $15 by material, handle design, and lid type, since collapsible cardboard and rigid plastic solve different needs.";
 export const mainKeyword = "best portable file boxes under $15";

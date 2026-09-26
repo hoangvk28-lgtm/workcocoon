@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mounted-air-purifiers-for-small-rooms";
-export const guideTitle = "5 Best Wall-Mounted Air Purifiers for Small Rooms in 2026";
+export const guideTitle = "Best Wall-Mounted Air Purifiers for Small Rooms";
 export const metaTitle = "Best Wall-Mounted Air Purifiers for Small Rooms, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 wall-mounted air purifiers we evaluated for small rooms, with the floor-space tradeoff competitors skip: wall mounting frees genuine floor area in a tight room, but filter changes at height can be less convenient than a floor unit.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-multiple-monitors";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for Dual and Triple Monitors in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for Dual and Triple Monitors";
 export const metaTitle = "Best TB5 Docks for Multiple Monitors";
 export const metaDescription = "We compared Thunderbolt 5 docks for multi-monitor setups by exact display counts per platform, since Windows and Mac often get genuinely different limits.";
 export const mainKeyword = "best thunderbolt 5 dock for multiple monitors";

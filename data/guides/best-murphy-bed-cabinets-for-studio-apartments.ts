@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-bed-cabinets-for-studio-apartments";
-export const guideTitle = "8 Best Murphy Bed Cabinets for Studio Apartments in 2026";
+export const guideTitle = "Best Murphy Bed Cabinets for Studio Apartments";
 export const metaTitle = "Best Murphy Bed Cabinets for Studio Apartments in 2026 (Lease Guide)";
 export const metaDescription =
   "8 murphy bed cabinets compared for studio apartment living, including HVAC vent planning, noise level, floor load capacity, and lease approval steps before you buy.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-reusable-lcd-writing-tablets";
-export const guideTitle = "6 Best Reusable LCD Writing Tablets in 2026";
+export const guideTitle = "Best Reusable LCD Writing Tablets";
 export const metaTitle = "Best Reusable LCD Writing Tablets (2026)";
 export const metaDescription =
   "6 reusable LCD writing tablets we evaluated, with a clear explainer on how erase-and-rewrite LCD screens differ from paper-based reusable notebooks.";

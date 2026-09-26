@@ -1,5 +1,5 @@
 export const guideSlug = "best-locking-storage-carts";
-export const guideTitle = "8 Best Locking Storage Carts in 2026";
+export const guideTitle = "Best Locking Storage Carts";
 export const metaTitle = "Best Locking Storage Carts";
 export const metaDescription = "We compared storage cart with lock models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart with lock";

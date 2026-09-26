@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-charging-carts-for-schools";
-export const guideTitle = "8 Best Laptop Charging Carts for Schools in 2026";
+export const guideTitle = "Best Laptop Charging Carts for Schools";
 export const metaTitle = "Best Laptop Charging Carts for Schools (2026)";
 export const metaDescription =
   "8 school charging carts compared on fleet standardization, mixed-device compatibility, and serviceability, from a 16-bay cart to a 42-port enterprise unit.";

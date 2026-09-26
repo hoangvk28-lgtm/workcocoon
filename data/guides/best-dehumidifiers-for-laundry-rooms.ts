@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-laundry-rooms";
-export const guideTitle = "8 Best Dehumidifiers for Laundry Rooms in 2026";
+export const guideTitle = "Best Dehumidifiers for Laundry Rooms";
 export const metaTitle = "Best Dehumidifiers for Laundry Rooms";
 export const metaDescription = "We compared laundry dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "laundry dehumidifier";

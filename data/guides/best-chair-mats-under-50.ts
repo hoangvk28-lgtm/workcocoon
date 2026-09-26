@@ -1,5 +1,5 @@
 export const guideSlug = "best-chair-mats-under-50";
-export const guideTitle = "4 Best Chair Mats Under $50 in 2026";
+export const guideTitle = "Best Chair Mats Under $50";
 export const metaTitle = "Best Chair Mats Under $50";
 export const metaDescription = "We compared chair mats under $50 by weight capacity, size, and floor type, since heavy-duty mats in this tier add real durability testing behind them.";
 export const mainKeyword = "best chair mats under $50";

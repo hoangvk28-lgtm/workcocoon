@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards";
-export const guideTitle = "8 Best Mechanical Keyboards in 2026";
+export const guideTitle = "Best Mechanical Keyboards Matched to How You Actually Work";
 export const metaTitle = "Best Mechanical Keyboards in 2026 (Gaming & Office Picks)";
 export const metaDescription =
   "8 best mechanical keyboards in 2026, from a budget blue-switch board to a Hall effect rapid trigger model. Compare switches, noise level, and keycap material.";

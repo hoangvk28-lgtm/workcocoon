@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-for-surface";
-export const guideTitle = "4 Best USB4 Docks for Microsoft Surface in 2026";
+export const guideTitle = "Best USB4 Docks for Microsoft Surface";
 export const metaTitle = "Best USB4 Docks for Microsoft Surface";
 export const metaDescription = "We compared USB4 docks for Surface by official Microsoft compatibility, charging speed, and display count, since third-party support varies widely.";
 export const mainKeyword = "best usb4 dock for surface";

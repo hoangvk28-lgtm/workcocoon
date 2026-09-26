@@ -1,5 +1,5 @@
 export const guideSlug = "best-80mm-label-printers";
-export const guideTitle = "6 Best 80mm Label Printers in 2026";
+export const guideTitle = "Best 80mm Label Printers";
 export const metaTitle = "Best 80mm Label Printers";
 export const metaDescription = "We compared 80mm label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "80mm label printers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mobile-vr-headsets";
-export const guideTitle = "6 Best Mobile VR Headsets in 2026";
+export const guideTitle = "Best Mobile VR Headsets";
 export const metaTitle = "Best Mobile VR Headsets";
 export const metaDescription = "We compared mobile vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mobile vr headsets";

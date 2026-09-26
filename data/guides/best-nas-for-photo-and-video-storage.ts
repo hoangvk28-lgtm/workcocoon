@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-for-photo-and-video-storage";
-export const guideTitle = "8 Best NAS for Photo and Video Storage in 2026";
+export const guideTitle = "Best NAS for Photo and Video Storage";
 export const metaTitle = "Best NAS for Photo and Video Storage in 2026 (Editing & Archives)";
 export const metaDescription =
   "8 best NAS for photo and video storage in 2026, from budget 2-bay picks to Intel-powered editing NAS. Compare capacity, network speed, and transcoding fit.";

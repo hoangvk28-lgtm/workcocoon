@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-with-mouse-trays";
-export const guideTitle = "3 Best Laptop Cooling Pads with Mouse Trays in 2026";
+export const guideTitle = "Best Laptop Cooling Pads with Mouse Trays";
 export const metaTitle = "Best Cooling Pads with Mouse Trays (2026)";
 export const metaDescription =
   "3 lap desks we verified genuinely combine a mouse tray with laptop cooling, checking real tray stability and cooling mechanism honestly.";

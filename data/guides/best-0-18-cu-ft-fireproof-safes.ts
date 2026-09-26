@@ -1,5 +1,5 @@
 export const guideSlug = "best-0-18-cu-ft-fireproof-safes";
-export const guideTitle = "8 Best 0.18 Cu ft Fireproof Safes in 2026";
+export const guideTitle = "Best 0.18 Cu ft Fireproof Safes";
 export const metaTitle = "Best 0.18 Cu ft Fireproof Safes 2026";
 export const metaDescription = "We compared 0.18 cu ft fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "0.18 cu ft fireproof safes";

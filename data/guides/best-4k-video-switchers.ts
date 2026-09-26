@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-video-switchers";
-export const guideTitle = "8 Best 4K Video Switchers in 2026";
+export const guideTitle = "Best 4K Video Switchers";
 export const metaTitle = "Best 4K Video Switchers";
 export const metaDescription = "We compared 4k video switcher models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "4k video switcher";

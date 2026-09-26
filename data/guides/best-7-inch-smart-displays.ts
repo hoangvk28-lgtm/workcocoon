@@ -1,5 +1,5 @@
 export const guideSlug = "best-7-inch-smart-displays";
-export const guideTitle = "1 Best 7 Inch Smart Display in 2026";
+export const guideTitle = "Best 7 Inch Smart Display";
 export const metaTitle = "Best 7 Inch Smart Displays (2026)";
 export const metaDescription =
   "The Google Nest Hub is the only verified genuine 7 inch smart display we found this pass. Here is a detailed, honest look at it.";

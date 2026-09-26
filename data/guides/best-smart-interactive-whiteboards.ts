@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-interactive-whiteboards";
-export const guideTitle = "8 Best Smart Interactive Whiteboards";
+export const guideTitle = "Best Smart Interactive Whiteboards";
 export const metaTitle = "Best Smart Interactive Whiteboards";
 export const metaDescription = "We defined the minimum smart feature set (embedded OS, app access, wireless casting, cloud storage) before ranking generic smart whiteboards.";
 export const mainKeyword = "interactive whiteboard smart board";

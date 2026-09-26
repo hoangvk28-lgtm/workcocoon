@@ -1,5 +1,5 @@
 export const guideSlug = "best-casio-label-printers";
-export const guideTitle = "6 Best Casio Label Printers in 2026";
+export const guideTitle = "Best Casio Label Printers";
 export const metaTitle = "Best Casio Label Printers";
 export const metaDescription = "We compared casio label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "casio label printers";

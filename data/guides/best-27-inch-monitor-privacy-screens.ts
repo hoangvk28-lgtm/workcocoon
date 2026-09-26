@@ -1,5 +1,5 @@
 export const guideSlug = "best-27-inch-monitor-privacy-screens";
-export const guideTitle = "7 Best 27-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 27-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 27-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "7 privacy filters confirmed for genuine 27 inch, 16:9 monitors, from a $29.99 single unit to a genuine 3M pick and a curved-compatible nano-suction option.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-narrow-room-dividers-for-small-spaces";
-export const guideTitle = "8 Best Narrow Room Dividers for Small Spaces in 2026";
+export const guideTitle = "Best Narrow Room Dividers for Small Spaces";
 export const metaTitle = "Best Narrow Room Dividers for Small Spaces in 2026";
 export const metaDescription =
   "8 best narrow room dividers for small spaces in 2026. What narrow actually means, folded storage size, HVAC draft stability, and the 8-foot ceiling gap issue.";

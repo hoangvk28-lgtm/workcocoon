@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-stickers-and-cricut";
-export const guideTitle = "8 Best Printers for Stickers and Cricut Crafting in 2026";
+export const guideTitle = "Best Printers for Stickers and Cricut Crafting";
 export const metaTitle = "Best Printers for Stickers and Cricut Crafting in 2026";
 export const metaDescription =
   "8 thermal label printers we evaluated for sticker and Cricut crafting workflows, with an honest look at what these direct thermal printers can and can't do for color sticker projects.";

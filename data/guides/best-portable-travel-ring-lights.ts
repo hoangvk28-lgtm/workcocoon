@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-travel-ring-lights";
-export const guideTitle = "7 Best Portable/Travel Ring Lights in 2026";
+export const guideTitle = "Best Portable/Travel Ring Lights";
 export const metaTitle = "Best Portable/Travel Ring Lights";
 export const metaDescription = "We compared ring light mini models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light mini";

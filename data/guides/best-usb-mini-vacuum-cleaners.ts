@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-mini-vacuum-cleaners";
-export const guideTitle = "8 Best USB Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best USB Mini Vacuum Cleaners";
 export const metaTitle = "Best USB Mini Vacuum Cleaners";
 export const metaDescription = "We compared usb mini vacuum cleaner models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "usb mini vacuum cleaner";

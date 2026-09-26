@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-allergies";
-export const guideTitle = "8 Best Humidifiers for Allergies in 2026";
+export const guideTitle = "Best Humidifiers for Allergies";
 export const metaTitle = "Best Humidifiers for Allergies";
 export const metaDescription = "We compared humidifier for allergies models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier for allergies";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-iphone";
-export const guideTitle = "7 Best USB-C Ethernet Adapters for iPhone";
+export const guideTitle = "Best USB-C Ethernet Adapters for iPhone";
 export const metaTitle = "Best USB-C Ethernet Adapters for iPhone";
 export const metaDescription = "Apple sells a validated 2.5GbE adapter for USB-C iPhones. This guide covers only USB-C iPhone models, not Lightning-only devices.";
 export const mainKeyword = "usb-c ethernet adapters for iphone";

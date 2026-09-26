@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-for-invoices";
-export const guideTitle = "7 Best Document Scanners for Invoices in 2026";
+export const guideTitle = "Best Document Scanners for Invoices";
 export const metaTitle = "Best Document Scanners for Invoices, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 scanners we evaluated for invoice processing, with a note that vendor invoices arrive in wildly variable page sizes and formats that most ADF scanners handle inconsistently in mixed batches.";

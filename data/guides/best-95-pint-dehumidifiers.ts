@@ -1,5 +1,5 @@
 export const guideSlug = "best-95-pint-dehumidifiers";
-export const guideTitle = "8 Best 95-Pint Dehumidifiers in 2026";
+export const guideTitle = "Best 95-Pint Dehumidifiers";
 export const metaTitle = "Best 95-Pint Dehumidifiers";
 export const metaDescription = "We compared 95 pint dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "95 pint dehumidifier";

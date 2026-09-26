@@ -1,5 +1,5 @@
 export const guideSlug = "best-90s-style-blue-light-glasses";
-export const guideTitle = "6 Best 90s-Style Blue Light Glasses in 2026";
+export const guideTitle = "Best 90s-Style Blue Light Glasses";
 export const metaTitle = "Best 90s-Style Blue Light Glasses";
 export const metaDescription = "We compared 90s-style blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "90s-style blue light glasses";

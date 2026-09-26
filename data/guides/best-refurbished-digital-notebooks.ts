@@ -1,5 +1,5 @@
 export const guideSlug = "best-refurbished-digital-notebooks";
-export const guideTitle = "5 Best Refurbished Digital Notebooks in 2026";
+export const guideTitle = "Best Refurbished Digital Notebooks";
 export const metaTitle = "Best Refurbished Digital Notebooks (2026)";
 export const metaDescription =
   "5 Like-New and refurbished E Ink notebooks compared by actual discount versus the new price, since the savings vary a lot more than the \"refurbished\" label alone suggests.";

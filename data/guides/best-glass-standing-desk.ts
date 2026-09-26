@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-glass-standing-desk";
 
 export const guideSlug = "best-glass-standing-desk";
-export const guideTitle = "8 Best Glass Standing Desks in 2026";
+export const guideTitle = "Best Glass Standing Desks";
 export const metaTitle = "Best Glass Standing Desks 2026, Tempered Glass Electric Picks";
 export const metaDescription =
   "Best glass standing desks in 2026. Tempered glass electric sit-stand desks with dry-erase surfaces, drawers, and frosted gaming tops ranked by build quality.";

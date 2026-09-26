@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-stands-under-30";
-export const guideTitle = "4 Best Printer Stands Under $30 in 2026";
+export const guideTitle = "Best Printer Stands Under $30";
 export const metaTitle = "Best Printer Stands Under $30";
 export const metaDescription = "We compared printer stands under $30 by drawer type, tier count, and mobility, since hidden storage and multi-printer layouts start appearing at this tier.";
 export const mainKeyword = "best printer stands under $30";

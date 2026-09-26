@@ -1,5 +1,5 @@
 export const guideSlug = "best-transfer-tape-dispensers";
-export const guideTitle = "5 Best Transfer Tape Dispensers in 2026";
+export const guideTitle = "Best Transfer Tape Dispensers";
 export const metaTitle = "Best Transfer Tape Dispensers";
 export const metaDescription = "We compared transfer tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "transfer tape dispensers";

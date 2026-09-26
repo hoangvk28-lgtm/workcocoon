@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engravers-with-camera";
-export const guideTitle = "4 Best Laser Engravers With Camera in 2026";
+export const guideTitle = "Best Laser Engravers With Camera";
 export const metaTitle = "Best Laser Engravers With Camera in 2026";
 export const metaDescription = "We compared best laser engravers with camera by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "laser engravers with camera";

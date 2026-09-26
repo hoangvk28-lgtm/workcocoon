@@ -1,5 +1,5 @@
 export const guideSlug = "best-bigscreen-vr-headsets";
-export const guideTitle = "6 Best Bigscreen VR Headsets in 2026";
+export const guideTitle = "Best Bigscreen VR Headsets";
 export const metaTitle = "Best Bigscreen VR Headsets";
 export const metaDescription = "We compared bigscreen vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "bigscreen vr headsets";

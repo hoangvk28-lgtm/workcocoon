@@ -1,5 +1,5 @@
 export const guideSlug = "best-microsoft-meeting-room-schedulers";
-export const guideTitle = "8 Best Microsoft Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Microsoft Meeting Room Schedulers";
 export const metaTitle = "Best Microsoft Meeting Room Schedulers";
 export const metaDescription = "We compared microsoft meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "microsoft meeting room scheduler";

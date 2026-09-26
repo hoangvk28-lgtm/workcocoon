@@ -1,5 +1,5 @@
 export const guideSlug = "best-5gbe-network-switches";
-export const guideTitle = "5 Best 5GbE Network Switches in 2026";
+export const guideTitle = "Best 5GbE Network Switches";
 export const metaTitle = "Best 5GbE Network Switches in 2026";
 export const metaDescription = "Dedicated 5GbE-only switches are rare; most are multi-gig models auto-negotiating 1G/2.5G/5G/10G. We clarified chipset differences.";
 export const mainKeyword = "5gbe network switches";

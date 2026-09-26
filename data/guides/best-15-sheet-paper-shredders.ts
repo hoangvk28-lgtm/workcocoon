@@ -1,5 +1,5 @@
 export const guideSlug = "best-15-sheet-paper-shredders";
-export const guideTitle = "8 Best 15-Sheet Paper Shredders in 2026";
+export const guideTitle = "Best 15-Sheet Paper Shredders";
 export const metaTitle = "Best 15-Sheet Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders rated for 15 sheets, where auto-feed hoppers start becoming common but the same duty-cycle and mixed-paper caveats from lower tiers still apply just as much.";

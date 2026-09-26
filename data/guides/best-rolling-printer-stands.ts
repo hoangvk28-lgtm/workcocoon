@@ -1,5 +1,5 @@
 export const guideSlug = "best-rolling-printer-stands";
-export const guideTitle = "8 Best Rolling Printer Stands in 2026";
+export const guideTitle = "Best Rolling Printer Stands";
 export const metaTitle = "Best Rolling Printer Stands in 2026 (Wheeled Carts)";
 export const metaDescription =
   "8 best rolling printer stands in 2026, from locking-wheel printer carts to general-purpose utility carts. Compare caster type, capacity, and floor fit.";

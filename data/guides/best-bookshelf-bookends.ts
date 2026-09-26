@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-bookends";
-export const guideTitle = "6 Best Bookshelf Bookends in 2026";
+export const guideTitle = "Best Bookshelf Bookends";
 export const metaTitle = "Best Bookshelf Bookends";
 export const metaDescription = "We compared bookshelf bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "bookshelf bookends";

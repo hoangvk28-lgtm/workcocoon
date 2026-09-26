@@ -1,5 +1,5 @@
 export const guideSlug = "best-6k-vr-headsets";
-export const guideTitle = "6 Best 6K VR Headsets in 2026";
+export const guideTitle = "Best 6K VR Headsets";
 export const metaTitle = "Best 6K VR Headsets";
 export const metaDescription = "We compared 6k vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "6k vr headsets";

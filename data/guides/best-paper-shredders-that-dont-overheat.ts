@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-shredders-that-dont-overheat";
-export const guideTitle = "8 Best Paper Shredders That Don't Overheat in 2026";
+export const guideTitle = "Best Paper Shredders That Don't Overheat";
 export const metaTitle = "Best Paper Shredders That Don't Overheat, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders we evaluated for overheat protection, with a reframe: thermal shutoff exists because shredder motors already run close to their limit under real use, not because overheating is a solved problem.";

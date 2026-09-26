@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelves-under-100";
-export const guideTitle = "4 Best Bookshelves Under $100 in 2026";
+export const guideTitle = "Best Bookshelves Under $100";
 export const metaTitle = "Best Bookshelves Under $100";
 export const metaDescription = "We compared bookshelves under $100 by open versus enclosed cabinet design, adjustable shelf range, and floor-leveling hardware for taller units.";
 export const mainKeyword = "best bookshelves under $100";

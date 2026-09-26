@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-trays-with-clips";
-export const guideTitle = "6 Best Paper Trays with Clips in 2026";
+export const guideTitle = "Best Paper Trays with Clips";
 export const metaTitle = "Best Paper Trays with Clips";
 export const metaDescription = "We compared paper trays with clips models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "paper trays with clips";

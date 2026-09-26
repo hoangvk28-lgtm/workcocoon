@@ -1,5 +1,5 @@
 export const guideSlug = "best-full-width-72-inch-under-desk-drawers";
-export const guideTitle = "8 Best Full-Width (72-Inch) Under-Desk Drawers in 2026";
+export const guideTitle = "Best Full-Width (72-Inch) Under-Desk Drawers";
 export const metaTitle = "Best Full-Width (72-Inch) Under-Desk Drawers";
 export const metaDescription = "We compared under-desk drawer 72 inches wide models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under-desk drawer 72 inches wide";

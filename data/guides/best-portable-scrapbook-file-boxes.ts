@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-scrapbook-file-boxes";
-export const guideTitle = "5 Best Portable Scrapbook File Boxes in 2026";
+export const guideTitle = "Best Portable Scrapbook File Boxes";
 export const metaTitle = "Best Portable Scrapbook File Boxes (2026)";
 export const metaDescription =
   "5 file boxes verified for genuine 12x12 inch scrapbook paper compatibility, distinguished from standard letter-size boxes that don't fit larger scrapbook materials.";

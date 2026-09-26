@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-for-college-students";
-export const guideTitle = "8 Best Corner Desks for College Students in 2026";
+export const guideTitle = "Best Corner Desks for College Students";
 export const metaTitle = "Best Corner Desks for College Students";
 export const metaDescription = "We compared corner desks for small spaces models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "corner desks for small spaces";

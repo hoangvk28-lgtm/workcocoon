@@ -1,5 +1,5 @@
 export const guideSlug = "best-iphone-label-printers";
-export const guideTitle = "6 Best iPhone Label Printers in 2026";
+export const guideTitle = "Best iPhone Label Printers";
 export const metaTitle = "Best iPhone Label Printers";
 export const metaDescription = "We compared iphone label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "iphone label printers";

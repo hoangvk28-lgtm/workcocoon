@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-carpal-tunnel";
-export const guideTitle = "8 Best Vertical Mice for Carpal Tunnel in 2026";
+export const guideTitle = "Best Vertical Mice for Carpal Tunnel";
 export const metaTitle = "Best Vertical Mice for Carpal Tunnel";
 export const metaDescription =
   "We evaluated 8 vertical mice that reduce forearm pronation, a factor linked to carpal tunnel discomfort, alongside professional guidance on next steps.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrasonic-humidifiers";
-export const guideTitle = "8 Best Ultrasonic Humidifiers in 2026";
+export const guideTitle = "Best Ultrasonic Humidifiers";
 export const metaTitle = "Best Ultrasonic Humidifiers";
 export const metaDescription = "We compared humidifier ultrasonic models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier ultrasonic";

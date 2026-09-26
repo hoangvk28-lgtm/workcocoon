@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-under-150";
-export const guideTitle = "4 Best Filing Cabinets Under $150 in 2026";
+export const guideTitle = "Best Filing Cabinets Under $150";
 export const metaTitle = "Best Filing Cabinets Under $150";
 export const metaDescription = "We compared filing cabinets under $150 by drawer count, independent lock security, and anti-tip design, since genuinely tall multi-drawer units appear here.";
 export const mainKeyword = "best filing cabinets under $150";

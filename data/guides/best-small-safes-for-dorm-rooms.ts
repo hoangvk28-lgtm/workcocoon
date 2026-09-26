@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-for-dorm-rooms";
-export const guideTitle = "7 Best Small Safes for Dorm Rooms in 2026";
+export const guideTitle = "Best Small Safes for Dorm Rooms";
 export const metaTitle = "Best Small Safes for Dorm Rooms (2026)";
 export const metaDescription =
   "7 verified dorm-appropriate safes compared on tethering versus drilling, roommate privacy, and move-out portability, after excluding one inaccessible ASIN.";

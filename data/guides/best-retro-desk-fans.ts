@@ -1,5 +1,5 @@
 export const guideSlug = "best-retro-desk-fans";
-export const guideTitle = "8 Best Retro Desk Fans in 2026";
+export const guideTitle = "Best Retro Desk Fans";
 export const metaTitle = "Best Retro Desk Fans";
 export const metaDescription = "We compared desk fan retro design models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk fan retro design";

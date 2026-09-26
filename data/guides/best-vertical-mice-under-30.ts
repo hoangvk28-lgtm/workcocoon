@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-under-30";
-export const guideTitle = "4 Best Vertical Mice Under $30 in 2026";
+export const guideTitle = "Best Vertical Mice Under $30";
 export const metaTitle = "Best Vertical Mice Under $30";
 export const metaDescription = "We compared vertical mice under $30 by Bluetooth support, hand-size fit, and rechargeable battery life, since multi-device and rechargeable designs appear here.";
 export const mainKeyword = "best vertical mice under $30";

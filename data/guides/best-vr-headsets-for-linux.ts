@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-for-linux";
-export const guideTitle = "6 Best VR Headsets for Linux in 2026";
+export const guideTitle = "Best VR Headsets for Linux";
 export const metaTitle = "Best VR Headsets for Linux";
 export const metaDescription = "We compared vr headsets for linux models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vr headsets for linux";

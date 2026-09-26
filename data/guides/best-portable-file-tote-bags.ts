@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-tote-bags";
-export const guideTitle = "5 Best Portable File Tote Bags in 2026";
+export const guideTitle = "Best Portable File Tote Bags";
 export const metaTitle = "Best Portable File Tote Bags (2026)";
 export const metaDescription =
   "5 soft-sided file tote bags checked for structural rigidity tradeoffs against rigid boxes, hanging rail presence, and weather resistance.";

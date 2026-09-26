@@ -1,5 +1,5 @@
 export const guideSlug = "best-reusable-digital-notebooks";
-export const guideTitle = "5 Best Reusable Digital Notebooks in 2026";
+export const guideTitle = "Best Reusable Digital Notebooks";
 export const metaTitle = "Best Reusable Digital Notebooks (2026)";
 export const metaDescription =
   "5 reusable paper notebooks compared by page format and template, Core vs. Fusion vs. Fusion Plus, rather than just size, since the erase mechanism is identical across the whole lineup.";

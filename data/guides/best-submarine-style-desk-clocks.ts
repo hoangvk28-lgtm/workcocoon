@@ -1,5 +1,5 @@
 export const guideSlug = "best-submarine-style-desk-clocks";
-export const guideTitle = "5 Best Submarine-Style Desk Clocks in 2026";
+export const guideTitle = "Best Submarine-Style Desk Clocks";
 export const metaTitle = "Best Submarine-Style Desk Clocks (2026)";
 export const metaDescription =
   "Honest finding: current results for this search are generic vintage metal desk clocks with no genuine dive-watch or submarine styling. We're not using any trademarked brand names here.";

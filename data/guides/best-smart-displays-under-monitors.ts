@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-displays-under-monitors";
-export const guideTitle = "2 Best Smart Displays for Under a Monitor in 2026";
+export const guideTitle = "Best Smart Displays for Under a Monitor";
 export const metaTitle = "Best Smart Displays Under Monitors";
 export const metaDescription =
   "2 short, compact smart displays evaluated specifically for fitting under or beside a monitor without blocking your screen or workspace.";

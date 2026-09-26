@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-printer-stands";
-export const guideTitle = "8 Best Desktop Printer Stands in 2026";
+export const guideTitle = "Best Desktop Printer Stands";
 export const metaTitle = "Best Desktop Printer Stands in 2026 (Risers & Shelves)";
 export const metaDescription =
   "8 best desktop printer stands and risers in 2026 for freeing up desk space. Compare weight capacity, stability, and material honestly before buying.";

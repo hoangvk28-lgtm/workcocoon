@@ -1,5 +1,5 @@
 export const guideSlug = "best-low-profile-standing-desk-converters";
-export const guideTitle = "5 Best Low-Profile Standing Desk Converters in 2026";
+export const guideTitle = "Best Low-Profile Standing Desk Converters";
 export const metaTitle = "Best Low-Profile Standing Desk Converters (2026)";
 export const metaDescription =
   "5 standing desk converters with the lowest seated platform height, minimizing how much they raise your keyboard even when fully lowered.";

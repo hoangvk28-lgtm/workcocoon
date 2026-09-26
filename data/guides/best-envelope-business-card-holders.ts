@@ -1,5 +1,5 @@
 export const guideSlug = "best-envelope-business-card-holders";
-export const guideTitle = "6 Best Envelope Business Card Holders in 2026";
+export const guideTitle = "Best Envelope Business Card Holders";
 export const metaTitle = "Best Envelope Business Card Holders";
 export const metaDescription = "We compared envelope business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "envelope business card holders";

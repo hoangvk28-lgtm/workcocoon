@@ -1,5 +1,5 @@
 export const guideSlug = "best-marble-desk-clocks";
-export const guideTitle = "2 Best Marble Desk Clocks in 2026";
+export const guideTitle = "Best Marble Desk Clocks";
 export const metaTitle = "Best Marble Desk Clocks (2026)";
 export const metaDescription =
   "An honest, short guide to genuine marble desk clocks. Two verified real-marble picks, one hand-carved and one budget round design, compared directly.";

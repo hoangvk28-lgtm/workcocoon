@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-nvme-enclosures";
-export const guideTitle = "6 Best USB4 NVMe Enclosures in 2026";
+export const guideTitle = "Best USB4 NVMe Enclosures";
 export const metaTitle = "Best USB4 NVMe Enclosures in 2026";
 export const metaDescription = "USB4 40Gbps enclosures are mature, and 80Gbps USB4 V2 is emerging. We separated the two generations before ranking.";
 export const mainKeyword = "usb4 nvme enclosures";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-oil-filled-space-heaters";
-export const guideTitle = "8 Best Oil-Filled Space Heaters in 2026";
+export const guideTitle = "Best Oil-Filled Space Heaters";
 export const metaTitle = "Best Oil-Filled Space Heaters";
 export const metaDescription = "We compared space heater oil filled models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater oil filled";

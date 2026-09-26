@@ -1,5 +1,5 @@
 export const guideSlug = "best-flexible-cord-organizers";
-export const guideTitle = "6 Best Flexible Cord Organizers in 2026";
+export const guideTitle = "Best Flexible Cord Organizers";
 export const metaTitle = "Best Flexible Cord Organizers";
 export const metaDescription = "We compared flexible cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "flexible cord organizers";

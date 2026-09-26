@@ -1,5 +1,5 @@
 export const guideSlug = "best-electrical-label-printers";
-export const guideTitle = "6 Best Electrical Label Printers in 2026";
+export const guideTitle = "Best Electrical Label Printers";
 export const metaTitle = "Best Electrical Label Printers";
 export const metaDescription = "We compared electrical label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "electrical label printers";

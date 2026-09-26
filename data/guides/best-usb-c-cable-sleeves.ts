@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-cable-sleeves";
-export const guideTitle = "6 Best USB-C Cable Sleeves in 2026";
+export const guideTitle = "Best USB-C Cable Sleeves";
 export const metaTitle = "Best USB-C Cable Sleeves";
 export const metaDescription = "We compared usb-c cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "usb-c cable sleeves";

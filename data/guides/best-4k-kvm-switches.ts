@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-kvm-switches";
-export const guideTitle = "5 Best 4K KVM Switches in 2026";
+export const guideTitle = "Best 4K KVM Switches";
 export const metaTitle = "Best 4K KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 4K KVM switches we evaluated, with a note that 4K@30Hz and 4K@60Hz are very different experiences, verify the switch's specific refresh rate at 4K rather than assuming any '4K' label means smooth 60Hz.";

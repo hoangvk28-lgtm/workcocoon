@@ -1,5 +1,5 @@
 export const guideSlug = "best-walnut-office-credenzas";
-export const guideTitle = "8 Best Walnut Office Credenzas in 2026";
+export const guideTitle = "Best Walnut Office Credenzas";
 export const metaTitle = "Best Walnut Office Credenzas 2026";
 export const metaDescription = "We compared walnut office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "walnut office credenzas";

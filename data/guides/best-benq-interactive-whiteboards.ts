@@ -1,5 +1,5 @@
 export const guideSlug = "best-benq-interactive-whiteboards";
-export const guideTitle = "7 Best BenQ Interactive Whiteboards";
+export const guideTitle = "Best BenQ Interactive Whiteboards";
 export const metaTitle = "Best BenQ Interactive Whiteboards";
 export const metaDescription = "We mapped BenQ's current education and corporate board families and compared genuinely current alternatives given limited direct Amazon inventory.";
 export const mainKeyword = "benq interactive whiteboard";

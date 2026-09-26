@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-standing-desk-converters";
-export const guideTitle = "6 Best Black Standing Desk Converters in 2026";
+export const guideTitle = "Best Black Standing Desk Converters";
 export const metaTitle = "Best Black Standing Desk Converters (2026)";
 export const metaDescription =
   "6 standing desk converters confirmed in black, which is the default finish for most current listings, ranked by their broader proven track record.";

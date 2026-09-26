@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-holders-for-teachers";
-export const guideTitle = "3 Best Sticky Note Holders for Teachers in 2026";
+export const guideTitle = "Best Sticky Note Holders for Teachers";
 export const metaTitle = "Best Sticky Note Holders for Teachers";
 export const metaDescription = "We compared sticky note holders for teachers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "sticky note holders for teachers";

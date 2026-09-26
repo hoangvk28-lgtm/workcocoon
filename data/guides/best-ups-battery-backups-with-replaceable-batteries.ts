@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-with-replaceable-batteries";
-export const guideTitle = "6 Best UPS Battery Backups with Replaceable Batteries in 2026";
+export const guideTitle = "Best UPS Battery Backups with Replaceable Batteries";
 export const metaTitle = "Best UPS Battery Backups with Replaceable Batteries, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 UPS units we evaluated for genuinely user-replaceable batteries, including which ones use a widely available standard replacement cell versus a proprietary part, a distinction that determines your real long-term cost.";

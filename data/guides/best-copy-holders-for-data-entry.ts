@@ -1,5 +1,5 @@
 export const guideSlug = "best-copy-holders-for-data-entry";
-export const guideTitle = "6 Best Copy Holders for Data Entry in 2026";
+export const guideTitle = "Best Copy Holders for Data Entry";
 export const metaTitle = "Best Copy Holders for Data Entry";
 export const metaDescription = "We compared copy holder for data entry models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "copy holder for data entry";

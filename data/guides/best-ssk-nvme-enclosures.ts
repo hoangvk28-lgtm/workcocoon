@@ -1,5 +1,5 @@
 export const guideSlug = "best-ssk-nvme-enclosures";
-export const guideTitle = "3 Best SSK NVMe Enclosures in 2026";
+export const guideTitle = "Best SSK NVMe Enclosures";
 export const metaTitle = "Best SSK NVMe Enclosures in 2026";
 export const metaDescription = "SSK's current lineup covers dual-protocol and NVMe-only 10Gbps enclosures. We separated the two before ranking.";
 export const mainKeyword = "ssk nvme enclosures";

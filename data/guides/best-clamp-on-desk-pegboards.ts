@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-desk-pegboards";
-export const guideTitle = "4 Best Clamp-On Desk Pegboards in 2026";
+export const guideTitle = "Best Clamp-On Desk Pegboards";
 export const metaTitle = "Best Clamp-On Desk Pegboards (2026)";
 export const metaDescription =
   "4 clamp-on desk pegboards we evaluated for clamp torque under vertical leverage, edge compatibility, and desk-surface marking risk.";

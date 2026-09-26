@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-ssd-enclosures-under-50";
-export const guideTitle = "4 Best Thunderbolt SSD Enclosures Under $50 in 2026";
+export const guideTitle = "Best Thunderbolt SSD Enclosures Under $50";
 export const metaTitle = "Best Thunderbolt SSD Enclosures Under $50";
 export const metaDescription = "We compared Thunderbolt SSD enclosures under $50 by controller chip, cooling design, and cable inclusion, since these decide real-world transfer speeds.";
 export const mainKeyword = "best thunderbolt ssd enclosures under $50";

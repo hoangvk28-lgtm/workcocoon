@@ -1,5 +1,5 @@
 export const guideSlug = "best-hanging-cpu-holders";
-export const guideTitle = "8 Best Hanging CPU Holders in 2026";
+export const guideTitle = "Best Hanging CPU Holders";
 export const metaTitle = "Best Hanging CPU Holders";
 export const metaDescription = "We compared hanging cpu stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "hanging cpu stand";

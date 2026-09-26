@@ -1,5 +1,5 @@
 export const guideSlug = "best-utility-carts";
-export const guideTitle = "8 Best Utility Carts in 2026";
+export const guideTitle = "Best Utility Carts";
 export const metaTitle = "Best Utility Carts";
 export const metaDescription = "We compared storage cart utility models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart utility";

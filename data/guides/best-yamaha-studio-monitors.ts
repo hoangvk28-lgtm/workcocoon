@@ -1,5 +1,5 @@
 export const guideSlug = "best-yamaha-studio-monitors";
-export const guideTitle = "8 Best Yamaha Studio Monitors in 2026";
+export const guideTitle = "Best Yamaha Studio Monitors";
 export const metaTitle = "Best Yamaha Studio Monitors";
 export const metaDescription = "We compared studio monitor yamaha models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "studio monitor yamaha";

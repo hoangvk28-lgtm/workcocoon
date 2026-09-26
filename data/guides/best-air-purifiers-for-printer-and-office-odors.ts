@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-printer-and-office-odors";
-export const guideTitle = "5 Best Air Purifiers for Printer and Office Odors in 2026";
+export const guideTitle = "Best Air Purifiers for Printer and Office Odors";
 export const metaTitle = "Best Air Purifiers for Printer and Office Odors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for printer and office odors, with the ozone-from-laser-printers angle competitors skip: laser printers genuinely emit trace ozone during operation, worth knowing if you're already choosing an ozone-free purifier.";

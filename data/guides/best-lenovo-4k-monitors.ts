@@ -1,5 +1,5 @@
 export const guideSlug = "best-lenovo-4k-monitors";
-export const guideTitle = "6 Best Lenovo 4K Monitors in 2026";
+export const guideTitle = "Best Lenovo 4K Monitors";
 export const metaTitle = "Best Lenovo 4K Monitors";
 export const metaDescription = "We compared lenovo 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "lenovo 4k monitors";

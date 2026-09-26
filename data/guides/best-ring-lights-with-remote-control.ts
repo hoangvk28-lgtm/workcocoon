@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-with-remote-control";
-export const guideTitle = "7 Best Ring Lights with Remote Control in 2026";
+export const guideTitle = "Best Ring Lights with Remote Control";
 export const metaTitle = "Best Ring Lights with Remote Control";
 export const metaDescription = "We compared ring light app models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light app";

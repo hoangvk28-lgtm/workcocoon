@@ -1,5 +1,5 @@
 export const guideSlug = "best-marble-bookends";
-export const guideTitle = "6 Best Marble Bookends in 2026";
+export const guideTitle = "Best Marble Bookends";
 export const metaTitle = "Best Marble Bookends";
 export const metaDescription = "We compared marble bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "marble bookends";

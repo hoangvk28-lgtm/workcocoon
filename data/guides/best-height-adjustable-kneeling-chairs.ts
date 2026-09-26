@@ -1,5 +1,5 @@
 export const guideSlug = "best-height-adjustable-kneeling-chairs";
-export const guideTitle = "8 Best Height-Adjustable Kneeling Chairs in 2026";
+export const guideTitle = "Best Height-Adjustable Kneeling Chairs";
 export const metaTitle = "Best Height-Adjustable Kneeling Chairs";
 export const metaDescription = "We compared adjustable height kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "adjustable height kneeling chair";

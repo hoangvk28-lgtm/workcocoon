@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-sunrooms";
-export const guideTitle = "8 Best Space Heaters for Sunrooms in 2026";
+export const guideTitle = "Best Space Heaters for Sunrooms";
 export const metaTitle = "Best Space Heaters for Sunrooms";
 export const metaDescription = "We compared space heater sunroom models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater sunroom";

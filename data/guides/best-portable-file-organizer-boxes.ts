@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-organizer-boxes";
-export const guideTitle = "5 Best Portable File Organizer Boxes in 2026";
+export const guideTitle = "Best Portable File Organizer Boxes";
 export const metaTitle = "Best Portable File Organizer Boxes (2026)";
 export const metaDescription =
   "5 portable file boxes with real hanging-folder rail support and secure carrying handles, distinguished from stationary archive cartons without genuine organization features.";

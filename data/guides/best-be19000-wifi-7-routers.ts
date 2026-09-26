@@ -1,5 +1,5 @@
 export const guideSlug = "best-be19000-wifi-7-routers";
-export const guideTitle = "5 Best BE19000 Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best BE19000 Wi-Fi 7 Routers";
 export const metaTitle = "Best BE19000 Wi-Fi 7 Routers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 BE19000 Wi-Fi 7 routers we evaluated, the top-flagship spec, with the honest client-hardware check competitors skip: this extreme theoretical capacity remains almost entirely theoretical headroom given how few devices can currently exploit it.";

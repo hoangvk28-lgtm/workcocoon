@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-with-massage";
-export const guideTitle = "8 Best Gaming Chairs with Massage in 2026";
+export const guideTitle = "Best Gaming Chairs with Massage";
 export const metaTitle = "8 Best Gaming Chairs with Massage in 2026";
 export const metaDescription =
   "The 8 best gaming chairs with massage in 2026, comparing lumbar massage, shiatsu neck massage, and heated models with real recline ranges and capacities.";

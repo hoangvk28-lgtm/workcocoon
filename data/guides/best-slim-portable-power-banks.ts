@@ -1,5 +1,5 @@
 export const guideSlug = "best-slim-portable-power-banks";
-export const guideTitle = "7 Best Slim/Portable Power Banks in 2026";
+export const guideTitle = "Best Slim/Portable Power Banks";
 export const metaTitle = "Best Slim/Portable Power Banks";
 export const metaDescription = "We compared power bank portable models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank portable";

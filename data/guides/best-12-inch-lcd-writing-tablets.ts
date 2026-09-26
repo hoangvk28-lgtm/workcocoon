@@ -1,5 +1,5 @@
 export const guideSlug = "best-12-inch-lcd-writing-tablets";
-export const guideTitle = "5 Best 12 Inch LCD Writing Tablets in 2026";
+export const guideTitle = "Best 12 Inch LCD Writing Tablets";
 export const metaTitle = "Best 12 Inch LCD Writing Tablets (2026)";
 export const metaDescription =
   "5 genuinely 12 inch LCD writing tablets we evaluated, the full available selection at this size, suited to sketching and multi-line lists over portability.";

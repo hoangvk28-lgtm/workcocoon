@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-for-small-spaces";
-export const guideTitle = "8 Best Desk Fans for Small Spaces in 2026";
+export const guideTitle = "Best Desk Fans for Small Spaces";
 export const metaTitle = "Best Desk Fans for Small Spaces";
 export const metaDescription = "We compared desk fan for small spaces models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "desk fan for small spaces";

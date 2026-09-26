@@ -1,5 +1,5 @@
 export const guideSlug = "best-2k-portable-monitors";
-export const guideTitle = "7 Best 2K Portable Monitors in 2026";
+export const guideTitle = "Best 2K Portable Monitors, Resolution Explained";
 export const metaTitle = "Best 2K Portable Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 portable monitors marketed as '2K,' with an honest breakdown of the actual resolution behind that label and when the sharpness gain over 1080p is genuinely worth the OS scaling tradeoff.";

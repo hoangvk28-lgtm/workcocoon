@@ -1,5 +1,5 @@
 export const guideSlug = "best-mesh-wifi-7-routers";
-export const guideTitle = "5 Best Mesh Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Mesh Wi-Fi 7 Routers";
 export const metaTitle = "Best Mesh Wi-Fi 7 Routers (2026)";
 export const metaDescription =
   "5 mesh Wi-Fi 7 systems we evaluated, checking dedicated vs shared 6GHz backhaul design and its real impact on per-node throughput.";

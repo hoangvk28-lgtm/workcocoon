@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-with-2-5gb-ethernet";
-export const guideTitle = "7 Best Docking Stations with 2.5Gb Ethernet in 2026";
+export const guideTitle = "Best Docking Stations with 2.5Gb Ethernet";
 export const metaTitle = "Best Docking Stations with 2.5Gb Ethernet in 2026";
 export const metaDescription =
   "7 best docking stations with 2.5Gb ethernet in 2026, from a $151.99 triple-4K budget pick to a $239.99 Thunderbolt 4 dock. Compare speed, ports, and setup.";

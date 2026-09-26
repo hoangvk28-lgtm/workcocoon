@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-pet-owners";
-export const guideTitle = "5 Best Air Purifiers for Pet Owners in 2026";
+export const guideTitle = "Best Air Purifiers for Pet Owners";
 export const metaTitle = "Best Air Purifiers for Pet Owners, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for pet owners, covering hair, dander, and odor together, with the activated carbon depth angle competitors gloss over: a thin carbon layer saturates with pet odor faster than a thicker one.";

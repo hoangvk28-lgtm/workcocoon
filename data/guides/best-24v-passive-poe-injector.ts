@@ -1,5 +1,5 @@
 export const guideSlug = "best-24v-passive-poe-injector";
-export const guideTitle = "4 Best 24V Passive PoE Injectors in 2026";
+export const guideTitle = "Best 24V Passive PoE Injectors";
 export const metaTitle = "Best 24V Passive PoE Injectors";
 export const metaDescription = "We compared 24V passive PoE injectors by real device compatibility, since these units explicitly do not work with standard 802.3af/at 48V PoE equipment.";
 export const mainKeyword = "best 24v passive poe injector";

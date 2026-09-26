@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-fatigue-mats-for-standing-desk-converters";
-export const guideTitle = "8 Best Anti-Fatigue Mats for Standing Desk Converters in 2026";
+export const guideTitle = "Best Anti-Fatigue Mats for Standing Desk Converters";
 export const metaTitle = "Best Anti-Fatigue Mats for Standing Desk";
 export const metaDescription = "We compared anti fatigue mat for standing desk models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "anti fatigue mat for standing desk";

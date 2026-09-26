@@ -1,5 +1,5 @@
 export const guideSlug = "best-inkjet-printers-for-home-use";
-export const guideTitle = "8 Best Inkjet Printers for Home Use in 2026";
+export const guideTitle = "Best Inkjet Printers for Home Use";
 export const metaTitle = "Best Inkjet Printers for Home Use in 2026";
 export const metaDescription =
   "8 inkjet printers we evaluated for home use, from budget cartridge models to ink-tank supertanks, with a real maintenance routine and paper guidance included.";

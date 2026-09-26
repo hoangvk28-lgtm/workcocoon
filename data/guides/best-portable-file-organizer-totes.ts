@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-organizer-totes";
-export const guideTitle = "5 Best Portable File Organizer Totes in 2026";
+export const guideTitle = "Best Portable File Organizer Totes";
 export const metaTitle = "Best Portable File Organizer Totes (2026)";
 export const metaDescription =
   "5 organizer totes checked for genuine internal compartment structure beyond a simple single-pocket tote, consolidating our tote and bag research.";

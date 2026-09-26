@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-bedroom";
-export const guideTitle = "8 Best Humidifiers for Bedroom in 2026";
+export const guideTitle = "Best Humidifiers for Bedroom";
 export const metaTitle = "Best Humidifiers for Bedroom";
 export const metaDescription = "We compared humidifiers for bedroom models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifiers for bedroom";

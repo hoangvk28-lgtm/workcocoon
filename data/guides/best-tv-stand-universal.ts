@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-universal";
-export const guideTitle = "6 Best Universal TV Stands in 2026";
+export const guideTitle = "Best Universal TV Stands";
 export const metaTitle = "Best Universal TV Stands in 2026 (Any Size, Any VESA)";
 export const metaDescription =
   "6 best universal TV stands in 2026 for 20 to 75 inch TVs. Compare VESA range, weight capacity, and swivel across tabletop and floor designs.";

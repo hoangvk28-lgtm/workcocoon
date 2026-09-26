@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-mini-vacuum-cleaners";
-export const guideTitle = "8 Best Portable Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best Portable Mini Vacuum Cleaners";
 export const metaTitle = "Best Portable Mini Vacuum Cleaners";
 export const metaDescription = "We compared portable mini vacuum cleaner models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "portable mini vacuum cleaner";

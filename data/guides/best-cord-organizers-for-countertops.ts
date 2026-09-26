@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizers-for-countertops";
-export const guideTitle = "6 Best Cord Organizers for Countertops in 2026";
+export const guideTitle = "Best Cord Organizers for Countertops";
 export const metaTitle = "Best Cord Organizers for Countertops";
 export const metaDescription = "We compared cord organizers for countertops models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "cord organizers for countertops";

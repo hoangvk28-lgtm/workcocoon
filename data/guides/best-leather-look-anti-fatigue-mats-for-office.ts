@@ -1,5 +1,5 @@
 export const guideSlug = "best-leather-look-anti-fatigue-mats-for-office";
-export const guideTitle = "7 Best Leather-Look Anti-Fatigue Mats for Office in 2026";
+export const guideTitle = "Best Leather-Look Anti-Fatigue Mats for Office";
 export const metaTitle = "Best Leather-Look Anti-Fatigue Mats for Office";
 export const metaDescription = "We compared anti-fatigue mat office models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "anti-fatigue mat office";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-vevor-desktop-cnc-machines";
-export const guideTitle = "3 Best VEVOR Desktop CNC Machines in 2026";
+export const guideTitle = "Best VEVOR Desktop CNC Machines";
 export const metaTitle = "Best VEVOR Desktop CNC Machines 2026";
 export const metaDescription = "We compared vevor desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "vevor desktop cnc machines";

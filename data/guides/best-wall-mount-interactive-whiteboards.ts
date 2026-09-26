@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mount-interactive-whiteboards";
-export const guideTitle = "8 Best Wall-Mount Interactive Whiteboards";
+export const guideTitle = "Best Wall-Mount Interactive Whiteboards";
 export const metaTitle = "Best Wall-Mount Interactive Whiteboards";
 export const metaDescription = "We treated wall structure, VESA/load, installed height, and cable service access as core criteria for wall-mounted interactive whiteboards.";
 export const mainKeyword = "interactive whiteboard wall mount";

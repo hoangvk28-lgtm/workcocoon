@@ -1,5 +1,5 @@
 export const guideSlug = "best-iphone-projectors";
-export const guideTitle = "8 Best Iphone Projectors in 2026";
+export const guideTitle = "Best Iphone Projectors";
 export const metaTitle = "Best Iphone Projectors";
 export const metaDescription = "We compared projector for iphone models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "projector for iphone";

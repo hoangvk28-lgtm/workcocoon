@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-mode-gaming-monitors";
-export const guideTitle = "6 Best Dual-Mode Gaming Monitors in 2026";
+export const guideTitle = "Best Dual-Mode Gaming Monitors";
 export const metaTitle = "Best Dual-Mode Gaming Monitors";
 export const metaDescription = "We compared dual-mode gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "dual-mode gaming monitors";

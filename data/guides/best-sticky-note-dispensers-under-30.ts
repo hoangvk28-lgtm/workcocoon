@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-dispensers-under-30";
-export const guideTitle = "6 Best Sticky Note Dispensers Under $30 in 2026";
+export const guideTitle = "Best Sticky Note Dispensers Under $30";
 export const metaTitle = "Best Sticky Note Dispensers Under $30";
 export const metaDescription = "We compared sticky note dispensers under $30 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "sticky note dispensers under $30";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-16-port-poe-network-switches";
-export const guideTitle = "5 Best 16-Port PoE Network Switches in 2026";
+export const guideTitle = "Best 16-Port PoE Network Switches";
 export const metaTitle = "Best 16-Port PoE Network Switches";
 export const metaDescription = "16-port PoE switches suit mid-size camera or AP deployments. We compared real power budgets across the current lineup.";
 export const mainKeyword = "16-port poe network switches";

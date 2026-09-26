@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-tv-stand-for-100-inch-tv";
 
 export const guideSlug = "best-tv-stand-for-100-inch-tv";
-export const guideTitle = "8 Best TV Stands for 100 Inch TVs in 2026";
+export const guideTitle = "Best TV Stands for 100 Inch TVs";
 export const metaTitle = "Best TV Stand for 100 Inch TV 2026, Top Picks Ranked";
 export const metaDescription =
   "Best TV stands for 100 inch TVs in 2026. Wide media consoles with fireplace options and heavy-duty frames ranked by weight capacity, width, and features.";

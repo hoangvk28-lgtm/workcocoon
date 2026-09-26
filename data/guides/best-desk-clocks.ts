@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks";
-export const guideTitle = "8 Best Desk Clocks in 2026";
+export const guideTitle = "Best Desk Clocks";
 export const metaTitle = "Best Desk Clocks in 2026";
 export const metaDescription =
   "8 desk clocks we researched across flip, digital, marble, and analog styles, covering movement type, visibility, and which style fits which desk.";

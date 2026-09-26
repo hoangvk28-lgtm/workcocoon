@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-office-chair-for-tall-person";
 
 export const guideSlug = "best-office-chair-for-tall-person";
-export const guideTitle = "8 Best Office Chairs for Tall People in 2026";
+export const guideTitle = "Best Office Chairs for Tall People";
 export const metaTitle = "Best Office Chairs for Tall People 2026 - High Seat & Back";
 export const metaDescription =
   "Best office chairs for tall people in 2026. We compare high seat ranges, tall back support, and adjustable lumbar for users 6'1\" and above.";

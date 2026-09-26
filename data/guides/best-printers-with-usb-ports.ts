@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-with-usb-ports";
-export const guideTitle = "8 Best Printers with USB Ports in 2026";
+export const guideTitle = "Best Printers with USB Ports";
 export const metaTitle = "Best Printers with USB Ports in 2026 (Wired & Flash Drive Picks)";
 export const metaDescription =
   "8 printers we evaluated for USB connectivity, covering USB-B computer connections, flash drive host printing limits, and which listings actually confirm a USB-A port.";

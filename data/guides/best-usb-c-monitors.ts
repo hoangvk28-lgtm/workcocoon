@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors";
-export const guideTitle = "5 Best USB-C Monitors in 2026";
+export const guideTitle = "Best USB-C Monitors for a Single-Cable Desk";
 export const metaTitle = "Best USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors we evaluated, with an honest note on USB-C power delivery wattage, since a monitor rated below your laptop's charging requirement won't fully charge it while displaying video.";

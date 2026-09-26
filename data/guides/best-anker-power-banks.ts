@@ -1,5 +1,5 @@
 export const guideSlug = "best-anker-power-banks";
-export const guideTitle = "6 Best Anker Power Banks in 2026";
+export const guideTitle = "Best Anker Power Banks";
 export const metaTitle = "Best Anker Power Banks";
 export const metaDescription = "We compared power bank anker models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank anker";

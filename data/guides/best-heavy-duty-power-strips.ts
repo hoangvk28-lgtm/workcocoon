@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-power-strips";
-export const guideTitle = "5 Best Heavy-Duty Power Strips in 2026";
+export const guideTitle = "Best Heavy-Duty Power Strips";
 export const metaTitle = "Best Heavy-Duty Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 heavy-duty power strips we evaluated, with the ambiguity competitors skip: heavy-duty can mean amperage capacity, physical durability, or both, two genuinely different attributes buyers should distinguish.";

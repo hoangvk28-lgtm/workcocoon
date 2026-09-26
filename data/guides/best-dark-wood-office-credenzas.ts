@@ -1,5 +1,5 @@
 export const guideSlug = "best-dark-wood-office-credenzas";
-export const guideTitle = "8 Best Dark Wood Office Credenzas in 2026";
+export const guideTitle = "Best Dark Wood Office Credenzas";
 export const metaTitle = "Best Dark Wood Office Credenzas 2026";
 export const metaDescription = "We compared dark wood office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "dark wood office credenzas";

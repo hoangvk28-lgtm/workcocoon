@@ -1,5 +1,5 @@
 export const guideSlug = "best-studio-monitor-isolation-pads";
-export const guideTitle = "8 Best Studio Monitor Isolation Pads in 2026";
+export const guideTitle = "Best Studio Monitor Isolation Pads";
 export const metaTitle = "Best Studio Monitor Isolation Pads";
 export const metaDescription = "We compared studio monitor isolation pads models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "studio monitor isolation pads";

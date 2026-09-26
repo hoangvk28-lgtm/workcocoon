@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-hp-laptops";
-export const guideTitle = "6 Best Laptop Cooling Pads for HP Laptops in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for HP Laptops";
 export const metaTitle = "Best Laptop Cooling Pads for HP Laptops";
 export const metaDescription =
   "6 laptop cooling pads we evaluated for HP laptops, checking real chassis footprint and weight since HP spans very different product lines.";

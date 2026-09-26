@@ -1,5 +1,5 @@
 export const guideSlug = "best-espresso-floating-shelves";
-export const guideTitle = "8 Best Espresso Floating Shelves in 2026";
+export const guideTitle = "Best Espresso Floating Shelves";
 export const metaTitle = "Best Espresso Floating Shelves";
 export const metaDescription = "We compared floating shelf espresso models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf espresso";

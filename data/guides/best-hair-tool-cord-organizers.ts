@@ -1,5 +1,5 @@
 export const guideSlug = "best-hair-tool-cord-organizers";
-export const guideTitle = "6 Best Hair Tool Cord Organizers in 2026";
+export const guideTitle = "Best Hair Tool Cord Organizers";
 export const metaTitle = "Best Hair Tool Cord Organizers";
 export const metaDescription = "We compared hair tool cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "hair tool cord organizers";

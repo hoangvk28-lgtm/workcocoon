@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookends-for-vinyl-records";
-export const guideTitle = "6 Best Bookends for Vinyl Records in 2026";
+export const guideTitle = "Best Bookends for Vinyl Records";
 export const metaTitle = "Best Bookends for Vinyl Records";
 export const metaDescription = "We compared bookends for vinyl records models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "bookends for vinyl records";

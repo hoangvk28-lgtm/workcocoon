@@ -1,5 +1,5 @@
 export const guideSlug = "best-levoit-humidifiers";
-export const guideTitle = "8 Best Levoit Humidifiers in 2026";
+export const guideTitle = "Best Levoit Humidifiers";
 export const metaTitle = "Best Levoit Humidifiers";
 export const metaDescription = "We compared levoit humidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "levoit humidifier";

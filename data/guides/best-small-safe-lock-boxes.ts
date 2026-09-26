@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safe-lock-boxes";
-export const guideTitle = "8 Best Small Safe Lock Boxes in 2026";
+export const guideTitle = "Best Small Safe Lock Boxes";
 export const metaTitle = "Best Small Safe Lock Boxes (2026)";
 export const metaDescription =
   "8 lock boxes compared on tether options, carry weight, and the honest limits of thin steel construction, from travel-cable designs to mountable steel boxes.";

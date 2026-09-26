@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-for-adults";
-export const guideTitle = "7 Best LCD Writing Tablets for Adults in 2026";
+export const guideTitle = "Best LCD Writing Tablets for Adults";
 export const metaTitle = "Best LCD Writing Tablets for Adults (2026)";
 export const metaDescription =
   "7 LCD writing tablets for adults we evaluated, picking models with plain adult styling and useful features over cartoon branding aimed at kids.";

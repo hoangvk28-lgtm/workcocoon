@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engravers-for-hobby";
-export const guideTitle = "7 Best Laser Engravers for Hobby in 2026";
+export const guideTitle = "Best Laser Engravers for Hobby";
 export const metaTitle = "Best Laser Engravers for Hobby in 2026";
 export const metaDescription = "We compared best laser engravers for hobby by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "laser engravers for hobby";

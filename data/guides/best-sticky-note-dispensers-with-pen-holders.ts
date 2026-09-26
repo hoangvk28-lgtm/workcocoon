@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-dispensers-with-pen-holders";
-export const guideTitle = "6 Best Sticky Note Dispensers with Pen Holders in 2026";
+export const guideTitle = "Best Sticky Note Dispensers with Pen Holders";
 export const metaTitle = "Best Sticky Note Dispensers with Pen Holders";
 export const metaDescription = "We compared sticky note dispensers with pen holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "sticky note dispensers with pen holders";

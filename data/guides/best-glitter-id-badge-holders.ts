@@ -1,5 +1,5 @@
 export const guideSlug = "best-glitter-id-badge-holders";
-export const guideTitle = "6 Best Glitter ID Badge Holders in 2026";
+export const guideTitle = "Best Glitter ID Badge Holders";
 export const metaTitle = "Best Glitter ID Badge Holders";
 export const metaDescription = "We compared glitter id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "glitter id badge holders";

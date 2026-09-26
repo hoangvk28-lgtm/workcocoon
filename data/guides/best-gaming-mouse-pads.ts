@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-mouse-pads";
-export const guideTitle = "8 Best Gaming Mouse Pads in 2026";
+export const guideTitle = "Best Gaming Mouse Pads";
 export const metaTitle = "Best Gaming Mouse Pads";
 export const metaDescription = "We compared mouse pad for gaming models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse pad for gaming";

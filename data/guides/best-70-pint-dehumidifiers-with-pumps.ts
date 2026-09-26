@@ -1,5 +1,5 @@
 export const guideSlug = "best-70-pint-dehumidifiers-with-pumps";
-export const guideTitle = "8 Best 70-Pint Dehumidifiers With Pumps in 2026";
+export const guideTitle = "Best 70-Pint Dehumidifiers With Pumps";
 export const metaTitle = "Best 70-Pint Dehumidifiers With Pumps";
 export const metaDescription = "We compared 70 pint dehumidifier with pump models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "70 pint dehumidifier with pump";

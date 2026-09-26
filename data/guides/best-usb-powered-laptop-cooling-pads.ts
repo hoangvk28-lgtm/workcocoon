@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-powered-laptop-cooling-pads";
-export const guideTitle = "8 Best USB-Powered Laptop Cooling Pads in 2026";
+export const guideTitle = "Best USB-Powered Laptop Cooling Pads";
 export const metaTitle = "Best USB-Powered Cooling Pads (2026)";
 export const metaDescription =
   "8 USB-powered laptop cooling pads compared on actual laptop-side power draw, connector type, and the battery-drain tradeoff on unplugged use.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-techorbits-standing-desk-converters";
-export const guideTitle = "3 Best TechOrbits Standing Desk Converters in 2026";
+export const guideTitle = "Best TechOrbits Standing Desk Converters";
 export const metaTitle = "Best TechOrbits Standing Desk Converters (2026)";
 export const metaDescription =
   "3 current TechOrbits MDF wood converters compared across 32, 37, and 42 inch platforms, all confirmed genuine wood construction.";

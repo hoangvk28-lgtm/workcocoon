@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-macbook-air";
-export const guideTitle = "5 Best Laptop Cooling Pads for MacBook Air in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for MacBook Air";
 export const metaTitle = "Best Cooling Pads for MacBook Air (2026)";
 export const metaDescription =
   "5 cooling pads for MacBook Air evaluated honestly against its fanless internal design and rear-hinge vent placement, not generic marketing claims.";

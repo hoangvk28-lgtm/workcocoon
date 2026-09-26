@@ -1,5 +1,5 @@
 export const guideSlug = "best-security-badge-holders";
-export const guideTitle = "6 Best Security Badge Holders in 2026";
+export const guideTitle = "Best Security Badge Holders";
 export const metaTitle = "Best Security Badge Holders";
 export const metaDescription = "We compared security badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "security badge holders";

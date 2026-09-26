@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mount-network-switches";
-export const guideTitle = "8 Best Wall-Mount Network Switches in 2026";
+export const guideTitle = "Best Wall-Mount Network Switches";
 export const metaTitle = "Best Wall-Mount Network Switches 2026";
 export const metaDescription = "Wall-mounting frees up desk space and keeps a switch out of the way. We checked which listings actually include mounting hardware.";
 export const mainKeyword = "wall-mount network switches";

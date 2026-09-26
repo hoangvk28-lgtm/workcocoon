@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-paper-trays";
-export const guideTitle = "6 Best Vertical Paper Trays in 2026";
+export const guideTitle = "Best Vertical Paper Trays";
 export const metaTitle = "Best Vertical Paper Trays";
 export const metaDescription = "We compared vertical paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vertical paper trays";

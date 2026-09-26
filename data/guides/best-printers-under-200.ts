@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-under-200";
-export const guideTitle = "7 Best Printers Under $200 in 2026";
+export const guideTitle = "Best Printers Under $200";
 export const metaTitle = "Best Printers Under $200 in 2026 (Verified Prices)";
 export const metaDescription =
   "7 best printers under $200 in 2026, all verified current pricing. Compare inkjet all-in-ones against entry ink-tank models on duplex, ADF, and true cost per page.";

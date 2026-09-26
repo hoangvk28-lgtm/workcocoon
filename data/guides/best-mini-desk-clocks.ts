@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-desk-clocks";
-export const guideTitle = "4 Best Mini Desk Clocks in 2026";
+export const guideTitle = "Best Mini Desk Clocks";
 export const metaTitle = "Best Mini Desk Clocks in 2026";
 export const metaDescription =
   "4 mini desk clocks ranked strictly by compactness, for buyers who want the smallest possible clock rather than a general small-size pick.";

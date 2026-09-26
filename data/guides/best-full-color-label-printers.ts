@@ -1,5 +1,5 @@
 export const guideSlug = "best-full-color-label-printers";
-export const guideTitle = "6 Best Full-Color Label Printers in 2026";
+export const guideTitle = "Best Full-Color Label Printers";
 export const metaTitle = "Best Full-Color Label Printers";
 export const metaDescription = "We compared full-color label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "full-color label printers";

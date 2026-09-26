@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-tape-dispensers";
-export const guideTitle = "6 Best Office Tape Dispensers in 2026";
+export const guideTitle = "Best Office Tape Dispensers";
 export const metaTitle = "Best Office Tape Dispensers";
 export const metaDescription = "We compared office tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "office tape dispensers";

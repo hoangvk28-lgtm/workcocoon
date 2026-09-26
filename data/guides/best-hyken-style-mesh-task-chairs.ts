@@ -1,5 +1,5 @@
 export const guideSlug = "best-hyken-style-mesh-task-chairs";
-export const guideTitle = "8 Best Hyken-Style Mesh Task Chairs in 2026";
+export const guideTitle = "Best Hyken-Style Mesh Task Chairs";
 export const metaTitle = "Best Hyken-Style Mesh Task Chairs";
 export const metaDescription = "We compared task chair hyken black mesh models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair hyken black mesh";

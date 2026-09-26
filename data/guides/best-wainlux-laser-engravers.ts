@@ -1,5 +1,5 @@
 export const guideSlug = "best-wainlux-laser-engravers";
-export const guideTitle = "5 Best WAINLUX Laser Engravers in 2026";
+export const guideTitle = "Best WAINLUX Laser Engravers";
 export const metaTitle = "Best WAINLUX Laser Engravers in 2026";
 export const metaDescription = "We compared best wainlux laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "wainlux laser engravers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-under-50";
-export const guideTitle = "4 Best Monitor Shelves Under $50 in 2026";
+export const guideTitle = "Best Monitor Shelves Under $50";
 export const metaTitle = "Best Monitor Shelves Under $50";
 export const metaDescription = "We compared monitor shelves under $50 by real weight capacity up to 100 lbs, FSC-certified bamboo build quality, and dedicated cable management design.";
 export const mainKeyword = "best monitor shelves under $50";

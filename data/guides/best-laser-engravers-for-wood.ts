@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engravers-for-wood";
-export const guideTitle = "8 Best Laser Engravers for Wood in 2026";
+export const guideTitle = "Best Laser Engravers for Wood";
 export const metaTitle = "8 Best Laser Engravers for Wood in 2026";
 export const metaDescription = "We compared laser engravers for wood by rated cutting depth, fire containment, and bed size matched to real wood projects, not wattage alone.";
 export const mainKeyword = "laser engraver for wood";

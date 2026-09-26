@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-wood-cable-management-boxes";
 
 export const guideSlug = "best-wood-cable-management-boxes";
-export const guideTitle = "8 Best Wood Cable Management Boxes (2026)";
+export const guideTitle = "Best Wood Cable Management Boxes (2026)";
 export const metaTitle = "Best Wood Cable Management Boxes 2026";
 export const metaDescription =
   "Best wood cable management boxes in 2026. Solid wood, bamboo, and rattan cable organizer boxes ranked by material quality, size, and desk aesthetic.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-for-two-computers";
-export const guideTitle = "5 Best KVM Switches for Two Computers in 2026";
+export const guideTitle = "Best KVM Switches for Two Computers";
 export const metaTitle = "Best KVM Switches for Two Computers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches for two computers we evaluated, with a note that switching methods vary, hotkey combinations can occasionally conflict with an app's own keyboard shortcuts.";

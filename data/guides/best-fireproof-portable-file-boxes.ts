@@ -1,5 +1,5 @@
 export const guideSlug = "best-fireproof-portable-file-boxes";
-export const guideTitle = "5 Best Fireproof Portable File Boxes in 2026";
+export const guideTitle = "Best Fireproof Portable File Boxes";
 export const metaTitle = "Best Fireproof Portable File Boxes (2026)";
 export const metaDescription =
   "5 fireproof-marketed file boxes, with honest 'fireproof' vs 'fire-resistant' distinctions, water resistance notes, and a weight-vs-portability tradeoff.";

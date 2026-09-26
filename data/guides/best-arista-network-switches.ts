@@ -1,5 +1,5 @@
 export const guideSlug = "best-arista-network-switches";
-export const guideTitle = "3 Best Arista Network Switches in 2026";
+export const guideTitle = "Best Arista Network Switches";
 export const metaTitle = "Best Arista Network Switches in 2026";
 export const metaDescription = "Arista switches are data-center-grade hardware, primarily available renewed on Amazon. We covered what's accessible and who it's for.";
 export const mainKeyword = "arista network switches";

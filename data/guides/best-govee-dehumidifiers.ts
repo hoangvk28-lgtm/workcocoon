@@ -1,5 +1,5 @@
 export const guideSlug = "best-govee-dehumidifiers";
-export const guideTitle = "8 Best Govee Dehumidifiers in 2026";
+export const guideTitle = "Best Govee Dehumidifiers";
 export const metaTitle = "Best Govee Dehumidifiers";
 export const metaDescription = "We compared govee dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "govee dehumidifier";

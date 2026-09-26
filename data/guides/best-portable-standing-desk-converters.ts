@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-standing-desk-converters";
-export const guideTitle = "5 Best Portable Standing Desk Converters in 2026";
+export const guideTitle = "Best Portable Standing Desk Converters";
 export const metaTitle = "Best Portable Standing Desk Converters (2026)";
 export const metaDescription =
   "5 lightweight standing desk converters compared on carry weight and setup effort, for buyers who genuinely need to move the converter regularly.";

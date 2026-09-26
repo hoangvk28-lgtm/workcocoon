@@ -1,5 +1,5 @@
 export const guideSlug = "best-contemporary-office-credenzas";
-export const guideTitle = "8 Best Contemporary Office Credenzas in 2026";
+export const guideTitle = "Best Contemporary Office Credenzas";
 export const metaTitle = "Best Contemporary Office Credenzas 2026";
 export const metaDescription = "We compared contemporary office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "contemporary office credenzas";

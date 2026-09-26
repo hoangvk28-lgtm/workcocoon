@@ -1,5 +1,5 @@
 export const guideSlug = "best-overhead-phone-arms-for-desks-under-40";
-export const guideTitle = "6 Best Overhead Phone Arms for Desks Under $40 in 2026";
+export const guideTitle = "Best Overhead Phone Arms for Desks Under $40";
 export const metaTitle = "Best Overhead Phone Arms Under $40";
 export const metaDescription = "We compared overhead phone arms under $40 by load capacity, mounting hardware, and whether they're built for phones specifically or full camera rigs.";
 export const mainKeyword = "overhead phone arm for desk under $40";

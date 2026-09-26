@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-for-laptops";
-export const guideTitle = "6 Best Standing Desk Converters for Laptops in 2026";
+export const guideTitle = "Best Standing Desk Converters for Laptops";
 export const metaTitle = "Best Standing Desk Converters for Laptops (2026)";
 export const metaDescription =
   "6 standing desk converters compared for laptop-only use, with an honest note that raising the screen alone doesn't guarantee neutral typing posture.";

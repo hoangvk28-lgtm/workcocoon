@@ -1,5 +1,5 @@
 export const guideSlug = "best-xhorse-desktop-cnc-machines";
-export const guideTitle = "4 Best Xhorse Desktop CNC Machines in 2026";
+export const guideTitle = "Best Xhorse Desktop CNC Machines";
 export const metaTitle = "Best Xhorse Desktop CNC Machines 2026";
 export const metaDescription = "We compared xhorse desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "xhorse desktop cnc machines";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-printer-stands-under-75";
-export const guideTitle = "4 Best Printer Stands Under $75 in 2026";
+export const guideTitle = "Best Printer Stands Under $75";
 export const metaTitle = "Best Printer Stands Under $75";
 export const metaDescription = "We compared printer stands under $75 by shelf adjustability, weight capacity, and outlet design, since fully adjustable, heavy-duty carts top out at this tier.";
 export const mainKeyword = "best printer stands under $75";

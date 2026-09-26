@@ -1,5 +1,5 @@
 export const guideSlug = "best-acer-laptop-locks";
-export const guideTitle = "6 Best Acer Laptop Locks in 2026";
+export const guideTitle = "Best Acer Laptop Locks";
 export const metaTitle = "Best Acer Laptop Locks (2026)";
 export const metaDescription =
   "6 laptop locks checked against Acer's varying chassis and generation slot documentation, rejecting retailer-wide compatibility claims.";

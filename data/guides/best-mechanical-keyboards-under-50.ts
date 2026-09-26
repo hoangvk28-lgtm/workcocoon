@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-under-50";
-export const guideTitle = "4 Best Mechanical Keyboards Under $50 in 2026";
+export const guideTitle = "Best Mechanical Keyboards Under $50";
 export const metaTitle = "Best Mechanical Keyboards Under $50";
 export const metaDescription = "We compared mechanical keyboards under $50 by hot-swap support, sound dampening, and connectivity, since gasket-mounted designs start appearing at this tier.";
 export const mainKeyword = "best mechanical keyboards under $50";

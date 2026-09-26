@@ -1,5 +1,5 @@
 export const guideSlug = "best-seat-cushions-for-office-chair-under-50";
-export const guideTitle = "4 Best Seat Cushions for Office Chairs Under $50 in 2026";
+export const guideTitle = "Best Seat Cushions for Office Chairs Under $50";
 export const metaTitle = "Best Office Chair Seat Cushions Under $50";
 export const metaDescription = "We compared premium seat cushions under $50 by gel-layer cooling and named medical endorsements, features that separate this tier from cheaper cushions.";
 export const mainKeyword = "seat cushion for office chair under $50";

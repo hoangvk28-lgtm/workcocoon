@@ -1,5 +1,5 @@
 export const guideSlug = "best-velcro-cable-sleeves";
-export const guideTitle = "6 Best Velcro Cable Sleeves in 2026";
+export const guideTitle = "Best Velcro Cable Sleeves";
 export const metaTitle = "Best Velcro Cable Sleeves";
 export const metaDescription = "We compared velcro cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "velcro cable sleeves";

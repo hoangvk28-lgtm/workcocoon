@@ -1,5 +1,5 @@
 export const guideSlug = "best-oled-curved-gaming-monitors";
-export const guideTitle = "6 Best OLED Curved Gaming Monitors in 2026";
+export const guideTitle = "Best OLED Curved Gaming Monitors";
 export const metaTitle = "Best OLED Curved Gaming Monitors";
 export const metaDescription = "We compared oled curved gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "oled curved gaming monitors";

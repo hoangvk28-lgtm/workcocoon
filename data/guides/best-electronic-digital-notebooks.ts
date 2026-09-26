@@ -1,5 +1,5 @@
 export const guideSlug = "best-electronic-digital-notebooks";
-export const guideTitle = "7 Best Electronic Digital Notebooks in 2026";
+export const guideTitle = "Best Electronic Digital Notebooks";
 export const metaTitle = "Best Electronic Digital Notebooks (2026)";
 export const metaDescription =
   "7 genuinely electronic digital notebooks we evaluated, meaning real hardware with a screen or battery, not paper-based notebooks like Rocketbook.";

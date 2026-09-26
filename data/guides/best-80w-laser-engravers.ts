@@ -1,5 +1,5 @@
 export const guideSlug = "best-80w-laser-engravers";
-export const guideTitle = "3 Best 80W Laser Engravers in 2026";
+export const guideTitle = "Best 80W Laser Engravers";
 export const metaTitle = "Best 80W Laser Engravers in 2026";
 export const metaDescription = "We compared best 80w laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "80w laser engravers";

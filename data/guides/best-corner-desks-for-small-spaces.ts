@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-for-small-spaces";
-export const guideTitle = "8 Best Corner Desks for Small Spaces in 2026";
+export const guideTitle = "Best Corner Desks for Small Spaces";
 export const metaTitle = "Best Corner Desks for Small Spaces";
 export const metaDescription = "We compared corner desks for small spaces models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "corner desks for small spaces";

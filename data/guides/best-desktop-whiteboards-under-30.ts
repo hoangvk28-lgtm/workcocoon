@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-under-30";
-export const guideTitle = "4 Best Desktop Whiteboards Under $30 in 2026";
+export const guideTitle = "Best Desktop Whiteboards Under $30";
 export const metaTitle = "Best Desktop Whiteboards Under $30";
 export const metaDescription = "We compared desktop whiteboards under $30 by glass versus melamine surface quality, drawer storage, and keyboard-gap fit for a real desk upgrade.";
 export const mainKeyword = "best desktop whiteboards under $30";

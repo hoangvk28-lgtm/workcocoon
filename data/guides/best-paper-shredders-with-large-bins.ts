@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-shredders-with-large-bins";
-export const guideTitle = "8 Best Paper Shredders with Large Bins in 2026";
+export const guideTitle = "Best Paper Shredders with Large Bins";
 export const metaTitle = "Best Paper Shredders with Large Bins, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders with large bin capacity, with a calculation showing bin gallons don't translate to sheet count linearly, cut type changes how much shredded paper packs into the same volume.";

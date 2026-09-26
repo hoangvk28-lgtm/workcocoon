@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-standing-desk-converters";
-export const guideTitle = "6 Best Compact Standing Desk Converters in 2026";
+export const guideTitle = "Best Compact Standing Desk Converters";
 export const metaTitle = "Best Compact Standing Desk Converters (2026)";
 export const metaDescription =
   "6 space-saving standing desk converters compared on base footprint and usable keyboard area, for shallow desks that can't fit a full-size riser.";

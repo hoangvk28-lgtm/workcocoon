@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-with-10gbe";
-export const guideTitle = "4 Best Thunderbolt 5 Docks with 10GbE in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks with 10GbE";
 export const metaTitle = "Best Thunderbolt 5 Docks with 10GbE";
 export const metaDescription = "We compared Thunderbolt 5 docks with built-in 10 Gigabit Ethernet by real port counts, display limits, and whether a Windows driver install is required first.";
 export const mainKeyword = "best thunderbolt 5 dock with 10gbe";

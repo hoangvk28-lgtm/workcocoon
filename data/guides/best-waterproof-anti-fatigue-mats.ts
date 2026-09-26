@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-anti-fatigue-mats";
-export const guideTitle = "8 Best Waterproof Anti-Fatigue Mats in 2026";
+export const guideTitle = "Best Waterproof Anti-Fatigue Mats";
 export const metaTitle = "Best Waterproof Anti-Fatigue Mats";
 export const metaDescription = "We compared anti-fatigue mat properties models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "anti-fatigue mat properties";

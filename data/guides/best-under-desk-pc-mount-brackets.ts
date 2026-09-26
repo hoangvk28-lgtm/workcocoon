@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-pc-mount-brackets";
-export const guideTitle = "5 Best Under-Desk PC Mount Brackets in 2026";
+export const guideTitle = "Best Under-Desk PC Mount Brackets";
 export const metaTitle = "Best Under-Desk PC Mount Brackets, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 under-desk PC mount brackets we evaluated, with the standalone-versus-complete-solution scope competitors skip: 'bracket' can mean the load-bearing component alone, requiring separately sourced desk-attachment hardware, a real total-cost consideration.";

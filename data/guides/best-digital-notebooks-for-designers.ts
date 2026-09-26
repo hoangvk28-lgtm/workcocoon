@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-designers";
-export const guideTitle = "6 Best Digital Notebooks for Designers in 2026";
+export const guideTitle = "Best Digital Notebooks for Designers";
 export const metaTitle = "Best Digital Notebooks for Designers";
 export const metaDescription =
   "6 e-ink digital notebooks we evaluated for designers, with an honest note that these are note-taking devices, not dedicated illustration tablets.";

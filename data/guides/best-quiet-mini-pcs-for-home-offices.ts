@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-mini-pcs-for-home-offices";
-export const guideTitle = "4 Best Quiet Mini PCs for Home Offices in 2026";
+export const guideTitle = "Best Quiet Mini PCs for Home Offices";
 export const metaTitle = "Best Quiet Mini PCs for Home Offices (2026)";
 export const metaDescription =
   "4 quiet mini PCs we evaluated for home offices, prioritizing genuine fanless or low-dB designs over generic 'silent' marketing claims.";

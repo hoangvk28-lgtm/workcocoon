@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-label-printers";
-export const guideTitle = "6 Best Laser Label Printers in 2026";
+export const guideTitle = "Best Laser Label Printers";
 export const metaTitle = "Best Laser Label Printers";
 export const metaDescription = "We compared laser label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "laser label printers";

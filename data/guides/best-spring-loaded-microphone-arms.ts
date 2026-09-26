@@ -1,5 +1,5 @@
 export const guideSlug = "best-spring-loaded-microphone-arms";
-export const guideTitle = "8 Best Spring-Loaded Microphone Arms in 2026";
+export const guideTitle = "Best Spring-Loaded Microphone Arms";
 export const metaTitle = "Best Spring-Loaded Microphone Arms";
 export const metaDescription = "We compared microphone arm spring tension models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "microphone arm spring tension";

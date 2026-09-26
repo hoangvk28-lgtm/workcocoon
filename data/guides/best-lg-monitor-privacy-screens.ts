@@ -1,5 +1,5 @@
 export const guideSlug = "best-lg-monitor-privacy-screens";
-export const guideTitle = "6 Best LG Monitor Privacy Screens in 2026";
+export const guideTitle = "Best LG Monitor Privacy Screens";
 export const metaTitle = "Best LG Monitor Privacy Screens (2026)";
 export const metaDescription =
   "Honest note: these are third-party filters sized for common LG monitor dimensions, not LG-branded products. We matched by size, not by logo.";

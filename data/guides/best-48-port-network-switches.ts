@@ -1,5 +1,5 @@
 export const guideSlug = "best-48-port-network-switches";
-export const guideTitle = "5 Best 48-Port Network Switches in 2026";
+export const guideTitle = "Best 48-Port Network Switches";
 export const metaTitle = "Best 48-Port Network Switches 2026";
 export const metaDescription = "48-port switches are real infrastructure for server rooms and large offices. We compared build quality and management depth.";
 export const mainKeyword = "48-port network switches";

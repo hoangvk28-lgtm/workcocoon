@@ -1,5 +1,5 @@
 export const guideSlug = "best-ssd-enclosures-under-50";
-export const guideTitle = "8 Best SSD Enclosures Under $50 in 2026";
+export const guideTitle = "Best SSD Enclosures Under $50";
 export const metaTitle = "Best SSD Enclosures Under $50 in 2026";
 export const metaDescription = "We compared best ssd enclosures under $50 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "ssd enclosures under $50";

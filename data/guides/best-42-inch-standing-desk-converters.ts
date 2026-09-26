@@ -1,5 +1,5 @@
 export const guideSlug = "best-42-inch-standing-desk-converters";
-export const guideTitle = "6 Best 42-Inch Standing Desk Converters in 2026";
+export const guideTitle = "Best 42-Inch Standing Desk Converters";
 export const metaTitle = "Best 42-Inch Standing Desk Converters (2026)";
 export const metaDescription =
   "6 converters confirmed at genuine 42 inch platform width, comparing manual, electric, and TechOrbits wood-construction options at this size.";

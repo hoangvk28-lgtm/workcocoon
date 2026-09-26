@@ -1,5 +1,5 @@
 export const guideSlug = "best-mahogany-office-credenzas";
-export const guideTitle = "5 Best Mahogany Office Credenzas in 2026";
+export const guideTitle = "Best Mahogany Office Credenzas";
 export const metaTitle = "Best Mahogany Office Credenzas 2026";
 export const metaDescription = "We compared mahogany office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "mahogany office credenzas";

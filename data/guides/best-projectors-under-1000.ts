@@ -1,5 +1,5 @@
 export const guideSlug = "best-projectors-under-1000";
-export const guideTitle = "8 Best Projectors Under $1000 in 2026";
+export const guideTitle = "Best Projectors Under $1000";
 export const metaTitle = "Best Projectors Under $1000 in 2026";
 export const metaDescription = "We compared best projectors under $1000 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "projectors under $1000";

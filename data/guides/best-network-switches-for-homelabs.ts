@@ -1,5 +1,5 @@
 export const guideSlug = "best-network-switches-for-homelabs";
-export const guideTitle = "8 Best Network Switches for Homelabs";
+export const guideTitle = "Best Network Switches for Homelabs";
 export const metaTitle = "Best Network Switches for Homelabs 2026";
 export const metaDescription = "Homelabs benefit from a tiered approach: budget starters, mid-tier managed, and advanced options as needs grow. We mapped that path.";
 export const mainKeyword = "network switches for homelabs";

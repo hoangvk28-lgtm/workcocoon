@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-bookcase";
-export const guideTitle = "7 Best Room Divider Bookcases in 2026";
+export const guideTitle = "Best Room Divider Bookcases";
 export const metaTitle = "Best Room Divider Bookcases in 2026 (Freestanding & Double-Sided)";
 export const metaDescription =
   "7 best room divider bookcases in 2026, from freestanding etageres to double-sided shelves. Compare capacity, width, and design for splitting an open room.";

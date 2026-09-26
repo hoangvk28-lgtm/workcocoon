@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-coffee-warmers";
-export const guideTitle = "6 Best Portable Coffee Warmers in 2026";
+export const guideTitle = "Best Portable Coffee Warmers";
 export const metaTitle = "Best Portable Coffee Warmers";
 export const metaDescription = "We compared portable coffee warmers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "portable coffee warmers";

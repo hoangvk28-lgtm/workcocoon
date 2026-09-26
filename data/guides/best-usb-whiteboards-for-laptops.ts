@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-whiteboards-for-laptops";
-export const guideTitle = "3 Best Whiteboards for a Laptop Desk in 2026";
+export const guideTitle = "Best Whiteboards for a Laptop Desk";
 export const metaTitle = "Best Whiteboards for a Laptop Desk";
 export const metaDescription =
   "\"USB whiteboard\" usually means a compact physical board near your laptop, not a literal USB device. We clarify the term and cover the practical picks.";

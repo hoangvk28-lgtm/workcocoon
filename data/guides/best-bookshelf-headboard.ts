@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-headboard";
-export const guideTitle = "8 Best Bookshelf Headboards in 2026";
+export const guideTitle = "Best Bookshelf Headboards";
 export const metaTitle = "Best Bookshelf Headboards in 2026 (With Outlets & LED)";
 export const metaDescription =
   "8 best bookshelf headboards in 2026 for adding shelf storage, charging outlets, and LED lighting at the head of your bed, most sold headboard-only.";

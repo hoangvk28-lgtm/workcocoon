@@ -1,5 +1,5 @@
 export const guideSlug = "best-energy-star-dehumidifiers";
-export const guideTitle = "8 Best Energy Star Dehumidifiers in 2026";
+export const guideTitle = "Best Energy Star Dehumidifiers";
 export const metaTitle = "Best Energy Star Dehumidifiers";
 export const metaDescription = "We compared dehumidifier energy star models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier energy star";

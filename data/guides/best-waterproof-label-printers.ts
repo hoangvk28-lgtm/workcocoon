@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-label-printers";
-export const guideTitle = "6 Best Waterproof Label Printers in 2026";
+export const guideTitle = "Best Waterproof Label Printers";
 export const metaTitle = "Best Waterproof Label Printers";
 export const metaDescription = "We compared waterproof label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "waterproof label printers";

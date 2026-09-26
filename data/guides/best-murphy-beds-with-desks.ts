@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-with-desks";
-export const guideTitle = "8 Best Murphy Beds with Desks in 2026";
+export const guideTitle = "Best Murphy Beds with Desks";
 export const metaTitle = "Best Murphy Beds with Desks in 2026 (Desk Integration Guide)";
 export const metaDescription =
   "8 murphy beds with desks compared for desk item weight limits, outlet planning, and monitor arm compatibility, plus honest notes on which are real desk-bed combos.";

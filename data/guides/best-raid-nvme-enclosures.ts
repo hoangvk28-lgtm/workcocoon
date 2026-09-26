@@ -1,5 +1,5 @@
 export const guideSlug = "best-raid-nvme-enclosures";
-export const guideTitle = "5 Best RAID NVMe Enclosures in 2026";
+export const guideTitle = "Best RAID NVMe Enclosures";
 export const metaTitle = "Best RAID NVMe Enclosures in 2026";
 export const metaDescription = "RAID-capable enclosures need documented mode support, not just multiple bays. We checked exact RAID levels and data-loss warnings before ranking.";
 export const mainKeyword = "raid nvme enclosures";

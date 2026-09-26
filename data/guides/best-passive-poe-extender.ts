@@ -1,5 +1,5 @@
 export const guideSlug = "best-passive-poe-extender";
-export const guideTitle = "4 Best Passive PoE Extenders in 2026";
+export const guideTitle = "Best Passive PoE Extenders";
 export const metaTitle = "Best Passive PoE Extenders";
 export const metaDescription = "We compared passive PoE splitter kits by real voltage compatibility and speed limits, since one listing warns that non-standard PoE can overvolt a device.";
 export const mainKeyword = "best passive poe extender";

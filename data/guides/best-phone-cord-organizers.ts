@@ -1,5 +1,5 @@
 export const guideSlug = "best-phone-cord-organizers";
-export const guideTitle = "6 Best Phone Cord Organizers in 2026";
+export const guideTitle = "Best Phone Cord Organizers";
 export const metaTitle = "Best Phone Cord Organizers";
 export const metaDescription = "We compared phone cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "phone cord organizers";

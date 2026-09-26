@@ -1,5 +1,5 @@
 export const guideSlug = "best-45-inch-standing-desk-converters";
-export const guideTitle = "5 Best 45-Inch Standing Desk Converters in 2026";
+export const guideTitle = "Best 45-Inch Standing Desk Converters";
 export const metaTitle = "Best 45-Inch Standing Desk Converters (2026)";
 export const metaDescription =
   "Honest finding: exact 45 inch converter inventory is thinner than nearby 42 and 48 inch sizes. We confirmed the strongest genuine options available.";

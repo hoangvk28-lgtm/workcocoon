@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-portable-offices";
-export const guideTitle = "2 Best Mini Portable Offices in 2026";
+export const guideTitle = "Best Mini Portable Offices";
 export const metaTitle = "Best Mini Portable Offices (2026)";
 export const metaDescription =
   "2 compact office pods we evaluated, with an honest note that a true \"mini\" size tier isn't clearly differentiated in current Amazon listings.";

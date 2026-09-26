@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-that-sync-with-onenote";
-export const guideTitle = "5 Best Digital Notebooks That Sync with OneNote in 2026";
+export const guideTitle = "Best Digital Notebooks That Sync with OneNote";
 export const metaTitle = "Best Digital Notebooks That Sync with OneNote (2026)";
 export const metaDescription =
   "Honest finding: none of these devices sync natively with OneNote. We tested the realistic path, export to PDF or image, then manually import into OneNote, and ranked by how clean that export actually is.";

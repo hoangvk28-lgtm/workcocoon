@@ -1,5 +1,5 @@
 export const guideSlug = "best-oled-portable-monitors";
-export const guideTitle = "4 Best OLED Portable Monitors in 2026";
+export const guideTitle = "Best OLED Portable Monitors";
 export const metaTitle = "Best OLED Portable Monitors (2026)";
 export const metaDescription =
   "4 OLED portable monitors we evaluated, weighing genuine per-pixel contrast against the real risk of burn-in with static desktop content.";

@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-tv-stand-black";
 
 export const guideSlug = "best-tv-stand-black";
-export const guideTitle = "8 Best Black TV Stands for Small Living Rooms in 2026";
+export const guideTitle = "Best Black TV Stands for Small Living Rooms";
 export const metaTitle = "Best Black TV Stands 2026, LED, Storage & Small-Space Picks";
 export const metaDescription =
   "Best black TV stands in 2026 for small living rooms and bedrooms. LED, storage-heavy, and budget picks ranked by capacity, finish, and small-space fit.";

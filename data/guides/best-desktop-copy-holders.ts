@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-copy-holders";
-export const guideTitle = "6 Best Desktop Copy Holders in 2026";
+export const guideTitle = "Best Desktop Copy Holders";
 export const metaTitle = "Best Desktop Copy Holders";
 export const metaDescription = "We compared desktop copy holder models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desktop copy holder";

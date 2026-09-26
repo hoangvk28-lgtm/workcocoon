@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-for-gaming";
-export const guideTitle = "5 Best Wi-Fi 7 Routers for Gaming in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers for Gaming";
 export const metaTitle = "Best Wi-Fi 7 Gaming Routers (2026)";
 export const metaDescription =
   "5 Wi-Fi 7 gaming routers we evaluated, prioritizing multi-gig wired LAN ports over wireless-only gaming mode marketing claims.";

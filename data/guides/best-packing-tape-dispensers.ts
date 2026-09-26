@@ -1,5 +1,5 @@
 export const guideSlug = "best-packing-tape-dispensers";
-export const guideTitle = "6 Best Packing Tape Dispensers in 2026";
+export const guideTitle = "Best Packing Tape Dispensers";
 export const metaTitle = "Best Packing Tape Dispensers";
 export const metaDescription = "We compared packing tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "packing tape dispensers";

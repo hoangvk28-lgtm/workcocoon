@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-printer-ups-battery-backups";
-export const guideTitle = "6 Best 3D Printer UPS Battery Backups in 2026";
+export const guideTitle = "Best 3D Printer UPS Battery Backups";
 export const metaTitle = "Best 3D Printer UPS Battery Backups";
 export const metaDescription = "We compared 3d printer ups battery backups models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "3d printer ups battery backups";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-midea-portable-air-conditioners";
-export const guideTitle = "8 Best Midea Portable Air Conditioners in 2026";
+export const guideTitle = "Best Midea Portable Air Conditioners";
 export const metaTitle = "Best Midea Portable Air Conditioners";
 export const metaDescription = "We compared midea duo portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "midea duo portable air conditioner";

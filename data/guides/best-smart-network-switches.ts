@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-network-switches";
-export const guideTitle = "8 Best Smart Network Switches in 2026";
+export const guideTitle = "Best Smart Network Switches";
 export const metaTitle = "Best Smart Network Switches in 2026";
 export const metaDescription = "Smart managed switches offer VLAN and QoS control without full enterprise complexity. We compared the current lineup.";
 export const mainKeyword = "smart network switches";

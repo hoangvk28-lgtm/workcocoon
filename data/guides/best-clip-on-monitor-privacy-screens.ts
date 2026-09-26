@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-monitor-privacy-screens";
-export const guideTitle = "7 Best Clip-On Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Clip-On Monitor Privacy Screens";
 export const metaTitle = "Best Clip-On Monitor Privacy Screens (2026)";
 export const metaDescription =
   "Honest note: current listings mostly use hanging or magnetic mounts rather than traditional bezel clips. We compared these no-adhesive attachment styles directly.";

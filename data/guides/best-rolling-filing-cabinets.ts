@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-rolling-filing-cabinets";
 
 export const guideSlug = "best-rolling-filing-cabinets";
-export const guideTitle = "8 Best Rolling Filing Cabinets in 2026";
+export const guideTitle = "Best Rolling Filing Cabinets";
 export const metaTitle = "Best Rolling Filing Cabinets 2026, Caster & Stability Picks";
 export const metaDescription =
   "Best rolling filing cabinets in 2026, ranked by caster material, caster count, and real stability, with honest notes on which models actually ship with wheels.";

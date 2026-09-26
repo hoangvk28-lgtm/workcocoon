@@ -1,5 +1,5 @@
 export const guideSlug = "best-8k-resin-3d-printers";
-export const guideTitle = "6 Best 8K Resin 3D Printers in 2026";
+export const guideTitle = "Best 8K Resin 3D Printers";
 export const metaTitle = "Best 8K Resin 3D Printers";
 export const metaDescription = "We compared 8k resin 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "8k resin 3d printers";

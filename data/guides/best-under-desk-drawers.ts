@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-drawers";
-export const guideTitle = "8 Best Under-Desk Drawers in 2026";
+export const guideTitle = "Best Under-Desk Drawers";
 export const metaTitle = "Best Under-Desk Drawers";
 export const metaDescription = "We compared under desk drawer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "under desk drawer";

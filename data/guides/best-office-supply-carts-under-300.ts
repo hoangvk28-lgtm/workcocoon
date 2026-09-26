@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-supply-carts-under-300";
-export const guideTitle = "6 Best Office Supply Carts Under $300 in 2026";
+export const guideTitle = "Best Office Supply Carts Under $300";
 export const metaTitle = "Best Office Supply Carts Under $300 in 2026";
 export const metaDescription = "We compared best office supply carts under $300 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "office supply carts under $300";

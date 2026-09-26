@@ -1,5 +1,5 @@
 export const guideSlug = "best-benq-projectors";
-export const guideTitle = "8 Best BenQ Projectors in 2026";
+export const guideTitle = "Best BenQ Projectors";
 export const metaTitle = "Best BenQ Projectors";
 export const metaDescription = "We compared benq projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "benq projector";

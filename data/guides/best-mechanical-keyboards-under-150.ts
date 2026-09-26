@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-under-150";
-export const guideTitle = "4 Best Mechanical Keyboards Under $150 in 2026";
+export const guideTitle = "Best Mechanical Keyboards Under $150";
 export const metaTitle = "Best Mechanical Keyboards Under $150";
 export const metaDescription = "We compared mechanical keyboards under $150 by acoustic foam design, low-profile switches, and brand ecosystem, since premium refinements appear at this tier.";
 export const mainKeyword = "best mechanical keyboards under $150";

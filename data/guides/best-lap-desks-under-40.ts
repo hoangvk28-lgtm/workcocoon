@@ -1,5 +1,5 @@
 export const guideSlug = "best-lap-desks-under-40";
-export const guideTitle = "4 Best Lap Desks Under $40 in 2026";
+export const guideTitle = "Best Lap Desks Under $40";
 export const metaTitle = "Best Lap Desks Under $40";
 export const metaDescription = "We compared lap desks under $40 by tilt adjustability, weight capacity, and fold-flat storage, since genuine adjustable-angle designs appear at this tier.";
 export const mainKeyword = "best lap desks under $40";

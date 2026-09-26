@@ -1,5 +1,5 @@
 export const guideSlug = "best-kneeling-chairs-with-backrests";
-export const guideTitle = "8 Best Kneeling Chairs With Backrests in 2026";
+export const guideTitle = "Best Kneeling Chairs With Backrests";
 export const metaTitle = "Best Kneeling Chairs With Backrests";
 export const metaDescription = "We compared kneeling chair with back support models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "kneeling chair with back support";

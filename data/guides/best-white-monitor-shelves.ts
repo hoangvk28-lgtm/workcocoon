@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-monitor-shelves";
-export const guideTitle = "5 Best White Monitor Shelves in 2026";
+export const guideTitle = "Best White Monitor Shelves";
 export const metaTitle = "Best White Monitor Shelves, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 white monitor shelves we evaluated, with the honest maintenance disclosure competitors skip: white surfaces show visible dust, dirt, and staining far more readily than darker colors, and white finishes can yellow with UV exposure over time.";

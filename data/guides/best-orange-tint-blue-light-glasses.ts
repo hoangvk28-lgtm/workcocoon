@@ -1,5 +1,5 @@
 export const guideSlug = "best-orange-tint-blue-light-glasses";
-export const guideTitle = "6 Best Orange-Tint Blue Light Glasses in 2026";
+export const guideTitle = "Best Orange-Tint Blue Light Glasses";
 export const metaTitle = "Best Orange-Tint Blue Light Glasses";
 export const metaDescription = "We compared orange-tint blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "orange-tint blue light glasses";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-travertine-bookends";
-export const guideTitle = "3 Best Travertine Bookends in 2026";
+export const guideTitle = "Best Travertine Bookends";
 export const metaTitle = "Best Travertine Bookends";
 export const metaDescription = "We compared travertine bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "travertine bookends";

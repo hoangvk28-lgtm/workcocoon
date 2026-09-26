@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-cord-organizers";
-export const guideTitle = "6 Best Small Cord Organizers in 2026";
+export const guideTitle = "Best Small Cord Organizers";
 export const metaTitle = "Best Small Cord Organizers";
 export const metaDescription = "We compared small cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "small cord organizers";

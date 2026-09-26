@@ -1,5 +1,5 @@
 export const guideSlug = "best-samsung-monitor-privacy-screens";
-export const guideTitle = "6 Best Samsung Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Samsung Monitor Privacy Screens";
 export const metaTitle = "Best Samsung Monitor Privacy Screens (2026)";
 export const metaDescription =
   "Honest note: these are third-party filters sized for common Samsung monitor dimensions, not Samsung-branded products. We matched by size, not by logo.";

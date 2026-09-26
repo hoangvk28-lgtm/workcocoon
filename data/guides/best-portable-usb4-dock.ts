@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-usb4-dock";
-export const guideTitle = "4 Best Portable USB4 Docks for Travel in 2026";
+export const guideTitle = "Best Portable USB4 Docks for Travel";
 export const metaTitle = "Best Portable USB4 Docks for Travel";
 export const metaDescription = "We compared portable USB4 docks by weight, bus-powered design, and adapter needs, since travel docks trade full port counts for a smaller footprint.";
 export const mainKeyword = "best portable usb4 dock";

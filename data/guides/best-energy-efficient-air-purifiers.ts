@@ -1,5 +1,5 @@
 export const guideSlug = "best-energy-efficient-air-purifiers";
-export const guideTitle = "5 Best Energy-Efficient Air Purifiers in 2026";
+export const guideTitle = "Best Energy-Efficient Air Purifiers";
 export const metaTitle = "Best Energy-Efficient Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 energy-efficient air purifiers we evaluated, with the metric competitors skip: raw wattage alone doesn't indicate efficiency, CADR-per-watt is the more meaningful metric, and it's rarely calculated or compared.";

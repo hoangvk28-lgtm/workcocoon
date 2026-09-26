@@ -1,5 +1,5 @@
 export const guideSlug = "best-60w-poe-injector";
-export const guideTitle = "4 Best 60W PoE++ Injectors in 2026";
+export const guideTitle = "Best 60W PoE++ Injectors";
 export const metaTitle = "Best 60W PoE++ Injectors";
 export const metaDescription = "We compared 60W 802.3bt PoE++ injectors by real port speed and power monitoring, since one displays live wattage while others show only a status light.";
 export const mainKeyword = "best 60w poe injector";

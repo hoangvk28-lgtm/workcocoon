@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-for-iphone";
-export const guideTitle = "5 Best Power Banks for iPhone in 2026";
+export const guideTitle = "Best Power Banks for iPhone";
 export const metaTitle = "Best Power Banks for iPhone";
 export const metaDescription = "We compared power bank for iphone models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power bank for iphone";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-bay-nvme-enclosures";
-export const guideTitle = "3 Best 4-Bay NVMe Enclosures in 2026";
+export const guideTitle = "Best 4-Bay NVMe Enclosures";
 export const metaTitle = "Best 4-Bay NVMe Enclosures in 2026";
 export const metaDescription = "Four-bay enclosures typically add external power and active cooling. We verified simultaneous bandwidth and per-drive access before ranking.";
 export const mainKeyword = "4-bay nvme enclosures";

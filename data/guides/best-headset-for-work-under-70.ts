@@ -1,5 +1,5 @@
 export const guideSlug = "best-headset-for-work-under-70";
-export const guideTitle = "4 Best Headsets for Work Under $70 in 2026";
+export const guideTitle = "Best Headsets for Work Under $70";
 export const metaTitle = "Best Wireless Work Headsets Under $70";
 export const metaDescription = "We compared wireless work headsets under $70 by dongle type and dual-device pairing, details that matter more than noise-cancelling claims.";
 export const mainKeyword = "headset for work under $70";

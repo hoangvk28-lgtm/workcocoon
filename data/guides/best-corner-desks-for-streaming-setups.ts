@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-for-streaming-setups";
-export const guideTitle = "8 Best Corner Desks for Streaming Setups in 2026";
+export const guideTitle = "Best Corner Desks for Streaming Setups";
 export const metaTitle = "Best Corner Desks for Streaming Setups";
 export const metaDescription = "We compared corner desk gaming setup models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk gaming setup";

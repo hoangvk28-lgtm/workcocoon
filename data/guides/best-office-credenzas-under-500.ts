@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-credenzas-under-500";
-export const guideTitle = "8 Best Office Credenzas Under $500 in 2026";
+export const guideTitle = "Best Office Credenzas Under $500";
 export const metaTitle = "Best Office Credenzas Under $500 2026";
 export const metaDescription = "We compared office credenzas under $500 by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "office credenzas under $500";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-cooling-fans";
-export const guideTitle = "7 Best Mini PC Cooling Fans in 2026";
+export const guideTitle = "Best Mini PC Cooling Fans";
 export const metaTitle = "Best Mini PC Cooling Fans (2026)";
 export const metaDescription =
   "7 compact USB cooling fans we evaluated for Mini PCs, with honest notes on airflow direction, noise ratings, and mounting compatibility.";

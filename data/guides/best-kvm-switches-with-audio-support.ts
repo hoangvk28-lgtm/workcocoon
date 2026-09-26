@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-with-audio-support";
-export const guideTitle = "5 Best KVM Switches with Audio Support in 2026";
+export const guideTitle = "Best KVM Switches with Audio Support";
 export const metaTitle = "Best KVM Switches with Audio Support, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches we evaluated for audio support, with a note that HDMI-carried audio switches automatically with video, but a separate 3.5mm audio jack often needs manual switching on many models.";

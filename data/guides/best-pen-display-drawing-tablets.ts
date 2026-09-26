@@ -1,5 +1,5 @@
 export const guideSlug = "best-pen-display-drawing-tablets";
-export const guideTitle = "8 Best Pen Display Drawing Tablets in 2026";
+export const guideTitle = "Best Pen Display Drawing Tablets";
 export const metaTitle = "Best Pen Display Drawing Tablets 2026";
 export const metaDescription = "We compared pen display drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "pen display drawing tablets";

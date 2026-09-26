@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-vertical-mice-for-travel";
-export const guideTitle = "6 Best Compact Vertical Mice for Travel in 2026";
+export const guideTitle = "Best Compact Vertical Mice for Travel";
 export const metaTitle = "Best Compact Vertical Mice for Travel";
 export const metaDescription =
   "We evaluated 6 compact vertical mice for travel, being honest that a smaller body may offer less ergonomic benefit than a full-size vertical mouse.";

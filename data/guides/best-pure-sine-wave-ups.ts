@@ -1,5 +1,5 @@
 export const guideSlug = "best-pure-sine-wave-ups";
-export const guideTitle = "7 Best Pure Sine Wave UPS Battery Backups in 2026";
+export const guideTitle = "Best Pure Sine Wave UPS Battery Backups";
 export const metaTitle = "Best Pure Sine Wave UPS Battery Backups, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 pure sine wave UPS units we evaluated, with the compatibility detail most listings skip: modified sine wave power can cause buzzing, overheating, or shutdown on modern APFC power supplies, and pure sine wave isn't a universal upgrade every setup needs.";

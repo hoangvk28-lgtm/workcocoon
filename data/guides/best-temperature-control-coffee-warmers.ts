@@ -1,5 +1,5 @@
 export const guideSlug = "best-temperature-control-coffee-warmers";
-export const guideTitle = "6 Best Temperature-Control Coffee Warmers in 2026";
+export const guideTitle = "Best Temperature-Control Coffee Warmers";
 export const metaTitle = "Best Temperature-Control Coffee Warmers";
 export const metaDescription = "We compared temperature-control coffee warmers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "temperature-control coffee warmers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mesh-task-chairs";
-export const guideTitle = "8 Best Mesh Task Chairs in 2026";
+export const guideTitle = "Best Mesh Task Chairs";
 export const metaTitle = "Best Mesh Task Chairs";
 export const metaDescription = "We compared task chair breathable mesh models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair breathable mesh";

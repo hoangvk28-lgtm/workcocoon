@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-vesa-mounts";
-export const guideTitle = "5 Best Mini PCs with VESA Mounts in 2026";
+export const guideTitle = "Best Mini PCs with VESA Mounts";
 export const metaTitle = "Best Mini PCs with VESA Mounts (2026)";
 export const metaDescription =
   "5 VESA-mountable mini PCs we evaluated, checking included bracket quality, port access, and heat buildup behind the monitor.";

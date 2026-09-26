@@ -1,5 +1,5 @@
 export const guideSlug = "best-no-3-desk-staplers";
-export const guideTitle = "3 Best No. 3 Desk Staplers in 2026";
+export const guideTitle = "Best No. 3 Desk Staplers";
 export const metaTitle = "Best No. 3 Desk Staplers";
 export const metaDescription = "We compared no. 3 desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "no. 3 desk staplers";

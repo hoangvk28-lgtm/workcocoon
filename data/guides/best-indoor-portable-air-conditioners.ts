@@ -1,5 +1,5 @@
 export const guideSlug = "best-indoor-portable-air-conditioners";
-export const guideTitle = "8 Best Indoor Portable Air Conditioners in 2026";
+export const guideTitle = "Best Indoor Portable Air Conditioners";
 export const metaTitle = "Best Indoor Portable Air Conditioners";
 export const metaDescription = "We compared indoor portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "indoor portable air conditioner";

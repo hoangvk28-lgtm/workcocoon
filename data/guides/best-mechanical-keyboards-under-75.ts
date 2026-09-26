@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-under-75";
-export const guideTitle = "4 Best Mechanical Keyboards Under $75 in 2026";
+export const guideTitle = "Best Mechanical Keyboards Under $75";
 export const metaTitle = "Best Mechanical Keyboards Under $75";
 export const metaDescription = "We compared mechanical keyboards under $75 by polling rate, hot-swap design, and RGB customization, since 8000Hz gaming boards start appearing at this tier.";
 export const mainKeyword = "best mechanical keyboards under $75";

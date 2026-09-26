@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-offices";
-export const guideTitle = "6 Best Humidifiers for Offices in 2026";
+export const guideTitle = "Best Humidifiers for Offices";
 export const metaTitle = "Best Humidifiers for Offices";
 export const metaDescription = "We compared humidifier for office models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier for office";

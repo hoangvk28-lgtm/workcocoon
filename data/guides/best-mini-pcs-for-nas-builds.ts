@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-nas-builds";
-export const guideTitle = "5 Best Mini PCs for NAS Builds in 2026";
+export const guideTitle = "Best Mini PCs for NAS Builds";
 export const metaTitle = "Best Mini PCs for NAS Builds (2026)";
 export const metaDescription =
   "5 mini PCs for NAS builds we evaluated, focused on drive bay count, SATA support, and sustained file-transfer throughput.";

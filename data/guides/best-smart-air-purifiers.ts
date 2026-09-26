@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-air-purifiers";
-export const guideTitle = "5 Best Smart Air Purifiers in 2026";
+export const guideTitle = "Best Smart Air Purifiers";
 export const metaTitle = "Best Smart Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 smart air purifiers we evaluated, with the accuracy gap competitors skip: built-in air quality sensors vary significantly in accuracy and are rarely verified against a reference-grade monitor, so auto-mode decisions are only as good as the underlying sensor.";

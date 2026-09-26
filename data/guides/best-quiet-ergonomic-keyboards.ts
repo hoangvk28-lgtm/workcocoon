@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-ergonomic-keyboards";
-export const guideTitle = "8 Best Quiet Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Quiet Ergonomic Keyboards";
 export const metaTitle = "Best Quiet Ergonomic Keyboards (2026)";
 export const metaDescription =
   "8 quiet ergonomic keyboards we evaluated for real typing noise, membrane vs quiet-mechanical tactile tradeoffs, and open-office suitability.";

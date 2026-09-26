@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-for-work";
-export const guideTitle = "6 Best Ultrawide Monitors for Work in 2026";
+export const guideTitle = "Best Ultrawide Monitors Built for Work, Not Gaming";
 export const metaTitle = "Best Ultrawide Monitors for Work in 2026 (USB-C, KVM, Docking)";
 export const metaDescription =
   "6 best ultrawide monitors for work in 2026, compared on USB-C wattage, KVM switching, Thunderbolt, and Ethernet for productivity-focused desks.";

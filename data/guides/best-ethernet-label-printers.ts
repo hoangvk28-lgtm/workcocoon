@@ -1,5 +1,5 @@
 export const guideSlug = "best-ethernet-label-printers";
-export const guideTitle = "6 Best Ethernet Label Printers in 2026";
+export const guideTitle = "Best Ethernet Label Printers";
 export const metaTitle = "Best Ethernet Label Printers";
 export const metaDescription = "We compared ethernet label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ethernet label printers";

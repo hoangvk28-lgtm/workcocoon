@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboard-pads";
-export const guideTitle = "5 Best Desktop Whiteboard Pads in 2026";
+export const guideTitle = "Best Desktop Whiteboard Pads";
 export const metaTitle = "Best Desktop Whiteboard Pads (2026)";
 export const metaDescription =
   "5 flat notepad-style whiteboards that lie in front of a keyboard rather than standing upright, compared for wrist comfort and desk clearance.";

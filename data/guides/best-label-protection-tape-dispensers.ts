@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-protection-tape-dispensers";
-export const guideTitle = "6 Best Label-Protection Tape Dispensers in 2026";
+export const guideTitle = "Best Label-Protection Tape Dispensers";
 export const metaTitle = "Best Label-Protection Tape Dispensers";
 export const metaDescription = "We compared label-protection tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "label-protection tape dispensers";

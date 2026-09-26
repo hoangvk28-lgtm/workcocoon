@@ -1,5 +1,5 @@
 export const guideSlug = "best-50-pint-dehumidifiers";
-export const guideTitle = "8 Best 50-Pint Dehumidifiers in 2026";
+export const guideTitle = "Best 50-Pint Dehumidifiers";
 export const metaTitle = "Best 50-Pint Dehumidifiers";
 export const metaDescription = "We compared midea cube 50 pint dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "midea cube 50 pint dehumidifier";

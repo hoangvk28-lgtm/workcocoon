@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-3d-printers";
-export const guideTitle = "6 Best Budget 3D Printers in 2026";
+export const guideTitle = "Best Budget 3D Printers";
 export const metaTitle = "Best Budget 3D Printers";
 export const metaDescription = "We compared budget 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "budget 3d printers";

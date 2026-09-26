@@ -1,5 +1,5 @@
 export const guideSlug = "best-water-activated-tape-dispensers";
-export const guideTitle = "6 Best Water-Activated Tape Dispensers in 2026";
+export const guideTitle = "Best Water-Activated Tape Dispensers";
 export const metaTitle = "Best Water-Activated Tape Dispensers";
 export const metaDescription = "We compared water-activated tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "water-activated tape dispensers";

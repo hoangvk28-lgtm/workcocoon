@@ -1,5 +1,5 @@
 export const guideSlug = "best-playstation-vr-headsets";
-export const guideTitle = "6 Best PlayStation VR Headsets in 2026";
+export const guideTitle = "Best PlayStation VR Headsets";
 export const metaTitle = "Best PlayStation VR Headsets";
 export const metaDescription = "We compared playstation vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "playstation vr headsets";

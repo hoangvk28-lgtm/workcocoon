@@ -1,5 +1,5 @@
 export const guideSlug = "best-home-office-desk-and-credenza-sets";
-export const guideTitle = "8 Best Home Office Desk And Credenza Sets in 2026";
+export const guideTitle = "Best Home Office Desk And Credenza Sets";
 export const metaTitle = "Best Home Office Desk And Credenza Sets 2026";
 export const metaDescription = "We compared home office desk and credenza sets by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "home office desk and credenza sets";

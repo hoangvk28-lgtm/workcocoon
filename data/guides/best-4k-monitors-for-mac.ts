@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-monitors-for-mac";
-export const guideTitle = "6 Best 4K Monitors for Mac in 2026";
+export const guideTitle = "Best 4K Monitors for Mac";
 export const metaTitle = "Best 4K Monitors for Mac";
 export const metaDescription = "We compared 4k monitors for mac models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "4k monitors for mac";

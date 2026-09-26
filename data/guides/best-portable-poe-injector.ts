@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-poe-injector";
-export const guideTitle = "4 Best Portable and Battery-Powered PoE Injectors in 2026";
+export const guideTitle = "Best Portable and Battery-Powered PoE Injectors";
 export const metaTitle = "Best Portable PoE Injectors";
 export const metaDescription = "We compared portable PoE injectors by real power source flexibility, since one runs on cordless drill batteries while others accept a wide DC voltage range.";
 export const mainKeyword = "best portable poe injector";

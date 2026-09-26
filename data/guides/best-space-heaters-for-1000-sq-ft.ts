@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-1000-sq-ft";
-export const guideTitle = "8 Best Space Heaters for 1000 Sq Ft in 2026";
+export const guideTitle = "Best Space Heaters for 1000 Sq Ft";
 export const metaTitle = "Best Space Heaters for 1000 Sq Ft";
 export const metaDescription = "We compared space heater 1000 square feet models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "space heater 1000 square feet";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-for-macbook-air";
-export const guideTitle = "5 Best Laptop Screen Extenders for MacBook Air in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for MacBook Air";
 export const metaTitle = "Best Laptop Screen Extenders for MacBook Air, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders we evaluated for MacBook Air, with the power-delivery-headroom check competitors skip: MacBook Air's USB-C port has less power headroom than MacBook Pro's Thunderbolt ports, worth choosing a lighter-power-draw extender.";

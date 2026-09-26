@@ -1,5 +1,5 @@
 export const guideSlug = "best-mrp-label-printers";
-export const guideTitle = "6 Best MRP Label Printers in 2026";
+export const guideTitle = "Best MRP Label Printers";
 export const metaTitle = "Best MRP Label Printers";
 export const metaDescription = "We compared mrp label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mrp label printers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-with-handles";
-export const guideTitle = "5 Best Portable File Boxes with Handles in 2026";
+export const guideTitle = "Best Portable File Boxes with Handles";
 export const metaTitle = "Best File Boxes with Handles (2026)";
 export const metaDescription =
   "5 file boxes compared on handle design specifically, molded versus hinged, tested against the realistic weight of a fully loaded box.";

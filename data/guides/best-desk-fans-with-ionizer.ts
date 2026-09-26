@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-with-ionizer";
-export const guideTitle = "8 Best Desk Fans With Ionizer in 2026";
+export const guideTitle = "Best Desk Fans With Ionizer";
 export const metaTitle = "Best Desk Fans With Ionizer";
 export const metaDescription = "We compared desk fan ionizer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan ionizer";

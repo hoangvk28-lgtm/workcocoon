@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-for-mac-mini";
-export const guideTitle = "5 Best KVM Switches for Mac Mini in 2026";
+export const guideTitle = "Best KVM Switches for Mac Mini";
 export const metaTitle = "Best KVM Switches for Mac Mini, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches for Mac Mini we evaluated, with a note that Mac Mini's rear-facing ports make cable routing through a KVM switch more visible on a desk than a laptop's side ports.";

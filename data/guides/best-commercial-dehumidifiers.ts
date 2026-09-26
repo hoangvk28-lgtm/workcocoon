@@ -1,5 +1,5 @@
 export const guideSlug = "best-commercial-dehumidifiers";
-export const guideTitle = "8 Best Commercial Dehumidifiers in 2026";
+export const guideTitle = "Best Commercial Dehumidifiers";
 export const metaTitle = "Best Commercial Dehumidifiers";
 export const metaDescription = "We compared dehumidifier commercial models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier commercial";

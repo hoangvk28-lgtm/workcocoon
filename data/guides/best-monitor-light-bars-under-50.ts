@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-monitor-light-bars-under-50";
 
 export const guideSlug = "best-monitor-light-bars-under-50";
-export const guideTitle = "8 Best Monitor Light Bars Under $50 (2026)";
+export const guideTitle = "Best Monitor Light Bars Under $50 (2026)";
 export const metaTitle = "Best Monitor Light Bars Under $50 (2026)";
 export const metaDescription =
   "Best monitor light bars under $50 in 2026. Budget-friendly options with auto-dimming, RGB backlighting, wireless remotes, and no-glare illumination compared.";

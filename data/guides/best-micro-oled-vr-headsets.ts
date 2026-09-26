@@ -1,5 +1,5 @@
 export const guideSlug = "best-micro-oled-vr-headsets";
-export const guideTitle = "6 Best Micro-OLED VR Headsets in 2026";
+export const guideTitle = "Best Micro-OLED VR Headsets";
 export const metaTitle = "Best Micro-OLED VR Headsets";
 export const metaDescription = "We compared micro-oled vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "micro-oled vr headsets";

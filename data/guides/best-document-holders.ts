@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-holders";
-export const guideTitle = "8 Best Document Holders in 2026";
+export const guideTitle = "Best Document Holders";
 export const metaTitle = "Best Document Holders";
 export const metaDescription = "We compared document holder models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "document holder";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-credenzas-for-home-office";
-export const guideTitle = "8 Best Office Credenzas for Home Office in 2026";
+export const guideTitle = "Best Office Credenzas for Home Office";
 export const metaTitle = "Best Office Credenzas for Home Office 2026";
 export const metaDescription = "We compared office credenzas for home office by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "office credenzas for home office";

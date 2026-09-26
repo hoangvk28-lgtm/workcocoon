@@ -1,5 +1,5 @@
 export const guideSlug = "best-ozone-free-air-purifiers";
-export const guideTitle = "5 Best Ozone-Free Air Purifiers in 2026";
+export const guideTitle = "Best Ozone-Free Air Purifiers";
 export const metaTitle = "Best Ozone-Free Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 ozone-free air purifiers we evaluated, with the labeling gap competitors skip: 'ionic' and 'plasma' branding doesn't automatically mean ozone-generating, but the EPA has flagged elevated ozone concentrations as a lung irritant, worth verifying before buying.";

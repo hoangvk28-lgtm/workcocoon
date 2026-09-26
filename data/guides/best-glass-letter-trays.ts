@@ -1,5 +1,5 @@
 export const guideSlug = "best-glass-letter-trays";
-export const guideTitle = "4 Best Glass Letter Trays in 2026";
+export const guideTitle = "Best Glass Letter Trays";
 export const metaTitle = "Best Glass Letter Trays";
 export const metaDescription = "We compared glass letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "glass letter trays";

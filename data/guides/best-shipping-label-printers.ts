@@ -1,5 +1,5 @@
 export const guideSlug = "best-shipping-label-printers";
-export const guideTitle = "6 Best Shipping Label Printers in 2026";
+export const guideTitle = "Best Shipping Label Printers";
 export const metaTitle = "Best Shipping Label Printers";
 export const metaDescription = "We compared shipping label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "shipping label printers";

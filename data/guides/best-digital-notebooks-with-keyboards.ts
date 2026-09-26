@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-keyboards";
-export const guideTitle = "5 Best Digital Notebooks with Keyboards in 2026";
+export const guideTitle = "Best Digital Notebooks with Keyboards";
 export const metaTitle = "Best Digital Notebooks with Keyboards (2026)";
 export const metaDescription =
   "Honest finding: no current E Ink notebook in our research ships with a first-party keyboard. We ranked the 5 devices by whether their operating system actually supports a Bluetooth keyboard at all.";

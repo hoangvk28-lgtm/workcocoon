@@ -1,5 +1,5 @@
 export const guideSlug = "best-double-sided-id-badge-holders";
-export const guideTitle = "6 Best Double-Sided ID Badge Holders in 2026";
+export const guideTitle = "Best Double-Sided ID Badge Holders";
 export const metaTitle = "Best Double-Sided ID Badge Holders";
 export const metaDescription = "We compared double-sided id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "double-sided id badge holders";

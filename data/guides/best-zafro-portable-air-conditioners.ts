@@ -1,5 +1,5 @@
 export const guideSlug = "best-zafro-portable-air-conditioners";
-export const guideTitle = "8 Best ZAFRO Portable Air Conditioners in 2026";
+export const guideTitle = "Best ZAFRO Portable Air Conditioners";
 export const metaTitle = "Best ZAFRO Portable Air Conditioners";
 export const metaDescription = "We compared zafro portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "zafro portable air conditioner";

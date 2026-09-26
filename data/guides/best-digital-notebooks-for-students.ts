@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-students";
-export const guideTitle = "7 Best Digital Notebooks for Students in 2026";
+export const guideTitle = "Best Digital Notebooks for Students";
 export const metaTitle = "Best Digital Notebooks for Students (2026)";
 export const metaDescription =
   "7 digital notebooks we evaluated for student budgets, from affordable reusable paper notebooks to a premium e-ink option for heavy daily use.";

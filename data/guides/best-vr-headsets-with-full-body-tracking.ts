@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-with-full-body-tracking";
-export const guideTitle = "6 Best VR Headsets With Full-Body Tracking in 2026";
+export const guideTitle = "Best VR Headsets With Full-Body Tracking";
 export const metaTitle = "Best VR Headsets With Full-Body Tracking";
 export const metaDescription = "We compared vr headsets with full-body tracking models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "vr headsets with full-body tracking";

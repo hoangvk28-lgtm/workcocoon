@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-under-75";
-export const guideTitle = "4 Best Monitor Shelves Under $75 in 2026";
+export const guideTitle = "Best Monitor Shelves Under $75";
 export const metaTitle = "Best Monitor Shelves Under $75";
 export const metaDescription = "We compared monitor shelves under $75 by hardwood build quality, 200 lb weight capacity, and modular multi-monitor configurations for serious desk setups.";
 export const mainKeyword = "best monitor shelves under $75";

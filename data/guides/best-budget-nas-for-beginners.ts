@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-nas-for-beginners";
-export const guideTitle = "8 Best Budget NAS for Beginners in 2026";
+export const guideTitle = "Best Budget NAS for Beginners";
 export const metaTitle = "Best Budget NAS for Beginners in 2026 (Easy Setup Picks)";
 export const metaDescription =
   "8 best budget NAS picks for beginners in 2026, from drives-included single-bay units to diskless 2-bay and 4-bay enclosures. Compare setup ease and true cost.";

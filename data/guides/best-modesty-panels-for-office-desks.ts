@@ -1,5 +1,5 @@
 export const guideSlug = "best-modesty-panels-for-office-desks";
-export const guideTitle = "8 Best Modesty Panels for Office Desks in 2026";
+export const guideTitle = "Best Modesty Panels for Office Desks";
 export const metaTitle = "Best Modesty Panels for Office Desks";
 export const metaDescription = "We compared modesty panel office desk models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "modesty panel office desk";

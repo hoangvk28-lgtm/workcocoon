@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-macbook-air";
-export const guideTitle = "7 Best Portable Monitors for MacBook Air in 2026";
+export const guideTitle = "Best Portable Monitors for MacBook Air";
 export const metaTitle = "Best Portable Monitors for MacBook Air, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 portable monitors we evaluated for MacBook Air, with a clear read on the one-external-display limit on M1/M2 Air and the power budget math a small adapter forces.";

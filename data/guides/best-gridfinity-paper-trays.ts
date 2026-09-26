@@ -1,5 +1,5 @@
 export const guideSlug = "best-gridfinity-paper-trays";
-export const guideTitle = "6 Best Gridfinity Paper Trays in 2026";
+export const guideTitle = "Best Gridfinity Paper Trays";
 export const metaTitle = "Best Gridfinity Paper Trays";
 export const metaDescription = "We compared gridfinity paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "gridfinity paper trays";

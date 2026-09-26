@@ -1,5 +1,5 @@
 export const guideSlug = "best-gpu-cable-sleeves";
-export const guideTitle = "6 Best GPU Cable Sleeves in 2026";
+export const guideTitle = "Best GPU Cable Sleeves";
 export const metaTitle = "Best GPU Cable Sleeves";
 export const metaDescription = "We compared gpu cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "gpu cable sleeves";

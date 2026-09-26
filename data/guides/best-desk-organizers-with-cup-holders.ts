@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-organizers-with-cup-holders";
-export const guideTitle = "5 Best Desk Organizers with Cup Holders in 2026";
+export const guideTitle = "Best Desk Organizers with Cup Holders";
 export const metaTitle = "Best Desk Organizers with Cup Holders (2026)";
 export const metaDescription =
   "5 hybrid desk organizers combining real storage compartments with an integrated cup holder, checked for genuine combo value over separate purchases.";

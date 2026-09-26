@@ -1,5 +1,5 @@
 export const guideSlug = "best-standalone-drawing-tablets";
-export const guideTitle = "7 Best Standalone Drawing Tablets in 2026";
+export const guideTitle = "Best Standalone Drawing Tablets";
 export const metaTitle = "Best Standalone Drawing Tablets 2026";
 export const metaDescription = "We compared standalone drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "standalone drawing tablets";

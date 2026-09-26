@@ -1,5 +1,5 @@
 export const guideSlug = "best-3-monitor-standing-desk-converters";
-export const guideTitle = "5 Best 3-Monitor Standing Desk Converters in 2026";
+export const guideTitle = "Best 3-Monitor Standing Desk Converters";
 export const metaTitle = "Best 3-Monitor Standing Desk Converters (2026)";
 export const metaDescription =
   "5 standing desk converters that genuinely support three monitors, verified for load capacity and mount type rather than a marketing count alone.";

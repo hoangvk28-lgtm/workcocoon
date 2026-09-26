@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-acoustic-panels";
-export const guideTitle = "5 Best Desk Acoustic Panels in 2026";
+export const guideTitle = "Best Desk Acoustic Panels";
 export const metaTitle = "Best Desk Acoustic Panels (2026)";
 export const metaDescription =
   "5 desk acoustic panels we evaluated for material density, mounting method, and realistic sound-absorption coverage for a single desk setup.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-folding-table-modesty-panels";
-export const guideTitle = "6 Best Folding-Table Modesty Panels in 2026";
+export const guideTitle = "Best Folding-Table Modesty Panels";
 export const metaTitle = "Best Folding-Table Modesty Panels";
 export const metaDescription = "We compared folding-table modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "folding-table modesty panels";

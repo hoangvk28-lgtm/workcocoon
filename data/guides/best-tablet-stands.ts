@@ -2,7 +2,7 @@
 import type { AtAGlanceItem } from "@/components/product/AtAGlance";
 
 export const guideSlug = "best-tablet-stands";
-export const guideTitle = "10 Best Tablet Stands for Desk, Bed, Drawing & Everyday Use (2026)";
+export const guideTitle = "Best Tablet Stands for Desk, Bed, Drawing & Everyday Use (2026)";
 export const guideDescription =
   "We compared 10 tablet stands across price, stability, adjustability, and real-world use cases - from ultra-budget foldable picks to heavy-duty aluminum builds. Here are the ones worth buying.";
 export const metaTitle = "10 Best Tablet Stands (2026)";

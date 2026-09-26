@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-steam-deck";
-export const guideTitle = "5 Best Portable SSDs for Steam Deck in 2026";
+export const guideTitle = "Best Portable SSDs for Steam Deck";
 export const metaTitle = "Best Portable SSDs for Steam Deck, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable SSDs we evaluated for Steam Deck, with the SteamOS file system compatibility check competitors skip: exFAT works broadly, but native Linux formats might not be readily accessible without additional configuration on this platform.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-under-75";
-export const guideTitle = "4 Best Document Scanners Under $75 in 2026";
+export const guideTitle = "Best Document Scanners Under $75";
 export const metaTitle = "Best Document Scanners Under $75";
 export const metaDescription = "We compared document scanners under $75 by real scan method, resolution, and file format support, since a handheld wand works very differently than a flatbed.";
 export const mainKeyword = "best document scanners under $75";

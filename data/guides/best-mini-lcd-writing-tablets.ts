@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-lcd-writing-tablets";
-export const guideTitle = "1 Best Mini LCD Writing Tablet in 2026";
+export const guideTitle = "Best Mini LCD Writing Tablet";
 export const metaTitle = "Best Mini LCD Writing Tablets (2026)";
 export const metaDescription =
   "Only 1 dedicated mini LCD writing tablet under 7 inches exists in current research, covered honestly here alongside the next-smallest practical alternative.";

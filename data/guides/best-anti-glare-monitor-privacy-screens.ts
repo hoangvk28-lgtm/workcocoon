@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-glare-monitor-privacy-screens";
-export const guideTitle = "6 Best Anti-Glare Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Anti-Glare Monitor Privacy Screens";
 export const metaTitle = "Best Anti-Glare Monitor Privacy Screens (2026)";
 export const metaDescription =
   "6 privacy filters that explicitly bundle anti-glare with side-angle privacy, compared on review volume and additional features across sizes.";

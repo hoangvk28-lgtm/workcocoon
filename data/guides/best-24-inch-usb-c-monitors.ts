@@ -1,5 +1,5 @@
 export const guideSlug = "best-24-inch-usb-c-monitors";
-export const guideTitle = "5 Best 24-Inch USB-C Monitors in 2026";
+export const guideTitle = "Best 24-Inch USB-C Monitors";
 export const metaTitle = "Best 24-Inch USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 24-inch USB-C monitors we evaluated, with a note that 24 inches is the sweet spot for 1080p without visible pixelation, while the same resolution at 27 inches or larger looks noticeably softer.";

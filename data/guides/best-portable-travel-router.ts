@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-travel-router";
-export const guideTitle = "4 Best Pocket and Mini Travel Routers in 2026";
+export const guideTitle = "Best Pocket and Mini Travel Routers";
 export const metaTitle = "Best Pocket Travel Routers";
 export const metaDescription = "We compared pocket travel routers by real size and weight, since two models weigh just 39 grams while others prioritize more ports over minimal size.";
 export const mainKeyword = "best portable travel router";

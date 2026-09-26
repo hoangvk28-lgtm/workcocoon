@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-contoured-anti-fatigue-mats";
-export const guideTitle = "8 Best Ergonomic/Contoured Anti-Fatigue Mats in 2026";
+export const guideTitle = "Best Ergonomic/Contoured Anti-Fatigue Mats";
 export const metaTitle = "Best Ergonomic/Contoured Anti-Fatigue Mats";
 export const metaDescription = "We compared anti-fatigue mat purpose models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "anti-fatigue mat purpose";

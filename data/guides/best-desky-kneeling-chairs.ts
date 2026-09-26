@@ -1,5 +1,5 @@
 export const guideSlug = "best-desky-kneeling-chairs";
-export const guideTitle = "8 Best Desky Kneeling Chairs in 2026";
+export const guideTitle = "Best Desky Kneeling Chairs";
 export const metaTitle = "Best Desky Kneeling Chairs";
 export const metaDescription = "We compared desky kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desky kneeling chair";

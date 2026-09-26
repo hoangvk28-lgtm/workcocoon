@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mounted-space-heaters";
-export const guideTitle = "8 Best Wall-Mounted Space Heaters in 2026";
+export const guideTitle = "Best Wall-Mounted Space Heaters";
 export const metaTitle = "Best Wall-Mounted Space Heaters";
 export const metaDescription = "We compared space heater wall mount models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater wall mount";

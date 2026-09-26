@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-solid-wood";
-export const guideTitle = "8 Best Solid Wood TV Stands in 2026";
+export const guideTitle = "Best Solid Wood TV Stands";
 export const metaTitle = "Best Solid Wood TV Stands 2026, Real Hardwood Picks";
 export const metaDescription =
   "Best solid wood TV stands in 2026: genuine acacia, pine, and rubberwood picks, with notes on which options are true solid wood vs veneer.";

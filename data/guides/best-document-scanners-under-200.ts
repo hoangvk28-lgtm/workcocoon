@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-under-200";
-export const guideTitle = "4 Best Document Scanners Under $200 in 2026";
+export const guideTitle = "Best Document Scanners Under $200";
 export const metaTitle = "Best Document Scanners Under $200";
 export const metaDescription = "We compared document scanners under $200 by duplex support, scan speed, and portability, since duplex scanning finally becomes available at this tier.";
 export const mainKeyword = "best document scanners under $200";

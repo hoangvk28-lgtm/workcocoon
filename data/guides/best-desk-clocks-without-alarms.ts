@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-without-alarms";
-export const guideTitle = "5 Best Desk Clocks Without Alarms in 2026";
+export const guideTitle = "Best Desk Clocks Without Alarms";
 export const metaTitle = "Best Desk Clocks Without Alarms (2026)";
 export const metaDescription =
   "5 desk clocks verified against their descriptions for true absence of alarm functions, since some \"alarm clock\" listings can still work fine without ever using the alarm.";

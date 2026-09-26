@@ -1,5 +1,5 @@
 export const guideSlug = "best-direct-attached-storage-with-hardware-raid";
-export const guideTitle = "8 Best DAS With Hardware RAID";
+export const guideTitle = "Best DAS With Hardware RAID";
 export const metaTitle = "Best DAS With Hardware RAID 2026";
 export const metaDescription = "Hardware/enclosure RAID is materially different from host software RAID. We verified dedicated controller chips before ranking.";
 export const mainKeyword = "direct-attached storage with hardware raid";

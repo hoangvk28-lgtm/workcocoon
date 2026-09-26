@@ -1,5 +1,5 @@
 export const guideSlug = "best-gigabit-poe-injector";
-export const guideTitle = "4 Best Gigabit PoE Injectors in 2026";
+export const guideTitle = "Best Gigabit PoE Injectors";
 export const metaTitle = "Best Gigabit PoE Injectors";
 export const metaDescription = "We compared Gigabit PoE injectors by real port speed and NDAA compliance, since a 100Mbps unit caps a 4K camera's bandwidth even if power delivery is fine.";
 export const mainKeyword = "best gigabit poe injector";

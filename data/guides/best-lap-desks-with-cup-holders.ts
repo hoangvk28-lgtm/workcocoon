@@ -1,5 +1,5 @@
 export const guideSlug = "best-lap-desks-with-cup-holders";
-export const guideTitle = "5 Best Lap Desks with Cup Holders in 2026";
+export const guideTitle = "Best Lap Desks with Cup Holders";
 export const metaTitle = "Best Lap Desks with Cup Holders (2026)";
 export const metaDescription =
   "5 lap desks with a built-in cup holder, checked for stability during lap use and the elevated spill risk of a drink balanced on your legs.";

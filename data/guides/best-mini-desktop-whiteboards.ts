@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-desktop-whiteboards";
-export const guideTitle = "3 Best Mini Desktop Whiteboards in 2026";
+export const guideTitle = "Best Mini Desktop Whiteboards";
 export const metaTitle = "Best Mini Desktop Whiteboards (2026)";
 export const metaDescription =
   "3 mini desktop whiteboards we evaluated, the smallest tier within our small whiteboard category, compared by actual dimensions and realistic use case.";

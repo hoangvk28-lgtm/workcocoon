@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-cubic-feet-fireproof-safes";
-export const guideTitle = "8 Best 2 Cubic Feet Fireproof Safes in 2026";
+export const guideTitle = "Best 2 Cubic Feet Fireproof Safes";
 export const metaTitle = "Best 2 Cubic Feet Fireproof Safes 2026";
 export const metaDescription = "We compared 2 cubic feet fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "2 cubic feet fireproof safes";

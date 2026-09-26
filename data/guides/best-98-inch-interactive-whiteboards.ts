@@ -1,5 +1,5 @@
 export const guideSlug = "best-98-inch-interactive-whiteboards";
-export const guideTitle = "5 Best 98-Inch Interactive Whiteboards";
+export const guideTitle = "Best 98-Inch Interactive Whiteboards";
 export const metaTitle = "Best 98-Inch Interactive Whiteboards";
 export const metaDescription = "98 inches is a current large-room tier with demanding installation requirements. We required exact current SKUs and verified weight/VESA specs.";
 export const mainKeyword = "98 inch interactive whiteboard";

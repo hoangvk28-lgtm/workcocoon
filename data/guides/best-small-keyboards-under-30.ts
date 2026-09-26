@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-keyboards-under-30";
-export const guideTitle = "6 Best Small Keyboards Under $30 in 2026";
+export const guideTitle = "Best Small Keyboards Under $30";
 export const metaTitle = "Best Small Keyboards Under $30";
 export const metaDescription = "We compared small keyboards under $30 by connection type and battery setup, since a compact layout alone doesn't guarantee comfortable typing.";
 export const mainKeyword = "small keyboard under $30";

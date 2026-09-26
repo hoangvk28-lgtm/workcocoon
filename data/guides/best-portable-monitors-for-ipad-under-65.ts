@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-ipad-under-65";
-export const guideTitle = "6 Best Portable Monitors for iPad Under $65 in 2026";
+export const guideTitle = "Best Portable Monitors for iPad Under $65";
 export const metaTitle = "Best Portable Monitors for iPad Under $65";
 export const metaDescription = "We compared portable monitors under $65 by USB-C DisplayPort Alt Mode support, since not every iPad's USB-C port can actually drive an external display.";
 export const mainKeyword = "portable monitor for ipad under $65";

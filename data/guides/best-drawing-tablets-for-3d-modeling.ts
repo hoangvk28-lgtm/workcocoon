@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-for-3d-modeling";
-export const guideTitle = "4 Best Drawing Tablets for 3d Modeling in 2026";
+export const guideTitle = "Best Drawing Tablets for 3d Modeling";
 export const metaTitle = "Best Drawing Tablets for 3d Modeling 2026";
 export const metaDescription = "We compared drawing tablets for 3d modeling by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets for 3d modeling";

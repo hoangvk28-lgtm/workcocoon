@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-nvme-enclosures-under-150";
-export const guideTitle = "6 Best USB4 NVMe Enclosures Under $150 in 2026";
+export const guideTitle = "Best USB4 NVMe Enclosures Under $150";
 export const metaTitle = "Best USB4 NVMe Enclosures Under $150";
 export const metaDescription = "We compared USB4 NVMe enclosures under $150 by brand warranty, PCIe generation support, and real sustained speed, not just the 40Gbps headline claim.";
 export const mainKeyword = "usb4 nvme enclosure under $150";

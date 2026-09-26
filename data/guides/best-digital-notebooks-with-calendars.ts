@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-calendars";
-export const guideTitle = "5 Best Digital Notebooks with Calendars in 2026";
+export const guideTitle = "Best Digital Notebooks with Calendars";
 export const metaTitle = "Best Digital Notebooks with Calendars (2026)";
 export const metaDescription =
   "Honest finding: the real product pool for this search is Rocketbook's reusable planner line with static calendar templates, not live-syncing digital calendars.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-network-switches";
-export const guideTitle = "8 Best Desktop Network Switches in 2026";
+export const guideTitle = "Best Desktop Network Switches";
 export const metaTitle = "Best Desktop Network Switches in 2026";
 export const metaDescription = "Desktop switches prioritize compact size and quiet operation over rack density. We compared the current lineup by footprint.";
 export const mainKeyword = "desktop network switches";

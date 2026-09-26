@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-extender-for-ip-camera";
-export const guideTitle = "4 Best PoE Extenders for IP Cameras and CCTV in 2026";
+export const guideTitle = "Best PoE Extenders for IP Cameras and CCTV";
 export const metaTitle = "Best PoE Extenders for IP Cameras";
 export const metaDescription = "We compared PoE extenders for IP cameras by real bandwidth at max distance, since several listings drop speed well below Gigabit past 600 meters.";
 export const mainKeyword = "best poe extender for ip camera";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-under-50";
-export const guideTitle = "4 Best Surge Protectors Under $50 in 2026";
+export const guideTitle = "Best Surge Protectors Under $50";
 export const metaTitle = "Best Surge Protectors Under $50";
 export const metaDescription = "We compared surge protectors under $50 by data line protection, rotating outlets, and warranty depth, since feature-rich home theater options top out here.";
 export const mainKeyword = "best surge protectors under $50";

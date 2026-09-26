@@ -1,5 +1,5 @@
 export const guideSlug = "best-all-day-task-chairs-for-home-offices";
-export const guideTitle = "8 Best All-Day Task Chairs for Home Offices in 2026";
+export const guideTitle = "Best All-Day Task Chairs for Home Offices";
 export const metaTitle = "Best All-Day Task Chairs for Home Offices";
 export const metaDescription = "We compared task chair vs office chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair vs office chair";

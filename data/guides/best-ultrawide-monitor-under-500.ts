@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-under-500";
-export const guideTitle = "8 Best Ultrawide Monitors Under $500 in 2026";
+export const guideTitle = "Best Ultrawide Monitors Under $500";
 export const metaTitle = "Best Ultrawide Monitors Under $500 in 2026 (Gaming & Productivity)";
 export const metaDescription =
   "8 best ultrawide monitors under $500 in 2026, compared on curve depth, response time, ports, and USB-C so you know exactly which pick fits your use case.";

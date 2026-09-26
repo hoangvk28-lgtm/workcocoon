@@ -1,5 +1,5 @@
 export const guideSlug = "best-zip-lock-id-badge-holders";
-export const guideTitle = "6 Best Zip-Lock ID Badge Holders in 2026";
+export const guideTitle = "Best Zip-Lock ID Badge Holders";
 export const metaTitle = "Best Zip-Lock ID Badge Holders";
 export const metaDescription = "We compared zip-lock id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "zip-lock id badge holders";

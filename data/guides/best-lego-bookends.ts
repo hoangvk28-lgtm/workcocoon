@@ -1,5 +1,5 @@
 export const guideSlug = "best-lego-bookends";
-export const guideTitle = "5 Best LEGO Bookends in 2026";
+export const guideTitle = "Best LEGO Bookends";
 export const metaTitle = "Best LEGO Bookends";
 export const metaDescription = "We compared lego bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "lego bookends";

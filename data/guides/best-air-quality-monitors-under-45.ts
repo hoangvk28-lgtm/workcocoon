@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-under-45";
-export const guideTitle = "8 Best Air Quality Monitors Under $45 in 2026";
+export const guideTitle = "Best Air Quality Monitors Under $45";
 export const metaTitle = "Best Air Quality Monitors Under $45";
 export const metaDescription = "We compared air quality monitor under $45 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor under $45";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-under-100";
-export const guideTitle = "5 Best TV Stands Under $100 in 2026";
+export const guideTitle = "Best TV Stands Under $100";
 export const metaTitle = "Best TV Stands Under $100 (2026)";
 export const metaDescription = "We compared TV stands under $100 by VESA mount range, real weight rating, and cable management, not just screen size claims alone.";
 export const mainKeyword = "best tv stand under $100";

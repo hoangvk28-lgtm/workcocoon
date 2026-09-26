@@ -1,5 +1,5 @@
 export const guideSlug = "best-6-bay-direct-attached-storage";
-export const guideTitle = "6 Best 6-Bay Direct-Attached Storage";
+export const guideTitle = "Best 6-Bay Direct-Attached Storage";
 export const metaTitle = "Best 6-Bay Direct-Attached Storage";
 export const metaDescription = "6-bay is viable but less standardized than 4/5/8-bay. We verified current consumer/prosumer products at this exact bay count.";
 export const mainKeyword = "6-bay direct-attached storage";

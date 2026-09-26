@@ -1,5 +1,5 @@
 export const guideSlug = "best-network-switches";
-export const guideTitle = "8 Best Network Switches in 2026";
+export const guideTitle = "Best Network Switches";
 export const metaTitle = "Best Network Switches in 2026";
 export const metaDescription = "We compared unmanaged, smart, and managed network switches by real port speed, PoE budget, and build quality rather than port count alone.";
 export const mainKeyword = "network switches";

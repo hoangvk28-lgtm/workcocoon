@@ -1,5 +1,5 @@
 export const guideSlug = "best-5-000-rpm-laptop-cooling-pads";
-export const guideTitle = "5 Best 5,000-RPM Laptop Cooling Pads in 2026";
+export const guideTitle = "Best 5,000-RPM Laptop Cooling Pads";
 export const metaTitle = "Best 5,000-RPM Laptop Cooling Pads (2026)";
 export const metaDescription =
   "Honest finding: no product in our current research pool confirms a 5,000 RPM fan speed. The highest verified spec we found is 2,630 RPM. We ranked by confirmed fan speed instead of the marketing number searched.";

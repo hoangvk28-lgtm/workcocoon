@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-for-home-labs";
-export const guideTitle = "5 Best Mini PC Mounts for Home Labs in 2026";
+export const guideTitle = "Best Mini PC Mounts for Home Labs";
 export const metaTitle = "Best Mini PC Mounts for Home Labs (2026)";
 export const metaDescription =
   "5 mounting options for home-lab mini PCs, covering both 10-inch rack shelves and non-rack wall/under-desk mounts for buyers without a dedicated rack.";

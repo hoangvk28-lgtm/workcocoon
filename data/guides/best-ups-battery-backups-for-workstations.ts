@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-for-workstations";
-export const guideTitle = "6 Best UPS Battery Backups for Workstations in 2026";
+export const guideTitle = "Best UPS Battery Backups for Workstations";
 export const metaTitle = "Best UPS Battery Backups for Workstations, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 UPS units we evaluated for demanding workstation loads, with the line-interactive vs. standby topology distinction competitors rarely explain, and why remote monitoring matters more once a workstation runs unattended renders or builds.";

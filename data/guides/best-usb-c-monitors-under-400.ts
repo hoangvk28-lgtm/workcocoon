@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-under-400";
-export const guideTitle = "4 Best USB-C Monitors Under $400 in 2026";
+export const guideTitle = "Best USB-C Monitors Under $400";
 export const metaTitle = "Best USB-C Monitors Under $400";
 export const metaDescription = "We compared USB-C monitors under $400 by 90W power delivery, ultrawide versus 4K tradeoffs, and factory color validation for creative professionals.";
 export const mainKeyword = "best usb-c monitors under $400";

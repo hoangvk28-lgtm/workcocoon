@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-bank-wireless-charger-combos";
-export const guideTitle = "8 Best Power Bank + Wireless Charger Combos in 2026";
+export const guideTitle = "Best Power Bank + Wireless Charger Combos";
 export const metaTitle = "Best Power Bank + Wireless Charger Combos";
 export const metaDescription = "We compared power bank wireless models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank wireless";

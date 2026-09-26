@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-for-small-businesses";
-export const guideTitle = "8 Best NAS for Small Businesses in 2026";
+export const guideTitle = "Best NAS for Small Businesses";
 export const metaTitle = "Best NAS for Small Businesses in 2026 (2-Bay & 4-Bay Picks)";
 export const metaDescription =
   "8 best NAS for small businesses in 2026, compared on concurrent-user throughput, directory integration, and warranty tier. Includes a companion NAS drive pick.";

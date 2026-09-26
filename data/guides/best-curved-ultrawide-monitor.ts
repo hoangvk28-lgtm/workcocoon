@@ -1,5 +1,5 @@
 export const guideSlug = "best-curved-ultrawide-monitor";
-export const guideTitle = "7 Best Curved Ultrawide Monitors in 2026";
+export const guideTitle = "Best Curved Ultrawide Monitors";
 export const metaTitle = "Best Curved Ultrawide Monitor in 2026 (1000R, 1500R & 1800R Compared)";
 export const metaDescription =
   "7 best curved ultrawide monitors in 2026, comparing 1500R VA panels to 1800R QD-OLED. Learn what curve radius means and which fits your desk.";

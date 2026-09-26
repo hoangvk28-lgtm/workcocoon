@@ -1,5 +1,5 @@
 export const guideSlug = "best-cool-mist-humidifiers";
-export const guideTitle = "8 Best Cool Mist Humidifiers in 2026";
+export const guideTitle = "Best Cool Mist Humidifiers";
 export const metaTitle = "Best Cool Mist Humidifiers";
 export const metaDescription = "We compared humidifier cool mist models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier cool mist";

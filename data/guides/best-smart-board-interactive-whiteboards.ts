@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-board-interactive-whiteboards";
-export const guideTitle = "8 Best SMART Board Interactive Whiteboards";
+export const guideTitle = "Best SMART Board Interactive Whiteboards";
 export const metaTitle = "Best SMART Board Interactive Whiteboards";
 export const metaDescription = "We kept SMART Technologies as a dedicated brand page and compared current EDLA-certified alternatives given limited direct SMART Amazon inventory.";
 export const mainKeyword = "interactive whiteboard smart board";

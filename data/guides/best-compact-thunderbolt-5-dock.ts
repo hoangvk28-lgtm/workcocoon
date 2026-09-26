@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-thunderbolt-5-dock";
-export const guideTitle = "4 Best Compact Thunderbolt 5 Docks in 2026";
+export const guideTitle = "Best Compact Thunderbolt 5 Docks";
 export const metaTitle = "Best Compact Thunderbolt 5 Docks";
 export const metaDescription = "We compared compact Thunderbolt 5 docks by real port count per square inch, since a smaller footprint usually means fewer ports, not just a smaller case.";
 export const mainKeyword = "best compact thunderbolt 5 dock";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-fabric";
-export const guideTitle = "8 Best Fabric Gaming Chairs in 2026";
+export const guideTitle = "Best Fabric Gaming Chairs";
 export const metaTitle = "8 Best Fabric Gaming Chairs in 2026";
 export const metaDescription =
   "The 8 best fabric gaming chairs in 2026, comparing breathable mesh, suede, velvet, and SoftWeave fabric chairs with pocket spring cushions and real capacities.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-meetings";
-export const guideTitle = "6 Best Digital Notebooks for Meetings in 2026";
+export const guideTitle = "Best Digital Notebooks for Meetings";
 export const metaTitle = "Best Digital Notebooks for Meetings (2026)";
 export const metaDescription =
   "6 digital notebooks we evaluated for meeting note-taking, from real-time synced smart pens to a purpose-built planner notebook for structured agendas.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-monitors-for-mac-mini";
-export const guideTitle = "6 Best 4K Monitors for Mac Mini in 2026";
+export const guideTitle = "Best 4K Monitors for Mac Mini";
 export const metaTitle = "Best 4K Monitors for Mac Mini";
 export const metaDescription = "We compared 4k monitors for mac mini models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "4k monitors for mac mini";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-cord-organizers";
-export const guideTitle = "6 Best Under-Desk Cord Organizers in 2026";
+export const guideTitle = "Best Under-Desk Cord Organizers";
 export const metaTitle = "Best Under-Desk Cord Organizers";
 export const metaDescription = "We compared under-desk cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under-desk cord organizers";

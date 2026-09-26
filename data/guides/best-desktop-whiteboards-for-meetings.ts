@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-for-meetings";
-export const guideTitle = "5 Best Desktop Whiteboards for Meetings in 2026";
+export const guideTitle = "Best Desktop Whiteboards for Meetings";
 export const metaTitle = "Best Desktop Whiteboards for Meetings (2026)";
 export const metaDescription =
   "5 whiteboards evaluated for video-call camera visibility and quick erase-and-reset between meetings, drawing from our broader desktop whiteboard research.";

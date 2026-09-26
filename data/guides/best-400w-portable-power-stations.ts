@@ -1,5 +1,5 @@
 export const guideSlug = "best-400w-portable-power-stations";
-export const guideTitle = "8 Best 400W Portable Power Stations in 2026";
+export const guideTitle = "Best 400W Portable Power Stations";
 export const metaTitle = "Best 400W Portable Power Stations 2026";
 export const metaDescription = "We compared 400w portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "400w portable power stations";

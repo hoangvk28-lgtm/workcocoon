@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-under-300";
-export const guideTitle = "3 Best Standing Desk Converters Under $300 in 2026";
+export const guideTitle = "Best Standing Desk Converters Under $300";
 export const metaTitle = "Best Standing Desk Converters Under $300 in 2026";
 export const metaDescription = "We compared best standing desk converters under $300 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "standing desk converters under $300";

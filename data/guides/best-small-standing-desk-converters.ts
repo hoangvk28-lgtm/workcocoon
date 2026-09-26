@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-standing-desk-converters";
-export const guideTitle = "5 Best Small Standing Desk Converters in 2026";
+export const guideTitle = "Best Small Standing Desk Converters";
 export const metaTitle = "Best Small Standing Desk Converters (2026)";
 export const metaDescription =
   "5 standing desk converters under 30 inches wide compared for genuine single-monitor or laptop fit, distinct from our compact guide's broader range.";

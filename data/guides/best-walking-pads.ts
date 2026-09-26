@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-walking-pads";
 
 export const guideSlug = "best-walking-pads";
-export const guideTitle = "8 Best Walking Pads (2026)";
+export const guideTitle = "Best Walking Pads (2026)";
 export const metaTitle = "Best Walking Pads 2026";
 export const metaDescription = "Best walking pads in 2026. Top-rated under-desk treadmills ranked by capacity, noise level, incline, and value for both desk walking and home cardio.";
 export const lastUpdated = "2026-07-11";

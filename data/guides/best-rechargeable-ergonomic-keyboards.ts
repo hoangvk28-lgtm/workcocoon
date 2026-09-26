@@ -1,5 +1,5 @@
 export const guideSlug = "best-rechargeable-ergonomic-keyboards";
-export const guideTitle = "5 Best Rechargeable Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Rechargeable Ergonomic Keyboards";
 export const metaTitle = "Best Rechargeable Ergonomic Keyboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 rechargeable ergonomic keyboards we evaluated, with the per-half charging check competitors skip: split keyboards need either two charging cables or a design allowing one half to charge at a time, a real logistics consideration.";

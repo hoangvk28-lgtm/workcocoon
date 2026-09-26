@@ -1,5 +1,5 @@
 export const guideSlug = "best-standalone-no-computer-needed-drawing-tablets";
-export const guideTitle = "10 Best Standalone No Computer Needed Drawing Tablets in 2026";
+export const guideTitle = "Best Standalone No Computer Needed Drawing Tablets";
 export const metaTitle = "Best Standalone No Computer Needed Drawing Tablets 2026";
 export const metaDescription = "We compared standalone no computer needed drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "standalone no computer needed drawing tablets";

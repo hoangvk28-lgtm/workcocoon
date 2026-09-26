@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-lab-notebooks";
-export const guideTitle = "3 Best General-Purpose Digital Notebooks for Informal Lab Notes in 2026";
+export const guideTitle = "Best General-Purpose Digital Notebooks for Informal Lab Notes";
 export const metaTitle = "Best Digital Lab Notebooks (2026)";
 export const metaDescription =
   "3 general-purpose digital notebooks we evaluated for informal lab notes, honestly noting these are not compliance-grade electronic lab notebook systems.";

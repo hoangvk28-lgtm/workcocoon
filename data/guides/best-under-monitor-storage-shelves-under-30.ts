@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-monitor-storage-shelves-under-30";
-export const guideTitle = "6 Best Under-Monitor Storage Shelves Under $30 in 2026";
+export const guideTitle = "Best Under-Monitor Storage Shelves Under $30";
 export const metaTitle = "Best Under-Monitor Storage Shelves Under $30";
 export const metaDescription = "We compared under-monitor storage shelves under $30 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under-monitor storage shelves under $30";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-under-15";
-export const guideTitle = "4 Best Power Banks Under $15 in 2026";
+export const guideTitle = "Best Power Banks Under $15";
 export const metaTitle = "Best Power Banks Under $15";
 export const metaDescription = "We compared power bank under 500 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power bank under 500";

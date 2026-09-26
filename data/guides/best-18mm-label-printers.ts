@@ -1,5 +1,5 @@
 export const guideSlug = "best-18mm-label-printers";
-export const guideTitle = "3 Best 18mm Label Printers in 2026";
+export const guideTitle = "Best 18mm Label Printers";
 export const metaTitle = "Best 18mm Label Printers";
 export const metaDescription = "We compared 18mm label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "18mm label printers";

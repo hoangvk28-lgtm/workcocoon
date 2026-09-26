@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-under-30";
-export const guideTitle = "4 Best Mechanical Keyboards Under $30 in 2026";
+export const guideTitle = "Best Mechanical Keyboards Under $30";
 export const metaTitle = "Best Mechanical Keyboards Under $30";
 export const metaDescription = "We compared mechanical keyboards under $30 by switch type, layout size, and anti-ghosting support, since genuine mechanical switches are rare at this price.";
 export const mainKeyword = "best mechanical keyboards under $30";

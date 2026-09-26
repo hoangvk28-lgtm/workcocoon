@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-desk-cup-holders";
-export const guideTitle = "5 Best Clip-On Desk Cup Holders in 2026";
+export const guideTitle = "Best Clip-On Desk Cup Holders";
 export const metaTitle = "Best Clip-On Desk Cup Holders (2026)";
 export const metaDescription =
   "5 clip-on cup holders compared against full clamp designs, noting narrower desk-edge compatibility and lower weight capacity where genuine.";

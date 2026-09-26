@@ -1,5 +1,5 @@
 export const guideSlug = "best-rotary-laser-engravers";
-export const guideTitle = "5 Best Rotary Laser Engravers in 2026";
+export const guideTitle = "Best Rotary Laser Engravers";
 export const metaTitle = "Best Rotary Laser Engravers in 2026";
 export const metaDescription = "We compared best rotary laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "rotary laser engravers";

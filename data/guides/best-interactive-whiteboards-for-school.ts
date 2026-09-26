@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-school";
-export const guideTitle = "8 Best Interactive Whiteboards for School";
+export const guideTitle = "Best Interactive Whiteboards for School";
 export const metaTitle = "Best Interactive Whiteboards for School";
 export const metaDescription = "We scored district-wide fleet management, identity ecosystem fit, and security update policy for school-scale interactive whiteboard deployment.";
 export const mainKeyword = "interactive whiteboard school";

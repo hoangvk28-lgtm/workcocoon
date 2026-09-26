@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-checks";
-export const guideTitle = "8 Best Printers for Checks in 2026";
+export const guideTitle = "Best Printers for Checks";
 export const metaTitle = "Best Printers for Checks in 2026 (MICR & Business Checks)";
 export const metaDescription =
   "8 best printers for checks in 2026, including true MICR check printers and general printers usable with third-party check paper. Bank rejection risks explained.";

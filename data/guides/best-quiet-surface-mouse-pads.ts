@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-surface-mouse-pads";
-export const guideTitle = "8 Best Quiet Surface Mouse Pads in 2026";
+export const guideTitle = "Best Quiet Surface Mouse Pads";
 export const metaTitle = "Best Quiet Surface Mouse Pads";
 export const metaDescription = "We compared mouse pad quiet surface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse pad quiet surface";

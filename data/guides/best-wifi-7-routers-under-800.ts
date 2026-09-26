@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-under-800";
-export const guideTitle = "4 Best WiFi 7 Routers Under $800 in 2026";
+export const guideTitle = "Best WiFi 7 Routers Under $800";
 export const metaTitle = "Best WiFi 7 Routers Under $800";
 export const metaDescription = "We compared WiFi 7 routers under $800 by quad-band technology, dedicated backhaul, and 30 Gbps combined speed for the most demanding home networks.";
 export const mainKeyword = "best wifi 7 routers under $800";

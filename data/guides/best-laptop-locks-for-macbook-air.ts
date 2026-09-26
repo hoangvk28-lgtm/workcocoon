@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-macbook-air";
-export const guideTitle = "6 Best Laptop Locks for MacBook Air in 2026";
+export const guideTitle = "Best Laptop Locks for MacBook Air";
 export const metaTitle = "Best Laptop Locks for MacBook Air (2026)";
 export const metaDescription =
   "6 MacBook Air security options compared as a slotless-security workflow, since Apple's chassis has no built-in Kensington-style lock slot.";

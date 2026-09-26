@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-digital-desk-clocks";
-export const guideTitle = "5 Best Small Digital Desk Clocks in 2026";
+export const guideTitle = "Best Small Digital Desk Clocks";
 export const metaTitle = "Best Small Digital Desk Clocks (2026)";
 export const metaDescription =
   "5 compact digital desk clocks compared by footprint and digit legibility, since a clock should be small in size without becoming hard to read from a normal seated distance.";

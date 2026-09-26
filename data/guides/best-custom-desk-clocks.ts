@@ -1,5 +1,5 @@
 export const guideSlug = "best-custom-desk-clocks";
-export const guideTitle = "7 Best Custom Desk Clocks in 2026";
+export const guideTitle = "Best Custom Desk Clocks";
 export const metaTitle = "Best Custom Desk Clocks in 2026";
 export const metaDescription =
   "7 custom desk clocks we researched by engraving type, material, and text or photo options, for buyers focused on the customization itself.";

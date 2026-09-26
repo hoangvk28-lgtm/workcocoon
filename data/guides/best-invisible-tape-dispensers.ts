@@ -1,5 +1,5 @@
 export const guideSlug = "best-invisible-tape-dispensers";
-export const guideTitle = "4 Best Invisible-Tape Dispensers in 2026";
+export const guideTitle = "Best Invisible-Tape Dispensers";
 export const metaTitle = "Best Invisible-Tape Dispensers";
 export const metaDescription = "We compared invisible-tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "invisible-tape dispensers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-with-wrist-rest";
-export const guideTitle = "8 Best Mouse Pads With Wrist Rest in 2026";
+export const guideTitle = "Best Mouse Pads With Wrist Rest";
 export const metaTitle = "Best Mouse Pads With Wrist Rest";
 export const metaDescription = "We compared mouse pad with wrist rest models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mouse pad with wrist rest";

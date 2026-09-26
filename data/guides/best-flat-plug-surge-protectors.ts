@@ -1,5 +1,5 @@
 export const guideSlug = "best-flat-plug-surge-protectors";
-export const guideTitle = "5 Best Flat-Plug Surge Protectors in 2026";
+export const guideTitle = "Best Flat-Plug Surge Protectors";
 export const metaTitle = "Best Flat-Plug Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 flat-plug surge protectors we evaluated, with the compounded risk competitors skip: the exact behind-furniture placement flat plugs are marketed for is also the placement that hides the surge protection status indicator most effectively.";

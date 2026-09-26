@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ups-for-routers";
-export const guideTitle = "8 Best Mini UPS for Routers in 2026";
+export const guideTitle = "Best Mini UPS for Routers";
 export const metaTitle = "Best Mini UPS for Routers in 2026";
 export const metaDescription = "We researched mini UPS battery backups for routers, comparing output voltage, watt-hours, and connector fit so your Wi-Fi survives a power outage.";
 export const mainKeyword = "mini ups for routers";

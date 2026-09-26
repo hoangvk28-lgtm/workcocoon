@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-windows-laptop";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for Windows Laptops in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for Windows Laptops";
 export const metaTitle = "Best Thunderbolt 5 Docks for Windows";
 export const metaDescription = "We compared Thunderbolt 5 docks for Windows by exact display combinations per port count, since single 8K, quad 4K, and triple display specs vary by model.";
 export const mainKeyword = "best thunderbolt 5 dock for windows laptop";

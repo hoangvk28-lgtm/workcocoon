@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-credenza-file-cabinets";
-export const guideTitle = "8 Best Office Credenza File Cabinets in 2026";
+export const guideTitle = "Best Office Credenza File Cabinets";
 export const metaTitle = "Best Office Credenza File Cabinets 2026";
 export const metaDescription = "We compared office credenza file cabinets by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "office credenza file cabinets";

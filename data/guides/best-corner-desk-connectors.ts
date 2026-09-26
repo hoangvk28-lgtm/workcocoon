@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desk-connectors";
-export const guideTitle = "8 Best Corner Desk Connectors in 2026";
+export const guideTitle = "Best Corner Desk Connectors";
 export const metaTitle = "Best Corner Desk Connectors";
 export const metaDescription = "We compared corner desk connector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk connector";

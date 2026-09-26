@@ -1,5 +1,5 @@
 export const guideSlug = "best-maono-podcast-mixers";
-export const guideTitle = "8 Best Maono Podcast Mixers in 2026";
+export const guideTitle = "Best Maono Podcast Mixers";
 export const metaTitle = "Best Maono Podcast Mixers";
 export const metaDescription = "We compared maono podcast mixer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "maono podcast mixer";

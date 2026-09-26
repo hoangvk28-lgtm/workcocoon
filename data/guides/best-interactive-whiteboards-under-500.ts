@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-under-500";
-export const guideTitle = "4 Best Interactive Whiteboards Under $500 in 2026";
+export const guideTitle = "Best Interactive Whiteboards Under $500";
 export const metaTitle = "Best Interactive Whiteboards Under $500 in 2026";
 export const metaDescription = "We compared best interactive whiteboards under $500 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "interactive whiteboards under $500";

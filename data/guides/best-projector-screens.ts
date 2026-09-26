@@ -1,5 +1,5 @@
 export const guideSlug = "best-projector-screens";
-export const guideTitle = "7 Best Projector Screens in 2026";
+export const guideTitle = "Best Projector Screens";
 export const metaTitle = "Best Projector Screens";
 export const metaDescription = "We compared projector screen models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "projector screen";

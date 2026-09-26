@@ -1,5 +1,5 @@
 export const guideSlug = "best-yealink-meeting-room-schedulers";
-export const guideTitle = "8 Best Yealink Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Yealink Meeting Room Schedulers";
 export const metaTitle = "Best Yealink Meeting Room Schedulers";
 export const metaDescription = "We compared yealink meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "yealink meeting room scheduler";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-garages";
-export const guideTitle = "8 Best Dehumidifiers for Garages in 2026";
+export const guideTitle = "Best Dehumidifiers for Garages";
 export const metaTitle = "Best Dehumidifiers for Garages";
 export const metaDescription = "We compared dehumidifier garage models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "dehumidifier garage";

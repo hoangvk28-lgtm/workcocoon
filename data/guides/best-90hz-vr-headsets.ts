@@ -1,5 +1,5 @@
 export const guideSlug = "best-90hz-vr-headsets";
-export const guideTitle = "6 Best 90Hz VR Headsets in 2026";
+export const guideTitle = "Best 90Hz VR Headsets";
 export const metaTitle = "Best 90Hz VR Headsets";
 export const metaDescription = "We compared 90hz vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "90hz vr headsets";

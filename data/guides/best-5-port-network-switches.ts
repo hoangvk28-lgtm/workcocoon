@@ -1,5 +1,5 @@
 export const guideSlug = "best-5-port-network-switches";
-export const guideTitle = "8 Best 5-Port Network Switches in 2026";
+export const guideTitle = "Best 5-Port Network Switches";
 export const metaTitle = "Best 5-Port Network Switches 2026";
 export const metaDescription = "5-port switches are the most common size for splitting a single connection into several. We compared the current lineup by speed and PoE options.";
 export const mainKeyword = "5-port network switches";

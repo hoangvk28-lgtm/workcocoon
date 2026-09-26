@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-air-quality-monitors";
-export const guideTitle = "8 Best Industrial Air Quality Monitors in 2026";
+export const guideTitle = "Best Industrial Air Quality Monitors";
 export const metaTitle = "Best Industrial Air Quality Monitors";
 export const metaDescription = "We compared industrial air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "industrial air quality monitor";

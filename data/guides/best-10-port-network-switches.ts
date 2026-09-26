@@ -1,5 +1,5 @@
 export const guideSlug = "best-10-port-network-switches";
-export const guideTitle = "6 Best 10-Port Network Switches in 2026";
+export const guideTitle = "Best 10-Port Network Switches";
 export const metaTitle = "Best 10-Port Network Switches 2026";
 export const metaDescription = "10-port switches split between PoE-focused designs and multi-gig upgrades. We compared the current options.";
 export const mainKeyword = "10-port network switches";

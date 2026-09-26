@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookends-for-cookbooks";
-export const guideTitle = "6 Best Bookends for Cookbooks in 2026";
+export const guideTitle = "Best Bookends for Cookbooks";
 export const metaTitle = "Best Bookends for Cookbooks";
 export const metaDescription = "We compared bookends for cookbooks models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "bookends for cookbooks";

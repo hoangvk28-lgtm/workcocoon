@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-file-boxes-under-50";
-export const guideTitle = "4 Best Portable File Boxes Under $50 in 2026";
+export const guideTitle = "Best Portable File Boxes Under $50";
 export const metaTitle = "Best Portable File Boxes Under $50";
 export const metaDescription = "We compared portable file boxes under $50 by fireproofing, wheeled mobility, and accordion compartments, since the most feature-rich options top out here.";
 export const mainKeyword = "best portable file boxes under $50";

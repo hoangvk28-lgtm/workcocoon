@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-usb-c-monitors";
-export const guideTitle = "5 Best Budget USB-C Monitors in 2026";
+export const guideTitle = "Best Budget USB-C Monitors";
 export const metaTitle = "Best Budget USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 budget USB-C monitors we evaluated, with a note that a lower price often means lower power delivery wattage, verify this still meets your laptop's charging needs before assuming any budget monitor works the same way.";

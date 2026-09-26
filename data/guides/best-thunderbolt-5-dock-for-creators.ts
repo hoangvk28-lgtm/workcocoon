@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-creators";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for Creators in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for Creators";
 export const metaTitle = "Best Thunderbolt 5 Docks for Creators";
 export const metaDescription = "We compared Thunderbolt 5 docks for creators by real storage expansion and sustained bandwidth, since video and photo workflows push more than a display alone.";
 export const mainKeyword = "best thunderbolt 5 dock for creators";

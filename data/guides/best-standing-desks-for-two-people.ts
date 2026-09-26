@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desks-for-two-people";
-export const guideTitle = "8 Best Standing Desks for Two People in 2026";
+export const guideTitle = "Best Standing Desks for Two People";
 export const metaTitle = "Best Standing Desks for Two People, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 desks we evaluated for two-person use, with an honest split between the one purpose-built dual-workstation desk and single-user desks wide enough to share.";

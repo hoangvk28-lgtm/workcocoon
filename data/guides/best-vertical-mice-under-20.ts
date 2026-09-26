@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-under-20";
-export const guideTitle = "4 Best Vertical Mice Under $20 in 2026";
+export const guideTitle = "Best Vertical Mice Under $20";
 export const metaTitle = "Best Vertical Mice Under $20";
 export const metaDescription = "We compared vertical mice under $20 by DPI range, connection type, and cable length, since basic ergonomic designs vary more than expected at this price.";
 export const mainKeyword = "best vertical mice under $20";

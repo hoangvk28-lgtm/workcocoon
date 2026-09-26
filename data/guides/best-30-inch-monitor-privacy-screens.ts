@@ -1,5 +1,5 @@
 export const guideSlug = "best-30-inch-monitor-privacy-screens";
-export const guideTitle = "3 Best 30-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 30-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 30-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "3 privacy filters at 30 inch, split between 21:9 curved ultrawide and 16:10 flat monitors, two genuinely different shapes at this diagonal.";

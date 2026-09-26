@@ -1,5 +1,5 @@
 export const guideSlug = "best-with-screen-cheap-drawing-tablets";
-export const guideTitle = "4 Best With Screen Cheap Drawing Tablets in 2026";
+export const guideTitle = "Best With Screen Cheap Drawing Tablets";
 export const metaTitle = "Best With Screen Cheap Drawing Tablets 2026";
 export const metaDescription = "We compared with screen cheap drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "with screen cheap drawing tablets";

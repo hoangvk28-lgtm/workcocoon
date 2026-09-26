@@ -1,5 +1,5 @@
 export const guideSlug = "best-heart-sticky-note-dispensers";
-export const guideTitle = "4 Best Heart Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Heart Sticky Note Dispensers";
 export const metaTitle = "Best Heart Sticky Note Dispensers";
 export const metaDescription = "We compared heart sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "heart sticky note dispensers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-resin-bookends";
-export const guideTitle = "3 Best Resin Bookends in 2026";
+export const guideTitle = "Best Resin Bookends";
 export const metaTitle = "Best Resin Bookends";
 export const metaDescription = "We compared resin bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "resin bookends";

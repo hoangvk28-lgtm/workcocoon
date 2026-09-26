@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-fireproof-safes";
-export const guideTitle = "8 Best Large Fireproof Safes in 2026";
+export const guideTitle = "Best Large Fireproof Safes";
 export const metaTitle = "Best Large Fireproof Safes 2026";
 export const metaDescription = "We compared large fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "large fireproof safes";

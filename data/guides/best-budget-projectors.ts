@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-projectors";
-export const guideTitle = "8 Best Budget Projectors in 2026";
+export const guideTitle = "Best Budget Projectors";
 export const metaTitle = "Best Budget Projectors";
 export const metaDescription = "We compared best budget projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "best budget projector";

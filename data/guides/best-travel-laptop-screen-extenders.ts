@@ -1,5 +1,5 @@
 export const guideSlug = "best-travel-laptop-screen-extenders";
-export const guideTitle = "5 Best Travel Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for Travel";
 export const metaTitle = "Best Travel Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 travel laptop screen extenders we evaluated, weighing genuine portability (weight, folded thickness, included case) against the fact that a truly ultralight design sometimes trades off panel rigidity.";

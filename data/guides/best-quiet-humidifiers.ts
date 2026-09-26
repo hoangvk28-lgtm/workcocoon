@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-humidifiers";
-export const guideTitle = "8 Best Quiet Humidifiers in 2026";
+export const guideTitle = "Best Quiet Humidifiers";
 export const metaTitle = "Best Quiet Humidifiers";
 export const metaDescription = "We compared humidifier quiet models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "humidifier quiet";

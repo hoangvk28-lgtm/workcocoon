@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-desktop-cnc-machines";
-export const guideTitle = "5 Best Laser Desktop CNC Machines in 2026";
+export const guideTitle = "Best Laser Desktop CNC Machines";
 export const metaTitle = "Best Laser Desktop CNC Machines 2026";
 export const metaDescription = "We compared laser desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "laser desktop cnc machines";

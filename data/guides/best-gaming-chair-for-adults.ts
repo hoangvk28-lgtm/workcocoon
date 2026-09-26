@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-for-adults";
-export const guideTitle = "8 Best Gaming Chairs for Adults in 2026";
+export const guideTitle = "Best Gaming Chairs for Adults";
 export const metaTitle = "Best Gaming Chairs for Adults in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs for adults in 2026, from premium picks like Secretlab and Anda Seat to budget big-and-tall options under $100.";

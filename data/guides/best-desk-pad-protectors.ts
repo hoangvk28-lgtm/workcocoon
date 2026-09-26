@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pad-protectors";
-export const guideTitle = "8 Best Desk Pad Protectors in 2026";
+export const guideTitle = "Best Desk Pad Protectors";
 export const metaTitle = "Best Desk Pad Protectors";
 export const metaDescription = "We compared desk pad protector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad protector";

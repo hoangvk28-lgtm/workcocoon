@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-with-memory";
-export const guideTitle = "4 Best LCD Writing Tablets with Memory Lock in 2026";
+export const guideTitle = "Best LCD Writing Tablets with Memory Lock";
 export const metaTitle = "Best LCD Writing Tablets with Memory (2026)";
 export const metaDescription =
   "4 LCD writing tablets we evaluated with 'memory' features, clarifying that memory lock only prevents erasing, it is not the same as saving your notes.";

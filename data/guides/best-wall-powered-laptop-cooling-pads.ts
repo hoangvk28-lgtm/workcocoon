@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-powered-laptop-cooling-pads";
-export const guideTitle = "5 Best Wall-Powered Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Wall-Powered Laptop Cooling Pads";
 export const metaTitle = "Best Wall-Powered Laptop Cooling Pads (2026)";
 export const metaDescription =
   "Honest finding: no cooling pad in our current research pool has a dedicated AC wall adapter, every option is USB-powered, which can still be plugged into a wall charger.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-attics";
-export const guideTitle = "6 Best Space Heaters for Attics in 2026";
+export const guideTitle = "Best Space Heaters for Attics";
 export const metaTitle = "Best Space Heaters for Attics";
 export const metaDescription = "We compared space heater for attic models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater for attic";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-ups-battery-backups-under-50";
-export const guideTitle = "4 Best UPS Battery Backups Under $50 in 2026";
+export const guideTitle = "Best UPS Battery Backups Under $50";
 export const metaTitle = "Best UPS Battery Backups Under $50";
 export const metaDescription = "We compared UPS battery backups under $50 by battery capacity and output ports, since real mini UPS units for routers and cameras differ meaningfully here.";
 export const mainKeyword = "best ups battery backups under $50";

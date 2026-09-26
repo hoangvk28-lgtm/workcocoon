@@ -1,5 +1,5 @@
 export const guideSlug = "best-wooden-desk-staplers";
-export const guideTitle = "4 Best Wooden Desk Staplers in 2026";
+export const guideTitle = "Best Wooden Desk Staplers";
 export const metaTitle = "Best Wooden Desk Staplers";
 export const metaDescription = "We compared wooden desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "wooden desk staplers";

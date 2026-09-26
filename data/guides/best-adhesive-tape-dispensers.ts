@@ -1,5 +1,5 @@
 export const guideSlug = "best-adhesive-tape-dispensers";
-export const guideTitle = "4 Best Adhesive Tape Dispensers in 2026";
+export const guideTitle = "Best Adhesive Tape Dispensers";
 export const metaTitle = "Best Adhesive Tape Dispensers";
 export const metaDescription = "We compared adhesive tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "adhesive tape dispensers";

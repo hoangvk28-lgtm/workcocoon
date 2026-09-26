@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-gaming-desks";
-export const guideTitle = "8 Best Corner Gaming Desks in 2026";
+export const guideTitle = "Best Corner Gaming Desks";
 export const metaTitle = "Best Corner Gaming Desks";
 export const metaDescription = "We compared corner desk gaming setup models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk gaming setup";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-for-searchable-pdfs";
-export const guideTitle = "7 Best Document Scanners for Searchable PDFs in 2026";
+export const guideTitle = "Best Document Scanners for Searchable PDFs";
 export const metaTitle = "Best Document Scanners for Searchable PDFs, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 scanners for searchable PDF creation, with an honest dependency disclosure: a searchable PDF's usefulness is bounded entirely by the underlying OCR accuracy, not a separately solved feature.";

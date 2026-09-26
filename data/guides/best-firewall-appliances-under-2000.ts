@@ -1,5 +1,5 @@
 export const guideSlug = "best-firewall-appliances-under-2000";
-export const guideTitle = "7 Best Firewall Appliances Under $2000 in 2026";
+export const guideTitle = "Best Firewall Appliances Under $2000";
 export const metaTitle = "Best Firewall Appliances Under $2000 in 2026";
 export const metaDescription = "We compared best firewall appliances under $2000 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "firewall appliances under $2000";

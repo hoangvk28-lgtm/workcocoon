@@ -1,5 +1,5 @@
 export const guideSlug = "best-slim-portable-file-boxes";
-export const guideTitle = "5 Best Slim Portable File Boxes in 2026";
+export const guideTitle = "Best Slim Portable File Boxes";
 export const metaTitle = "Best Slim Portable File Boxes (2026)";
 export const metaDescription =
   "5 narrow-footprint file boxes checked for genuine width reduction versus general 'small' boxes, and hanging folder fit at this narrower width.";

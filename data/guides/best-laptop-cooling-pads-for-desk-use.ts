@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-desk-use";
-export const guideTitle = "5 Best Laptop Cooling Pads for Desk Use in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for Desk Use";
 export const metaTitle = "Best Laptop Cooling Pads for Desk Use (2026)";
 export const metaDescription =
   "5 raised-stand cooling pads specifically suited to a stable desk surface, distinguished from lap-style mats that solve a different placement problem.";

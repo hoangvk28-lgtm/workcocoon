@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-with-stand";
-export const guideTitle = "7 Best Interactive Whiteboards With Stand";
+export const guideTitle = "Best Interactive Whiteboards With Stand";
 export const metaTitle = "Best Interactive Whiteboards With Stand";
 export const metaDescription = "We treated VESA compatibility, load capacity, caster brakes, and height adjustment as core criteria for whiteboard stands.";
 export const mainKeyword = "interactive whiteboard with stand";

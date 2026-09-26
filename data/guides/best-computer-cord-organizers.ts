@@ -1,5 +1,5 @@
 export const guideSlug = "best-computer-cord-organizers";
-export const guideTitle = "6 Best Computer Cord Organizers in 2026";
+export const guideTitle = "Best Computer Cord Organizers";
 export const metaTitle = "Best Computer Cord Organizers";
 export const metaDescription = "We compared computer cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "computer cord organizers";

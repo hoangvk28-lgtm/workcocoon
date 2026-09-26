@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-port-poe-network-switches";
-export const guideTitle = "5 Best 8-Port PoE Network Switches in 2026";
+export const guideTitle = "Best 8-Port PoE Network Switches";
 export const metaTitle = "Best 8-Port PoE Network Switches";
 export const metaDescription = "8-port PoE switches are the most common size for small business camera and access point deployments. We compared real power budgets.";
 export const mainKeyword = "8-port poe network switches";

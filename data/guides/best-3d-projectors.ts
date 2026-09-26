@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-projectors";
-export const guideTitle = "8 Best 3d Projectors in 2026";
+export const guideTitle = "Best 3d Projectors";
 export const metaTitle = "Best 3d Projectors";
 export const metaDescription = "We compared 3d hologram projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "3d hologram projector";

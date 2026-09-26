@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-for-work";
-export const guideTitle = "5 Best Laptop Screen Extenders for Work in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for Work";
 export const metaTitle = "Best Laptop Screen Extenders for Work, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders we evaluated for work use, with the video-call-stability angle competitors skip: a screen extender adds real GPU and USB-bandwidth load that can affect webcam and video-call performance during a workday.";

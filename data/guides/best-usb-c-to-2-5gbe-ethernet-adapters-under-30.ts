@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-to-2-5gbe-ethernet-adapters-under-30";
-export const guideTitle = "6 Best USB-C to 2.5GbE Ethernet Adapters Under $30 in 2026";
+export const guideTitle = "Best USB-C to 2.5GbE Ethernet Adapters Under $30";
 export const metaTitle = "Best USB-C 2.5GbE Adapters Under $30";
 export const metaDescription = "We compared USB-C to 2.5GbE ethernet adapters under $30 by chipset, connector type, and real device compatibility, not just the advertised speed number.";
 export const mainKeyword = "usb-c to 2.5gbe ethernet adapter under $30";

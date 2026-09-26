@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers-for-desks";
-export const guideTitle = "6 Best Coffee Warmers for Desks in 2026";
+export const guideTitle = "Best Coffee Warmers for Desks";
 export const metaTitle = "Best Coffee Warmers for Desks";
 export const metaDescription = "We compared coffee warmers for desks models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "coffee warmers for desks";

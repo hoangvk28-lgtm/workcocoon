@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-styluses";
-export const guideTitle = "5 Best Digital Notebooks with Styluses in 2026";
+export const guideTitle = "Best Digital Notebooks with Styluses";
 export const metaTitle = "Best Digital Notebooks with Styluses (2026)";
 export const metaDescription =
   "5 notebooks compared specifically for whether the stylus is actually included in the listed price or sold separately, since a stylus being merely compatible isn't the same as being included.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-teachers";
-export const guideTitle = "8 Best Printers for Teachers in 2026";
+export const guideTitle = "Best Printers for Teachers";
 export const metaTitle = "Best Printers for Teachers in 2026 (Home & Classroom Picks)";
 export const metaDescription =
   "8 best printers for teachers in 2026, split between home grading printers and classroom-ready workhorses. Compare cost per page and stipend-friendly budgets.";

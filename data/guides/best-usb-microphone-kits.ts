@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-microphone-kits";
-export const guideTitle = "8 Best USB Microphone Kits (Boom Arm + Mic) in 2026";
+export const guideTitle = "Best USB Microphone Kits, Boom Arm Included";
 export const metaTitle = "Best USB Microphone Kits in 2026 (Boom Arm + Mic, What's Included)";
 export const metaDescription =
   "8 best USB microphone kits in 2026, compared on what's actually in the box, boom arm reach vs desk setup, and beginner mic placement tips.";

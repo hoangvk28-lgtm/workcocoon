@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-no-wheels";
-export const guideTitle = "8 Best Gaming Chairs No Wheels in 2026";
+export const guideTitle = "Best Gaming Chairs No Wheels";
 export const metaTitle = "8 Best Gaming Chairs No Wheels in 2026";
 export const metaDescription =
   "The 8 best gaming chairs with no wheels in 2026, from RESPAWN console recliners to floor rockers, for stable TV and console setups without rolling.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-illuminated-desk-clocks";
-export const guideTitle = "5 Best Illuminated Desk Clocks in 2026";
+export const guideTitle = "Best Illuminated Desk Clocks";
 export const metaTitle = "Best Illuminated Desk Clocks (2026)";
 export const metaDescription =
   "5 desk clocks with real, functional illumination for night readability, including a color-changing option, compared for practical brightness rather than just decorative glow.";

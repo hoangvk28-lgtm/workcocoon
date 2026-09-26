@@ -1,5 +1,5 @@
 export const guideSlug = "best-n150-mini-pcs";
-export const guideTitle = "5 Best N150 Mini PCs in 2026";
+export const guideTitle = "Best N150 Mini PCs";
 export const metaTitle = "Best N150 Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 N150 mini PCs we evaluated, with an honest note that the N150 is a modest step up from N100, not a dramatic performance leap, verify the actual generational improvement matters for your use case.";

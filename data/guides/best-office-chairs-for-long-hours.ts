@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-for-long-hours";
-export const guideTitle = "8 Best Office Chairs for Long Hours in 2026";
+export const guideTitle = "Best Office Chairs for Long Hours";
 export const metaTitle = "Best Office Chairs for Long Hours in 2026 (Seat Depth and Recline Guide)";
 export const metaDescription =
   "8 office chairs for long hours compared on seat depth adjustment, mesh vs foam heat buildup, lumbar range, and seat width vs hip width, not just weight capacity.";

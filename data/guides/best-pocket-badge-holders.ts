@@ -1,5 +1,5 @@
 export const guideSlug = "best-pocket-badge-holders";
-export const guideTitle = "6 Best Pocket Badge Holders in 2026";
+export const guideTitle = "Best Pocket Badge Holders";
 export const metaTitle = "Best Pocket Badge Holders";
 export const metaDescription = "We compared pocket badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "pocket badge holders";

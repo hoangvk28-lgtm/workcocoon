@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ring-lights";
-export const guideTitle = "8 Best Mini Ring Lights in 2026";
+export const guideTitle = "Best Mini Ring Lights";
 export const metaTitle = "Best Mini Ring Lights";
 export const metaDescription = "We compared ring light mini models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light mini";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-magnetic-laptop-screen-extenders";
-export const guideTitle = "5 Best Magnetic Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Magnetic Laptop Screen Extenders";
 export const metaTitle = "Best Magnetic Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 magnetic laptop screen extenders we evaluated, focused on magnet strength versus panel weight, since an underpowered magnet mount can let a heavier panel slip during use.";

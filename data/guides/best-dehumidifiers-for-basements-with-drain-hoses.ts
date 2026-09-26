@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-basements-with-drain-hoses";
-export const guideTitle = "8 Best Dehumidifiers for Basements With Drain Hoses in 2026";
+export const guideTitle = "Best Dehumidifiers for Basements With Drain Hoses";
 export const metaTitle = "Best Dehumidifiers for Basements With Drain";
 export const metaDescription = "We compared dehumidifier for basement with drain hose models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "dehumidifier for basement with drain hose";

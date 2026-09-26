@@ -1,5 +1,5 @@
 export const guideSlug = "best-xtool-laser-engravers";
-export const guideTitle = "5 Best xTool Laser Engravers in 2026";
+export const guideTitle = "Best xTool Laser Engravers";
 export const metaTitle = "Best xTool Laser Engravers in 2026";
 export const metaDescription = "We compared best xtool laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "xtool laser engravers";

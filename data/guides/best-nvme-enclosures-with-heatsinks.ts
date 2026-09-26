@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvme-enclosures-with-heatsinks";
-export const guideTitle = "5 Best NVMe Enclosures With Heatsinks in 2026";
+export const guideTitle = "Best NVMe Enclosures With Heatsinks";
 export const metaTitle = "Best NVMe Enclosures With Heatsinks 2026";
 export const metaDescription = "Nearly every enclosure uses some metal thermal management. We required intentional SSD-to-heatsink contact, not just an aluminum shell.";
 export const mainKeyword = "nvme enclosures with heatsinks";

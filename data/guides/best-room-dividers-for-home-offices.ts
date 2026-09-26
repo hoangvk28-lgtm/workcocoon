@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-dividers-for-home-offices";
-export const guideTitle = "8 Best Room Dividers for Home Offices in 2026";
+export const guideTitle = "Best Room Dividers for Home Offices";
 export const metaTitle = "Best Room Dividers for Home Offices in 2026";
 export const metaDescription =
   "8 best room dividers for home offices in 2026, from tension-rod curtains to folding panel screens. Honest guidance on echo reduction versus real sound blocking.";

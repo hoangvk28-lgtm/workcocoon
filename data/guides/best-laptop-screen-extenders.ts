@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders";
-export const guideTitle = "5 Best Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Laptop Screen Extenders";
 export const metaTitle = "Best Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders we evaluated, with the port-versus-power-draw check competitors skip: a single USB-C cable must carry both video signal and power, and older or budget laptop ports can't always supply enough power for full brightness.";

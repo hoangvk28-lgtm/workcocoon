@@ -1,5 +1,5 @@
 export const guideSlug = "best-5-axis-desktop-cnc-machines";
-export const guideTitle = "4 Best 5 Axis Desktop CNC Machines in 2026";
+export const guideTitle = "Best 5 Axis Desktop CNC Machines";
 export const metaTitle = "Best 5 Axis Desktop CNC Machines 2026";
 export const metaDescription = "We compared 5 axis desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "5 axis desktop cnc machines";

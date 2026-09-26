@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-ergonomic-keyboard-and-mouse-combos";
-export const guideTitle = "8 Best Wireless Ergonomic Keyboard and Mouse Combos in 2026";
+export const guideTitle = "Best Wireless Ergonomic Keyboard and Mouse Combos";
 export const metaTitle = "Wireless Ergonomic Keyboard & Mouse Combos";
 export const metaDescription =
   "8 wireless ergonomic keyboard and mouse combos we evaluated for single-dongle versus dual-dongle architecture, the real differentiator competitors skip.";

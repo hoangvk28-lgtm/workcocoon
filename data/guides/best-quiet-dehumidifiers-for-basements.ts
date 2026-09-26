@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-dehumidifiers-for-basements";
-export const guideTitle = "8 Best Quiet Dehumidifiers for Basements in 2026";
+export const guideTitle = "Best Quiet Dehumidifiers for Basements";
 export const metaTitle = "Best Quiet Dehumidifiers for Basements";
 export const metaDescription = "We compared quiet dehumidifier for basement models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "quiet dehumidifier for basement";

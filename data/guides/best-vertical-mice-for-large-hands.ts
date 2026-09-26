@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-large-hands";
-export const guideTitle = "8 Best Vertical Mice for Large Hands in 2026";
+export const guideTitle = "Best Vertical Mice for Large Hands";
 export const metaTitle = "Best Vertical Mice for Large Hands 2026";
 export const metaDescription =
   "We evaluated 8 vertical mice for genuine palm support and finger-to-button reach for larger hands, not just products marginally bigger than average.";

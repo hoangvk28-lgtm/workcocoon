@@ -1,5 +1,5 @@
 export const guideSlug = "best-rolling-portable-file-boxes";
-export const guideTitle = "5 Best Rolling Portable File Boxes in 2026";
+export const guideTitle = "Best Rolling Portable File Boxes";
 export const metaTitle = "Best Rolling Portable File Boxes (2026)";
 export const metaDescription =
   "5 rolling file boxes compared against our wheeled file box research, checking carpet versus hard-floor rolling performance and box-vs-cabinet scale.";

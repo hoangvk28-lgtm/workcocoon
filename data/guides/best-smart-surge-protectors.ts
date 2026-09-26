@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-surge-protectors";
-export const guideTitle = "5 Best Smart Surge Protectors in 2026";
+export const guideTitle = "Best Smart Surge Protectors";
 export const metaTitle = "Best Smart Surge Protectors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 smart surge protectors we evaluated, with the capability gap competitors blur: most 'smart surge protectors' only add smart control to the AC outlets without adding any actual smart diagnostics about the surge protection circuitry itself.";

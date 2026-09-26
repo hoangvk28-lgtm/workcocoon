@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-drawing-tablets";
-export const guideTitle = "6 Best Wireless Drawing Tablets in 2026";
+export const guideTitle = "Best Wireless Drawing Tablets";
 export const metaTitle = "Best Wireless Drawing Tablets 2026";
 export const metaDescription = "We compared wireless drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "wireless drawing tablets";

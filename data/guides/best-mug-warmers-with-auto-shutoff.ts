@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-with-auto-shutoff";
-export const guideTitle = "6 Best Mug Warmers With Auto Shutoff in 2026";
+export const guideTitle = "Best Mug Warmers With Auto Shutoff";
 export const metaTitle = "Best Mug Warmers With Auto Shutoff";
 export const metaDescription = "We compared mug warmers with auto shutoff models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mug warmers with auto shutoff";

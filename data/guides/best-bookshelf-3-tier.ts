@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-3-tier";
-export const guideTitle = "8 Best 3-Tier Bookshelves in 2026";
+export const guideTitle = "Best 3-Tier Bookshelves";
 export const metaTitle = "Best 3-Tier Bookshelves in 2026 (Industrial, Compact & Budget)";
 export const metaDescription =
   "8 best 3-tier bookshelves in 2026, comparing compact industrial metal-frame shelves, ultra-narrow budget picks, and adjustable designs. Compare capacity and footprint.";

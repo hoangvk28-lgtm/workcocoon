@@ -1,5 +1,5 @@
 export const guideSlug = "best-one-handed-tape-dispensers";
-export const guideTitle = "6 Best One-Handed Tape Dispensers in 2026";
+export const guideTitle = "Best One-Handed Tape Dispensers";
 export const metaTitle = "Best One-Handed Tape Dispensers";
 export const metaDescription = "We compared one-handed tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "one-handed tape dispensers";

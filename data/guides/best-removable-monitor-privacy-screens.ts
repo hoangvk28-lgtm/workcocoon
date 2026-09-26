@@ -1,5 +1,5 @@
 export const guideSlug = "best-removable-monitor-privacy-screens";
-export const guideTitle = "8 Best Removable Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Removable Monitor Privacy Screens";
 export const metaTitle = "Best Removable Monitor Privacy Screens (2026)";
 export const metaDescription =
   "8 removable privacy filters compared across tab, hanging, and magnetic mounts, spanning 22 to 32 inch monitors without any permanent adhesive.";

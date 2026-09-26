@@ -1,5 +1,5 @@
 export const guideSlug = "best-outdoor-poe-injector";
-export const guideTitle = "4 Best Outdoor PoE Injectors in 2026";
+export const guideTitle = "Best Outdoor PoE Injectors";
 export const metaTitle = "Best Outdoor PoE Injectors";
 export const metaDescription = "We compared outdoor PoE injectors by real IP rating and surge protection, since an IP67 metal enclosure and 6kV surge protection matter more than wattage alone.";
 export const mainKeyword = "best outdoor poe injector";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-modern-desk-clocks";
-export const guideTitle = "4 Best Modern Desk Clocks in 2026";
+export const guideTitle = "Best Modern Desk Clocks";
 export const metaTitle = "Best Modern Desk Clocks in 2026";
 export const metaDescription =
   "4 modern-styled desk clocks we researched, selected for minimalist or polished contemporary design rather than vintage or antique-leaning looks.";

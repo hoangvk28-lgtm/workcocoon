@@ -1,5 +1,5 @@
 export const guideSlug = "best-extron-video-switchers";
-export const guideTitle = "8 Best Extron Video Switchers in 2026";
+export const guideTitle = "Best Extron Video Switchers";
 export const metaTitle = "Best Extron Video Switchers";
 export const metaDescription = "We compared extron video switcher models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "extron video switcher";

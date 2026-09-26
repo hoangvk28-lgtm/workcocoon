@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-5gbe-poe-splitter";
-export const guideTitle = "4 Best 2.5GbE and Multi-Gig PoE Splitters in 2026";
+export const guideTitle = "Best 2.5GbE and Multi-Gig PoE Splitters";
 export const metaTitle = "Best 2.5GbE Multi-Gig PoE Splitters";
 export const metaDescription = "We compared 2.5GbE PoE splitters by real connector type and voltage, since 12V, 24V, USB-A, and USB-C outputs all serve genuinely different non-PoE devices.";
 export const mainKeyword = "best 2.5gbe poe splitter";

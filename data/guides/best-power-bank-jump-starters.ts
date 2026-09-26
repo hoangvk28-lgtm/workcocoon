@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-bank-jump-starters";
-export const guideTitle = "8 Best Power Bank Jump Starters in 2026";
+export const guideTitle = "Best Power Bank Jump Starters";
 export const metaTitle = "Best Power Bank Jump Starters";
 export const metaDescription = "We compared power bank jump starter models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power bank jump starter";

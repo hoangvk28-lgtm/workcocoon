@@ -1,5 +1,5 @@
 export const guideSlug = "best-scotch-tape-dispensers";
-export const guideTitle = "6 Best Scotch Tape Dispensers in 2026";
+export const guideTitle = "Best Scotch Tape Dispensers";
 export const metaTitle = "Best Scotch Tape Dispensers";
 export const metaDescription = "We compared scotch tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "scotch tape dispensers";

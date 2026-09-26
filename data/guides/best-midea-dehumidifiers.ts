@@ -1,5 +1,5 @@
 export const guideSlug = "best-midea-dehumidifiers";
-export const guideTitle = "8 Best Midea Dehumidifiers in 2026";
+export const guideTitle = "Best Midea Dehumidifiers";
 export const metaTitle = "Best Midea Dehumidifiers";
 export const metaDescription = "We compared midea cube dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "midea cube dehumidifier";

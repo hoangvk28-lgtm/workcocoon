@@ -1,5 +1,5 @@
 export const guideSlug = "best-keyed-laptop-locks";
-export const guideTitle = "7 Best Keyed Laptop Locks in 2026";
+export const guideTitle = "Best Keyed Laptop Locks";
 export const metaTitle = "Best Keyed Laptop Locks (2026)";
 export const metaDescription =
   "7 keyed laptop locks compared by replacement-key process, spare-key custody, and slot type, since key recovery workflows vary by brand.";

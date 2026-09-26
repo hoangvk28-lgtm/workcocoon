@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-for-laptops";
-export const guideTitle = "5 Best USB-C Monitors for Laptops in 2026";
+export const guideTitle = "Best USB-C Monitors for a Laptop Setup";
 export const metaTitle = "Best USB-C Monitors for Laptops, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors for laptops we evaluated, with a note that your laptop's specific USB-C port needs to support DisplayPort Alt Mode, since not every USB-C port on every laptop carries video.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-bantam-tools-desktop-cnc-machines";
-export const guideTitle = "4 Best Bantam Tools Desktop CNC Machines in 2026";
+export const guideTitle = "Best Bantam Tools Desktop CNC Machines";
 export const metaTitle = "Best Bantam Tools Desktop CNC Machines 2026";
 export const metaDescription = "We compared bantam tools desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "bantam tools desktop cnc machines";

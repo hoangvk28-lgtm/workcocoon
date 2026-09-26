@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-laptop-stands-under-15";
-export const guideTitle = "4 Best Vertical Laptop Stands Under $15 in 2026";
+export const guideTitle = "Best Vertical Laptop Stands Under $15";
 export const metaTitle = "Best Vertical Laptop Stands Under $15";
 export const metaDescription = "We compared vertical laptop stands under $15 by slot width range and base material, since these details determine whether your specific laptop actually fits.";
 export const mainKeyword = "vertical laptop stand under $15";

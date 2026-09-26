@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-staplers-under-50";
-export const guideTitle = "6 Best Desk Staplers Under $50 in 2026";
+export const guideTitle = "Best Desk Staplers Under $50";
 export const metaTitle = "Best Desk Staplers Under $50";
 export const metaDescription = "We compared desk staplers under $50 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk staplers under $50";

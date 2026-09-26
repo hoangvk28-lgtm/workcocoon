@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelves-under-200";
-export const guideTitle = "4 Best Bookshelves Under $200 in 2026";
+export const guideTitle = "Best Bookshelves Under $200";
 export const metaTitle = "Best Bookshelves Under $200";
 export const metaDescription = "We compared bookshelves under $200 by real 350-lb capacity, corner-fitting space efficiency, and drawer versus glass-door storage for larger rooms.";
 export const mainKeyword = "best bookshelves under $200";

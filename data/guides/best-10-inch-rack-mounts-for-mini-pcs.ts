@@ -1,5 +1,5 @@
 export const guideSlug = "best-10-inch-rack-mounts-for-mini-pcs";
-export const guideTitle = "5 Best 10-Inch Rack Mounts for Mini PCs in 2026";
+export const guideTitle = "Best 10-Inch Rack Mounts for Mini PCs";
 export const metaTitle = "Best 10-Inch Rack Mounts for Mini PCs (2026)";
 export const metaDescription =
   "5 genuine 10-inch server rack shelves for mounting mini PCs in a home lab, distinguished from ordinary desk/wall mounts by rack-unit sizing and screw-in rail compatibility.";

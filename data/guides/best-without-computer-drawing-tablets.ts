@@ -1,5 +1,5 @@
 export const guideSlug = "best-without-computer-drawing-tablets";
-export const guideTitle = "7 Best Without Computer Drawing Tablets in 2026";
+export const guideTitle = "Best Without Computer Drawing Tablets";
 export const metaTitle = "Best Without Computer Drawing Tablets 2026";
 export const metaDescription = "We compared without computer drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "without computer drawing tablets";

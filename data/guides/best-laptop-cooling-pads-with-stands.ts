@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-with-stands";
-export const guideTitle = "5 Best Laptop Cooling Pads with Stands in 2026";
+export const guideTitle = "Best Laptop Cooling Pads with Stands";
 export const metaTitle = "Best Laptop Cooling Pads with Stands (2026)";
 export const metaDescription =
   "5 laptop cooling pads we evaluated for genuine multi-setting stand adjustment beyond the basic elevation most pads already include.";

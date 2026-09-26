@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-splitter-for-starlink-mini";
-export const guideTitle = "4 Best PoE Splitters for Starlink Mini in 2026";
+export const guideTitle = "Best PoE Splitters for Starlink Mini";
 export const metaTitle = "Best PoE Splitters for Starlink Mini";
 export const metaDescription = "We compared Starlink Mini PoE splitter kits by waterproof rating and power delivery, since one listing reaches IP68 for submersion-level outdoor protection.";
 export const mainKeyword = "best poe splitter for starlink mini";

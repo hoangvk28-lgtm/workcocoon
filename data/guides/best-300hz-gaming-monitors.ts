@@ -1,5 +1,5 @@
 export const guideSlug = "best-300hz-gaming-monitors";
-export const guideTitle = "6 Best 300Hz Gaming Monitors in 2026";
+export const guideTitle = "Best 300Hz Gaming Monitors";
 export const metaTitle = "Best 300Hz Gaming Monitors";
 export const metaDescription = "We compared 300hz gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "300hz gaming monitors";

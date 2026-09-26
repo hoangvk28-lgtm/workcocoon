@@ -1,5 +1,5 @@
 export const guideSlug = "best-audio-cable-sleeves";
-export const guideTitle = "6 Best Audio Cable Sleeves in 2026";
+export const guideTitle = "Best Audio Cable Sleeves";
 export const metaTitle = "Best Audio Cable Sleeves";
 export const metaDescription = "We compared audio cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "audio cable sleeves";

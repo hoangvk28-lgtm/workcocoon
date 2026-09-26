@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-displays-for-home-offices";
-export const guideTitle = "5 Best Smart Displays for Home Offices in 2026";
+export const guideTitle = "Best Smart Displays for Home Offices";
 export const metaTitle = "Best Smart Displays for Home Offices";
 export const metaDescription =
   "5 smart displays evaluated specifically for home office use, weighing video call quality, calendar visibility, and desk-adjacent placement.";

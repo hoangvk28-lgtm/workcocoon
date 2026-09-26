@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stands-for-living-room";
-export const guideTitle = "7 Best TV Stands for Living Room in 2026";
+export const guideTitle = "Best TV Stands for Living Room";
 export const metaTitle = "Best TV Stands for Living Room 2026, Ranked Picks";
 export const metaDescription =
   "Best TV stands for living room in 2026. Mid-century, farmhouse, Scandinavian, and low-profile consoles ranked by stand height, storage, and TV fit.";

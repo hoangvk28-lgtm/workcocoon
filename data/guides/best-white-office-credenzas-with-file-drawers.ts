@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-office-credenzas-with-file-drawers";
-export const guideTitle = "5 Best White Office Credenzas With File Drawers in 2026";
+export const guideTitle = "Best White Office Credenzas With File Drawers";
 export const metaTitle = "Best White Office Credenzas With File Drawers 2026";
 export const metaDescription = "We compared white office credenzas with file drawers by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "white office credenzas with file drawers";

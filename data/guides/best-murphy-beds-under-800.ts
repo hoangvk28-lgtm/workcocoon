@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-under-800";
-export const guideTitle = "4 Best Murphy Beds Under $800 in 2026";
+export const guideTitle = "Best Murphy Beds Under $800";
 export const metaTitle = "Best Murphy Beds Under $800";
 export const metaDescription = "We compared murphy beds under $800 by rotation mechanism, weight capacity, and storage layout, since renter-friendly and heavy-duty designs both appear here.";
 export const mainKeyword = "best murphy beds under $800";

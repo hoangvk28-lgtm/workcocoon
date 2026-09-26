@@ -1,5 +1,5 @@
 export const guideSlug = "best-engraved-business-card-holders";
-export const guideTitle = "6 Best Engraved Business Card Holders in 2026";
+export const guideTitle = "Best Engraved Business Card Holders";
 export const metaTitle = "Best Engraved Business Card Holders";
 export const metaDescription = "We compared engraved business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "engraved business card holders";

@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-rocking-footrests-under-desk";
 
 export const guideSlug = "best-rocking-footrests-under-desk";
-export const guideTitle = "8 Best Rocking Footrests Under Desk (2026)";
+export const guideTitle = "Best Rocking Footrests Under Desk (2026)";
 export const metaTitle = "Best Rocking Footrests Under Desk 2026";
 export const metaDescription =
   "Best rocking footrests under desk in 2026. Wood rockers, foam rockers, bamboo models, and flip-to-rocker designs ranked by buyer rating and review count.";

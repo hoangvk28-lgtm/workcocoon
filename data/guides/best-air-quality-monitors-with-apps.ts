@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-with-apps";
-export const guideTitle = "8 Best Air Quality Monitors With Apps in 2026";
+export const guideTitle = "Best Air Quality Monitors With Apps";
 export const metaTitle = "Best Air Quality Monitors With Apps";
 export const metaDescription = "We compared air quality monitor with app models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "air quality monitor with app";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-copy-holders-with-clip";
-export const guideTitle = "6 Best Copy Holders With Clip in 2026";
+export const guideTitle = "Best Copy Holders With Clip";
 export const metaTitle = "Best Copy Holders With Clip";
 export const metaDescription = "We compared copy holder with clip models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "copy holder with clip";

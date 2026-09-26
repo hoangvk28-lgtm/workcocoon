@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-air-conditioners-for-rooms";
-export const guideTitle = "8 Best Portable Air Conditioners for Rooms in 2026";
+export const guideTitle = "Best Portable Air Conditioners for Rooms";
 export const metaTitle = "Best Portable Air Conditioners for Rooms";
 export const metaDescription = "We compared room portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "room portable air conditioner";

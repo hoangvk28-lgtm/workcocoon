@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-standing-desks-for-short-people";
 
 export const guideSlug = "best-standing-desks-for-short-people";
-export const guideTitle = "8 Best Standing Desks for Short People in 2026";
+export const guideTitle = "Best Standing Desks for Short People";
 export const metaTitle = "Best Standing Desks for Short People 2026, Low Height Picks";
 export const metaDescription =
   "Best standing desks for short people in 2026, ranked by minimum sitting height and low-range fit, with a formula to calculate the height you actually need.";

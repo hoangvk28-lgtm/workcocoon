@@ -1,5 +1,5 @@
 export const guideSlug = "best-system-interactive-whiteboards";
-export const guideTitle = "5 Best Interactive Whiteboard Systems";
+export const guideTitle = "Best Interactive Whiteboard Systems";
 export const metaTitle = "Best Interactive Whiteboard Systems";
 export const metaDescription = "We defined every component required for a full interactive whiteboard system and compared all-in-one panels against projector/sensor architectures.";
 export const mainKeyword = "interactive whiteboard system";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-for-home-backup";
-export const guideTitle = "8 Best Portable Power Stations for Home Backup in 2026";
+export const guideTitle = "Best Portable Power Stations for Home Backup";
 export const metaTitle = "Best Portable Power Stations for Home Backup 2026";
 export const metaDescription = "We compared portable power stations for home backup by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "portable power stations for home backup";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-xr-headsets";
-export const guideTitle = "6 Best XR Headsets in 2026";
+export const guideTitle = "Best XR Headsets";
 export const metaTitle = "Best XR Headsets";
 export const metaDescription = "We compared xr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "xr headsets";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-printers-for-home-offices";
-export const guideTitle = "7 Best Budget Printers for Home Offices in 2026";
+export const guideTitle = "Best Budget Printers for Home Offices";
 export const metaTitle = "Best Budget Printers for Home Offices in 2026";
 export const metaDescription =
   "7 best budget printers for home offices in 2026, segmented by what you actually need. Compare 2-year total cost, not just sticker price, across inkjet and laser.";

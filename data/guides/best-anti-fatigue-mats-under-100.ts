@@ -1,5 +1,5 @@
 export const guideSlug = "best-anti-fatigue-mats-under-100";
-export const guideTitle = "8 Best Anti-Fatigue Mats Under $100 in 2026";
+export const guideTitle = "Best Anti-Fatigue Mats Under $100";
 export const metaTitle = "Best Anti-Fatigue Mats Under $100";
 export const metaDescription = "We compared anti-fatigue mat brands models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "anti-fatigue mat brands";

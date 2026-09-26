@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pegboards-for-standing-desks";
-export const guideTitle = "4 Best Desk Pegboards for Standing Desks in 2026";
+export const guideTitle = "Best Desk Pegboards for Standing Desks";
 export const metaTitle = "Best Pegboards for Standing Desks (2026)";
 export const metaDescription =
   "4 desk pegboards we evaluated for standing desk use, covering fixed-frame versus moving-desktop mounting and cable interference.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-acoustic-room-dividers";
-export const guideTitle = "5 Best Portable Acoustic Room Dividers in 2026";
+export const guideTitle = "Best Portable Acoustic Room Dividers";
 export const metaTitle = "Best Portable Acoustic Room Dividers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable acoustic room dividers we evaluated, from budget fold screens to premium architectural partitions, with an honest look at what 'acoustic' actually means at each price tier.";

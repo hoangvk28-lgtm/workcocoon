@@ -1,5 +1,5 @@
 export const guideSlug = "best-tape-dispensers-with-blade-guards";
-export const guideTitle = "6 Best Tape Dispensers with Blade Guards in 2026";
+export const guideTitle = "Best Tape Dispensers with Blade Guards";
 export const metaTitle = "Best Tape Dispensers with Blade Guards";
 export const metaDescription = "We compared tape dispensers with blade guards models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "tape dispensers with blade guards";

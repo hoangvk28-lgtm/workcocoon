@@ -1,5 +1,5 @@
 export const guideSlug = "best-rubber-cable-sleeves";
-export const guideTitle = "6 Best Rubber Cable Sleeves in 2026";
+export const guideTitle = "Best Rubber Cable Sleeves";
 export const metaTitle = "Best Rubber Cable Sleeves";
 export const metaDescription = "We compared rubber cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "rubber cable sleeves";

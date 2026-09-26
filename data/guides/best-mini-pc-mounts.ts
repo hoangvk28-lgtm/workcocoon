@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts";
-export const guideTitle = "8 Best Mini PC Mounts in 2026";
+export const guideTitle = "Best Mini PC Mounts";
 export const metaTitle = "Best Mini PC Mounts (2026)";
 export const metaDescription =
   "8 Mini PC mounts we compared across under-desk, behind-monitor, and wall mounting, with honest notes on weight limits and airflow clearance.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-handwriting";
-export const guideTitle = "5 Best Digital Notebooks for Handwriting in 2026";
+export const guideTitle = "Best Digital Notebooks for Handwriting";
 export const metaTitle = "Best Digital Notebooks for Handwriting (2026)";
 export const metaDescription =
   "5 E Ink notebooks compared for handwriting recognition and conversion to text, distinguishing devices with real recognition features from those without.";

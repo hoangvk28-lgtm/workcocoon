@@ -1,5 +1,5 @@
 export const guideSlug = "best-raid-direct-attached-storage";
-export const guideTitle = "8 Best RAID Direct-Attached Storage";
+export const guideTitle = "Best RAID Direct-Attached Storage";
 export const metaTitle = "Best RAID Direct-Attached Storage";
 export const metaDescription = "We distinguished hardware RAID, host software RAID, and enclosure-managed RAID before ranking, since RAID level alone doesn't indicate DAS reliability.";
 export const mainKeyword = "raid direct-attached storage";

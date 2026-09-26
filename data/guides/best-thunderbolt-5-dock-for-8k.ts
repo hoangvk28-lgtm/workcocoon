@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-8k";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for 8K Displays in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for 8K Displays";
 export const metaTitle = "Best Thunderbolt 5 Docks for 8K Displays";
 export const metaDescription = "We compared Thunderbolt 5 docks for 8K displays by real port type, since native HDMI 2.1 output can reach 8K without adapters that some USB-C only docks need.";
 export const mainKeyword = "best thunderbolt 5 dock for 8k";

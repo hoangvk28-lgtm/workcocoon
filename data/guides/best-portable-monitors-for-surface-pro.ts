@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-surface-pro";
-export const guideTitle = "7 Best Portable Monitors for Surface Pro in 2026";
+export const guideTitle = "Best Portable Monitors for Surface Pro's Kickstand and Ports";
 export const metaTitle = "Best Portable Monitors for Surface Pro, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 portable monitors we evaluated for Surface Pro, with a clear read on why the Surface Connect port can't output video and how kickstand-plus-monitor-stand depth adds up on a small desk.";

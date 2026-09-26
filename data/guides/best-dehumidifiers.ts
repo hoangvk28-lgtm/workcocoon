@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers";
-export const guideTitle = "8 Best Dehumidifiers in 2026";
+export const guideTitle = "Best Dehumidifiers";
 export const metaTitle = "Best Dehumidifiers";
 export const metaDescription = "We compared dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "dehumidifier";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-air-quality-monitors";
-export const guideTitle = "8 Best Smart Air Quality Monitors in 2026";
+export const guideTitle = "Best Smart Air Quality Monitors";
 export const metaTitle = "Best Smart Air Quality Monitors";
 export const metaDescription = "We compared smart air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "smart air quality monitor";

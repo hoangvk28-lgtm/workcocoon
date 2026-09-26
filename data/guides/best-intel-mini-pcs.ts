@@ -1,5 +1,5 @@
 export const guideSlug = "best-intel-mini-pcs";
-export const guideTitle = "5 Best Intel Mini PCs in 2026";
+export const guideTitle = "Best Intel Mini PCs";
 export const metaTitle = "Best Intel Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 Intel mini PCs we evaluated, with a note that Intel's Quick Sync video encoding remains a genuine advantage for specific video editing and streaming workflows over AMD alternatives.";

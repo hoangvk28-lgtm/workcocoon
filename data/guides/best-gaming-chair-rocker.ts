@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-rocker";
-export const guideTitle = "8 Best Gaming Chair Rockers in 2026";
+export const guideTitle = "Best Gaming Chair Rockers";
 export const metaTitle = "8 Best Gaming Chair Rockers in 2026";
 export const metaDescription =
   "The 8 best gaming chair rockers in 2026, comparing floor rockers, pedestal swivel-rockers, and recliner-rockers with real swivel and rocking ranges.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-fabric-cord-organizers";
-export const guideTitle = "6 Best Fabric Cord Organizers in 2026";
+export const guideTitle = "Best Fabric Cord Organizers";
 export const metaTitle = "Best Fabric Cord Organizers";
 export const metaDescription = "We compared fabric cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "fabric cord organizers";

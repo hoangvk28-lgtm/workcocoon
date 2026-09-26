@@ -1,5 +1,5 @@
 export const guideSlug = "best-1500w-portable-power-stations";
-export const guideTitle = "8 Best 1500W Portable Power Stations in 2026";
+export const guideTitle = "Best 1500W Portable Power Stations";
 export const metaTitle = "Best 1500W Portable Power Stations 2026";
 export const metaDescription = "We compared 1500w portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "1500w portable power stations";

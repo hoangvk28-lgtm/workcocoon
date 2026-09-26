@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-under-100";
-export const guideTitle = "6 Best Standing Desk Converters Under $100 in 2026";
+export const guideTitle = "Best Standing Desk Converters Under $100";
 export const metaTitle = "Best Standing Desk Converters Under $100 (2026)";
 export const metaDescription =
   "6 standing desk converters confirmed under a strict $100 price ceiling, with a minimum quality bar so cheap doesn't mean unreliable.";

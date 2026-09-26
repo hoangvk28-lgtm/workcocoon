@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-network-switches";
-export const guideTitle = "5 Best Industrial Network Switches in 2026";
+export const guideTitle = "Best Industrial Network Switches";
 export const metaTitle = "Best Industrial Network Switches 2026";
 export const metaDescription = "Industrial switches handle temperature extremes, vibration, and DIN-rail mounting that consumer switches aren't built for.";
 export const mainKeyword = "industrial network switches";

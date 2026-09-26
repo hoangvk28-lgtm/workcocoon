@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-sleeves-for-pcs";
-export const guideTitle = "6 Best Cable Sleeves for PCs in 2026";
+export const guideTitle = "Best Cable Sleeves for PCs";
 export const metaTitle = "Best Cable Sleeves for PCs";
 export const metaDescription = "We compared cable sleeves for pcs models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cable sleeves for pcs";

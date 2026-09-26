@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-under-50";
-export const guideTitle = "4 Best LCD Writing Tablets Under $50 in 2026";
+export const guideTitle = "Best LCD Writing Tablets Under $50";
 export const metaTitle = "Best LCD Writing Tablets Under $50";
 export const metaDescription = "We compared LCD writing tablets under $50 by established brand reliability, giant screen size, and foldable portability for serious daily use.";
 export const mainKeyword = "best lcd writing tablets under $50";

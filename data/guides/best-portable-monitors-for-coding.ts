@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-coding";
-export const guideTitle = "8 Best Portable Monitors for Coding in 2026";
+export const guideTitle = "Best Portable Monitors for Long Coding Sessions";
 export const metaTitle = "Best Portable Monitors for Coding, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors ranked for coding specifically, prioritizing pixel density and flicker-free backlighting over the gaming-style refresh rate specs most roundups default to.";

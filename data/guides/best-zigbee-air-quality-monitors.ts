@@ -1,5 +1,5 @@
 export const guideSlug = "best-zigbee-air-quality-monitors";
-export const guideTitle = "8 Best Zigbee Air Quality Monitors in 2026";
+export const guideTitle = "Best Zigbee Air Quality Monitors";
 export const metaTitle = "Best Zigbee Air Quality Monitors";
 export const metaDescription = "We compared zigbee air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "zigbee air quality monitor";

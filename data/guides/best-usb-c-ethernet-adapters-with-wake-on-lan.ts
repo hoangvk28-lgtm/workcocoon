@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-with-wake-on-lan";
-export const guideTitle = "7 Best USB-C Ethernet Adapters With Wake-on-LAN";
+export const guideTitle = "Best USB-C Ethernet Adapters With Wake-on-LAN";
 export const metaTitle = "Best Ethernet Adapters with Wake-on-LAN";
 export const metaDescription = "WoL support exists on several current adapters, but host firmware and sleep state matter as much as the adapter itself.";
 export const mainKeyword = "usb-c ethernet adapters with wake-on-lan";

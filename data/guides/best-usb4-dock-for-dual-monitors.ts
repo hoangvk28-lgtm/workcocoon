@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-for-dual-monitors";
-export const guideTitle = "4 Best USB4 Docks for Dual and Multiple Monitors in 2026";
+export const guideTitle = "Best USB4 Docks for Dual and Multiple Monitors";
 export const metaTitle = "Best USB4 Docks for Dual Monitors";
 export const metaDescription = "We compared USB4 docks for dual and multiple monitors by native video bandwidth, since your Mac chip or laptop port directly caps display count.";
 export const mainKeyword = "best usb4 dock for dual monitors";

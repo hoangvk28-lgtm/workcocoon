@@ -1,5 +1,5 @@
 export const guideSlug = "best-whole-house-humidifiers-under-500";
-export const guideTitle = "8 Best Whole-House Humidifiers Under $500 in 2026";
+export const guideTitle = "Best Whole-House Humidifiers Under $500";
 export const metaTitle = "Best Whole-House Humidifiers Under $500";
 export const metaDescription = "We compared whole house humidifier under $500 models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "whole house humidifier under $500";

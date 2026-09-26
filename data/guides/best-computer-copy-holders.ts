@@ -1,5 +1,5 @@
 export const guideSlug = "best-computer-copy-holders";
-export const guideTitle = "6 Best Computer Copy Holders in 2026";
+export const guideTitle = "Best Computer Copy Holders";
 export const metaTitle = "Best Computer Copy Holders";
 export const metaDescription = "We compared computer copy holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "computer copy holders";

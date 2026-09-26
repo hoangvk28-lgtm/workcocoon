@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-with-storage-and-desks";
-export const guideTitle = "8 Best Murphy Beds with Storage and Desks in 2026";
+export const guideTitle = "Best Murphy Beds with Storage and Desks";
 export const metaTitle = "Best Murphy Beds with Storage and Desks in 2026 (3-in-1 Guide)";
 export const metaDescription =
   "8 Murphy beds we evaluated as combo units that pack storage, a desk, and a bed into one wall unit, covering transition time, desk depth, and install requirements.";

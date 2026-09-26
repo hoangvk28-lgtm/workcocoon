@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-with-usb-hubs";
-export const guideTitle = "5 Best USB-C Monitors with USB Hubs in 2026";
+export const guideTitle = "Best USB-C Monitors with a Built-In USB Hub";
 export const metaTitle = "Best USB-C Monitors with USB Hubs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors with built-in USB hubs we evaluated, with a note that a built-in hub's total bandwidth is shared across all connected devices, which can bottleneck a fast external SSD.";

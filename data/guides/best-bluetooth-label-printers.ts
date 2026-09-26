@@ -1,5 +1,5 @@
 export const guideSlug = "best-bluetooth-label-printers";
-export const guideTitle = "6 Best Bluetooth Label Printers in 2026";
+export const guideTitle = "Best Bluetooth Label Printers";
 export const metaTitle = "Best Bluetooth Label Printers";
 export const metaDescription = "We compared bluetooth label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "bluetooth label printers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-with-phone-chargers";
-export const guideTitle = "6 Best Mug Warmers With Phone Chargers in 2026";
+export const guideTitle = "Best Mug Warmers With Phone Chargers";
 export const metaTitle = "Best Mug Warmers With Phone Chargers";
 export const metaDescription = "We compared mug warmers with phone chargers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mug warmers with phone chargers";

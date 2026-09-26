@@ -1,5 +1,5 @@
 export const guideSlug = "best-executive-desk-clocks";
-export const guideTitle = "3 Best Executive Desk Clocks in 2026";
+export const guideTitle = "Best Executive Desk Clocks";
 export const metaTitle = "Best Executive Desk Clocks (2026)";
 export const metaDescription =
   "3 premium desk clocks compared for an executive office, from engraved gift-shop pieces to a marble design, covering material quality and personalization.";

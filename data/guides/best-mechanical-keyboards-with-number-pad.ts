@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-with-number-pad";
-export const guideTitle = "7 Best Mechanical Keyboards with Number Pad in 2026";
+export const guideTitle = "Best Mechanical Keyboards with a Full Number Pad";
 export const metaTitle = "Best Mechanical Keyboards with Number Pad in 2026 (Full-Size Picks)";
 export const metaDescription =
   "7 best mechanical keyboards with a number pad in 2026, from a budget 104-key board to full-size wireless picks. Compare layout, switches, and price.";

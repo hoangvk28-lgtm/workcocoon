@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-sticky-note-dispensers";
-export const guideTitle = "6 Best Mini Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Mini Sticky Note Dispensers";
 export const metaTitle = "Best Mini Sticky Note Dispensers";
 export const metaDescription = "We compared mini sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mini sticky note dispensers";

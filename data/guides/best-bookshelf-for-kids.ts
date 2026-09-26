@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-for-kids";
-export const guideTitle = "8 Best Bookshelves for Kids in 2026";
+export const guideTitle = "Best Bookshelves for Kids";
 export const metaTitle = "Best Bookshelves for Kids in 2026 (Front-Facing, Montessori & Toy Storage)";
 export const metaDescription =
   "8 best bookshelves for kids in 2026, comparing front-facing sling designs, Montessori-style shelves, and combined toy-and-book storage. Compare safety and capacity.";

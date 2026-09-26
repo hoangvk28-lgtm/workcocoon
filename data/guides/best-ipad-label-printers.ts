@@ -1,5 +1,5 @@
 export const guideSlug = "best-ipad-label-printers";
-export const guideTitle = "6 Best iPad Label Printers in 2026";
+export const guideTitle = "Best iPad Label Printers";
 export const metaTitle = "Best iPad Label Printers";
 export const metaDescription = "We compared ipad label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ipad label printers";

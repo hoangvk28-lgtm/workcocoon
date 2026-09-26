@@ -1,5 +1,5 @@
 export const guideSlug = "best-red-lcd-writing-tablets";
-export const guideTitle = "5 Best Red LCD Writing Tablets in 2026";
+export const guideTitle = "Best Red LCD Writing Tablets";
 export const metaTitle = "Best Red LCD Writing Tablets (2026)";
 export const metaDescription =
   "5 LCD writing tablets compared for buyers seeking red, with an honest note on which color variants are actually confirmed on current listings.";

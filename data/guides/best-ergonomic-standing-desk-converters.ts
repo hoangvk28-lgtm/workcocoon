@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-standing-desk-converters";
-export const guideTitle = "8 Best Ergonomic Standing Desk Converters in 2026";
+export const guideTitle = "Best Ergonomic Standing Desk Converters";
 export const metaTitle = "Best Ergonomic Standing Desk Converters (2026)";
 export const metaDescription =
   "8 standing desk converters compared on real ergonomic fit, keyboard and monitor position together, not just sit-stand adjustment alone.";

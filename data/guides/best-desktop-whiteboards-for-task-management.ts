@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-whiteboards-for-task-management";
-export const guideTitle = "4 Best Desktop Whiteboards for Task Management in 2026";
+export const guideTitle = "Best Desktop Whiteboards for Task Management";
 export const metaTitle = "Best Whiteboards for Task Management";
 export const metaDescription =
   "4 desktop whiteboards we evaluated by surface area for daily task volume, with an honest note on pre-printed templates and magnetic compatibility.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-airthings-air-quality-monitors";
-export const guideTitle = "8 Best Airthings Air Quality Monitors in 2026";
+export const guideTitle = "Best Airthings Air Quality Monitors";
 export const metaTitle = "Best Airthings Air Quality Monitors";
 export const metaDescription = "We compared airthings air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "airthings air quality monitor";

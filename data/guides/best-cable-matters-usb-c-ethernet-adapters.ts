@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-matters-usb-c-ethernet-adapters";
-export const guideTitle = "6 Best Cable Matters USB-C Ethernet Adapters";
+export const guideTitle = "Best Cable Matters USB-C Ethernet Adapters";
 export const metaTitle = "Best Cable Matters USB-C Ethernet Adapters";
 export const metaDescription = "Cable Matters spans Gigabit through 5Gb with PD options, one of the broadest speed-tier lineups in this category. Here's the current map.";
 export const mainKeyword = "cable matters usb-c ethernet adapters";

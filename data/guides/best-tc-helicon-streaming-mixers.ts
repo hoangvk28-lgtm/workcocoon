@@ -1,5 +1,5 @@
 export const guideSlug = "best-tc-helicon-streaming-mixers";
-export const guideTitle = "8 Best TC-Helicon Streaming Mixers in 2026";
+export const guideTitle = "Best TC-Helicon Streaming Mixers";
 export const metaTitle = "Best TC-Helicon Streaming Mixers";
 export const metaDescription = "We compared tc helicon goxlr streaming mixer models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "tc helicon goxlr streaming mixer";

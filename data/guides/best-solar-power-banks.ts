@@ -1,5 +1,5 @@
 export const guideSlug = "best-solar-power-banks";
-export const guideTitle = "8 Best Solar Power Banks in 2026";
+export const guideTitle = "Best Solar Power Banks";
 export const metaTitle = "Best Solar Power Banks";
 export const metaDescription = "We compared power bank with solar panel models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "power bank with solar panel";

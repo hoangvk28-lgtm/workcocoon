@@ -1,5 +1,5 @@
 export const guideSlug = "best-hdmi-portable-monitors";
-export const guideTitle = "7 Best HDMI Portable Monitors in 2026";
+export const guideTitle = "Best HDMI Portable Monitors for Consoles";
 export const metaTitle = "Best HDMI Portable Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 HDMI portable monitors we evaluated for PC, console, and older laptops, with a clear read on which need separate USB power and which come console-ready out of the box.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-printer-stands";
-export const guideTitle = "8 Best Under-Desk Printer Stands in 2026";
+export const guideTitle = "Best Under-Desk Printer Stands";
 export const metaTitle = "Best Under-Desk Printer Stands in 2026 (Rolling & Compact)";
 export const metaDescription =
   "8 best under-desk printer stands in 2026, fit-tested against desk clearance and printer height, with honest notes on which picks are repurposed CPU or monitor stands.";

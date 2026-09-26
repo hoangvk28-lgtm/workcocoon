@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-monitor-arm";
-export const guideTitle = "6 Best Ultrawide Monitor Arms in 2026";
+export const guideTitle = "Best Ultrawide Monitor Arms";
 export const metaTitle = "Best Ultrawide Monitor Arms in 2026 (34-Inch to 49-Inch)";
 export const metaDescription =
   "6 best ultrawide monitor arms in 2026 for 34-inch and 49-inch super-ultrawides, from a $29 budget arm to a 57-inch-rated gaming arm. Compare VESA and weight limits.";

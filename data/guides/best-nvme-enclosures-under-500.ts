@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvme-enclosures-under-500";
-export const guideTitle = "7 Best NVMe Enclosures Under $500 in 2026";
+export const guideTitle = "Best NVMe Enclosures Under $500";
 export const metaTitle = "Best NVMe Enclosures Under $500 in 2026";
 export const metaDescription = "We compared best nvme enclosures under $500 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "nvme enclosures under $500";

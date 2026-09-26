@@ -1,5 +1,5 @@
 export const guideSlug = "best-mobile-cpu-stands";
-export const guideTitle = "8 Best Mobile CPU Stands in 2026";
+export const guideTitle = "Best Mobile CPU Stands";
 export const metaTitle = "Best Mobile CPU Stands";
 export const metaDescription = "We compared mobile cpu stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mobile cpu stand";

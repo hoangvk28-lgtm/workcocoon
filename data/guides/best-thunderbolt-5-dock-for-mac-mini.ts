@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-for-mac-mini";
-export const guideTitle = "4 Best Thunderbolt 5 Docks for Mac mini and Mac Studio in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks for Mac mini and Mac Studio";
 export const metaTitle = "Best Thunderbolt 5 Docks for Mac mini";
 export const metaDescription = "We compared Mac mini docks by real NVMe transfer speed, since one listing discloses 80Gbps only applies with a Thunderbolt 5 cable and a PCIe 4.0 SSD.";
 export const mainKeyword = "best thunderbolt 5 dock for mac mini";

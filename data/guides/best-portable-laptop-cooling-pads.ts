@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-laptop-cooling-pads";
-export const guideTitle = "7 Best Portable Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Portable Laptop Cooling Pads";
 export const metaTitle = "Best Portable Laptop Cooling Pads (2026)";
 export const metaDescription =
   "7 laptop cooling pads we evaluated for true kit weight, slim profile, and cable storage, verified as genuinely travel-friendly, not just labeled that way.";

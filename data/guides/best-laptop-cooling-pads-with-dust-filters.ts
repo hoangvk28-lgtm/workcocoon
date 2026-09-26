@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-with-dust-filters";
-export const guideTitle = "8 Best Laptop Cooling Pads with Dust Filters in 2026";
+export const guideTitle = "Best Laptop Cooling Pads with Dust Filters";
 export const metaTitle = "Best Cooling Pads with Dust Filters (2026)";
 export const metaDescription =
   "4 laptop cooling pads with a genuine dust filter, plus 4 sealed-foam pads without one, so you know exactly which products actually filter dust.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-yo-yo-badge-holders";
-export const guideTitle = "6 Best Yo-Yo Badge Holders in 2026";
+export const guideTitle = "Best Yo-Yo Badge Holders";
 export const metaTitle = "Best Yo-Yo Badge Holders";
 export const metaDescription = "We compared yo-yo badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "yo-yo badge holders";

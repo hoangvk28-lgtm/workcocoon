@@ -1,5 +1,5 @@
 export const guideSlug = "best-rolling-desks-with-cup-holders";
-export const guideTitle = "5 Best Rolling Desks with Cup Holders in 2026";
+export const guideTitle = "Best Rolling Desks with Cup Holders";
 export const metaTitle = "Best Rolling Desks with Cup Holders (2026)";
 export const metaDescription =
   "Honest finding: no rolling desk in our research ships with a built-in cup holder. We paired the strongest mobile desks with a real clip-on cup holder.";

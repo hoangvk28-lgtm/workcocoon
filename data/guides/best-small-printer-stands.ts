@@ -1,6 +1,6 @@
 const BASE = "/images/guides/best-small-printer-stands";
 export const guideSlug = "best-small-printer-stands";
-export const guideTitle = "8 Best Small Printer Stands for Home Offices (2026)";
+export const guideTitle = "Best Small Printer Stands for Home Offices (2026)";
 export const metaTitle = "Best Small Printer Stands for Home Office (2026)";
 export const metaDescription =
   "Small printer stands for home offices compared by footprint, weight capacity, and built-in power outlet. Compact 2-tier and 3-tier options included.";

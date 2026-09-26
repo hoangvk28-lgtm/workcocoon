@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-port-2-5gbe-network-switches";
-export const guideTitle = "6 Best 8-Port 2.5GbE Network Switches";
+export const guideTitle = "Best 8-Port 2.5GbE Network Switches";
 export const metaTitle = "Best 8-Port 2.5GbE Network Switches";
 export const metaDescription = "8-port 2.5G switches are the current sweet spot for a full multi-gig home office or gaming upgrade. We compared the lineup.";
 export const mainKeyword = "8-port 2.5gbe network switches";

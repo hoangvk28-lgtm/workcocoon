@@ -1,5 +1,5 @@
 export const guideSlug = "best-bamboo-standing-desk-converters";
-export const guideTitle = "3 Best Bamboo Standing Desk Converters in 2026";
+export const guideTitle = "Best Bamboo Standing Desk Converters";
 export const metaTitle = "Best Bamboo Standing Desk Converters (2026)";
 export const metaDescription =
   "3 standing desk converters confirmed genuine bamboo construction, distinguished from a bamboo-look laminate finish used on other listings.";

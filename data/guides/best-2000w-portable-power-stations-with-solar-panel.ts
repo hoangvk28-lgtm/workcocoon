@@ -1,5 +1,5 @@
 export const guideSlug = "best-2000w-portable-power-stations-with-solar-panel";
-export const guideTitle = "8 Best 2000W Portable Power Stations With Solar Panel in 2026";
+export const guideTitle = "Best 2000W Portable Power Stations With Solar Panel";
 export const metaTitle = "Best 2000W Portable Power Stations With Solar Panel 2026";
 export const metaDescription = "We compared 2000w portable power stations with solar panel by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "2000w portable power stations with solar panel";

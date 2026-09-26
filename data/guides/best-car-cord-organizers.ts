@@ -1,5 +1,5 @@
 export const guideSlug = "best-car-cord-organizers";
-export const guideTitle = "6 Best Car Cord Organizers in 2026";
+export const guideTitle = "Best Car Cord Organizers";
 export const metaTitle = "Best Car Cord Organizers";
 export const metaDescription = "We compared car cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "car cord organizers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-medical-cord-organizers";
-export const guideTitle = "5 Best Medical Cord Organizers in 2026";
+export const guideTitle = "Best Medical Cord Organizers";
 export const metaTitle = "Best Medical Cord Organizers";
 export const metaDescription = "We compared medical cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "medical cord organizers";

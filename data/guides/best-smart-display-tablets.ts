@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-display-tablets";
-export const guideTitle = "5 Best Smart Display Tablets in 2026";
+export const guideTitle = "Best Smart Display Tablets";
 export const metaTitle = "Best Smart Display Tablets (2026)";
 export const metaDescription =
   "5 tablet-style smart displays compared on screen size, interactive touchscreen quality, and subscription costs, for a desk, counter, or entryway.";

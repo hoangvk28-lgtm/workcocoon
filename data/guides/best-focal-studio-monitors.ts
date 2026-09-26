@@ -1,5 +1,5 @@
 export const guideSlug = "best-focal-studio-monitors";
-export const guideTitle = "8 Best Focal Studio Monitors in 2026";
+export const guideTitle = "Best Focal Studio Monitors";
 export const metaTitle = "Best Focal Studio Monitors";
 export const metaDescription = "We compared focal studio monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "focal studio monitor";

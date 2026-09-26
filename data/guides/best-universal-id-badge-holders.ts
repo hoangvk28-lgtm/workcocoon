@@ -1,5 +1,5 @@
 export const guideSlug = "best-universal-id-badge-holders";
-export const guideTitle = "6 Best Universal ID Badge Holders in 2026";
+export const guideTitle = "Best Universal ID Badge Holders";
 export const metaTitle = "Best Universal ID Badge Holders";
 export const metaDescription = "We compared universal id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "universal id badge holders";

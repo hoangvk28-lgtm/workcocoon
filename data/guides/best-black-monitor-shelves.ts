@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-monitor-shelves";
-export const guideTitle = "5 Best Black Monitor Shelves in 2026";
+export const guideTitle = "Best Black Monitor Shelves";
 export const metaTitle = "Best Black Monitor Shelves, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 black monitor shelves we evaluated, with the finish-durability angle competitors skip: matte versus glossy black shows dust and fingerprints very differently, and dark finishes can reveal scratches more visibly than lighter colors.";

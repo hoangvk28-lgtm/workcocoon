@@ -1,5 +1,5 @@
 export const guideSlug = "best-standalone-vr-headsets";
-export const guideTitle = "6 Best Standalone VR Headsets in 2026";
+export const guideTitle = "Best Standalone VR Headsets";
 export const metaTitle = "Best Standalone VR Headsets";
 export const metaDescription = "We compared standalone vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "standalone vr headsets";

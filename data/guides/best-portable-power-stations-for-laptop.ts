@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-for-laptop";
-export const guideTitle = "8 Best Portable Power Stations for Laptop in 2026";
+export const guideTitle = "Best Portable Power Stations for Laptop";
 export const metaTitle = "Best Portable Power Stations for Laptop 2026";
 export const metaDescription = "We compared portable power stations for laptop by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "portable power stations for laptop";

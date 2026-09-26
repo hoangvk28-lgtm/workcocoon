@@ -1,5 +1,5 @@
 export const guideSlug = "best-magnetic-letter-trays";
-export const guideTitle = "6 Best Magnetic Letter Trays in 2026";
+export const guideTitle = "Best Magnetic Letter Trays";
 export const metaTitle = "Best Magnetic Letter Trays";
 export const metaDescription = "We compared magnetic letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "magnetic letter trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-kids-rooms";
-export const guideTitle = "8 Best Humidifiers for Kids Rooms in 2026";
+export const guideTitle = "Best Humidifiers for Kids Rooms";
 export const metaTitle = "Best Humidifiers for Kids Rooms";
 export const metaDescription = "We compared humidifier kids room models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier kids room";

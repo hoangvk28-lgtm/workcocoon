@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-style-corner-desks";
-export const guideTitle = "8 Best Industrial-Style Corner Desks in 2026";
+export const guideTitle = "Best Industrial-Style Corner Desks";
 export const metaTitle = "Best Industrial-Style Corner Desks";
 export const metaDescription = "We compared corner desk designs models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desk designs";

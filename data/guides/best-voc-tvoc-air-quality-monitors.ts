@@ -1,5 +1,5 @@
 export const guideSlug = "best-voc-tvoc-air-quality-monitors";
-export const guideTitle = "8 Best VOC / TVOC Air Quality Monitors in 2026";
+export const guideTitle = "Best VOC / TVOC Air Quality Monitors";
 export const metaTitle = "Best VOC / TVOC Air Quality Monitors";
 export const metaDescription = "We compared tvoc air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "tvoc air quality monitor";

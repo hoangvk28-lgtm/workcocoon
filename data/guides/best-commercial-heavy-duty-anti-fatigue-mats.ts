@@ -1,5 +1,5 @@
 export const guideSlug = "best-commercial-heavy-duty-anti-fatigue-mats";
-export const guideTitle = "8 Best Commercial/Heavy-Duty Anti-Fatigue Mats in 2026";
+export const guideTitle = "Best Commercial/Heavy-Duty Anti-Fatigue Mats";
 export const metaTitle = "Best Commercial/Heavy-Duty Anti-Fatigue Mats";
 export const metaDescription = "We compared anti-fatigue mat commercial models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "anti-fatigue mat commercial";

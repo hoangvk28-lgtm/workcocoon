@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebook-pads";
-export const guideTitle = "5 Best Digital Notebook Pads in 2026";
+export const guideTitle = "Best Digital Notebook Pads";
 export const metaTitle = "Best Digital Notebook Pads (2026)";
 export const metaDescription =
   "5 Rocketbook reusable-paper pads compared directly, since that's the actual product family this exact search resolves to rather than E Ink tablets or graphics pads.";

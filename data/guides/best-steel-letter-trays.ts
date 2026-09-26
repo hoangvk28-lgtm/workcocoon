@@ -1,5 +1,5 @@
 export const guideSlug = "best-steel-letter-trays";
-export const guideTitle = "6 Best Steel Letter Trays in 2026";
+export const guideTitle = "Best Steel Letter Trays";
 export const metaTitle = "Best Steel Letter Trays";
 export const metaDescription = "We compared steel letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "steel letter trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-hanging-letter-trays";
-export const guideTitle = "6 Best Hanging Letter Trays in 2026";
+export const guideTitle = "Best Hanging Letter Trays";
 export const metaTitle = "Best Hanging Letter Trays";
 export const metaDescription = "We compared hanging letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "hanging letter trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-pure-sine-wave-portable-power-stations";
-export const guideTitle = "8 Best Pure Sine Wave Portable Power Stations in 2026";
+export const guideTitle = "Best Pure Sine Wave Portable Power Stations";
 export const metaTitle = "Best Pure Sine Wave Portable Power Stations 2026";
 export const metaDescription = "We compared pure sine wave portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "pure sine wave portable power stations";

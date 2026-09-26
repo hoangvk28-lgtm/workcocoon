@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-attics";
-export const guideTitle = "8 Best Dehumidifiers for Attics in 2026";
+export const guideTitle = "Best Dehumidifiers for Attics";
 export const metaTitle = "Best Dehumidifiers for Attics";
 export const metaDescription = "We compared dehumidifier in attic models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier in attic";

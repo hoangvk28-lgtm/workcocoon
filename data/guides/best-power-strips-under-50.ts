@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-under-50";
-export const guideTitle = "4 Best Power Strips Under $50 in 2026";
+export const guideTitle = "Best Power Strips Under $50";
 export const metaTitle = "Best Power Strips Under $50";
 export const metaDescription = "We compared power strips under $50 by energy monitoring, Matter smart home support, and per-outlet data, since the most advanced smart strips top out here.";
 export const mainKeyword = "best power strips under $50";

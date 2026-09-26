@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-drawers-for-standing-desk-converters";
-export const guideTitle = "5 Best Under-Desk Drawers for Standing Desk Converters in 2026";
+export const guideTitle = "Best Under-Desk Drawers for Standing Desk Converters";
 export const metaTitle = "Best Under-Desk Drawers for Standing Desk";
 export const metaDescription = "We compared under desk drawer for standing desk models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under desk drawer for standing desk";

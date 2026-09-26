@@ -1,5 +1,5 @@
 export const guideSlug = "best-narrow-letter-trays";
-export const guideTitle = "6 Best Narrow Letter Trays in 2026";
+export const guideTitle = "Best Narrow Letter Trays";
 export const metaTitle = "Best Narrow Letter Trays";
 export const metaDescription = "We compared narrow letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "narrow letter trays";

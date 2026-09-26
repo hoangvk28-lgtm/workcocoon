@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-desk-pegboards";
-export const guideTitle = "5 Best Gaming Desk Pegboards in 2026";
+export const guideTitle = "Best Gaming Desk Pegboards";
 export const metaTitle = "Best Gaming Desk Pegboards, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 gaming desk pegboards we evaluated, with the proprietary-mount check competitors skip: gaming-branded organizer kits may use proprietary mounting rather than standard hole-spacing, worth verifying compatibility against standard pegboard hooks.";

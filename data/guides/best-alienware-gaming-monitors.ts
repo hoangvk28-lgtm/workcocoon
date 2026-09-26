@@ -1,5 +1,5 @@
 export const guideSlug = "best-alienware-gaming-monitors";
-export const guideTitle = "6 Best Alienware Gaming Monitors in 2026";
+export const guideTitle = "Best Alienware Gaming Monitors";
 export const metaTitle = "Best Alienware Gaming Monitors";
 export const metaDescription = "We compared alienware gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "alienware gaming monitors";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-heat-resistant-cable-sleeves";
-export const guideTitle = "6 Best Heat-Resistant Cable Sleeves in 2026";
+export const guideTitle = "Best Heat-Resistant Cable Sleeves";
 export const metaTitle = "Best Heat-Resistant Cable Sleeves";
 export const metaDescription = "We compared heat-resistant cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "heat-resistant cable sleeves";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-with-drain-hoses";
-export const guideTitle = "8 Best Dehumidifiers With Drain Hoses in 2026";
+export const guideTitle = "Best Dehumidifiers With Drain Hoses";
 export const metaTitle = "Best Dehumidifiers With Drain Hoses";
 export const metaDescription = "We compared dehumidifier with drain hose models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "dehumidifier with drain hose";

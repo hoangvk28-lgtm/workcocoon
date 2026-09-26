@@ -1,5 +1,5 @@
 export const guideSlug = "best-30w-poe-injector";
-export const guideTitle = "4 Best 30W PoE+ Injectors in 2026";
+export const guideTitle = "Best 30W PoE+ Injectors";
 export const metaTitle = "Best 30W PoE+ Injectors";
 export const metaDescription = "We compared 30W 802.3at PoE+ injectors by real delivered power at the device, since cable length and quality reduce the 30W source rating in practice.";
 export const mainKeyword = "best 30w poe injector";

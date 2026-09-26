@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-pet-hair";
-export const guideTitle = "5 Best Air Purifiers for Pet Hair in 2026";
+export const guideTitle = "Best Air Purifiers for Pet Hair";
 export const metaTitle = "Best Air Purifiers for Pet Hair, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for pet hair, with the pre-filter durability angle competitors skip: a washable pre-filter needs weekly attention with pets, since hair mats faster than dust on a standard mesh.";

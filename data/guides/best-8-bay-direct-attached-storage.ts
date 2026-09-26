@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-bay-direct-attached-storage";
-export const guideTitle = "6 Best 8-Bay Direct-Attached Storage";
+export const guideTitle = "Best 8-Bay Direct-Attached Storage";
 export const metaTitle = "Best 8-Bay Direct-Attached Storage";
 export const metaDescription = "The same 8-bay DAS buying decision as our canonical guide, covering USB JBOD, USB4, and QNAP software-managed expansion.";
 export const mainKeyword = "8-bay direct-attached storage";

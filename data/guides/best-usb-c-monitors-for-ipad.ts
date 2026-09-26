@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-for-ipad";
-export const guideTitle = "5 Best USB-C Monitors for iPad in 2026";
+export const guideTitle = "Best USB-C Monitors for iPad";
 export const metaTitle = "Best USB-C Monitors for iPad, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors for iPad we evaluated, with a note that iPadOS external display support is more limited than macOS, some apps only mirror the iPad screen rather than genuinely extending the workspace.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-for-xbox-series-x";
-export const guideTitle = "6 Best Gaming Monitors for Xbox Series X in 2026";
+export const guideTitle = "Best Gaming Monitors for Xbox Series X";
 export const metaTitle = "Best Gaming Monitors for Xbox Series X";
 export const metaDescription = "We compared gaming monitors for xbox series x models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "gaming monitors for xbox series x";

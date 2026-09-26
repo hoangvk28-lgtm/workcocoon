@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-storage-carts";
-export const guideTitle = "8 Best Compact Storage Carts in 2026";
+export const guideTitle = "Best Compact Storage Carts";
 export const metaTitle = "Best Compact Storage Carts";
 export const metaDescription = "We compared storage cart compact models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "storage cart compact";

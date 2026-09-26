@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-for-home-offices";
-export const guideTitle = "8 Best Murphy Beds for Home Offices in 2026";
+export const guideTitle = "Best Murphy Beds for Home Offices";
 export const metaTitle = "Best Murphy Beds for Home Offices in 2026 (Desk Setup Guide)";
 export const metaDescription =
   "8 best murphy beds for home offices in 2026, compared on desk lighting, monitor arm compatibility on shallow desks, and privacy for shared living spaces.";

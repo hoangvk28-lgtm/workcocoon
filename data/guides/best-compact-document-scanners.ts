@@ -1,5 +1,5 @@
 export const guideSlug = "best-compact-document-scanners";
-export const guideTitle = "8 Best Compact Document Scanners in 2026";
+export const guideTitle = "Best Compact Document Scanners";
 export const metaTitle = "Best Compact Document Scanners, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 scanners we evaluated for genuine desk-space savings, with an honest note that compact form factor almost always means reduced ADF capacity, not just a smaller footprint.";

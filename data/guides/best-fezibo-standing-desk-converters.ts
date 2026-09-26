@@ -1,5 +1,5 @@
 export const guideSlug = "best-fezibo-standing-desk-converters";
-export const guideTitle = "3 Best FEZIBO Standing Desk Converters in 2026";
+export const guideTitle = "Best FEZIBO Standing Desk Converters";
 export const metaTitle = "Best FEZIBO Standing Desk Converters (2026)";
 export const metaDescription =
   "Honest finding: FEZIBO's current catalog centers on full standing desks. We confirmed two genuine converter listings and included proven alternatives.";

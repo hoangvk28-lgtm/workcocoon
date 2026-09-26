@@ -1,5 +1,5 @@
 export const guideSlug = "best-10w-uv-laser-engravers";
-export const guideTitle = "4 Best 10W UV Laser Engravers in 2026";
+export const guideTitle = "Best 10W UV Laser Engravers";
 export const metaTitle = "Best 10W UV Laser Engravers in 2026";
 export const metaDescription = "We compared best 10w uv laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "10w uv laser engravers";

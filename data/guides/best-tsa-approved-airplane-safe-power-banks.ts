@@ -1,5 +1,5 @@
 export const guideSlug = "best-tsa-approved-airplane-safe-power-banks";
-export const guideTitle = "8 Best TSA-Approved/Airplane-Safe Power Banks in 2026";
+export const guideTitle = "Best TSA-Approved/Airplane-Safe Power Banks";
 export const metaTitle = "Best TSA-Approved/Airplane-Safe Power Banks";
 export const metaDescription = "We compared power bank allowed in flight models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "power bank allowed in flight";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-medical-tape-dispensers";
-export const guideTitle = "5 Best Medical Tape Dispensers in 2026";
+export const guideTitle = "Best Medical Tape Dispensers";
 export const metaTitle = "Best Medical Tape Dispensers";
 export const metaDescription = "We compared medical tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "medical tape dispensers";

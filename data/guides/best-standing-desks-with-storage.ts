@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desks-with-storage";
-export const guideTitle = "8 Best Standing Desks with Storage in 2026";
+export const guideTitle = "Best Standing Desks with Storage";
 export const metaTitle = "Best Standing Desks with Storage in 2026 (Drawer Clearance Guide)";
 export const metaDescription =
   "8 best standing desks with storage in 2026, compared on drawer weight impact on motor stability, floor clearance at minimum height, and true usable surface area.";

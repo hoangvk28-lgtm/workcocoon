@@ -1,5 +1,5 @@
 export const guideSlug = "best-cisco-room-schedulers";
-export const guideTitle = "5 Best Cisco Room Schedulers in 2026";
+export const guideTitle = "Best Cisco Room Schedulers";
 export const metaTitle = "Best Cisco Room Schedulers";
 export const metaDescription = "We compared cisco meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cisco meeting room scheduler";

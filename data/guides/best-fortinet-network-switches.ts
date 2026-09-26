@@ -1,5 +1,5 @@
 export const guideSlug = "best-fortinet-network-switches";
-export const guideTitle = "5 Best Fortinet Network Switches in 2026";
+export const guideTitle = "Best Fortinet Network Switches";
 export const metaTitle = "Best Fortinet Network Switches 2026";
 export const metaDescription = "FortiSwitch integrates with FortiGate firewalls for unified security and network management. We compared the current lineup.";
 export const mainKeyword = "fortinet network switches";

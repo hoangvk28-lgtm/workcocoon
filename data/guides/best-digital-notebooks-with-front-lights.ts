@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-front-lights";
-export const guideTitle = "5 Best Digital Notebooks with Front Lights in 2026";
+export const guideTitle = "Best Digital Notebooks with Front Lights";
 export const metaTitle = "Best Digital Notebooks with Front Lights (2026)";
 export const metaDescription =
   "5 E Ink notebooks compared for low-light usability, since front-light hardware (borrowed from Kindle e-readers) isn't standard across every device in this category.";

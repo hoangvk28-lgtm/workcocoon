@@ -1,5 +1,5 @@
 export const guideSlug = "best-kneeling-chairs-under-300";
-export const guideTitle = "6 Best Kneeling Chairs Under $300 in 2026";
+export const guideTitle = "Best Kneeling Chairs Under $300";
 export const metaTitle = "Best Kneeling Chairs Under $300 in 2026";
 export const metaDescription = "We compared best kneeling chairs under $300 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "kneeling chairs under $300";

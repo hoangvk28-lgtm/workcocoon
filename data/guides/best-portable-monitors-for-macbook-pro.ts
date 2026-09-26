@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-macbook-pro";
-export const guideTitle = "8 Best Portable Monitors for MacBook Pro in 2026";
+export const guideTitle = "Best Portable Monitors for MacBook Pro";
 export const metaTitle = "Best Portable Monitors for MacBook Pro, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors we evaluated for MacBook Pro, with a clear read on which chip tiers actually support two external displays and which panels come close to the XDR screen's P3 color gamut.";

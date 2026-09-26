@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-wrist-pain";
-export const guideTitle = "8 Best Vertical Mice for Wrist Pain in 2026";
+export const guideTitle = "Best Vertical Mice for Wrist Pain";
 export const metaTitle = "Best Vertical Mice for Wrist Pain 2026";
 export const metaDescription =
   "We evaluated 8 vertical mice that reduce ulnar deviation and forearm rotation, two genuine strain patterns, with professional consultation guidance included.";

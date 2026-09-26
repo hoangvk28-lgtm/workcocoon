@@ -1,5 +1,5 @@
 export const guideSlug = "best-earbud-cord-organizers";
-export const guideTitle = "6 Best Earbud Cord Organizers in 2026";
+export const guideTitle = "Best Earbud Cord Organizers";
 export const metaTitle = "Best Earbud Cord Organizers";
 export const metaDescription = "We compared earbud cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "earbud cord organizers";

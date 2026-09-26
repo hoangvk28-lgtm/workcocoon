@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-for-twitch-streamers";
-export const guideTitle = "8 Best Microphone Arms for Twitch Streamers in 2026";
+export const guideTitle = "Best Microphone Arms for Twitch Streamers";
 export const metaTitle = "Best Microphone Arms for Twitch Streamers";
 export const metaDescription = "We compared microphone arm twitch setup models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm twitch setup";

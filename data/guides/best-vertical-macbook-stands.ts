@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-vertical-macbook-stands";
 
 export const guideSlug = "best-vertical-macbook-stands";
-export const guideTitle = "8 Best Vertical MacBook Stands (2026)";
+export const guideTitle = "Best Vertical MacBook Stands (2026)";
 export const metaTitle = "Best Vertical MacBook Stands 2026";
 export const metaDescription =
   "Best vertical MacBook stands in 2026. Dedicated arc designs, universal aluminum stands, dual-slot options, and walnut stands ranked by buyer rating.";

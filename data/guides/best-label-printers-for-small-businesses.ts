@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-for-small-businesses";
-export const guideTitle = "6 Best Label Printers for Small Businesses in 2026";
+export const guideTitle = "Best Label Printers for Small Businesses";
 export const metaTitle = "Best Label Printers for Small Businesses";
 export const metaDescription = "We compared label printers for small businesses models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "label printers for small businesses";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-silent-desk-clocks";
-export const guideTitle = "3 Best Silent Desk Clocks in 2026";
+export const guideTitle = "Best Silent Desk Clocks";
 export const metaTitle = "Best Silent Desk Clocks (2026)";
 export const metaDescription =
   "3 desk clocks compared for silent operation, covering sweep movement analog picks and LED digital options that make zero ticking noise by design.";

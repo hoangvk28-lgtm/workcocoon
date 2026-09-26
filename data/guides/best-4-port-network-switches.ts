@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-port-network-switches";
-export const guideTitle = "4 Best 4-Port Network Switches in 2026";
+export const guideTitle = "Best 4-Port Network Switches";
 export const metaTitle = "Best 4-Port Network Switches in 2026";
 export const metaDescription = "Standalone 4-port unmanaged switches are genuinely rare; most 4-port options are PoE switches or specialized appliances.";
 export const mainKeyword = "4-port network switches";

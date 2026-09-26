@@ -1,5 +1,5 @@
 export const guideSlug = "best-fiber-laser-engravers-under-2000";
-export const guideTitle = "4 Best Fiber Laser Engravers Under $2000 in 2026";
+export const guideTitle = "Best Fiber Laser Engravers Under $2000";
 export const metaTitle = "Best Fiber Laser Engravers Under $2000";
 export const metaDescription = "We compared fiber laser engravers under $2000 by real wattage, deep engraving capability, and working area, since power jumps meaningfully at this tier.";
 export const mainKeyword = "best fiber laser engravers under $2000";

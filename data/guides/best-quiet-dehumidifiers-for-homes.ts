@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-dehumidifiers-for-homes";
-export const guideTitle = "8 Best Quiet Dehumidifiers for Homes in 2026";
+export const guideTitle = "Best Quiet Dehumidifiers for Homes";
 export const metaTitle = "Best Quiet Dehumidifiers for Homes";
 export const metaDescription = "We compared quiet dehumidifier for home models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "quiet dehumidifier for home";

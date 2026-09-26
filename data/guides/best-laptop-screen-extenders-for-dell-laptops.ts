@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-for-dell-laptops";
-export const guideTitle = "5 Best Laptop Screen Extenders for Dell Laptops in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for Dell Laptops";
 export const metaTitle = "Best Laptop Screen Extenders for Dell Laptops, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders we evaluated for Dell laptops, with the port-generation check competitors skip: Dell's lineup spans older USB-A-only ports to newer Thunderbolt 4 USB-C, worth confirming your exact model's port type before buying.";

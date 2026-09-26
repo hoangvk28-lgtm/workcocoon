@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-portable-air-conditioners";
-export const guideTitle = "8 Best Small Portable Air Conditioners in 2026";
+export const guideTitle = "Best Small Portable Air Conditioners";
 export const metaTitle = "Best Small Portable Air Conditioners";
 export const metaDescription = "We compared smallest portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "smallest portable air conditioner";

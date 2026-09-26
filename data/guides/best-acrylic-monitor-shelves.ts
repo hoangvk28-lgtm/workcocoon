@@ -1,5 +1,5 @@
 export const guideSlug = "best-acrylic-monitor-shelves";
-export const guideTitle = "4 Best Acrylic Monitor Shelves in 2026";
+export const guideTitle = "Best Acrylic Monitor Shelves";
 export const metaTitle = "Best Acrylic Monitor Shelves (2026)";
 export const metaDescription =
   "4 acrylic monitor shelves we evaluated for UV yellowing risk near windows, lower capacity versus other materials, and visible scratch tradeoffs.";

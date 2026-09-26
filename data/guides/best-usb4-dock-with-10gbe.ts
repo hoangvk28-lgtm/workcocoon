@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock-with-10gbe";
-export const guideTitle = "4 Best USB4 Docks with 10GbE in 2026";
+export const guideTitle = "Best USB4 Docks with 10GbE";
 export const metaTitle = "Best USB4 Docks with 10GbE";
 export const metaDescription = "We compared USB4 docks with built-in 10GbE by real port count, thermal design, and host requirements, since these docks cluster at the premium price tier.";
 export const mainKeyword = "best usb4 dock with 10gbe";

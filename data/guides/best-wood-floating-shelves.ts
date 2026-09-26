@@ -1,5 +1,5 @@
 export const guideSlug = "best-wood-floating-shelves";
-export const guideTitle = "7 Best Wood Floating Shelves in 2026";
+export const guideTitle = "Best Wood Floating Shelves";
 export const metaTitle = "Best Wood Floating Shelves";
 export const metaDescription = "We compared floating shelf wood models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "floating shelf wood";

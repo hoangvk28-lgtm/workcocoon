@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-with-essential-oil-diffuser";
-export const guideTitle = "8 Best Humidifiers With Essential Oil Diffuser in 2026";
+export const guideTitle = "Best Humidifiers With Essential Oil Diffuser";
 export const metaTitle = "Best Humidifiers With Essential Oil Diffuser";
 export const metaDescription = "We compared humidifier diffuser models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "humidifier diffuser";

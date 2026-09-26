@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-arm-mounts-under-50";
-export const guideTitle = "8 Best Monitor Arm Mounts Under $50 in 2026";
+export const guideTitle = "Best Monitor Arm Mounts Under $50";
 export const metaTitle = "Best Monitor Arm Mounts Under $50 in 2026 (Honest Trade-Offs)";
 export const metaDescription =
   "8 budget monitor arm mounts with real prices compared, plus the honest trade-offs of the sub-$50 tier: sag, wobble, and when to spend more.";

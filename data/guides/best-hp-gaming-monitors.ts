@@ -1,5 +1,5 @@
 export const guideSlug = "best-hp-gaming-monitors";
-export const guideTitle = "6 Best HP Gaming Monitors in 2026";
+export const guideTitle = "Best HP Gaming Monitors";
 export const metaTitle = "Best HP Gaming Monitors";
 export const metaDescription = "We compared hp gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "hp gaming monitors";

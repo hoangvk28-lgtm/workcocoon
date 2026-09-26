@@ -1,5 +1,5 @@
 export const guideSlug = "best-disney-sticky-note-dispensers";
-export const guideTitle = "6 Best Disney Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Disney Sticky Note Dispensers";
 export const metaTitle = "Best Disney Sticky Note Dispensers";
 export const metaDescription = "We compared disney sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "disney sticky note dispensers";

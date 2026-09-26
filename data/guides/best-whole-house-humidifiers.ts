@@ -1,5 +1,5 @@
 export const guideSlug = "best-whole-house-humidifiers";
-export const guideTitle = "8 Best Whole-House Humidifiers in 2026";
+export const guideTitle = "Best Whole-House Humidifiers";
 export const metaTitle = "Best Whole-House Humidifiers";
 export const metaDescription = "We compared humidifier hvac models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "humidifier hvac";

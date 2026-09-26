@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-kvm-switches";
-export const guideTitle = "5 Best USB KVM Switches in 2026";
+export const guideTitle = "Best USB KVM Switches";
 export const metaTitle = "Best USB KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB KVM switches we evaluated, with a note that USB 3.0 versus USB 2.0 ports on a switch make a real speed difference for external drives, not just keyboard and mouse peripherals.";

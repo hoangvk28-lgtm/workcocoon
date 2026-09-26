@@ -1,5 +1,5 @@
 export const guideSlug = "best-silent-laptop-cooling-pads";
-export const guideTitle = "6 Best Silent Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Silent Laptop Cooling Pads";
 export const metaTitle = "Best Silent Laptop Cooling Pads (2026)";
 export const metaDescription =
   "6 quiet laptop cooling pads compared by actual dBA figures where available, not accepted marketing claims, with real cooling still weighed in.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-high-speed-document-scanners";
-export const guideTitle = "8 Best High-Speed Document Scanners in 2026";
+export const guideTitle = "Best High-Speed Document Scanners";
 export const metaTitle = "Best High-Speed Document Scanners, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 scanners we evaluated for real high-speed throughput, with a note that manufacturer ppm claims are tested at low-DPI black-and-white simplex, not the 300 DPI color duplex most buyers actually use.";

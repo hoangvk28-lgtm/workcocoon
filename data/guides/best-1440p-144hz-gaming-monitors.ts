@@ -1,5 +1,5 @@
 export const guideSlug = "best-1440p-144hz-gaming-monitors";
-export const guideTitle = "6 Best 1440p 144Hz Gaming Monitors in 2026";
+export const guideTitle = "Best 1440p 144Hz Gaming Monitors";
 export const metaTitle = "Best 1440p 144Hz Gaming Monitors";
 export const metaDescription = "We compared 1440p 144hz gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "1440p 144hz gaming monitors";

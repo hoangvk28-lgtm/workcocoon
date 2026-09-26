@@ -1,5 +1,5 @@
 export const guideSlug = "best-storage-carts-for-makeup";
-export const guideTitle = "8 Best Storage Carts for Makeup in 2026";
+export const guideTitle = "Best Storage Carts for Makeup";
 export const metaTitle = "Best Storage Carts for Makeup";
 export const metaDescription = "We compared storage cart makeup organizer models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "storage cart makeup organizer";

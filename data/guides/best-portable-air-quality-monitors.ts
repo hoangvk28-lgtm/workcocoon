@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-air-quality-monitors";
-export const guideTitle = "8 Best Portable Air Quality Monitors in 2026";
+export const guideTitle = "Best Portable Air Quality Monitors";
 export const metaTitle = "Best Portable Air Quality Monitors";
 export const metaDescription = "We compared portable air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "portable air quality monitor";

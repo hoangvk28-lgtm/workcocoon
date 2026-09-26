@@ -1,5 +1,5 @@
 export const guideSlug = "best-jbod-direct-attached-storage";
-export const guideTitle = "8 Best JBOD Direct-Attached Storage";
+export const guideTitle = "Best JBOD Direct-Attached Storage";
 export const metaTitle = "Best JBOD Direct-Attached Storage";
 export const metaDescription = "JBOD is used inconsistently to mean individual disks or concatenated storage. We defined the mode explicitly for every pick.";
 export const mainKeyword = "jbod direct-attached storage";

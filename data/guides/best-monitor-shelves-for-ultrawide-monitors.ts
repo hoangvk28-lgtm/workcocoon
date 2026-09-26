@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-for-ultrawide-monitors";
-export const guideTitle = "4 Best Monitor Shelves for Ultrawide Monitors in 2026";
+export const guideTitle = "Best Monitor Shelves for Ultrawide Monitors";
 export const metaTitle = "Best Shelves for Ultrawide Monitors (2026)";
 export const metaDescription =
   "4 monitor shelves for ultrawide monitors we evaluated for center point-load stress, base-footprint depth, and tipping stability with heavy 20+ lb screens.";

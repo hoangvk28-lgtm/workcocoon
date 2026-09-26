@@ -1,5 +1,5 @@
 export const guideSlug = "best-horizontal-murphy-beds-with-desks";
-export const guideTitle = "8 Best Horizontal Murphy Beds with Desks in 2026";
+export const guideTitle = "Best Horizontal Murphy Beds with Desks";
 export const metaTitle = "Best Horizontal Murphy Beds with Desks in 2026 (Orientation Guide)";
 export const metaDescription =
   "8 horizontal murphy bed picks compared on wall-width requirements, ceiling thresholds, and room layout, with honest flags on which listings actually confirm horizontal orientation.";

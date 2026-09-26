@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-bay-nas-for-home-offices";
-export const guideTitle = "8 Best 4-Bay NAS for Home Offices in 2026";
+export const guideTitle = "Best 4-Bay NAS for Home Offices";
 export const metaTitle = "Best 4-Bay NAS for Home Offices in 2026 (RAID & Storage)";
 export const metaDescription =
   "8 best 4-bay NAS for home offices in 2026, compared on RAID options, true total cost with drives, rebuild risk, and upgrade paths for growing storage needs.";

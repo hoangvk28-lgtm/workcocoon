@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-hdmi";
-export const guideTitle = "4 Best Thunderbolt 5 Docks with HDMI in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks with HDMI";
 export const metaTitle = "Best Thunderbolt 5 Docks with HDMI";
 export const metaDescription = "We compared Thunderbolt 5 docks with native HDMI ports by port count and resolution ceiling, since single vs dual HDMI changes real multi-monitor setups.";
 export const mainKeyword = "best thunderbolt 5 dock hdmi";

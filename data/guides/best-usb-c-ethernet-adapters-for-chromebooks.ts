@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-chromebooks";
-export const guideTitle = "7 Best USB-C Ethernet Adapters for Chromebooks";
+export const guideTitle = "Best USB-C Ethernet Adapters for Chromebooks";
 export const metaTitle = "Best Ethernet Adapters for Chromebooks";
 export const metaDescription = "ChromeOS often has native support for common USB Ethernet chipsets. We verified driver-free operation before ranking.";
 export const mainKeyword = "usb-c ethernet adapters for chromebooks";

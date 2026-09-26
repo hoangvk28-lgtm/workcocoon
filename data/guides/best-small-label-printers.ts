@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-label-printers";
-export const guideTitle = "6 Best Small Label Printers in 2026";
+export const guideTitle = "Best Small Label Printers";
 export const metaTitle = "Best Small Label Printers";
 export const metaDescription = "We compared small label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "small label printers";

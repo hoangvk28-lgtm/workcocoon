@@ -1,5 +1,5 @@
 export const guideSlug = "best-xgimi-projectors";
-export const guideTitle = "8 Best XGIMI Projectors in 2026";
+export const guideTitle = "Best XGIMI Projectors";
 export const metaTitle = "Best XGIMI Projectors";
 export const metaDescription = "We compared projector xgimi models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "projector xgimi";

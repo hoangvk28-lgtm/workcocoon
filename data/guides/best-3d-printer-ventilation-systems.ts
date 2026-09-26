@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-printer-ventilation-systems";
-export const guideTitle = "6 Best 3D Printer Ventilation Systems in 2026";
+export const guideTitle = "Best 3D Printer Ventilation Systems";
 export const metaTitle = "Best 3D Printer Ventilation Systems";
 export const metaDescription = "We compared 3d printer ventilation systems models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "3d printer ventilation systems";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-in-line-document-holders";
-export const guideTitle = "8 Best In-Line Document Holders in 2026";
+export const guideTitle = "Best In-Line Document Holders";
 export const metaTitle = "Best In-Line Document Holders";
 export const metaDescription = "We compared in line document holder models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "in line document holder";

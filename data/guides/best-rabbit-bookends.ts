@@ -1,5 +1,5 @@
 export const guideSlug = "best-rabbit-bookends";
-export const guideTitle = "3 Best Rabbit Bookends in 2026";
+export const guideTitle = "Best Rabbit Bookends";
 export const metaTitle = "Best Rabbit Bookends";
 export const metaDescription = "We compared rabbit bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "rabbit bookends";

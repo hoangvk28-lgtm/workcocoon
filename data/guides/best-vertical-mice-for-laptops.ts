@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-for-laptops";
-export const guideTitle = "8 Best Vertical Mice for Laptops in 2026";
+export const guideTitle = "Best Vertical Mice for Laptops";
 export const metaTitle = "Best Vertical Mice for Laptops 2026";
 export const metaDescription =
   "We evaluated 8 vertical mice for laptop use, weighing bulk versus portability, dongle storage, battery life on the go, and USB-C compatibility gaps.";

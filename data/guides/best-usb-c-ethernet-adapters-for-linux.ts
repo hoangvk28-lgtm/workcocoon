@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-linux";
-export const guideTitle = "7 Best USB-C Ethernet Adapters for Linux";
+export const guideTitle = "Best USB-C Ethernet Adapters for Linux";
 export const metaTitle = "Best USB-C Ethernet Adapters for Linux";
 export const metaDescription = "Linux compatibility depends on chipset and kernel driver support, not a generic vendor OS badge. We ranked by controller, not marketing claims.";
 export const mainKeyword = "usb-c ethernet adapters for linux";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-under-300";
-export const guideTitle = "4 Best TV Stands Under $300 in 2026";
+export const guideTitle = "Best TV Stands Under $300";
 export const metaTitle = "Best TV Stands Under $300";
 export const metaDescription = "We compared TV stands under $300 by real electric fireplace heating output, flame customization, and safety features for a genuine living room upgrade.";
 export const mainKeyword = "best tv stand under $300";

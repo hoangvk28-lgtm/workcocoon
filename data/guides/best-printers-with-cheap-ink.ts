@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-with-cheap-ink";
-export const guideTitle = "8 Best Printers with Cheap Ink in 2026";
+export const guideTitle = "Best Printers with Cheap Ink";
 export const metaTitle = "Best Printers with Cheap Ink in 2026 (Lowest Cost Per Page)";
 export const metaDescription =
   "8 best printers with cheap ink in 2026, all ink-tank models with the lowest real-world cost per page. Compare bottle pricing, coverage, and payback time.";

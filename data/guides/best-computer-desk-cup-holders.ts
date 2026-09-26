@@ -1,5 +1,5 @@
 export const guideSlug = "best-computer-desk-cup-holders";
-export const guideTitle = "5 Best Computer Desk Cup Holders in 2026";
+export const guideTitle = "Best Computer Desk Cup Holders";
 export const metaTitle = "Best Computer Desk Cup Holders (2026)";
 export const metaDescription =
   "5 cup holders picked for computer desk safety, with spill-proximity-to-electronics risk and cable-clear placement guidance included.";

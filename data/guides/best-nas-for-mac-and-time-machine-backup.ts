@@ -1,5 +1,5 @@
 export const guideSlug = "best-nas-for-mac-and-time-machine-backup";
-export const guideTitle = "8 Best NAS for Mac and Time Machine Backup in 2026";
+export const guideTitle = "Best NAS for Mac and Time Machine Backup";
 export const metaTitle = "Best NAS for Mac and Time Machine Backup in 2026 (SMB3-Ready Picks)";
 export const metaDescription =
   "8 best NAS devices for Mac and Time Machine backup in 2026, verified for SMB3 support ahead of Apple's AFP removal. Compare quotas, RAM, and multi-Mac setup.";

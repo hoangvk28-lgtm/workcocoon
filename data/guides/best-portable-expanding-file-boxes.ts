@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-expanding-file-boxes";
-export const guideTitle = "5 Best Portable Expanding File Boxes in 2026";
+export const guideTitle = "Best Portable Expanding File Boxes";
 export const metaTitle = "Best Portable Expanding File Boxes (2026)";
 export const metaDescription =
   "5 accordion-style expanding file folders decoded from rigid boxes, checked for pocket count, labeling, and structural protection tradeoffs.";

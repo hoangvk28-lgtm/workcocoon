@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-extender-without-power";
-export const guideTitle = "4 Best PoE Extenders That Need No Local Power in 2026";
+export const guideTitle = "Best PoE Extenders That Need No Local Power";
 export const metaTitle = "Best PoE Extenders With No Local Power";
 export const metaDescription = "We compared passthrough PoE extenders drawing power from the upstream switch, since a local outlet requirement can rule out mounting spots you need.";
 export const mainKeyword = "best poe extender without power";

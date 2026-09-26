@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-for-kids";
-export const guideTitle = "8 Best Corner Desks for Kids in 2026";
+export const guideTitle = "Best Corner Desks for Kids";
 export const metaTitle = "Best Corner Desks for Kids";
 export const metaDescription = "We compared corner desk kids models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desk kids";

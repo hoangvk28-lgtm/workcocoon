@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-person-corner-desks-for-home-offices";
-export const guideTitle = "8 Best 2-Person Corner Desks for Home Offices in 2026";
+export const guideTitle = "Best 2-Person Corner Desks for Home Offices";
 export const metaTitle = "Best 2-Person Corner Desks for Home Offices";
 export const metaDescription = "We compared l corner desk 2 person models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "l corner desk 2 person";

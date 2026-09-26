@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-under-desk-drawers";
-export const guideTitle = "7 Best White Under-Desk Drawers in 2026";
+export const guideTitle = "Best White Under-Desk Drawers";
 export const metaTitle = "Best White Under-Desk Drawers";
 export const metaDescription = "We compared under desk drawer white models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under desk drawer white";

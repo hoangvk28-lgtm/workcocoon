@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-cable-sleeves";
-export const guideTitle = "6 Best Under-Desk Cable Sleeves in 2026";
+export const guideTitle = "Best Under-Desk Cable Sleeves";
 export const metaTitle = "Best Under-Desk Cable Sleeves";
 export const metaDescription = "We compared under-desk cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under-desk cable sleeves";

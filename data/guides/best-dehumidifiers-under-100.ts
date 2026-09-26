@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-under-100";
-export const guideTitle = "10 Best Dehumidifiers Under $100 in 2026";
+export const guideTitle = "Best Dehumidifiers Under $100";
 export const metaTitle = "Best Dehumidifiers Under $100 in 2026";
 export const metaDescription = "We compared best dehumidifiers under $100 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "dehumidifiers under $100";

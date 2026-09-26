@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-home-offices";
-export const guideTitle = "8 Best Ergonomic Keyboards for Home Offices in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Home Offices";
 export const metaTitle = "Ergonomic Keyboards for Home Offices 2026";
 export const metaDescription =
   "8 ergonomic keyboards we evaluated for full-workday comfort and video-call mic pickup, synthesizing our quiet and compact keyboard research for home offices.";

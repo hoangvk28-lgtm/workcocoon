@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-for-glasses-wearers";
-export const guideTitle = "6 Best VR Headsets for Glasses Wearers in 2026";
+export const guideTitle = "Best VR Headsets for Glasses Wearers";
 export const metaTitle = "Best VR Headsets for Glasses Wearers";
 export const metaDescription = "We compared vr headsets for glasses wearers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "vr headsets for glasses wearers";

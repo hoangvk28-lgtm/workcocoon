@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-dock";
-export const guideTitle = "4 Best USB4 Docks in 2026";
+export const guideTitle = "Best USB4 Docks";
 export const metaTitle = "Best USB4 Docks in 2026";
 export const metaDescription = "We compared USB4 docks by true 40Gbps bandwidth, host charging wattage, and display support, since USB4 branding alone does not guarantee real throughput.";
 export const mainKeyword = "best usb4 dock";

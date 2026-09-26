@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers-with-wireless-chargers";
-export const guideTitle = "6 Best Coffee Warmers With Wireless Chargers in 2026";
+export const guideTitle = "Best Coffee Warmers With Wireless Chargers";
 export const metaTitle = "Best Coffee Warmers With Wireless Chargers";
 export const metaDescription = "We compared coffee warmers with wireless chargers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "coffee warmers with wireless chargers";

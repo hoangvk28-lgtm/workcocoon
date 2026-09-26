@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-vertical-mice";
-export const guideTitle = "5 Best USB-C Vertical Mice in 2026";
+export const guideTitle = "Best USB-C Vertical Mice";
 export const metaTitle = "Best USB-C Vertical Mice, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C vertical mice we evaluated, with the ambiguous-term decode competitors skip: 'USB-C' could refer to the charging port, the wireless dongle's connector, or a wired connection, and each implies a very different product.";

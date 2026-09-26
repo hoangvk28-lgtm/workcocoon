@@ -1,5 +1,5 @@
 export const guideSlug = "best-nec-projectors";
-export const guideTitle = "8 Best NEC Projectors in 2026";
+export const guideTitle = "Best NEC Projectors";
 export const metaTitle = "Best NEC Projectors";
 export const metaDescription = "We compared nec projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "nec projector";

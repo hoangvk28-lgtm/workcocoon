@@ -1,5 +1,5 @@
 export const guideSlug = "best-automatic-tape-dispensers";
-export const guideTitle = "6 Best Automatic Tape Dispensers in 2026";
+export const guideTitle = "Best Automatic Tape Dispensers";
 export const metaTitle = "Best Automatic Tape Dispensers";
 export const metaDescription = "We compared automatic tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "automatic tape dispensers";

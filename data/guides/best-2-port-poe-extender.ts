@@ -1,5 +1,5 @@
 export const guideSlug = "best-2-port-poe-extender";
-export const guideTitle = "4 Best 2-Port and 1-in-2-out PoE Extenders in 2026";
+export const guideTitle = "Best 2-Port and 1-in-2-out PoE Extenders";
 export const metaTitle = "Best 2-Port PoE Extenders";
 export const metaDescription = "We compared 2-port PoE extenders by real bandwidth at extended distance, since several listings cut speed to 10Mbps when switched to a longer range mode.";
 export const mainKeyword = "best 2 port poe extender";

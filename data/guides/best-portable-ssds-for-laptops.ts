@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-laptops";
-export const guideTitle = "4 Best Portable SSDs for Laptops in 2026";
+export const guideTitle = "Best Portable SSDs for Laptops";
 export const metaTitle = "Best Portable SSDs for Laptops in 2026";
 export const metaDescription = "4 portable SSDs we evaluated for laptop use, covering USB-C power delivery limits and legacy USB-A port speed caps to watch for.";
 export const mainKeyword = "best portable ssd for laptop";

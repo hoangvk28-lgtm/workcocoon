@@ -1,5 +1,5 @@
 export const guideSlug = "best-fiber-laser-engravers";
-export const guideTitle = "4 Best Fiber Laser Engravers in 2026";
+export const guideTitle = "Best Fiber Laser Engravers";
 export const metaTitle = "Best Fiber Laser Engravers in 2026";
 export const metaDescription = "We compared best fiber laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "fiber laser engravers";

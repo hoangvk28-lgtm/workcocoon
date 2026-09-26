@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-for-standing-desks";
-export const guideTitle = "4 Best Monitor Shelves for Standing Desks in 2026";
+export const guideTitle = "Best Monitor Shelves for Standing Desks";
 export const metaTitle = "Best Monitor Shelves for Standing Desks (2026)";
 export const metaDescription =
   "4 monitor shelves for standing desks we evaluated for resting-versus-clamped compatibility, cable strain across height range, and motor lift load.";

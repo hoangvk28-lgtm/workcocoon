@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-monitor-shelves";
-export const guideTitle = "4 Best Metal Monitor Shelves in 2026";
+export const guideTitle = "Best Metal Monitor Shelves";
 export const metaTitle = "Best Metal Monitor Shelves (2026)";
 export const metaDescription =
   "4 metal monitor shelves we evaluated for weight capacity, powder-coating durability, desk-scratch risk, and corrosion resistance.";

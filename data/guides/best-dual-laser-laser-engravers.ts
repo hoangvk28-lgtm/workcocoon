@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-laser-laser-engravers";
-export const guideTitle = "5 Best Dual Laser Laser Engravers in 2026";
+export const guideTitle = "Best Dual Laser Laser Engravers";
 export const metaTitle = "Best Dual Laser Laser Engravers in 2026";
 export const metaDescription = "We compared best dual laser laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "dual laser laser engravers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-desk-staplers";
-export const guideTitle = "4 Best Vertical Desk Staplers in 2026";
+export const guideTitle = "Best Vertical Desk Staplers";
 export const metaTitle = "Best Vertical Desk Staplers";
 export const metaDescription = "We compared vertical desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vertical desk staplers";

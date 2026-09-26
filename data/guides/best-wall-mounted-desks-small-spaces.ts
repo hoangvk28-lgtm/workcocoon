@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-wall-mounted-desks-small-spaces";
 
 export const guideSlug = "best-wall-mounted-desks-small-spaces";
-export const guideTitle = "8 Best Wall-Mounted Desks for Small Spaces (2026)";
+export const guideTitle = "Best Wall-Mounted Desks for Small Spaces (2026)";
 export const metaTitle = "Best Wall-Mounted Desks for Small Spaces (2026)";
 export const metaDescription =
   "Find the best wall-mounted desks for small spaces. Fold-down Murphy desks, floating wall desks, and ladder desks ranked by reviews and storage features.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-rechargeable-battery-ring-lights";
-export const guideTitle = "7 Best Rechargeable/Battery Ring Lights in 2026";
+export const guideTitle = "Best Rechargeable/Battery Ring Lights";
 export const metaTitle = "Best Rechargeable/Battery Ring Lights";
 export const metaDescription = "We compared ring light usb models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light usb";

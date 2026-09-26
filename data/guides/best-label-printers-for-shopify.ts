@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-for-shopify";
-export const guideTitle = "6 Best Label Printers for Shopify in 2026";
+export const guideTitle = "Best Label Printers for Shopify";
 export const metaTitle = "Best Label Printers for Shopify";
 export const metaDescription = "We compared label printers for shopify models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "label printers for shopify";

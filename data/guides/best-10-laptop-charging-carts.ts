@@ -1,5 +1,5 @@
 export const guideSlug = "best-10-laptop-charging-carts";
-export const guideTitle = "8 Best 10-Laptop Charging Carts in 2026";
+export const guideTitle = "Best 10-Laptop Charging Carts";
 export const metaTitle = "Best 10-Laptop Charging Carts (2026)";
 export const metaDescription =
   "8 small-fleet charging carts compared, with true 10-device open carts separated honestly from the 12- and 16-device options also in this price range.";

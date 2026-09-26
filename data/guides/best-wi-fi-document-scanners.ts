@@ -1,5 +1,5 @@
 export const guideSlug = "best-wi-fi-document-scanners";
-export const guideTitle = "7 Best Wi-Fi Document Scanners in 2026";
+export const guideTitle = "Best Wi-Fi Document Scanners";
 export const metaTitle = "Best Wi-Fi Document Scanners, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 scanners we evaluated for real Wi-Fi network use, with a note that scan-to-folder requires the destination computer to stay on, unlike scan-to-cloud, a distinction Wi-Fi convenience marketing rarely makes clear.";

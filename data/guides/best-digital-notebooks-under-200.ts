@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-under-200";
-export const guideTitle = "5 Best Digital Notebooks Under $200 in 2026";
+export const guideTitle = "Best Digital Notebooks Under $200";
 export const metaTitle = "Best Digital Notebooks Under $200 (2026)";
 export const metaDescription =
   "5 digital writing tablets under $200, ranked by complete usable cost including the pen, since some listings bundle it and others charge extra.";

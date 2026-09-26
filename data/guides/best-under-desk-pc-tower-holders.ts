@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-pc-tower-holders";
-export const guideTitle = "4 Best Under-Desk PC Tower Holders in 2026";
+export const guideTitle = "Best Under-Desk PC Tower Holders";
 export const metaTitle = "Best Under-Desk PC Tower Holders (2026)";
 export const metaDescription =
   "4 vertical-orientation under-desk PC tower holders we evaluated for tower height and width fit, adjustable-width flexibility, and bump resistance.";

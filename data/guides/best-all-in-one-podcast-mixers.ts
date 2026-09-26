@@ -1,5 +1,5 @@
 export const guideSlug = "best-all-in-one-podcast-mixers";
-export const guideTitle = "8 Best All-in-One Podcast Mixers in 2026";
+export const guideTitle = "Best All-in-One Podcast Mixers";
 export const metaTitle = "Best All-in-One Podcast Mixers";
 export const metaDescription = "We compared all in one podcast mixer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "all in one podcast mixer";

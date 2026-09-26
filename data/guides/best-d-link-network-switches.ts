@@ -1,5 +1,5 @@
 export const guideSlug = "best-d-link-network-switches";
-export const guideTitle = "5 Best D-Link Network Switches in 2026";
+export const guideTitle = "Best D-Link Network Switches";
 export const metaTitle = "Best D-Link Network Switches in 2026";
 export const metaDescription = "D-Link's lineup spans Gigabit and 2.5G unmanaged switches with genuinely strong lifetime warranty coverage.";
 export const mainKeyword = "d-link network switches";

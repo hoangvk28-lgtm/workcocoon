@@ -1,5 +1,5 @@
 export const guideSlug = "best-3-drawer-under-desk-pedestals";
-export const guideTitle = "8 Best 3-Drawer Under-Desk Pedestals in 2026";
+export const guideTitle = "Best 3-Drawer Under-Desk Pedestals";
 export const metaTitle = "Best 3-Drawer Under-Desk Pedestals";
 export const metaDescription = "We compared 3 drawer under desk pedestal models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "3 drawer under desk pedestal";

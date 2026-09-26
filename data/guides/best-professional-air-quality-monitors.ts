@@ -1,5 +1,5 @@
 export const guideSlug = "best-professional-air-quality-monitors";
-export const guideTitle = "8 Best Professional Air Quality Monitors in 2026";
+export const guideTitle = "Best Professional Air Quality Monitors";
 export const metaTitle = "Best Professional Air Quality Monitors";
 export const metaDescription = "We compared professional air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "professional air quality monitor";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-dell-laptops-under-260";
-export const guideTitle = "5 Best Docking Stations for Dell Laptops Under $260 in 2026";
+export const guideTitle = "Best Docking Stations for Dell Laptops Under $260";
 export const metaTitle = "Best Dell Docking Stations Under $260";
 export const metaDescription = "We compared Dell docking stations under $260 by warranty length and first-party vs third-party sourcing, details that matter more than port count.";
 export const mainKeyword = "docking station for dell laptop under $260";

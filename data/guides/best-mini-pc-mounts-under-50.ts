@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-under-50";
-export const guideTitle = "4 Best Mini PC Mounts Under $50 in 2026";
+export const guideTitle = "Best Mini PC Mounts Under $50";
 export const metaTitle = "Best Mini PC Mounts Under $50";
 export const metaDescription = "We compared mini PC mounts under $50 by swivel range, weight capacity, and adjustable frame size, since the most heavy-duty designs top out at this tier.";
 export const mainKeyword = "best mini pc mounts under $50";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mid-century-modern-office-credenzas";
-export const guideTitle = "8 Best Mid-Century Modern Office Credenzas in 2026";
+export const guideTitle = "Best Mid-Century Modern Office Credenzas";
 export const metaTitle = "Best Mid-Century Modern Office Credenzas 2026";
 export const metaDescription = "We compared mid-century modern office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "mid-century modern office credenzas";

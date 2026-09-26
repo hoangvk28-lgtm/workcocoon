@@ -1,5 +1,5 @@
 export const guideSlug = "best-single-fan-laptop-cooling-pads";
-export const guideTitle = "5 Best Single-Fan Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Single-Fan Laptop Cooling Pads";
 export const metaTitle = "Best Single-Fan Laptop Cooling Pads (2026)";
 export const metaDescription =
   "5 laptop cooling pads confirmed to use a single large fan rather than multiple smaller ones, compared for airflow coverage and desk footprint.";

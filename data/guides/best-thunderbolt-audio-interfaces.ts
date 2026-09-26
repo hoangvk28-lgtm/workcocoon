@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-audio-interfaces";
-export const guideTitle = "8 Best Thunderbolt Audio Interfaces in 2026";
+export const guideTitle = "Best Thunderbolt Audio Interfaces";
 export const metaTitle = "Best Thunderbolt Audio Interfaces";
 export const metaDescription = "We compared thunderbolt audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "thunderbolt audio interface";

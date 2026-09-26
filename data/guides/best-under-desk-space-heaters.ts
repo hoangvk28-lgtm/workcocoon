@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-space-heaters";
-export const guideTitle = "7 Best Under-Desk Space Heaters in 2026";
+export const guideTitle = "Best Under-Desk Space Heaters";
 export const metaTitle = "Best Under-Desk Space Heaters";
 export const metaDescription = "We compared space heater under desk models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater under desk";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-under-20";
-export const guideTitle = "4 Best Power Strips Under $20 in 2026";
+export const guideTitle = "Best Power Strips Under $20";
 export const metaTitle = "Best Power Strips Under $20";
 export const metaDescription = "We compared power strips under $20 by individual switch control, tower design, and cord length, since these genuine upgrades appear once you cross $17.";
 export const mainKeyword = "best power strips under $20";

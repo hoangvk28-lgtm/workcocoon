@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desks-with-keyboard-tray";
-export const guideTitle = "8 Best Corner Desks with Keyboard Tray in 2026";
+export const guideTitle = "Best Corner Desks with Keyboard Tray";
 export const metaTitle = "Best Corner Desks with Keyboard Tray";
 export const metaDescription = "We compared corner desk keyboard tray models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "corner desk keyboard tray";

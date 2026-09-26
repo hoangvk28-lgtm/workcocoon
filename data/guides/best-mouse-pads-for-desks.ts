@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-for-desks";
-export const guideTitle = "8 Best Mouse Pads for Desks in 2026";
+export const guideTitle = "Best Mouse Pads for Desks";
 export const metaTitle = "Best Mouse Pads for Desks";
 export const metaDescription = "We compared mouse pad for desk models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad for desk";

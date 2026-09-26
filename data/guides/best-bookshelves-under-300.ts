@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelves-under-300";
-export const guideTitle = "4 Best Bookshelves Under $300 in 2026";
+export const guideTitle = "Best Bookshelves Under $300";
 export const metaTitle = "Best Bookshelves Under $300";
 export const metaDescription = "We compared bookshelves under $300 by triple-wide storage capacity, glass curio display cabinets, and combined drawer-and-door organization systems.";
 export const mainKeyword = "best bookshelves under $300";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-for-cpap";
-export const guideTitle = "6 Best Portable Power Stations for CPAP in 2026";
+export const guideTitle = "Best Portable Power Stations for CPAP";
 export const metaTitle = "Best Portable Power Stations for CPAP 2026";
 export const metaDescription = "We compared portable power stations for cpap by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "portable power stations for cpap";

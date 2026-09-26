@@ -1,5 +1,5 @@
 export const guideSlug = "best-non-adhesive-cord-organizers";
-export const guideTitle = "6 Best Non-Adhesive Cord Organizers in 2026";
+export const guideTitle = "Best Non-Adhesive Cord Organizers";
 export const metaTitle = "Best Non-Adhesive Cord Organizers";
 export const metaDescription = "We compared non-adhesive cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "non-adhesive cord organizers";

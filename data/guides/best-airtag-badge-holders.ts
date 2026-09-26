@@ -1,5 +1,5 @@
 export const guideSlug = "best-airtag-badge-holders";
-export const guideTitle = "6 Best AirTag Badge Holders in 2026";
+export const guideTitle = "Best AirTag Badge Holders";
 export const metaTitle = "Best AirTag Badge Holders";
 export const metaDescription = "We compared airtag badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "airtag badge holders";

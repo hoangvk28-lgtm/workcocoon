@@ -1,5 +1,5 @@
 export const guideSlug = "best-din-rail-network-switches";
-export const guideTitle = "8 Best DIN-Rail Network Switches in 2026";
+export const guideTitle = "Best DIN-Rail Network Switches";
 export const metaTitle = "Best DIN-Rail Network Switches 2026";
 export const metaDescription = "DIN-rail switches mount directly into control cabinets. We compared temperature ratings and power flexibility across the lineup.";
 export const mainKeyword = "din-rail network switches";

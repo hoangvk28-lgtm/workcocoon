@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-qd-oled-gaming-monitors";
-export const guideTitle = "6 Best 4K QD-OLED Gaming Monitors in 2026";
+export const guideTitle = "Best 4K QD-OLED Gaming Monitors";
 export const metaTitle = "Best 4K QD-OLED Gaming Monitors";
 export const metaDescription = "We compared 4k qd-oled gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "4k qd-oled gaming monitors";

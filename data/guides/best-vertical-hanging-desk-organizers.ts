@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-hanging-desk-organizers";
-export const guideTitle = "5 Best Vertical Hanging Desk Organizers in 2026";
+export const guideTitle = "Best Vertical Hanging Desk Organizers";
 export const metaTitle = "Best Vertical Hanging Desk Organizers (2026)";
 export const metaDescription =
   "5 multi-tier vertical organizers checked for per-tier weight capacity, mounting-point leverage stress, and cross-tier reach accessibility.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-task-chairs-400-lbs";
-export const guideTitle = "8 Best Heavy-Duty Task Chairs (400 lbs) in 2026";
+export const guideTitle = "Best Heavy-Duty Task Chairs (400 lbs)";
 export const metaTitle = "Best Heavy-Duty Task Chairs (400 lbs)";
 export const metaDescription = "We compared task chair 400 lb capacity models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair 400 lb capacity";

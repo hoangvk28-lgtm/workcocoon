@@ -1,5 +1,5 @@
 export const guideSlug = "best-xoppox-drawing-tablets";
-export const guideTitle = "1 Best XOPPOX Drawing Tablets in 2026";
+export const guideTitle = "Best XOPPOX Drawing Tablets";
 export const metaTitle = "Best XOPPOX Drawing Tablets 2026";
 export const metaDescription = "We compared xoppox drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "xoppox drawing tablets";

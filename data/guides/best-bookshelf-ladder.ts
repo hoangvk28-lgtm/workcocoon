@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-ladder";
-export const guideTitle = "8 Best Ladder Bookshelves in 2026";
+export const guideTitle = "Best Ladder Bookshelves";
 export const metaTitle = "Best Ladder Bookshelves in 2026 (Slim, Tall & Drawer Picks)";
 export const metaDescription =
   "8 best ladder bookshelves in 2026, comparing slim frames, tall designs, and drawer-equipped units. Compare weight capacity, footprint, and assembly speed.";

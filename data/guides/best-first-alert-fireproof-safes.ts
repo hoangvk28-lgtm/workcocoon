@@ -1,5 +1,5 @@
 export const guideSlug = "best-first-alert-fireproof-safes";
-export const guideTitle = "8 Best First Alert Fireproof Safes in 2026";
+export const guideTitle = "Best First Alert Fireproof Safes";
 export const metaTitle = "Best First Alert Fireproof Safes 2026";
 export const metaDescription = "We compared first alert fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "first alert fireproof safes";

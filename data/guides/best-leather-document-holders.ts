@@ -1,5 +1,5 @@
 export const guideSlug = "best-leather-document-holders";
-export const guideTitle = "6 Best Leather Document Holders in 2026";
+export const guideTitle = "Best Leather Document Holders";
 export const metaTitle = "Best Leather Document Holders";
 export const metaDescription = "We compared leather document holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "leather document holders";

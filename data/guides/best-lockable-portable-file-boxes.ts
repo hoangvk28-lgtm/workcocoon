@@ -1,5 +1,5 @@
 export const guideSlug = "best-lockable-portable-file-boxes";
-export const guideTitle = "5 Best Lockable Portable File Boxes in 2026";
+export const guideTitle = "Best Lockable Portable File Boxes";
 export const metaTitle = "Best Lockable Portable File Boxes (2026)";
 export const metaDescription =
   "5 lockable file boxes with lock mechanisms decoded honestly, key vs combination vs basic latch, and realistic security expectations set clearly.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-portable-air-conditioners-for-small-rooms";
-export const guideTitle = "8 Best Quiet Portable Air Conditioners for Small Rooms in 2026";
+export const guideTitle = "Best Quiet Portable Air Conditioners for Small Rooms";
 export const metaTitle = "Best Quiet Portable Air Conditioners for Small";
 export const metaDescription = "We compared quiet portable air conditioner for small room models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "quiet portable air conditioner for small room";

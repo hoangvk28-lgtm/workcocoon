@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-for-gamers";
-export const guideTitle = "6 Best Mug Warmers for Gamers in 2026";
+export const guideTitle = "Best Mug Warmers for Gamers";
 export const metaTitle = "Best Mug Warmers for Gamers";
 export const metaDescription = "We compared mug warmer for gamers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mug warmer for gamers";

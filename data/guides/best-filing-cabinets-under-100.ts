@@ -1,5 +1,5 @@
 export const guideSlug = "best-filing-cabinets-under-100";
-export const guideTitle = "4 Best Filing Cabinets Under $100 in 2026";
+export const guideTitle = "Best Filing Cabinets Under $100";
 export const metaTitle = "Best Filing Cabinets Under $100";
 export const metaDescription = "We compared filing cabinets under $100 by dual-mount casters, printer stand width, and drawer capacity, since genuinely versatile designs appear at this tier.";
 export const mainKeyword = "best filing cabinets under $100";

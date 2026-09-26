@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-without-ink-subscription-under-250";
-export const guideTitle = "5 Best Printers Without Ink Subscription Under $250 in 2026";
+export const guideTitle = "Best Printers Without Ink Subscription Under $250";
 export const metaTitle = "Best No-Subscription Printers Under $250";
 export const metaDescription = "We compared cartridge-free supertank printers under $250 by ink yield and years-included, numbers that determine real savings, not sticker price.";
 export const mainKeyword = "printer without ink subscription under $250";

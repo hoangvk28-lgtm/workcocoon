@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-with-pens";
-export const guideTitle = "7 Best Digital Notebooks with a Pen Included in 2026";
+export const guideTitle = "Best Digital Notebooks with a Pen Included";
 export const metaTitle = "Best Digital Notebooks with Pens (2026)";
 export const metaDescription =
   "7 digital notebooks that genuinely include a pen or stylus in the box, spanning e-ink devices, smart pen sets, and pen-bundled paper notebooks.";

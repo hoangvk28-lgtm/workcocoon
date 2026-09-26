@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-dual-vertical-laptop-stands";
 
 export const guideSlug = "best-dual-vertical-laptop-stands";
-export const guideTitle = "8 Best Dual Vertical Laptop Stands (2026)";
+export const guideTitle = "Best Dual Vertical Laptop Stands (2026)";
 export const metaTitle = "Best Dual Vertical Laptop Stands 2026";
 export const metaDescription =
   "Best dual vertical laptop stands in 2026. Independent-slot aluminum stands, 4-in-1 organizers, and walnut premium dual stands ranked by buyer rating.";

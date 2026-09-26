@@ -1,5 +1,5 @@
 export const guideSlug = "best-vintage-business-card-holders";
-export const guideTitle = "6 Best Vintage Business Card Holders in 2026";
+export const guideTitle = "Best Vintage Business Card Holders";
 export const metaTitle = "Best Vintage Business Card Holders";
 export const metaDescription = "We compared vintage business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "vintage business card holders";

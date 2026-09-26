@@ -1,5 +1,5 @@
 export const guideSlug = "best-lcd-writing-tablets-for-office-desks";
-export const guideTitle = "5 Best LCD Writing Tablets for Office Desks in 2026";
+export const guideTitle = "Best LCD Writing Tablets for Office Desks";
 export const metaTitle = "Best LCD Writing Tablets for Office Desks (2026)";
 export const metaDescription =
   "An honest look at LCD writing tablets for office desks, since most current listings are marketed toward kids rather than professional use.";

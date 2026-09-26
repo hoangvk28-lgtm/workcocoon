@@ -1,5 +1,5 @@
 export const guideSlug = "best-kneeling-chairs-for-posture";
-export const guideTitle = "8 Best Kneeling Chairs for Posture in 2026";
+export const guideTitle = "Best Kneeling Chairs for Posture";
 export const metaTitle = "Best Kneeling Chairs for Posture";
 export const metaDescription = "We compared kneeling chair posture models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "kneeling chair posture";

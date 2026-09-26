@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-small-spaces";
-export const guideTitle = "7 Best Task Chairs for Small Spaces in 2026";
+export const guideTitle = "Best Task Chairs for Small Spaces";
 export const metaTitle = "Best Task Chairs for Small Spaces";
 export const metaDescription = "We compared task chair small space models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair small space";

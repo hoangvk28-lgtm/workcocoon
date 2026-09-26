@@ -1,5 +1,5 @@
 export const guideSlug = "best-microphone-arms-under-150";
-export const guideTitle = "8 Best Microphone Arms Under $150 in 2026";
+export const guideTitle = "Best Microphone Arms Under $150";
 export const metaTitle = "Best Microphone Arms Under $150";
 export const metaDescription = "We compared microphone arm under $150 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm under $150";

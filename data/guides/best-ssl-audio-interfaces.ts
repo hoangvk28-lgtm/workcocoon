@@ -1,5 +1,5 @@
 export const guideSlug = "best-ssl-audio-interfaces";
-export const guideTitle = "8 Best SSL Audio Interfaces in 2026";
+export const guideTitle = "Best SSL Audio Interfaces";
 export const metaTitle = "Best SSL Audio Interfaces";
 export const metaDescription = "We compared ssl audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ssl audio interface";

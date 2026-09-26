@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-mechanical-keyboards";
-export const guideTitle = "8 Best Wireless Mechanical Keyboards in 2026";
+export const guideTitle = "Best Wireless Mechanical Keyboards for a Clutter-Free Desk";
 export const metaTitle = "Best Wireless Mechanical Keyboards in 2026 (Bluetooth & 2.4GHz)";
 export const metaDescription =
   "8 best wireless mechanical keyboards in 2026, from a budget hot-swap board to Hall effect rapid trigger models. Compare battery life, charging, and connections.";

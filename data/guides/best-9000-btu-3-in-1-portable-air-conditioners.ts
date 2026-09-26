@@ -1,5 +1,5 @@
 export const guideSlug = "best-9000-btu-3-in-1-portable-air-conditioners";
-export const guideTitle = "8 Best 9,000 BTU 3-in-1 Portable Air Conditioners in 2026";
+export const guideTitle = "Best 9,000 BTU 3-in-1 Portable Air Conditioners";
 export const metaTitle = "Best 9,000 BTU 3-in-1 Portable Air Conditioners";
 export const metaDescription = "We compared 9000 btu 3 in 1 portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "9000 btu 3 in 1 portable air conditioner";

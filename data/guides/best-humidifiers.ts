@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers";
-export const guideTitle = "8 Best Humidifiers in 2026";
+export const guideTitle = "Best Humidifiers";
 export const metaTitle = "Best Humidifiers";
 export const metaDescription = "We compared humidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "humidifier";

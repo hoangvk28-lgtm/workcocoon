@@ -1,5 +1,5 @@
 export const guideSlug = "best-side-table-cord-organizers";
-export const guideTitle = "6 Best Side-Table Cord Organizers in 2026";
+export const guideTitle = "Best Side-Table Cord Organizers";
 export const metaTitle = "Best Side-Table Cord Organizers";
 export const metaDescription = "We compared side-table cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "side-table cord organizers";

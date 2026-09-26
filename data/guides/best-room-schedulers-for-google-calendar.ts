@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-schedulers-for-google-calendar";
-export const guideTitle = "8 Best Room Schedulers for Google Calendar in 2026";
+export const guideTitle = "Best Room Schedulers for Google Calendar";
 export const metaTitle = "Best Room Schedulers for Google Calendar";
 export const metaDescription = "We compared room scheduler for google calendar models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "room scheduler for google calendar";

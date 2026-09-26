@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-pods-for-remote-work";
-export const guideTitle = "4 Best Office Pods for Remote Work in 2026";
+export const guideTitle = "Best Office Pods for Remote Work";
 export const metaTitle = "Best Office Pods for Remote Work (2026)";
 export const metaDescription =
   "4 office pods evaluated through a full-workday ventilation and ergonomics lens, cross-referenced with our home office booth guides.";

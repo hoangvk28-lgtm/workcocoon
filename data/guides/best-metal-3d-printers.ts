@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-3d-printers";
-export const guideTitle = "6 Best Metal 3D Printers in 2026";
+export const guideTitle = "Best Metal 3D Printers";
 export const metaTitle = "Best Metal 3D Printers";
 export const metaDescription = "We compared metal 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "metal 3d printers";

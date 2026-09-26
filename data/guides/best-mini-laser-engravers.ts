@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-laser-engravers";
-export const guideTitle = "7 Best Mini Laser Engravers in 2026";
+export const guideTitle = "Best Mini Laser Engravers";
 export const metaTitle = "Best Mini Laser Engravers in 2026";
 export const metaDescription = "We compared best mini laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "mini laser engravers";

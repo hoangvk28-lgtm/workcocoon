@@ -1,5 +1,5 @@
 export const guideSlug = "best-trolling-motor-cable-sleeves";
-export const guideTitle = "3 Best Trolling Motor Cable Sleeves in 2026";
+export const guideTitle = "Best Trolling Motor Cable Sleeves";
 export const metaTitle = "Best Trolling Motor Cable Sleeves";
 export const metaDescription = "We compared trolling motor cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "trolling motor cable sleeves";

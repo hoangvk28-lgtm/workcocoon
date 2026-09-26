@@ -1,5 +1,5 @@
 export const guideSlug = "best-world-time-desk-clocks";
-export const guideTitle = "2 Best World Time Desk Clocks in 2026";
+export const guideTitle = "Best World Time Desk Clocks";
 export const metaTitle = "Best World Time Desk Clocks (2026)";
 export const metaDescription =
   "2 desk clocks compared for seeing time anywhere in the world at a glance, from a compact three-zone desktop pick to a broader multi-zone display.";

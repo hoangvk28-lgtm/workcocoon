@@ -1,5 +1,5 @@
 export const guideSlug = "best-cutter-desktop-cnc-machines";
-export const guideTitle = "8 Best Cutter Desktop CNC Machines in 2026";
+export const guideTitle = "Best Cutter Desktop CNC Machines";
 export const metaTitle = "Best Cutter Desktop CNC Machines 2026";
 export const metaDescription = "We compared cutter desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "cutter desktop cnc machines";

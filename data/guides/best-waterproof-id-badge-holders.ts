@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-id-badge-holders";
-export const guideTitle = "6 Best Waterproof ID Badge Holders in 2026";
+export const guideTitle = "Best Waterproof ID Badge Holders";
 export const metaTitle = "Best Waterproof ID Badge Holders";
 export const metaDescription = "We compared waterproof id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "waterproof id badge holders";

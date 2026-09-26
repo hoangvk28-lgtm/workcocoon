@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-mug-warmers";
-export const guideTitle = "6 Best Smart Mug Warmers in 2026";
+export const guideTitle = "Best Smart Mug Warmers";
 export const metaTitle = "Best Smart Mug Warmers";
 export const metaDescription = "We compared smart mug warmer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "smart mug warmer";

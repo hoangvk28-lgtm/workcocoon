@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-500-sq-ft-rooms";
-export const guideTitle = "8 Best Humidifiers for 500 Sq Ft Rooms in 2026";
+export const guideTitle = "Best Humidifiers for 500 Sq Ft Rooms";
 export const metaTitle = "Best Humidifiers for 500 Sq Ft Rooms";
 export const metaDescription = "We compared humidifier 500 sq ft models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier 500 sq ft";

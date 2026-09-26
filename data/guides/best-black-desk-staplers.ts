@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-desk-staplers";
-export const guideTitle = "6 Best Black Desk Staplers in 2026";
+export const guideTitle = "Best Black Desk Staplers";
 export const metaTitle = "Best Black Desk Staplers";
 export const metaDescription = "We compared black desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "black desk staplers";

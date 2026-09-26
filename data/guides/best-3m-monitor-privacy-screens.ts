@@ -1,5 +1,5 @@
 export const guideSlug = "best-3m-monitor-privacy-screens";
-export const guideTitle = "3 Best 3M Monitor Privacy Screens in 2026 (Plus Value Alternatives)";
+export const guideTitle = "Best 3M Monitor Privacy Screens in 2026 (Plus Value Alternatives)";
 export const metaTitle = "Best 3M Monitor Privacy Screens (2026)";
 export const metaDescription =
   "3 genuine 3M privacy filters compared, plus lower-cost non-3M alternatives at the same sizes so you can judge whether the brand premium is worth it.";

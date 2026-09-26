@@ -1,5 +1,5 @@
 export const guideSlug = "best-auto-feed-paper-shredders";
-export const guideTitle = "8 Best Auto-Feed Paper Shredders in 2026";
+export const guideTitle = "Best Auto-Feed Paper Shredders";
 export const metaTitle = "Best Auto-Feed Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders we evaluated for auto-feed searches, with an honest split: only 3 are genuine auto-feed hopper models, the rest are proven manual-feed shredders that show up in these searches anyway.";

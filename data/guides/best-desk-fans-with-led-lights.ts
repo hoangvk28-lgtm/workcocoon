@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-with-led-lights";
-export const guideTitle = "6 Best Desk Fans With LED Lights in 2026";
+export const guideTitle = "Best Desk Fans With LED Lights";
 export const metaTitle = "Best Desk Fans With LED Lights";
 export const metaDescription = "We compared desk fan with led lights models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk fan with led lights";

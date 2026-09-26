@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-desk-clocks-with-calendars";
-export const guideTitle = "4 Best Digital Desk Clocks with Calendars in 2026";
+export const guideTitle = "Best Digital Desk Clocks with Calendars";
 export const metaTitle = "Best Digital Desk Clocks w/ Calendars";
 export const metaDescription =
   "4 digital desk clocks that also show a calendar date, led by rechargeable notepad-clocks, with honest notes on which picks are clock-first.";

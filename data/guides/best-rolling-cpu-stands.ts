@@ -1,5 +1,5 @@
 export const guideSlug = "best-rolling-cpu-stands";
-export const guideTitle = "8 Best Rolling CPU Stands in 2026";
+export const guideTitle = "Best Rolling CPU Stands";
 export const metaTitle = "Best Rolling CPU Stands";
 export const metaDescription = "We compared rolling cpu stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "rolling cpu stand";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-10-sheet-paper-shredders";
-export const guideTitle = "8 Best 10-Sheet Paper Shredders in 2026";
+export const guideTitle = "Best 10-Sheet Paper Shredders";
 export const metaTitle = "Best 10-Sheet Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders rated for 10 sheets, at the price 'sweet spot' where security level varies most widely between similarly priced models, from P-2 strip-cut to P-4 micro-cut.";

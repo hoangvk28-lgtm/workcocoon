@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-carpal-tunnel";
-export const guideTitle = "8 Best Ergonomic Keyboards for Carpal Tunnel in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Carpal Tunnel";
 export const metaTitle = "Ergonomic Keyboards for Carpal Tunnel";
 export const metaDescription =
   "8 ergonomic keyboards we evaluated for wrist positioning relevant to carpal tunnel prevention. Not medical treatment, see a doctor for diagnosis or symptoms.";

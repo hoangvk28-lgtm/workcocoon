@@ -1,5 +1,5 @@
 export const guideSlug = "best-e-ink-digital-notebooks";
-export const guideTitle = "8 Best E-Ink Digital Notebooks in 2026";
+export const guideTitle = "Best E-Ink Digital Notebooks";
 export const metaTitle = "Best E-Ink Digital Notebooks (2026)";
 export const metaDescription =
   "8 e-ink digital notebooks we evaluated for glare-free writing, week-long battery life, and reduced eye strain compared to a typical LCD tablet.";

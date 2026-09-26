@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-monitors-for-fps-games";
-export const guideTitle = "6 Best Gaming Monitors for FPS Games in 2026";
+export const guideTitle = "Best Gaming Monitors for FPS Games";
 export const metaTitle = "Best Gaming Monitors for FPS Games";
 export const metaDescription = "We compared gaming monitors for fps games models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "gaming monitors for fps games";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-battery-operated-coffee-warmers";
-export const guideTitle = "6 Best Battery-Operated Coffee Warmers in 2026";
+export const guideTitle = "Best Battery-Operated Coffee Warmers";
 export const metaTitle = "Best Battery-Operated Coffee Warmers";
 export const metaDescription = "We compared battery-operated coffee warmers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "battery-operated coffee warmers";

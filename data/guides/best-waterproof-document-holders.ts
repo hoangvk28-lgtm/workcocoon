@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-document-holders";
-export const guideTitle = "6 Best Waterproof Document Holders in 2026";
+export const guideTitle = "Best Waterproof Document Holders";
 export const metaTitle = "Best Waterproof Document Holders";
 export const metaDescription = "We compared waterproof document holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "waterproof document holders";

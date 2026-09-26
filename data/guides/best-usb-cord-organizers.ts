@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-cord-organizers";
-export const guideTitle = "6 Best USB Cord Organizers in 2026";
+export const guideTitle = "Best USB Cord Organizers";
 export const metaTitle = "Best USB Cord Organizers";
 export const metaDescription = "We compared usb cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "usb cord organizers";

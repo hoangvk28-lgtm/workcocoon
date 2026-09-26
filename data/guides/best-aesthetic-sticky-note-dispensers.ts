@@ -1,5 +1,5 @@
 export const guideSlug = "best-aesthetic-sticky-note-dispensers";
-export const guideTitle = "6 Best Aesthetic Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Aesthetic Sticky Note Dispensers";
 export const metaTitle = "Best Aesthetic Sticky Note Dispensers";
 export const metaDescription = "We compared aesthetic sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "aesthetic sticky note dispensers";

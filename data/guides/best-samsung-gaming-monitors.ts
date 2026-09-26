@@ -1,5 +1,5 @@
 export const guideSlug = "best-samsung-gaming-monitors";
-export const guideTitle = "6 Best Samsung Gaming Monitors in 2026";
+export const guideTitle = "Best Samsung Gaming Monitors";
 export const metaTitle = "Best Samsung Gaming Monitors";
 export const metaDescription = "We compared samsung gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "samsung gaming monitors";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-modesty-panels";
-export const guideTitle = "6 Best Clamp-On Modesty Panels in 2026";
+export const guideTitle = "Best Clamp-On Modesty Panels";
 export const metaTitle = "Best Clamp-On Modesty Panels";
 export const metaDescription = "We compared clamp-on modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "clamp-on modesty panels";

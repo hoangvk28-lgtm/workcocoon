@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-kneeling-chairs";
-export const guideTitle = "8 Best Ergonomic Kneeling Chairs in 2026";
+export const guideTitle = "Best Ergonomic Kneeling Chairs";
 export const metaTitle = "Best Ergonomic Kneeling Chairs";
 export const metaDescription = "We compared ergonomic kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ergonomic kneeling chair";

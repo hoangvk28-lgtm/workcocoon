@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-for-money";
-export const guideTitle = "8 Best Small Safes for Money in 2026";
+export const guideTitle = "Best Small Safes for Money";
 export const metaTitle = "Best Small Safes for Money (2026)";
 export const metaDescription =
   "8 safes for cash storage compared on anti-removal anchoring, cash organization trays, and multi-user access, from a $13.49 lockbox to a mountable steel safe.";

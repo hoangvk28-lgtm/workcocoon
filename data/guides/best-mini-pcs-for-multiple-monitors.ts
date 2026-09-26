@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-multiple-monitors";
-export const guideTitle = "4 Best Mini PCs for Multiple Monitors in 2026";
+export const guideTitle = "Best Mini PCs for Multiple Monitors";
 export const metaTitle = "Best Mini PCs for Multiple Monitors (2026)";
 export const metaDescription =
   "4 mini PCs for 3+ monitor setups we evaluated, verifying genuine simultaneous multi-output support rather than trusting a total port count.";

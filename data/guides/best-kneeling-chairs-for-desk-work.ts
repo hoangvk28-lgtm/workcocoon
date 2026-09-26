@@ -1,5 +1,5 @@
 export const guideSlug = "best-kneeling-chairs-for-desk-work";
-export const guideTitle = "8 Best Kneeling Chairs for Desk Work in 2026";
+export const guideTitle = "Best Kneeling Chairs for Desk Work";
 export const metaTitle = "Best Kneeling Chairs for Desk Work";
 export const metaDescription = "We compared desk kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk kneeling chair";

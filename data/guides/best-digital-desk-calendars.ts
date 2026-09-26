@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-desk-calendars";
-export const guideTitle = "7 Best Digital Desk Calendars in 2026";
+export const guideTitle = "Best Digital Desk Calendars";
 export const metaTitle = "Best Digital Desk Calendars (2026)";
 export const metaDescription =
   "7 digital desk calendars we evaluated, from budget clock-and-notepad boards to full touchscreen family planners with real calendar sync.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-weatherproof-outdoor-power-strips";
-export const guideTitle = "3 Best Weatherproof Outdoor Power Strips in 2026";
+export const guideTitle = "Best Weatherproof Power Strips for Outdoor Use";
 export const metaTitle = "Best Weatherproof Outdoor Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "3 weatherproof outdoor power strips we evaluated, with the vulnerability competitors skip: even fully sealed strips have cord entry points that are the most common failure point for water ingress, rarely tested separately from the main housing.";

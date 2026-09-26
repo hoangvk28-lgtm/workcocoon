@@ -1,5 +1,5 @@
 export const guideSlug = "best-ryzen-mini-pcs";
-export const guideTitle = "5 Best Ryzen Mini PCs in 2026";
+export const guideTitle = "Best Ryzen Mini PCs";
 export const metaTitle = "Best Ryzen Mini PCs (2026)";
 export const metaDescription =
   "5 Ryzen mini PCs we evaluated, with a look at what the U, HS, and HX chip suffixes actually mean for performance and thermals.";

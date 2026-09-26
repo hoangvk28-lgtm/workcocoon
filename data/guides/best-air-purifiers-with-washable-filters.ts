@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-with-washable-filters";
-export const guideTitle = "5 Best Air Purifiers with Washable Filters in 2026";
+export const guideTitle = "Best Air Purifiers with Washable Filters";
 export const metaTitle = "Best Air Purifiers with Washable Filters, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers with washable filters we evaluated, with the marketing gap competitors skip: washable pre-filters typically capture only larger particles and are usually paired with a separate non-washable HEPA or carbon filter that still needs replacement.";

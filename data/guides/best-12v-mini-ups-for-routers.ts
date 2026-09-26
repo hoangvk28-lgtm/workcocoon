@@ -1,5 +1,5 @@
 export const guideSlug = "best-12v-mini-ups-for-routers";
-export const guideTitle = "6 Best 12V Mini UPS for Routers in 2026";
+export const guideTitle = "Best 12V Mini UPS for Routers";
 export const metaTitle = "Best 12V Mini UPS for Routers in 2026";
 export const metaDescription = "12V is the most common router voltage, but current rating and connector polarity still vary. We compared the current 12V mini UPS lineup.";
 export const mainKeyword = "12v mini ups for routers";

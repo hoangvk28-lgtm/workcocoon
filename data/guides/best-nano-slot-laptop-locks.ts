@@ -1,5 +1,5 @@
 export const guideSlug = "best-nano-slot-laptop-locks";
-export const guideTitle = "6 Best Nano-Slot Laptop Locks in 2026";
+export const guideTitle = "Best Nano-Slot Laptop Locks";
 export const metaTitle = "Best Nano-Slot Laptop Locks (2026)";
 export const metaDescription =
   "6 laptop locks verified for Kensington's Nano slot specifically, rejecting Standard T-Bar and Noble Wedge locks retailers call slim or ultrabook compatible.";

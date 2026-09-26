@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards";
-export const guideTitle = "8 Best Interactive Whiteboards in 2026";
+export const guideTitle = "Best Interactive Whiteboards";
 export const metaTitle = "Best Interactive Whiteboards 2026";
 export const metaDescription = "We compared interactive whiteboards by real touch architecture, OS lifecycle, and connectivity rather than treating flat panels, projectors, and portable systems as one category.";
 export const mainKeyword = "interactive whiteboard";

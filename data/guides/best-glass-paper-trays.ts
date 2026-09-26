@@ -1,5 +1,5 @@
 export const guideSlug = "best-glass-paper-trays";
-export const guideTitle = "4 Best Glass Paper Trays in 2026";
+export const guideTitle = "Best Glass Paper Trays";
 export const metaTitle = "Best Glass Paper Trays";
 export const metaDescription = "We compared glass paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "glass paper trays";

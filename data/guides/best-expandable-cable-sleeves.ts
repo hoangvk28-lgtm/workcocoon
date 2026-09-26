@@ -1,5 +1,5 @@
 export const guideSlug = "best-expandable-cable-sleeves";
-export const guideTitle = "6 Best Expandable Cable Sleeves in 2026";
+export const guideTitle = "Best Expandable Cable Sleeves";
 export const metaTitle = "Best Expandable Cable Sleeves";
 export const metaDescription = "We compared expandable cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "expandable cable sleeves";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-lock-boxes";
-export const guideTitle = "5 Best Laptop Lock Boxes in 2026";
+export const guideTitle = "Best Laptop Lock Boxes";
 export const metaTitle = "Best Laptop Lock Boxes (2026)";
 export const metaDescription =
   "5 lockable enclosures compared honestly, since only 2 of these listings are actually laptop-sized boxes with cable grommets and ventilation.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laser-engravers-for-golf-clubs";
-export const guideTitle = "3 Best Laser Engravers for Golf Clubs in 2026";
+export const guideTitle = "Best Laser Engravers for Golf Clubs";
 export const metaTitle = "Best Laser Engravers for Golf Clubs in 2026";
 export const metaDescription = "We compared best laser engravers for golf clubs by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "laser engravers for golf clubs";

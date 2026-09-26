@@ -1,5 +1,5 @@
 export const guideSlug = "best-energy-efficient-space-heaters";
-export const guideTitle = "6 Best Energy-Efficient Space Heaters in 2026";
+export const guideTitle = "Best Energy-Efficient Space Heaters";
 export const metaTitle = "Best Energy-Efficient Space Heaters";
 export const metaDescription = "We compared space heater energy efficient models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "space heater energy efficient";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-for-computers";
-export const guideTitle = "5 Best Surge Protectors for Computers in 2026";
+export const guideTitle = "Best Surge Protectors for a Home Computer Setup";
 export const metaTitle = "Best Surge Protectors for Computers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 surge protectors we evaluated for computer setups, with the scope limitation competitors skip: a surge protector addresses external electrical events, not internal PC hardware failure.";

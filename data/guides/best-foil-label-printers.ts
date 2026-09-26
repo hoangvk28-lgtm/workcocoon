@@ -1,5 +1,5 @@
 export const guideSlug = "best-foil-label-printers";
-export const guideTitle = "6 Best Foil Label Printers in 2026";
+export const guideTitle = "Best Foil Label Printers";
 export const metaTitle = "Best Foil Label Printers";
 export const metaDescription = "We compared foil label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "foil label printers";

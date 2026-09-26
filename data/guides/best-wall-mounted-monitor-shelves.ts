@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mounted-monitor-shelves";
-export const guideTitle = "4 Best Wall-Mounted Monitor Shelves in 2026";
+export const guideTitle = "Best Wall-Mounted Monitor Shelves";
 export const metaTitle = "Best Wall-Mounted Monitor Shelves (2026)";
 export const metaDescription =
   "4 wall-mounted monitor shelves we evaluated for wall-material weight ratings, stud versus drywall-anchor safety, and renter removal damage.";

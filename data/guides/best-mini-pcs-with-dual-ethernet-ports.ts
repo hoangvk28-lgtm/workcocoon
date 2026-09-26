@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-dual-ethernet-ports";
-export const guideTitle = "4 Best Mini PCs with Dual Ethernet Ports in 2026";
+export const guideTitle = "Best Mini PCs with Dual Ethernet Ports";
 export const metaTitle = "Best Mini PCs with Dual Ethernet Ports (2026)";
 export const metaDescription =
   "4 dual-NIC mini PCs we evaluated, checking each port's actual chipset and speed rather than trusting the port count alone.";

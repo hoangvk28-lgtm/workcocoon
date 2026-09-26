@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-bathroom";
-export const guideTitle = "8 Best Space Heaters for Bathroom in 2026";
+export const guideTitle = "Best Space Heaters for Bathroom";
 export const metaTitle = "Best Space Heaters for Bathroom";
 export const metaDescription = "We compared space heater for bathroom models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "space heater for bathroom";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tannoy-studio-monitors";
-export const guideTitle = "8 Best Tannoy Studio Monitors in 2026";
+export const guideTitle = "Best Tannoy Studio Monitors";
 export const metaTitle = "Best Tannoy Studio Monitors";
 export const metaDescription = "We compared tannoy studio monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "tannoy studio monitor";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-hipaa-compliant-digital-notebooks";
-export const guideTitle = "5 Best HIPAA-Compliant Digital Notebooks in 2026";
+export const guideTitle = "Best HIPAA-Compliant Digital Notebooks";
 export const metaTitle = "Best HIPAA-Compliant Digital Notebooks (2026)";
 export const metaDescription =
   "Important disclosure: no consumer E Ink notebook is independently certified HIPAA-compliant. This is a guide to encryption and cloud-data practices to evaluate yourself, not a list of certified devices.";

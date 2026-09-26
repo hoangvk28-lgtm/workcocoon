@@ -1,5 +1,5 @@
 export const guideSlug = "best-e-commerce-label-printers";
-export const guideTitle = "6 Best E-Commerce Label Printers in 2026";
+export const guideTitle = "Best E-Commerce Label Printers";
 export const metaTitle = "Best E-Commerce Label Printers";
 export const metaDescription = "We compared e-commerce label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "e-commerce label printers";

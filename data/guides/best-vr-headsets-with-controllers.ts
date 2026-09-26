@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-with-controllers";
-export const guideTitle = "5 Best VR Headsets With Controllers in 2026";
+export const guideTitle = "Best VR Headsets With Controllers";
 export const metaTitle = "Best VR Headsets With Controllers";
 export const metaDescription = "We compared vr headsets with controllers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "vr headsets with controllers";

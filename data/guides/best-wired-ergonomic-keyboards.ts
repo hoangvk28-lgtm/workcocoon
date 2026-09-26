@@ -1,5 +1,5 @@
 export const guideSlug = "best-wired-ergonomic-keyboards";
-export const guideTitle = "7 Best Wired Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Wired Ergonomic Keyboards";
 export const metaTitle = "Best Wired Ergonomic Keyboards (2026)";
 export const metaDescription =
   "7 wired ergonomic keyboards we evaluated for cable management, inter-half cable flexibility, and build quality, with honest notes on desk setup constraints.";

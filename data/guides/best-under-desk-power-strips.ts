@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-power-strips";
-export const guideTitle = "6 Best Under-Desk Power Strips in 2026";
+export const guideTitle = "Best Under-Desk Power Strips";
 export const metaTitle = "Best Under-Desk Power Strips, Honestly Reviewed (2026)";
 export const metaDescription =
   "6 under-desk power strips we evaluated, with the visibility problem competitors skip: mounting a surge protector under a desk hides the one indicator light that shows whether it's still protecting your equipment.";

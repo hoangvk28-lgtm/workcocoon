@@ -1,5 +1,5 @@
 export const guideSlug = "best-clip-on-monitor-shelves";
-export const guideTitle = "4 Best Clip-On Monitor Shelves in 2026";
+export const guideTitle = "Best Clip-On Monitor Shelves";
 export const metaTitle = "Best Clip-On Monitor Shelves (2026)";
 export const metaDescription =
   "4 clip-on monitor shelves we evaluated, clarifying how clip-on differs from clamp-on in capacity, desk-edge range, and clean removal.";

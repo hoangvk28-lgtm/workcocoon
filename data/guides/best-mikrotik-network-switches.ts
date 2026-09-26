@@ -1,5 +1,5 @@
 export const guideSlug = "best-mikrotik-network-switches";
-export const guideTitle = "5 Best MikroTik Network Switches in 2026";
+export const guideTitle = "Best MikroTik Network Switches";
 export const metaTitle = "Best MikroTik Network Switches 2026";
 export const metaDescription = "MikroTik's CRS line offers deep RouterOS customization for homelab users comfortable with a real learning curve.";
 export const mainKeyword = "mikrotik network switches";

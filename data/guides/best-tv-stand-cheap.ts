@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-cheap";
-export const guideTitle = "7 Best Cheap TV Stands in 2026";
+export const guideTitle = "Best Cheap TV Stands";
 export const metaTitle = "Best Cheap TV Stands 2026, Budget Picks Under $50";
 export const metaDescription =
   "Best cheap TV stands in 2026, nearly all under $50. Budget picks ranked by weight capacity, review count, storage style, and extra features.";

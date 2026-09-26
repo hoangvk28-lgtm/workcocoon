@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-bike-pedal-exerciser";
-export const guideTitle = "8 Best Under Desk Bike Pedal Exercisers in 2026";
+export const guideTitle = "Best Under-Desk Bike Pedal Exercisers";
 export const metaTitle = "Best Under Desk Bike Pedal Exercisers in 2026 (Quiet & Compact)";
 export const metaDescription =
   "8 best under desk bike pedal exercisers in 2026, from a $31.64 budget pick to a quiet 3-in-1 magnetic design. Compare resistance, noise, and desk clearance.";

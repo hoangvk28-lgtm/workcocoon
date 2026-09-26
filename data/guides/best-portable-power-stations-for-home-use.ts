@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-power-stations-for-home-use";
-export const guideTitle = "8 Best Portable Power Stations for Home Use in 2026";
+export const guideTitle = "Best Portable Power Stations for Home Use";
 export const metaTitle = "Best Portable Power Stations for Home Use 2026";
 export const metaDescription = "We compared portable power stations for home use by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "portable power stations for home use";

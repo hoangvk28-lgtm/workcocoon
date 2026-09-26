@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-laptop-cooling-pads";
-export const guideTitle = "8 Best Budget Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Budget Laptop Cooling Pads";
 export const metaTitle = "Best Budget Laptop Cooling Pads (2026)";
 export const metaDescription =
   "8 budget laptop cooling pads we evaluated for fan count, adjustable height, and USB ports, with honest notes on what gets cut at lower price points.";

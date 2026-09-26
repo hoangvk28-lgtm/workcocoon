@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-for-3d-printing";
-export const guideTitle = "8 Best Air Quality Monitors for 3D Printing in 2026";
+export const guideTitle = "Best Air Quality Monitors for 3D Printing";
 export const metaTitle = "Best Air Quality Monitors for 3D Printing";
 export const metaDescription = "We compared air quality monitor for 3d printing models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor for 3d printing";

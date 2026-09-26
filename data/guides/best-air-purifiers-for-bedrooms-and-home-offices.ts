@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-bedrooms-and-home-offices";
-export const guideTitle = "5 Best Air Purifiers for Bedrooms and Home Offices in 2026";
+export const guideTitle = "Best Air Purifiers for Bedrooms and Home Offices";
 export const metaTitle = "Best Air Purifiers for Bedrooms and Home Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 dual-use air purifiers we evaluated, with the mode-switching gap competitors skip: night mode dims lights and reduces fan speed for sleep, but is irrelevant or counterproductive during daytime home-office operation.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-double-sided-desktop-whiteboards";
-export const guideTitle = "5 Best Double-Sided Desktop Whiteboards in 2026";
+export const guideTitle = "Best Double-Sided Desktop Whiteboards";
 export const metaTitle = "Best Double-Sided Desktop Whiteboards";
 export const metaDescription =
   "5 double-sided desktop whiteboards we evaluated for genuine dual writing surfaces, rotation durability, and weight tradeoffs versus single-sided boards.";

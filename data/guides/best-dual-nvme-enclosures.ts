@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-nvme-enclosures";
-export const guideTitle = "5 Best Dual NVMe Enclosures in 2026";
+export const guideTitle = "Best Dual NVMe Enclosures";
 export const metaTitle = "Best Dual NVMe Enclosures in 2026";
 export const metaDescription = "Dual-bay enclosures can run as independent drives, JBOD, or RAID. We checked which mode each product actually supports before ranking.";
 export const mainKeyword = "dual nvme enclosures";

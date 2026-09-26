@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvme-portable-ssds";
-export const guideTitle = "4 Best NVMe Portable SSDs in 2026";
+export const guideTitle = "Best NVMe Portable SSDs";
 export const metaTitle = "Best NVMe Portable SSDs in 2026";
 export const metaDescription = "4 NVMe-based portable SSDs we evaluated, with an honest look at how the USB or Thunderbolt bridge chip actually limits real-world speed.";
 export const mainKeyword = "best nvme portable ssd";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portrait-mode-portable-monitors";
-export const guideTitle = "8 Best Portrait-Mode Portable Monitors in 2026";
+export const guideTitle = "Best Portrait-Mode Portable Monitors";
 export const metaTitle = "Best Portrait-Mode Portable Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors we checked specifically for genuine portrait rotation support, since not every stand actually rotates and most listings require manually toggling orientation in your OS settings, not automatic sensing.";

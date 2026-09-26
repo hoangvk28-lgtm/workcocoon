@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-streaming";
-export const guideTitle = "5 Best Mini PCs for Streaming in 2026";
+export const guideTitle = "Best Mini PCs for Streaming";
 export const metaTitle = "Best Mini PCs for Streaming (2026)";
 export const metaDescription =
   "5 mini PCs for streaming we evaluated, separating media playback and Plex serving from live-stream production, since each needs genuinely different hardware.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-enclosed-desktop-cnc-machines";
-export const guideTitle = "5 Best Enclosed Desktop CNC Machines in 2026";
+export const guideTitle = "Best Enclosed Desktop CNC Machines";
 export const metaTitle = "Best Enclosed Desktop CNC Machines 2026";
 export const metaDescription = "We compared enclosed desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "enclosed desktop cnc machines";

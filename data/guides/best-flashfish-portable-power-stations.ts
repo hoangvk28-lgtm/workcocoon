@@ -1,5 +1,5 @@
 export const guideSlug = "best-flashfish-portable-power-stations";
-export const guideTitle = "2 Best FlashFish Portable Power Stations in 2026";
+export const guideTitle = "Best FlashFish Portable Power Stations";
 export const metaTitle = "Best FlashFish Portable Power Stations 2026";
 export const metaDescription = "We compared flashfish portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "flashfish portable power stations";

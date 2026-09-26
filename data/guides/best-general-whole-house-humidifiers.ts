@@ -1,5 +1,5 @@
 export const guideSlug = "best-general-whole-house-humidifiers";
-export const guideTitle = "8 Best General Whole-House Humidifiers in 2026";
+export const guideTitle = "Best General Whole-House Humidifiers";
 export const metaTitle = "Best General Whole-House Humidifiers";
 export const metaDescription = "We compared general humidifier 1042 l models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "general humidifier 1042 l";

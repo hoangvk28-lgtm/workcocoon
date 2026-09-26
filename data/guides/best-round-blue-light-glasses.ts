@@ -1,5 +1,5 @@
 export const guideSlug = "best-round-blue-light-glasses";
-export const guideTitle = "6 Best Round Blue Light Glasses in 2026";
+export const guideTitle = "Best Round Blue Light Glasses";
 export const metaTitle = "Best Round Blue Light Glasses";
 export const metaDescription = "We compared round blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "round blue light glasses";

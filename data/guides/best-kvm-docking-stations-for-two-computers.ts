@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-docking-stations-for-two-computers";
-export const guideTitle = "8 Best KVM Docking Stations for Two Computers in 2026";
+export const guideTitle = "Best KVM Docking Stations for Two Computers";
 export const metaTitle = "Best KVM Docking Stations for Two Computers in 2026";
 export const metaDescription =
   "8 best KVM docking stations for two computers in 2026, comparing switching speed, power delivery, and monitor support for shared desk setups.";

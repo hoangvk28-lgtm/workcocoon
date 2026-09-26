@@ -1,5 +1,5 @@
 export const guideSlug = "best-studio-monitors-under-5000";
-export const guideTitle = "7 Best Studio Monitors Under $5000 in 2026";
+export const guideTitle = "Best Studio Monitors Under $5000";
 export const metaTitle = "Best Studio Monitors Under $5000 in 2026";
 export const metaDescription = "We compared best studio monitors under $5000 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "studio monitors under $5000";

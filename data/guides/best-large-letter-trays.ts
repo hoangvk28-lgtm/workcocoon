@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-letter-trays";
-export const guideTitle = "6 Best Large Letter Trays in 2026";
+export const guideTitle = "Best Large Letter Trays";
 export const metaTitle = "Best Large Letter Trays";
 export const metaDescription = "We compared large letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "large letter trays";

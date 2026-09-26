@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-walking-pads-for-home-offices";
 
 export const guideSlug = "best-walking-pads-for-home-offices";
-export const guideTitle = "8 Best Walking Pads for Home Offices (2026)";
+export const guideTitle = "Best Walking Pads for Home Offices (2026)";
 export const metaTitle = "Best Walking Pads for Home Offices 2026";
 export const metaDescription = "Best walking pads for home offices in 2026. Quiet under-desk treadmills with app tracking, incline, and compact designs for productive desk walking at home.";
 export const lastUpdated = "2026-07-11";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-emulation";
-export const guideTitle = "5 Best Mini PCs for Emulation in 2026";
+export const guideTitle = "Best Mini PCs for Emulation";
 export const metaTitle = "Best Mini PCs for Emulation (2026)";
 export const metaDescription =
   "5 mini PCs for emulation we evaluated, focused on single-thread CPU speed and shader stutter, not just generic processing power.";

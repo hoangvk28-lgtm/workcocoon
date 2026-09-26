@@ -1,5 +1,5 @@
 export const guideSlug = "best-60hz-4k-monitors-for-gaming";
-export const guideTitle = "6 Best 60Hz 4K Monitors for Gaming in 2026";
+export const guideTitle = "Best 60Hz 4K Monitors for Gaming";
 export const metaTitle = "Best 60Hz 4K Monitors for Gaming";
 export const metaDescription = "We compared 60hz 4k monitors for gaming models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "60hz 4k monitors for gaming";

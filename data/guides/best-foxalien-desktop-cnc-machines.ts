@@ -1,5 +1,5 @@
 export const guideSlug = "best-foxalien-desktop-cnc-machines";
-export const guideTitle = "5 Best FoxAlien Desktop CNC Machines in 2026";
+export const guideTitle = "Best FoxAlien Desktop CNC Machines";
 export const metaTitle = "Best FoxAlien Desktop CNC Machines 2026";
 export const metaDescription = "We compared foxalien desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "foxalien desktop cnc machines";

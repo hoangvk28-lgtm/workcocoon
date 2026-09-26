@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-mesh";
-export const guideTitle = "6 Best Mesh Gaming Chairs in 2026";
+export const guideTitle = "Best Mesh Gaming Chairs";
 export const metaTitle = "Best Mesh Gaming Chairs in 2026 - Top 8 Breathable Picks";
 export const metaDescription =
   "The 8 best mesh gaming chairs in 2026, ranked by breathability, lumbar adjustability, and BIFMA-certified builds from budget picks to premium brands.";

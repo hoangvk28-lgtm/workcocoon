@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-nvme-enclosures-under-100";
-export const guideTitle = "6 Best USB4 NVMe Enclosures Under $100 in 2026";
+export const guideTitle = "Best USB4 NVMe Enclosures Under $100";
 export const metaTitle = "Best USB4 NVMe Enclosures Under $100";
 export const metaDescription = "We compared USB4 NVMe enclosures under $100 by controller chip, cooling method, and real sustained transfer speeds, not just the 40Gbps headline number.";
 export const mainKeyword = "usb4 nvme enclosure under $100";

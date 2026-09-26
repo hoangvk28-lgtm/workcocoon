@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultrawide-usb-c-monitors";
-export const guideTitle = "5 Best Ultrawide USB-C Monitors in 2026";
+export const guideTitle = "Best Ultrawide USB-C Monitors";
 export const metaTitle = "Best Ultrawide USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 ultrawide USB-C monitors we evaluated, with a note that not all apps handle a 21:9 or 32:9 aspect ratio gracefully, some older software stretches or displays with black bars instead of expanding.";

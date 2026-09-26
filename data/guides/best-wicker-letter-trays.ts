@@ -1,5 +1,5 @@
 export const guideSlug = "best-wicker-letter-trays";
-export const guideTitle = "5 Best Wicker Letter Trays in 2026";
+export const guideTitle = "Best Wicker Letter Trays";
 export const metaTitle = "Best Wicker Letter Trays";
 export const metaDescription = "We compared wicker letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "wicker letter trays";

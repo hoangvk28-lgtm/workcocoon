@@ -1,5 +1,5 @@
 export const guideSlug = "best-electric-space-heaters";
-export const guideTitle = "7 Best Electric Space Heaters in 2026";
+export const guideTitle = "Best Electric Space Heaters";
 export const metaTitle = "Best Electric Space Heaters";
 export const metaDescription = "We compared space heaters electric models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heaters electric";

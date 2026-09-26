@@ -1,5 +1,5 @@
 export const guideSlug = "best-fabric-id-badge-holders";
-export const guideTitle = "6 Best Fabric ID Badge Holders in 2026";
+export const guideTitle = "Best Fabric ID Badge Holders";
 export const metaTitle = "Best Fabric ID Badge Holders";
 export const metaDescription = "We compared fabric id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "fabric id badge holders";

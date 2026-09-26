@@ -1,5 +1,5 @@
 export const guideSlug = "best-silicone-cord-organizers";
-export const guideTitle = "6 Best Silicone Cord Organizers in 2026";
+export const guideTitle = "Best Silicone Cord Organizers";
 export const metaTitle = "Best Silicone Cord Organizers";
 export const metaDescription = "We compared silicone cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "silicone cord organizers";

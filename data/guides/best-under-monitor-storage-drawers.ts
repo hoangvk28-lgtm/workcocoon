@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-monitor-storage-drawers";
-export const guideTitle = "6 Best Under-Monitor Storage Drawers in 2026";
+export const guideTitle = "Best Under-Monitor Storage Drawers";
 export const metaTitle = "Best Under-Monitor Storage Drawers";
 export const metaDescription = "We compared under-monitor storage drawers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under-monitor storage drawers";

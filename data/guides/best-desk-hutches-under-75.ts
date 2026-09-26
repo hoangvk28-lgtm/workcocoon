@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-hutches-under-75";
-export const guideTitle = "4 Best Desk Hutches Under $75 in 2026";
+export const guideTitle = "Best Desk Hutches Under $75";
 export const metaTitle = "Best Desk Hutches Under $75";
 export const metaDescription = "We compared desk hutches under $75 by outlet access, LED lighting, and monitor clearance, since powered hutches change what you can plug in right at your desk.";
 export const mainKeyword = "best desk hutches under $75";

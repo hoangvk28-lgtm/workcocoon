@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-cable-sleeves";
-export const guideTitle = "6 Best TV Cable Sleeves in 2026";
+export const guideTitle = "Best TV Cable Sleeves";
 export const metaTitle = "Best TV Cable Sleeves";
 export const metaDescription = "We compared tv cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "tv cable sleeves";

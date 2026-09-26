@@ -1,5 +1,5 @@
 export const guideSlug = "best-aesthetic-desk-clocks";
-export const guideTitle = "5 Best Aesthetic Desk Clocks in 2026";
+export const guideTitle = "Best Aesthetic Desk Clocks";
 export const metaTitle = "Best Aesthetic Desk Clocks (2026)";
 export const metaDescription =
   "5 style-focused desk clocks, largely overlapping with our decorative desk clocks guide, organized here around slim mirror-finish and warm wooden design styles specifically.";

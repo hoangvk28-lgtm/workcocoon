@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-fireproof-safes-for-cash";
-export const guideTitle = "8 Best Small Fireproof Safes for Cash in 2026";
+export const guideTitle = "Best Small Fireproof Safes for Cash";
 export const metaTitle = "Best Small Fireproof Safes for Cash 2026";
 export const metaDescription = "We compared small fireproof safes for cash by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "small fireproof safes for cash";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-apple-vr-headsets";
-export const guideTitle = "6 Best Apple VR Headsets in 2026";
+export const guideTitle = "Best Apple VR Headsets";
 export const metaTitle = "Best Apple VR Headsets";
 export const metaDescription = "We compared apple vr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "apple vr headsets";

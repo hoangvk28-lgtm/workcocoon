@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-air-quality-monitors";
-export const guideTitle = "8 Best Budget Air Quality Monitors in 2026";
+export const guideTitle = "Best Budget Air Quality Monitors";
 export const metaTitle = "Best Budget Air Quality Monitors";
 export const metaDescription = "We compared cheap air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "cheap air quality monitor";

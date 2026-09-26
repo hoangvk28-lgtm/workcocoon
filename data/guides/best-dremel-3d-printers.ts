@@ -1,5 +1,5 @@
 export const guideSlug = "best-dremel-3d-printers";
-export const guideTitle = "6 Best Dremel 3D Printers in 2026";
+export const guideTitle = "Best Dremel 3D Printers";
 export const metaTitle = "Best Dremel 3D Printers";
 export const metaDescription = "We compared dremel 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "dremel 3d printers";

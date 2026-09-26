@@ -1,5 +1,5 @@
 export const guideSlug = "best-4-door-office-credenzas";
-export const guideTitle = "8 Best 4 Door Office Credenzas in 2026";
+export const guideTitle = "Best 4 Door Office Credenzas";
 export const metaTitle = "Best 4 Door Office Credenzas 2026";
 export const metaDescription = "We compared 4 door office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "4 door office credenzas";

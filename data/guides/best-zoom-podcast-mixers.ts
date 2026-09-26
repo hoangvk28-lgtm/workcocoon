@@ -1,5 +1,5 @@
 export const guideSlug = "best-zoom-podcast-mixers";
-export const guideTitle = "8 Best Zoom Podcast Mixers in 2026";
+export const guideTitle = "Best Zoom Podcast Mixers";
 export const metaTitle = "Best Zoom Podcast Mixers";
 export const metaDescription = "We compared zoom podcast mixer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "zoom podcast mixer";

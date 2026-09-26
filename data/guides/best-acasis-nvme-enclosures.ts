@@ -1,5 +1,5 @@
 export const guideSlug = "best-acasis-nvme-enclosures";
-export const guideTitle = "5 Best ACASIS NVMe Enclosures in 2026";
+export const guideTitle = "Best ACASIS NVMe Enclosures";
 export const metaTitle = "Best ACASIS NVMe Enclosures in 2026";
 export const metaDescription = "ACASIS sells both fan-cooled and fanless 40Gbps enclosures plus an 80Gbps Thunderbolt 5 line. We mapped the current lineup.";
 export const mainKeyword = "acasis nvme enclosures";

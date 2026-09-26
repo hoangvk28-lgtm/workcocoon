@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-studio-apartment";
-export const guideTitle = "8 Best Room Dividers for Studio Apartments in 2026";
+export const guideTitle = "Best Room Dividers for Studio Apartments";
 export const metaTitle = "Best Room Dividers for Studio Apartments in 2026 (No-Drill Picks)";
 export const metaDescription =
   "8 best room dividers for studio apartments in 2026, from no-drill tension rods to shoji screens. Compare renter-friendly setup, light flow, and storage.";

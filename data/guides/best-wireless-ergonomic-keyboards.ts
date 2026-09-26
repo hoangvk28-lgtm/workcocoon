@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-ergonomic-keyboards";
-export const guideTitle = "7 Best Wireless Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Wireless Ergonomic Keyboards";
 export const metaTitle = "Best Wireless Ergonomic Keyboards 2026";
 export const metaDescription =
   "7 wireless ergonomic keyboards we evaluated for input latency, battery life, and multi-device pairing, with honest notes on split-half battery drain.";

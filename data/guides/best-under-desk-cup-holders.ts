@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-cup-holders";
-export const guideTitle = "5 Best Under-Desk Cup Holders in 2026";
+export const guideTitle = "Best Under-Desk Cup Holders";
 export const metaTitle = "Best Under-Desk Cup Holders (2026)";
 export const metaDescription =
   "5 under-desk cup holders researched for knee clearance impact, retrieval accessibility, and rotation range for this hidden-placement design.";

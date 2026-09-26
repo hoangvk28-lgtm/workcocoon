@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-ssd-enclosure-docks";
-export const guideTitle = "5 Best Thunderbolt 5 SSD Enclosure Docks in 2026";
+export const guideTitle = "Best Thunderbolt 5 SSD Enclosure Docks";
 export const metaTitle = "Best Thunderbolt 5 SSD Docks in 2026";
 export const metaDescription = "These combine NVMe storage with dock functions like displays and Ethernet, all sharing host bandwidth. We tested that tradeoff before ranking.";
 export const mainKeyword = "thunderbolt 5 ssd enclosure docks";

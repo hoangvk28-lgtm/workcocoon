@@ -1,5 +1,5 @@
 export const guideSlug = "best-gray-office-credenzas";
-export const guideTitle = "8 Best Gray Office Credenzas in 2026";
+export const guideTitle = "Best Gray Office Credenzas";
 export const metaTitle = "Best Gray Office Credenzas 2026";
 export const metaDescription = "We compared gray office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "gray office credenzas";

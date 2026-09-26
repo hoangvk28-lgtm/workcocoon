@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-for-candle-jars";
-export const guideTitle = "6 Best Mug Warmers for Candle Jars in 2026";
+export const guideTitle = "Best Mug Warmers for Candle Jars";
 export const metaTitle = "Best Mug Warmers for Candle Jars";
 export const metaDescription = "We compared mug warmers for candle jars models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mug warmers for candle jars";

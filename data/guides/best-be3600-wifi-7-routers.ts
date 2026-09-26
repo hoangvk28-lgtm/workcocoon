@@ -1,5 +1,5 @@
 export const guideSlug = "best-be3600-wifi-7-routers";
-export const guideTitle = "5 Best BE3600 Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best BE3600 Wi-Fi 7 Routers";
 export const metaTitle = "Best BE3600 Wi-Fi 7 Routers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 BE3600 Wi-Fi 7 routers we evaluated, with the tier-honesty check competitors skip: BE3600 sits at the entry tier and typically lacks a 6GHz radio entirely, meaning it inherits the same dual-band-only limitation as budget Wi-Fi 7 branding generally.";

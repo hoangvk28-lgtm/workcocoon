@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-paper-trays";
-export const guideTitle = "6 Best Large Paper Trays in 2026";
+export const guideTitle = "Best Large Paper Trays";
 export const metaTitle = "Best Large Paper Trays";
 export const metaDescription = "We compared large paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "large paper trays";

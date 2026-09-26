@@ -1,5 +1,5 @@
 export const guideSlug = "best-cable-sleeves";
-export const guideTitle = "5 Best Cable Sleeves in 2026";
+export const guideTitle = "Best Cable Sleeves";
 export const metaTitle = "Best Cable Sleeves";
 export const metaDescription = "We compared cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "cable sleeves";

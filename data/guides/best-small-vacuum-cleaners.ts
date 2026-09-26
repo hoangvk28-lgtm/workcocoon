@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-vacuum-cleaners";
-export const guideTitle = "6 Best Small Vacuum Cleaners in 2026";
+export const guideTitle = "Best Small Vacuum Cleaners";
 export const metaTitle = "Best Small Vacuum Cleaners";
 export const metaDescription = "We compared small vacuum cleaners models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "small vacuum cleaners";

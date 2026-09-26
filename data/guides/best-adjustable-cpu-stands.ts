@@ -1,5 +1,5 @@
 export const guideSlug = "best-adjustable-cpu-stands";
-export const guideTitle = "8 Best Adjustable CPU Stands in 2026";
+export const guideTitle = "Best Adjustable CPU Stands";
 export const metaTitle = "Best Adjustable CPU Stands";
 export const metaDescription = "We compared adjustable cpu stand models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "adjustable cpu stand";

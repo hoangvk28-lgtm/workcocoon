@@ -1,5 +1,5 @@
 export const guideSlug = "best-rechargeable-mug-warmers";
-export const guideTitle = "6 Best Rechargeable Mug Warmers in 2026";
+export const guideTitle = "Best Rechargeable Mug Warmers";
 export const metaTitle = "Best Rechargeable Mug Warmers";
 export const metaDescription = "We compared rechargeable mug warmer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "rechargeable mug warmer";

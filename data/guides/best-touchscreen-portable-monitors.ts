@@ -1,5 +1,5 @@
 export const guideSlug = "best-touchscreen-portable-monitors";
-export const guideTitle = "4 Best Touchscreen Portable Monitors in 2026";
+export const guideTitle = "Best Touchscreen Portable Monitors";
 export const metaTitle = "Best Touchscreen Portable Monitors (2026)";
 export const metaDescription =
   "4 touchscreen portable monitors we evaluated, checking genuine 10-point multitouch support and OS driver compatibility, not just the touch label.";

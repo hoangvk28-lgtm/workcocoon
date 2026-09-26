@@ -1,5 +1,5 @@
 export const guideSlug = "best-acoustic-office-booths";
-export const guideTitle = "4 Best Acoustic Office Booths in 2026";
+export const guideTitle = "Best Acoustic Office Booths";
 export const metaTitle = "Best Acoustic Office Booths (2026)";
 export const metaDescription =
   "4 acoustic-panel office booths we evaluated, with a note on how \"acoustic\" and \"soundproof\" overlap in these Amazon listings.";

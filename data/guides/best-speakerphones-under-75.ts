@@ -1,5 +1,5 @@
 export const guideSlug = "best-speakerphones-under-75";
-export const guideTitle = "4 Best Speakerphones Under $75 in 2026";
+export const guideTitle = "Best Speakerphones Under $75";
 export const metaTitle = "Best Speakerphones Under $75";
 export const metaDescription = "We compared speakerphones under $75 by mic pickup range, battery life, and platform certification, since Teams and Zoom certification appear at this tier.";
 export const mainKeyword = "best speakerphones under $75";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-headset-for-work-under-30";
-export const guideTitle = "4 Best Headsets for Work Under $30 in 2026";
+export const guideTitle = "Best Headsets for Work Under $30";
 export const metaTitle = "Best Work Headsets Under $30";
 export const metaDescription = "We compared wired work headsets under $30 by boom mic type and driver size, since these two specs determine call clarity more than the brand name.";
 export const mainKeyword = "headset for work under $30";

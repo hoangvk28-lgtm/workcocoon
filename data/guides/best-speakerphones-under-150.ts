@@ -1,5 +1,5 @@
 export const guideSlug = "best-speakerphones-under-150";
-export const guideTitle = "4 Best Speakerphones Under $150 in 2026";
+export const guideTitle = "Best Speakerphones Under $150";
 export const metaTitle = "Best Speakerphones Under $150";
 export const metaDescription = "We compared speakerphones under $150 by mic radius, daisy chain scale, and battery capacity, since these picks target larger rooms than the tiers below them.";
 export const mainKeyword = "best speakerphones under $150";

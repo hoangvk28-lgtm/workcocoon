@@ -1,5 +1,5 @@
 export const guideSlug = "best-3-gallon-humidifiers";
-export const guideTitle = "8 Best 3-Gallon Humidifiers in 2026";
+export const guideTitle = "Best 3-Gallon Humidifiers";
 export const metaTitle = "Best 3-Gallon Humidifiers";
 export const metaDescription = "We compared 3 gallon humidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "3 gallon humidifier";

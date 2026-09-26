@@ -1,5 +1,5 @@
 export const guideSlug = "best-bluetooth-vertical-mice";
-export const guideTitle = "6 Best Bluetooth Vertical Mice in 2026";
+export const guideTitle = "Best Bluetooth Vertical Mice";
 export const metaTitle = "Best Bluetooth Vertical Mice 2026";
 export const metaDescription =
   "We evaluated 6 Bluetooth vertical mice on multi-device pairing, reconnection speed, and whether Bluetooth latency matters for everyday use.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-corner-desk-extensions-add-ons";
-export const guideTitle = "8 Best Corner Desk Extensions/Add-Ons in 2026";
+export const guideTitle = "Best Corner Desk Extensions/Add-Ons";
 export const metaTitle = "Best Corner Desk Extensions/Add-Ons";
 export const metaDescription = "We compared corner desk extension models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk extension";

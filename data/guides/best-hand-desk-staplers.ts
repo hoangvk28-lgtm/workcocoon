@@ -1,5 +1,5 @@
 export const guideSlug = "best-hand-desk-staplers";
-export const guideTitle = "6 Best Hand Desk Staplers in 2026";
+export const guideTitle = "Best Hand Desk Staplers";
 export const metaTitle = "Best Hand Desk Staplers";
 export const metaDescription = "We compared hand desk staplers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "hand desk staplers";

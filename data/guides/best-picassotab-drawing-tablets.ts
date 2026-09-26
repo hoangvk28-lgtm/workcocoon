@@ -1,5 +1,5 @@
 export const guideSlug = "best-picassotab-drawing-tablets";
-export const guideTitle = "4 Best PicassoTab Drawing Tablets in 2026";
+export const guideTitle = "Best PicassoTab Drawing Tablets";
 export const metaTitle = "Best PicassoTab Drawing Tablets 2026";
 export const metaDescription = "We compared picassotab drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "picassotab drawing tablets";

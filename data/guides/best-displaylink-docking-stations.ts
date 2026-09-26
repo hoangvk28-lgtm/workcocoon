@@ -1,5 +1,5 @@
 export const guideSlug = "best-displaylink-docking-stations";
-export const guideTitle = "7 Best DisplayLink Docking Stations in 2026";
+export const guideTitle = "Best DisplayLink Docking Stations for Driving Extra Monitors";
 export const metaTitle = "Best DisplayLink Docking Stations in 2026 (vs Native TB4)";
 export const metaDescription =
   "7 best DisplayLink docking stations in 2026 for driving extra monitors on laptops that can't natively support them, plus when native Thunderbolt is the better call.";

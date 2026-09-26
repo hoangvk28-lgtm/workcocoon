@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-portable-ssds";
-export const guideTitle = "5 Best Waterproof Portable SSDs in 2026";
+export const guideTitle = "Best Waterproof Portable SSDs";
 export const metaTitle = "Best Waterproof Portable SSDs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 waterproof portable SSDs we evaluated, with the port-seal-integrity check competitors skip: 'waterproof' should be distinguished from 'water-resistant' with an actual rated IP68 depth/duration, and port covers are often the real failure point.";

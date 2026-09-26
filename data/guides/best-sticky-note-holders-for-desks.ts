@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-holders-for-desks";
-export const guideTitle = "6 Best Sticky Note Holders for Desks in 2026";
+export const guideTitle = "Best Sticky Note Holders for Desks";
 export const metaTitle = "Best Sticky Note Holders for Desks";
 export const metaDescription = "We compared sticky note holders for desks models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "sticky note holders for desks";

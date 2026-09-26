@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-android-phones";
-export const guideTitle = "7 Best USB-C Ethernet Adapters for Android Phones";
+export const guideTitle = "Best USB-C Ethernet Adapters for Android Phones";
 export const metaTitle = "Best Ethernet Adapters for Android Phones";
 export const metaDescription = "Android compatibility depends on host USB mode and driver support, not just the USB-C connector. We built a verified compatibility comparison.";
 export const mainKeyword = "usb-c ethernet adapters for android phones";

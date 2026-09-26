@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-air-quality-monitors";
-export const guideTitle = "8 Best USB Air Quality Monitors in 2026";
+export const guideTitle = "Best USB Air Quality Monitors";
 export const metaTitle = "Best USB Air Quality Monitors";
 export const metaDescription = "We compared usb air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "usb air quality monitor";

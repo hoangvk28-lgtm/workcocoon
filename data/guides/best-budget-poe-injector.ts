@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-poe-injector";
-export const guideTitle = "4 Best Budget PoE Injectors in 2026";
+export const guideTitle = "Best Budget PoE Injectors";
 export const metaTitle = "Best Budget PoE Injectors";
 export const metaDescription = "We compared budget PoE injectors under $17 by real port speed and safety certification, since Gigabit speed and UL/CE/FCC marks vary at similar prices.";
 export const mainKeyword = "best budget poe injector";

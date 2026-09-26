@@ -1,5 +1,5 @@
 export const guideSlug = "best-acoustic-desk-hoods";
-export const guideTitle = "3 Best Acoustic Desk Hood Alternatives in 2026";
+export const guideTitle = "Best Acoustic Desk Hood Alternatives";
 export const metaTitle = "Best Acoustic Desk Hood Alternatives (2026)";
 export const metaDescription =
   "We researched acoustic desk hoods and found no genuine hood-style canopy listings on Amazon, here are 3 flat acoustic panels worth considering instead.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-14-inch-laptop-screen-extenders";
-export const guideTitle = "5 Best 14-Inch Laptop Screen Extenders in 2026";
+export const guideTitle = "Best 14-Inch Laptop Screen Extenders";
 export const metaTitle = "Best 14-Inch Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 14-inch laptop screen extenders we evaluated, with the resolution-versus-size interaction competitors skip: 14-inch panels commonly ship at 1080P, meaning pixel density is genuinely higher than a similarly resolved larger 15.6-inch panel.";

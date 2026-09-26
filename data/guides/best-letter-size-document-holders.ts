@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-size-document-holders";
-export const guideTitle = "8 Best Letter-Size Document Holders in 2026";
+export const guideTitle = "Best Letter-Size Document Holders";
 export const metaTitle = "Best Letter-Size Document Holders";
 export const metaDescription = "We compared document holder letter size models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "document holder letter size";

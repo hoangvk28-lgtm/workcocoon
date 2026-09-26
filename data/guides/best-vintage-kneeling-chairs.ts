@@ -1,5 +1,5 @@
 export const guideSlug = "best-vintage-kneeling-chairs";
-export const guideTitle = "8 Best Vintage Kneeling Chairs in 2026";
+export const guideTitle = "Best Vintage Kneeling Chairs";
 export const metaTitle = "Best Vintage Kneeling Chairs";
 export const metaDescription = "We compared antique kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "antique kneeling chair";

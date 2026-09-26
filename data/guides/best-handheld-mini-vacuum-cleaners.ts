@@ -1,5 +1,5 @@
 export const guideSlug = "best-handheld-mini-vacuum-cleaners";
-export const guideTitle = "8 Best Handheld Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best Handheld Mini Vacuum Cleaners";
 export const metaTitle = "Best Handheld Mini Vacuum Cleaners";
 export const metaDescription = "We compared handheld mini vacuum cleaner models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "handheld mini vacuum cleaner";

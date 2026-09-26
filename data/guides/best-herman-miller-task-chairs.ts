@@ -1,5 +1,5 @@
 export const guideSlug = "best-herman-miller-task-chairs";
-export const guideTitle = "6 Best Herman Miller Task Chairs in 2026";
+export const guideTitle = "Best Herman Miller Task Chairs";
 export const metaTitle = "Best Herman Miller Task Chairs";
 export const metaDescription = "We compared task chair herman miller models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "task chair herman miller";

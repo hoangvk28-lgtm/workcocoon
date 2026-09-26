@@ -1,5 +1,5 @@
 export const guideSlug = "best-locking-filing-cabinets";
-export const guideTitle = "8 Best Locking Filing Cabinets in 2026";
+export const guideTitle = "Best Locking Filing Cabinets";
 export const metaTitle = "Best Locking Filing Cabinets in 2026 (Honest Picks)";
 export const metaDescription =
   "8 locking filing cabinets we evaluated for home offices, with an honest look at which listings confirm a lock, what cam locks actually protect, and how to choose by drawer count.";

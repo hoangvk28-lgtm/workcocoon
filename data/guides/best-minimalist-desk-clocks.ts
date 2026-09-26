@@ -1,5 +1,5 @@
 export const guideSlug = "best-minimalist-desk-clocks";
-export const guideTitle = "3 Best Minimalist Desk Clocks in 2026";
+export const guideTitle = "Best Minimalist Desk Clocks";
 export const metaTitle = "Best Minimalist Desk Clocks (2026)";
 export const metaDescription =
   "3 clean-looking desk clocks compared for uncluttered design, from a plain analog dial to LED displays without busy buttons or clashing colors.";

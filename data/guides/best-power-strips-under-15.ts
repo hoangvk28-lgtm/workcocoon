@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-strips-under-15";
-export const guideTitle = "4 Best Power Strips Under $15 in 2026";
+export const guideTitle = "Best Power Strips Under $15";
 export const metaTitle = "Best Power Strips Under $15";
 export const metaDescription = "We compared power strips under $15 by outlet count, USB charging speed, and joule rating, since real specs vary widely even at this entry-level price.";
 export const mainKeyword = "best power strips under $15";

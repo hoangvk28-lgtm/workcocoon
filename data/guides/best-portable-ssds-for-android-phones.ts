@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-android-phones";
-export const guideTitle = "4 Best Portable SSDs for Android Phones in 2026";
+export const guideTitle = "Best Portable SSDs for Android Phones";
 export const metaTitle = "Best Portable SSDs for Android Phones";
 export const metaDescription = "4 portable SSDs we evaluated for Android use, covering exFAT compatibility, OTG power delivery variance, and adoptable storage support.";
 export const mainKeyword = "best portable ssd for android";

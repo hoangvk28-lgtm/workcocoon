@@ -1,5 +1,5 @@
 export const guideSlug = "best-yale-fireproof-safes";
-export const guideTitle = "8 Best Yale Fireproof Safes in 2026";
+export const guideTitle = "Best Yale Fireproof Safes";
 export const metaTitle = "Best Yale Fireproof Safes 2026";
 export const metaDescription = "We compared yale fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "yale fireproof safes";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-drawing-tablets";
-export const guideTitle = "5 Best 4K Drawing Tablets in 2026";
+export const guideTitle = "Best 4K Drawing Tablets";
 export const metaTitle = "Best 4K Drawing Tablets 2026";
 export const metaDescription = "We compared 4k drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "4k drawing tablets";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-bathrooms";
-export const guideTitle = "8 Best Dehumidifiers for Bathrooms in 2026";
+export const guideTitle = "Best Dehumidifiers for Bathrooms";
 export const metaTitle = "Best Dehumidifiers for Bathrooms";
 export const metaDescription = "We compared dehumidifier bathroom models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier bathroom";

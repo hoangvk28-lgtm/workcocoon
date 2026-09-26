@@ -1,5 +1,5 @@
 export const guideSlug = "best-osee-video-switchers";
-export const guideTitle = "8 Best OSEE Video Switchers in 2026";
+export const guideTitle = "Best OSEE Video Switchers";
 export const metaTitle = "Best OSEE Video Switchers";
 export const metaDescription = "We compared osee video switcher models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "osee video switcher";

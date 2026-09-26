@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-cord-organizers";
-export const guideTitle = "6 Best Portable Cord Organizers in 2026";
+export const guideTitle = "Best Portable Cord Organizers";
 export const metaTitle = "Best Portable Cord Organizers";
 export const metaDescription = "We compared portable cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "portable cord organizers";

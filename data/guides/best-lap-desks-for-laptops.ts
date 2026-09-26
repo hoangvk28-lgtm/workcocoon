@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-lap-desks-for-laptops";
 
 export const guideSlug = "best-lap-desks-for-laptops";
-export const guideTitle = "8 Best Lap Desks for Laptops (2026)";
+export const guideTitle = "Best Lap Desks for Laptops (2026)";
 export const metaTitle = "Best Lap Desks for Laptops 2026";
 export const metaDescription =
   "Best lap desks for laptops in 2026. Hard-surface cushion boards, integrated mouse pads, adjustable height and angle models ranked by buyer rating.";

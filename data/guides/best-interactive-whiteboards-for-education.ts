@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-education";
-export const guideTitle = "8 Best Interactive Whiteboards for Education";
+export const guideTitle = "Best Interactive Whiteboards for Education";
 export const metaTitle = "Best Education Interactive Whiteboards";
 export const metaDescription = "We used Education as the broad institutional hub, separating K-12 and higher-ed scenarios and comparing device management for fleet deployment.";
 export const mainKeyword = "education interactive whiteboard";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-0-2mm-3d-printer-nozzles";
-export const guideTitle = "6 Best 0.2mm 3D Printer Nozzles in 2026";
+export const guideTitle = "Best 0.2mm 3D Printer Nozzles";
 export const metaTitle = "Best 0.2mm 3D Printer Nozzles";
 export const metaDescription = "We compared 0.2mm 3d printer nozzles models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "0.2mm 3d printer nozzles";

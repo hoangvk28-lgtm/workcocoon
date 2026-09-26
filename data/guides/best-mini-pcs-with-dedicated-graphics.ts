@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-dedicated-graphics";
-export const guideTitle = "5 Best Mini PCs with Dedicated Graphics in 2026";
+export const guideTitle = "Best Mini PCs with Dedicated Graphics";
 export const metaTitle = "Best Mini PCs with Dedicated Graphics";
 export const metaDescription =
   "5 mini PCs with dedicated graphics we evaluated, clarifying which have a genuine discrete GPU versus just strong integrated graphics.";

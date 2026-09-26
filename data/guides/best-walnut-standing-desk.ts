@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-walnut-standing-desk";
 
 export const guideSlug = "best-walnut-standing-desk";
-export const guideTitle = "8 Best Walnut Standing Desks in 2026";
+export const guideTitle = "Best Walnut Standing Desks";
 export const metaTitle = "Best Walnut Standing Desks 2026, Black Walnut Electric Picks";
 export const metaDescription =
   "Best walnut standing desks in 2026. Black, dark, and special walnut electric sit-stand desks with drawer storage and L-shaped options ranked by build quality.";

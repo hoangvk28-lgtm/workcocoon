@@ -1,5 +1,5 @@
 export const guideSlug = "best-joan-meeting-room-schedulers";
-export const guideTitle = "7 Best Joan Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Joan Meeting Room Schedulers";
 export const metaTitle = "Best Joan Meeting Room Schedulers";
 export const metaDescription = "We compared joan meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "joan meeting room scheduler";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-floating-shelves";
-export const guideTitle = "6 Best Heavy-Duty Floating Shelves in 2026";
+export const guideTitle = "Best Heavy-Duty Floating Shelves";
 export const metaTitle = "Best Heavy-Duty Floating Shelves";
 export const metaDescription = "We compared floating shelf brackets heavy duty models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "floating shelf brackets heavy duty";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-travel-router-with-vpn";
-export const guideTitle = "4 Best Travel Routers with VPN in 2026";
+export const guideTitle = "Best Travel Routers with VPN";
 export const metaTitle = "Best Travel Routers with VPN";
 export const metaDescription = "We compared travel routers with VPN by real throughput and features, since stated OpenVPN speeds range from 28 Mbps to 300 Mbps across similarly priced picks.";
 export const mainKeyword = "best travel router with vpn";

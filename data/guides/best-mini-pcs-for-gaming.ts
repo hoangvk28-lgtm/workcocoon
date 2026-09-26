@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-gaming";
-export const guideTitle = "5 Best Mini PCs for Gaming in 2026";
+export const guideTitle = "Best Mini PCs for Gaming";
 export const metaTitle = "Best Mini PCs for Gaming, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 mini PCs for gaming we evaluated, with an honest note that integrated graphics on even the best mini PCs remain meaningfully behind a dedicated gaming desktop GPU, set realistic expectations before buying.";

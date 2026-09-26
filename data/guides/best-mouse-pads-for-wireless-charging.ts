@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-for-wireless-charging";
-export const guideTitle = "8 Best Mouse Pads for Wireless Charging in 2026";
+export const guideTitle = "Best Mouse Pads for Wireless Charging";
 export const metaTitle = "Best Mouse Pads for Wireless Charging";
 export const metaDescription = "We compared mouse pad wireless charging models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mouse pad wireless charging";

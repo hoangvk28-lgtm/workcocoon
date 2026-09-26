@@ -1,5 +1,5 @@
 export const guideSlug = "best-vesa-mounted-monitor-shelves";
-export const guideTitle = "4 Best VESA-Mounted Monitor Shelves in 2026";
+export const guideTitle = "Best VESA-Mounted Monitor Shelves";
 export const metaTitle = "Best VESA-Mounted Monitor Shelves (2026)";
 export const metaDescription =
   "4 VESA-mounted monitor shelves we evaluated for screw pattern matching, conflicts with monitor arms, and combined weight against the arm's own rating.";

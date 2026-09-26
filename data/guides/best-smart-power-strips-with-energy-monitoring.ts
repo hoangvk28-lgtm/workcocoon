@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-power-strips-with-energy-monitoring";
-export const guideTitle = "5 Best Smart Power Strips with Energy Monitoring in 2026";
+export const guideTitle = "Best Smart Power Strips with Energy Monitoring";
 export const metaTitle = "Best Smart Power Strips with Energy Monitoring, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 smart power strips we evaluated for energy monitoring, with the granularity distinction competitors blur: per-outlet monitoring tells you which device is responsible, whole-strip aggregate monitoring only tells you total draw.";

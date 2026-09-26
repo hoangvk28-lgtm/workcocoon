@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-keychain-power-banks";
-export const guideTitle = "5 Best Mini/Keychain Power Banks in 2026";
+export const guideTitle = "Best Mini/Keychain Power Banks";
 export const metaTitle = "Best Mini/Keychain Power Banks";
 export const metaDescription = "We compared power bank keychain models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank keychain";

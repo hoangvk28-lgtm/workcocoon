@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-credenzas-for-printers";
-export const guideTitle = "8 Best Office Credenzas for Printers in 2026";
+export const guideTitle = "Best Office Credenzas for Printers";
 export const metaTitle = "Best Office Credenzas for Printers 2026";
 export const metaDescription = "We compared office credenzas for printers by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "office credenzas for printers";

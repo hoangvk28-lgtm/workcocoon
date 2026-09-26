@@ -1,5 +1,5 @@
 export const guideSlug = "best-xlr-audio-interfaces-under-200";
-export const guideTitle = "4 Best XLR Audio Interfaces Under $200 in 2026";
+export const guideTitle = "Best XLR Audio Interfaces Under $200";
 export const metaTitle = "Best XLR Audio Interfaces Under $200";
 export const metaDescription = "We compared XLR audio interfaces under $200 by preamp gain, converter quality, and monitoring controls, since studio-grade specs begin here.";
 export const mainKeyword = "best xlr audio interfaces under $200";

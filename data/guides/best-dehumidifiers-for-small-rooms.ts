@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-small-rooms";
-export const guideTitle = "8 Best Dehumidifiers for Small Rooms in 2026";
+export const guideTitle = "Best Dehumidifiers for Small Rooms";
 export const metaTitle = "Best Dehumidifiers for Small Rooms";
 export const metaDescription = "We compared small room dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "small room dehumidifier";

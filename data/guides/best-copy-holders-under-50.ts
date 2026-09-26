@@ -1,5 +1,5 @@
 export const guideSlug = "best-copy-holders-under-50";
-export const guideTitle = "6 Best Copy Holders Under $50 in 2026";
+export const guideTitle = "Best Copy Holders Under $50";
 export const metaTitle = "Best Copy Holders Under $50";
 export const metaDescription = "We compared copy holders under $50 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "copy holders under $50";

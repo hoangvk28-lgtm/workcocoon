@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboard-and-mouse-combos";
-export const guideTitle = "8 Best Mechanical Keyboard and Mouse Combos in 2026";
+export const guideTitle = "Best Mechanical Keyboard and Mouse Combos, Honestly Labeled";
 export const metaTitle = "Best Mechanical Keyboard and Mouse Combos in 2026 (Honest Picks)";
 export const metaDescription =
   "8 keyboard and mouse combos in 2026, reviewed honestly on which use real mechanical switches and which are membrane keyboards sold under generic combo branding.";

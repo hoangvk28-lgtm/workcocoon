@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-keyboard-tray-drawers";
-export const guideTitle = "8 Best Under-Desk Keyboard Tray Drawers in 2026";
+export const guideTitle = "Best Under-Desk Keyboard Tray Drawers";
 export const metaTitle = "Best Under-Desk Keyboard Tray Drawers";
 export const metaDescription = "We compared under desk drawer keyboard tray models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under desk drawer keyboard tray";

@@ -1,5 +1,5 @@
 export const guideSlug = "most-accurate-air-quality-monitors";
-export const guideTitle = "8 Best Most Accurate Air Quality Monitors in 2026";
+export const guideTitle = "Best Most Accurate Air Quality Monitors";
 export const metaTitle = "Best Most Accurate Air Quality Monitors";
 export const metaDescription = "We compared most accurate air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "most accurate air quality monitor";

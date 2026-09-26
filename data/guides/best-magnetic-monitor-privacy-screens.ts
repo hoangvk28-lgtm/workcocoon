@@ -1,5 +1,5 @@
 export const guideSlug = "best-magnetic-monitor-privacy-screens";
-export const guideTitle = "6 Best Magnetic Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Magnetic Monitor Privacy Screens";
 export const metaTitle = "Best Magnetic Monitor Privacy Screens (2026)";
 export const metaDescription =
   "6 magnetic privacy filters compared on mount type, bezel compatibility, and frameless-monitor support, since not all magnetic designs attach the same way.";

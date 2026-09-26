@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-monitors-for-eye-strain";
-export const guideTitle = "6 Best 4K Monitors for Eye Strain in 2026";
+export const guideTitle = "Best 4K Monitors for Eye Strain";
 export const metaTitle = "Best 4K Monitors for Eye Strain";
 export const metaDescription = "We compared 4k monitors for eye strain models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "4k monitors for eye strain";

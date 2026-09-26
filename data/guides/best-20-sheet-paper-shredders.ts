@@ -1,5 +1,5 @@
 export const guideSlug = "best-20-sheet-paper-shredders";
-export const guideTitle = "8 Best 20-Sheet Paper Shredders in 2026";
+export const guideTitle = "Best 20-Sheet Paper Shredders";
 export const metaTitle = "Best 20-Sheet Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders we evaluated near the 20-sheet capacity tier, with an honest note that models labeled similarly at this level can have wildly different daily volume ratings between them.";

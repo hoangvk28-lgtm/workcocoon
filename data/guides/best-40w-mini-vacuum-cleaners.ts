@@ -1,5 +1,5 @@
 export const guideSlug = "best-40w-mini-vacuum-cleaners";
-export const guideTitle = "6 Best 40W Mini Vacuum Cleaners in 2026";
+export const guideTitle = "Best 40W Mini Vacuum Cleaners";
 export const metaTitle = "Best 40W Mini Vacuum Cleaners";
 export const metaDescription = "We compared 40w mini vacuum cleaners models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "40w mini vacuum cleaners";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-combination-small-safes";
-export const guideTitle = "8 Best Combination Small Safes in 2026";
+export const guideTitle = "Best Combination Small Safes";
 export const metaTitle = "Best Combination Small Safes (2026)";
 export const metaDescription =
   "8 safes compared with true mechanical combination locks separated from digital keypad designs, since only 3 of our confirmed picks use a genuine mechanical dial.";

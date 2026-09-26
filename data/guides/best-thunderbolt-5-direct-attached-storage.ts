@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-direct-attached-storage";
-export const guideTitle = "5 Best Thunderbolt 5 Direct-Attached Storage";
+export const guideTitle = "Best Thunderbolt 5 Direct-Attached Storage";
 export const metaTitle = "Best Thunderbolt 5 DAS Storage";
 export const metaDescription = "Thunderbolt 5 DAS is now commercially real at 80Gbps. We verified genuine TB5 host requirements and documented sustained speed.";
 export const mainKeyword = "thunderbolt 5 direct-attached storage";

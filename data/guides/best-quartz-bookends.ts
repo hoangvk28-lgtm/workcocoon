@@ -1,5 +1,5 @@
 export const guideSlug = "best-quartz-bookends";
-export const guideTitle = "6 Best Quartz Bookends in 2026";
+export const guideTitle = "Best Quartz Bookends";
 export const metaTitle = "Best Quartz Bookends";
 export const metaDescription = "We compared quartz bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "quartz bookends";

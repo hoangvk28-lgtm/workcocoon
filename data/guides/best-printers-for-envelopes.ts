@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-envelopes";
-export const guideTitle = "8 Best Printers for Envelopes in 2026";
+export const guideTitle = "Best Printers for Envelopes";
 export const metaTitle = "Best Printers for Envelopes in 2026 (Jam-Free Picks)";
 export const metaDescription =
   "8 best printers for envelopes in 2026 for business mail and invitations. Compare envelope size support, loading orientation, and jam-prone feed paths.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-murphy-beds-for-small-spaces";
-export const guideTitle = "8 Best Murphy Beds for Small Spaces in 2026";
+export const guideTitle = "Best Murphy Beds for Small Spaces";
 export const metaTitle = "Best Murphy Beds for Small Spaces in 2026 (Ceiling Height Guide)";
 export const metaDescription =
   "8 murphy beds for small spaces compared on vertical vs horizontal ceiling clearance, room depth needs, door swing conflicts, and wall anchoring requirements.";

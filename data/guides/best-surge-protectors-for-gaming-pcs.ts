@@ -1,5 +1,5 @@
 export const guideSlug = "best-surge-protectors-for-gaming-pcs";
-export const guideTitle = "5 Best Surge Protectors for Gaming PCs in 2026";
+export const guideTitle = "Best Surge Protectors for a Gaming PC";
 export const metaTitle = "Best Surge Protectors for Gaming PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 surge protectors we evaluated for gaming PCs, with the calculation competitors rarely perform: high-wattage gaming PC power supplies draw close to what a standard 15A circuit can safely deliver combined with monitors and peripherals.";

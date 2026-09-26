@@ -1,5 +1,5 @@
 export const guideSlug = "best-kneeling-chairs-with-wheels";
-export const guideTitle = "8 Best Kneeling Chairs With Wheels in 2026";
+export const guideTitle = "Best Kneeling Chairs With Wheels";
 export const metaTitle = "Best Kneeling Chairs With Wheels";
 export const metaDescription = "We compared kneeling chair on wheels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "kneeling chair on wheels";

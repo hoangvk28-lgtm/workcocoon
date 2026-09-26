@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-backups";
-export const guideTitle = "5 Best Portable SSDs for Backups in 2026";
+export const guideTitle = "Best Portable SSDs for Backups";
 export const metaTitle = "Best Portable SSDs for Backups, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable SSDs we evaluated for backups, with the 3-2-1 framework competitors skip: a single portable SSD is one piece of a genuine backup strategy, not a complete standalone solution, and endurance matters more than peak speed here.";

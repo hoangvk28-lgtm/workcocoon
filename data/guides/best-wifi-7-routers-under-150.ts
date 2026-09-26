@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-under-150";
-export const guideTitle = "4 Best WiFi 7 Routers Under $150 in 2026";
+export const guideTitle = "Best WiFi 7 Routers Under $150";
 export const metaTitle = "Best WiFi 7 Routers Under $150";
 export const metaDescription = "We compared WiFi 7 routers under $150 by real Mbps speed figures, WAN port speed, and coverage claims, not just the marketing band name.";
 export const mainKeyword = "best wifi 7 routers under $150";

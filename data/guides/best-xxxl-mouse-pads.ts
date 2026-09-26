@@ -1,5 +1,5 @@
 export const guideSlug = "best-xxxl-mouse-pads";
-export const guideTitle = "8 Best XXXL Mouse Pads in 2026";
+export const guideTitle = "Best XXXL Mouse Pads";
 export const metaTitle = "Best XXXL Mouse Pads";
 export const metaDescription = "We compared mouse pad xxxl models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad xxxl";

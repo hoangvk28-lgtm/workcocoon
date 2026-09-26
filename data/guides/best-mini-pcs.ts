@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs";
-export const guideTitle = "5 Best Mini PCs in 2026";
+export const guideTitle = "Best Mini PCs";
 export const metaTitle = "Best Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 mini PCs we evaluated, with a note that a mini PC's soldered RAM and storage on some budget models means no future upgrade path, worth checking whether RAM and SSD are user-replaceable before buying.";

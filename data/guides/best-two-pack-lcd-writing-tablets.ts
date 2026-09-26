@@ -1,5 +1,5 @@
 export const guideSlug = "best-two-pack-lcd-writing-tablets";
-export const guideTitle = "4 Best Two-Pack LCD Writing Tablets in 2026";
+export const guideTitle = "Best Two-Pack LCD Writing Tablets";
 export const metaTitle = "Best Two-Pack LCD Writing Tablets (2026)";
 export const metaDescription =
   "4 genuinely two-pack LCD writing tablets we evaluated, verified pack size against listing titles rather than including multi-packs of other counts.";

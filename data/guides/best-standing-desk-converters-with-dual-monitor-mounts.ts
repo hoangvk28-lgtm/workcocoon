@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-with-dual-monitor-mounts";
-export const guideTitle = "6 Best Standing Desk Converters with Dual Monitor Mounts";
+export const guideTitle = "Best Standing Desk Converters with Dual Monitor Mounts";
 export const metaTitle = "Best Converters with Dual Monitor Mounts (2026)";
 export const metaDescription =
   "6 standing desk converters with a genuine dual-monitor arm system compared on independent screen positioning, VESA fit, and load capacity.";

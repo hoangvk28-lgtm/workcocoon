@@ -1,5 +1,5 @@
 export const guideSlug = "best-gigabyte-4k-monitors";
-export const guideTitle = "6 Best Gigabyte 4K Monitors in 2026";
+export const guideTitle = "Best Gigabyte 4K Monitors";
 export const metaTitle = "Best Gigabyte 4K Monitors";
 export const metaDescription = "We compared gigabyte 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "gigabyte 4k monitors";

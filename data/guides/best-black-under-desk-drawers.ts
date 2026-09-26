@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-under-desk-drawers";
-export const guideTitle = "8 Best Black Under-Desk Drawers in 2026";
+export const guideTitle = "Best Black Under-Desk Drawers";
 export const metaTitle = "Best Black Under-Desk Drawers";
 export const metaDescription = "We compared under desk drawer black models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "under desk drawer black";

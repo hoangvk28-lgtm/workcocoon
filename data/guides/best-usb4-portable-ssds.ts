@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb4-portable-ssds";
-export const guideTitle = "5 Best USB4 Portable SSDs in 2026";
+export const guideTitle = "Best USB4 Portable SSDs";
 export const metaTitle = "Best USB4 Portable SSDs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB4 portable SSDs we evaluated, with the feature-tier verification competitors skip: USB4 includes multiple optional capability tiers (Thunderbolt 3 backward compatibility, 40Gbps vs 20Gbps mode) that aren't uniformly implemented across drives.";

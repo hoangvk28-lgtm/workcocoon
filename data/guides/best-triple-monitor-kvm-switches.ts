@@ -1,5 +1,5 @@
 export const guideSlug = "best-triple-monitor-kvm-switches";
-export const guideTitle = "5 Best Triple-Monitor KVM Switches in 2026";
+export const guideTitle = "Best Triple-Monitor KVM Switches";
 export const metaTitle = "Best Triple-Monitor KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 triple-monitor KVM switches we evaluated, with a note that three simultaneous 4K signals demand meaningfully more total bandwidth than the sum of three separate single-monitor switches might suggest.";

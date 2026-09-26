@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fans-with-timer";
-export const guideTitle = "8 Best Desk Fans With Timer in 2026";
+export const guideTitle = "Best Desk Fans With Timer";
 export const metaTitle = "Best Desk Fans With Timer";
 export const metaDescription = "We compared desk fan timer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan timer";

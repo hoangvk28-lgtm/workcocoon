@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-for-camping";
-export const guideTitle = "8 Best Power Banks for Camping in 2026";
+export const guideTitle = "Best Power Banks for Camping";
 export const metaTitle = "Best Power Banks for Camping";
 export const metaDescription = "We compared power bank for camping models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power bank for camping";

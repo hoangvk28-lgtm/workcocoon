@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-dell-laptops";
-export const guideTitle = "8 Best Docking Stations for Dell Laptops in 2026";
+export const guideTitle = "Best Docking Stations for Dell Laptops";
 export const metaTitle = "Best Docking Stations for Dell Laptops in 2026 (OEM & Third-Party)";
 export const metaDescription =
   "8 best docking stations for Dell laptops in 2026, from the Dell SD25TB4 Pro to budget third-party hubs. Compare power delivery, displays, and price.";

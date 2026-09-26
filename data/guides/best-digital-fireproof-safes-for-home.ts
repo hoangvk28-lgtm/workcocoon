@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-fireproof-safes-for-home";
-export const guideTitle = "8 Best Digital Fireproof Safes for Home in 2026";
+export const guideTitle = "Best Digital Fireproof Safes for Home";
 export const metaTitle = "Best Digital Fireproof Safes for Home 2026";
 export const metaDescription = "We compared digital fireproof safes for home by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "digital fireproof safes for home";

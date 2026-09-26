@@ -1,5 +1,5 @@
 export const guideSlug = "best-sfp-network-switches";
-export const guideTitle = "6 Best SFP Network Switches in 2026";
+export const guideTitle = "Best SFP Network Switches";
 export const metaTitle = "Best SFP Network Switches in 2026";
 export const metaDescription = "SFP switches add fiber uplink flexibility for longer runs or backbone connections. We compared the current lineup by port mix and speed.";
 export const mainKeyword = "sfp network switches";

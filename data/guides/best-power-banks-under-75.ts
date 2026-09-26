@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-banks-under-75";
-export const guideTitle = "7 Best Power Banks Under $75 in 2026";
+export const guideTitle = "Best Power Banks Under $75";
 export const metaTitle = "Best Power Banks Under $75";
 export const metaDescription = "We compared power bank price models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank price";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tri-band-wifi-7-routers";
-export const guideTitle = "4 Best Tri-Band Wi-Fi 7 Routers in 2026";
+export const guideTitle = "Best Tri-Band Wi-Fi 7 Routers";
 export const metaTitle = "Best Tri-Band Wi-Fi 7 Routers (2026)";
 export const metaDescription =
   "4 genuine tri-band Wi-Fi 7 routers we evaluated with real 6GHz radios, decoding adjacent model numbers and checking matched multi-gig LAN ports.";

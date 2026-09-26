@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-bed-frame";
-export const guideTitle = "8 Best Bookshelf Bed Frames in 2026";
+export const guideTitle = "Best Bookshelf Bed Frames";
 export const metaTitle = "Best Bookshelf Bed Frames in 2026 (Storage Headboards)";
 export const metaDescription =
   "8 best bookshelf bed frames in 2026 with integrated storage headboards, LED lighting, and built-in charging, all platform beds that need no box spring.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-dehumidifiers-for-rvs";
-export const guideTitle = "8 Best Dehumidifiers for RVs in 2026";
+export const guideTitle = "Best Dehumidifiers for RVs";
 export const metaTitle = "Best Dehumidifiers for RVs";
 export const metaDescription = "We compared rv dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "rv dehumidifier";

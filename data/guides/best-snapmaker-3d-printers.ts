@@ -1,5 +1,5 @@
 export const guideSlug = "best-snapmaker-3d-printers";
-export const guideTitle = "6 Best Snapmaker 3D Printers in 2026";
+export const guideTitle = "Best Snapmaker 3D Printers";
 export const metaTitle = "Best Snapmaker 3D Printers";
 export const metaDescription = "We compared snapmaker 3d printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "snapmaker 3d printers";

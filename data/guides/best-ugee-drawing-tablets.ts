@@ -1,5 +1,5 @@
 export const guideSlug = "best-ugee-drawing-tablets";
-export const guideTitle = "6 Best UGEE Drawing Tablets in 2026";
+export const guideTitle = "Best UGEE Drawing Tablets";
 export const metaTitle = "Best UGEE Drawing Tablets 2026";
 export const metaDescription = "We compared ugee drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "ugee drawing tablets";

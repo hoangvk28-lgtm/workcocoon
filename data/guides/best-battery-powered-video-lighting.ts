@@ -1,5 +1,5 @@
 export const guideSlug = "best-battery-powered-video-lighting";
-export const guideTitle = "5 Best Battery-Powered Video Lighting in 2026";
+export const guideTitle = "Best Battery-Powered Video Lighting";
 export const metaTitle = "Best Battery-Powered Video Lighting, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 battery-powered video lights we evaluated, with the runtime-at-brightness math competitors skip: a light's stated battery life is usually measured at a low brightness setting, real runtime at full brightness is shorter.";

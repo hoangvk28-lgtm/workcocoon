@@ -1,5 +1,5 @@
 export const guideSlug = "best-photo-printers-for-home-use";
-export const guideTitle = "8 Best Photo Printers for Home Use in 2026";
+export const guideTitle = "Best Photo Printers for Home Use";
 export const metaTitle = "Best Photo Printers for Home Use in 2026 (Cost & Quality)";
 export const metaDescription =
   "8 best photo printers for home use in 2026. Compare true cost per photo print, color accuracy, and archival fade resistance for keepsake prints.";

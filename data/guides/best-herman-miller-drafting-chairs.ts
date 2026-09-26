@@ -1,5 +1,5 @@
 export const guideSlug = "best-herman-miller-drafting-chairs";
-export const guideTitle = "8 Best Herman Miller Drafting Chairs in 2026";
+export const guideTitle = "Best Herman Miller Drafting Chairs";
 export const metaTitle = "Best Herman Miller Drafting Chairs";
 export const metaDescription = "We compared herman miller drafting chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "herman miller drafting chair";

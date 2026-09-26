@@ -1,5 +1,5 @@
 export const guideSlug = "best-ball-bookends";
-export const guideTitle = "6 Best Ball Bookends in 2026";
+export const guideTitle = "Best Ball Bookends";
 export const metaTitle = "Best Ball Bookends";
 export const metaDescription = "We compared ball bookends models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ball bookends";

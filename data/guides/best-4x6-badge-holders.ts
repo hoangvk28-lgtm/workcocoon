@@ -1,5 +1,5 @@
 export const guideSlug = "best-4x6-badge-holders";
-export const guideTitle = "6 Best 4x6 Badge Holders in 2026";
+export const guideTitle = "Best 4x6 Badge Holders";
 export const metaTitle = "Best 4x6 Badge Holders";
 export const metaDescription = "We compared 4x6 badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "4x6 badge holders";

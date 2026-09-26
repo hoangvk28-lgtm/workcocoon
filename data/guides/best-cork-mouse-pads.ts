@@ -1,5 +1,5 @@
 export const guideSlug = "best-cork-mouse-pads";
-export const guideTitle = "8 Best Cork Mouse Pads in 2026";
+export const guideTitle = "Best Cork Mouse Pads";
 export const metaTitle = "Best Cork Mouse Pads";
 export const metaDescription = "We compared mouse pad cork eco friendly models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mouse pad cork eco friendly";

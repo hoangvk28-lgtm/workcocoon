@@ -1,5 +1,5 @@
 export const guideSlug = "best-dragonn-kneeling-chairs";
-export const guideTitle = "8 Best DRAGONN Kneeling Chairs in 2026";
+export const guideTitle = "Best DRAGONN Kneeling Chairs";
 export const metaTitle = "Best DRAGONN Kneeling Chairs";
 export const metaDescription = "We compared dragonn ergonomic kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "dragonn ergonomic kneeling chair";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-neoprene-cable-sleeves";
-export const guideTitle = "6 Best Neoprene Cable Sleeves in 2026";
+export const guideTitle = "Best Neoprene Cable Sleeves";
 export const metaTitle = "Best Neoprene Cable Sleeves";
 export const metaDescription = "We compared neoprene cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "neoprene cable sleeves";

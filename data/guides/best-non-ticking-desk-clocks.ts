@@ -1,5 +1,5 @@
 export const guideSlug = "best-non-ticking-desk-clocks";
-export const guideTitle = "3 Best Non-Ticking Desk Clocks in 2026";
+export const guideTitle = "Best Non-Ticking Desk Clocks";
 export const metaTitle = "Best Non-Ticking Desk Clocks (2026)";
 export const metaDescription =
   "3 non-ticking desk clocks compared, from a genuine sweep-movement analog pick to silent-by-design LED clocks, so tick noise never distracts you again.";

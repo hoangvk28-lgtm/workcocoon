@@ -1,5 +1,5 @@
 export const guideSlug = "best-typewriter-sticky-note-dispensers";
-export const guideTitle = "6 Best Typewriter Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Typewriter Sticky Note Dispensers";
 export const metaTitle = "Best Typewriter Sticky Note Dispensers";
 export const metaDescription = "We compared typewriter sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "typewriter sticky note dispensers";

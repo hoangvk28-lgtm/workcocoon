@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-nvme-enclosures";
-export const guideTitle = "8 Best USB NVMe Enclosures in 2026";
+export const guideTitle = "Best USB NVMe Enclosures";
 export const metaTitle = "Best USB NVMe Enclosures in 2026";
 export const metaDescription = "USB NVMe enclosures span 10 to 80Gbps under the same connector shape. We separated actual protocol and host compatibility from USB-C branding.";
 export const mainKeyword = "usb nvme enclosures";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-and-coffee-table-set";
-export const guideTitle = "6 Best TV Stand and Coffee Table Sets in 2026";
+export const guideTitle = "Best TV Stand and Coffee Table Sets";
 export const metaTitle = "Best TV Stand and Coffee Table Sets in 2026 - Top 8 Matching Sets";
 export const metaDescription =
   "The 8 best TV stand and coffee table sets in 2026, ranked by piece count, storage, and charging features from budget farmhouse sets to premium matching collections.";

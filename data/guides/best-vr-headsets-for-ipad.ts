@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-for-ipad";
-export const guideTitle = "6 Best VR Headsets for iPad in 2026";
+export const guideTitle = "Best VR Headsets for iPad";
 export const metaTitle = "Best VR Headsets for iPad";
 export const metaDescription = "We compared vr headsets for ipad models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vr headsets for ipad";

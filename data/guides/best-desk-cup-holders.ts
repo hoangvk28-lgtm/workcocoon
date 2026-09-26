@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-cup-holders";
-export const guideTitle = "8 Best Desk Cup Holders in 2026";
+export const guideTitle = "Best Desk Cup Holders";
 export const metaTitle = "Best Desk Cup Holders (2026)";
 export const metaDescription =
   "8 clamp-on desk cup holders researched for spill resistance, weight capacity with a full drink, and desk edge clamp compatibility.";

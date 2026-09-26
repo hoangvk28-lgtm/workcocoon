@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-clocks-with-alarms";
-export const guideTitle = "6 Best Desk Clocks with Alarms in 2026";
+export const guideTitle = "Best Desk Clocks with Alarms";
 export const metaTitle = "Best Desk Clocks with Alarms (2026)";
 export const metaDescription =
   "6 desk clocks with a genuine, confirmed alarm feature, covering corded versus battery power and which pick suits a desk versus a bedside table.";

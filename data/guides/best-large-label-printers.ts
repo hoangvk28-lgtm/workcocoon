@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-label-printers";
-export const guideTitle = "6 Best Large Label Printers in 2026";
+export const guideTitle = "Best Large Label Printers";
 export const metaTitle = "Best Large Label Printers";
 export const metaDescription = "We compared large label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "large label printers";

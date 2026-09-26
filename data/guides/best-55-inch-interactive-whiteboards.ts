@@ -1,5 +1,5 @@
 export const guideSlug = "best-55-inch-interactive-whiteboards";
-export const guideTitle = "8 Best 55-Inch Interactive Whiteboards";
+export const guideTitle = "Best 55-Inch Interactive Whiteboards";
 export const metaTitle = "Best 55-Inch Interactive Whiteboards";
 export const metaDescription = "55 inches is a current entry-size tier across major brands. We verified exact current SKUs and compared feature parity within each series.";
 export const mainKeyword = "55 inch interactive whiteboard";

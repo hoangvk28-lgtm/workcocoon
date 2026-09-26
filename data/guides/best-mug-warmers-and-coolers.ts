@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-and-coolers";
-export const guideTitle = "6 Best Mug Warmers and Coolers in 2026";
+export const guideTitle = "Best Mug Warmers and Coolers";
 export const metaTitle = "Best Mug Warmers and Coolers";
 export const metaDescription = "We compared mug warmers and coolers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mug warmers and coolers";

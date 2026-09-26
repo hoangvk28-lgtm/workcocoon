@@ -1,5 +1,5 @@
 export const guideSlug = "best-mug-warmers-for-home";
-export const guideTitle = "6 Best Mug Warmers for Home in 2026";
+export const guideTitle = "Best Mug Warmers for Home";
 export const metaTitle = "Best Mug Warmers for Home";
 export const metaDescription = "We compared mug warmer for home models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mug warmer for home";

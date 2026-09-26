@@ -1,5 +1,5 @@
 export const guideSlug = "best-varidesk-standing-desk-converters";
-export const guideTitle = "4 Best VariDesk Standing Desk Converters in 2026";
+export const guideTitle = "Best VariDesk Standing Desk Converters";
 export const metaTitle = "Best VariDesk Standing Desk Converters (2026)";
 export const metaDescription =
   "4 current Vari VariDesk converters compared, from a two-tier essential model to the Pro Plus electric, since some legacy VariDesk models are no longer sold.";

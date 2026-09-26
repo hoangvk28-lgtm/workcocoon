@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-with-keys";
-export const guideTitle = "8 Best Small Safes With Keys in 2026";
+export const guideTitle = "Best Small Safes With Keys";
 export const metaTitle = "Best Small Safes With Keys (2026)";
 export const metaDescription =
   "8 key-lock safes compared on keyway exposure, spare-key policy, and no-battery reliability, avoiding the code-management overhead of digital keypads.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-monitor-mounts";
-export const guideTitle = "8 Best Mini PC Monitor Mounts in 2026";
+export const guideTitle = "Best Mini PC Monitor Mounts";
 export const metaTitle = "Best Mini PC Monitor Mounts (2026)";
 export const metaDescription =
   "8 mounts we compared for attaching a Mini PC to your monitor, with honest notes on why this is essentially the same VESA hardware.";

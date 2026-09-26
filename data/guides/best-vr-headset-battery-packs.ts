@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headset-battery-packs";
-export const guideTitle = "6 Best VR Headset Battery Packs in 2026";
+export const guideTitle = "Best VR Headset Battery Packs";
 export const metaTitle = "Best VR Headset Battery Packs";
 export const metaDescription = "We compared vr headset battery packs models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vr headset battery packs";

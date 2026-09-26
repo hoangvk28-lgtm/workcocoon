@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-fireproof-safes";
-export const guideTitle = "8 Best Waterproof Fireproof Safes in 2026";
+export const guideTitle = "Best Waterproof Fireproof Safes";
 export const metaTitle = "Best Waterproof Fireproof Safes 2026";
 export const metaDescription = "We compared waterproof fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
 export const mainKeyword = "waterproof fireproof safes";

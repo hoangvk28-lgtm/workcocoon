@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-fan-and-heater-combos";
-export const guideTitle = "8 Best Desk Fan and Heater Combos in 2026";
+export const guideTitle = "Best Desk Fan and Heater Combos";
 export const metaTitle = "Best Desk Fan and Heater Combos";
 export const metaDescription = "We compared desk fan and heater models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk fan and heater";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters-for-two-monitors-and-a-laptop";
-export const guideTitle = "6 Best Standing Desk Converters for Two Monitors and a Laptop";
+export const guideTitle = "Best Standing Desk Converters for Two Monitors and a Laptop";
 export const metaTitle = "Best Converters for 2 Monitors + Laptop (2026)";
 export const metaDescription =
   "6 standing desk converters compared for a genuine three-device setup, two monitors plus an open laptop, which needs more room than dual-monitor alone.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-color-laser-printers-for-home-offices";
-export const guideTitle = "8 Best Color Laser Printers for Home Offices in 2026";
+export const guideTitle = "Best Color Laser Printers for Home Offices";
 export const metaTitle = "Best Color Laser Printers for Home Offices in 2026";
 export const metaDescription =
   "8 color printers we evaluated for home offices, including a genuine color laser plus honestly-labeled ink-tank alternatives, with real cost-per-page and size tradeoffs explained.";

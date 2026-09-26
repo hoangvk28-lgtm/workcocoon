@@ -1,5 +1,5 @@
 export const guideSlug = "best-solid-wood-office-credenzas";
-export const guideTitle = "8 Best Solid Wood Office Credenzas in 2026";
+export const guideTitle = "Best Solid Wood Office Credenzas";
 export const metaTitle = "Best Solid Wood Office Credenzas 2026";
 export const metaDescription = "We compared solid wood office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "solid wood office credenzas";

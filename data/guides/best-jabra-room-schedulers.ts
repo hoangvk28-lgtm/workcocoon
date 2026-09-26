@@ -1,5 +1,5 @@
 export const guideSlug = "best-jabra-room-schedulers";
-export const guideTitle = "8 Best Jabra Room Schedulers in 2026";
+export const guideTitle = "Best Jabra Room Schedulers";
 export const metaTitle = "Best Jabra Room Schedulers";
 export const metaDescription = "We compared jabra meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "jabra meeting room scheduler";

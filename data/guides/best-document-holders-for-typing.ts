@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-holders-for-typing";
-export const guideTitle = "8 Best Document Holders for Typing in 2026";
+export const guideTitle = "Best Document Holders for Typing";
 export const metaTitle = "Best Document Holders for Typing";
 export const metaDescription = "We compared document holder for typing models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "document holder for typing";

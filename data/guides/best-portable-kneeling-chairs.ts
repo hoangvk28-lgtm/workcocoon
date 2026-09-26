@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-kneeling-chairs";
-export const guideTitle = "8 Best Portable Kneeling Chairs in 2026";
+export const guideTitle = "Best Portable Kneeling Chairs";
 export const metaTitle = "Best Portable Kneeling Chairs";
 export const metaDescription = "We compared portable kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "portable kneeling chair";

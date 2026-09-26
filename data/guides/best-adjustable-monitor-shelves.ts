@@ -1,5 +1,5 @@
 export const guideSlug = "best-adjustable-monitor-shelves";
-export const guideTitle = "4 Best Adjustable Monitor Shelves in 2026";
+export const guideTitle = "Best Adjustable Monitor Shelves";
 export const metaTitle = "Best Adjustable Monitor Shelves (2026)";
 export const metaDescription =
   "4 adjustable monitor shelves we evaluated, clarifying whether height, angle, or width adjusts and how reliably each holds position over repeated use.";

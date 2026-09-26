@@ -1,5 +1,5 @@
 export const guideSlug = "best-msi-gaming-monitors";
-export const guideTitle = "6 Best MSI Gaming Monitors in 2026";
+export const guideTitle = "Best MSI Gaming Monitors";
 export const metaTitle = "Best MSI Gaming Monitors";
 export const metaDescription = "We compared msi gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "msi gaming monitors";

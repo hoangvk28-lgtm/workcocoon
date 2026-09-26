@@ -1,5 +1,5 @@
 export const guideSlug = "best-extra-large-desk-pads";
-export const guideTitle = "8 Best Extra-Large Desk Pads in 2026";
+export const guideTitle = "Best Extra-Large Desk Pads";
 export const metaTitle = "Best Extra-Large Desk Pads";
 export const metaDescription = "We compared desk pad extra large models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk pad extra large";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mice-under-100";
-export const guideTitle = "4 Best Vertical Mice Under $100 in 2026";
+export const guideTitle = "Best Vertical Mice Under $100";
 export const metaTitle = "Best Vertical Mice Under $100";
 export const metaDescription = "We compared vertical mice under $100 by advanced optical tracking, customization software, and original-brand pedigree, since flagship options top out here.";
 export const mainKeyword = "best vertical mice under $100";

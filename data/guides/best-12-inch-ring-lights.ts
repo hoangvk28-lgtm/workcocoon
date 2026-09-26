@@ -1,5 +1,5 @@
 export const guideSlug = "best-12-inch-ring-lights";
-export const guideTitle = "5 Best 12-Inch Ring Lights in 2026";
+export const guideTitle = "Best 12-Inch Ring Lights";
 export const metaTitle = "Best 12-Inch Ring Lights";
 export const metaDescription = "We compared ring light 12 inch models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light 12 inch";

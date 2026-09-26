@@ -1,5 +1,5 @@
 export const guideSlug = "best-decorative-portable-file-boxes";
-export const guideTitle = "5 Best Decorative Portable File Boxes in 2026";
+export const guideTitle = "Best Decorative Portable File Boxes";
 export const metaTitle = "Best Decorative Portable File Boxes (2026)";
 export const metaDescription =
   "5 stylish file boxes verified for genuine functional quality independent of their aesthetic finish, plus the discreet-storage tradeoff to consider.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-for-mini-pcs";
-export const guideTitle = "7 Best Portable Monitors for Mini PCs in 2026";
+export const guideTitle = "Best Portable Monitors for a Mini PC Setup";
 export const metaTitle = "Best Portable Monitors for Mini PCs, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 portable monitors we evaluated for Mini PCs, with a clear read on HDMI 2.0 vs 2.1 bandwidth limits and which picks let you piggyback-mount alongside the Mini PC itself.";

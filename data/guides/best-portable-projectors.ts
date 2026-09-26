@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-projectors";
-export const guideTitle = "6 Best Portable Projectors in 2026";
+export const guideTitle = "Best Portable Projectors";
 export const metaTitle = "Best Portable Projectors";
 export const metaDescription = "We compared portable projector models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "portable projector";

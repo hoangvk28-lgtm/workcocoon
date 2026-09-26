@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-under-50";
-export const guideTitle = "8 Best Space Heaters Under $50 in 2026";
+export const guideTitle = "Best Space Heaters Under $50";
 export const metaTitle = "Best Space Heaters Under $50";
 export const metaDescription = "We compared space heater under $50 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater under $50";

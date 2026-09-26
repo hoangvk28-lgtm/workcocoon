@@ -1,5 +1,5 @@
 export const guideSlug = "best-fabric-under-desk-drawer-organizers";
-export const guideTitle = "8 Best Fabric Under-Desk Drawer Organizers in 2026";
+export const guideTitle = "Best Fabric Under-Desk Drawer Organizers";
 export const metaTitle = "Best Fabric Under-Desk Drawer Organizers";
 export const metaDescription = "We compared under desk drawer organizer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under desk drawer organizer";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-with-adjustable-lumbar-support";
-export const guideTitle = "8 Best Office Chairs with Adjustable Lumbar Support in 2026";
+export const guideTitle = "Best Office Chairs with Adjustable Lumbar Support";
 export const metaTitle = "Best Office Chairs with Adjustable Lumbar Support (2026)";
 export const metaDescription =
   "8 office chairs with adjustable lumbar support we evaluated on build quality, mesh breathability, and value, plus what adjustable lumbar actually means before you buy.";

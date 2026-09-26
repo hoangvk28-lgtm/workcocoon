@@ -1,5 +1,5 @@
 export const guideSlug = "best-backlit-ergonomic-keyboards";
-export const guideTitle = "7 Best Backlit Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Backlit Ergonomic Keyboards";
 export const metaTitle = "Best Backlit Ergonomic Keyboards (2026)";
 export const metaDescription =
   "7 backlit ergonomic keyboards we evaluated honestly for who actually benefits from illuminated keys, plus battery-life and daylight-visibility tradeoffs.";

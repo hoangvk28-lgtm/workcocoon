@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-network-switches";
-export const guideTitle = "8 Best Mini Network Switches in 2026";
+export const guideTitle = "Best Mini Network Switches";
 export const metaTitle = "Best Mini Network Switches in 2026";
 export const metaDescription = "Mini switches trade port count for genuine portability. We compared real dimensions across the current pocket-sized lineup.";
 export const mainKeyword = "mini network switches";

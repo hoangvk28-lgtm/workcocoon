@@ -1,5 +1,5 @@
 export const guideSlug = "best-24-inch-monitor-privacy-screens";
-export const guideTitle = "8 Best 24-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 24-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 24-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "8 privacy filters confirmed for genuine 24 inch, 16:9 monitors, from a $26.98 single unit to premium 3M and magnetic-mount options.";

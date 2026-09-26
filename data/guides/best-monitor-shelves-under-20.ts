@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-shelves-under-20";
-export const guideTitle = "4 Best Monitor Shelves Under $20 in 2026";
+export const guideTitle = "Best Monitor Shelves Under $20";
 export const metaTitle = "Best Monitor Shelves Under $20";
 export const metaDescription = "We compared monitor shelves under $20 by real weight capacity, storage design, and material, since budget risers vary in sturdiness and features.";
 export const mainKeyword = "best monitor shelves under $20";

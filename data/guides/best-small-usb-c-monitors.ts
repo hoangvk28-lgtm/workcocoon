@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-usb-c-monitors";
-export const guideTitle = "5 Best Small USB-C Monitors in 2026";
+export const guideTitle = "Best Small USB-C Monitors for a Tight Desk";
 export const metaTitle = "Best Small USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 small USB-C monitors we evaluated, with a note that a small panel running 1080p or higher resolution can make default text and icons uncomfortably tiny without scaling adjustments.";

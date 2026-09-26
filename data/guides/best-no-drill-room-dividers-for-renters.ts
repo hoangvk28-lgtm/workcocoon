@@ -1,5 +1,5 @@
 export const guideSlug = "best-no-drill-room-dividers-for-renters";
-export const guideTitle = "8 Best No-Drill Room Dividers for Renters in 2026";
+export const guideTitle = "Best No-Drill Room Dividers for Renters";
 export const metaTitle = "Best No-Drill Room Dividers for Renters in 2026";
 export const metaDescription =
   "8 best no-drill room dividers for renters in 2026. Tension pole ceiling damage warnings, correct tightening, and which picks are genuinely freestanding.";

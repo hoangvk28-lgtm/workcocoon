@@ -1,5 +1,5 @@
 export const guideSlug = "best-a5-letter-trays";
-export const guideTitle = "6 Best A5 Letter Trays in 2026";
+export const guideTitle = "Best A5 Letter Trays";
 export const metaTitle = "Best A5 Letter Trays";
 export const metaDescription = "We compared a5 letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "a5 letter trays";

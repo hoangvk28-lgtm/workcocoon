@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-calendars-under-150";
-export const guideTitle = "4 Best Digital Calendars Under $150 in 2026";
+export const guideTitle = "Best Digital Calendars Under $150";
 export const metaTitle = "Best Digital Calendars Under $150";
 export const metaDescription = "We compared digital calendars under $150 by screen size, mounting design, and voice input, since 15.6 inch displays with tool-free setup appear at this tier.";
 export const mainKeyword = "best digital calendars under $150";

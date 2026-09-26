@@ -1,5 +1,5 @@
 export const guideSlug = "best-wide-tape-dispensers";
-export const guideTitle = "6 Best Wide Tape Dispensers in 2026";
+export const guideTitle = "Best Wide Tape Dispensers";
 export const metaTitle = "Best Wide Tape Dispensers";
 export const metaDescription = "We compared wide tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "wide tape dispensers";

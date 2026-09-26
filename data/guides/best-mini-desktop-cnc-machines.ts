@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-desktop-cnc-machines";
-export const guideTitle = "7 Best Mini Desktop CNC Machines in 2026";
+export const guideTitle = "Best Mini Desktop CNC Machines";
 export const metaTitle = "Best Mini Desktop CNC Machines 2026";
 export const metaDescription = "We compared mini desktop cnc machines by documented rigidity, spindle evidence, and real cutting capability rather than ranking by spindle wattage or price alone.";
 export const mainKeyword = "mini desktop cnc machines";

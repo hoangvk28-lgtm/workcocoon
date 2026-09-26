@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-mac-and-macbook";
-export const guideTitle = "4 Best Portable SSDs for Mac and MacBook in 2026";
+export const guideTitle = "Best Portable SSDs for Mac and MacBook";
 export const metaTitle = "Best Portable SSDs for Mac in 2026";
 export const metaDescription = "4 portable SSDs we evaluated for Mac and MacBook, covering Time Machine reformatting needs and realistic sustained backup speed.";
 export const mainKeyword = "best portable ssd for mac";

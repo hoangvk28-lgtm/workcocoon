@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-monitors-for-video-editing";
-export const guideTitle = "6 Best 4K Monitors for Video Editing in 2026";
+export const guideTitle = "Best 4K Monitors for Video Editing";
 export const metaTitle = "Best 4K Monitors for Video Editing";
 export const metaDescription = "We compared 4k monitors for video editing models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "4k monitors for video editing";

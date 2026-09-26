@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-tape-dispensers";
-export const guideTitle = "6 Best Heavy-Duty Tape Dispensers in 2026";
+export const guideTitle = "Best Heavy-Duty Tape Dispensers";
 export const metaTitle = "Best Heavy-Duty Tape Dispensers";
 export const metaDescription = "We compared heavy-duty tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "heavy-duty tape dispensers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-screen-extenders-for-macbooks";
-export const guideTitle = "5 Best Laptop Screen Extenders for MacBooks in 2026";
+export const guideTitle = "Best Laptop Screen Extenders for MacBooks";
 export const metaTitle = "Best Laptop Screen Extenders for MacBooks, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 laptop screen extenders we evaluated across the MacBook lineup, with the model-year compatibility check competitors skip: MacBook lid thickness and port placement vary by generation, worth verifying fit against your specific year, not just 'MacBook' generally.";

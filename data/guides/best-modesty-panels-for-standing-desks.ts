@@ -1,5 +1,5 @@
 export const guideSlug = "best-modesty-panels-for-standing-desks";
-export const guideTitle = "8 Best Modesty Panels for Standing Desks in 2026";
+export const guideTitle = "Best Modesty Panels for Standing Desks";
 export const metaTitle = "Best Modesty Panels for Standing Desks";
 export const metaDescription = "We compared modesty panel for standing desk models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "modesty panel for standing desk";

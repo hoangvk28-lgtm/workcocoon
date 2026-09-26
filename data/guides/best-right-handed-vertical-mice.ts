@@ -1,5 +1,5 @@
 export const guideSlug = "best-right-handed-vertical-mice";
-export const guideTitle = "5 Best Right-Handed Vertical Mice in 2026";
+export const guideTitle = "Best Right-Handed Vertical Mice";
 export const metaTitle = "Best Right-Handed Vertical Mice, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 right-handed vertical mice we evaluated, with the search-intent clarification competitors skip: most vertical mice on the market default to right-handed design without explicit labeling, worth understanding what distinguishes an explicitly right-handed product.";

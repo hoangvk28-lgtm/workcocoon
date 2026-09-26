@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-under-50";
-export const guideTitle = "6 Best VR Headsets Under $50 in 2026";
+export const guideTitle = "Best VR Headsets Under $50";
 export const metaTitle = "Best VR Headsets Under $50";
 export const metaDescription = "We compared vr headsets under $50 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vr headsets under $50";

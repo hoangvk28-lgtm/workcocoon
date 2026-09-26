@@ -1,5 +1,5 @@
 export const guideSlug = "best-xlr-audio-interfaces-under-100";
-export const guideTitle = "4 Best XLR Audio Interfaces Under $100 in 2026";
+export const guideTitle = "Best XLR Audio Interfaces Under $100";
 export const metaTitle = "Best XLR Audio Interfaces Under $100";
 export const metaDescription = "We compared XLR audio interfaces under $100 by preamp quality, bundled software value, and channel count, since bundled DAW software genuinely varies here.";
 export const mainKeyword = "best xlr audio interfaces under $100";

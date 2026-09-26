@@ -1,5 +1,5 @@
 export const guideSlug = "best-screen-interactive-whiteboards";
-export const guideTitle = "8 Best Screen Interactive Whiteboards";
+export const guideTitle = "Best Screen Interactive Whiteboards";
 export const metaTitle = "Best Screen Interactive Whiteboards";
 export const metaDescription = "We compared panel construction, bonding, and viewing angle directly, since screen quality varies more than generic interactive whiteboard specs suggest.";
 export const mainKeyword = "interactive whiteboard screen";

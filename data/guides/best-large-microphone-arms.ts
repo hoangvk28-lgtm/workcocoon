@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-microphone-arms";
-export const guideTitle = "8 Best Large Microphone Arms in 2026";
+export const guideTitle = "Best Large Microphone Arms";
 export const metaTitle = "Best Large Microphone Arms";
 export const metaDescription = "We compared microphone arm large size models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "microphone arm large size";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-light-and-webcam-bundle-kits";
-export const guideTitle = "8 Best Ring Light and Webcam Bundle Kits in 2026";
+export const guideTitle = "Best Ring Light and Webcam Bundle Kits";
 export const metaTitle = "Best Ring Light and Webcam Bundle Kits";
 export const metaDescription = "We compared ring light kit models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light kit";

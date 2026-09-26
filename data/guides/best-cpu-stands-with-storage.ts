@@ -1,5 +1,5 @@
 export const guideSlug = "best-cpu-stands-with-storage";
-export const guideTitle = "6 Best CPU Stands With Storage in 2026";
+export const guideTitle = "Best CPU Stands With Storage";
 export const metaTitle = "Best CPU Stands With Storage";
 export const metaDescription = "We compared cpu stands with storage models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cpu stands with storage";

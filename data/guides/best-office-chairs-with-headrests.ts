@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-with-headrests";
-export const guideTitle = "8 Best Office Chairs with Headrests in 2026";
+export const guideTitle = "Best Office Chairs with Headrests";
 export const metaTitle = "Best Office Chairs with Headrests in 2026 (Confirmed vs Unclear)";
 export const metaDescription =
   "8 office chairs we evaluated for headrest support, flagging which listings confirm a real headrest versus which don't, plus when a clip-on aftermarket headrest is the better fix.";

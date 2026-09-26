@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-storage-carts-on-wheels";
-export const guideTitle = "8 Best Office Storage Carts on Wheels in 2026";
+export const guideTitle = "Best Office Storage Carts on Wheels";
 export const metaTitle = "Best Office Storage Carts on Wheels (2026)";
 export const metaDescription =
   "8 rolling office storage carts compared on drawer or shelf dimensions, loaded caster behavior, and real office-supply fit, from $21.59 to $98.99.";

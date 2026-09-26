@@ -1,5 +1,5 @@
 export const guideSlug = "best-managed-network-switches";
-export const guideTitle = "8 Best Managed Network Switches in 2026";
+export const guideTitle = "Best Managed Network Switches";
 export const metaTitle = "Best Managed Network Switches 2026";
 export const metaDescription = "We compared managed switches by how much real VLAN, QoS, and monitoring depth they offer relative to their setup complexity and price.";
 export const mainKeyword = "managed network switches";

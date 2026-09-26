@@ -1,5 +1,5 @@
 export const guideSlug = "best-kneeling-chairs-for-back-pain";
-export const guideTitle = "8 Best Kneeling Chairs for Back Pain in 2026";
+export const guideTitle = "Best Kneeling Chairs for Back Pain";
 export const metaTitle = "Best Kneeling Chairs for Back Pain";
 export const metaDescription = "We compared kneeling chair back pain models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "kneeling chair back pain";

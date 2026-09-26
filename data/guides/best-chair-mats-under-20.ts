@@ -1,5 +1,5 @@
 export const guideSlug = "best-chair-mats-under-20";
-export const guideTitle = "4 Best Chair Mats Under $20 in 2026";
+export const guideTitle = "Best Chair Mats Under $20";
 export const metaTitle = "Best Chair Mats Under $20";
 export const metaDescription = "We compared chair mats under $20 by floor compatibility, backing grip, and size, since hard-floor and carpet mats aren't interchangeable at this price point.";
 export const mainKeyword = "best chair mats under $20";

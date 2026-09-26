@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-ps5";
-export const guideTitle = "4 Best Portable SSDs for PS5 in 2026";
+export const guideTitle = "Best Portable SSDs for PS5";
 export const metaTitle = "Best Portable SSDs for PS5 in 2026";
 export const metaDescription = "4 storage options we evaluated for PS5, with a clear breakdown of which drives let you play PS5 games directly and which are backup only.";
 export const mainKeyword = "best portable ssd for ps5";

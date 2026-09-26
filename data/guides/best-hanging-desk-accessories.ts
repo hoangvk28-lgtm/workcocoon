@@ -1,5 +1,5 @@
 export const guideSlug = "best-hanging-desk-accessories";
-export const guideTitle = "8 Best Hanging Desk Accessories in 2026";
+export const guideTitle = "Best Hanging Desk Accessories";
 export const metaTitle = "Best Hanging Desk Accessories (2026)";
 export const metaDescription =
   "8 hanging desk accessories across cup holders, file organizers, and drawers, a hub roundup covering our full hanging-accessory research.";

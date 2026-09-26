@@ -1,5 +1,5 @@
 export const guideSlug = "best-heavy-duty-under-desk-pc-mounts";
-export const guideTitle = "4 Best Heavy-Duty Under-Desk PC Mounts in 2026";
+export const guideTitle = "Best Heavy-Duty Under-Desk PC Mounts";
 export const metaTitle = "Best Heavy-Duty Under-Desk PC Mounts (2026)";
 export const metaDescription =
   "4 heavy-duty under-desk PC mounts we evaluated for genuine load capacity against large modern towers, plus your desk's own structural limits.";

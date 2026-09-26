@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-under-100";
-export const guideTitle = "4 Best Document Scanners Under $100 in 2026";
+export const guideTitle = "Best Document Scanners Under $100";
 export const metaTitle = "Best Document Scanners Under $100";
 export const metaDescription = "We compared document scanners under $100 by scan method, portability, and resolution, since a flatbed and a handheld wand suit very different setups.";
 export const mainKeyword = "best document scanners under $100";

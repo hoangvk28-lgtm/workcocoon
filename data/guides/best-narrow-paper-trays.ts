@@ -1,5 +1,5 @@
 export const guideSlug = "best-narrow-paper-trays";
-export const guideTitle = "6 Best Narrow Paper Trays in 2026";
+export const guideTitle = "Best Narrow Paper Trays";
 export const metaTitle = "Best Narrow Paper Trays";
 export const metaDescription = "We compared narrow paper trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "narrow paper trays";

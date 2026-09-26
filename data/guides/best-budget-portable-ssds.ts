@@ -1,5 +1,5 @@
 export const guideSlug = "best-budget-portable-ssds";
-export const guideTitle = "4 Best Budget Portable SSDs in 2026";
+export const guideTitle = "Best Budget Portable SSDs";
 export const metaTitle = "Best Budget Portable SSDs in 2026";
 export const metaDescription = "4 budget portable SSDs we evaluated, flagging DRAM-less controller tradeoffs and counterfeit-capacity risks common at this lower price tier.";
 export const mainKeyword = "best budget portable ssd";

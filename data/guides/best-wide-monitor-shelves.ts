@@ -1,5 +1,5 @@
 export const guideSlug = "best-wide-monitor-shelves";
-export const guideTitle = "4 Best Wide Monitor Shelves in 2026";
+export const guideTitle = "Best Wide Monitor Shelves";
 export const metaTitle = "Best Wide Monitor Shelves (2026)";
 export const metaDescription =
   "4 wide monitor shelves we evaluated for twisting and racking risk at full span, multi-point mounting needs, and modular joint weak points.";

@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-tv-stand-dresser";
 
 export const guideSlug = "best-tv-stand-dresser";
-export const guideTitle = "8 Best TV Stand Dresser Combos in 2026";
+export const guideTitle = "Best TV Stand Dresser Combos";
 export const metaTitle = "Best TV Stand Dresser Combos 2026, Dual-Use Bedroom Picks";
 export const metaDescription =
   "Best TV stand dresser combos in 2026. Multi-drawer dressers with built-in TV stands ranked by drawer count, LED features, and TV size fit for bedrooms.";

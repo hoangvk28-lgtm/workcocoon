@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-with-vpn-support";
-export const guideTitle = "4 Best Wi-Fi 7 Routers with VPN Support in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers with VPN Support";
 export const metaTitle = "Best Wi-Fi 7 Routers with VPN Support (2026)";
 export const metaDescription =
   "4 Wi-Fi 7 routers we evaluated for VPN support, explaining why router-based VPN speed is CPU-limited and often far below the router's rated Wi-Fi speed.";

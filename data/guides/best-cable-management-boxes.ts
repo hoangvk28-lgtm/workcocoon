@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-cable-management-boxes";
 
 export const guideSlug = "best-cable-management-boxes";
-export const guideTitle = "8 Best Cable Management Boxes (2026)";
+export const guideTitle = "Best Cable Management Boxes (2026)";
 export const metaTitle = "Best Cable Management Boxes 2026";
 export const metaDescription = "Best cable management boxes in 2026. Top-rated cord organizer boxes, under-desk cable trays, and power strip hiders ranked by size, design, safety, and value.";
 export const lastUpdated = "2026-07-11";

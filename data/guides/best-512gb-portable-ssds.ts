@@ -1,5 +1,5 @@
 export const guideSlug = "best-512gb-portable-ssds";
-export const guideTitle = "3 Best 512GB Portable SSDs in 2026";
+export const guideTitle = "Best 512GB Portable SSDs";
 export const metaTitle = "Best 512GB Portable SSDs in 2026";
 export const metaDescription = "The genuinely verified 512GB pick, plus two nearby compact-budget options, evaluated on real capacity, speed, and price per gigabyte.";
 export const mainKeyword = "best 512gb portable ssd";

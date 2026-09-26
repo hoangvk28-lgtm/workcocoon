@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-note-taking";
-export const guideTitle = "7 Best Digital Notebooks for Note Taking in 2026";
+export const guideTitle = "Best Digital Notebooks for Note Taking";
 export const metaTitle = "Best Notebooks for Note Taking (2026)";
 export const metaDescription =
   "7 digital notebooks we evaluated specifically for note-taking quality, comparing writing feel, organization features, and search across all three product types.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-for-mac";
-export const guideTitle = "8 Best Drawing Tablets for Mac in 2026";
+export const guideTitle = "Best Drawing Tablets for Mac";
 export const metaTitle = "Best Drawing Tablets for Mac 2026";
 export const metaDescription = "We compared drawing tablets for mac by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets for mac";

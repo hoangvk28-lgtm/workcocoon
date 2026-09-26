@@ -1,5 +1,5 @@
 export const guideSlug = "best-display-interactive-whiteboards";
-export const guideTitle = "8 Best Display Interactive Whiteboards";
+export const guideTitle = "Best Display Interactive Whiteboards";
 export const metaTitle = "Best Display Interactive Whiteboards";
 export const metaDescription = "We published display-focused metrics like brightness, bonding, and viewing angle that generic interactive whiteboard lists typically skip.";
 export const mainKeyword = "interactive whiteboard display";

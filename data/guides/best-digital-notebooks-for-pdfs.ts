@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-pdfs";
-export const guideTitle = "5 Best Digital Notebooks for PDFs in 2026";
+export const guideTitle = "Best Digital Notebooks for PDFs";
 export const metaTitle = "Best Digital Notebooks for PDFs (2026)";
 export const metaDescription =
   "5 E Ink devices compared for PDF reading and annotation, including storage capacity for large document libraries and screen size for document readability.";

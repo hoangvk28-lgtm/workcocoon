@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers";
-export const guideTitle = "6 Best Coffee Warmers in 2026";
+export const guideTitle = "Best Coffee Warmers";
 export const metaTitle = "Best Coffee Warmers";
 export const metaDescription = "We compared coffee warmer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "coffee warmer";

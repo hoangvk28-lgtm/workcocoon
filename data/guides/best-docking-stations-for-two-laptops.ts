@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-two-laptops";
-export const guideTitle = "8 Best Docking Stations for Two Laptops in 2026";
+export const guideTitle = "Best Docking Stations for Running Two Laptops at One Desk";
 export const metaTitle = "Best Docking Stations for Two Laptops in 2026 (KVM & Dual-Dock Setups)";
 export const metaDescription =
   "8 best docking stations for two laptops in 2026, from all-in-one KVM docks to standard docks paired with a separate switch. Compare PD, ports, and switching speed.";

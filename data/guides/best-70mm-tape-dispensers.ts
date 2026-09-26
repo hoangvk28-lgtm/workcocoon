@@ -1,5 +1,5 @@
 export const guideSlug = "best-70mm-tape-dispensers";
-export const guideTitle = "6 Best 70mm Tape Dispensers in 2026";
+export const guideTitle = "Best 70mm Tape Dispensers";
 export const metaTitle = "Best 70mm Tape Dispensers";
 export const metaDescription = "We compared 70mm tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "70mm tape dispensers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-blue-light-filtering-monitor-privacy-screens";
-export const guideTitle = "6 Best Blue-Light-Filtering Monitor Privacy Screens in 2026";
+export const guideTitle = "Best Blue-Light-Filtering Monitor Privacy Screens";
 export const metaTitle = "Best Blue-Light-Filtering Privacy Screens (2026)";
 export const metaDescription =
   "6 privacy filters that explicitly bundle blue-light filtering with side-angle privacy, with an honest note on what these reduction claims actually mean.";

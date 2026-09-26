@@ -1,5 +1,5 @@
 export const guideSlug = "best-starlink-poe-extender";
-export const guideTitle = "4 Best Starlink Cable Extenders in 2026";
+export const guideTitle = "Best Starlink Cable Extenders";
 export const metaTitle = "Best Starlink Cable Extenders";
 export const metaDescription = "We compared Starlink cable extenders by connector type, since Ethernet couplers and DC power couplers solve different cable-length problems for the same dish.";
 export const mainKeyword = "best starlink poe extender";

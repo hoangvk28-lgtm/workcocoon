@@ -1,5 +1,5 @@
 export const guideSlug = "best-goal-zero-portable-power-stations";
-export const guideTitle = "4 Best Goal Zero Portable Power Stations in 2026";
+export const guideTitle = "Best Goal Zero Portable Power Stations";
 export const metaTitle = "Best Goal Zero Portable Power Stations 2026";
 export const metaDescription = "We compared goal zero portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "goal zero portable power stations";

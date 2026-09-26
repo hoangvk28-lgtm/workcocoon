@@ -1,5 +1,5 @@
 export const guideSlug = "best-smart-label-printers";
-export const guideTitle = "6 Best Smart Label Printers in 2026";
+export const guideTitle = "Best Smart Label Printers";
 export const metaTitle = "Best Smart Label Printers";
 export const metaDescription = "We compared smart label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "smart label printers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-tall";
-export const guideTitle = "8 Best Tall TV Stands in 2026";
+export const guideTitle = "Best Tall TV Stands";
 export const metaTitle = "Best Tall TV Stands in 2026 (Sofa Height & Adjustable)";
 export const metaDescription =
   "8 best tall TV stands in 2026, from height-adjustable swivel bases to 30+ inch cabinets. Compare height, weight capacity, and TV size fit for sofa viewing.";

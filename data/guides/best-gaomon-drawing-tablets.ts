@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaomon-drawing-tablets";
-export const guideTitle = "5 Best GAOMON Drawing Tablets in 2026";
+export const guideTitle = "Best GAOMON Drawing Tablets";
 export const metaTitle = "Best GAOMON Drawing Tablets 2026";
 export const metaDescription = "We compared gaomon drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "gaomon drawing tablets";

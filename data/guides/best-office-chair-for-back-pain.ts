@@ -1,7 +1,7 @@
 ﻿const BASE = "/images/guides/best-office-chair-for-back-pain";
 
 export const guideSlug = "best-office-chair-for-back-pain";
-export const guideTitle = "8 Best Office Chairs for Back Pain in 2026";
+export const guideTitle = "Best Office Chairs for Back Pain";
 export const metaTitle = "Best Office Chairs for Back Pain 2026 - Lumbar Support Ranked";
 export const metaDescription =
   "Best office chairs for back pain in 2026. Ergonomic chairs with adjustable lumbar support and seat depth ranked for lower back, mid-back, and sciatica pain.";

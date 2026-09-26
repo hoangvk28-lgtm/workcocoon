@@ -1,7 +1,7 @@
 const BASE = "/guides/best-headphones-for-gaming";
 
 export const guideSlug = "best-headphones-for-gaming";
-export const guideTitle = "7 Best Gaming Headsets: Budget to Premium (2026)";
+export const guideTitle = "Best Gaming Headsets: Budget to Premium (2026)";
 export const guideDescription =
   "The gaming headset market is full of RGB plastic and inflated specs. A $40 headset can genuinely outperform a $120 competitor if the drivers are tuned correctly and the microphone does not sound like a tin can. This guide covers 7 picks in 2026: budget wired, budget wireless, best AI mic under $80, mid-range wireless, and three premium options.";
 export const metaTitle = "7 Best Gaming Headsets: Budget to Premium (2026)";

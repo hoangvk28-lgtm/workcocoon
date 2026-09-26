@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-under-500";
-export const guideTitle = "4 Best TV Stands Under $500 in 2026";
+export const guideTitle = "Best TV Stands Under $500";
 export const metaTitle = "Best TV Stands Under $500";
 export const metaDescription = "We compared TV stands under $500 by real fireplace BTU heating power, 300+ lb weight capacity, and 80-90 inch TV compatibility for large rooms.";
 export const mainKeyword = "best tv stand under $500";

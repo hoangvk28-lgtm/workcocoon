@@ -1,5 +1,5 @@
 export const guideSlug = "best-copy-holders-for-typing";
-export const guideTitle = "6 Best Copy Holders for Typing in 2026";
+export const guideTitle = "Best Copy Holders for Typing";
 export const metaTitle = "Best Copy Holders for Typing";
 export const metaDescription = "We compared copy holders for typing models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "copy holders for typing";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-under-200";
-export const guideTitle = "5 Best Air Purifiers Under $200 in 2026";
+export const guideTitle = "Best Air Purifiers Under $200";
 export const metaTitle = "Best Air Purifiers Under $200, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers under $200 we evaluated, with the diminishing-returns question competitors skip: at this price tier, you're paying mostly for smart features, sensors, and larger coverage, not a fundamentally different filtration mechanism than a sub-$100 unit.";

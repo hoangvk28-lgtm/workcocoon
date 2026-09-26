@@ -1,5 +1,5 @@
 export const guideSlug = "best-clamp-on-under-desk-pc-mounts";
-export const guideTitle = "4 Best Clamp-On Under-Desk PC Mounts in 2026";
+export const guideTitle = "Best Clamp-On Under-Desk PC Mounts";
 export const metaTitle = "Best Clamp-On Under-Desk PC Mounts (2026)";
 export const metaDescription =
   "4 clamp-on under-desk PC mounts we evaluated for desk-edge thickness compatibility, holding capacity under a heavy swinging load, and tipping risk.";

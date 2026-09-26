@@ -1,5 +1,5 @@
 export const guideSlug = "best-five-card-id-badge-holders";
-export const guideTitle = "6 Best Five-Card ID Badge Holders in 2026";
+export const guideTitle = "Best Five-Card ID Badge Holders";
 export const metaTitle = "Best Five-Card ID Badge Holders";
 export const metaDescription = "We compared five-card id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "five-card id badge holders";

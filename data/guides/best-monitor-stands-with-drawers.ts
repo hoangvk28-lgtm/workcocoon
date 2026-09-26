@@ -1,5 +1,5 @@
 export const guideSlug = "best-monitor-stands-with-drawers";
-export const guideTitle = "4 Best Monitor Stands with Drawers in 2026";
+export const guideTitle = "Best Monitor Stands with Drawers";
 export const metaTitle = "Best Monitor Stands with Drawers (2026)";
 export const metaDescription =
   "4 monitor stands with drawers we evaluated for drawer weight capacity as a separate spec, slide rail quality, and combined-load stability.";

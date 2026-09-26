@@ -1,5 +1,5 @@
 export const guideSlug = "best-modern-letter-trays";
-export const guideTitle = "6 Best Modern Letter Trays in 2026";
+export const guideTitle = "Best Modern Letter Trays";
 export const metaTitle = "Best Modern Letter Trays";
 export const metaDescription = "We compared modern letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "modern letter trays";

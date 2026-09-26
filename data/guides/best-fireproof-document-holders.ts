@@ -1,5 +1,5 @@
 export const guideSlug = "best-fireproof-document-holders";
-export const guideTitle = "6 Best Fireproof Document Holders in 2026";
+export const guideTitle = "Best Fireproof Document Holders";
 export const metaTitle = "Best Fireproof Document Holders";
 export const metaDescription = "We compared fireproof document holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "fireproof document holders";

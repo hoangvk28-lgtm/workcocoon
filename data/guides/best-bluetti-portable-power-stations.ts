@@ -1,5 +1,5 @@
 export const guideSlug = "best-bluetti-portable-power-stations";
-export const guideTitle = "5 Best BLUETTI Portable Power Stations in 2026";
+export const guideTitle = "Best BLUETTI Portable Power Stations";
 export const metaTitle = "Best BLUETTI Portable Power Stations 2026";
 export const metaDescription = "We compared bluetti portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "bluetti portable power stations";

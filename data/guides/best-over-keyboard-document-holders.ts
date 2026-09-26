@@ -1,5 +1,5 @@
 export const guideSlug = "best-over-keyboard-document-holders";
-export const guideTitle = "8 Best Over-Keyboard Document Holders in 2026";
+export const guideTitle = "Best Over-Keyboard Document Holders";
 export const metaTitle = "Best Over-Keyboard Document Holders";
 export const metaDescription = "We compared document holder over keyboard models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "document holder over keyboard";

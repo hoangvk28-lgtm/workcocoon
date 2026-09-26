@@ -1,5 +1,5 @@
 export const guideSlug = "best-white-standing-desk-converters";
-export const guideTitle = "5 Best White Standing Desk Converters in 2026";
+export const guideTitle = "Best White Standing Desk Converters";
 export const metaTitle = "Best White Standing Desk Converters (2026)";
 export const metaDescription =
   "5 standing desk converters confirmed available in white, compared on platform size and price rather than assuming any converter comes in this finish.";

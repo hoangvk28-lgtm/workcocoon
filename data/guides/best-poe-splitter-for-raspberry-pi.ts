@@ -1,5 +1,5 @@
 export const guideSlug = "best-poe-splitter-for-raspberry-pi";
-export const guideTitle = "4 Best PoE Splitters for Raspberry Pi in 2026";
+export const guideTitle = "Best PoE Splitters for Raspberry Pi";
 export const metaTitle = "Best PoE Splitters for Raspberry Pi";
 export const metaDescription = "We compared PoE HATs for Raspberry Pi by real isolation rating, since one listing reaches 3KV galvanic isolation versus standard, non-isolated designs.";
 export const mainKeyword = "best poe splitter for raspberry pi";

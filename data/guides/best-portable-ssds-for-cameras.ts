@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-ssds-for-cameras";
-export const guideTitle = "5 Best Portable SSDs for Cameras in 2026";
+export const guideTitle = "Best Portable SSDs for Cameras";
 export const metaTitle = "Best Portable SSDs for Cameras, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable SSDs we evaluated for cameras, with the field-power-draw angle competitors skip: battery-powered field use means the SSD's own power draw affects overall camera battery management, a real photographer workflow constraint.";

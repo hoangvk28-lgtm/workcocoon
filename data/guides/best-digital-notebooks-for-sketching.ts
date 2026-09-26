@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-notebooks-for-sketching";
-export const guideTitle = "5 Best Digital Notebooks for Sketching in 2026";
+export const guideTitle = "Best Digital Notebooks for Sketching";
 export const metaTitle = "Best Digital Notebooks for Sketching (2026)";
 export const metaDescription =
   "5 devices compared on real sketching capability, pressure levels, tilt support, and color, since basic note-taking hardware doesn't automatically translate to good drawing hardware.";

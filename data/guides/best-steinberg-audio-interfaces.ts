@@ -1,5 +1,5 @@
 export const guideSlug = "best-steinberg-audio-interfaces";
-export const guideTitle = "8 Best Steinberg Audio Interfaces in 2026";
+export const guideTitle = "Best Steinberg Audio Interfaces";
 export const metaTitle = "Best Steinberg Audio Interfaces";
 export const metaDescription = "We compared steinberg audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "steinberg audio interface";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-chair-for-big-tall";
-export const guideTitle = "8 Best Gaming Chairs for Big & Tall in 2026";
+export const guideTitle = "Best Gaming Chairs for Big & Tall";
 export const metaTitle = "Best Gaming Chairs for Big & Tall in 2026 - Top 8 Picks";
 export const metaDescription =
   "The 8 best gaming chairs for big and tall users in 2026, ranked by weight capacity up to 500 lbs, seat width, and reinforced frame durability.";

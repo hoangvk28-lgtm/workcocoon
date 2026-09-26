@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-purifiers-for-smoke";
-export const guideTitle = "5 Best Air Purifiers for Smoke in 2026";
+export const guideTitle = "Best Air Purifiers for Smoke";
 export const metaTitle = "Best Air Purifiers for Smoke, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 air purifiers we evaluated for smoke, with the CADR-for-smoke specificity competitors skip: a general CADR rating doesn't tell you the smoke-specific CADR, which is often meaningfully lower than the dust or pollen number on the same box.";

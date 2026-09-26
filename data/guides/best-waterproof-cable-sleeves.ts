@@ -1,5 +1,5 @@
 export const guideSlug = "best-waterproof-cable-sleeves";
-export const guideTitle = "6 Best Waterproof Cable Sleeves in 2026";
+export const guideTitle = "Best Waterproof Cable Sleeves";
 export const metaTitle = "Best Waterproof Cable Sleeves";
 export const metaDescription = "We compared waterproof cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "waterproof cable sleeves";

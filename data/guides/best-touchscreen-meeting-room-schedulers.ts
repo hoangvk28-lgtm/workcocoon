@@ -1,5 +1,5 @@
 export const guideSlug = "best-touchscreen-meeting-room-schedulers";
-export const guideTitle = "8 Best Touchscreen Meeting Room Schedulers in 2026";
+export const guideTitle = "Best Touchscreen Meeting Room Schedulers";
 export const metaTitle = "Best Touchscreen Meeting Room Schedulers";
 export const metaDescription = "We compared touchscreen meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "touchscreen meeting room scheduler";

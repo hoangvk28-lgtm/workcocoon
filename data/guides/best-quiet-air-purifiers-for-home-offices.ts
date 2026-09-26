@@ -1,5 +1,5 @@
 export const guideSlug = "best-quiet-air-purifiers-for-home-offices";
-export const guideTitle = "5 Best Quiet Air Purifiers for Home Offices in 2026";
+export const guideTitle = "Best Quiet Air Purifiers for Home Offices";
 export const metaTitle = "Best Quiet Air Purifiers for Home Offices, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 quiet air purifiers we evaluated for home offices, with the disclosure gap competitors skip: decibel ratings are almost universally quoted at the lowest fan speed, which also delivers the lowest, often inadequate, CADR.";

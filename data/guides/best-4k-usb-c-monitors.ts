@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-usb-c-monitors";
-export const guideTitle = "5 Best 4K USB-C Monitors in 2026";
+export const guideTitle = "Best 4K USB-C Monitors";
 export const metaTitle = "Best 4K USB-C Monitors, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 4K USB-C monitors we evaluated, with a note that true 4K at 60Hz over a single USB-C cable requires DisplayPort 1.4 or newer, an older port spec can force a resolution or refresh rate compromise.";

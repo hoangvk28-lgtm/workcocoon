@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-wood";
-export const guideTitle = "8 Best Wood Room Dividers in 2026";
+export const guideTitle = "Best Wood Room Dividers";
 export const metaTitle = "Best Wood Room Dividers in 2026 (Shoji, Bamboo & Carved)";
 export const metaDescription =
   "8 best wood room dividers in 2026, from Japanese shoji screens to a hand-carved mango wood panel. Compare wood type, weight, and privacy for your space.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-vacuum-cleaner-and-blower-combos";
-export const guideTitle = "8 Best Mini Vacuum Cleaner and Blower Combos in 2026";
+export const guideTitle = "Best Mini Vacuum Cleaner and Blower Combos";
 export const metaTitle = "Best Mini Vacuum Cleaner and Blower Combos";
 export const metaDescription = "We compared mini vacuum cleaner and blower models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mini vacuum cleaner and blower";

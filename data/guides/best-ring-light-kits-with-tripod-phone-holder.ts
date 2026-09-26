@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-light-kits-with-tripod-phone-holder";
-export const guideTitle = "8 Best Ring Light Kits (With Tripod & Phone Holder) in 2026";
+export const guideTitle = "Best Ring Light Kits (With Tripod & Phone Holder)";
 export const metaTitle = "Best Ring Light Kits (With Tripod & Phone";
 export const metaDescription = "We compared ring light kit models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ring light kit";

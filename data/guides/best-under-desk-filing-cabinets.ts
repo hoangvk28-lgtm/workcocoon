@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-filing-cabinets";
-export const guideTitle = "8 Best Under-Desk Filing Cabinets in 2026";
+export const guideTitle = "Best Under-Desk Filing Cabinets";
 export const metaTitle = "Best Under-Desk Filing Cabinets in 2026 (Clearance Guide)";
 export const metaDescription =
   "8 filing cabinets we evaluated for real under-desk clearance, comparing pedestal and mobile designs against a wider lateral alternative before you measure and buy.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-enclosed-laser-engravers";
-export const guideTitle = "8 Best Enclosed Laser Engravers in 2026";
+export const guideTitle = "Best Enclosed Laser Engravers";
 export const metaTitle = "Best Enclosed Laser Engravers in 2026";
 export const metaDescription = "We compared best enclosed laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "enclosed laser engravers";

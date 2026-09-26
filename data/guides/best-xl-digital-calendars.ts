@@ -1,5 +1,5 @@
 export const guideSlug = "best-xl-digital-calendars";
-export const guideTitle = "6 Best XL Digital Calendars in 2026";
+export const guideTitle = "Best XL Digital Calendars";
 export const metaTitle = "Best XL Digital Calendars (2026)";
 export const metaDescription =
   "6 digital calendars ranked by size, led by a genuine 27 inch XL display, with an honest breakdown of what counts as large versus XL.";

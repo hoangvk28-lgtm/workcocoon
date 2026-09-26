@@ -1,5 +1,5 @@
 export const guideSlug = "best-password-protected-portable-ssds";
-export const guideTitle = "5 Best Password-Protected Portable SSDs in 2026";
+export const guideTitle = "Best Password-Protected Portable SSDs";
 export const metaTitle = "Best Password-Protected Portable SSDs, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 password-protected portable SSDs we evaluated, with the security-tier distinction competitors blur: password-protection alone, without full-disk hardware encryption, represents a lesser security tier that's worth understanding before buying.";

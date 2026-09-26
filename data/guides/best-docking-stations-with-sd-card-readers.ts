@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-with-sd-card-readers";
-export const guideTitle = "8 Best Docking Stations with SD Card Readers in 2026";
+export const guideTitle = "Best Docking Stations with a Card Reader Worth Trusting";
 export const metaTitle = "Best Docking Stations with SD Card Readers in 2026";
 export const metaDescription =
   "8 best docking stations with built-in SD card readers in 2026. Compare UHS-I vs UHS-II speeds, port counts, and displays for photographers and creators.";

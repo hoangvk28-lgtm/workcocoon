@@ -1,5 +1,5 @@
 export const guideSlug = "best-vintage-tape-dispensers";
-export const guideTitle = "4 Best Vintage Tape Dispensers in 2026";
+export const guideTitle = "Best Vintage Tape Dispensers";
 export const metaTitle = "Best Vintage Tape Dispensers";
 export const metaDescription = "We compared vintage tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vintage tape dispensers";

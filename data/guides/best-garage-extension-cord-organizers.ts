@@ -1,5 +1,5 @@
 export const guideSlug = "best-garage-extension-cord-organizers";
-export const guideTitle = "3 Best Garage Extension Cord Organizers in 2026";
+export const guideTitle = "Best Garage Extension Cord Organizers";
 export const metaTitle = "Best Garage Extension Cord Organizers";
 export const metaDescription = "We compared garage extension cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "garage extension cord organizers";

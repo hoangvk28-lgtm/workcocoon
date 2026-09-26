@@ -1,5 +1,5 @@
 export const guideSlug = "best-interactive-whiteboards-for-business";
-export const guideTitle = "7 Best Interactive Whiteboards for Business";
+export const guideTitle = "Best Interactive Whiteboards for Business";
 export const metaTitle = "Best Interactive Whiteboards for Business";
 export const metaDescription = "We required fleet management capability, SSO support, and multi-room deployment cost calculation before ranking business interactive whiteboards.";
 export const mainKeyword = "best interactive whiteboard for business";

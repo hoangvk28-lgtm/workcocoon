@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-air-purifiers";
-export const guideTitle = "5 Best Portable Air Purifiers in 2026";
+export const guideTitle = "Best Portable Air Purifiers";
 export const metaTitle = "Best Portable Air Purifiers, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable air purifiers we evaluated, with the context-dependent effectiveness competitors miss: a modest-CADR portable unit may perform adequately in an enclosed travel space like a car or hotel room despite being underpowered for home-room use.";

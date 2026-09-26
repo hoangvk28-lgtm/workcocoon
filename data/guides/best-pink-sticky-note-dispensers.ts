@@ -1,5 +1,5 @@
 export const guideSlug = "best-pink-sticky-note-dispensers";
-export const guideTitle = "4 Best Pink Sticky Note Dispensers in 2026";
+export const guideTitle = "Best Pink Sticky Note Dispensers";
 export const metaTitle = "Best Pink Sticky Note Dispensers";
 export const metaDescription = "We compared pink sticky note dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "pink sticky note dispensers";

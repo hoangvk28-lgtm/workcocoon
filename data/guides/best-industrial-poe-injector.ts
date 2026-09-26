@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-poe-injector";
-export const guideTitle = "4 Best Industrial DIN-Rail PoE Injectors in 2026";
+export const guideTitle = "Best Industrial DIN-Rail PoE Injectors";
 export const metaTitle = "Best Industrial PoE Injectors";
 export const metaDescription = "We compared industrial DIN-rail PoE injectors by real DC input flexibility, since a 12V or 24V cabinet supply avoids running separate injector power.";
 export const mainKeyword = "best industrial poe injector";

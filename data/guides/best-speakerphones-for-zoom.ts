@@ -1,5 +1,5 @@
 export const guideSlug = "best-speakerphones-for-zoom";
-export const guideTitle = "5 Best Speakerphones for Zoom in 2026";
+export const guideTitle = "Best Speakerphones for Zoom";
 export const metaTitle = "Best Speakerphones for Zoom, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 speakerphones we evaluated for Zoom, with the certification distinction that matters: Zoom-certified devices go through Zoom's own testing program, general USB compatibility works but isn't the same tested guarantee.";

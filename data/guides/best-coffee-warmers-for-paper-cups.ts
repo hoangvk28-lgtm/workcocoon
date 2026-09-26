@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmers-for-paper-cups";
-export const guideTitle = "6 Best Coffee Warmers for Paper Cups in 2026";
+export const guideTitle = "Best Coffee Warmers for Paper Cups";
 export const metaTitle = "Best Coffee Warmers for Paper Cups";
 export const metaDescription = "We compared coffee warmers for paper cups models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "coffee warmers for paper cups";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-wifi-7-routers-with-2-5gbe-ports";
-export const guideTitle = "4 Best Wi-Fi 7 Routers with 2.5GbE Ports in 2026";
+export const guideTitle = "Best Wi-Fi 7 Routers with 2.5GbE Ports";
 export const metaTitle = "Best Wi-Fi 7 Routers with 2.5GbE Ports (2026)";
 export const metaDescription =
   "4 Wi-Fi 7 routers we evaluated with 2.5GbE ports, the most cost-effective wired upgrade tier for most homes between 1GbE and full 10GbE.";

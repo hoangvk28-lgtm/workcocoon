@@ -1,5 +1,5 @@
 export const guideSlug = "best-tascam-audio-interfaces";
-export const guideTitle = "8 Best Tascam Audio Interfaces in 2026";
+export const guideTitle = "Best Tascam Audio Interfaces";
 export const metaTitle = "Best Tascam Audio Interfaces";
 export const metaDescription = "We compared tascam audio interface models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "tascam audio interface";

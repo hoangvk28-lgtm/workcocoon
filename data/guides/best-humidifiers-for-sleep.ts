@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-for-sleep";
-export const guideTitle = "8 Best Humidifiers for Sleep in 2026";
+export const guideTitle = "Best Humidifiers for Sleep";
 export const metaTitle = "Best Humidifiers for Sleep";
 export const metaDescription = "We compared humidifier for better sleep models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "humidifier for better sleep";

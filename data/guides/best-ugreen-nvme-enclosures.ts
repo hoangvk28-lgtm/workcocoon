@@ -1,5 +1,5 @@
 export const guideSlug = "best-ugreen-nvme-enclosures";
-export const guideTitle = "7 Best UGREEN NVMe Enclosures in 2026";
+export const guideTitle = "Best UGREEN NVMe Enclosures";
 export const metaTitle = "Best UGREEN NVMe Enclosures in 2026";
 export const metaDescription = "UGREEN spans 10, 20, 40, and 80Gbps enclosures under similar-looking cases. We separated the tiers before ranking.";
 export const mainKeyword = "ugreen nvme enclosures";

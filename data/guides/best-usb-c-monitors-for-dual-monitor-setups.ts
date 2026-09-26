@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-for-dual-monitor-setups";
-export const guideTitle = "5 Best USB-C Monitors for Dual-Monitor Setups in 2026";
+export const guideTitle = "Best USB-C Monitors for a Dual-Monitor Setup";
 export const metaTitle = "Best USB-C Monitors for Dual-Monitor Setups, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors we evaluated for dual-monitor setups, with a note that only one monitor in the pair typically needs power delivery capability, the second can often connect via a simpler standard cable.";

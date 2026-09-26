@@ -1,5 +1,5 @@
 export const guideSlug = "best-commercial-air-quality-monitors";
-export const guideTitle = "8 Best Commercial Air Quality Monitors in 2026";
+export const guideTitle = "Best Commercial Air Quality Monitors";
 export const metaTitle = "Best Commercial Air Quality Monitors";
 export const metaDescription = "We compared commercial air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "commercial air quality monitor";

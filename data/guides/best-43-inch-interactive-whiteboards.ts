@@ -1,5 +1,5 @@
 export const guideSlug = "best-43-inch-interactive-whiteboards";
-export const guideTitle = "6 Best 43-Inch Interactive Whiteboards";
+export const guideTitle = "Best 43-Inch Interactive Whiteboards";
 export const metaTitle = "Best 43-Inch Interactive Whiteboards";
 export const metaDescription = "We required a true interactive-whiteboard workflow at 43 inches, not just a commercial touch monitor, and compared embedded OS depth.";
 export const mainKeyword = "43 inch interactive whiteboard";

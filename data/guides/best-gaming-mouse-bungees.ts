@@ -1,5 +1,5 @@
 export const guideSlug = "best-gaming-mouse-bungees";
-export const guideTitle = "8 Best Gaming Mouse Bungees in 2026";
+export const guideTitle = "Best Gaming Mouse Bungees";
 export const metaTitle = "Best Gaming Mouse Bungees";
 export const metaDescription = "We compared gaming mouse bungee models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "gaming mouse bungee";

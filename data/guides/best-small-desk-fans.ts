@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-desk-fans";
-export const guideTitle = "8 Best Small Desk Fans in 2026";
+export const guideTitle = "Best Small Desk Fans";
 export const metaTitle = "Best Small Desk Fans";
 export const metaDescription = "We compared desk fan small table models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desk fan small table";

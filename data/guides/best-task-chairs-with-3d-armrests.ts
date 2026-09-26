@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-3d-armrests";
-export const guideTitle = "8 Best Task Chairs With 3D Armrests in 2026";
+export const guideTitle = "Best Task Chairs With 3D Armrests";
 export const metaTitle = "Best Task Chairs With 3D Armrests";
 export const metaDescription = "We compared task chair 3d adjustable arms models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair 3d adjustable arms";

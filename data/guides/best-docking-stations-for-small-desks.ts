@@ -1,5 +1,5 @@
 export const guideSlug = "best-docking-stations-for-small-desks";
-export const guideTitle = "8 Best Docking Stations for Small Desks in 2026";
+export const guideTitle = "Best Docking Stations That Won't Crowd a Small Desk";
 export const metaTitle = "Best Docking Stations for Small Desks in 2026 (Compact Picks)";
 export const metaDescription =
   "8 best docking stations for small desks in 2026, compared on footprint, cable length, port placement, and power delivery for tight setups.";

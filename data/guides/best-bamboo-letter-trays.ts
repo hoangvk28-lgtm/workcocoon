@@ -1,5 +1,5 @@
 export const guideSlug = "best-bamboo-letter-trays";
-export const guideTitle = "6 Best Bamboo Letter Trays in 2026";
+export const guideTitle = "Best Bamboo Letter Trays";
 export const metaTitle = "Best Bamboo Letter Trays";
 export const metaDescription = "We compared bamboo letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "bamboo letter trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-17-inch-monitor-privacy-screens";
-export const guideTitle = "3 Best 17-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 17-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 17-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "3 filters confirmed for genuine 17 inch monitors, plus an important note: 17 inch desktop and 17.3 inch laptop are different, non-interchangeable sizes.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-safes-for-apartments";
-export const guideTitle = "7 Best Small Safes for Apartments in 2026";
+export const guideTitle = "Best Small Safes for Apartments";
 export const metaTitle = "Best Small Safes for Apartments (2026)";
 export const metaDescription =
   "7 verified safes compared for rental-friendly anchoring, closet or cabinet fit, and move-out reversibility, after excluding one inaccessible ASIN.";

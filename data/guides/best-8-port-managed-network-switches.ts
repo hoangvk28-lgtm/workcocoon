@@ -1,5 +1,5 @@
 export const guideSlug = "best-8-port-managed-network-switches";
-export const guideTitle = "8 Best 8-Port Managed Network Switches in 2026";
+export const guideTitle = "Best 8-Port Managed Network Switches";
 export const metaTitle = "Best 8-Port Managed Network Switches";
 export const metaDescription = "8-port managed switches balance real VLAN/QoS control with a compact footprint. We compared the current lineup by management depth.";
 export const mainKeyword = "8-port managed network switches";

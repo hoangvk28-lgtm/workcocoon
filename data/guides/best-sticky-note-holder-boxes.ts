@@ -1,5 +1,5 @@
 export const guideSlug = "best-sticky-note-holder-boxes";
-export const guideTitle = "5 Best Sticky Note Holder Boxes in 2026";
+export const guideTitle = "Best Sticky Note Holder Boxes";
 export const metaTitle = "Best Sticky Note Holder Boxes";
 export const metaDescription = "We compared sticky note holder boxes models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "sticky note holder boxes";

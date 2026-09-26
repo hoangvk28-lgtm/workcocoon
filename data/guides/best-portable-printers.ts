@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-printers";
-export const guideTitle = "7 Best Portable Printers in 2026";
+export const guideTitle = "Best Portable Printers";
 export const metaTitle = "Best Portable Printers for Travel in 2026 (Battery Life Guide)";
 export const metaDescription =
   "7 best portable printers in 2026 for travel, compared on real battery life, cartridge availability on the road, and drop-resistant durability.";

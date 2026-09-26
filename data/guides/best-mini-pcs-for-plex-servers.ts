@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-plex-servers";
-export const guideTitle = "4 Best Mini PCs for Plex Servers in 2026";
+export const guideTitle = "Best Mini PCs for Plex Servers";
 export const metaTitle = "Best Mini PCs for Plex Servers (2026)";
 export const metaDescription =
   "4 mini PCs for Plex servers we evaluated, focused on hardware transcode capability and simultaneous stream capacity.";

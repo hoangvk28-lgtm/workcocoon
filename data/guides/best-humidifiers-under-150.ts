@@ -1,5 +1,5 @@
 export const guideSlug = "best-humidifiers-under-150";
-export const guideTitle = "8 Best Humidifiers Under $150 in 2026";
+export const guideTitle = "Best Humidifiers Under $150";
 export const metaTitle = "Best Humidifiers Under $150";
 export const metaDescription = "We compared humidifier under $150 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "humidifier under $150";

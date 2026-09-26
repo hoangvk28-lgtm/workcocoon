@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-5-dock-140w";
-export const guideTitle = "4 Best Thunderbolt 5 Docks with 140W Charging in 2026";
+export const guideTitle = "Best Thunderbolt 5 Docks with 140W Charging";
 export const metaTitle = "Best 140W Thunderbolt 5 Docks";
 export const metaDescription = "We compared Thunderbolt 5 docks by real sustained 140W charging, since dynamic power allocation can leave less power for a laptop under full device load.";
 export const mainKeyword = "best thunderbolt 5 dock 140w";

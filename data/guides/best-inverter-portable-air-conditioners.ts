@@ -1,5 +1,5 @@
 export const guideSlug = "best-inverter-portable-air-conditioners";
-export const guideTitle = "8 Best Inverter Portable Air Conditioners in 2026";
+export const guideTitle = "Best Inverter Portable Air Conditioners";
 export const metaTitle = "Best Inverter Portable Air Conditioners";
 export const metaDescription = "We compared midea duo smart inverter portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "midea duo smart inverter portable air conditioner";

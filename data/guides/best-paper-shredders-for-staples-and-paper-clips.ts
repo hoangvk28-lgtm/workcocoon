@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-shredders-for-staples-and-paper-clips";
-export const guideTitle = "8 Best Paper Shredders for Staples and Paper Clips in 2026";
+export const guideTitle = "Best Paper Shredders for Staples and Paper Clips";
 export const metaTitle = "Best Paper Shredders for Staples and Paper Clips, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders that explicitly handle staples and paper clips, with an honest note on the security-vs-durability tradeoff: the most secure micro-cut shredders are often the least staple-tolerant.";

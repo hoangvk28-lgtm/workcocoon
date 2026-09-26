@@ -1,5 +1,5 @@
 export const guideSlug = "best-adjustable-under-desk-pc-mounts";
-export const guideTitle = "4 Best Adjustable Under-Desk PC Mounts in 2026";
+export const guideTitle = "Best Adjustable Under-Desk PC Mounts";
 export const metaTitle = "Best Adjustable Under-Desk PC Mounts (2026)";
 export const metaDescription =
   "4 adjustable under-desk PC mounts we evaluated, clarifying which dimension, height, width, or tilt, each actually adjusts and how reliably it holds under load.";

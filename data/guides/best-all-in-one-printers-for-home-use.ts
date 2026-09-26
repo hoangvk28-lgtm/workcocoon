@@ -1,5 +1,5 @@
 export const guideSlug = "best-all-in-one-printers-for-home-use";
-export const guideTitle = "8 Best All-in-One Printers for Home Use in 2026";
+export const guideTitle = "Best All-in-One Printers for Home Use";
 export const metaTitle = "Best All-in-One Printers for Home Use in 2026";
 export const metaDescription =
   "8 best all-in-one printers for home use in 2026. Compare print, scan, copy, ADF, and fax features so you don't pay for capability you'll never touch.";

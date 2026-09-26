@@ -1,5 +1,5 @@
 export const guideSlug = "best-cuzor-mini-ups-for-routers";
-export const guideTitle = "5 Best Cuzor Mini UPS for Routers in 2026";
+export const guideTitle = "Best Cuzor Mini UPS for Routers";
 export const metaTitle = "Best Cuzor Mini UPS for Routers 2026";
 export const metaDescription = "Cuzor markets zero-lag switchover and multi-hour backup for routers. We verified voltage, current, and warranty before ranking alternatives.";
 export const mainKeyword = "cuzor mini ups for routers";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-thunderbolt-nvme-enclosures";
-export const guideTitle = "8 Best Thunderbolt NVMe Enclosures in 2026";
+export const guideTitle = "Best Thunderbolt NVMe Enclosures";
 export const metaTitle = "Best Thunderbolt NVMe Enclosures 2026";
 export const metaDescription = "Not every USB-C enclosure plugged into a Thunderbolt port is a real Thunderbolt enclosure. We separated certified devices from merely compatible ones.";
 export const mainKeyword = "thunderbolt nvme enclosures";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-pads-for-laptops";
-export const guideTitle = "8 Best Desk Pads for Laptops in 2026";
+export const guideTitle = "Best Desk Pads for Laptops";
 export const metaTitle = "Best Desk Pads for Laptops";
 export const metaDescription = "We compared desk pad for keyboard and mouse models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "desk pad for keyboard and mouse";

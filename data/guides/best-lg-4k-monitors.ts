@@ -1,5 +1,5 @@
 export const guideSlug = "best-lg-4k-monitors";
-export const guideTitle = "6 Best LG 4K Monitors in 2026";
+export const guideTitle = "Best LG 4K Monitors";
 export const metaTitle = "Best LG 4K Monitors";
 export const metaDescription = "We compared lg 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "lg 4k monitors";

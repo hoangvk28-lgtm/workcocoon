@@ -1,5 +1,5 @@
 export const guideSlug = "best-lab-tape-dispensers";
-export const guideTitle = "5 Best Lab Tape Dispensers in 2026";
+export const guideTitle = "Best Lab Tape Dispensers";
 export const metaTitle = "Best Lab Tape Dispensers";
 export const metaDescription = "We compared lab tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "lab tape dispensers";

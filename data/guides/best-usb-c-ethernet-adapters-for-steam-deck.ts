@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-steam-deck";
-export const guideTitle = "6 Best USB-C Ethernet Adapters for Steam Deck";
+export const guideTitle = "Best USB-C Ethernet Adapters for Steam Deck";
 export const metaTitle = "Best Ethernet Adapters for Steam Deck";
 export const metaDescription = "This guide covers both dedicated Steam Deck docks with Ethernet and standalone USB-C adapters that work with Steam Deck's SteamOS.";
 export const mainKeyword = "usb-c ethernet adapters for steam deck";

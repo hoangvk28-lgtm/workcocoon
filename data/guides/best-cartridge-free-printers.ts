@@ -1,5 +1,5 @@
 export const guideSlug = "best-cartridge-free-printers";
-export const guideTitle = "8 Best Cartridge-Free Printers in 2026";
+export const guideTitle = "Best Cartridge-Free Printers";
 export const metaTitle = "Best Cartridge-Free Printers in 2026 (EcoTank & MegaTank Picks)";
 export const metaDescription =
   "8 best cartridge-free printers in 2026, all refillable ink-tank models from Epson EcoTank and Canon MegaTank. Compare ink cost, printhead life, and setup.";

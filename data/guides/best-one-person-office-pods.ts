@@ -1,5 +1,5 @@
 export const guideSlug = "best-one-person-office-pods";
-export const guideTitle = "2 Best One-Person Office Pods in 2026";
+export const guideTitle = "Best One-Person Office Pods";
 export const metaTitle = "Best One-Person Office Pods (2026)";
 export const metaDescription =
   "2 office pods with explicit single-occupant framing in their Amazon listings, reviewed honestly given how few single-occupant listings exist.";

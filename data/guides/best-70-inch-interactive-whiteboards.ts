@@ -1,5 +1,5 @@
 export const guideSlug = "best-70-inch-interactive-whiteboards";
-export const guideTitle = "7 Best 70-Inch Interactive Whiteboards";
+export const guideTitle = "Best 70-Inch Interactive Whiteboards";
 export const metaTitle = "Best 70-Inch Interactive Whiteboards";
 export const metaDescription = "70-inch searches contain many older products. We created a current-versus-legacy inventory and compared against nearby 65/75-inch sizes.";
 export const mainKeyword = "70 inch interactive whiteboard";

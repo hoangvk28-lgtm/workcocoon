@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-led-4k-monitors";
-export const guideTitle = "6 Best Mini-LED 4K Monitors in 2026";
+export const guideTitle = "Best Mini-LED 4K Monitors";
 export const metaTitle = "Best Mini-LED 4K Monitors";
 export const metaDescription = "We compared mini-led 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mini-led 4k monitors";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-cooling-pads-for-macbook-pro";
-export const guideTitle = "6 Best Laptop Cooling Pads for MacBook Pro in 2026";
+export const guideTitle = "Best Laptop Cooling Pads for MacBook Pro";
 export const metaTitle = "Best Cooling Pads for MacBook Pro (2026)";
 export const metaDescription =
   "6 cooling pads for MacBook Pro compared for real vent alignment with its active internal fans, sized for video editing and compile-heavy workloads.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-business-card-holders-for-realtors";
-export const guideTitle = "4 Best Business Card Holders for Realtors in 2026";
+export const guideTitle = "Best Business Card Holders for Realtors";
 export const metaTitle = "Best Business Card Holders for Realtors";
 export const metaDescription = "We compared business card holders for realtors models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "business card holders for realtors";

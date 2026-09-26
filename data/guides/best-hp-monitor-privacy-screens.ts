@@ -1,5 +1,5 @@
 export const guideSlug = "best-hp-monitor-privacy-screens";
-export const guideTitle = "6 Best HP Monitor Privacy Screens in 2026";
+export const guideTitle = "Best HP Monitor Privacy Screens";
 export const metaTitle = "Best HP Monitor Privacy Screens (2026)";
 export const metaDescription =
   "Honest note: these are third-party filters sized to fit common HP monitor dimensions, not HP-branded products. We verified fit by size, not by logo.";

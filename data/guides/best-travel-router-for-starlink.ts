@@ -1,5 +1,5 @@
 export const guideSlug = "best-travel-router-for-starlink";
-export const guideTitle = "4 Best Travel Routers for Starlink in 2026";
+export const guideTitle = "Best Travel Routers for Starlink";
 export const metaTitle = "Best Travel Routers for Starlink";
 export const metaDescription = "We compared travel routers for Starlink by real generation compatibility, since one supports Gen 2 through Mini systems while another is Gen 3-specific only.";
 export const mainKeyword = "best travel router for starlink";

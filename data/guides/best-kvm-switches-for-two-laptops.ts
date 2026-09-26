@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-for-two-laptops";
-export const guideTitle = "5 Best KVM Switches for Two Laptops in 2026";
+export const guideTitle = "Best KVM Switches for Two Laptops";
 export const metaTitle = "Best KVM Switches for Two Laptops, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches for two laptops we evaluated, with a note that switching between two laptops through USB-C often needs both laptop ports to support video output, not just one.";

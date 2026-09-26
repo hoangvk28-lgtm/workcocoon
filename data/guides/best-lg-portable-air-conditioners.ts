@@ -1,5 +1,5 @@
 export const guideSlug = "best-lg-portable-air-conditioners";
-export const guideTitle = "8 Best LG Portable Air Conditioners in 2026";
+export const guideTitle = "Best LG Portable Air Conditioners";
 export const metaTitle = "Best LG Portable Air Conditioners";
 export const metaDescription = "We compared portable air conditioner lg models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "portable air conditioner lg";

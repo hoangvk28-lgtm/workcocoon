@@ -1,5 +1,5 @@
 export const guideSlug = "best-drawing-tablets-for-blender";
-export const guideTitle = "6 Best Drawing Tablets for Blender in 2026";
+export const guideTitle = "Best Drawing Tablets for Blender";
 export const metaTitle = "Best Drawing Tablets for Blender 2026";
 export const metaDescription = "We compared drawing tablets for blender by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "drawing tablets for blender";

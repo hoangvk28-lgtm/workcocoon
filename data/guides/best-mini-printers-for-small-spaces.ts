@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-printers-for-small-spaces";
-export const guideTitle = "7 Best Mini Printers for Small Spaces in 2026";
+export const guideTitle = "Best Mini Printers for Small Spaces";
 export const metaTitle = "Best Mini Printers for Small Spaces in 2026 (Footprint Guide)";
 export const metaDescription =
   "7 best mini printers for small spaces in 2026, compared on true desk footprint, drawer storage fit, and the inkless vs inkjet tradeoff for home use.";

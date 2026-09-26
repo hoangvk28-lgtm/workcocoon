@@ -1,5 +1,5 @@
 export const guideSlug = "best-6-port-poe-network-switches";
-export const guideTitle = "5 Best 6-Port PoE Network Switches in 2026";
+export const guideTitle = "Best 6-Port PoE Network Switches";
 export const metaTitle = "Best 6-Port PoE Network Switches";
 export const metaDescription = "Dedicated 6-port PoE switches are niche; we also considered 5-port PoE+1 uplink switches serving the same use case.";
 export const mainKeyword = "6-port poe network switches";

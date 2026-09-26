@@ -1,5 +1,5 @@
 export const guideSlug = "best-ultra-thin-desk-pads";
-export const guideTitle = "8 Best Ultra-Thin Desk Pads in 2026";
+export const guideTitle = "Best Ultra-Thin Desk Pads";
 export const metaTitle = "Best Ultra-Thin Desk Pads";
 export const metaDescription = "We compared desk pad ultralight models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad ultralight";

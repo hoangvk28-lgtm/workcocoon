@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-corner-desks";
-export const guideTitle = "8 Best Large Corner Desks in 2026";
+export const guideTitle = "Best Large Corner Desks";
 export const metaTitle = "Best Large Corner Desks";
 export const metaDescription = "We compared corner desk large models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desk large";

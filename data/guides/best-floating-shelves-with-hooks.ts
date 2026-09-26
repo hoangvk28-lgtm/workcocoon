@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-shelves-with-hooks";
-export const guideTitle = "8 Best Floating Shelves with Hooks in 2026";
+export const guideTitle = "Best Floating Shelves with Hooks";
 export const metaTitle = "Best Floating Shelves with Hooks";
 export const metaDescription = "We compared floating shelf with hooks models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "floating shelf with hooks";

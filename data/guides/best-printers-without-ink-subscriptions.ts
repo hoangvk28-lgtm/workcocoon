@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-without-ink-subscriptions";
-export const guideTitle = "8 Best Printers Without Ink Subscriptions in 2026";
+export const guideTitle = "Best Printers Without Ink Subscriptions";
 export const metaTitle = "Best Printers Without Ink Subscriptions in 2026 (Ink Tank vs Cartridge)";
 export const metaDescription =
   "8 printers we evaluated for buyers who want to avoid ink subscriptions entirely, plus the difference between no subscription and no ink lock that most guides skip.";

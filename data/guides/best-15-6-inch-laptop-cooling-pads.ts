@@ -1,5 +1,5 @@
 export const guideSlug = "best-15-6-inch-laptop-cooling-pads";
-export const guideTitle = "6 Best 15.6-Inch Laptop Cooling Pads in 2026";
+export const guideTitle = "Best 15.6-Inch Laptop Cooling Pads";
 export const metaTitle = "Best 15.6-Inch Laptop Cooling Pads (2026)";
 export const metaDescription =
   "6 laptop cooling pads we evaluated for 15.6-inch laptops, the single most common laptop size, checking real dimensional fit not just the label.";

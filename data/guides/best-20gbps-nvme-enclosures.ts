@@ -1,5 +1,5 @@
 export const guideSlug = "best-20gbps-nvme-enclosures";
-export const guideTitle = "5 Best 20Gbps NVMe Enclosures in 2026";
+export const guideTitle = "Best 20Gbps NVMe Enclosures";
 export const metaTitle = "Best 20Gbps NVMe Enclosures 2026";
 export const metaDescription = "USB 3.2 Gen 2x2 can offer 20Gbps, but many hosts including most Macs do not negotiate that mode. Host support is part of our inclusion bar.";
 export const mainKeyword = "20gbps nvme enclosures";

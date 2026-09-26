@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-walking-pads-for-standing-desks";
 
 export const guideSlug = "best-walking-pads-for-standing-desks";
-export const guideTitle = "8 Best Walking Pads for Standing Desks (2026)";
+export const guideTitle = "Best Walking Pads for Standing Desks (2026)";
 export const metaTitle = "Best Walking Pads for Standing Desks 2026";
 export const metaDescription =
   "Best walking pads for standing desks in 2026. Under-desk treadmills with incline, dual-mode 2-in-1 designs, and quiet brushless motors ranked by value.";

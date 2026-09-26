@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-ethernet-adapters-for-mac";
-export const guideTitle = "8 Best USB-C Ethernet Adapters for Mac";
+export const guideTitle = "Best USB-C Ethernet Adapters for Mac";
 export const metaTitle = "Best USB-C Ethernet Adapters for Mac";
 export const metaDescription = "Mac compatibility depends on exact port generation and macOS driver behavior, not the USB-C connector alone. Here's what to check first.";
 export const mainKeyword = "usb-c ethernet adapters for mac";

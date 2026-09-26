@@ -1,5 +1,5 @@
 export const guideSlug = "best-ipad-meeting-room-schedulers";
-export const guideTitle = "8 Best iPad Meeting Room Schedulers in 2026";
+export const guideTitle = "Best iPad Meeting Room Schedulers";
 export const metaTitle = "Best iPad Meeting Room Schedulers";
 export const metaDescription = "We compared ipad meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "ipad meeting room scheduler";

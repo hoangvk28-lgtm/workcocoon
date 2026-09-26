@@ -1,5 +1,5 @@
 export const guideSlug = "best-rechargeable-bookend-lamps";
-export const guideTitle = "4 Best Rechargeable Bookend Lamps in 2026";
+export const guideTitle = "Best Rechargeable Bookend Lamps";
 export const metaTitle = "Best Rechargeable Bookend Lamps";
 export const metaDescription = "We compared rechargeable bookend lamps models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "rechargeable bookend lamps";

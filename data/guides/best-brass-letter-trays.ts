@@ -1,5 +1,5 @@
 export const guideSlug = "best-brass-letter-trays";
-export const guideTitle = "3 Best Brass Letter Trays in 2026";
+export const guideTitle = "Best Brass Letter Trays";
 export const metaTitle = "Best Brass Letter Trays";
 export const metaDescription = "We compared brass letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "brass letter trays";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-under-desk-pen-and-stationery-drawers";
-export const guideTitle = "8 Best Under-Desk Pen and Stationery Drawers in 2026";
+export const guideTitle = "Best Under-Desk Pen and Stationery Drawers";
 export const metaTitle = "Best Under-Desk Pen and Stationery Drawers";
 export const metaDescription = "We compared under desk drawer for pens models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "under desk drawer for pens";

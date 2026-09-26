@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-portable-file-boxes";
-export const guideTitle = "5 Best Small Portable File Boxes in 2026";
+export const guideTitle = "Best Small Portable File Boxes";
 export const metaTitle = "Best Small Portable File Boxes (2026)";
 export const metaDescription =
   "5 compact file boxes with concrete dimensions, realistic reduced folder capacity disclosed, and honest best-fit use cases for small document needs.";

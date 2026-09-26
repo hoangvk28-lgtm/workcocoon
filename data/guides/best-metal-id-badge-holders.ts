@@ -1,5 +1,5 @@
 export const guideSlug = "best-metal-id-badge-holders";
-export const guideTitle = "6 Best Metal ID Badge Holders in 2026";
+export const guideTitle = "Best Metal ID Badge Holders";
 export const metaTitle = "Best Metal ID Badge Holders";
 export const metaDescription = "We compared metal id badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "metal id badge holders";

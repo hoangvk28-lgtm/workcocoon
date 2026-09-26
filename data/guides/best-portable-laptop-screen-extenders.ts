@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-laptop-screen-extenders";
-export const guideTitle = "5 Best Portable Laptop Screen Extenders in 2026";
+export const guideTitle = "Best Portable Laptop Screen Extenders";
 export const metaTitle = "Best Portable Laptop Screen Extenders, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 portable laptop screen extenders we evaluated, with the true-kit-weight disclosure competitors skip: total travel weight includes the cable, cover, and any stand accessory, not just the screen panel's own listed weight.";

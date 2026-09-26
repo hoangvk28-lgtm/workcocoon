@@ -1,5 +1,5 @@
 export const guideSlug = "best-small-jewelry-safes-with-drawers";
-export const guideTitle = "7 Best Small Jewelry Safes With Drawers in 2026";
+export const guideTitle = "Best Small Jewelry Safes With Drawers";
 export const metaTitle = "Best Jewelry Safes With Drawers (2026)";
 export const metaDescription =
   "7 verified safes compared on true drawer mechanisms versus removable shelves, after excluding one inaccessible ASIN from our jewelry-drawer research.";

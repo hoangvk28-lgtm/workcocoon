@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desk-converters";
-export const guideTitle = "8 Best Standing Desk Converters in 2026";
+export const guideTitle = "Best Standing Desk Converters";
 export const metaTitle = "Best Standing Desk Converters (2026)";
 export const metaDescription =
   "8 standing desk converters compared on real fit with your existing desk, not just height range and load capacity from the listing.";

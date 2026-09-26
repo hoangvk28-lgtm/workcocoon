@@ -1,5 +1,5 @@
 export const guideSlug = "best-portable-monitors-under-200";
-export const guideTitle = "8 Best Portable Monitors Under $200 in 2026";
+export const guideTitle = "Best Portable Monitors Under $200";
 export const metaTitle = "Best Portable Monitors Under $200, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 portable monitors under $200, with an honest breakdown of what you're actually getting at this price tier versus what's cut, stand quality, port count, and speaker wattage among them.";

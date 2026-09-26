@@ -1,5 +1,5 @@
 export const guideSlug = "best-48-inch-wide-under-desk-drawers";
-export const guideTitle = "8 Best 48-Inch-Wide Under-Desk Drawers in 2026";
+export const guideTitle = "Best 48-Inch-Wide Under-Desk Drawers";
 export const metaTitle = "Best 48-Inch-Wide Under-Desk Drawers";
 export const metaDescription = "We compared under-desk drawer 48 inches wide models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "under-desk drawer 48 inches wide";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-20w-fiber-laser-engravers";
-export const guideTitle = "4 Best 20W Fiber Laser Engravers in 2026";
+export const guideTitle = "Best 20W Fiber Laser Engravers";
 export const metaTitle = "Best 20W Fiber Laser Engravers in 2026";
 export const metaDescription = "We compared best 20w fiber laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "20w fiber laser engravers";

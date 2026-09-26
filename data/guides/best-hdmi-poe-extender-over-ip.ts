@@ -1,5 +1,5 @@
 export const guideSlug = "best-hdmi-poe-extender-over-ip";
-export const guideTitle = "4 Best HDMI PoE Extenders Over IP in 2026";
+export const guideTitle = "Best HDMI PoE Extenders Over IP";
 export const metaTitle = "Best HDMI PoE Extenders Over IP";
 export const metaDescription = "We compared HDMI-over-IP extenders by whether they use true PoE switch power or PoC, a different single-cable power scheme most listings label similarly.";
 export const mainKeyword = "best hdmi poe extender over ip";

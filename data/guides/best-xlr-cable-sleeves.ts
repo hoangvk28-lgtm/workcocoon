@@ -1,5 +1,5 @@
 export const guideSlug = "best-xlr-cable-sleeves";
-export const guideTitle = "6 Best XLR Cable Sleeves in 2026";
+export const guideTitle = "Best XLR Cable Sleeves";
 export const metaTitle = "Best XLR Cable Sleeves";
 export const metaDescription = "We compared xlr cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "xlr cable sleeves";

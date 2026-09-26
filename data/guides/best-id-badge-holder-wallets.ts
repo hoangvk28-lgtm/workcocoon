@@ -1,5 +1,5 @@
 export const guideSlug = "best-id-badge-holder-wallets";
-export const guideTitle = "6 Best ID Badge Holder Wallets in 2026";
+export const guideTitle = "Best ID Badge Holder Wallets";
 export const metaTitle = "Best ID Badge Holder Wallets";
 export const metaDescription = "We compared id badge holder wallets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "id badge holder wallets";

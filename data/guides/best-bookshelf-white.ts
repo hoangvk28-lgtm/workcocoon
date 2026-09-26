@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-white";
-export const guideTitle = "7 Best White Bookshelves in 2026";
+export const guideTitle = "Best White Bookshelves";
 export const metaTitle = "Best White Bookshelves in 2026 (Narrow, Tall & With Drawers)";
 export const metaDescription =
   "7 best white bookshelves in 2026, comparing narrow stackable units, tall 6-tier towers, and drawer-equipped picks. Compare capacity, footprint, and price.";

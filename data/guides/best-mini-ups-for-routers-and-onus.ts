@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ups-for-routers-and-onus";
-export const guideTitle = "6 Best Mini UPS for Routers and ONUs in 2026";
+export const guideTitle = "Best Mini UPS for Routers and ONUs";
 export const metaTitle = "Best Mini UPS for Routers and ONUs 2026";
 export const metaDescription = "Router-plus-ONU is one of the strongest real mini UPS use cases. We compared current units explicitly built for this two-device combination.";
 export const mainKeyword = "mini ups for routers and onus";

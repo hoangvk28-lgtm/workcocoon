@@ -1,5 +1,5 @@
 export const guideSlug = "best-ir-laser-engravers";
-export const guideTitle = "5 Best IR Laser Engravers in 2026";
+export const guideTitle = "Best IR Laser Engravers";
 export const metaTitle = "Best IR Laser Engravers in 2026";
 export const metaDescription = "We compared best ir laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "ir laser engravers";

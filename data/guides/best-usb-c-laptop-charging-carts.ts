@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-laptop-charging-carts";
-export const guideTitle = "7 Best USB-C Laptop Charging Carts in 2026";
+export const guideTitle = "Best USB-C Laptop Charging Carts";
 export const metaTitle = "Best USB-C Laptop Charging Carts (2026)";
 export const metaDescription =
   "7 verified USB-C charging products compared, with an honest split between true wheeled carts and desktop USB-C stations after excluding one inaccessible ASIN.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-kvm-switches-for-mac";
-export const guideTitle = "5 Best KVM Switches for Mac in 2026";
+export const guideTitle = "Best KVM Switches for Mac";
 export const metaTitle = "Best KVM Switches for Mac, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 KVM switches for Mac we evaluated, with a note that macOS handles external display resolution differently than Windows, verify a switch's EDID emulation is confirmed to work on Mac specifically.";

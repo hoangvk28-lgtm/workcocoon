@@ -1,5 +1,5 @@
 export const guideSlug = "best-narrow-standing-desk-converters";
-export const guideTitle = "6 Best Narrow Standing Desk Converters in 2026";
+export const guideTitle = "Best Narrow Standing Desk Converters";
 export const metaTitle = "Best Narrow Standing Desk Converters (2026)";
 export const metaDescription =
   "6 standing desk converters compared for narrow width specifically, while still preserving room for a full-size keyboard and mouse.";

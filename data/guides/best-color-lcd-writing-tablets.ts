@@ -1,5 +1,5 @@
 export const guideSlug = "best-color-lcd-writing-tablets";
-export const guideTitle = "5 Best Color LCD Writing Tablets in 2026";
+export const guideTitle = "Best Color LCD Writing Tablets";
 export const metaTitle = "Best Color LCD Writing Tablets (2026)";
 export const metaDescription =
   "5 LCD writing tablets confirmed with multi-color drawing lines, ranked from a $5.99 doodle board to a $24.17 protected design.";

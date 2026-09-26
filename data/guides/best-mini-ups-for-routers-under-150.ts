@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-ups-for-routers-under-150";
-export const guideTitle = "7 Best Mini UPS for Routers Under $150 in 2026";
+export const guideTitle = "Best Mini UPS for Routers Under $150";
 export const metaTitle = "Best Mini UPS for Routers Under $150 in 2026";
 export const metaDescription = "We compared best mini ups for routers under $150 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "mini ups for routers under $150";

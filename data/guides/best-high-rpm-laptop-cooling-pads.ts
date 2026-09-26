@@ -1,5 +1,5 @@
 export const guideSlug = "best-high-rpm-laptop-cooling-pads";
-export const guideTitle = "8 Best High-RPM Laptop Cooling Pads in 2026";
+export const guideTitle = "Best High-RPM Laptop Cooling Pads";
 export const metaTitle = "Best High-RPM Laptop Cooling Pads (2026)";
 export const metaDescription =
   "8 laptop cooling pads ranked by documented fan RPM, with noise, bearing longevity, and gaming workload tradeoffs explained honestly.";

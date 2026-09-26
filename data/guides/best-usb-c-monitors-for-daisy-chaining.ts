@@ -1,5 +1,5 @@
 export const guideSlug = "best-usb-c-monitors-for-daisy-chaining";
-export const guideTitle = "5 Best USB-C Monitors for Daisy Chaining in 2026";
+export const guideTitle = "Best USB-C Monitors for Daisy Chaining";
 export const metaTitle = "Best USB-C Monitors for Daisy Chaining, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 USB-C monitors we evaluated for daisy chaining, with a note that DisplayPort Multi-Stream Transport (MST) is required for true daisy chaining, and not every USB-C monitor supports it despite having two ports.";

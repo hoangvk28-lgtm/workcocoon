@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-l-shaped";
-export const guideTitle = "8 Best L-Shaped Bookshelves in 2026";
+export const guideTitle = "Best L-Shaped Bookshelves";
 export const metaTitle = "Best L-Shaped Bookshelves in 2026 (Corner & Etagere Picks)";
 export const metaDescription =
   "8 best L-shaped bookshelves in 2026, comparing corner bookcases, etageres, and drawer-equipped units. Compare capacity, configuration flexibility, and safety features.";

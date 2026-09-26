@@ -1,5 +1,5 @@
 export const guideSlug = "best-uv-laser-engravers-for-glass";
-export const guideTitle = "5 Best UV Laser Engravers for Glass in 2026";
+export const guideTitle = "Best UV Laser Engravers for Glass";
 export const metaTitle = "Best UV Laser Engravers for Glass in 2026";
 export const metaDescription = "We compared best uv laser engravers for glass by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "uv laser engravers for glass";

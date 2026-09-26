@@ -1,5 +1,5 @@
 export const guideSlug = "best-gigabit-network-switches";
-export const guideTitle = "7 Best Gigabit Network Switches in 2026";
+export const guideTitle = "Best Gigabit Network Switches";
 export const metaTitle = "Best Gigabit Network Switches 2026";
 export const metaDescription = "Gigabit remains the mainstream speed tier for most home and office networks. We compared build quality and extras across the current lineup.";
 export const mainKeyword = "gigabit network switches";

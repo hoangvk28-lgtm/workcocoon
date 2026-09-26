@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-adjustable-seat-height";
-export const guideTitle = "8 Best Task Chairs With Adjustable Seat Height in 2026";
+export const guideTitle = "Best Task Chairs With Adjustable Seat Height";
 export const metaTitle = "Best Task Chairs With Adjustable Seat Height";
 export const metaDescription = "We compared task chair seat height adjustable models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair seat height adjustable";

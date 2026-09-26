@@ -1,5 +1,5 @@
 export const guideSlug = "best-personal-desktop-whiteboards";
-export const guideTitle = "5 Best Personal Desktop Whiteboards in 2026";
+export const guideTitle = "Best Personal Desktop Whiteboards";
 export const metaTitle = "Best Personal Desktop Whiteboards (2026)";
 export const metaDescription =
   "5 desktop whiteboards for single-user desk placement, overlapping with our compact whiteboards guide but focused on keyboard-adjacent positioning and organizer features for one person's workflow.";

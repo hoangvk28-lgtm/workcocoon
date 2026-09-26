@@ -1,5 +1,5 @@
 export const guideSlug = "best-walking-pads-under-300";
-export const guideTitle = "4 Best Walking Pads Under $300 in 2026";
+export const guideTitle = "Best Walking Pads Under $300";
 export const metaTitle = "Best Walking Pads Under $300";
 export const metaDescription = "We compared walking pads under $300 by motor lifespan, weight capacity, and belt width, since heavy-duty models built for taller and heavier users appear here.";
 export const mainKeyword = "best walking pads under $300";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-acrylic-modesty-panels-for-desks";
-export const guideTitle = "6 Best Acrylic Modesty Panels for Desks in 2026";
+export const guideTitle = "Best Acrylic Modesty Panels for Desks";
 export const metaTitle = "Best Acrylic Modesty Panels for Desks";
 export const metaDescription = "We compared acrylic modesty panels for desks models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "acrylic modesty panels for desks";

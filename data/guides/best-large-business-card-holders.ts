@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-business-card-holders";
-export const guideTitle = "6 Best Large Business Card Holders in 2026";
+export const guideTitle = "Best Large Business Card Holders";
 export const metaTitle = "Best Large Business Card Holders";
 export const metaDescription = "We compared large business card holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "large business card holders";

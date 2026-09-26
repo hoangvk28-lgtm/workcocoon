@@ -1,5 +1,5 @@
 export const guideSlug = "best-flat-gaming-monitors";
-export const guideTitle = "6 Best Flat Gaming Monitors in 2026";
+export const guideTitle = "Best Flat Gaming Monitors";
 export const metaTitle = "Best Flat Gaming Monitors";
 export const metaDescription = "We compared flat gaming monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "flat gaming monitors";

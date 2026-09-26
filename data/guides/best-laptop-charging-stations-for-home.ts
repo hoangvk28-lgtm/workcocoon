@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-charging-stations-for-home";
-export const guideTitle = "8 Best Laptop Charging Stations for Home in 2026";
+export const guideTitle = "Best Laptop Charging Stations for Home";
 export const metaTitle = "Best Laptop Charging Stations for Home (2026)";
 export const metaDescription =
   "8 home charging stations compared, from compact desktop docks to small mobile carts, with an honest note on which are actually desk-sized versus cart-sized.";

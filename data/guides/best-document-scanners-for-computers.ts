@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-for-computers";
-export const guideTitle = "8 Best Document Scanners for Computers in 2026";
+export const guideTitle = "Best Document Scanners for Computers";
 export const metaTitle = "Best Document Scanners for Computers, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 scanners we evaluated for real computer compatibility, with a note that driver architecture (TWAIN vs. ISIS vs. WIA) determines software compatibility, not just OS support.";

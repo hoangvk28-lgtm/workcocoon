@@ -1,5 +1,5 @@
 export const guideSlug = "best-document-scanners-for-small-businesses";
-export const guideTitle = "8 Best Document Scanners for Small Businesses in 2026";
+export const guideTitle = "Best Document Scanners for Small Businesses";
 export const metaTitle = "Best Document Scanners for Small Businesses, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 scanners we evaluated for small business use, with a note that daily/monthly duty cycle, not ADF capacity, actually determines whether a scanner fits your real volume, plus the hidden ISIS licensing cost for DMS-integrated businesses.";

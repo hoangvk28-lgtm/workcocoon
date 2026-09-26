@@ -1,5 +1,5 @@
 export const guideSlug = "best-black-decker-portable-air-conditioners";
-export const guideTitle = "8 Best BLACK+DECKER Portable Air Conditioners in 2026";
+export const guideTitle = "Best BLACK+DECKER Portable Air Conditioners";
 export const metaTitle = "Best BLACK+DECKER Portable Air Conditioners";
 export const metaDescription = "We compared black and decker portable air conditioner models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "black and decker portable air conditioner";

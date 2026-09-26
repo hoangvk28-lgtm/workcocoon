@@ -1,5 +1,5 @@
 export const guideSlug = "best-longer-laser-engravers";
-export const guideTitle = "5 Best LONGER Laser Engravers in 2026";
+export const guideTitle = "Best LONGER Laser Engravers";
 export const metaTitle = "Best LONGER Laser Engravers in 2026";
 export const metaDescription = "We compared best longer laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "longer laser engravers";

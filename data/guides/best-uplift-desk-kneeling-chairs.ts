@@ -1,5 +1,5 @@
 export const guideSlug = "best-uplift-desk-kneeling-chairs";
-export const guideTitle = "8 Best UPLIFT Desk Kneeling Chairs in 2026";
+export const guideTitle = "Best UPLIFT Desk Kneeling Chairs";
 export const metaTitle = "Best UPLIFT Desk Kneeling Chairs";
 export const metaDescription = "We compared uplift desk ergonomic kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "uplift desk ergonomic kneeling chair";

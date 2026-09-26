@@ -1,5 +1,5 @@
 export const guideSlug = "best-unmanaged-network-switches";
-export const guideTitle = "7 Best Unmanaged Network Switches in 2026";
+export const guideTitle = "Best Unmanaged Network Switches";
 export const metaTitle = "Best Unmanaged Network Switches 2026";
 export const metaDescription = "We compared unmanaged switches by port count, build quality, and real extras like QoS and jumbo frame support beyond just basic plug-and-play.";
 export const mainKeyword = "unmanaged network switches";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-hisense-dehumidifiers";
-export const guideTitle = "8 Best Hisense Dehumidifiers in 2026";
+export const guideTitle = "Best Hisense Dehumidifiers";
 export const metaTitle = "Best Hisense Dehumidifiers";
 export const metaDescription = "We compared dehumidifier hisense models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "dehumidifier hisense";

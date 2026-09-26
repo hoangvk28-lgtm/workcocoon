@@ -1,5 +1,5 @@
 export const guideSlug = "best-modern-office-credenzas";
-export const guideTitle = "8 Best Modern Office Credenzas in 2026";
+export const guideTitle = "Best Modern Office Credenzas";
 export const metaTitle = "Best Modern Office Credenzas 2026";
 export const metaDescription = "We compared modern office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "modern office credenzas";

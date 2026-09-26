@@ -1,5 +1,5 @@
 export const guideSlug = "best-letter-trays-with-lids";
-export const guideTitle = "6 Best Letter Trays with Lids in 2026";
+export const guideTitle = "Best Letter Trays with Lids";
 export const metaTitle = "Best Letter Trays with Lids";
 export const metaDescription = "We compared letter trays with lids models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "letter trays with lids";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-dji-portable-power-stations";
-export const guideTitle = "5 Best DJI Portable Power Stations in 2026";
+export const guideTitle = "Best DJI Portable Power Stations";
 export const metaTitle = "Best DJI Portable Power Stations 2026";
 export const metaDescription = "We compared dji portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "dji portable power stations";

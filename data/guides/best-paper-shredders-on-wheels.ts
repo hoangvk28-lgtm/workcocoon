@@ -1,5 +1,5 @@
 export const guideSlug = "best-paper-shredders-on-wheels";
-export const guideTitle = "8 Best Paper Shredders on Wheels in 2026";
+export const guideTitle = "Best Paper Shredders on Wheels";
 export const metaTitle = "Best Paper Shredders on Wheels, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders with caster wheels, with an honest note that caster locking (or the lack of it) affects shredding stability during operation, not just ease of moving the unit around.";

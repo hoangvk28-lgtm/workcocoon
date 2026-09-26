@@ -1,5 +1,5 @@
 export const guideSlug = "best-mechanical-keyboards-under-100";
-export const guideTitle = "4 Best Mechanical Keyboards Under $100 in 2026";
+export const guideTitle = "Best Mechanical Keyboards Under $100";
 export const metaTitle = "Best Mechanical Keyboards Under $100";
 export const metaDescription = "We compared mechanical keyboards under $100 by battery life, VIA programmability, and switch quality, since full-size wireless boards with big batteries appear.";
 export const mainKeyword = "best mechanical keyboards under $100";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-student-desks-with-cup-holders";
-export const guideTitle = "5 Best Student Desks with Cup Holders in 2026";
+export const guideTitle = "Best Student Desks with Cup Holders";
 export const metaTitle = "Best Student Desks with Cup Holders (2026)";
 export const metaDescription =
   "Honest finding: what's actually available are clip-on cup holders for classroom desks and chairs, not desks with a built-in holder. We compared the real options.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-vornado-space-heaters";
-export const guideTitle = "8 Best Vornado Space Heaters in 2026";
+export const guideTitle = "Best Vornado Space Heaters";
 export const metaTitle = "Best Vornado Space Heaters";
 export const metaDescription = "We compared space heater vornado models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "space heater vornado";

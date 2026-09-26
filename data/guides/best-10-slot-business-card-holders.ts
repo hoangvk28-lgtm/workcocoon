@@ -1,5 +1,5 @@
 export const guideSlug = "best-10-slot-business-card-holders";
-export const guideTitle = "3 Best 10-Slot Business Card Holders in 2026";
+export const guideTitle = "Best 10-Slot Business Card Holders";
 export const metaTitle = "Best 10-Slot Business Card Holders";
 export const metaDescription = "We compared 10-slot business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "10-slot business card holders";

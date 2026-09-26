@@ -1,5 +1,5 @@
 export const guideSlug = "best-laptop-locks-for-macbooks";
-export const guideTitle = "8 Best Laptop Locks for MacBooks in 2026";
+export const guideTitle = "Best Laptop Locks for MacBooks";
 export const metaTitle = "Best Laptop Locks for MacBooks (2026)";
 export const metaDescription =
   "8 slotless-security options for MacBook compared as a hub, since Air and Pro generations each need exact chassis and vent verification.";

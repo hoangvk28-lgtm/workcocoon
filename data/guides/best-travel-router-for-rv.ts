@@ -1,5 +1,5 @@
 export const guideSlug = "best-travel-router-for-rv";
-export const guideTitle = "4 Best Travel Routers for RVs and Campers in 2026";
+export const guideTitle = "Best Travel Routers for RVs and Campers";
 export const metaTitle = "Best Travel Routers for RVs";
 export const metaDescription = "We compared RV travel routers by coverage approach, since one uses a rooftop weatherproof antenna while another relies on unlimited prepaid cellular plans.";
 export const mainKeyword = "best travel router for rv";

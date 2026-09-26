@@ -1,5 +1,5 @@
 export const guideSlug = "best-air-quality-monitors-for-construction-sites";
-export const guideTitle = "8 Best Air Quality Monitors for Construction Sites in 2026";
+export const guideTitle = "Best Air Quality Monitors for Construction Sites";
 export const metaTitle = "Best Air Quality Monitors for Construction Sites";
 export const metaDescription = "We compared air quality monitor construction site models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "air quality monitor construction site";

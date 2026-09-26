@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-lap-desks-for-bed";
 
 export const guideSlug = "best-lap-desks-for-bed";
-export const guideTitle = "8 Best Lap Desks for Bed (2026)";
+export const guideTitle = "Best Lap Desks for Bed (2026)";
 export const metaTitle = "Best Lap Desks for Bed 2026";
 export const metaDescription = "Best lap desks for bed in 2026. Adjustable height, foldable legs, leather surfaces, and cushioned boards for in-bed laptop use ranked by Amazon buyer rating.";
 export const lastUpdated = "2026-07-10";

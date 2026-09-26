@@ -1,5 +1,5 @@
 export const guideSlug = "best-4k-projectors-under-200";
-export const guideTitle = "4 Best 4K Projectors Under $200 in 2026";
+export const guideTitle = "Best 4K Projectors Under $200";
 export const metaTitle = "Best 4K Projectors Under $200";
 export const metaDescription = "We compared 4K projectors under $200 by native resolution, ANSI brightness, and streaming access, since '4K support' means decoding, not native display here.";
 export const mainKeyword = "best 4k projectors under $200";

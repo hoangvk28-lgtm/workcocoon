@@ -1,5 +1,5 @@
 export const guideSlug = "best-mesh-modesty-panels-for-desks";
-export const guideTitle = "6 Best Mesh Modesty Panels for Desks in 2026";
+export const guideTitle = "Best Mesh Modesty Panels for Desks";
 export const metaTitle = "Best Mesh Modesty Panels for Desks";
 export const metaDescription = "We compared mesh modesty panels for desks models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "mesh modesty panels for desks";

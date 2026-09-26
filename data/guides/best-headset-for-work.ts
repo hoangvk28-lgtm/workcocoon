@@ -1,7 +1,7 @@
 const BASE = "/guides/best-headset-for-work";
 
 export const guideSlug = "best-headset-for-work";
-export const guideTitle = "7 Best Headsets for Work: Budget to Premium (2026)";
+export const guideTitle = "Best Headsets for Work: Budget to Premium (2026)";
 export const guideDescription =
   "Most best work headset guides start at $150. That ignores the reality that a $35 USB headset handles Zoom calls and Teams meetings just as well as a $250 ANC headphone, if you pick the right one. This guide covers 7 headsets for work in 2026: wired, wireless, budget to premium.";
 export const metaTitle = "7 Best Headsets for Work: Budget to Premium (2026)";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-desktop-label-printers";
-export const guideTitle = "6 Best Desktop Label Printers in 2026";
+export const guideTitle = "Best Desktop Label Printers";
 export const metaTitle = "Best Desktop Label Printers";
 export const metaDescription = "We compared desktop label printers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "desktop label printers";

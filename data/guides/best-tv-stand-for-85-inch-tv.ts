@@ -1,5 +1,5 @@
 export const guideSlug = "best-tv-stand-for-85-inch-tv";
-export const guideTitle = "6 Best TV Stands for 85 Inch TVs in 2026";
+export const guideTitle = "Best TV Stands for 85 Inch TVs";
 export const metaTitle = "Best TV Stands for 85 Inch TVs 2026, Ranked Picks";
 export const metaDescription =
   "Best TV stands for 85 inch TVs in 2026. Extra-wide, reinforced consoles rated for 100+ lbs ranked by weight capacity, width, and stability for huge screens.";

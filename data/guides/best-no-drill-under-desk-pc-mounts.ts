@@ -1,5 +1,5 @@
 export const guideSlug = "best-no-drill-under-desk-pc-mounts";
-export const guideTitle = "4 Best No-Drill Under-Desk PC Mounts in 2026";
+export const guideTitle = "Best No-Drill Under-Desk PC Mounts";
 export const metaTitle = "Best No-Drill Under-Desk PC Mounts (2026)";
 export const metaDescription =
   "4 no-drill under-desk PC mounts we evaluated for clamp mechanism type, the renter-friendliness tradeoff versus weight capacity, and long-term holding.";

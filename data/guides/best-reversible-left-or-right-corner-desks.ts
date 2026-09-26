@@ -1,5 +1,5 @@
 export const guideSlug = "best-reversible-left-or-right-corner-desks";
-export const guideTitle = "8 Best Reversible (Left or Right) Corner Desks in 2026";
+export const guideTitle = "Best Reversible (Left or Right) Corner Desks";
 export const metaTitle = "Best Reversible (Left or Right) Corner Desks";
 export const metaDescription = "We compared corner desk reversible models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "corner desk reversible";

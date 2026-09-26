@@ -1,5 +1,5 @@
 export const guideSlug = "best-e-ink-meeting-room-schedulers";
-export const guideTitle = "8 Best E-Ink Meeting Room Schedulers in 2026";
+export const guideTitle = "Best E-Ink Meeting Room Schedulers";
 export const metaTitle = "Best E-Ink Meeting Room Schedulers";
 export const metaDescription = "We compared e ink meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "e ink meeting room scheduler";

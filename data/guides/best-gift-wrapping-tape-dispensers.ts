@@ -1,5 +1,5 @@
 export const guideSlug = "best-gift-wrapping-tape-dispensers";
-export const guideTitle = "6 Best Gift-Wrapping Tape Dispensers in 2026";
+export const guideTitle = "Best Gift-Wrapping Tape Dispensers";
 export const metaTitle = "Best Gift-Wrapping Tape Dispensers";
 export const metaDescription = "We compared gift-wrapping tape dispensers models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "gift-wrapping tape dispensers";

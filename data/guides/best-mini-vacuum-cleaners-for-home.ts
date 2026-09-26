@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-vacuum-cleaners-for-home";
-export const guideTitle = "8 Best Mini Vacuum Cleaners for Home in 2026";
+export const guideTitle = "Best Mini Vacuum Cleaners for Home";
 export const metaTitle = "Best Mini Vacuum Cleaners for Home";
 export const metaDescription = "We compared mini vacuum cleaner for home models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mini vacuum cleaner for home";

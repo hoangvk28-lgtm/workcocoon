@@ -1,5 +1,5 @@
 export const guideSlug = "best-32-inch-monitor-privacy-screens";
-export const guideTitle = "5 Best 32-Inch Monitor Privacy Screens in 2026";
+export const guideTitle = "Best 32-Inch Monitor Privacy Screens";
 export const metaTitle = "Best 32-Inch Monitor Privacy Screens (2026)";
 export const metaDescription =
   "5 privacy filters confirmed for genuine 32 inch, 16:9 monitors, from a $45.99 single unit to a $125.99 matched 2-pack with the largest review base.";

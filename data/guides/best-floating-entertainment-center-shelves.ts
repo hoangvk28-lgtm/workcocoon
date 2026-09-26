@@ -1,5 +1,5 @@
 export const guideSlug = "best-floating-entertainment-center-shelves";
-export const guideTitle = "8 Best Floating Entertainment Center Shelves in 2026";
+export const guideTitle = "Best Floating Entertainment Center Shelves";
 export const metaTitle = "Best Floating Entertainment Center Shelves";
 export const metaDescription = "We compared floating shelf entertainment center models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "floating shelf entertainment center";

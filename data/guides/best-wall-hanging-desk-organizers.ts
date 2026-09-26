@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-hanging-desk-organizers";
-export const guideTitle = "5 Best Wall-Hanging Desk Organizers in 2026";
+export const guideTitle = "Best Wall-Hanging Desk Organizers";
 export const metaTitle = "Best Wall-Hanging Desk Organizers (2026)";
 export const metaDescription =
   "5 wall-mounted file organizers researched for drywall anchor weight ratings, renter-friendliness, and reach from a nearby desk.";

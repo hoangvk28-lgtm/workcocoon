@@ -1,5 +1,5 @@
 export const guideSlug = "best-ceramic-mug-warmer-sets";
-export const guideTitle = "6 Best Ceramic Mug Warmer Sets in 2026";
+export const guideTitle = "Best Ceramic Mug Warmer Sets";
 export const metaTitle = "Best Ceramic Mug Warmer Sets";
 export const metaDescription = "We compared ceramic mug warmer sets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "ceramic mug warmer sets";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-office-chairs-under-500";
-export const guideTitle = "4 Best Office Chairs Under $500 in 2026";
+export const guideTitle = "Best Office Chairs Under $500";
 export const metaTitle = "Best Office Chairs Under $500";
 export const metaDescription = "We compared office chairs under $500 by adjustment points, named brand pedigree, and weight-activated controls, since flagship budget ergonomics top out here.";
 export const mainKeyword = "best office chairs under $500";

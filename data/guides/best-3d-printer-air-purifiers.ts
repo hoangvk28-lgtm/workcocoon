@@ -1,5 +1,5 @@
 export const guideSlug = "best-3d-printer-air-purifiers";
-export const guideTitle = "5 Best 3D Printer Air Purifiers in 2026";
+export const guideTitle = "Best 3D Printer Air Purifiers";
 export const metaTitle = "Best 3D Printer Air Purifiers";
 export const metaDescription = "We compared 3d printer air purifiers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "3d printer air purifiers";

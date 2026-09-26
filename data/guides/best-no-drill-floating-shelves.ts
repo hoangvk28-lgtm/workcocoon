@@ -1,5 +1,5 @@
 export const guideSlug = "best-no-drill-floating-shelves";
-export const guideTitle = "8 Best No-Drill Floating Shelves in 2026";
+export const guideTitle = "Best No-Drill Floating Shelves";
 export const metaTitle = "Best No-Drill Floating Shelves";
 export const metaDescription = "We compared floating shelf no screws models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "floating shelf no screws";

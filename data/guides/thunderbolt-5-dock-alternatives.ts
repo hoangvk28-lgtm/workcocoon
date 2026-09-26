@@ -1,5 +1,5 @@
 export const guideSlug = "thunderbolt-5-dock-alternatives";
-export const guideTitle = "4 Best Thunderbolt 5 Dock Alternatives by Brand and Use Case in 2026";
+export const guideTitle = "Best Thunderbolt 5 Dock Alternatives by Brand and Use Case";
 export const metaTitle = "Best Thunderbolt 5 Dock Alternatives";
 export const metaDescription = "We compared alternatives to flagship Thunderbolt 5 docks by use case, since a cheaper or platform-specific pick often fits better than the best-known brand.";
 export const mainKeyword = "thunderbolt 5 dock alternatives";

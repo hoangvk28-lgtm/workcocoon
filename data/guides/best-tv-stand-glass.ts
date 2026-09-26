@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-tv-stand-glass";
 
 export const guideSlug = "best-tv-stand-glass";
-export const guideTitle = "8 Best Glass TV Stands (Swivel & Media Console) in 2026";
+export const guideTitle = "Best Glass TV Stands (Swivel & Media Console)";
 export const metaTitle = "Best Glass TV Stands 2026: Swivel Bases & LED Consoles";
 export const metaDescription =
   "Best glass TV stands in 2026. Swivel tabletop bases and full glass-shelf media consoles ranked by capacity, LED features, and buyer feedback.";

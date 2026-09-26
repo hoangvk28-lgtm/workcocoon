@@ -1,5 +1,5 @@
 export const guideSlug = "best-vertical-mouse-pads";
-export const guideTitle = "6 Best Vertical Mouse Pads in 2026";
+export const guideTitle = "Best Vertical Mouse Pads";
 export const metaTitle = "Best Vertical Mouse Pads";
 export const metaDescription = "We compared mouse pad vertical models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad vertical";

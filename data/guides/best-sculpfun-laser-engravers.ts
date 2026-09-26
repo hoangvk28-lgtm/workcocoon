@@ -1,5 +1,5 @@
 export const guideSlug = "best-sculpfun-laser-engravers";
-export const guideTitle = "5 Best SCULPFUN Laser Engravers in 2026";
+export const guideTitle = "Best SCULPFUN Laser Engravers";
 export const metaTitle = "Best SCULPFUN Laser Engravers in 2026";
 export const metaDescription = "We compared best sculpfun laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
 export const mainKeyword = "sculpfun laser engravers";

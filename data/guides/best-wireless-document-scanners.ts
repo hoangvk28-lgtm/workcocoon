@@ -1,5 +1,5 @@
 export const guideSlug = "best-wireless-document-scanners";
-export const guideTitle = "7 Best Wireless Document Scanners in 2026";
+export const guideTitle = "Best Wireless Document Scanners";
 export const metaTitle = "Best Wireless Document Scanners, Honestly Reviewed (2026)";
 export const metaDescription =
   "7 scanners we evaluated for real wireless use, with a distinction between Wi-Fi Direct, home-network Wi-Fi, and Bluetooth, three genuinely different setup and security profiles competitors blur into one 'wireless' bucket.";

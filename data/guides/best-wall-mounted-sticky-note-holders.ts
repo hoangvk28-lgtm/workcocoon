@@ -1,5 +1,5 @@
 export const guideSlug = "best-wall-mounted-sticky-note-holders";
-export const guideTitle = "6 Best Wall-Mounted Sticky Note Holders in 2026";
+export const guideTitle = "Best Wall-Mounted Sticky Note Holders";
 export const metaTitle = "Best Wall-Mounted Sticky Note Holders";
 export const metaDescription = "We compared wall-mounted sticky note holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "wall-mounted sticky note holders";

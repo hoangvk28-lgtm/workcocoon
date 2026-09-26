@@ -1,5 +1,5 @@
 export const guideSlug = "best-dual-monitor-kvm-switches";
-export const guideTitle = "5 Best Dual-Monitor KVM Switches in 2026";
+export const guideTitle = "Best Dual-Monitor KVM Switches";
 export const metaTitle = "Best Dual-Monitor KVM Switches, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 dual-monitor KVM switches we evaluated, with a note that switching both monitors together requires the switch to treat them as a synchronized pair, some budget switches only sync video but not USB peripherals correctly.";

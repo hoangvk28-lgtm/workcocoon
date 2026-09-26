@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-for-dual-monitors";
-export const guideTitle = "4 Best Mini PCs for Dual Monitors in 2026";
+export const guideTitle = "Best Mini PCs for Dual Monitors";
 export const metaTitle = "Best Mini PCs for Dual Monitors (2026)";
 export const metaDescription =
   "4 mini PCs for dual-monitor setups we evaluated, checking each output's actual resolution and refresh rate ceiling, not just port count.";

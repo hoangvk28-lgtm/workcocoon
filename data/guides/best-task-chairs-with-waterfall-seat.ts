@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-with-waterfall-seat";
-export const guideTitle = "8 Best Task Chairs With Waterfall Seat in 2026";
+export const guideTitle = "Best Task Chairs With Waterfall Seat";
 export const metaTitle = "Best Task Chairs With Waterfall Seat";
 export const metaDescription = "We compared task chair waterfall seat edge models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "task chair waterfall seat edge";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-mouse-pads-for-office-desks";
-export const guideTitle = "8 Best Mouse Pads for Office Desks in 2026";
+export const guideTitle = "Best Mouse Pads for Office Desks";
 export const metaTitle = "Best Mouse Pads for Office Desks";
 export const metaDescription = "We compared mouse pad office desk mat models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "mouse pad office desk mat";

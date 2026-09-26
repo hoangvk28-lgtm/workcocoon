@@ -1,5 +1,5 @@
 export const guideSlug = "best-standing-desks-under-1000";
-export const guideTitle = "8 Best Standing Desks Under $1,000 in 2026";
+export const guideTitle = "Best Standing Desks Under $1,000";
 export const metaTitle = "Best Standing Desks Under $1,000, by Feature Tier (2026)";
 export const metaDescription =
   "8 standing desks under $1,000, all actually priced under $220, mapped by feature tier so you know exactly what jumps in price buy you before shopping.";

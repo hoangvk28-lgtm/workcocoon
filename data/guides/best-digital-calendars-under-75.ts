@@ -1,5 +1,5 @@
 export const guideSlug = "best-digital-calendars-under-75";
-export const guideTitle = "4 Best Digital Calendars Under $75 in 2026";
+export const guideTitle = "Best Digital Calendars Under $75";
 export const metaTitle = "Best Digital Calendars Under $75";
 export const metaDescription = "We compared digital calendars under $75 by app depth, warranty coverage, and storage capacity, since paid mobile apps and larger built-in memory appear here.";
 export const mainKeyword = "best digital calendars under $75";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-phone-holder-arms-for-desks";
-export const guideTitle = "5 Best Phone Holder Arms for Desks in 2026";
+export const guideTitle = "Best Phone Holder Arms for Desks";
 export const metaTitle = "Best Phone Holder Arms for Desks (2026)";
 export const metaDescription =
   "5 desk phone holder arms researched for reach, clamp stability, and case compatibility, covering both simple goosenecks and locking magic arms.";

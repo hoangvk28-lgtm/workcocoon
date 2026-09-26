@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-mac";
-export const guideTitle = "8 Best Ergonomic Keyboards for Mac in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Mac";
 export const metaTitle = "Best Ergonomic Keyboards for Mac (2026)";
 export const metaDescription =
   "8 ergonomic keyboards for Mac we evaluated for real Command and Option key labeling, macOS media key support, and Magic Keyboard switching considerations.";

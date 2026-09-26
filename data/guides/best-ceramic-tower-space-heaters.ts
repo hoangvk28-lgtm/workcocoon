@@ -1,5 +1,5 @@
 export const guideSlug = "best-ceramic-tower-space-heaters";
-export const guideTitle = "8 Best Ceramic Tower Space Heaters in 2026";
+export const guideTitle = "Best Ceramic Tower Space Heaters";
 export const metaTitle = "Best Ceramic Tower Space Heaters";
 export const metaDescription = "We compared space heater ceramic tower models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "space heater ceramic tower";

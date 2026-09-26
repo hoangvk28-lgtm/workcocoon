@@ -1,5 +1,5 @@
 export const guideSlug = "best-epson-interactive-whiteboards";
-export const guideTitle = "5 Best Epson Interactive Whiteboards";
+export const guideTitle = "Best Epson Interactive Whiteboards";
 export const metaTitle = "Best Epson Interactive Whiteboards";
 export const metaDescription = "We kept Epson BrightLink projectors in the projector-interactive category and compared brightness, throw distance, and multi-user support.";
 export const mainKeyword = "epson interactive whiteboard";

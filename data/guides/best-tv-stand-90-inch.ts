@@ -1,7 +1,7 @@
 const BASE = "/images/guides/best-tv-stand-90-inch";
 
 export const guideSlug = "best-tv-stand-90-inch";
-export const guideTitle = "7 Best TV Stands for 90 Inch TVs in 2026";
+export const guideTitle = "Best TV Stands for 90 Inch TVs";
 export const metaTitle = "Best TV Stands for 90 Inch TVs 2026, Wide Console Picks";
 export const metaDescription =
   "Best TV stands for 90 inch TVs in 2026. Wide consoles rated for 90-inch screens, LED media stands, fireplace combos, and floating wall-mount options.";

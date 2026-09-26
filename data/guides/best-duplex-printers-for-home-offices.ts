@@ -1,5 +1,5 @@
 export const guideSlug = "best-duplex-printers-for-home-offices";
-export const guideTitle = "8 Best Duplex Printers for Home Offices in 2026";
+export const guideTitle = "Best Duplex Printers for Home Offices";
 export const metaTitle = "Best Duplex Printers for Home Offices in 2026";
 export const metaDescription =
   "8 best duplex printers for home offices in 2026. Real duplex speed penalties, print vs. scan duplex, paper limits, and the actual dollar savings explained.";

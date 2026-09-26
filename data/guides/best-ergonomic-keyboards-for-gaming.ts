@@ -1,5 +1,5 @@
 export const guideSlug = "best-ergonomic-keyboards-for-gaming";
-export const guideTitle = "6 Best Ergonomic Keyboards for Gaming in 2026";
+export const guideTitle = "Best Ergonomic Keyboards for Gaming";
 export const metaTitle = "Best Ergonomic Keyboards for Gaming 2026";
 export const metaDescription =
   "6 ergonomic keyboards for gaming we evaluated honestly for the WASD-cluster tradeoff, N-key rollover, and semi-split versus fully split gaming comfort.";

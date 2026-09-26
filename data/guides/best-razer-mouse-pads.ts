@@ -1,5 +1,5 @@
 export const guideSlug = "best-razer-mouse-pads";
-export const guideTitle = "8 Best Razer Mouse Pads in 2026";
+export const guideTitle = "Best Razer Mouse Pads";
 export const metaTitle = "Best Razer Mouse Pads";
 export const metaDescription = "We compared mouse pad razer models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "mouse pad razer";

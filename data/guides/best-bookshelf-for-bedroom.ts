@@ -1,5 +1,5 @@
 export const guideSlug = "best-bookshelf-for-bedroom";
-export const guideTitle = "8 Best Bookshelves for Bedroom in 2026";
+export const guideTitle = "Best Bookshelves for Bedroom";
 export const metaTitle = "Best Bookshelves for Bedroom in 2026 (Slim, Corner & LED Picks)";
 export const metaDescription =
   "8 best bookshelves for bedrooms in 2026, from slim tree-shaped units to corner-fit LED shelves. Compare footprint, storage, and capacity for tight spaces.";

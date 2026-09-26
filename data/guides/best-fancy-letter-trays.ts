@@ -1,5 +1,5 @@
 export const guideSlug = "best-fancy-letter-trays";
-export const guideTitle = "6 Best Fancy Letter Trays in 2026";
+export const guideTitle = "Best Fancy Letter Trays";
 export const metaTitle = "Best Fancy Letter Trays";
 export const metaDescription = "We compared fancy letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "fancy letter trays";

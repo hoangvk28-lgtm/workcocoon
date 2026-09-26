@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-panels";
-export const guideTitle = "7 Best Room Divider Panels in 2026";
+export const guideTitle = "Best Room Divider Panels";
 export const metaTitle = "Best Room Divider Panels in 2026 (Fabric, Folding & Wheeled)";
 export const metaDescription =
   "7 best room divider panels in 2026, from thick 240gsm fabric screens to a magnetic modular panel and a lockable wheeled 6-panel divider. Compare width, panels, and stability.";

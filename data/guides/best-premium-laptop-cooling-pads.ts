@@ -1,5 +1,5 @@
 export const guideSlug = "best-premium-laptop-cooling-pads";
-export const guideTitle = "8 Best Premium Laptop Cooling Pads in 2026";
+export const guideTitle = "Best Premium Laptop Cooling Pads";
 export const metaTitle = "Best Premium Laptop Cooling Pads (2026)";
 export const metaDescription =
   "8 premium laptop cooling pads we evaluated for documented RPM figures, temperature-drop claims, warranty length, and build materials, not price alone.";

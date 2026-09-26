@@ -1,5 +1,5 @@
 export const guideSlug = "best-lockable-laptop-charging-carts";
-export const guideTitle = "8 Best Lockable Laptop Charging Carts in 2026";
+export const guideTitle = "Best Lockable Laptop Charging Carts";
 export const metaTitle = "Best Lockable Laptop Charging Carts (2026)";
 export const metaDescription =
   "8 carts compared on confirmed lock mechanism, door construction, and anchor options, from a chain-hook cart to a dual front-and-rear locking cabinet.";

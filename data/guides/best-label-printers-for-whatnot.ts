@@ -1,5 +1,5 @@
 export const guideSlug = "best-label-printers-for-whatnot";
-export const guideTitle = "6 Best Label Printers for Whatnot in 2026";
+export const guideTitle = "Best Label Printers for Whatnot";
 export const metaTitle = "Best Label Printers for Whatnot";
 export const metaDescription = "We compared label printers for whatnot models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "label printers for whatnot";

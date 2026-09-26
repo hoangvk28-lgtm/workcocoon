@@ -1,5 +1,5 @@
 export const guideSlug = "best-joto-cable-sleeves";
-export const guideTitle = "6 Best JOTO Cable Sleeves in 2026";
+export const guideTitle = "Best JOTO Cable Sleeves";
 export const metaTitle = "Best JOTO Cable Sleeves";
 export const metaDescription = "We compared joto cable sleeves models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "joto cable sleeves";

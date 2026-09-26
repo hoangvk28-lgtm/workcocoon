@@ -1,5 +1,5 @@
 export const guideSlug = "best-network-switches-under-200";
-export const guideTitle = "8 Best Network Switches Under $200 in 2026";
+export const guideTitle = "Best Network Switches Under $200";
 export const metaTitle = "Best Network Switches Under $200 in 2026";
 export const metaDescription = "We compared best network switches under $200 by verified current price and real capability, not just the price ceiling alone.";
 export const mainKeyword = "network switches under $200";

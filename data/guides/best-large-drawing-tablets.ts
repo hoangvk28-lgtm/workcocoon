@@ -1,5 +1,5 @@
 export const guideSlug = "best-large-drawing-tablets";
-export const guideTitle = "5 Best Large Drawing Tablets in 2026";
+export const guideTitle = "Best Large Drawing Tablets";
 export const metaTitle = "Best Large Drawing Tablets 2026";
 export const metaDescription = "We compared large drawing tablets by tablet architecture, pen behavior, and driver support rather than ranking by pressure-level count alone.";
 export const mainKeyword = "large drawing tablets";

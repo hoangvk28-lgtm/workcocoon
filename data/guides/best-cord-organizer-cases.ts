@@ -1,5 +1,5 @@
 export const guideSlug = "best-cord-organizer-cases";
-export const guideTitle = "6 Best Cord Organizer Cases in 2026";
+export const guideTitle = "Best Cord Organizer Cases";
 export const metaTitle = "Best Cord Organizer Cases";
 export const metaDescription = "We compared cord organizer cases models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "cord organizer cases";

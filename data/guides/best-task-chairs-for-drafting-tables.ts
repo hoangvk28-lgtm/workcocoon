@@ -1,5 +1,5 @@
 export const guideSlug = "best-task-chairs-for-drafting-tables";
-export const guideTitle = "8 Best Task Chairs for Drafting Tables in 2026";
+export const guideTitle = "Best Task Chairs for Drafting Tables";
 export const metaTitle = "Best Task Chairs for Drafting Tables";
 export const metaDescription = "We compared task chair drafting height models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "task chair drafting height";

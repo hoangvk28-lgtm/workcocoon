@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pcs-with-32gb-ram";
-export const guideTitle = "5 Best Mini PCs with 32GB RAM in 2026";
+export const guideTitle = "Best Mini PCs with 32GB RAM";
 export const metaTitle = "Best Mini PCs with 32GB RAM, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 mini PCs with 32GB RAM we evaluated, a genuine sweet spot for heavy multitasking, multiple browser tabs and apps, and light creative work without paying for 64GB most buyers don't need.";

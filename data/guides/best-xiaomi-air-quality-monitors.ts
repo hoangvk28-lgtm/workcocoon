@@ -1,5 +1,5 @@
 export const guideSlug = "best-xiaomi-air-quality-monitors";
-export const guideTitle = "8 Best Xiaomi Air Quality Monitors in 2026";
+export const guideTitle = "Best Xiaomi Air Quality Monitors";
 export const metaTitle = "Best Xiaomi Air Quality Monitors";
 export const metaDescription = "We compared xiaomi air quality monitor models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "xiaomi air quality monitor";

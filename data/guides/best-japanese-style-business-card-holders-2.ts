@@ -1,5 +1,5 @@
 export const guideSlug = "best-japanese-style-business-card-holders-2";
-export const guideTitle = "6 Best Japanese-Style Business Card Holders in 2026";
+export const guideTitle = "Best Japanese-Style Business Card Holders";
 export const metaTitle = "Best Japanese-Style Business Card Holders";
 export const metaDescription = "We compared japanese-style business card holders models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "japanese-style business card holders";

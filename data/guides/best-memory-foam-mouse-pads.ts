@@ -1,5 +1,5 @@
 export const guideSlug = "best-memory-foam-mouse-pads";
-export const guideTitle = "8 Best Memory Foam Mouse Pads in 2026";
+export const guideTitle = "Best Memory Foam Mouse Pads";
 export const metaTitle = "Best Memory Foam Mouse Pads";
 export const metaDescription = "We compared mouse pad memory foam models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "mouse pad memory foam";

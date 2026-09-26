@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headset-stands";
-export const guideTitle = "6 Best VR Headset Stands in 2026";
+export const guideTitle = "Best VR Headset Stands";
 export const metaTitle = "Best VR Headset Stands";
 export const metaDescription = "We compared vr headset stands models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "vr headset stands";

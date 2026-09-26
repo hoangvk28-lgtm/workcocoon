@@ -1,5 +1,5 @@
 export const guideSlug = "best-cube-storage-room-dividers";
-export const guideTitle = "6 Best Cube Storage Room Dividers in 2026";
+export const guideTitle = "Best Cube Storage Room Dividers";
 export const metaTitle = "Best Cube Storage Room Dividers in 2026 (Open vs Closed Back)";
 export const metaDescription =
   "6 cube storage units and dividers we evaluated for splitting a room, with an honest open-back versus closed-back privacy check and per-cube load limits explained.";

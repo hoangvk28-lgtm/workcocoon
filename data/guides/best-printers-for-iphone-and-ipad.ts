@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-iphone-and-ipad";
-export const guideTitle = "7 Best Printers for iPhone and iPad in 2026";
+export const guideTitle = "Best Printers for iPhone and iPad";
 export const metaTitle = "Best Printers for iPhone and iPad in 2026 (AirPrint Guide)";
 export const metaDescription =
   "7 best printers for iPhone and iPad in 2026, compared on AirPrint support, manufacturer app reliability, and cloud-print workflows for iOS.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-touchscreen-interactive-whiteboards";
-export const guideTitle = "8 Best Touchscreen Interactive Whiteboards";
+export const guideTitle = "Best Touchscreen Interactive Whiteboards";
 export const metaTitle = "Best Touchscreen Interactive Whiteboards";
 export const metaDescription = "We defined what separates a true interactive whiteboard touchscreen from a generic education TV or touch-enabled monitor before ranking.";
 export const mainKeyword = "interactive whiteboard education tv smart touchscreen";

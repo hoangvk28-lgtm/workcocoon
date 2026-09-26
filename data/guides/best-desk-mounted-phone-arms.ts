@@ -1,5 +1,5 @@
 export const guideSlug = "best-desk-mounted-phone-arms";
-export const guideTitle = "5 Best Desk-Mounted Phone Arms in 2026";
+export const guideTitle = "Best Desk-Mounted Phone Arms";
 export const metaTitle = "Best Desk-Mounted Phone Arms (2026)";
 export const metaDescription =
   "5 clamp-mounted phone arms we researched for desk edge compatibility and hold stability, the desk-specific subset of our general phone arm guide.";

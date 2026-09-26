@@ -1,5 +1,5 @@
 export const guideSlug = "best-ems-badge-holders";
-export const guideTitle = "4 Best EMS Badge Holders in 2026";
+export const guideTitle = "Best EMS Badge Holders";
 export const metaTitle = "Best EMS Badge Holders";
 export const metaDescription = "We compared ems badge holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "ems badge holders";

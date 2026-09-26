@@ -1,5 +1,5 @@
 export const guideSlug = "best-tear-off-notepad-style-desk-pads";
-export const guideTitle = "8 Best Tear-Off/Notepad-Style Desk Pads in 2026";
+export const guideTitle = "Best Tear-Off/Notepad-Style Desk Pads";
 export const metaTitle = "Best Tear-Off/Notepad-Style Desk Pads";
 export const metaDescription = "We compared desk pad refill models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "desk pad refill";

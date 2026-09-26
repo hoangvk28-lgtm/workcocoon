@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-schedulers-for-google-workspace";
-export const guideTitle = "8 Best Room Schedulers for Google Workspace in 2026";
+export const guideTitle = "Best Room Schedulers for Google Workspace";
 export const metaTitle = "Best Room Schedulers for Google Workspace";
 export const metaDescription = "We compared room scheduler for google workspace models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "room scheduler for google workspace";

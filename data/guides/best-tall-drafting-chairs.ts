@@ -1,5 +1,5 @@
 export const guideSlug = "best-tall-drafting-chairs";
-export const guideTitle = "8 Best Tall Drafting Chairs in 2026";
+export const guideTitle = "Best Tall Drafting Chairs";
 export const metaTitle = "Best Tall Drafting Chairs";
 export const metaDescription = "We compared tall drafting chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "tall drafting chair";

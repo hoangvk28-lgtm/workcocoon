@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-for-3d-movies";
-export const guideTitle = "6 Best VR Headsets for 3D Movies in 2026";
+export const guideTitle = "Best VR Headsets for 3D Movies";
 export const metaTitle = "Best VR Headsets for 3D Movies";
 export const metaDescription = "We compared vr headsets for 3d movies models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "vr headsets for 3d movies";

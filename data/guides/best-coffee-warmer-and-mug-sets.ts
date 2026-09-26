@@ -1,5 +1,5 @@
 export const guideSlug = "best-coffee-warmer-and-mug-sets";
-export const guideTitle = "6 Best Coffee Warmer and Mug Sets in 2026";
+export const guideTitle = "Best Coffee Warmer and Mug Sets";
 export const metaTitle = "Best Coffee Warmer and Mug Sets";
 export const metaDescription = "We compared coffee warmer and mug set models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "coffee warmer and mug set";

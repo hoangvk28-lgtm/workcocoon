@@ -1,5 +1,5 @@
 export const guideSlug = "best-industrial-office-credenzas";
-export const guideTitle = "8 Best Industrial Office Credenzas in 2026";
+export const guideTitle = "Best Industrial Office Credenzas";
 export const metaTitle = "Best Industrial Office Credenzas 2026";
 export const metaDescription = "We compared industrial office credenzas by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
 export const mainKeyword = "industrial office credenzas";

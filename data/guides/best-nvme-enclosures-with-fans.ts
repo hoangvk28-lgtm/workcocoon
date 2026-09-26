@@ -1,5 +1,5 @@
 export const guideSlug = "best-nvme-enclosures-with-fans";
-export const guideTitle = "8 Best NVMe Enclosures With Fans in 2026";
+export const guideTitle = "Best NVMe Enclosures With Fans";
 export const metaTitle = "Best NVMe Enclosures With Fans 2026";
 export const metaDescription = "Active cooling can stabilize sustained transfers but adds noise. We compared fan-trigger temperature, noise level, and control against passive designs.";
 export const mainKeyword = "nvme enclosures with fans";

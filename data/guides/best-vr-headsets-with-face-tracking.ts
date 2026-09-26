@@ -1,5 +1,5 @@
 export const guideSlug = "best-vr-headsets-with-face-tracking";
-export const guideTitle = "6 Best VR Headsets With Face Tracking in 2026";
+export const guideTitle = "Best VR Headsets With Face Tracking";
 export const metaTitle = "Best VR Headsets With Face Tracking";
 export const metaDescription = "We compared vr headsets with face tracking models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "vr headsets with face tracking";

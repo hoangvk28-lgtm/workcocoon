@@ -1,5 +1,5 @@
 export const guideSlug = "best-modern-corner-desks";
-export const guideTitle = "8 Best Modern Corner Desks in 2026";
+export const guideTitle = "Best Modern Corner Desks";
 export const metaTitle = "Best Modern Corner Desks";
 export const metaDescription = "We compared corner desk designs models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "corner desk designs";

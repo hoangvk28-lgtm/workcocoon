@@ -1,5 +1,5 @@
 export const guideSlug = "best-marbero-portable-power-stations";
-export const guideTitle = "5 Best MARBERO Portable Power Stations in 2026";
+export const guideTitle = "Best MARBERO Portable Power Stations";
 export const metaTitle = "Best MARBERO Portable Power Stations 2026";
 export const metaDescription = "We compared marbero portable power stations by measured usable energy, continuous output, and safety documentation rather than ranking by headline wattage alone.";
 export const mainKeyword = "marbero portable power stations";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-vintage-desk-clocks";
-export const guideTitle = "5 Best Vintage Desk Clocks in 2026";
+export const guideTitle = "Best Vintage Desk Clocks";
 export const metaTitle = "Best Vintage Desk Clocks (2026)";
 export const metaDescription =
   "5 vintage-styled desk clocks we researched, focused on genuine flip-clock mechanisms and aged design cues rather than loosely labeled retro decor.";

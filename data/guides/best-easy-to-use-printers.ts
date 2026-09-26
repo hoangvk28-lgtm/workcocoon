@@ -1,5 +1,5 @@
 export const guideSlug = "best-easy-to-use-printers";
-export const guideTitle = "8 Best Easy-to-Use Printers in 2026";
+export const guideTitle = "Best Easy-to-Use Printers";
 export const metaTitle = "Best Easy-to-Use Printers in 2026 (Simple Setup Picks)";
 export const metaDescription =
   "8 best easy-to-use printers in 2026 for simple setup, low-hassle maintenance, and jam-free daily use. Compare screens, ink systems, and app quality.";

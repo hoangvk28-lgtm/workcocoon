@@ -1,5 +1,5 @@
 export const guideSlug = "best-room-divider-with-storage";
-export const guideTitle = "7 Best Room Dividers with Storage in 2026";
+export const guideTitle = "Best Room Dividers with Storage";
 export const metaTitle = "Best Room Dividers with Storage in 2026 (Bookcase & Bin Styles)";
 export const metaDescription =
   "7 best room dividers with storage in 2026, from S-shaped bookcases to a folding screen with built-in shelves. Compare capacity, stability, and price.";

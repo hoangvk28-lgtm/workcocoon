@@ -1,5 +1,5 @@
 export const guideSlug = "best-ring-lights-for-streaming";
-export const guideTitle = "8 Best Ring Lights for Streaming in 2026";
+export const guideTitle = "Best Ring Lights for Streaming";
 export const metaTitle = "Best Ring Lights for Streaming";
 export const metaDescription = "We compared ring light setup tips for better indoor photography models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "ring light setup tips for better indoor photography";

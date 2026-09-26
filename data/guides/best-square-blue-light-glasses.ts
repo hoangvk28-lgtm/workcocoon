@@ -1,5 +1,5 @@
 export const guideSlug = "best-square-blue-light-glasses";
-export const guideTitle = "6 Best Square Blue Light Glasses in 2026";
+export const guideTitle = "Best Square Blue Light Glasses";
 export const metaTitle = "Best Square Blue Light Glasses";
 export const metaDescription = "We compared square blue light glasses models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "square blue light glasses";

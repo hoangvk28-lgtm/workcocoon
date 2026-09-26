@@ -1,5 +1,5 @@
 export const guideSlug = "best-luxury-business-card-holders";
-export const guideTitle = "6 Best Luxury Business Card Holders in 2026";
+export const guideTitle = "Best Luxury Business Card Holders";
 export const metaTitle = "Best Luxury Business Card Holders";
 export const metaDescription = "We compared luxury business card holders models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
 export const mainKeyword = "luxury business card holders";

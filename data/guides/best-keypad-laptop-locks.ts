@@ -1,5 +1,5 @@
 export const guideSlug = "best-keypad-laptop-locks";
-export const guideTitle = "8 Best Keypad Laptop Locks in 2026";
+export const guideTitle = "Best Keypad Laptop Locks";
 export const metaTitle = "Best Keypad Laptop Locks (2026)";
 export const metaDescription =
   "8 laptop locks searched under 'keypad' are honestly checked against a true electronic keypad standard, and none currently pass that specific bar.";

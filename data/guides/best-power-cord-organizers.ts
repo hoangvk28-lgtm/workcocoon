@@ -1,5 +1,5 @@
 export const guideSlug = "best-power-cord-organizers";
-export const guideTitle = "6 Best Power Cord Organizers in 2026";
+export const guideTitle = "Best Power Cord Organizers";
 export const metaTitle = "Best Power Cord Organizers";
 export const metaDescription = "We compared power cord organizers models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "power cord organizers";

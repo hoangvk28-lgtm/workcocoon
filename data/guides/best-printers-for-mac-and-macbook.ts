@@ -1,5 +1,5 @@
 export const guideSlug = "best-printers-for-mac-and-macbook";
-export const guideTitle = "7 Best Printers for Mac and MacBook in 2026";
+export const guideTitle = "Best Printers for Mac and MacBook";
 export const metaTitle = "Best Printers for Mac and MacBook in 2026 (AirPrint vs Full Driver)";
 export const metaDescription =
   "7 printers we evaluated for Mac and MacBook households, plus how AirPrint compares to a full manufacturer driver install and where each option falls short.";

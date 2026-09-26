@@ -1,5 +1,5 @@
 export const guideSlug = "best-split-ergonomic-keyboards";
-export const guideTitle = "8 Best Split Ergonomic Keyboards in 2026";
+export const guideTitle = "Best Split Ergonomic Keyboards for Shoulder-Width Typing";
 export const metaTitle = "Best Split Ergonomic Keyboards in 2026 (Row-Staggered to Fully Split)";
 export const metaDescription =
   "8 best split ergonomic keyboards in 2026, from row-staggered entry points to fully programmable column-staggered boards. Compare tenting, price, and learning curve.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-speakerphones-for-small-meeting-rooms";
-export const guideTitle = "5 Best Speakerphones for Small Meeting Rooms in 2026";
+export const guideTitle = "Best Speakerphones for Small Meeting Rooms";
 export const metaTitle = "Best Speakerphones for Small Meeting Rooms, Honestly Reviewed (2026)";
 export const metaDescription =
   "5 speakerphones we evaluated for small meeting rooms, with the pickup-radius math competitors skip: a device's stated pickup radius assumes ideal conditions, real rooms with hard surfaces need real margin.";

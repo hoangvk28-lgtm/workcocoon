@@ -1,5 +1,5 @@
 export const guideSlug = "best-space-heaters-for-cold-feet-under-desk";
-export const guideTitle = "7 Best Space Heaters for Cold Feet Under Desk in 2026";
+export const guideTitle = "Best Space Heaters for Cold Feet Under Desk";
 export const metaTitle = "Best Space Heaters for Cold Feet Under Desk";
 export const metaDescription = "We compared space heater under desk small models by verified specs and real-world tradeoffs, not marketing claims alone.";
 export const mainKeyword = "space heater under desk small";

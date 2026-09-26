@@ -1,5 +1,5 @@
 export const guideSlug = "best-long-run-paper-shredders";
-export const guideTitle = "8 Best Long-Run Paper Shredders in 2026";
+export const guideTitle = "Best Long-Run Paper Shredders";
 export const metaTitle = "Best Long-Run Paper Shredders, Honestly Reviewed (2026)";
 export const metaDescription =
   "8 shredders ranked by real continuous run time, with a note that manufacturer run-time specs assume ideal single-weight paper, rarely matched in a real bulk document purge.";

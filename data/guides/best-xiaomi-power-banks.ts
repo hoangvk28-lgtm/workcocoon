@@ -1,5 +1,5 @@
 export const guideSlug = "best-xiaomi-power-banks";
-export const guideTitle = "4 Best Xiaomi Power Banks in 2026";
+export const guideTitle = "Best Xiaomi Power Banks";
 export const metaTitle = "Best Xiaomi Power Banks";
 export const metaDescription = "We compared power bank xiaomi models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "power bank xiaomi";

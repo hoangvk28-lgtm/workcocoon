@@ -1,5 +1,5 @@
 export const guideSlug = "best-juniper-network-switches";
-export const guideTitle = "5 Best Juniper Network Switches in 2026";
+export const guideTitle = "Best Juniper Network Switches";
 export const metaTitle = "Best Juniper Network Switches 2026";
 export const metaDescription = "Juniper switches on Amazon are almost exclusively renewed enterprise hardware. We covered what's available and the licensing considerations.";
 export const mainKeyword = "juniper network switches";

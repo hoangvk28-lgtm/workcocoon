@@ -1,5 +1,5 @@
 export const guideSlug = "best-vilno-kneeling-chairs";
-export const guideTitle = "8 Best VILNO Kneeling Chairs in 2026";
+export const guideTitle = "Best VILNO Kneeling Chairs";
 export const metaTitle = "Best VILNO Kneeling Chairs";
 export const metaDescription = "We compared vilno kneeling chair models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "vilno kneeling chair";

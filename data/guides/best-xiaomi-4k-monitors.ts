@@ -1,5 +1,5 @@
 export const guideSlug = "best-xiaomi-4k-monitors";
-export const guideTitle = "6 Best Xiaomi 4K Monitors in 2026";
+export const guideTitle = "Best Xiaomi 4K Monitors";
 export const metaTitle = "Best Xiaomi 4K Monitors";
 export const metaDescription = "We compared xiaomi 4k monitors models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "xiaomi 4k monitors";

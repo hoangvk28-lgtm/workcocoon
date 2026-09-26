@@ -1,5 +1,5 @@
 export const guideSlug = "best-steamvr-headsets";
-export const guideTitle = "6 Best SteamVR Headsets in 2026";
+export const guideTitle = "Best SteamVR Headsets";
 export const metaTitle = "Best SteamVR Headsets";
 export const metaDescription = "We compared steamvr headsets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
 export const mainKeyword = "steamvr headsets";

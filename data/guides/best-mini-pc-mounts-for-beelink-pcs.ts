@@ -1,5 +1,5 @@
 export const guideSlug = "best-mini-pc-mounts-for-beelink-pcs";
-export const guideTitle = "5 Best Mini PC Mounts for Beelink PCs in 2026";
+export const guideTitle = "Best Mini PC Mounts for Beelink PCs";
 export const metaTitle = "Best Mini PC Mounts for Beelink PCs (2026)";
 export const metaDescription =
   "Honest finding: no Beelink-exclusive mounting brackets exist in the current product pool. These are universal VESA brackets you need to verify against your specific Beelink model's chassis dimensions.";

@@ -1,5 +1,5 @@
 export const guideSlug = "best-decorative-letter-trays";
-export const guideTitle = "6 Best Decorative Letter Trays in 2026";
+export const guideTitle = "Best Decorative Letter Trays";
 export const metaTitle = "Best Decorative Letter Trays";
 export const metaDescription = "We compared decorative letter trays models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
 export const mainKeyword = "decorative letter trays";

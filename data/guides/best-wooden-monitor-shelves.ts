@@ -1,5 +1,5 @@
 export const guideSlug = "best-wooden-monitor-shelves";
-export const guideTitle = "4 Best Wooden Monitor Shelves in 2026";
+export const guideTitle = "Best Wooden Monitor Shelves";
 export const metaTitle = "Best Wooden Monitor Shelves (2026)";
 export const metaDescription =
   "4 wooden monitor shelves we evaluated, decoding solid hardwood versus plywood versus MDF veneer and how each holds up to humidity and weight.";
