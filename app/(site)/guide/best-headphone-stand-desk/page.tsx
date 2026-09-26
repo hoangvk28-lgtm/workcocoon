@@ -224,7 +224,7 @@ export default async function BestHeadphoneStandDeskPage() {
         {/* Intro */}
         <section className="mb-6">
           <p className="text-base text-ink-secondary leading-relaxed mb-3">
-            A headphone stand has one job: keep your headphones off the desk without becoming desk clutter itself. That sounds simple until you realize most headphone stands occupy 4–6 inches of surface area for a product you use twice a day -- once to pick up your headphones, once to put them back.
+            A headphone stand has one job: keep your headphones off the desk without becoming desk clutter itself. That sounds simple until you realize most headphone stands occupy 4-6 inches of surface area for a product you use twice a day -- once to pick up your headphones, once to put them back.
           </p>
           <p className="text-base text-ink-secondary leading-relaxed">
             On a small desk, that footprint matters. We evaluated 8 headphone stands across three mounting styles -- desktop, under-desk, and clamp-on -- and scored them on how well they earn their space. Some do more than hold headphones: they charge your phone, add USB ports, or disappear under the desk entirely.
@@ -304,7 +304,7 @@ export default async function BestHeadphoneStandDeskPage() {
               {
                 style: "Desktop Stand",
                 badge: "desktop",
-                footprint: "3–5\" of desk surface",
+                footprint: "3-5\" of desk surface",
                 bestFor: "Users who want headphones visible and accessible; stands with USB hubs or chargers",
                 tradeoff: "Takes desk space",
                 icon: "🗂️",
@@ -322,7 +322,7 @@ export default async function BestHeadphoneStandDeskPage() {
                 badge: "clamp",
                 footprint: "Zero desk surface (edge only)",
                 bestFor: "Users who want headphones at desk level but off the surface",
-                tradeoff: "Requires desk edge 0.5–2 inches thick",
+                tradeoff: "Requires desk edge 0.5-2 inches thick",
                 icon: "🔩",
               },
             ].map((m) => {
@@ -515,14 +515,14 @@ export default async function BestHeadphoneStandDeskPage() {
               </p>
             </div>
             <div className="p-5 rounded-2xl border border-amber-200 bg-amber-50">
-              <p className="text-xs font-bold text-amber-700 uppercase tracking-wide mb-2">$25–$35</p>
+              <p className="text-xs font-bold text-amber-700 uppercase tracking-wide mb-2">$25-$35</p>
               <p className="font-bold text-ink text-sm mb-1">&quot;A stand that does more&quot;</p>
               <p className="text-xs text-ink-secondary mb-3">
                 <a href="#cozoo-usb-stand" className="text-amber-700 font-semibold hover:underline">Cozoo USB Stand</a> -- headphone stand + USB hub + AC outlets in one footprint
               </p>
             </div>
             <div className="p-5 rounded-2xl border border-slate-200 bg-slate-50">
-              <p className="text-xs font-bold text-slate-600 uppercase tracking-wide mb-2">$60–$75</p>
+              <p className="text-xs font-bold text-slate-600 uppercase tracking-wide mb-2">$60-$75</p>
               <p className="font-bold text-ink text-sm mb-1">&quot;Gaming + ecosystem&quot;</p>
               <p className="text-xs text-ink-secondary mb-3">
                 <a href="#razer-base-station-v2" className="text-slate-700 font-semibold hover:underline">Razer Base Station V2</a> -- RGB + USB hub + DAC
@@ -532,7 +532,7 @@ export default async function BestHeadphoneStandDeskPage() {
           <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200">
             <p className="font-bold text-ink text-sm mb-2">The honest truth</p>
             <p className="text-sm text-ink-secondary leading-relaxed">
-              The best headphone stand is the one that earns its footprint. On a small desk, that means zero-footprint hooks. On a medium desk, that means dual-function stands with USB ports. On a large desk, that means whatever looks best next to your setup. At $10–$35 for most options, a headphone stand is one of the cheapest desk upgrades that makes a visible difference every day.
+              The best headphone stand is the one that earns its footprint. On a small desk, that means zero-footprint hooks. On a medium desk, that means dual-function stands with USB ports. On a large desk, that means whatever looks best next to your setup. At $10-$35 for most options, a headphone stand is one of the cheapest desk upgrades that makes a visible difference every day.
             </p>
           </div>
         </section>

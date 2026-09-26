@@ -43,7 +43,7 @@ interface GuideSitemapEntry {
 }
 
 async function getPublishedGuideSlugs(): Promise<GuideSitemapEntry[]> {
-  // Always start with static guides — these are the source of truth for all published pages.
+  // Always start with static guides - these are the source of truth for all published pages.
   const staticEntries = staticGuides.map((g) => ({
     slug: g.slug,
     updatedAt: g.lastUpdated,
@@ -115,7 +115,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Published buying guide pages (Supabase or static fallback). A guide whose
   // category/subcategory has been migrated into a silo lives at its final
-  // /<silo>/<slug> URL here — never list the legacy /guide/<slug> URL, which
+  // /<silo>/<slug> URL here - never list the legacy /guide/<slug> URL, which
   // now just 308-redirects there.
   const guidePages: MetadataRoute.Sitemap = guideSlugs.map(({ slug, updatedAt, categorySlug, subcategorySlug }) => {
     const silo = siloForGuide(categorySlug, subcategorySlug);
@@ -135,7 +135,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  // Category hub pages — skip any category that now 308-redirects to a
+  // Category hub pages - skip any category that now 308-redirects to a
   // migrated silo (its silo root is already listed above via siloPages).
   const categoryPages: MetadataRoute.Sitemap = categories
     .filter((cat) => !MIGRATED_CATEGORY_TO_SILO[cat.slug])

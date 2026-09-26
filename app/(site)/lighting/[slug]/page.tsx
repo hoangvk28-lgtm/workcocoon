@@ -22,7 +22,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
 
-  // Rich guide (data/guides/<slug>.ts) carries its own curated metaTitle/metaDescription —
+  // Rich guide (data/guides/<slug>.ts) carries its own curated metaTitle/metaDescription -
   // check it first so that copy isn't silently discarded in favor of the thin registry's
   // title/description, matching /guide/[slug]'s own generateMetadata dispatch.
   const loadRichGuide = guideDataLoaders[slug];
@@ -75,7 +75,7 @@ export default async function LightingGuidePage({ params }: Props) {
   if (!guide) notFound();
 
   // Guard: a guide only renders under /lighting if it actually belongs to the
-  // migrated Lighting category/subcategories — anything else 404s here rather
+  // migrated Lighting category/subcategories - anything else 404s here rather
   // than silently rendering unrelated content at a lighting URL.
   if (!matchSlugs.includes(guide.categorySlug) && !matchSlugs.includes(guide.subcategorySlug)) {
     notFound();
@@ -93,7 +93,7 @@ export default async function LightingGuidePage({ params }: Props) {
   }
 
   // This guide's full content only exists in a hand-authored static route at
-  // /guide/<slug> (legacy schema, not covered by guideDataLoaders) — GuideDetail
+  // /guide/<slug> (legacy schema, not covered by guideDataLoaders) - GuideDetail
   // would render a thin, emptied-out page. Send it back to the working URL
   // rather than lose content, until this guide is rewritten to the modern schema.
   if (hasLegacyLiteralRoute(slug)) {

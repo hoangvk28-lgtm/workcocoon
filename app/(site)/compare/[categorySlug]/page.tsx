@@ -125,7 +125,7 @@ export default async function CategoryComparePage({
 
         <AffiliateDisclosureBar variant="banner" className="mb-8" />
 
-        {/* Interactive comparison — category pre-filtered */}
+        {/* Interactive comparison - category pre-filtered */}
         <ComparePageClient
           products={categoryProducts}
           categories={categories}
@@ -136,7 +136,7 @@ export default async function CategoryComparePage({
         <div className="mt-12 p-6 bg-white rounded-card border border-border max-w-2xl">
           <h2 className="font-bold text-ink mb-2 text-base">About These Scores</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-3">
-            All scores are on a 1–10 scale and reflect small-space use specifically. A score of 9.0+ indicates best-in-class for this use case.
+            All scores are on a 1-10 scale and reflect small-space use specifically. A score of 9.0+ indicates best-in-class for this use case.
           </p>
           <a
             href="/how-we-review"

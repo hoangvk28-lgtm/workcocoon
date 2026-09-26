@@ -30,8 +30,8 @@ export const products: OrgProduct[] = [
     name: "Desktop Shelf Riser",
     method: 1,
     score: 8.8,
-    price: "$25–$40",
-    footprint: "16–24 x 8 in",
+    price: "$25-$40",
+    footprint: "16-24 x 8 in",
     amazonUrl: "https://amzn.to/4fbur3E",
     imageUrl: "https://m.media-amazon.com/images/I/71aqzr5zrhL._AC_SL1500_.jpg",
     whyItWorks: [
@@ -49,7 +49,7 @@ export const products: OrgProduct[] = [
     name: "Wall-Mounted Pegboard",
     method: 1,
     score: 8.5,
-    price: "$20–$35",
+    price: "$20-$35",
     footprint: "0 (wall mounted)",
     amazonUrl: "https://amzn.to/4v4U62o",
     imageUrl: "https://m.media-amazon.com/images/I/71-qghkuORL._AC_SL1500_.jpg",
@@ -68,7 +68,7 @@ export const products: OrgProduct[] = [
     name: "Adhesive Under-Desk Drawer",
     method: 2,
     score: 8.6,
-    price: "$12–$22",
+    price: "$12-$22",
     footprint: "0 (mounted under desk)",
     amazonUrl: "https://amzn.to/4fFtFfm",
     imageUrl: "https://m.media-amazon.com/images/I/71VFUgYerpL._AC_SL1500_.jpg",
@@ -87,7 +87,7 @@ export const products: OrgProduct[] = [
     name: "Stackable Plastic Drawer Units",
     method: 2,
     score: 8.4,
-    price: "$18–$30",
+    price: "$18-$30",
     footprint: "Under-desk floor space",
     amazonUrl:
       "https://www.amazon.com/s?k=stackable+plastic+drawers+desk&tag=workcocoon-20",
@@ -107,17 +107,17 @@ export const products: OrgProduct[] = [
     name: "Under-Desk Cable Management Tray",
     method: 2,
     score: 9.0,
-    price: "$25–$32",
+    price: "$25-$32",
     footprint: "0 (mounted under desk)",
     amazonUrl: "https://amzn.to/4f6BbzJ",
     imageUrl: "https://m.media-amazon.com/images/I/71EZI1CHQqL._AC_SL1500_.jpg",
     whyItWorks: [
       "Removes the power strip from your desktop entirely",
-      "Hides 6–8 cables in one tray",
+      "Hides 6-8 cables in one tray",
       "Clamp-on design - no permanent modifications",
     ],
     tradeoffs: [
-      "Installation takes 15–20 minutes",
+      "Installation takes 15-20 minutes",
       "Desk thickness must be under 1.5 inches for most clamps",
     ],
   },
@@ -126,7 +126,7 @@ export const products: OrgProduct[] = [
     name: "Compact Mesh Desk Organizer",
     method: 3,
     score: 8.7,
-    price: "$12–$18",
+    price: "$12-$18",
     footprint: "4 x 6 in",
     amazonUrl:
       "https://www.amazon.com/s?k=compact+mesh+desk+organizer&tag=workcocoon-20",
@@ -146,7 +146,7 @@ export const products: OrgProduct[] = [
     name: "Bamboo Desktop Tray",
     method: 3,
     score: 8.3,
-    price: "$15–$25",
+    price: "$15-$25",
     footprint: "6 x 8 in",
     amazonUrl: "https://amzn.to/4a0dGF1",
     imageUrl: "https://m.media-amazon.com/images/I/71Bb3MH1xFL._AC_SL1500_.jpg",
@@ -165,7 +165,7 @@ export const products: OrgProduct[] = [
     name: "Bamboo Monitor Riser with Drawer",
     method: 4,
     score: 9.2,
-    price: "$35–$45",
+    price: "$35-$45",
     footprint: "22 x 9 in",
     amazonUrl:
       "https://www.amazon.com/s?k=bamboo+monitor+riser+drawer&tag=workcocoon-20",
@@ -185,7 +185,7 @@ export const products: OrgProduct[] = [
     name: "Monitor Arm (Clamp-On)",
     method: 4,
     score: 8.5,
-    price: "$25–$40",
+    price: "$25-$40",
     footprint: "0 (clamped to desk edge)",
     amazonUrl:
       "https://www.amazon.com/s?k=monitor+arm+clamp+small+desk&tag=workcocoon-20",
@@ -205,7 +205,7 @@ export const products: OrgProduct[] = [
     name: "Felt and Cork Desk Mat",
     method: 5,
     score: 8.9,
-    price: "$20–$28",
+    price: "$20-$28",
     footprint: "24 x 12 in",
     amazonUrl: "https://amzn.to/3PFnP39",
     imageUrl: "https://m.media-amazon.com/images/I/71kW3gobk-L._AC_UL320_.jpg",
@@ -224,7 +224,7 @@ export const products: OrgProduct[] = [
     name: "Stackable Letter Trays (2-Pack)",
     method: 6,
     score: 8.3,
-    price: "$15–$22",
+    price: "$15-$22",
     footprint: "10 x 13 in",
     amazonUrl:
       "https://www.amazon.com/s?k=stackable+letter+tray+desk&tag=workcocoon-20",
@@ -244,7 +244,7 @@ export const products: OrgProduct[] = [
     name: "Compact Vertical File Sorter",
     method: 6,
     score: 8.1,
-    price: "$12–$18",
+    price: "$12-$18",
     footprint: "5 x 10 in",
     amazonUrl:
       "https://www.amazon.com/s?k=vertical+file+sorter+desk+compact&tag=workcocoon-20",
@@ -256,24 +256,24 @@ export const products: OrgProduct[] = [
     ],
     tradeoffs: [
       "Only works if you commit to filing - random papers still pile up",
-      "3–5 slot versions fill quickly for heavy paper users",
+      "3-5 slot versions fill quickly for heavy paper users",
     ],
   },
 ];
 
 export const comparisonTable = [
-  { name: "Bamboo Monitor Riser w/ Drawer", method: 4, score: 9.2, footprint: "22×9 in", price: "$35–$45", id: "bamboo-monitor-riser-drawer" },
-  { name: "Under-Desk Cable Tray", method: 2, score: 9.0, footprint: "0 (mounted)", price: "$25–$32", id: "under-desk-cable-tray" },
-  { name: "Felt and Cork Desk Mat", method: 5, score: 8.9, footprint: "24×12 in", price: "$20–$28", id: "felt-cork-desk-mat" },
-  { name: "Desktop Shelf Riser", method: 1, score: 8.8, footprint: "16–24×8 in", price: "$25–$40", id: "desktop-shelf-riser" },
-  { name: "Compact Mesh Organizer", method: 3, score: 8.7, footprint: "4×6 in", price: "$12–$18", id: "compact-mesh-organizer" },
-  { name: "Adhesive Under-Desk Drawer", method: 2, score: 8.6, footprint: "0 (mounted)", price: "$12–$22", id: "adhesive-under-desk-drawer" },
-  { name: "Monitor Arm (Clamp-On)", method: 4, score: 8.5, footprint: "0 (clamped)", price: "$25–$40", id: "monitor-arm-clamp" },
-  { name: "Wall-Mounted Pegboard", method: 1, score: 8.5, footprint: "0 (wall)", price: "$20–$35", id: "wall-mounted-pegboard" },
-  { name: "Stackable Plastic Drawers", method: 2, score: 8.4, footprint: "Under-desk", price: "$18–$30", id: "stackable-plastic-drawers" },
-  { name: "Stackable Letter Trays", method: 6, score: 8.3, footprint: "10×13 in", price: "$15–$22", id: "stackable-letter-trays" },
-  { name: "Bamboo Desktop Tray", method: 3, score: 8.3, footprint: "6×8 in", price: "$15–$25", id: "bamboo-desktop-tray" },
-  { name: "Vertical File Sorter", method: 6, score: 8.1, footprint: "5×10 in", price: "$12–$18", id: "vertical-file-sorter" },
+  { name: "Bamboo Monitor Riser w/ Drawer", method: 4, score: 9.2, footprint: "22×9 in", price: "$35-$45", id: "bamboo-monitor-riser-drawer" },
+  { name: "Under-Desk Cable Tray", method: 2, score: 9.0, footprint: "0 (mounted)", price: "$25-$32", id: "under-desk-cable-tray" },
+  { name: "Felt and Cork Desk Mat", method: 5, score: 8.9, footprint: "24×12 in", price: "$20-$28", id: "felt-cork-desk-mat" },
+  { name: "Desktop Shelf Riser", method: 1, score: 8.8, footprint: "16-24×8 in", price: "$25-$40", id: "desktop-shelf-riser" },
+  { name: "Compact Mesh Organizer", method: 3, score: 8.7, footprint: "4×6 in", price: "$12-$18", id: "compact-mesh-organizer" },
+  { name: "Adhesive Under-Desk Drawer", method: 2, score: 8.6, footprint: "0 (mounted)", price: "$12-$22", id: "adhesive-under-desk-drawer" },
+  { name: "Monitor Arm (Clamp-On)", method: 4, score: 8.5, footprint: "0 (clamped)", price: "$25-$40", id: "monitor-arm-clamp" },
+  { name: "Wall-Mounted Pegboard", method: 1, score: 8.5, footprint: "0 (wall)", price: "$20-$35", id: "wall-mounted-pegboard" },
+  { name: "Stackable Plastic Drawers", method: 2, score: 8.4, footprint: "Under-desk", price: "$18-$30", id: "stackable-plastic-drawers" },
+  { name: "Stackable Letter Trays", method: 6, score: 8.3, footprint: "10×13 in", price: "$15-$22", id: "stackable-letter-trays" },
+  { name: "Bamboo Desktop Tray", method: 3, score: 8.3, footprint: "6×8 in", price: "$15-$25", id: "bamboo-desktop-tray" },
+  { name: "Vertical File Sorter", method: 6, score: 8.1, footprint: "5×10 in", price: "$12-$18", id: "vertical-file-sorter" },
 ];
 
 export const checklistPhases = [
@@ -326,7 +326,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "How do you organize a small desk with no drawers?",
-    a: "Create your own drawer system using adhesive under-desk drawers ($12–$22) or stackable plastic drawer units placed under the desk. Pair with a cable management tray to remove the power strip from the surface. This combination gives a basic tabletop the storage of a full desk.",
+    a: "Create your own drawer system using adhesive under-desk drawers ($12-$22) or stackable plastic drawer units placed under the desk. Pair with a cable management tray to remove the power strip from the surface. This combination gives a basic tabletop the storage of a full desk.",
   },
   {
     q: "How do I keep a small desk clean?",
@@ -338,7 +338,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "How can I organize a small desk for studying?",
-    a: "Use a monitor riser to create shelf space for textbooks, a desk mat to define your active study zone, and a compact organizer for pens and highlighters. Keep only the current subject's materials on the desk - store everything else on a nearby shelf. A flip Pomodoro timer ($18–$28) helps maintain focus sessions.",
+    a: "Use a monitor riser to create shelf space for textbooks, a desk mat to define your active study zone, and a compact organizer for pens and highlighters. Keep only the current subject's materials on the desk - store everything else on a nearby shelf. A flip Pomodoro timer ($18-$28) helps maintain focus sessions.",
   },
   {
     q: "How to organize a small office desk at work?",

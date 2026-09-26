@@ -50,7 +50,7 @@ const stats = [
     description: "Comfort, build quality, ease of setup, value, and buyer feedback - all weighted for people who work at this desk every day.",
   },
   {
-    number: "1–10",
+    number: "1-10",
     unit: "score scale",
     icon: (
       <Image

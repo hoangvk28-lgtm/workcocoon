@@ -53,7 +53,7 @@ export const products: ChargingProduct[] = [
     rank: 2,
     badge: "Best Under $20",
     name: "Hercules Tuff 6-Port",
-    price: "~$17–$18",
+    price: "~$17-$18",
     ports: "6 USB-A",
     wattage: "60W",
     usbC: false,
@@ -78,7 +78,7 @@ export const products: ChargingProduct[] = [
     imageUrl: `${BASE}/03-soopii-6-port-6-cables-pd-20w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07M6PKB9W?tag=workcocoon-20",
     whyItWorks:
-      "Comes with 6 short charging cables (2× Lightning, 2× USB-C, 1× Micro USB, 1× USB-C to USB-C), ready out of the box. 1 USB-C PD 20W port fast-charges iPhone 12–16. Built-in divider slots keep phones and tablets upright while charging. Apple Watch arm holder included.",
+      "Comes with 6 short charging cables (2× Lightning, 2× USB-C, 1× Micro USB, 1× USB-C to USB-C), ready out of the box. 1 USB-C PD 20W port fast-charges iPhone 12-16. Built-in divider slots keep phones and tablets upright while charging. Apple Watch arm holder included.",
     tradeoffs: ["Included cables are short (1ft), phone must stay near the station", "Larger footprint, needs ~6\"×4\" of desk space"],
     skipIf: "You already have all cables and just want a compact brick. The Anker PowerPort 6 is cleaner.",
     pros: ["6 cables included (Lightning, USB-C, Micro-USB)", "PD 20W USB-C fast-charges modern iPhones", "Device slots keep phones upright", "Apple Watch arm holder", "4.4 stars across 5,800+ reviews"],
@@ -107,14 +107,14 @@ export const products: ChargingProduct[] = [
     rank: 5,
     badge: "Best All-in-One",
     name: "MSTJRY 68W 6-Port + 8 Cables",
-    price: "~$20–$25",
+    price: "~$20-$25",
     ports: "4 USB-A + 1 QC 3.0 + 1 USB-C PD 20W",
     wattage: "68W",
     usbC: true,
     imageUrl: `${BASE}/05-mstjry-68w-6-port.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09N985RV9?tag=workcocoon-20",
     whyItWorks:
-      "PD 20W USB-C fast-charges iPhone 12–16 from 0–50% in ~30 min. Quick Charge 3.0 for Samsung Galaxy, Pixel, and QC-compatible Android phones. Comes with 8 short cables. 68W total, highest combined wattage among 6-port picks. Built-in Apple Watch arm holder.",
+      "PD 20W USB-C fast-charges iPhone 12-16 from 0-50% in ~30 min. Quick Charge 3.0 for Samsung Galaxy, Pixel, and QC-compatible Android phones. Comes with 8 short cables. 68W total, highest combined wattage among 6-port picks. Built-in Apple Watch arm holder.",
     tradeoffs: ["More cables than needed if you don't use all types", "Larger organizer footprint (~6\"×5\")"],
     skipIf: "You want minimal desk footprint and already have cables. The Anker PowerPort 6 is cleaner.",
     pros: ["PD 20W USB-C fast-charges iPhone in 30min", "QC 3.0 for Android fast-charge", "8 cables included", "68W, highest wattage in this roundup", "Apple Watch arm holder"],
@@ -125,7 +125,7 @@ export const products: ChargingProduct[] = [
     rank: 6,
     badge: "Best Quick Charge",
     name: "Anker Quick Charge 3.0 5-Port",
-    price: "~$20–$25",
+    price: "~$20-$25",
     ports: "4 USB-A + 1 QC 3.0",
     wattage: "63W",
     usbC: false,
@@ -143,7 +143,7 @@ export const products: ChargingProduct[] = [
     rank: 7,
     badge: "Best with Display",
     name: "SooPii LCD 6-Port",
-    price: "~$20–$25",
+    price: "~$20-$25",
     ports: "6 USB-A",
     wattage: "60W",
     usbC: false,
@@ -172,7 +172,7 @@ export const atAGlanceRows = products.map((p) => ({
 export const faq = [
   {
     q: "How many watts do I need in a USB charging station?",
-    a: "For phones only: 40–60W is plenty. 60W across 6 ports delivers ~10W per port, which charges a smartphone in 2–3 hours. For tablets or USB-C fast charging, you need at least one 18–20W dedicated port.",
+    a: "For phones only: 40-60W is plenty. 60W across 6 ports delivers ~10W per port, which charges a smartphone in 2-3 hours. For tablets or USB-C fast charging, you need at least one 18-20W dedicated port.",
   },
   {
     q: "Are cheap USB charging stations safe?",
@@ -184,7 +184,7 @@ export const faq = [
   },
   {
     q: "Can a USB charging station charge a laptop?",
-    a: "Standard USB-A stations cannot meaningfully charge modern laptops. Laptops require USB-C Power Delivery at 45–100W. The picks in this guide are designed for phones, tablets, earbuds, and small devices.",
+    a: "Standard USB-A stations cannot meaningfully charge modern laptops. Laptops require USB-C Power Delivery at 45-100W. The picks in this guide are designed for phones, tablets, earbuds, and small devices.",
   },
 ];
 

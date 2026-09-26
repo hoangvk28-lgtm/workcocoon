@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 const SITE_NAME = "WorkCocoon";
 // Prefer env var so the same build can be deployed to any domain without code changes.
-// Use `||` (not `??`) — Vercel can create an env var that's *set but empty*
+// Use `||` (not `??`) - Vercel can create an env var that's *set but empty*
 // (e.g. auto-detected from .env.example with no value filled in), and
 // `"".replace(...)` is falsy-but-not-nullish, so `??` alone doesn't fall
 // through and `new URL("")` crashes the build.

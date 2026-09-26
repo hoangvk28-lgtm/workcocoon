@@ -250,7 +250,7 @@ export default async function Page() {
         />
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Most standard digital alarm clocks include a 24-hour display mode as a settings option, even when it's not the headline feature in the product title — we verified this is genuinely available rather than assuming every 12-hour-marketed clock secretly supports it.</p>
+          <p>Most standard digital alarm clocks include a 24-hour display mode as a settings option, even when it's not the headline feature in the product title - we verified this is genuinely available rather than assuming every 12-hour-marketed clock secretly supports it.</p>
           <p>We prioritized clocks with proven review histories and confirmed date/day display features, since 24-hour-format buyers often want that additional context alongside military time.</p>
         </section>
 

@@ -30,7 +30,7 @@ export const DEFAULT_HOMEPAGE_SETTINGS: HomepageSettings = {
       { number: "14", unit: "products", label: "Evaluated for real home offices", description: "Every product scored on five criteria - specs, buyer feedback, value, build, and comfort." },
       { number: "6", unit: "buying guides", label: "With side-by-side comparisons", description: "Practical recommendations built around real workspace constraints." },
       { number: "5", unit: "scoring criteria", label: "Tuned for daily comfort", description: "Comfort, build quality, ease of setup, value, and buyer feedback - all weighted for people who work at this desk every day." },
-      { number: "1–10", unit: "score scale", label: "Consistent across all products", description: "The same rubric for every product we evaluate - so scores are genuinely comparable across guides." },
+      { number: "1-10", unit: "score scale", label: "Consistent across all products", description: "The same rubric for every product we evaluate - so scores are genuinely comparable across guides." },
     ],
   },
   featuredGuideSlug: "desk-lamps-small-desks",

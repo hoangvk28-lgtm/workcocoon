@@ -372,11 +372,11 @@ export const guides: Guide[] = [
     faq: [],
     relatedGuideSlugs: ["best-tablet-stands-for-bed", "best-tablet-stands-for-desk", "desk-lamps-small-desks"],
     buyingCriteria: [
-      { criterion: "Size compatibility", content: "Check stated tablet size range — most covers 4–13\"; few models support 13\"+ without wobble. Always verify against your tablet size." },
-      { criterion: "Angle adjustability", content: "≥3 angle positions (15°–60°) or stepless adjustment.\nSingle fixed-angle stands are a design compromise — avoid for desk use." },
+      { criterion: "Size compatibility", content: "Check stated tablet size range - most covers 4-13\"; few models support 13\"+ without wobble. Always verify against your tablet size." },
+      { criterion: "Angle adjustability", content: "≥3 angle positions (15°-60°) or stepless adjustment.\nSingle fixed-angle stands are a design compromise - avoid for desk use." },
       { criterion: "Stability", content: "No tipping when tapping the touchscreen.\nLook for: weighted base or non-slip grip pad.\nCheck 1-star reviews specifically for tipping complaints." },
       { criterion: "Portability", content: "Folds flat to ≤1.5\" thickness for desk drawer or bag storage.\nWeight ≤0.5 lbs for daily carry between classes." },
-      { criterion: "Material", content: "Aluminum: best for daily desk use — durable, no flex over time.\nPlastic: acceptable for occasional or travel use only." },
+      { criterion: "Material", content: "Aluminum: best for daily desk use - durable, no flex over time.\nPlastic: acceptable for occasional or travel use only." },
       { criterion: "Port access", content: "Open-frame design keeps charging port accessible while tablet is mounted.\nClosed-cradle designs often block the port." },
     ],
   },
@@ -400,9 +400,9 @@ export const guides: Guide[] = [
     relatedGuideSlugs: ["best-tablet-stands", "best-tablet-stands-for-desk", "dorm-essentials"],
     buyingCriteria: [
       { criterion: "Gooseneck length", content: "≥12\" reach to position screen over pillow.\n≤24\" to avoid excessive swing and instability.\nCheck that it holds position after bending (cheap goosenecks droop under tablet weight)." },
-      { criterion: "Weight capacity", content: "≥1.5 lbs to hold a 10–12\" tablet with case.\nVerify spec — some budget goosenecks are rated for bare tablets only." },
-      { criterion: "Clamp compatibility", content: "C-clamp fits headboard or bed frame thickness ≤1.5\".\nMeasure your headboard before purchasing — thick padded headboards often exceed 1.5\"." },
-      { criterion: "Lap stand base", content: "Non-slip bottom surface (silicone or rubber).\n≥12\" base width for stability on soft mattress surfaces.\nAvoide stands with a single small foot — they tip on soft bedding." },
+      { criterion: "Weight capacity", content: "≥1.5 lbs to hold a 10-12\" tablet with case.\nVerify spec - some budget goosenecks are rated for bare tablets only." },
+      { criterion: "Clamp compatibility", content: "C-clamp fits headboard or bed frame thickness ≤1.5\".\nMeasure your headboard before purchasing - thick padded headboards often exceed 1.5\"." },
+      { criterion: "Lap stand base", content: "Non-slip bottom surface (silicone or rubber).\n≥12\" base width for stability on soft mattress surfaces.\nAvoide stands with a single small foot - they tip on soft bedding." },
       { criterion: "Pillow stand pocket depth", content: "≥6\" deep pocket to grip standard dorm pillow thickness.\nShallow pockets slide on smooth pillowcases under use." },
       { criterion: "Stability test", content: "Read 1-star reviews specifically for \"falls over\" or \"tips\" mentions.\nThis is the #1 failure mode in bed tablet stands." },
     ],
@@ -426,12 +426,12 @@ export const guides: Guide[] = [
     faq: [],
     relatedGuideSlugs: ["best-tablet-stands", "best-tablet-stands-for-bed", "compact-home-office"],
     buyingCriteria: [
-      { criterion: "Desk footprint", content: "Base diameter ≤5\" for desks under 48\".\nOr choose a clamp-mount stand to eliminate base footprint entirely.\nAvoid wide cradle bases — they consume the same space as a small keyboard." },
-      { criterion: "Height & angle", content: "Adjustable height or fixed at 12–16\" viewing angle from seated position.\n≥3 angle positions or stepless adjustment.\nFor video calls: needs to position camera at eye level (typically 14–18\" from desk)." },
-      { criterion: "Size compatibility", content: "Verify stated max size ≥ your tablet (most list 10–11\" max without case).\nIf using a thick case, check compatible thickness, not just screen size." },
+      { criterion: "Desk footprint", content: "Base diameter ≤5\" for desks under 48\".\nOr choose a clamp-mount stand to eliminate base footprint entirely.\nAvoid wide cradle bases - they consume the same space as a small keyboard." },
+      { criterion: "Height & angle", content: "Adjustable height or fixed at 12-16\" viewing angle from seated position.\n≥3 angle positions or stepless adjustment.\nFor video calls: needs to position camera at eye level (typically 14-18\" from desk)." },
+      { criterion: "Size compatibility", content: "Verify stated max size ≥ your tablet (most list 10-11\" max without case).\nIf using a thick case, check compatible thickness, not just screen size." },
       { criterion: "Port access", content: "Open-frame or open-side design keeps USB/Lightning port accessible.\nClosed-cradle designs force you to dismount the tablet to charge." },
       { criterion: "Rotation", content: "360° base rotation or landscape/portrait switch.\nUseful for switching between reading (portrait) and video calls (landscape) without dismounting." },
-      { criterion: "Stability at desk", content: "Non-slip base required on smooth desk surfaces.\nTest by tapping the screen at normal force — should not shift or rock." },
+      { criterion: "Stability at desk", content: "Non-slip base required on smooth desk surfaces.\nTest by tapping the screen at normal force - should not shift or rock." },
     ],
   },
 
@@ -462,7 +462,7 @@ export const guides: Guide[] = [
       },
       {
         heading: "What to Look For Before You Buy",
-        body: "Color temperature matters more than brightness. Most cheap desk lamps offer one fixed color temperature, usually a harsh cool white. Look for a lamp with at least three settings: warm (2700K) for relaxed reading before bed, neutral white (4000K) for focused work, and cool (5000–6500K) for late-night alertness. A single-temperature lamp is a permanent compromise.\n\nClamp mount vs. base mount. On a desk under 48 inches, a clamp lamp is almost always the better choice - it attaches to the back edge of your desk and frees up the full surface. A base lamp takes 4–6 square inches of desk real estate permanently. The difference is more noticeable in practice than it sounds.\n\nFlicker-free certification is worth paying for. Cheap LEDs flicker at frequencies invisible to the naked eye but detectable to your visual cortex over long periods, contributing to eye strain and headaches. Look for \"flicker-free\" or \"zero-flicker\" in the specifications if you study for 2+ hours at a time.",
+        body: "Color temperature matters more than brightness. Most cheap desk lamps offer one fixed color temperature, usually a harsh cool white. Look for a lamp with at least three settings: warm (2700K) for relaxed reading before bed, neutral white (4000K) for focused work, and cool (5000-6500K) for late-night alertness. A single-temperature lamp is a permanent compromise.\n\nClamp mount vs. base mount. On a desk under 48 inches, a clamp lamp is almost always the better choice - it attaches to the back edge of your desk and frees up the full surface. A base lamp takes 4-6 square inches of desk real estate permanently. The difference is more noticeable in practice than it sounds.\n\nFlicker-free certification is worth paying for. Cheap LEDs flicker at frequencies invisible to the naked eye but detectable to your visual cortex over long periods, contributing to eye strain and headaches. Look for \"flicker-free\" or \"zero-flicker\" in the specifications if you study for 2+ hours at a time.",
       },
       {
         heading: "How We Evaluated These Lamps",
@@ -482,7 +482,7 @@ export const guides: Guide[] = [
       {
         question: "Is a clamp lamp better than a base lamp for small desks?",
         answer:
-          "Almost always yes for desks under 48 inches. A clamp lamp attaches to the desk edge and takes zero surface space. A base lamp occupies 4–6 square inches of desk permanently - which sounds small but is noticeable when you're already tight on room.",
+          "Almost always yes for desks under 48 inches. A clamp lamp attaches to the desk edge and takes zero surface space. A base lamp occupies 4-6 square inches of desk permanently - which sounds small but is noticeable when you're already tight on room.",
       },
       {
         question: "Do I need a USB port in my desk lamp?",
@@ -497,10 +497,10 @@ export const guides: Guide[] = [
     ],
     relatedGuideSlugs: ["monitor-stands-small-desks", "laptop-stands-small-desks"],
     buyingCriteria: [
-      { criterion: "Lux output", content: "≥500 lux at 40cm for standard study use.\n≥1000 lux at 40cm for detailed work (drawing, reading small text).\nLook for lux spec on the product sheet — not just wattage." },
+      { criterion: "Lux output", content: "≥500 lux at 40cm for standard study use.\n≥1000 lux at 40cm for detailed work (drawing, reading small text).\nLook for lux spec on the product sheet - not just wattage." },
       { criterion: "Color temperature", content: "Minimum 3 settings: 2700K warm (wind-down reading) + 4000K neutral (focused work) + ≥5500K cool (alertness).\nSingle-temperature lamps are a permanent compromise for multi-use setups." },
-      { criterion: "Mount type", content: "Clamp mount: recommended for desks ≤48\" — attaches to back edge, zero surface footprint.\nBase mount: only if you have spare surface area AND the base diameter is ≤5\"." },
-      { criterion: "Flicker-free", content: "Zero-flicker or flicker-free certification required if studying ≥2 hrs/day.\nCheap LEDs flicker at invisible frequencies — detectable by your visual cortex over time, causing eye strain." },
+      { criterion: "Mount type", content: "Clamp mount: recommended for desks ≤48\" - attaches to back edge, zero surface footprint.\nBase mount: only if you have spare surface area AND the base diameter is ≤5\"." },
+      { criterion: "Flicker-free", content: "Zero-flicker or flicker-free certification required if studying ≥2 hrs/day.\nCheap LEDs flicker at invisible frequencies - detectable by your visual cortex over time, causing eye strain." },
       { criterion: "USB charging port", content: "5V/1A minimum for phone charging.\nNot essential if desk already has USB hub or power strip with USB ports.\nMost useful in dorm rooms where wall outlets are limited." },
       { criterion: "Base footprint", content: "≤5\" diameter for base-mount lamps on desks under 48\".\nThe physical base area permanently occupies your working surface." },
     ],
@@ -593,12 +593,12 @@ export const guides: Guide[] = [
     ],
     relatedGuideSlugs: ["desk-lamps-small-desks", "laptop-stands-small-desks", "cable-management-dorm"],
     buyingCriteria: [
-      { criterion: "Raised height", content: "≥3.5\" minimum to bring most 24–27\" monitors to eye level for average seated height.\nMost people need 4–5\" depending on monitor size and chair height.\nStands that lift less than 3\" do not solve the core ergonomic problem." },
-      { criterion: "Under-screen clearance", content: "≥4\" internal height if you plan to store a keyboard underneath.\nMost compact keyboards (60–75% layouts) are 1.3–1.8\" tall.\nMeasure your keyboard before assuming it will fit — full-size boards with wrist rests may be taller." },
+      { criterion: "Raised height", content: "≥3.5\" minimum to bring most 24-27\" monitors to eye level for average seated height.\nMost people need 4-5\" depending on monitor size and chair height.\nStands that lift less than 3\" do not solve the core ergonomic problem." },
+      { criterion: "Under-screen clearance", content: "≥4\" internal height if you plan to store a keyboard underneath.\nMost compact keyboards (60-75% layouts) are 1.3-1.8\" tall.\nMeasure your keyboard before assuming it will fit - full-size boards with wrist rests may be taller." },
       { criterion: "Platform size vs. monitor width", content: "Platform width should be within 2\" of your monitor base width for balanced support.\nA 13.7\" platform for a 27\" monitor is fine; a 13.7\" platform for an ultrawide (34\"+) may not center properly.\nAlways compare platform dimensions to your monitor's base footprint." },
-      { criterion: "VESA compatibility (for arms)", content: "Check the back panel of your monitor for a square 4-bolt pattern (75x75mm or 100x100mm spacing).\nAlmost all monitors since 2015 include VESA holes — exceptions are ultra-thin and all-in-one designs.\nDo not order a monitor arm without confirming VESA holes first." },
-      { criterion: "Desk edge thickness (for arms)", content: "Standard C-clamp fits desk edges ≤3.15\" thick.\nMeasure your desk edge before ordering — modern desks with solid-wood or thick laminate tops can exceed this.\nUse the grommet mount option if your desk has a pre-drilled cable hole." },
-      { criterion: "Weight capacity", content: "≥15 lbs for a single 24–27\" monitor.\n≥20 lbs for 27–32\" monitors.\nDual-monitor arms: verify per-arm capacity separately — listed total capacity may be misleading.\nHeavier monitors (ultrawide, curved) should be verified against the manufacturer spec sheet." },
+      { criterion: "VESA compatibility (for arms)", content: "Check the back panel of your monitor for a square 4-bolt pattern (75x75mm or 100x100mm spacing).\nAlmost all monitors since 2015 include VESA holes - exceptions are ultra-thin and all-in-one designs.\nDo not order a monitor arm without confirming VESA holes first." },
+      { criterion: "Desk edge thickness (for arms)", content: "Standard C-clamp fits desk edges ≤3.15\" thick.\nMeasure your desk edge before ordering - modern desks with solid-wood or thick laminate tops can exceed this.\nUse the grommet mount option if your desk has a pre-drilled cable hole." },
+      { criterion: "Weight capacity", content: "≥15 lbs for a single 24-27\" monitor.\n≥20 lbs for 27-32\" monitors.\nDual-monitor arms: verify per-arm capacity separately - listed total capacity may be misleading.\nHeavier monitors (ultrawide, curved) should be verified against the manufacturer spec sheet." },
     ],
   },
 
@@ -625,11 +625,11 @@ export const guides: Guide[] = [
     sections: [
       {
         heading: "What a Laptop Stand Actually Does for a Small Desk",
-        body: "A laptop stand does two things simultaneously: raises your screen to a more ergonomic height (reducing neck strain) and frees up the footprint under your laptop for a keyboard, notebook, or other items. On a small desk, that spatial efficiency is the key differentiator between stands.\n\nFor most small-desk users, the ideal stand lifts the laptop 4–6 inches, has enough lateral clearance under the laptop for a compact keyboard, and folds flat when not in use or for transport. The materials and adjustability range correlates with price, but you don't need the most expensive option - the differences above $30 are diminishing returns for most users.",
+        body: "A laptop stand does two things simultaneously: raises your screen to a more ergonomic height (reducing neck strain) and frees up the footprint under your laptop for a keyboard, notebook, or other items. On a small desk, that spatial efficiency is the key differentiator between stands.\n\nFor most small-desk users, the ideal stand lifts the laptop 4-6 inches, has enough lateral clearance under the laptop for a compact keyboard, and folds flat when not in use or for transport. The materials and adjustability range correlates with price, but you don't need the most expensive option - the differences above $30 are diminishing returns for most users.",
       },
       {
         heading: "Pairing Your Stand with an External Keyboard",
-        body: "This is worth stating clearly: a laptop stand is designed to be used with an external keyboard and mouse. When your laptop is elevated 4–6 inches, the built-in keyboard is tilted at an uncomfortable angle for extended typing. If you haven't already, budget for a compact Bluetooth keyboard alongside your stand - the ergonomic benefit is the combination of elevated screen and flat external keyboard, not the stand alone.\n\nFor students on a tight budget, any wired USB keyboard works. For dorm rooms where Bluetooth reduces cable clutter, a compact wireless keyboard in the $25–$40 range is practical.",
+        body: "This is worth stating clearly: a laptop stand is designed to be used with an external keyboard and mouse. When your laptop is elevated 4-6 inches, the built-in keyboard is tilted at an uncomfortable angle for extended typing. If you haven't already, budget for a compact Bluetooth keyboard alongside your stand - the ergonomic benefit is the combination of elevated screen and flat external keyboard, not the stand alone.\n\nFor students on a tight budget, any wired USB keyboard works. For dorm rooms where Bluetooth reduces cable clutter, a compact wireless keyboard in the $25-$40 range is practical.",
       },
       {
         heading: "How We Evaluated These Stands",
@@ -650,15 +650,15 @@ export const guides: Guide[] = [
       {
         question: "Will any laptop stand fit my laptop?",
         answer:
-          "Check the stated size range. Most stands designed for 10–15.6-inch laptops won't fit a 17-inch model. If you have a 17-inch laptop, specifically look for stands that list 17-inch compatibility - the budget plastic option in this guide is one of the few under $20 that supports this size.",
+          "Check the stated size range. Most stands designed for 10-15.6-inch laptops won't fit a 17-inch model. If you have a 17-inch laptop, specifically look for stands that list 17-inch compatibility - the budget plastic option in this guide is one of the few under $20 that supports this size.",
       },
     ],
     relatedGuideSlugs: ["desk-lamps-small-desks", "monitor-stands-small-desks"],
     buyingCriteria: [
-      { criterion: "Height range", content: "≥4\" minimum lift to reach ergonomic screen position.\n6–8\" optimal for average seated height with a 13–15\" laptop.\nStands with less than 4\" lift don't provide meaningful ergonomic benefit." },
+      { criterion: "Height range", content: "≥4\" minimum lift to reach ergonomic screen position.\n6-8\" optimal for average seated height with a 13-15\" laptop.\nStands with less than 4\" lift don't provide meaningful ergonomic benefit." },
       { criterion: "Laptop size compatibility", content: "Verify the stand's stated max size ≥ your laptop size.\nMost stands support up to 15.6\"; 17\" laptops need specific models.\nIf using a thick protective case, add ~0.5\" to your laptop's stated width." },
       { criterion: "Stability under typing", content: "Zero rocking on a flat desk surface during sustained typing.\nRead 1-star reviews specifically for \"wobble\" or \"rocks\" mentions.\nAluminum builds are more stable than plastic at equivalent price points." },
-      { criterion: "Fold & portability", content: "Folds flat to ≤0.5\" thickness for backpack carry.\nWeight ≤1 lb for daily transport.\nRequired if carrying between classes — a stand that stays on your desk doesn't need to fold." },
+      { criterion: "Fold & portability", content: "Folds flat to ≤0.5\" thickness for backpack carry.\nWeight ≤1 lb for daily transport.\nRequired if carrying between classes - a stand that stays on your desk doesn't need to fold." },
       { criterion: "External keyboard (required)", content: "A laptop stand is designed to be used with a separate keyboard.\nWhen the screen is elevated, the built-in keyboard is at the wrong angle for typing.\nBudget ≥$25 for a compact Bluetooth keyboard alongside any laptop stand." },
       { criterion: "Material", content: "Aluminum: ≤0.8 lb, no flex under load, folds reliably for 2+ years of daily use.\nPlastic: cheaper but develops wobble and flex over months of repeated folding." },
     ],
@@ -691,18 +691,18 @@ export const guides: Guide[] = [
       },
       {
         heading: "The Simplest Approach That Works",
-        body: "Start with cable clips. Adhesive cable clips are the highest-ROI cable management item - they're cheap, install in seconds, and immediately route individual cables along the edges of your desk instead of pooling loose on the surface. A set of 10–15 clips can completely transform the look of a desk.\n\nAdd velcro ties for cable bundles. Where you have multiple cables running together - power strip to laptop, USB hub connections - velcro ties bundle them neatly. Unlike zip ties, velcro ties are fully reusable when you rearrange or replace cables.\n\nFor the under-desk power strip, a cable tray is the complete solution. If the tangle on your desk is really a tangle of power strip cables on the floor, address that specifically with an under-desk tray that hides the entire power strip and all its connected cables out of sight.",
+        body: "Start with cable clips. Adhesive cable clips are the highest-ROI cable management item - they're cheap, install in seconds, and immediately route individual cables along the edges of your desk instead of pooling loose on the surface. A set of 10-15 clips can completely transform the look of a desk.\n\nAdd velcro ties for cable bundles. Where you have multiple cables running together - power strip to laptop, USB hub connections - velcro ties bundle them neatly. Unlike zip ties, velcro ties are fully reusable when you rearrange or replace cables.\n\nFor the under-desk power strip, a cable tray is the complete solution. If the tangle on your desk is really a tangle of power strip cables on the floor, address that specifically with an under-desk tray that hides the entire power strip and all its connected cables out of sight.",
       },
       {
         heading: "What to Do About Dorm Housing Rules",
-        body: "Most dorm housing policies prohibit permanent modifications like drilling holes. The solutions in this guide use adhesive mounting exclusively - no drilling required. Self-adhesive cable clips typically release cleanly from laminate and wood surfaces when heated with a hair dryer for 15–20 seconds before removal. Test on a small hidden area first if you're concerned about the finish on your specific desk.\n\nNote: adhesive cable clips and trays do not adhere reliably to rough, textured, or fabric surfaces. If your dorm desk has a fabric or heavily textured surface, stick with velcro ties and bundling solutions that don't require surface adhesion.",
+        body: "Most dorm housing policies prohibit permanent modifications like drilling holes. The solutions in this guide use adhesive mounting exclusively - no drilling required. Self-adhesive cable clips typically release cleanly from laminate and wood surfaces when heated with a hair dryer for 15-20 seconds before removal. Test on a small hidden area first if you're concerned about the finish on your specific desk.\n\nNote: adhesive cable clips and trays do not adhere reliably to rough, textured, or fabric surfaces. If your dorm desk has a fabric or heavily textured surface, stick with velcro ties and bundling solutions that don't require surface adhesion.",
       },
     ],
     faq: [
       {
         question: "Will adhesive cable clips damage my dorm desk?",
         answer:
-          "Most self-adhesive clips use a 3M-style adhesive that removes cleanly from laminate and wood surfaces with heat. Use a hair dryer on the clip for 15–20 seconds, then slide a card under it to release. Always test on a small hidden area first on your specific desk material.",
+          "Most self-adhesive clips use a 3M-style adhesive that removes cleanly from laminate and wood surfaces with heat. Use a hair dryer on the clip for 15-20 seconds, then slide a card under it to release. Always test on a small hidden area first on your specific desk material.",
       },
       {
         question: "What's the difference between zip ties and velcro ties for cables?",
@@ -717,11 +717,11 @@ export const guides: Guide[] = [
     ],
     relatedGuideSlugs: ["desk-lamps-small-desks", "bedside-caddies-students"],
     buyingCriteria: [
-      { criterion: "Adhesive type", content: "3M VHB-style adhesive that removes cleanly from laminate with heat (hair dryer for 15–20 sec).\nAvoid generic adhesive clips — they leave residue or pull surface material off.\nTest on a small hidden area of your specific desk before installing everywhere." },
+      { criterion: "Adhesive type", content: "3M VHB-style adhesive that removes cleanly from laminate with heat (hair dryer for 15-20 sec).\nAvoid generic adhesive clips - they leave residue or pull surface material off.\nTest on a small hidden area of your specific desk before installing everywhere." },
       { criterion: "Surface compatibility", content: "Works on: flat laminate, painted wood, smooth plastic.\nDoes NOT work on: textured surfaces, fabric, rough particle board, or surfaces with dust/oils.\nClean the surface with isopropyl alcohol before mounting for best adhesion." },
-      { criterion: "Tie type for bundles", content: "Velcro ties: reusable, reopens when you reconfigure or replace devices.\nZip ties: single-use only — cut to remove.\nFor any dorm setup you'll rearrange, velcro is the correct choice." },
-      { criterion: "Under-desk tray clearance", content: "Requires ≥3\" clearance between desk surface underside and legs/frame.\nMeasure before purchasing — some desks have cross-braces that block tray installation." },
-      { criterion: "Cable tray load capacity", content: "≥5 lbs for a tray holding a power strip plus cables.\nLighter ratings (1–2 lbs) are only suitable for cable routing, not hardware." },
+      { criterion: "Tie type for bundles", content: "Velcro ties: reusable, reopens when you reconfigure or replace devices.\nZip ties: single-use only - cut to remove.\nFor any dorm setup you'll rearrange, velcro is the correct choice." },
+      { criterion: "Under-desk tray clearance", content: "Requires ≥3\" clearance between desk surface underside and legs/frame.\nMeasure before purchasing - some desks have cross-braces that block tray installation." },
+      { criterion: "Cable tray load capacity", content: "≥5 lbs for a tray holding a power strip plus cables.\nLighter ratings (1-2 lbs) are only suitable for cable routing, not hardware." },
     ],
   },
 
@@ -782,7 +782,7 @@ export const guides: Guide[] = [
       {
         question: "Do drawer organizer trays fit all desk drawers?",
         answer:
-          "Not universally. Measure your drawer interior before ordering: width, depth, and height. The 8-piece tray set fits most standard 14–18 inch wide drawers adequately, but very narrow or very wide drawers may leave gaps or require a second set to fill. The tray heights (1.75 inches) fit standard shallow desk drawers; deep drawers may need stacking tray configurations.",
+          "Not universally. Measure your drawer interior before ordering: width, depth, and height. The 8-piece tray set fits most standard 14-18 inch wide drawers adequately, but very narrow or very wide drawers may leave gaps or require a second set to fill. The tray heights (1.75 inches) fit standard shallow desk drawers; deep drawers may need stacking tray configurations.",
       },
       {
         question: "What's the most important desk organization upgrade to make first?",
@@ -793,10 +793,10 @@ export const guides: Guide[] = [
     relatedGuideSlugs: ["desk-lamps-small-desks", "monitor-stands-small-desks", "dorm-room-power-essentials"],
     buyingCriteria: [
       { criterion: "Desktop width", content: "≤6\" wide for any desktop organizer on a 48\" desk.\nWider than 6\" starts competing with your working and writing area.\nMeasure your actual available side space before purchasing." },
-      { criterion: "Desktop depth", content: "≤10\" deep to avoid blocking monitor sightlines or pushing keyboard forward.\nDeeper organizers are designed for large office desks — not small student setups." },
+      { criterion: "Desktop depth", content: "≤10\" deep to avoid blocking monitor sightlines or pushing keyboard forward.\nDeeper organizers are designed for large office desks - not small student setups." },
       { criterion: "Minimum feature set", content: "1 dedicated pen/pencil section + 2 enclosed drawers minimum.\nOpen trays only: items fall out and surfaces look cluttered within days.\nEnclosed drawers hide low-visibility items without adding visual noise." },
-      { criterion: "Material", content: "Clear acrylic: see contents at a glance without opening anything. Scratches with abrasive cleaning — use microfiber cloth only.\nABS plastic: more impact-resistant, better for rougher handling. Opaque — you can't see inside." },
-      { criterion: "Drawer tray fit", content: "Measure drawer interior width (14–18\" fits most standard desk trays).\nTray height ≤1.75\" for shallow desk drawers — measure yours before ordering.\nInterlocking tray sets let you customize the layout to your actual items." },
+      { criterion: "Material", content: "Clear acrylic: see contents at a glance without opening anything. Scratches with abrasive cleaning - use microfiber cloth only.\nABS plastic: more impact-resistant, better for rougher handling. Opaque - you can't see inside." },
+      { criterion: "Drawer tray fit", content: "Measure drawer interior width (14-18\" fits most standard desk trays).\nTray height ≤1.75\" for shallow desk drawers - measure yours before ordering.\nInterlocking tray sets let you customize the layout to your actual items." },
     ],
   },
 
@@ -827,7 +827,7 @@ export const guides: Guide[] = [
       },
       {
         heading: "Steel vs. Plastic - Why Material Matters More Than You Think",
-        body: "Plastic shower caddies are the first purchase for most first-year students because they're cheaper. By midterm, a significant percentage of those students are replacing them - the plastic warps, the finish peels in patches, or (most commonly) the cheaper metal hardware at joints and hooks develops orange rust that bleeds onto towels and tub floors.\n\nRust-resistant coated steel, by contrast, handles daily shower humidity indefinitely. The coating prevents the surface oxidation that makes plastic-adjacent metal hardware fail. The trade-off is weight: a fully loaded steel caddy is noticeably heavier than a plastic one. For most students, this is irrelevant - you're carrying it 30–60 feet, not hiking with it. The weight trade-off is worth three semesters of rust-free use.\n\nFull mesh steel construction adds the additional benefit of instant drainage. Every surface has holes, so water from your bottles and the shower itself drains completely rather than pooling at the bottom and creating a mildew environment. If you've ever lifted a plastic caddy after a shower and found standing water underneath the bottles, this is the feature that solves it.",
+        body: "Plastic shower caddies are the first purchase for most first-year students because they're cheaper. By midterm, a significant percentage of those students are replacing them - the plastic warps, the finish peels in patches, or (most commonly) the cheaper metal hardware at joints and hooks develops orange rust that bleeds onto towels and tub floors.\n\nRust-resistant coated steel, by contrast, handles daily shower humidity indefinitely. The coating prevents the surface oxidation that makes plastic-adjacent metal hardware fail. The trade-off is weight: a fully loaded steel caddy is noticeably heavier than a plastic one. For most students, this is irrelevant - you're carrying it 30-60 feet, not hiking with it. The weight trade-off is worth three semesters of rust-free use.\n\nFull mesh steel construction adds the additional benefit of instant drainage. Every surface has holes, so water from your bottles and the shower itself drains completely rather than pooling at the bottom and creating a mildew environment. If you've ever lifted a plastic caddy after a shower and found standing water underneath the bottles, this is the feature that solves it.",
       },
       {
         heading: "What to Look for Beyond the Basics",
@@ -852,7 +852,7 @@ export const guides: Guide[] = [
       {
         question: "What's the right number of compartments for a shower caddy?",
         answer:
-          "Count your daily shower products first. Most students use 4–6 items regularly: shampoo, conditioner, body wash, face wash, a razor, and one or two additional items. A caddy with 2 shelves (3–4 items per shelf) plus a separate razor slot and a small hook covers this inventory well. More compartments than you need just adds weight and cost.",
+          "Count your daily shower products first. Most students use 4-6 items regularly: shampoo, conditioner, body wash, face wash, a razor, and one or two additional items. A caddy with 2 shelves (3-4 items per shelf) plus a separate razor slot and a small hook covers this inventory well. More compartments than you need just adds weight and cost.",
       },
       {
         question: "Are there shower caddies that work as both a carry caddy and a wall-mounted one?",
@@ -862,11 +862,11 @@ export const guides: Guide[] = [
     ],
     relatedGuideSlugs: ["bedside-caddies-students", "small-room-closet-storage", "desk-organizers-small-desks"],
     buyingCriteria: [
-      { criterion: "Material (critical)", content: "Rust-resistant coated steel: handles daily shower humidity indefinitely.\nChrome-plated hardware at joints: rusts first — specifically avoid this.\nFull mesh construction (not solid shelves): drains completely, prevents mildew pooling." },
-      { criterion: "Carry handle", content: "Reinforced single or double handle rated for fully loaded weight (3–5 lbs).\nAvoid flimsy loop handles — they fail at the attachment point after repeated loading.\nTest at full load before committing to daily use." },
+      { criterion: "Material (critical)", content: "Rust-resistant coated steel: handles daily shower humidity indefinitely.\nChrome-plated hardware at joints: rusts first - specifically avoid this.\nFull mesh construction (not solid shelves): drains completely, prevents mildew pooling." },
+      { criterion: "Carry handle", content: "Reinforced single or double handle rated for fully loaded weight (3-5 lbs).\nAvoid flimsy loop handles - they fail at the attachment point after repeated loading.\nTest at full load before committing to daily use." },
       { criterion: "S-hook", content: "Stainless steel (not zinc-coated). Zinc hooks rust at connection point even on otherwise protected caddies.\nConfirm it's included in the package, not sold separately." },
       { criterion: "Shelf configuration", content: "Removable shelves strongly preferred: accommodates tall bottles (≥12oz standard; ≥32oz Costco-size).\nFixed shelves lock you into bottle sizes that may not match what you actually buy." },
-      { criterion: "Secondary features", content: "Razor slot: holds blade vertical/upward — safer and extends blade life vs lying flat on a shelf.\nToothbrush slots: keeps bristles off shared surfaces.\nSmall hook: useful for loofah or washcloth." },
+      { criterion: "Secondary features", content: "Razor slot: holds blade vertical/upward - safer and extends blade life vs lying flat on a shelf.\nToothbrush slots: keeps bristles off shared surfaces.\nSmall hook: useful for loofah or washcloth." },
     ],
   },
 
@@ -905,11 +905,11 @@ export const guides: Guide[] = [
       },
       {
         heading: "Wireless Charging: Eliminating the Cable Fumble",
-        body: "The wireless charging pad earns its place on a student desk not as a luxury upgrade but as a usability improvement. The specific problem it solves: plugging and unplugging a charging cable for your phone 6–10 times per day accumulates as a low-level friction point that's easy to overlook until you eliminate it. Setting your phone down on a pad and picking it up fully charged adds no friction at all.\n\nThe 10W Qi-standard pad recommended here charges at full speed for the majority of Android and iPhone models (iPhone 8 and later at 7.5W; Samsung and most Android at 10W). The only models it doesn't serve at full speed are iPhone 12 and later at MagSafe-specific 15W speeds - for those users, a MagSafe pad is the right choice, though at 2–3× the price.\n\nDesk placement matters for wireless chargers: the pad should sit in a position where you naturally set your phone while working, not somewhere you have to reach for. Left of a keyboard for right-handed users or right of the keyboard for left-handed users is the standard configuration. The 3.9-inch diameter takes almost no desk space and the 7mm thickness means it lies flush without creating a height obstruction.",
+        body: "The wireless charging pad earns its place on a student desk not as a luxury upgrade but as a usability improvement. The specific problem it solves: plugging and unplugging a charging cable for your phone 6-10 times per day accumulates as a low-level friction point that's easy to overlook until you eliminate it. Setting your phone down on a pad and picking it up fully charged adds no friction at all.\n\nThe 10W Qi-standard pad recommended here charges at full speed for the majority of Android and iPhone models (iPhone 8 and later at 7.5W; Samsung and most Android at 10W). The only models it doesn't serve at full speed are iPhone 12 and later at MagSafe-specific 15W speeds - for those users, a MagSafe pad is the right choice, though at 2-3× the price.\n\nDesk placement matters for wireless chargers: the pad should sit in a position where you naturally set your phone while working, not somewhere you have to reach for. Left of a keyboard for right-handed users or right of the keyboard for left-handed users is the standard configuration. The 3.9-inch diameter takes almost no desk space and the 7mm thickness means it lies flush without creating a height obstruction.",
       },
       {
         heading: "Bed Risers with Outlets: Solving Two Problems at Once",
-        body: "Bed risers are traditionally a simple product: raise the bed 3–6 inches to create under-bed storage clearance. The version with integrated outlets takes this further - the 5-inch height lift solves the clearance problem for standard under-bed storage bags, and the two built-in AC outlets plus two USB ports per riser place charging access exactly at bed level.\n\nThe practical impact in a dorm room is significant. Most students need to charge a phone and potentially a tablet or wireless earbuds overnight. Without outlets near the bed, this means either running a long cable from the desk power strip across the floor (a tripping hazard and a cable management problem) or reaching across a dark room to plug into a wall outlet. Bed risers with integrated outlets eliminate both. Your phone charges on the riser's USB port, 12 inches from your pillow, on a surface that also raises your bed for better under-storage access.\n\nConfirm your bed frame leg type and diameter before purchasing. The risers include adapters for both round and square legs up to 2.75 inches - this covers the vast majority of dorm bed frames. Platform beds with solid bases or integrated legs are not compatible. Check your specific bed frame before ordering.",
+        body: "Bed risers are traditionally a simple product: raise the bed 3-6 inches to create under-bed storage clearance. The version with integrated outlets takes this further - the 5-inch height lift solves the clearance problem for standard under-bed storage bags, and the two built-in AC outlets plus two USB ports per riser place charging access exactly at bed level.\n\nThe practical impact in a dorm room is significant. Most students need to charge a phone and potentially a tablet or wireless earbuds overnight. Without outlets near the bed, this means either running a long cable from the desk power strip across the floor (a tripping hazard and a cable management problem) or reaching across a dark room to plug into a wall outlet. Bed risers with integrated outlets eliminate both. Your phone charges on the riser's USB port, 12 inches from your pillow, on a surface that also raises your bed for better under-storage access.\n\nConfirm your bed frame leg type and diameter before purchasing. The risers include adapters for both round and square legs up to 2.75 inches - this covers the vast majority of dorm bed frames. Platform beds with solid bases or integrated legs are not compatible. Check your specific bed frame before ordering.",
       },
     ],
     faq: [
@@ -921,12 +921,12 @@ export const guides: Guide[] = [
       {
         question: "Is wireless charging slower than wired charging?",
         answer:
-          "For overnight charging, the speed difference is irrelevant - your phone charges fully either way. For a quick top-up during a study break, the difference matters: a 10W wireless pad adds roughly 20–25% battery per hour vs. 40–60% per hour for a fast wired charger. Use wireless for desk-presence charging throughout the day and wired fast-charging when you need speed.",
+          "For overnight charging, the speed difference is irrelevant - your phone charges fully either way. For a quick top-up during a study break, the difference matters: a 10W wireless pad adds roughly 20-25% battery per hour vs. 40-60% per hour for a fast wired charger. Use wireless for desk-presence charging throughout the day and wired fast-charging when you need speed.",
       },
       {
         question: "What is the maximum current draw I should use on a dorm power strip?",
         answer:
-          "A typical 15A dorm circuit supports 1,800 watts total (for the entire circuit, which may include overhead lighting and other outlets). A student desk setup of laptop (65W), monitor (30W), lamp (12W), and phone charger (18W) totals about 125 watts - far below the circuit limit. High-draw appliances like space heaters (700–1500W) are the issue, not standard electronics. Stay away from high-draw resistive heating elements.",
+          "A typical 15A dorm circuit supports 1,800 watts total (for the entire circuit, which may include overhead lighting and other outlets). A student desk setup of laptop (65W), monitor (30W), lamp (12W), and phone charger (18W) totals about 125 watts - far below the circuit limit. High-draw appliances like space heaters (700-1500W) are the issue, not standard electronics. Stay away from high-draw resistive heating elements.",
       },
       {
         question: "Do bed risers work with adjustable bed frames?",
@@ -936,10 +936,10 @@ export const guides: Guide[] = [
     ],
     relatedGuideSlugs: ["cable-management-dorm", "desk-organizers-small-desks", "bedside-caddies-students"],
     buyingCriteria: [
-      { criterion: "Surge protection (dorm policy)", content: "Most dorm policies require surge-protected power strips — non-surge strips are confiscated.\nLook for ETL or UL certification + ≥1000 joule rating.\nConfirm your specific school's policy before purchasing — some have wattage restrictions." },
-      { criterion: "USB ports", content: "≥4 USB-A ports for a full student setup (phone, tablet, earbuds, desk lamp).\nOr: ≥2 USB-A + 1 USB-C PD (60W+) if you charge a laptop via USB-C.\n1A-only USB ports are too slow for tablets — look for 2.4A per port minimum." },
-      { criterion: "Power strip size", content: "≤8\" length for desk use without consuming working surface.\nStandard 12\" power strips are designed for living rooms — too large for student desks." },
-      { criterion: "Wireless charger standard", content: "10W Qi: covers iPhone 8+ (7.5W), Samsung and most Android (10W).\nMagSafe 15W: iPhone 12+ only — premium price, limited compatibility.\n7.5W is sufficient for overnight iPhone charging; speed difference negligible." },
+      { criterion: "Surge protection (dorm policy)", content: "Most dorm policies require surge-protected power strips - non-surge strips are confiscated.\nLook for ETL or UL certification + ≥1000 joule rating.\nConfirm your specific school's policy before purchasing - some have wattage restrictions." },
+      { criterion: "USB ports", content: "≥4 USB-A ports for a full student setup (phone, tablet, earbuds, desk lamp).\nOr: ≥2 USB-A + 1 USB-C PD (60W+) if you charge a laptop via USB-C.\n1A-only USB ports are too slow for tablets - look for 2.4A per port minimum." },
+      { criterion: "Power strip size", content: "≤8\" length for desk use without consuming working surface.\nStandard 12\" power strips are designed for living rooms - too large for student desks." },
+      { criterion: "Wireless charger standard", content: "10W Qi: covers iPhone 8+ (7.5W), Samsung and most Android (10W).\nMagSafe 15W: iPhone 12+ only - premium price, limited compatibility.\n7.5W is sufficient for overnight iPhone charging; speed difference negligible." },
       { criterion: "Bed riser compatibility", content: "Cup-style risers require individual discrete bed legs (4 separate legs).\nNot compatible with: platform beds, solid slatted bases, integrated legs.\nMeasure leg diameter (most risers fit up to 2.75\" round or square legs)." },
     ],
   },
@@ -978,11 +978,11 @@ export const guides: Guide[] = [
     faq: [],
     relatedGuideSlugs: ["laptop-stands-small-desks", "monitor-stands-small-desks", "desk-organizers-small-desks"],
     buyingCriteria: [
-      { criterion: "Layout size", content: "60% (60 keys): smallest footprint, Fn-layer required for F-row and arrows.\n75% (84 keys): best balance — keeps F-row and arrows, ~30% narrower than full-size.\nTKL (87 keys): no numpad, retains all standard keys. Best for gaming.\nFull-size: complete key set including numpad. Largest footprint." },
-      { criterion: "Switch type", content: "Mechanical: consistent actuation, long-lasting (50M+ keystrokes), tactile/linear/clicky options.\nMembrane: quieter, lower cost, requires bottoming out to register.\nScissor (Apple-style): low-profile, optimized for specific platforms, not hot-swappable.\nTopre (HHKB): electrocapacitive, widely cited as best typing feel — highest cost." },
+      { criterion: "Layout size", content: "60% (60 keys): smallest footprint, Fn-layer required for F-row and arrows.\n75% (84 keys): best balance - keeps F-row and arrows, ~30% narrower than full-size.\nTKL (87 keys): no numpad, retains all standard keys. Best for gaming.\nFull-size: complete key set including numpad. Largest footprint." },
+      { criterion: "Switch type", content: "Mechanical: consistent actuation, long-lasting (50M+ keystrokes), tactile/linear/clicky options.\nMembrane: quieter, lower cost, requires bottoming out to register.\nScissor (Apple-style): low-profile, optimized for specific platforms, not hot-swappable.\nTopre (HHKB): electrocapacitive, widely cited as best typing feel - highest cost." },
       { criterion: "Connectivity", content: "2.4 GHz: lowest wireless latency (1ms), nano USB receiver required, single device.\nBluetooth: multi-device switching (up to 4 devices), no receiver needed, slightly higher latency.\nUSB-C wired: zero latency, most reliable connection.\nTriple mode (2.4G + BT + USB-C): most flexible for multi-device setups." },
-      { criterion: "Battery life", content: "≥70 hours for wireless active use between charges with backlight on.\nBacklight is the largest battery draw — turning it off extends runtime 3-4x.\nReplaceable AA/AAA batteries outlast built-in lithium cells long-term.\nBuilt-in rechargeable cells lose capacity after 2-3 years of daily charging." },
-      { criterion: "Hot-swap sockets", content: "Allows changing switches without soldering — 2-minute process per switch.\nEssential for users new to mechanical keyboards and unsure of preferred switch feel.\nNot necessary if you are already confident in your preferred switch type.\nOnly available on mechanical keyboards — not membrane or scissor." },
+      { criterion: "Battery life", content: "≥70 hours for wireless active use between charges with backlight on.\nBacklight is the largest battery draw - turning it off extends runtime 3-4x.\nReplaceable AA/AAA batteries outlast built-in lithium cells long-term.\nBuilt-in rechargeable cells lose capacity after 2-3 years of daily charging." },
+      { criterion: "Hot-swap sockets", content: "Allows changing switches without soldering - 2-minute process per switch.\nEssential for users new to mechanical keyboards and unsure of preferred switch feel.\nNot necessary if you are already confident in your preferred switch type.\nOnly available on mechanical keyboards - not membrane or scissor." },
       { criterion: "Mac vs Windows compatibility", content: "Apple Magic Keyboard: macOS and iPadOS only.\nKeychron K3 V2: ships with both Mac and Windows keycap sets.\nMost gaming keyboards (Corsair, SteelSeries): Windows-optimized, functional on Mac.\nHHKB: DIP switch reconfigures for either OS without software." },
     ],
   },
@@ -1645,7 +1645,7 @@ export const guides: Guide[] = [
     categorySlug: "desk-setup",
     subcategorySlug: "organization",
     description:
-      "7 proven small desk organization ideas — from vertical stacking to under-desk drawers — that keep compact workspaces clutter-free. Includes product picks, scoring, and a step-by-step setup checklist.",
+      "7 proven small desk organization ideas - from vertical stacking to under-desk drawers - that keep compact workspaces clutter-free. Includes product picks, scoring, and a step-by-step setup checklist.",
     mainKeyword: "small desk organization ideas",
     subKeywords: [
       "how to organize a small desk",
@@ -1680,7 +1680,7 @@ export const guides: Guide[] = [
     categorySlug: "budget-finds",
     subcategorySlug: "desk-lamps",
     description:
-      "5 budget webcams under $50 for students and small-desk setups — best overall, under $30, under $20, privacy shutter picks, and Chromebook-compatible options. Plug-and-play on Windows, macOS, and Chrome OS.",
+      "5 budget webcams under $50 for students and small-desk setups - best overall, under $30, under $20, privacy shutter picks, and Chromebook-compatible options. Plug-and-play on Windows, macOS, and Chrome OS.",
     mainKeyword: "best webcam under 50",
     subKeywords: [
       "best budget webcam 2026",
@@ -21916,7 +21916,7 @@ export const guides: Guide[] = [
     slug: "best-digital-notebooks-for-sketching",
     categorySlug: "compact-home-office",
     subcategorySlug: "desk-accessories",
-    description: "5 devices compared on real sketching capability — pressure levels, tilt support, and color — since basic note-taking hardware doesn't automatically translate to good drawing hardware.",
+    description: "5 devices compared on real sketching capability - pressure levels, tilt support, and color - since basic note-taking hardware doesn't automatically translate to good drawing hardware.",
     mainKeyword: "digital notebook for drawing",
     subKeywords: ["digital notebook for drawing","digital notebook for drawing guide","best digital notebook for drawing"],
     heroImage: "https://m.media-amazon.com/images/I/41StVO0JWOL._SL500_.jpg",
@@ -21970,7 +21970,7 @@ export const guides: Guide[] = [
     slug: "best-digital-notebooks-that-sync-with-onenote",
     categorySlug: "compact-home-office",
     subcategorySlug: "desk-accessories",
-    description: "Honest finding: none of these devices sync natively with OneNote. We tested the realistic path — export to PDF or image, then manually import into OneNote — and ranked by how clean that export actually is.",
+    description: "Honest finding: none of these devices sync natively with OneNote. We tested the realistic path - export to PDF or image, then manually import into OneNote - and ranked by how clean that export actually is.",
     mainKeyword: "digital notebook that syncs with OneNote",
     subKeywords: ["digital notebook that syncs with OneNote","digital notebook that syncs with OneNote guide","best digital notebook that syncs with OneNote"],
     heroImage: "https://m.media-amazon.com/images/I/31TxeKtPWwL._SL500_.jpg",
@@ -22240,7 +22240,7 @@ export const guides: Guide[] = [
     slug: "best-gold-desk-clocks",
     categorySlug: "compact-home-office",
     subcategorySlug: "desk-accessories",
-    description: "5 gold-finish desk clocks compared by actual material — metal versus plated — since \"gold\" in a product title doesn't guarantee solid metal construction.",
+    description: "5 gold-finish desk clocks compared by actual material - metal versus plated - since \"gold\" in a product title doesn't guarantee solid metal construction.",
     mainKeyword: "gold desk clock",
     subKeywords: ["gold desk clock","gold desk clock guide","best gold desk clock"],
     heroImage: "https://m.media-amazon.com/images/I/41+mFh63FwL._SL500_.jpg",
@@ -22834,7 +22834,7 @@ export const guides: Guide[] = [
     slug: "best-reusable-digital-notebooks",
     categorySlug: "compact-home-office",
     subcategorySlug: "desk-accessories",
-    description: "5 reusable paper notebooks compared by page format and template — Core vs. Fusion vs. Fusion Plus — rather than just size, since the erase mechanism is identical across the whole lineup.",
+    description: "5 reusable paper notebooks compared by page format and template - Core vs. Fusion vs. Fusion Plus - rather than just size, since the erase mechanism is identical across the whole lineup.",
     mainKeyword: "reusable digital notebook",
     subKeywords: ["reusable digital notebook","reusable digital notebook guide","best reusable digital notebook"],
     heroImage: "https://m.media-amazon.com/images/I/41DUQEUXetL._SL500_.jpg",
@@ -23050,7 +23050,7 @@ export const guides: Guide[] = [
     slug: "best-wall-powered-laptop-cooling-pads",
     categorySlug: "compact-home-office",
     subcategorySlug: "desk-accessories",
-    description: "Honest finding: no cooling pad in our current research pool has a dedicated AC wall adapter — every option is USB-powered, which can still be plugged into a wall charger.",
+    description: "Honest finding: no cooling pad in our current research pool has a dedicated AC wall adapter - every option is USB-powered, which can still be plugged into a wall charger.",
     mainKeyword: "laptop cooling pad that plugs into wall",
     subKeywords: ["laptop cooling pad that plugs into wall","laptop cooling pad that plugs into wall guide","best laptop cooling pad that plugs into wall"],
     heroImage: "https://m.media-amazon.com/images/I/51+142vwVRL._SL500_.jpg",

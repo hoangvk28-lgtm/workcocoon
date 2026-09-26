@@ -50,7 +50,7 @@ function rowToProduct(row: ProductRow): Product {
     reviewSummary: row.review_summary,
     // Guard here, at the single seam between stored data (Supabase amazon_url
     // column, which may carry a stale/legacy tracking tag) and every rendered
-    // product card/CTA site-wide — sets the current AMAZON_TAG once, never
+    // product card/CTA site-wide - sets the current AMAZON_TAG once, never
     // duplicates a `tag` param, regardless of what's stored.
     amazonUrl: withAmazonTag(row.amazon_url),
     priceRange: row.price_range,

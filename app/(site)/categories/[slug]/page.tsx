@@ -93,7 +93,7 @@ export default async function CategoryPage({ params }: Props) {
   const { slug } = await params;
 
   // This category has been migrated to a topic-first silo with equivalent
-  // intent (same audience, same guides) — permanently redirect rather than
+  // intent (same audience, same guides) - permanently redirect rather than
   // serve duplicate content at the legacy /categories/<slug> URL.
   const migratedSilo = MIGRATED_CATEGORY_TO_SILO[slug];
   if (migratedSilo) {
@@ -127,7 +127,7 @@ export default async function CategoryPage({ params }: Props) {
   const collectionPageSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: `${category.name} — WorkCocoon`,
+    name: `${category.name} - WorkCocoon`,
     description: category.description,
     url: `${SITE_URL}/categories/${slug}`,
   };
@@ -184,7 +184,7 @@ export default async function CategoryPage({ params }: Props) {
       </div>
 
       {/* ── 3. Featured buying guides ────────────────────────────────────── */}
-      {/* Categories can aggregate hundreds/thousands of guides via matchSlugs — cap
+      {/* Categories can aggregate hundreds/thousands of guides via matchSlugs - cap
           what's rendered in one page so this stays fast and actually browsable. */}
       {guides.length > 0 && (
         <div id="buying-guides" className="mb-14 scroll-mt-20">
@@ -235,7 +235,7 @@ export default async function CategoryPage({ params }: Props) {
               Quick Compare
             </span>
             <h2 className="text-2xl font-bold text-ink mt-1 mb-2 tracking-tight">
-              {category.name} — Side-by-Side
+              {category.name} - Side-by-Side
             </h2>
             <p className="text-sm text-ink-secondary leading-relaxed max-w-2xl">
               All {products.length} {category.name.toLowerCase()} products we evaluated, sorted by
@@ -263,7 +263,7 @@ export default async function CategoryPage({ params }: Props) {
               {category.name} Buying Advice
             </h2>
             <p className="text-sm text-ink-secondary leading-relaxed max-w-2xl">
-              Specific buying advice for common small-space questions — each linked to our full guide where available.
+              Specific buying advice for common small-space questions - each linked to our full guide where available.
             </p>
           </div>
 

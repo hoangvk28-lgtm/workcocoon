@@ -53,7 +53,7 @@ export const products: ProductReviewCardProps[] = [
     supportsCharging: false,
     pros: [
       { text: "Soft pillow base rests comfortably on a lap or mattress" },
-      { text: "360° rotating clip fits 5–12.9\" phones, tablets, and e-readers" },
+      { text: "360° rotating clip fits 5-12.9\" phones, tablets, and e-readers" },
       { text: "Built-in snack bowl for bedside or couch use" },
       { text: "No clamp or desk edge required" },
     ],
@@ -82,7 +82,7 @@ export const products: ProductReviewCardProps[] = [
       { text: "Washable soft lap pillow base" },
       { text: "360° adjustable arm for fine-tuned viewing angle" },
       { text: "Side storage pockets for a phone, remote, or charging cable" },
-      { text: "Fits 4.7\"–10\" tablets and phones" },
+      { text: "Fits 4.7\"-10\" tablets and phones" },
     ],
     cons: [
       { text: "Most expensive pillow stand in this guide", severity: "minor" },
@@ -107,7 +107,7 @@ export const products: ProductReviewCardProps[] = [
     supportsCharging: true,
     pros: [
       { text: "Folds pocket-flat for travel" },
-      { text: "Adjustable 15–100° viewing angle" },
+      { text: "Adjustable 15-100° viewing angle" },
       { text: "Anti-slip silicone + metal base panel" },
       { text: "Upgrade bridge screw keeps joints tight" },
     ],
@@ -135,11 +135,11 @@ export const products: ProductReviewCardProps[] = [
     pros: [
       { text: "54,000+ Amazon reviews - proven reliability" },
       { text: "Folds to 4.7\" × 4.2\" - truly pocketable" },
-      { text: "15–100° adjustment range" },
+      { text: "15-100° adjustment range" },
       { text: "Silicone non-slip base" },
     ],
     cons: [
-      { text: "4–11\" max device size (no large tablets)", severity: "major" },
+      { text: "4-11\" max device size (no large tablets)", severity: "major" },
       { text: "Smaller than some buyers expect", severity: "minor" },
     ],
     reviewText: [
@@ -170,7 +170,7 @@ export const products: ProductReviewCardProps[] = [
     ],
     reviewText: [
       "The Lamicall is the best-reviewed tablet stand on Amazon - 75,000+ ratings, 4.8 stars, and a reputation for making iPads look like a mini iMac on your desk. The Al-Ti alloy construction is noticeably more premium than ABS plastic stands: heavier, more rigid, zero flex when tapping the screen.",
-      "It supports 4–13 inch devices in both portrait and landscape orientation, with a multi-angle adjustment mechanism that holds its position reliably. If you work at a fixed desk and want a stand that stays put and looks great, the Lamicall is the upgrade worth making. The lifetime warranty is a genuine differentiator at this price.",
+      "It supports 4-13 inch devices in both portrait and landscape orientation, with a multi-angle adjustment mechanism that holds its position reliably. If you work at a fixed desk and want a stand that stays put and looks great, the Lamicall is the upgrade worth making. The lifetime warranty is a genuine differentiator at this price.",
     ],
     scoreOverall: 9.1,
   },
@@ -279,7 +279,7 @@ export const products: ProductReviewCardProps[] = [
     ],
     reviewText: [
       "The MAGIPEA is the best pick for anyone who uses their tablet for drawing or digital art. The defining feature is its locking mechanism: you can set any combination of height and angle and lock it in place, so the stand doesn't shift under the pressure of stylus work. Most stands drift over time; the MAGIPEA doesn't.",
-      "The weighted all-metal base adds security during tap-heavy use - even aggressive digital painting sessions don't cause tipping. It supports portrait and landscape on devices up to 13 inches with a dedicated anti-slip silicone system in the holder. If drawing on your iPad is your primary use case, the extra $10–$15 over the Lamicall is justified.",
+      "The weighted all-metal base adds security during tap-heavy use - even aggressive digital painting sessions don't cause tipping. It supports portrait and landscape on devices up to 13 inches with a dedicated anti-slip silicone system in the holder. If drawing on your iPad is your primary use case, the extra $10-$15 over the Lamicall is justified.",
     ],
     scoreOverall: 8.8,
   },
@@ -292,10 +292,10 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "Tounee adjustable floor stand tablet holder gray",
     affiliateUrl: "https://amzn.to/4v6JBfd",
     price: "$15.99",
-    style: "Floor stand, height 27.5–55\", 360° rotation",
+    style: "Floor stand, height 27.5-55\", 360° rotation",
     supportsCharging: true,
     pros: [
-      { text: "27.5\"–55\" adjustable height - sofa to standing" },
+      { text: "27.5\"-55\" adjustable height - sofa to standing" },
       { text: "360° rotatable bracket" },
       { text: "23,450+ ratings, 4.8 stars" },
       { text: "Works for music scores, cooking, workouts" },
@@ -319,7 +319,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "ELEKPARTS adjustable tablet floor stand black",
     affiliateUrl: "https://amzn.to/4duiKni",
     price: "$27.99",
-    style: "Floor stand with arm, height 27.5–55\", 360° rotation",
+    style: "Floor stand with arm, height 27.5-55\", 360° rotation",
     supportsCharging: true,
     pros: [
       { text: "Flexible arm + full height adjustment" },
@@ -391,7 +391,7 @@ export const faq = [
   },
   {
     q: "Can a tablet stand hold an iPad Pro 12.9\"?",
-    a: "Not all stands are built for large iPads. The heavy-duty aluminum stand ($29.99), Lamicall, KABCON, and MAGIPEA all support iPad Pro 12.9\" and up to 13–15 inches. The UGREEN is limited to 11 inches and is not suitable for larger iPads.",
+    a: "Not all stands are built for large iPads. The heavy-duty aluminum stand ($29.99), Lamicall, KABCON, and MAGIPEA all support iPad Pro 12.9\" and up to 13-15 inches. The UGREEN is limited to 11 inches and is not suitable for larger iPads.",
   },
   {
     q: "What's the best tablet stand for bed use?",

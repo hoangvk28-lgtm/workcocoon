@@ -213,7 +213,7 @@ export default async function SmallDeskOrganizationIdeasPage() {
                 </div>
               ))}
             </div>
-            <p className="text-xs text-ink-muted mt-3 italic">Most people discover that 60–70% of their desk clutter falls into the weekly or rarely category. That&apos;s your real problem - not a lack of organizers.</p>
+            <p className="text-xs text-ink-muted mt-3 italic">Most people discover that 60-70% of their desk clutter falls into the weekly or rarely category. That&apos;s your real problem - not a lack of organizers.</p>
           </div>
         </section>
 
@@ -306,7 +306,7 @@ export default async function SmallDeskOrganizationIdeasPage() {
                 <strong className="text-ink">Core idea:</strong> A monitor riser elevates your screen to ergonomic height while creating a storage shelf underneath - the most efficient use of desk real estate available.
               </p>
               <p className="text-sm text-ink-secondary leading-relaxed mb-4">
-                Your monitor&apos;s base takes up 8–12 inches of desk depth. A riser lifts the monitor 4–5 inches and turns that dead zone into a shelf or drawer. Slide your keyboard underneath when not in use, store notebooks flat, or add a small drawer for supplies.
+                Your monitor&apos;s base takes up 8-12 inches of desk depth. A riser lifts the monitor 4-5 inches and turns that dead zone into a shelf or drawer. Slide your keyboard underneath when not in use, store notebooks flat, or add a small drawer for supplies.
               </p>
               <div className="space-y-3">
                 {methodProducts(4).map((p) => <ProductCard key={p.id} product={p} />)}
@@ -320,7 +320,7 @@ export default async function SmallDeskOrganizationIdeasPage() {
               <span className="w-9 h-9 rounded-full bg-brand text-white font-bold text-base flex items-center justify-center shrink-0">5</span>
               <div>
                 <h3 className="text-xl font-bold text-ink leading-tight">The Zone System - Divide the Desk Into Territories</h3>
-                <p className="text-xs text-brand font-semibold mt-0.5">Best for: Desks between 40–48 inches where you do multiple types of work</p>
+                <p className="text-xs text-brand font-semibold mt-0.5">Best for: Desks between 40-48 inches where you do multiple types of work</p>
               </div>
             </div>
             <div className="pl-12">
@@ -496,25 +496,25 @@ export default async function SmallDeskOrganizationIdeasPage() {
                 title: "How to organize a small desk without drawers",
                 desc: "The most common pain point - a basic tabletop or folding desk with zero built-in storage.",
                 methods: ["Method 2 (Under-Desk System) - Add adhesive drawers and stackable units below", "Method 1 (Vertical Stack) - Shelf riser or pegboard above", "Method 3 (One-Bin Rule) - One compact organizer on the surface"],
-                budget: "~$50–$70 for a functional drawer + riser + organizer combo",
+                budget: "~$50-$70 for a functional drawer + riser + organizer combo",
               },
               {
                 title: "How to organize a small desk with two monitors",
                 desc: "Dual monitors eat surface space. The desk mat you're working on shrinks to almost nothing.",
                 methods: ["Method 4 (Monitor Riser/Arm) - Mount both monitors on arms to reclaim base footprint", "Method 2 (Under-Desk System) - All storage goes below since the surface is monitor territory", "Method 5 (Zone System) - Define narrow supply zone on one side"],
-                budget: "~$70–$110 for dual monitor arms + under-desk storage",
+                budget: "~$70-$110 for dual monitor arms + under-desk storage",
               },
               {
                 title: "How to organize a small desk in a dorm room",
-                desc: "Dorm desks are usually 40–48 inches, shared spaces, and you can't drill into walls.",
+                desc: "Dorm desks are usually 40-48 inches, shared spaces, and you can't drill into walls.",
                 methods: ["Method 1 (Vertical Stack) - Desktop shelf riser (no wall mounting needed)", "Method 3 (One-Bin Rule) - One organizer, enforced limit", "Method 6 (Paper Elimination) - Digitize aggressively to minimize physical storage", "Method 7 (End-of-Day Reset) - Essential in shared spaces"],
-                budget: "~$40–$60 for riser + organizer + cable clips",
+                budget: "~$40-$60 for riser + organizer + cable clips",
               },
               {
                 title: "Cute ways to organize your desk",
                 desc: "If aesthetics matter as much as function, focus on materials and color coordination.",
                 methods: ["Bamboo monitor riser (warm, natural look)", "Felt and cork desk mat (textured, minimal)", "Bamboo desktop tray (matches the riser)", "Pick one material family and stick to it - matching materials make a small desk look intentional"],
-                budget: "~$60–$80 for a coordinated bamboo + felt setup",
+                budget: "~$60-$80 for a coordinated bamboo + felt setup",
               },
             ].map((sit) => (
               <div key={sit.title} className="p-5 rounded-2xl border border-border bg-white">

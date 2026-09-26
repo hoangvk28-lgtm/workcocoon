@@ -161,7 +161,7 @@ export const products: ProductReviewCardProps[] = [
     imageUrl: "https://m.media-amazon.com/images/I/61MC8BK0w0L._AC_SL1500_.jpg",
     imageAlt: "AULA F75 Pro wireless 75% mechanical keyboard with RGB and volume knob",
     affiliateUrl: "https://amzn.to/42WG7Qu",
-    price: "$48–$65",
+    price: "$48-$65",
     style: "75% layout (81 keys) + multimedia knob · Triple mode: Bluetooth 5.0, 2.4 GHz, USB-C · Gasket mount · Pre-lubed PBT keycaps",
     pros: [
       { text: "Triple wireless mode: Bluetooth 5.0 + 2.4 GHz dongle + USB-C wired" },
@@ -216,7 +216,7 @@ export const products: ProductReviewCardProps[] = [
     imageUrl: "https://m.media-amazon.com/images/I/71Fh8ZY4iWL._AC_SL1500_.jpg",
     imageAlt: "HHKB Professional Hybrid Type-S Snow white silent compact keyboard",
     affiliateUrl: "https://amzn.to/42W8m1C",
-    price: "$259–$299",
+    price: "$259-$299",
     style: "60% layout (60 keys) · Bluetooth (4 devices) + USB-C wired · Topre electrocapacitive Type-S silent switches · Mac and Windows via DIP switch",
     pros: [
       { text: "Topre electrocapacitive switches - widely regarded as the best typing feel at any price" },
@@ -244,7 +244,7 @@ export const products: ProductReviewCardProps[] = [
     imageUrl: "https://m.media-amazon.com/images/I/717RHdRIhiL._AC_SL1500_.jpg",
     imageAlt: "Corsair K55 CORE TKL RGB gaming keyboard tenkeyless black",
     affiliateUrl: "https://amzn.to/4f9OCio",
-    price: "$35–$45",
+    price: "$35-$45",
     style: "Tenkeyless (87 keys) · Wired USB-A · Quiet membrane switches · 8-zone RGB · IP32 spill-resistant · 1000 Hz polling",
     pros: [
       { text: "IP32 spill resistance handles accidental drink contact at the desk" },
@@ -300,7 +300,7 @@ export const products: ProductReviewCardProps[] = [
     imageUrl: "https://m.media-amazon.com/images/I/71UnL+fUeWL._AC_SL1500_.jpg",
     imageAlt: "SteelSeries Apex 3 TKL RGB gaming keyboard black tenkeyless",
     affiliateUrl: "https://amzn.to/4tTJO4b",
-    price: "$36–$45",
+    price: "$36-$45",
     style: "Tenkeyless (87 keys) + 6 macro keys · Wired USB-A · Whisper-quiet gaming switches · N-Key Rollover · IP32 water and dust resistant",
     pros: [
       { text: "N-Key Rollover (NKRO) - every simultaneous key press registers reliably" },
@@ -328,7 +328,7 @@ export const products: ProductReviewCardProps[] = [
     imageUrl: "https://m.media-amazon.com/images/I/61LaMIr8xzL._AC_SL1100_.jpg",
     imageAlt: "Rii i4 mini Bluetooth keyboard with integrated touchpad black portable",
     affiliateUrl: "https://amzn.to/4nLMZcM",
-    price: "$22–$28",
+    price: "$22-$28",
     style: "Mini QWERTY with integrated touchpad · Dual mode: Bluetooth 4.0 + 2.4 GHz USB dongle · Backlit keys · iOS, Android, Windows, macOS, TV Box, Raspberry Pi",
     pros: [
       { text: "Integrated touchpad eliminates the need for a separate mouse" },

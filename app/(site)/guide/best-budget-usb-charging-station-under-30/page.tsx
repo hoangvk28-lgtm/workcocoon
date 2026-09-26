@@ -187,7 +187,7 @@ export default async function BestBudgetUsbChargingStationUnder30Page() {
 
         {/* Intro */}
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>The typical desk has a laptop charger, a phone charger, maybe a monitor or lamp, and usually only one or two free outlets. A USB charging station replaces 6–10 individual wall adapters with a single unit that charges everything from one plug.</p>
+          <p>The typical desk has a laptop charger, a phone charger, maybe a monitor or lamp, and usually only one or two free outlets. A USB charging station replaces 6-10 individual wall adapters with a single unit that charges everything from one plug.</p>
           <p>At under $30, the quality range is enormous, from UL-certified brands like Anker and Sabrent to no-name units that run hot and fail after 6 months. Every pick in this guide is from a brand with a verifiable Amazon track record.</p>
           <p>We evaluated 7 picks on total wattage, port configuration, safety certifications, smart-charging capability, and desk footprint, then ranked them for small-desk and dorm use.</p>
         </section>
@@ -209,9 +209,9 @@ export default async function BestBudgetUsbChargingStationUnder30Page() {
                 </tr></thead>
                 <tbody>
                   {[
-                    { ports: "5–6 ports", total: "60W", perPort: "10–12W", bestFor: "Phones + earbuds at full speed" },
+                    { ports: "5-6 ports", total: "60W", perPort: "10-12W", bestFor: "Phones + earbuds at full speed" },
                     { ports: "10 ports", total: "60W", perPort: "6W", bestFor: "Phones only (tablets slow)" },
-                    { ports: "6 ports", total: "68W", perPort: "11–14W", bestFor: "Mix of phones + one tablet" },
+                    { ports: "6 ports", total: "68W", perPort: "11-14W", bestFor: "Mix of phones + one tablet" },
                   ].map((row, i) => (
                     <tr key={i} className={i % 2 === 0 ? "bg-white" : "bg-bg"}>
                       <td className="px-4 py-3 font-medium text-ink">{row.ports}</td>
@@ -227,10 +227,10 @@ export default async function BestBudgetUsbChargingStationUnder30Page() {
 
           <div className="mb-8">
             <h3 className="text-lg font-bold text-ink mb-3">2. USB-A vs USB-C, Do You Need It?</h3>
-            <p className="text-sm text-ink-secondary mb-3">If you have an iPhone 15 or later, any Android from 2021+, or iPad Pro/Air, your device charges via USB-C. A USB-A only station charges these devices just fine, but at 10W max, not 20–45W fast-charge speed.</p>
-            <p className="text-sm text-ink-secondary mb-3">For a station under $30, most have 0–1 USB-C port. The SooPii (pick #3) and MSTJRY (pick #5) both include a PD 20W USB-C port that fast-charges modern iPhones and Android phones in ~30 minutes from 0–50%.</p>
+            <p className="text-sm text-ink-secondary mb-3">If you have an iPhone 15 or later, any Android from 2021+, or iPad Pro/Air, your device charges via USB-C. A USB-A only station charges these devices just fine, but at 10W max, not 20-45W fast-charge speed.</p>
+            <p className="text-sm text-ink-secondary mb-3">For a station under $30, most have 0-1 USB-C port. The SooPii (pick #3) and MSTJRY (pick #5) both include a PD 20W USB-C port that fast-charges modern iPhones and Android phones in ~30 minutes from 0-50%.</p>
             <div className="p-3 rounded-xl bg-brand/5 border border-brand/20 text-sm text-ink-secondary">
-              <strong className="text-ink">Quick rule:</strong> If you have 1–2 USB-C devices that you use daily, choose a station with at least one PD 20W USB-C port. If all your devices are USB-A (older phones, Kindles, earbuds), a pure USB-A station is fine.
+              <strong className="text-ink">Quick rule:</strong> If you have 1-2 USB-C devices that you use daily, choose a station with at least one PD 20W USB-C port. If all your devices are USB-A (older phones, Kindles, earbuds), a pure USB-A station is fine.
             </div>
           </div>
 

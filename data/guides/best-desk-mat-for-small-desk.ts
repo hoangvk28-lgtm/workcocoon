@@ -183,7 +183,7 @@ export const mats: DeskMat[] = [
     badge: "Best Ultra-Compact",
     score: 8.0,
     size: "10x12\"",
-    price: "$8–$14",
+    price: "$8-$14",
     style: "PU leather or fabric, non-slip base",
     material: "vegan-leather",
     materialLabel: "PU Leather / Fabric",

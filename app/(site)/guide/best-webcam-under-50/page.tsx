@@ -184,7 +184,7 @@ export default async function BestWebcamUnder50Page() {
     itemListElement: products.map((p) => ({
       "@type": "ListItem",
       position: p.rank,
-      name: `${p.name} — ${p.badge}`,
+      name: `${p.name} - ${p.badge}`,
       url: `${SITE_URL}/guide/best-webcam-under-50#${p.id}`,
     })),
   };
@@ -233,14 +233,14 @@ export default async function BestWebcamUnder50Page() {
               <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
               </svg>
-              5 picks — all under $50, all plug-and-play, all Chromebook-compatible
+              5 picks - all under $50, all plug-and-play, all Chromebook-compatible
             </div>
           </div>
         </header>
 
         {/* Affiliate disclosure */}
         <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
-          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission — at no extra cost to you. This guide is based on product specs, buyer feedback, use cases, and comparison criteria — not paid placement.{" "}
+          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission - at no extra cost to you. This guide is based on product specs, buyer feedback, use cases, and comparison criteria - not paid placement.{" "}
           <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
         </div>
 
@@ -318,7 +318,7 @@ export default async function BestWebcamUnder50Page() {
             Most webcam guides are written by tech reviewers with dedicated home offices, wide monitors, and no budget constraints. The result: roundups that lead with $150 4K cameras and treat &ldquo;budget&rdquo; as anything under $80.
           </p>
           <p>
-            This guide is written for people with different constraints: a small desk, a shared dorm room, a laptop that might be a Chromebook, a budget that caps out at $50, and a requirement that the thing just <em>works</em> when plugged in — no driver download on a school-managed machine.
+            This guide is written for people with different constraints: a small desk, a shared dorm room, a laptop that might be a Chromebook, a budget that caps out at $50, and a requirement that the thing just <em>works</em> when plugged in - no driver download on a school-managed machine.
           </p>
           <p>
             Every pick here is under $50, plug-and-play on Chromebook, and evaluated specifically for compact desk setups. No 4K cameras, no AI tracking, no features you&apos;ll never use.
@@ -329,7 +329,7 @@ export default async function BestWebcamUnder50Page() {
         <section id="do-you-need-a-webcam" className="mb-12 scroll-mt-20">
           <h2 className="text-2xl font-bold text-ink mb-5 tracking-tight">Do You Actually Need an External Webcam?</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-4">
-            Most laptop built-in cameras are 720p with poor low-light performance and a wide lens that distorts your face at close range. An external webcam is a genuine upgrade — but it&apos;s not always necessary.
+            Most laptop built-in cameras are 720p with poor low-light performance and a wide lens that distorts your face at close range. An external webcam is a genuine upgrade - but it&apos;s not always necessary.
           </p>
           <div className="grid sm:grid-cols-2 gap-4 mb-5">
             <div className="p-4 rounded-xl border border-cta/30 bg-cta-light/10">
@@ -357,10 +357,10 @@ export default async function BestWebcamUnder50Page() {
                   "Your laptop is less than 2 years old with a 1080p built-in",
                   "You have good window lighting directly in front of you",
                   "Calls are audio-first (camera optional in your workflow)",
-                  "You're genuinely on a tight budget — save it for something else",
+                  "You're genuinely on a tight budget - save it for something else",
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-2 text-xs text-ink-secondary">
-                    <span className="w-4 h-4 rounded-full bg-gray-100 text-ink-muted flex items-center justify-center shrink-0 font-bold text-[9px] mt-0.5">—</span>
+                    <span className="w-4 h-4 rounded-full bg-gray-100 text-ink-muted flex items-center justify-center shrink-0 font-bold text-[9px] mt-0.5">-</span>
                     {item}
                   </li>
                 ))}
@@ -382,11 +382,11 @@ export default async function BestWebcamUnder50Page() {
             {[
               {
                 title: "Eye-level beats top-of-monitor",
-                body: "A webcam perched on a monitor that sits below eye level shoots upward — nostrils, ceiling, unflattering angle. On a small desk, your screen is often lower than ideal. Fix it: put a book or stand under your laptop/monitor to raise it so the webcam is level with your eyes, or use an adjustable-arm monitor mount.",
+                body: "A webcam perched on a monitor that sits below eye level shoots upward - nostrils, ceiling, unflattering angle. On a small desk, your screen is often lower than ideal. Fix it: put a book or stand under your laptop/monitor to raise it so the webcam is level with your eyes, or use an adjustable-arm monitor mount.",
               },
               {
                 title: "90° FOV is the right choice at small-desk distances",
-                body: "Wider FOVs (110°+) are popular in marketing but show more background — your entire room behind you. At 18–24 inches from a small desk screen, a 90° FOV fills the frame naturally with just your head and shoulders. All five picks use 90° for exactly this reason.",
+                body: "Wider FOVs (110°+) are popular in marketing but show more background - your entire room behind you. At 18-24 inches from a small desk screen, a 90° FOV fills the frame naturally with just your head and shoulders. All five picks use 90° for exactly this reason.",
               },
               {
                 title: "Clip-on fits thin bezels without a tool",
@@ -412,7 +412,7 @@ export default async function BestWebcamUnder50Page() {
         <section id="buying-criteria-pre" className="mb-12 scroll-mt-20">
           <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">Criteria to Look for Before You Buy a Webcam</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-6">
-            At the under-$50 price point, spec sheets are often misleading. Here&apos;s what actually matters — and what you can safely ignore.
+            At the under-$50 price point, spec sheets are often misleading. Here&apos;s what actually matters - and what you can safely ignore.
           </p>
           <div className="space-y-3">
             {[
@@ -420,31 +420,31 @@ export default async function BestWebcamUnder50Page() {
                 icon: "📹",
                 label: "Resolution: 1080p is the minimum in 2026",
                 must: true,
-                body: "Skip any webcam labeled 720p — the difference is visible on modern screens and most video platforms support 1080p. Beware of cheap no-name units that advertise \"1080p\" but deliver noticeably softer video. Every pick in this guide is genuine 1080p verified by buyer reports.",
+                body: "Skip any webcam labeled 720p - the difference is visible on modern screens and most video platforms support 1080p. Beware of cheap no-name units that advertise \"1080p\" but deliver noticeably softer video. Every pick in this guide is genuine 1080p verified by buyer reports.",
               },
               {
                 icon: "🔒",
                 label: "Physical privacy shutter",
                 must: false,
-                body: "A physical lens cover blocks the camera mechanically — software can't override it. Critical for shared dorm rooms and shared home offices. Nice-to-have for everyone else. Two picks in this guide include one (NexiGo N60 and EMEET C960); the Logitech Brio 100 also includes a built-in shutter.",
+                body: "A physical lens cover blocks the camera mechanically - software can't override it. Critical for shared dorm rooms and shared home offices. Nice-to-have for everyone else. Two picks in this guide include one (NexiGo N60 and EMEET C960); the Logitech Brio 100 also includes a built-in shutter.",
               },
               {
                 icon: "🎤",
                 label: "Built-in microphone quality",
                 must: false,
-                body: "Most budget webcams include a basic mono mic — adequate for weekly calls, not for daily remote work in noisy environments. If audio matters to you, the EMEET C960's dual-mic with noise cancellation is the clear winner at this price point. If audio is critical, consider a separate USB mic instead.",
+                body: "Most budget webcams include a basic mono mic - adequate for weekly calls, not for daily remote work in noisy environments. If audio matters to you, the EMEET C960's dual-mic with noise cancellation is the clear winner at this price point. If audio is critical, consider a separate USB mic instead.",
               },
               {
                 icon: "🔌",
                 label: "Plug-and-play (no driver required)",
                 must: true,
-                body: "School-managed laptops and Chromebooks often can't install software. All picks in this guide are UVC-compliant: plug in, use immediately on Windows, macOS, and Chrome OS. Avoid webcams that require companion app installs — they fail on managed devices.",
+                body: "School-managed laptops and Chromebooks often can't install software. All picks in this guide are UVC-compliant: plug in, use immediately on Windows, macOS, and Chrome OS. Avoid webcams that require companion app installs - they fail on managed devices.",
               },
               {
                 icon: "📐",
-                label: "Field of view: 78°–90° for small desks",
+                label: "Field of view: 78°-90° for small desks",
                 must: false,
-                body: "Wider FOV (110°+) sounds better on paper but shows more background at typical small-desk distances. At 18–24 inches from your screen, 90° frames you cleanly without exposing your room. All five picks here use 90°.",
+                body: "Wider FOV (110°+) sounds better on paper but shows more background at typical small-desk distances. At 18-24 inches from your screen, 90° frames you cleanly without exposing your room. All five picks here use 90°.",
               },
               {
                 icon: "📎",
@@ -456,13 +456,13 @@ export default async function BestWebcamUnder50Page() {
                 icon: "⚡",
                 label: "Frame rate: 30fps is fine for calls, not for streaming",
                 must: false,
-                body: "Every webcam under $50 caps at 30fps. This is perfectly adequate for Zoom, Teams, and Google Meet. If you need 60fps for smooth streaming or content creation, you need to spend more — the Logitech C920x (~$55–$60) is the entry point for 60fps.",
+                body: "Every webcam under $50 caps at 30fps. This is perfectly adequate for Zoom, Teams, and Google Meet. If you need 60fps for smooth streaming or content creation, you need to spend more - the Logitech C920x (~$55-$60) is the entry point for 60fps.",
               },
               {
                 icon: "🏷️",
                 label: "Brand reliability over spec padding",
                 must: false,
-                body: "At under $20, generic brands routinely fail at the hinge within 3 months or deliver below-spec video quality. Stick with EMEET, NexiGo, or Logitech — they have real product support and consistent quality. The $5 you save on a no-name unit rarely outlasts a semester.",
+                body: "At under $20, generic brands routinely fail at the hinge within 3 months or deliver below-spec video quality. Stick with EMEET, NexiGo, or Logitech - they have real product support and consistent quality. The $5 you save on a no-name unit rarely outlasts a semester.",
               },
             ].map((c, i) => (
               <div key={i} className="flex gap-4 p-4 rounded-xl border border-border bg-white">
@@ -505,7 +505,7 @@ export default async function BestWebcamUnder50Page() {
         <h2 className="text-2xl font-bold text-ink mb-8 tracking-tight">Our Top 5 Picks</h2>
         {products.map((cam) => <WebcamSection key={cam.id} cam={cam} />)}
 
-        {/* Lighting tips — unique content gap */}
+        {/* Lighting tips - unique content gap */}
         <section id="lighting-tips" className="mb-14 scroll-mt-20">
           <h2 className="text-2xl font-bold text-ink mb-5 tracking-tight">How to Look Good on a Budget Webcam (Without Buying a Ring Light)</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-6">
@@ -516,18 +516,18 @@ export default async function BestWebcamUnder50Page() {
               {
                 label: "Face a window",
                 impact: "Biggest free improvement",
-                description: "Natural light from a window directly in front of you — not behind or to the side — transforms any webcam. Even a $18 webcam looks clean with good window light. If the window is behind you, you become a silhouette. Move your desk or flip your chair.",
+                description: "Natural light from a window directly in front of you - not behind or to the side - transforms any webcam. Even a $18 webcam looks clean with good window light. If the window is behind you, you become a silhouette. Move your desk or flip your chair.",
                 color: "#5f7a4a",
               },
               {
                 label: "Put a lamp at eye level in front of you",
                 impact: "Free if you already have a lamp",
-                description: "A desk lamp placed at monitor level, facing you, acts as a basic fill light. Aim for 4000–5000K (cool white or daylight) for a clean, natural look on camera — warm light at 2700K will make you appear orange-toned. Position it slightly to the side, not directly behind the screen.",
+                description: "A desk lamp placed at monitor level, facing you, acts as a basic fill light. Aim for 4000-5000K (cool white or daylight) for a clean, natural look on camera - warm light at 2700K will make you appear orange-toned. Position it slightly to the side, not directly behind the screen.",
                 color: "#7c9068",
               },
               {
                 label: "Raise your camera to eye level",
-                impact: "Free — use books or a stand",
+                impact: "Free - use books or a stand",
                 description: "A webcam that points upward shows ceiling, nostrils, and a generally unflattering angle. Stack books, use a laptop stand, or mount your monitor higher until the webcam lens is level with your eyes. This alone changes how others perceive your setup.",
                 color: "#7c3aed",
               },
@@ -551,7 +551,7 @@ export default async function BestWebcamUnder50Page() {
             ))}
           </div>
           <div className="p-4 rounded-xl bg-bg border border-border text-sm text-ink-secondary">
-            <strong className="text-ink">If you do want a ring light:</strong> A basic 6-inch ring light costs $12–$18 on Amazon. Paired with any webcam in this guide, it&apos;s a complete setup. Look for one with adjustable color temperature (warm to cool) and brightness — you&apos;ll want to adjust it based on your room lighting.
+            <strong className="text-ink">If you do want a ring light:</strong> A basic 6-inch ring light costs $12-$18 on Amazon. Paired with any webcam in this guide, it&apos;s a complete setup. Look for one with adjustable color temperature (warm to cool) and brightness - you&apos;ll want to adjust it based on your room lighting.
           </div>
         </section>
 
@@ -559,7 +559,7 @@ export default async function BestWebcamUnder50Page() {
         <section id="chromebook-compatibility" className="mb-14 scroll-mt-20">
           <h2 className="text-2xl font-bold text-ink mb-5 tracking-tight">Chromebook and Laptop Compatibility Notes</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-5">
-            Every pick in this guide works on Chromebook without driver installation. Chrome OS natively supports all UVC-compliant webcams — which includes all mainstream brands. The only webcams that don&apos;t work on Chromebook are those requiring proprietary software (AI tracking cameras, specialized streaming cams).
+            Every pick in this guide works on Chromebook without driver installation. Chrome OS natively supports all UVC-compliant webcams - which includes all mainstream brands. The only webcams that don&apos;t work on Chromebook are those requiring proprietary software (AI tracking cameras, specialized streaming cams).
           </p>
           <div className="overflow-x-auto rounded-xl border border-border mb-5">
             <table className="w-full text-sm">
@@ -580,7 +580,7 @@ export default async function BestWebcamUnder50Page() {
                     <td className="px-4 py-3 text-center text-emerald-600 font-bold text-xs">✓</td>
                     <td className="px-4 py-3 text-center text-emerald-600 font-bold text-xs">✓</td>
                     <td className="px-4 py-3 text-center hidden sm:table-cell">
-                      <span className="text-xs font-semibold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-full">No — plug and play</span>
+                      <span className="text-xs font-semibold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-full">No - plug and play</span>
                     </td>
                   </tr>
                 ))}
@@ -588,7 +588,7 @@ export default async function BestWebcamUnder50Page() {
             </table>
           </div>
           <div className="p-4 rounded-xl bg-bg border border-border text-sm text-ink-secondary">
-            <strong className="text-ink">School-managed Chromebooks:</strong> If your Chromebook is managed by your school, camera permissions may be restricted at the policy level — not by the webcam hardware. Check with your IT department if the webcam is not recognized on a managed device. The webcam itself is plug-and-play; restrictions come from device policy, not the camera.
+            <strong className="text-ink">School-managed Chromebooks:</strong> If your Chromebook is managed by your school, camera permissions may be restricted at the policy level - not by the webcam hardware. Check with your IT department if the webcam is not recognized on a managed device. The webcam itself is plug-and-play; restrictions come from device policy, not the camera.
           </div>
         </section>
 

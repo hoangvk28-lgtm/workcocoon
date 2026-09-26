@@ -144,7 +144,7 @@ export default async function BestTabletStandsPage() {
               {
                 icon: "🔩",
                 title: "Build material",
-                body: "ABS plastic works fine at $8–$10 but develops joint looseness over months. Al-Ti alloy stands (Lamicall, KABCON) cost a few dollars more and maintain their rigidity through years of daily use.",
+                body: "ABS plastic works fine at $8-$10 but develops joint looseness over months. Al-Ti alloy stands (Lamicall, KABCON) cost a few dollars more and maintain their rigidity through years of daily use.",
               },
               {
                 icon: "📏",
@@ -154,7 +154,7 @@ export default async function BestTabletStandsPage() {
               {
                 icon: "🎨",
                 title: "Use case: desk vs. bed vs. drawing",
-                body: "A desk stand should lock at eye level. A bed/floor stand needs height range (27\"–55\"). A drawing stand needs a locking mechanism that holds under stylus pressure. Each use case has a different best pick.",
+                body: "A desk stand should lock at eye level. A bed/floor stand needs height range (27\"-55\"). A drawing stand needs a locking mechanism that holds under stylus pressure. Each use case has a different best pick.",
               },
             ].map((item) => (
               <div key={item.title} className="flex gap-3 p-4 rounded-xl border border-border bg-white">

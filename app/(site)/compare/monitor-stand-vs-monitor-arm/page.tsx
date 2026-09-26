@@ -160,7 +160,7 @@ export default function MonitorStandVsArmPage() {
 
           {/* VS layout */}
           <div className="flex flex-col sm:flex-row items-center gap-6 mb-8">
-            {/* Side A — Stand */}
+            {/* Side A - Stand */}
             <div className="flex-1 flex flex-col items-center text-center">
               <div className="w-28 h-28 rounded-2xl overflow-hidden bg-white/10 mb-3">
                 <Image src={heroImageA} alt="Monitor Stand" width={112} height={112} className="w-full h-full object-contain p-2" unoptimized />
@@ -179,7 +179,7 @@ export default function MonitorStandVsArmPage() {
               <div className="text-xs text-white/50 text-center">6 criteria</div>
             </div>
 
-            {/* Side B — Arm */}
+            {/* Side B - Arm */}
             <div className="flex-1 flex flex-col items-center text-center">
               <div className="w-28 h-28 rounded-2xl overflow-hidden bg-white/10 mb-3">
                 <Image src={heroImageB} alt="Monitor Arm" width={112} height={112} className="w-full h-full object-contain p-2" unoptimized />
@@ -431,7 +431,7 @@ export default function MonitorStandVsArmPage() {
               <div className="flex flex-col sm:flex-row gap-4 px-4 py-3">
                 <div className="flex-1">
                   <p className="text-sm text-ink-secondary mb-2">
-                    Two separate stands consume roughly 400 square inches of desk space. A dual arm holds both monitors from a single clamp. Budget dual arms start at $35–$45.
+                    Two separate stands consume roughly 400 square inches of desk space. A dual arm holds both monitors from a single clamp. Budget dual arms start at $35-$45.
                   </p>
                   <p className="text-xs text-amber-700 bg-amber-50 rounded-lg px-3 py-2">
                     <span className="font-semibold">Note:</span> Dual arms at this price point have more wobble than single arms. Tighten tension bolts carefully during setup.
@@ -488,7 +488,7 @@ export default function MonitorStandVsArmPage() {
                 {[
                   "Monitor isn't VESA compatible",
                   "Desk is glass, fragile, or beveled",
-                  "Just need the monitor 4–6 in higher",
+                  "Just need the monitor 4-6 in higher",
                   "Want 2-minute setup, no tools",
                   "Want storage underneath",
                   "Budget is under $25",

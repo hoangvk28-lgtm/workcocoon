@@ -188,7 +188,7 @@ export default async function BestBudgetMultiDeviceChargingStationUnder50Page() 
 
         {/* Intro */}
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>The $30–$50 range is where USB charging stations start getting genuinely interesting. At $25, you get USB-A hubs that charge phones reliably. At $35–$50, you start getting GaN technology, smaller, cooler-running chargers that can fast-charge laptops alongside phones.</p>
+          <p>The $30-$50 range is where USB charging stations start getting genuinely interesting. At $25, you get USB-A hubs that charge phones reliably. At $35-$50, you start getting GaN technology, smaller, cooler-running chargers that can fast-charge laptops alongside phones.</p>
           <p>The 5 picks in this guide were evaluated on wattage per port, USB-C PD availability, GaN efficiency, and whether they handle mixed Apple and Android device households without compromise.</p>
           <p>Every pick is from a brand with a verifiable Amazon history, UGREEN, Anker, SooPii, ORICO, and Sabrent all have thousands of reviews across their product lines.</p>
         </section>
@@ -203,7 +203,7 @@ export default async function BestBudgetMultiDeviceChargingStationUnder50Page() 
             <div className="grid sm:grid-cols-2 gap-3 mb-4">
               {[
                 { label: "Traditional silicon charger", items: ["Larger physical size", "Runs warmer, generates more heat", "Less efficient, some wattage lost as heat", "Often cheaper at same wattage"] },
-                { label: "GaN charger", items: ["Compact, often 40–60% smaller", "Runs cooler, better long-term durability", "More efficient, less wasted heat", "Slightly more expensive at same wattage"] },
+                { label: "GaN charger", items: ["Compact, often 40-60% smaller", "Runs cooler, better long-term durability", "More efficient, less wasted heat", "Slightly more expensive at same wattage"] },
               ].map((col, i) => (
                 <div key={i} className={`p-4 rounded-xl border ${i === 0 ? "border-gray-200 bg-gray-50" : "border-cta/30 bg-cta-light/20"}`}>
                   <p className="text-xs font-bold uppercase tracking-widest mb-2 text-ink">{col.label}</p>
@@ -214,7 +214,7 @@ export default async function BestBudgetMultiDeviceChargingStationUnder50Page() 
               ))}
             </div>
             <div className="p-3 rounded-xl bg-brand/5 border border-brand/20 text-sm text-ink-secondary">
-              <strong className="text-ink">At $30–$40, GaN is now available:</strong> The UGREEN Nexode 65W is the clearest example, 65W GaN in a compact body at a price that was $60+ just 2 years ago.
+              <strong className="text-ink">At $30-$40, GaN is now available:</strong> The UGREEN Nexode 65W is the clearest example, 65W GaN in a compact body at a price that was $60+ just 2 years ago.
             </div>
           </div>
 
@@ -229,11 +229,11 @@ export default async function BestBudgetMultiDeviceChargingStationUnder50Page() 
                 </tr></thead>
                 <tbody>
                   {[
-                    { device: "iPhone 12–16", min: "20W", full: "20W (0–50% in 30 min)" },
+                    { device: "iPhone 12-16", min: "20W", full: "20W (0-50% in 30 min)" },
                     { device: "iPad Air / iPad Pro", min: "20W", full: "30W (full speed overnight)" },
                     { device: "MacBook Air M2/M3", min: "30W (slow)", full: "65W (fast, active use)" },
                     { device: "MacBook Pro 14\"", min: "30W (charge while asleep)", full: "96W (active use, not available here)" },
-                    { device: "Android flagship (most)", min: "18W PD", full: "25–45W (device-specific)" },
+                    { device: "Android flagship (most)", min: "18W PD", full: "25-45W (device-specific)" },
                   ].map((row, i) => (
                     <tr key={i} className={i % 2 === 0 ? "bg-white" : "bg-bg"}>
                       <td className="px-4 py-3 font-medium text-ink">{row.device}</td>

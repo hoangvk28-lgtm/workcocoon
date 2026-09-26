@@ -11,7 +11,7 @@ import { canonicalGuideHref } from "@/lib/migrated-silos";
 export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
-  title: "All Buying Guides – Best Small Space Products",
+  title: "All Buying Guides - Best Small Space Products",
   description:
     "All our buying guides for small rooms, dorm setups, compact desks, and home offices. Top picks for students and small-space dwellers.",
   path: "/guide",

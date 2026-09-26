@@ -59,7 +59,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   // Google Analytics and Microsoft Clarity must only fire in production, AND
-  // only with WorkCocoon's own IDs — this file was cloned from DeskFinds and
+  // only with WorkCocoon's own IDs - this file was cloned from DeskFinds and
   // originally had DeskFinds' real GA/Clarity IDs hardcoded here, which would
   // have sent WorkCocoon's production traffic straight into DeskFinds'
   // analytics properties. Both are now sourced from env vars with no

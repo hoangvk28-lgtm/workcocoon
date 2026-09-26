@@ -12,7 +12,7 @@ export function buildAmazonUrl(asin: string): string {
  * Render-time guard for any Amazon URL that was stored (DB, seed data, admin
  * input) rather than built fresh via buildAmazonUrl(). Sets the `tag` query
  * param to the current AMAZON_TAG, replacing whatever tag (or none) was
- * already on the URL — never appending a second `tag=` param. Use this at
+ * already on the URL - never appending a second `tag=` param. Use this at
  * the point a stored amazonUrl/affiliateUrl is actually rendered as `href`,
  * so a stale or legacy tracking tag in stored data can never reach a live
  * link, and switching AMAZON_TAG only ever requires editing this file.

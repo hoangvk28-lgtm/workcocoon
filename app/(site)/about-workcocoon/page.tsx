@@ -6,9 +6,9 @@ import { buildMetadata, SITE_URL } from "@/lib/seo";
 // ── Metadata ──────────────────────────────────────────────────────────────────
 
 const baseMeta = buildMetadata({
-  title: "About WorkCocoon | Small-Space Desk Setup Buying Guides",
+  title: "About WorkCocoon | A Calmer Home Office, Thoughtfully Chosen",
   description:
-    "WorkCocoon helps students, remote workers, and small-space users find practical desk products through research-based buying guides and comparisons.",
+    "WorkCocoon helps people build calmer, more comfortable home workspaces through research-based buying guides and honest product recommendations.",
   path: "/about-workcocoon",
 });
 
@@ -16,15 +16,14 @@ export const metadata: Metadata = {
   ...baseMeta,
   keywords: [
     "WorkCocoon",
-    "desk finds",
     "what is WorkCocoon",
     "WorkCocoon reviews",
-    "small-space desk setup",
-    "workspace buying guides",
-    "dorm room desk setup",
-    "compact workspace products",
+    "calm home office",
+    "home office buying guides",
+    "small-space workspace products",
+    "comfortable workspace ideas",
     "desk setup buying guides",
-    "Amazon product guides for small spaces",
+    "Amazon product guides for home offices",
   ],
   openGraph: {
     ...(baseMeta.openGraph as object),
@@ -38,17 +37,8 @@ export const metadata: Metadata = {
 
 const AUDIENCE = [
   {
-    title: "College students",
-    desc: "Living in dorms and shared apartments who need to maximize one desk and limited floor space on a student budget.",
-    icon: (
-      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
-        <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 3.741-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5" />
-      </svg>
-    ),
-  },
-  {
-    title: "Remote workers",
-    desc: "Setting up a professional home office in a bedroom corner or studio apartment without the budget or space for dedicated office furniture.",
+    title: "Remote and hybrid workers",
+    desc: "Setting up a home office corner that feels calm and focused, not just functional - without the budget or space for a dedicated office room.",
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M9 17.25v1.007a3 3 0 0 1-.879 2.122L7.5 21h9l-.621-.621A3 3 0 0 1 15 18.257V17.25m6-12V15a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 15V5.25m18 0A2.25 2.25 0 0 0 18.75 3H5.25A2.25 2.25 0 0 0 3 5.25m18 0H3" />
@@ -56,8 +46,17 @@ const AUDIENCE = [
     ),
   },
   {
-    title: "Small apartment renters",
-    desc: "Who want organized, functional rooms and can't drill holes, can't add furniture that dominates the room, and need products that work with what they already have.",
+    title: "Small-space workspaces",
+    desc: "A studio apartment, a bedroom desk, or a shared room where one corner has to double as a whole office, and every product decision matters more.",
+    icon: (
+      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
+      </svg>
+    ),
+  },
+  {
+    title: "Renters",
+    desc: "Who want an organized, comfortable room and can't drill holes, can't add furniture that dominates the space, and need products that work with what they already have.",
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
         <path strokeLinecap="round" strokeLinejoin="round" d="m2.25 12 8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
@@ -65,8 +64,8 @@ const AUDIENCE = [
     ),
   },
   {
-    title: "First-time renters",
-    desc: "Equipping their first place and trying to avoid the expensive mistake of buying something that doesn't fit or doesn't solve the actual problem.",
+    title: "Anyone setting up their first real workspace",
+    desc: "Furnishing a workspace for the first time and trying to avoid the expensive mistake of buying something that doesn't fit or doesn't solve the actual problem.",
     icon: (
       <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
@@ -83,7 +82,7 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Small-space focused",
-    desc: "Every product is evaluated for dorm rooms, apartment desks, and compact setups — not hypothetical large home offices. Physical size, mounting requirements, and space footprint are first-class evaluation criteria.",
+    desc: "Every product is evaluated for real rooms - apartment desks, bedroom corners, and compact setups - not hypothetical showroom home offices. Physical size, mounting requirements, and space footprint are first-class evaluation criteria.",
   },
   {
     icon: (
@@ -92,7 +91,7 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Clear product comparisons",
-    desc: "We use a consistent 1–10 scoring system across five criteria for every product we evaluate. Scores are comparable across categories because the criteria don't change. See our full scoring methodology on the How We Review page.",
+    desc: "We use a consistent 1-10 scoring system across five criteria for every product we evaluate. Scores are comparable across categories because the criteria don't change. See our full scoring methodology on the How We Review page.",
   },
   {
     icon: (
@@ -110,20 +109,20 @@ const DIFFERENTIATORS = [
       </svg>
     ),
     title: "Fewer, better recommendations",
-    desc: "Most buying guides recommend 10–20 products so no reader decision feels wrong. We pick the best 2–5 options and explain clearly why. If you can't choose between the options we recommend, we tell you which one to buy.",
+    desc: "Most buying guides recommend 10-20 products so no reader decision feels wrong. We pick the best 2-5 options and explain clearly why. If you can't choose between the options we recommend, we tell you which one to buy.",
   },
 ];
 
 const COVERS = [
-  { label: "Tablet Stands", href: "/guide/best-tablet-stands" },
-  { label: "Tablet Stands for Desk", href: "/guide/best-tablet-stands-for-desk" },
-  { label: "Tablet Stands for Bed", href: "/guide/best-tablet-stands-for-bed" },
+  { label: "Desk Setup", href: "/categories/desk-setup" },
+  { label: "Chairs", href: "/categories/chairs" },
+  { label: "Monitors", href: "/categories/monitors" },
+  { label: "Lighting", href: "/categories/lighting" },
   { label: "Desk Lamps", href: "/guide/desk-lamps-small-desks" },
   { label: "Monitor Stands", href: "/guide/monitor-stands-small-desks" },
   { label: "Desk Organizers", href: "/guide/desk-organizers-small-desks" },
-  { label: "Dorm Essentials", href: "/categories/dorm-essentials" },
-  { label: "Small Room Storage", href: "/categories/small-room-storage" },
-  { label: "Compact Home Office", href: "/categories/compact-home-office" },
+  { label: "Compact Essentials", href: "/categories/dorm-essentials" },
+  { label: "Workspace Ideas", href: "/categories/compact-home-office" },
 ];
 
 const EDITORIAL_STANDARDS = [
@@ -138,7 +137,7 @@ const EDITORIAL_STANDARDS = [
 const FAQ_ITEMS = [
   {
     q: "What is WorkCocoon?",
-    a: "WorkCocoon is a buying guide website focused on small-space desk setups, dorm rooms, and compact workspaces. We publish research-based product comparisons and guides to help people find practical products for tight spaces and realistic budgets.",
+    a: "WorkCocoon is a buying guide website focused on calmer, more comfortable home workspaces - especially small and compact ones. We publish research-based product comparisons and guides to help people find practical products for tight spaces and realistic budgets.",
   },
   {
     q: "Is WorkCocoon an online store?",
@@ -146,7 +145,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Does WorkCocoon sell products directly?",
-    a: "No. WorkCocoon does not sell products directly. When you click a product link on WorkCocoon, you are taken to a third-party retailer — most commonly Amazon — to complete the purchase there.",
+    a: "No. WorkCocoon does not sell products directly. When you click a product link on WorkCocoon, you are taken to a third-party retailer - most commonly Amazon - to complete the purchase there.",
   },
   {
     q: "How does WorkCocoon make money?",
@@ -158,15 +157,15 @@ const FAQ_ITEMS = [
   },
   {
     q: "Is WorkCocoon part of Amazon?",
-    a: "No. WorkCocoon is an independent editorial website. WorkCocoon is not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which allows independent publishers to earn commissions on qualifying purchases — but we operate independently.",
+    a: "No. WorkCocoon is an independent editorial website. WorkCocoon is not owned by, affiliated with, or endorsed by Amazon. We participate in the Amazon Associates program, which allows independent publishers to earn commissions on qualifying purchases - but we operate independently.",
   },
   {
     q: "How are WorkCocoon recommendations created?",
-    a: "Recommendations are based on product specifications, verified buyer feedback patterns, dimensions, mounting requirements, and small-space use cases. Unless explicitly stated otherwise, our guides are research-based — not hands-on lab tests. Our full methodology is explained on the How We Review page.",
+    a: "Recommendations are based on product specifications, verified buyer feedback patterns, dimensions, mounting requirements, and small-space use cases. Unless explicitly stated otherwise, our guides are research-based - not hands-on lab tests. Our full methodology is explained on the How We Review page.",
   },
   {
-    q: 'What does "desk finds" mean?',
-    a: '"Desk finds" refers to useful, practical products discovered for desk setups and compact workspaces — similar to the idea of a great "find" when shopping. WorkCocoon was built around the idea of surfacing the best products for small-space desk setups that are easy to overlook in typical product roundups.',
+    q: "Why is it called WorkCocoon?",
+    a: "A cocoon is a small, contained, comfortable space - which is exactly what we think a good workspace should feel like, even (especially) when it's compact. The name reflects our focus on calm, well-chosen setups rather than maximalist \"dream office\" inspiration that doesn't apply to most real rooms.",
   },
 ];
 
@@ -195,13 +194,13 @@ const aboutPageSchema = {
   "@type": "AboutPage",
   name: "About WorkCocoon",
   description:
-    "WorkCocoon helps students, remote workers, renters, and small-space users find practical desk setup products through research-based buying guides, comparisons, and transparent affiliate recommendations.",
+    "WorkCocoon helps remote workers, renters, and small-space users build calmer, more comfortable home workspaces through research-based buying guides, comparisons, and transparent affiliate recommendations.",
   url: `${SITE_URL}/about-workcocoon`,
   publisher: {
     "@type": "Organization",
     name: "WorkCocoon",
     url: SITE_URL,
-    sameAs: [`${SITE_URL}/author/deskfinds-editorial-team`],
+    sameAs: [`${SITE_URL}/author/jamie-cole`],
   },
 };
 
@@ -211,9 +210,9 @@ const organizationSchema = {
   name: "WorkCocoon",
   url: SITE_URL,
   description:
-    "Independent buying guide website for small-space desk setups, dorm rooms, and compact home offices.",
+    "Independent buying guide website for calmer, more comfortable home workspaces, with a focus on small and compact setups.",
   publishingPrinciples: `${SITE_URL}/how-we-review`,
-  sameAs: [`${SITE_URL}/author/deskfinds-editorial-team`],
+  sameAs: [`${SITE_URL}/author/jamie-cole`],
 };
 
 
@@ -232,25 +231,25 @@ export default function AboutPage() {
         <header className="mb-12">
           <span className="text-xs font-bold uppercase tracking-widest text-brand">About WorkCocoon</span>
           <h1 className="text-4xl font-bold text-ink mt-2 mb-3 tracking-tight">
-            Making Small Spaces Work Smarter
+            Helping You Build a Calmer Workspace
           </h1>
           <p className="text-lg text-ink-secondary leading-relaxed max-w-2xl">
-            WorkCocoon is a workspace buying guide website for people who need practical product recommendations for dorm rooms, small apartments, bedroom desks, and compact workspaces — built on research, not sponsored rankings.
+            WorkCocoon is a home office buying guide site for people who want their workspace to feel calmer and more comfortable - not just more productive. We publish practical setup guides and thoughtful product recommendations for small spaces and real rooms, built on research, not sponsored rankings.
           </p>
         </header>
 
         {/* ── What Is WorkCocoon ──────────────────────────────────────── */}
-        <section className="mb-12 p-6 bg-white rounded-2xl border border-border" aria-labelledby="what-is-deskfinds">
-          <h2 id="what-is-deskfinds" className="text-2xl font-bold text-ink mb-4 tracking-tight">What Is WorkCocoon?</h2>
+        <section className="mb-12 p-6 bg-white rounded-2xl border border-border" aria-labelledby="what-is-workcocoon">
+          <h2 id="what-is-workcocoon" className="text-2xl font-bold text-ink mb-4 tracking-tight">What Is WorkCocoon?</h2>
           <div className="space-y-3 text-sm text-ink-secondary leading-relaxed">
             <p>
-              <strong className="text-ink">WorkCocoon is not an online store.</strong> We do not sell products, stock inventory, or process orders. When you click a product link on WorkCocoon, you go directly to a third-party retailer — usually Amazon — to buy it there.
+              <strong className="text-ink">WorkCocoon is not an online store.</strong> We do not sell products, stock inventory, or process orders. When you click a product link on WorkCocoon, you go directly to a third-party retailer - usually Amazon - to buy it there.
             </p>
             <p>
-              WorkCocoon publishes <strong className="text-ink">buying guides, product comparisons, and review-style content</strong> to help people figure out which products are worth buying before they spend money. Every guide is focused on a specific product category and a specific constraint: small spaces, realistic budgets, and practical use cases.
+              WorkCocoon publishes <strong className="text-ink">buying guides, product comparisons, and review-style content</strong> to help people figure out which products are worth buying before they spend money. Every guide is focused on a specific product category and a specific constraint: limited space, realistic budgets, and a workspace that should feel calm rather than cluttered.
             </p>
             <p>
-              If you have searched for something like <em>&ldquo;best desk lamp for a dorm room&rdquo;</em> or <em>&ldquo;tablet stand that works on a bed&rdquo;</em> and found a WorkCocoon article, that is what we do — we research those questions and publish structured answers, not sales pitches.
+              If you have searched for something like <em>&ldquo;best desk lamp for a small desk&rdquo;</em> or <em>&ldquo;monitor stand for a shallow desk&rdquo;</em> and found a WorkCocoon article, that is what we do - we research those questions and publish structured answers, not sales pitches.
             </p>
           </div>
         </section>
@@ -260,10 +259,10 @@ export default function AboutPage() {
           <h2 id="our-mission" className="text-2xl font-bold text-ink mb-4 tracking-tight">Our Mission</h2>
           <div className="space-y-4 text-sm text-ink-secondary leading-relaxed">
             <p>
-              A dorm room, a studio apartment, or a bedroom desk does not have to mean a compromised setup. The right products — chosen specifically for tight spaces — can make a 200-square-foot room as productive and comfortable as a much larger one.
+              A small apartment, a shared room, or a bedroom desk does not have to mean a compromised, cluttered setup. The right products - chosen specifically for tight spaces - can make a compact room feel as calm and comfortable to work in as a much larger one.
             </p>
             <p>
-              WorkCocoon exists to help <strong className="text-ink">students, remote workers, first-time renters, and small-space users</strong> find those products without wading through sponsored rankings, vague listicles, or buying guides clearly written without considering what a real dorm desk looks like.
+              WorkCocoon exists to help <strong className="text-ink">remote workers, renters, and small-space users</strong> find those products without wading through sponsored rankings, vague listicles, or buying guides clearly written for a home office that looks nothing like their actual room.
             </p>
           </div>
         </section>
@@ -293,7 +292,7 @@ export default function AboutPage() {
         <section className="mb-12" aria-labelledby="what-covers">
           <h2 id="what-covers" className="text-2xl font-bold text-ink mb-2 tracking-tight">What WorkCocoon Covers</h2>
           <p className="text-sm text-ink-secondary mb-5">
-            WorkCocoon publishes guides across the most common small-space desk setup categories:
+            WorkCocoon publishes guides across the most common home office and workspace categories:
           </p>
           <div className="flex flex-wrap gap-2.5">
             {COVERS.map((item) => (
@@ -315,9 +314,9 @@ export default function AboutPage() {
             {" "}or by category at{" "}
             <Link prefetch={false} href="/categories/desk-setup" className="text-brand hover:underline font-medium">Desk Setup</Link>
             {", "}
-            <Link prefetch={false} href="/categories/dorm-essentials" className="text-brand hover:underline font-medium">Dorm Essentials</Link>
+            <Link prefetch={false} href="/categories/dorm-essentials" className="text-brand hover:underline font-medium">Compact Essentials</Link>
             {", and "}
-            <Link prefetch={false} href="/categories/small-room-storage" className="text-brand hover:underline font-medium">Small Room Storage</Link>.
+            <Link prefetch={false} href="/categories/small-room-storage" className="text-brand hover:underline font-medium">Storage &amp; Organization</Link>.
           </p>
         </section>
 
@@ -351,7 +350,7 @@ export default function AboutPage() {
           <h2 id="research" className="text-2xl font-bold text-ink mb-4 tracking-tight">How WorkCocoon Research Works</h2>
           <div className="space-y-4 text-sm text-ink-secondary leading-relaxed">
             <p>
-              For every buying guide, we start by defining the exact small-space context: what are the physical constraints, what does the target buyer already own, and what are they actually trying to solve? We evaluate products against those real constraints — not generic &ldquo;great for home offices&rdquo; claims.
+              For every buying guide, we start by defining the exact context: what are the physical constraints, what does the target buyer already own, and what are they actually trying to solve? We evaluate products against those real constraints - not generic &ldquo;great for any home office&rdquo; claims.
             </p>
             <p>
               Our research draws on:
@@ -361,8 +360,8 @@ export default function AboutPage() {
                 "Product specifications and technical dimensions",
                 "Space footprint and mounting or installation requirements",
                 "Verified buyer feedback patterns (with close attention to negative review patterns that surface real failure modes)",
-                "Community discussions where small-room users share what actually works",
-                "Small-space use cases specific to the product category",
+                "Community discussions where small-space users share what actually works",
+                "Practical use cases specific to the product category",
               ].map((item) => (
                 <li key={item} className="flex gap-2.5">
                   <svg className="w-3.5 h-3.5 text-brand shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
@@ -378,7 +377,7 @@ export default function AboutPage() {
               We do not have a testing facility. We believe being honest about this is more useful to you than pretending otherwise.
             </p>
             <p>
-              You can read our complete methodology — including all five scoring criteria and what each editorial badge means — on our{" "}
+              You can read our complete methodology - including all five scoring criteria and what each editorial badge means - on our{" "}
               <Link prefetch={false} href="/how-we-review" className="text-brand hover:text-brand-dark font-medium underline underline-offset-2 transition-colors">
                 How We Review page
               </Link>.
@@ -420,7 +419,7 @@ export default function AboutPage() {
           <h2 id="affiliate" className="text-lg font-bold text-ink mb-3">Our Affiliate Relationship</h2>
           <div className="space-y-3 text-sm text-ink-secondary leading-relaxed">
             <p>
-              WorkCocoon may earn a small commission when you purchase through links on this site. This does not add any extra cost to you — affiliate commissions come from the retailer margin, not from a price increase on your end.
+              WorkCocoon may earn a small commission when you purchase through links on this site. This does not add any extra cost to you - affiliate commissions come from the retailer margin, not from a price increase on your end.
             </p>
             <p>
               Recommendation rankings on WorkCocoon are not influenced by commission rates. We link to whatever product we genuinely believe is the best choice based on our evaluation criteria. A product that earns a higher commission will not rank higher than one that earns a lower commission if it is not the better product.
@@ -433,7 +432,7 @@ export default function AboutPage() {
             Read our full affiliate disclosure →
           </Link>
 
-          {/* Affiliate CTA — single placement, transparent */}
+          {/* Affiliate CTA - single placement, transparent */}
           <div className="mt-5 pt-5 border-t border-border">
             <p className="text-xs text-ink-muted mb-3">
               As an Amazon Associate, WorkCocoon may earn from qualifying purchases. This does not add extra cost to you.

@@ -218,7 +218,7 @@ export default function UsbCHubVsDockingStationPage() {
 
         {/* ── Affiliate Disclosure ────────────────────────────────────────── */}
         <p className="text-xs text-ink-muted bg-amber-50 border border-amber-200 rounded-xl px-4 py-3">
-          We may earn a commission when you buy through Amazon links. This guide is based on product specs, buyer feedback, use cases, and comparison criteria — not paid placement.{" "}
+          We may earn a commission when you buy through Amazon links. This guide is based on product specs, buyer feedback, use cases, and comparison criteria - not paid placement.{" "}
           <Link prefetch={false} href="/affiliate-disclosure" className="underline hover:text-ink">Learn more</Link>.
         </p>
 

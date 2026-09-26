@@ -105,7 +105,7 @@ export const items: DormItem[] = [
   },
   {
     number: 6, id: "ginimax-bedside-caddy", name: "GINIMAX Bedside Caddy 23\"x12\"",
-    brand: "GINIMAX", category: "sleep", price: "$14–$20",
+    brand: "GINIMAX", category: "sleep", price: "$14-$20",
     amazonUrl: "https://www.amazon.com/dp/B085ZGVYC8?tag=workcocoon-20",
     imageUrl: `${B}/6-ginimax-bedside-caddy-23x12.webp`,
     problemSolved: "No nightstand in your dorm room -- phone, water, glasses, charger all end up on the floor or in your bed.",
@@ -119,7 +119,7 @@ export const items: DormItem[] = [
   },
   {
     number: 7, id: "room-essentials-tote", name: "Room Essentials Multipurpose Organizer Tote",
-    brand: "Room Essentials", category: "sleep", price: "$8–$14",
+    brand: "Room Essentials", category: "sleep", price: "$8-$14",
     amazonUrl: "https://www.amazon.com/dp/B0837ZBMGD?tag=workcocoon-20",
     imageUrl: `${B}/7-room-essentials-organizer-tote.webp`,
     problemSolved: "Small items -- earbuds, lip balm, hair ties, phone accessories -- scatter across every surface with no dedicated home.",
@@ -176,7 +176,7 @@ export const items: DormItem[] = [
   },
   {
     number: 11, id: "command-bath-hook", name: "Command Bath Multi-Hook -- Towel & Robe, Water-Resistant",
-    brand: "Command (3M)", category: "bathroom", price: "$6–$10",
+    brand: "Command (3M)", category: "bathroom", price: "$6-$10",
     amazonUrl: "https://www.amazon.com/dp/B00HCP7MNE?tag=workcocoon-20",
     imageUrl: `${B}/11-command-bath-multi-hook.webp`,
     problemSolved: "No hook in the shower stall for your towel -- which means your towel goes on the floor or over the door precariously.",
@@ -190,7 +190,7 @@ export const items: DormItem[] = [
   },
   {
     number: 12, id: "command-caddy-hanger", name: "Command Caddy Hanger 7.5lb -- Versatile Organizer",
-    brand: "Command (3M)", category: "bathroom", price: "$8–$12",
+    brand: "Command (3M)", category: "bathroom", price: "$8-$12",
     amazonUrl: "https://www.amazon.com/dp/B00HCQN6RE?tag=workcocoon-20",
     imageUrl: `${B}/12-command-caddy-hanger-7.5lb.webp`,
     problemSolved: "You need a second caddy for backup shower items, or a bathroom counter organizer for toiletries.",
@@ -277,7 +277,7 @@ export const items: DormItem[] = [
   },
   {
     number: 18, id: "small-desk-mat", name: "Small Desk Mat / Mouse Pad 10\"x12\"",
-    brand: "Generic", category: "desk", price: "$8–$12",
+    brand: "Generic", category: "desk", price: "$8-$12",
     amazonUrl: "https://www.amazon.com/dp/B0827NT4KZ?tag=workcocoon-20",
     imageUrl: `${B}/18-small-desk-mat-10x12.webp`,
     problemSolved: "Institutional desk laminate is rough on your wrist, scratches, and makes mouse tracking inconsistent.",
@@ -397,12 +397,12 @@ export const items: DormItem[] = [
 ];
 
 export const categories: Array<{ id: DormCategory; label: string; emoji: string; range: string; color: { bg: string; text: string; border: string } }> = [
-  { id: "power",    label: "Power & Charging",       emoji: "⚡", range: "Items 1–4",   color: { bg: "#f7f0e3", text: "#b45309", border: "#fcd34d" } },
-  { id: "sleep",    label: "Sleep & Bedside",         emoji: "🛏️", range: "Items 5–9",   color: { bg: "#eef2e8", text: "#5c6f4b", border: "#bfdbfe" } },
-  { id: "bathroom", label: "Bathroom",                emoji: "🚿", range: "Items 10–12", color: { bg: "#eef3e7", text: "#48602f", border: "#bbf7d0" } },
-  { id: "closet",   label: "Closet & Laundry",        emoji: "👗", range: "Items 13–16", color: { bg: "#fdf4ff", text: "#7e22ce", border: "#e9d5ff" } },
-  { id: "desk",     label: "Desk & Study",            emoji: "📚", range: "Items 17–21", color: { bg: "#fff7ed", text: "#c2410c", border: "#fed7aa" } },
-  { id: "storage",  label: "Storage & Organization",  emoji: "📦", range: "Items 22–25", color: { bg: "#f6f1e9", text: "#63635a", border: "#e6ddd0" } },
+  { id: "power",    label: "Power & Charging",       emoji: "⚡", range: "Items 1-4",   color: { bg: "#f7f0e3", text: "#b45309", border: "#fcd34d" } },
+  { id: "sleep",    label: "Sleep & Bedside",         emoji: "🛏️", range: "Items 5-9",   color: { bg: "#eef2e8", text: "#5c6f4b", border: "#bfdbfe" } },
+  { id: "bathroom", label: "Bathroom",                emoji: "🚿", range: "Items 10-12", color: { bg: "#eef3e7", text: "#48602f", border: "#bbf7d0" } },
+  { id: "closet",   label: "Closet & Laundry",        emoji: "👗", range: "Items 13-16", color: { bg: "#fdf4ff", text: "#7e22ce", border: "#e9d5ff" } },
+  { id: "desk",     label: "Desk & Study",            emoji: "📚", range: "Items 17-21", color: { bg: "#fff7ed", text: "#c2410c", border: "#fed7aa" } },
+  { id: "storage",  label: "Storage & Organization",  emoji: "📦", range: "Items 22-25", color: { bg: "#f6f1e9", text: "#63635a", border: "#e6ddd0" } },
 ];
 
 export const problemsTable = [
@@ -419,8 +419,8 @@ export const priorityOrder = [
   { priority: "Buy immediately (2)", items: "Mattress protector (#5)", why: "Sleep quality is non-negotiable from night one" },
   { priority: "Buy immediately (3)", items: "Velvet hangers (#13 or #14)", why: "Closet is unusable without them" },
   { priority: "Buy before move-in", items: "Bedside caddy (#6), white noise machine (#9)", why: "You'll discover you need these on night one" },
-  { priority: "Buy after arrival", items: "Bathroom items (#10–12)", why: "See your actual bathroom layout first" },
-  { priority: "Buy after settling in", items: "Desk items (#17–21)", why: "Assess your actual study setup and outlet situation" },
+  { priority: "Buy after arrival", items: "Bathroom items (#10-12)", why: "See your actual bathroom layout first" },
+  { priority: "Buy after settling in", items: "Desk items (#17-21)", why: "Assess your actual study setup and outlet situation" },
 ];
 
 export const faq: Array<{ q: string; a: string }> = [

@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const author = getAuthorBySlug(slug);
   if (!author) return {};
   return buildMetadata({
-    title: `${author.name} — ${author.role} | WorkCocoon`,
+    title: `${author.name} - ${author.role} | WorkCocoon`,
     description: author.bio,
     path: `/author/${slug}`,
   });

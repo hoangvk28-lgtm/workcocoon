@@ -83,7 +83,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) return {};
 
-  // Use hero image as OG image — supports both Supabase (http) and local (/images) paths
+  // Use hero image as OG image - supports both Supabase (http) and local (/images) paths
   const heroImage = guide.heroImage?.startsWith("http")
     ? guide.heroImage
     : guide.heroImage?.startsWith("/")
@@ -117,10 +117,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function BuyingGuidePage({ params }: Props) {
   const { slug } = await params;
 
-  // ── Silo redirect check — MUST run before any render branch below ─────────
+  // ── Silo redirect check - MUST run before any render branch below ─────────
   // A guide whose category/subcategory has been migrated into a topic-first
   // silo lives at /<silo>/<slug> now. This check used to sit further down,
-  // after the "rich guide" branch below — since most of the site's actual
+  // after the "rich guide" branch below - since most of the site's actual
   // guide content ships as a rich data/guides/<slug>.ts file and returns
   // early from that branch, the redirect never ran for those guides at all,
   // silently leaving the legacy /guide/<slug> duplicate-content URL live for

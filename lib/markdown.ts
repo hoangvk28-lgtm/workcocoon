@@ -81,7 +81,7 @@ export function markdownToHtml(text: string): string {
       i++; continue;
     }
 
-    // Empty line — skip
+    // Empty line - skip
     if (!line.trim()) {
       i++; continue;
     }

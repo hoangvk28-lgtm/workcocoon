@@ -5,7 +5,7 @@ export const metaDescription =
   "5 flat notepad-style whiteboards that lie in front of a keyboard rather than standing upright, compared for wrist comfort and desk clearance.";
 export const mainKeyword = "desktop whiteboard pad";
 export const introParagraphs = [
-  "A pad-style whiteboard lies flat or at a low angle in front of your keyboard, which is a genuinely different placement than an upright stand-mounted board — it affects wrist posture and how much desk depth it takes up.",
+  "A pad-style whiteboard lies flat or at a low angle in front of your keyboard, which is a genuinely different placement than an upright stand-mounted board - it affects wrist posture and how much desk depth it takes up.",
   "We excluded freestanding upright boards from this list entirely, since those belong in a different use case with different clearance considerations.",
 ];
 export const lastUpdated = "2026-08-08";

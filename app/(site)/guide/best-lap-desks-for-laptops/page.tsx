@@ -253,7 +253,7 @@ export default async function BestLapDesksForLaptopsPage() {
         </section>
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>A lap desk for laptop use is not just a cushion board — it is a protective platform that keeps laptop vents clear, provides a stable typing surface, and shields legs from laptop-generated heat. The primary function is thermal protection for the laptop and comfort for the user.</p>
+          <p>A lap desk for laptop use is not just a cushion board - it is a protective platform that keeps laptop vents clear, provides a stable typing surface, and shields legs from laptop-generated heat. The primary function is thermal protection for the laptop and comfort for the user.</p>
           <p>This guide covers eight lap desks for laptop use ranked by Amazon buyer rating and verified review count, including hard-surface cushion boards, ventilated platforms, models with USB cooling fans, and adjustable height options for different working positions.</p>
           <p>For lap desks specifically for bed use, see our <Link prefetch={false} href='/guide/best-lap-desks-for-bed' className='text-brand hover:underline'>best lap desks for bed</Link> guide.</p>
         </section>

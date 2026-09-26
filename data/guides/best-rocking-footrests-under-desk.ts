@@ -87,7 +87,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/huanuo.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07L3RVF7C?tag=workcocoon-20",
     description: "The HUANUO combines adjustable rocking with a built-in massage roller, providing both active movement and surface stimulation in a single unit. The rocking motion on the HUANUO is more pronounced than memory foam rockers due to the tilt mechanism, which encourages more active leg engagement.\n\nFor users who want both rocking motion and massage feedback, the HUANUO avoids the need for a separate massage mat alongside a standard rocker.",
-    specs: ["3 heights (4.3–6.7 in)", "30-degree tilt", "Rocking motion", "Massage roller"],
+    specs: ["3 heights (4.3-6.7 in)", "30-degree tilt", "Rocking motion", "Massage roller"],
     pros: ["Massage roller with rocking motion", "13,143 reviews", "Under $30", "Three adjustable heights"],
     cons: ["4.2 stars lower than top picks", "Massage texture can be rough", "Plastic construction vs. foam or wood"],
     bestFor: "Users who want active rocking motion combined with massage roller feedback under $30",

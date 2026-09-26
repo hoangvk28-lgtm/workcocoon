@@ -98,7 +98,7 @@ export function HowWeReviewTeaser() {
                 100%
               </div>
               <p className="text-xs font-semibold text-brand">
-                = Overall score (1–10 scale)
+                = Overall score (1-10 scale)
               </p>
             </div>
           </div>

@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   ...buildMetadata({
     title: "Best Tablet Stands for Desk (2026)",
     description:
-      "The best tablet stand for desk use should save space, stay stable when you tap, and fit how you use your tablet — studying, reading, video calls, or second-screen work. Seven picks for small desks and dorm rooms.",
+      "The best tablet stand for desk use should save space, stay stable when you tap, and fit how you use your tablet - studying, reading, video calls, or second-screen work. Seven picks for small desks and dorm rooms.",
     path: "/guide/best-tablet-stands-for-desk",
     image: fallbackHeroImage,
     type: "article",
@@ -86,11 +86,11 @@ const itemListSchema = {
 const sections = [
   {
     heading: "Best Overall Tablet Stand for Desk: Lamicall S1",
-    sub: "Simple, stable, and compact — the right starting point for most small desk setups.",
+    sub: "Simple, stable, and compact - the right starting point for most small desk setups.",
     index: 0,
     amazonUrl: "https://www.amazon.com/s?k=lamicall+tablet+stand+for+desk&tag=workcocoon-20",
     amazonLabel: "Browse Lamicall Tablet Stands on Amazon",
-    also: "Also consider the UGREEN compact stand ($9.99) if you primarily move your stand between locations — it has a slightly smaller footprint and folds even flatter.",
+    also: "Also consider the UGREEN compact stand ($9.99) if you primarily move your stand between locations - it has a slightly smaller footprint and folds even flatter.",
   },
   {
     heading: "Best Compact Tablet Stand: LISEN Aluminum",
@@ -106,7 +106,7 @@ const sections = [
     index: 2,
     amazonUrl: "https://www.amazon.com/s?k=360+rotating+tablet+stand+for+desk&tag=workcocoon-20",
     amazonLabel: "Browse Rotating Tablet Stands on Amazon",
-    also: "Also consider the Lamicall S1 if you rarely rotate your screen — you get the same brand quality and stable base for slightly less.",
+    also: "Also consider the Lamicall S1 if you rarely rotate your screen - you get the same brand quality and stable base for slightly less.",
   },
   {
     heading: "Best for Large Tablets and Portable Monitors: LISEN Foldable",
@@ -118,11 +118,11 @@ const sections = [
   },
   {
     heading: "Best Portable Tablet Stand: UGREEN",
-    sub: "The smallest footprint in this guide — easy to carry between desk, library, and class.",
+    sub: "The smallest footprint in this guide - easy to carry between desk, library, and class.",
     index: 4,
     amazonUrl: "https://www.amazon.com/s?k=ugreen+tablet+stand+adjustable&tag=workcocoon-20",
     amazonLabel: "Browse UGREEN Tablet Stands on Amazon",
-    also: "Also consider the Amazon Basics stand if your main use is e-reader or Kindle viewing and you want the lowest-cost option — the UGREEN is more adjustable but both are affordable.",
+    also: "Also consider the Amazon Basics stand if your main use is e-reader or Kindle viewing and you want the lowest-cost option - the UGREEN is more adjustable but both are affordable.",
   },
   {
     heading: "Best Premium Tablet Stand: Twelve South HoverBar Duo",
@@ -130,7 +130,7 @@ const sections = [
     index: 5,
     amazonUrl: "https://www.amazon.com/s?k=twelve+south+hoverbar+duo&tag=workcocoon-20",
     amazonLabel: "Browse Twelve South iPad Stands on Amazon",
-    also: "Also consider a LISEN clamp arm mount if you want a flexible arm at a lower price point — the HoverBar Duo is specifically designed for iPad and has a cleaner aesthetic.",
+    also: "Also consider a LISEN clamp arm mount if you want a flexible arm at a lower price point - the HoverBar Duo is specifically designed for iPad and has a cleaner aesthetic.",
   },
   {
     heading: "Best Budget Tablet Stand: Amazon Basics Foldable",
@@ -138,7 +138,7 @@ const sections = [
     index: 6,
     amazonUrl: "https://www.amazon.com/s?k=amazon+basics+tablet+stand+foldable&tag=workcocoon-20",
     amazonLabel: "Browse Budget Foldable Tablet Stands on Amazon",
-    also: "Also consider the UGREEN stand for a small price increase — it has a better angle range and slightly more stable construction for regular desk use.",
+    also: "Also consider the UGREEN stand for a small price increase - it has a better angle range and slightly more stable construction for regular desk use.",
   },
 ];
 
@@ -224,7 +224,7 @@ export default async function BestTabletStandsForDeskPage() {
         {/* At a Glance */}
         <section id="picks" className="mb-12 scroll-mt-20">
           <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">Quick Picks</h2>
-          <p className="text-sm text-ink-secondary mb-6 max-w-2xl">All seven picks at a glance — toggle pros and cons to compare before reading full reviews below.</p>
+          <p className="text-sm text-ink-secondary mb-6 max-w-2xl">All seven picks at a glance - toggle pros and cons to compare before reading full reviews below.</p>
           <AtAGlance items={atAGlanceItems} />
         </section>
 

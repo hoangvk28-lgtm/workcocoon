@@ -6,7 +6,7 @@ export interface AdminSessionData {
   adminEmail?: string;
 }
 
-// `||` not `??` — an env var that's set-but-empty (e.g. Vercel auto-detected
+// `||` not `??` - an env var that's set-but-empty (e.g. Vercel auto-detected
 // it from .env.example with no value filled in) is falsy but not nullish.
 const SESSION_SECRET =
   process.env.SESSION_SECRET ||

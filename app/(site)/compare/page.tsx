@@ -11,25 +11,25 @@ const VS_ARTICLES = [
   {
     slug: "monitor-stand-vs-monitor-arm",
     title: "Monitor Stand vs Monitor Arm",
-    description: "Adjustability, desk space, stability, and value — with picks under $50 and a decision flowchart.",
+    description: "Adjustability, desk space, stability, and value - with picks under $50 and a decision flowchart.",
     tag: "Ergonomics",
   },
   {
     slug: "usb-c-hub-vs-docking-station",
     title: "USB-C Hub vs Docking Station",
-    description: "Ports, power delivery, display support, and portability — for laptops, WFH, and small desks.",
+    description: "Ports, power delivery, display support, and portability - for laptops, WFH, and small desks.",
     tag: "Connectivity",
   },
   {
     slug: "lap-desk-vs-standing-desk-converter",
     title: "Lap Desk vs Standing Desk Converter",
-    description: "Ergonomics, portability, and price — for couch workers, students, and small-space setups.",
+    description: "Ergonomics, portability, and price - for couch workers, students, and small-space setups.",
     tag: "Workspace",
   },
   {
     slug: "desk-mat-vs-mouse-pad",
     title: "Desk Mat vs Mouse Pad",
-    description: "Tracking surface, desk protection, and aesthetics — for gamers, WFH setups, and minimal desks.",
+    description: "Tracking surface, desk protection, and aesthetics - for gamers, WFH setups, and minimal desks.",
     tag: "Accessories",
   },
 ];
@@ -55,7 +55,7 @@ export default async function ComparePage() {
           Compare Small-Space Products
         </h1>
         <p className="text-ink-secondary leading-relaxed text-lg">
-          All {products.length} products we&apos;ve evaluated, scored on a 1–10 scale. Filter by category and sort by the metric that matters most to you.
+          All {products.length} products we&apos;ve evaluated, scored on a 1-10 scale. Filter by category and sort by the metric that matters most to you.
         </p>
       </div>
 
@@ -104,7 +104,7 @@ export default async function ComparePage() {
       <div className="mt-12 p-6 bg-white rounded-card border border-border max-w-2xl">
         <h2 className="font-bold text-ink mb-2 text-base">About These Scores</h2>
         <p className="text-sm text-ink-secondary leading-relaxed mb-3">
-          All scores are on a 1–10 scale based on our evaluation methodology. Scores reflect how well each product performs for small-space use - not general use. A score of 9.0+ indicates best-in-class for this use case.
+          All scores are on a 1-10 scale based on our evaluation methodology. Scores reflect how well each product performs for small-space use - not general use. A score of 9.0+ indicates best-in-class for this use case.
         </p>
         <a
           href="/how-we-review"

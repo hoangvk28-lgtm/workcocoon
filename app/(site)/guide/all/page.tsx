@@ -9,7 +9,7 @@ import { canonicalGuideHref } from "@/lib/migrated-silos";
 export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
-  title: "All Buying Guides – Complete List",
+  title: "All Buying Guides - Complete List",
   description:
     "Browse all our buying guides for small desks, dorm rooms, and compact home offices. Every category, every pick.",
   path: "/guide/all",
@@ -42,7 +42,7 @@ export default async function AllGuidesPage() {
         <span className="text-xs font-bold uppercase tracking-widest text-brand">Complete List</span>
         <h1 className="text-4xl font-bold text-ink mt-3 mb-4 tracking-tight">All Buying Guides</h1>
         <p className="text-lg text-ink-secondary leading-relaxed">
-          Every guide we&apos;ve published — {guides.length} guides across all categories. Organized by use case below.
+          Every guide we&apos;ve published - {guides.length} guides across all categories. Organized by use case below.
         </p>
       </div>
 

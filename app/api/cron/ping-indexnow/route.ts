@@ -6,12 +6,12 @@ import { categories } from "@/data/categories";
 
 export const dynamic = "force-dynamic";
 
-// No fallback key — that would silently ping using another site's IndexNow
+// No fallback key - that would silently ping using another site's IndexNow
 // key. Generate a WorkCocoon-specific key and set INDEXNOW_KEY + a matching
 // public/<key>.txt verification file before this route is expected to work.
 const INDEXNOW_KEY = process.env.INDEXNOW_KEY || "";
 
-// VS compare slugs (static — not in data files)
+// VS compare slugs (static - not in data files)
 const VS_SLUGS = [
   "monitor-stand-vs-monitor-arm",
   "usb-c-hub-vs-docking-station",

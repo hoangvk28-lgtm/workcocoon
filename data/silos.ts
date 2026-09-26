@@ -15,7 +15,7 @@ export const silos: Silo[] = [
     name: "Workspace Ideas",
     tagline: "Inspiration for every kind of space",
     description:
-      "Setup ideas and inspiration organized by space and style — small home offices, bedroom offices, apartment setups, and more.",
+      "Setup ideas and inspiration organized by space and style - small home offices, bedroom offices, apartment setups, and more.",
   },
   {
     slug: "desks",
@@ -43,14 +43,14 @@ export const silos: Silo[] = [
     name: "Desk Setup",
     tagline: "Monitors, arms, keyboards, and cable management",
     description:
-      "Everything that goes on and around the desk — monitor arms, laptop stands, keyboards, mice, desk mats, cable management, and organization.",
+      "Everything that goes on and around the desk - monitor arms, laptop stands, keyboards, mice, desk mats, cable management, and organization.",
   },
   {
     slug: "work-better",
     name: "Work Better",
     tagline: "Ergonomics, focus, and productivity at home",
     description:
-      "Non-commercial advice on ergonomics, organization, focus, productivity, and remote work — the habits and setup choices that make a home workspace work.",
+      "Non-commercial advice on ergonomics, organization, focus, productivity, and remote work - the habits and setup choices that make a home workspace work.",
   },
 ];
 

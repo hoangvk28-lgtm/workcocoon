@@ -61,7 +61,7 @@ const scoringCriteria = [
     label: "Buyer Feedback",
     weight: "15%",
     description:
-      "Patterns from verified Amazon reviews — what real buyers praise and complain about most over time.",
+      "Patterns from verified Amazon reviews - what real buyers praise and complain about most over time.",
   },
 ];
 
@@ -133,7 +133,7 @@ export async function GuideDetail({ slug, basePath, sectionLabel, sectionHref }:
     ? {
         "@context": "https://schema.org",
         "@type": "ItemList",
-        name: `${guide.title} — Top Picks`,
+        name: `${guide.title} - Top Picks`,
         description: `Products recommended in: ${guide.title}`,
         numberOfItems: picks.length,
         itemListElement: picks.map((p, i) => ({
@@ -222,7 +222,7 @@ export async function GuideDetail({ slug, basePath, sectionLabel, sectionHref }:
 
         <AffiliateDisclosureBar
           variant="banner"
-          disclosureText="We may earn a commission when you buy through Amazon links. This guide is based on product specs, buyer feedback, use cases, and comparison criteria — not paid placement."
+          disclosureText="We may earn a commission when you buy through Amazon links. This guide is based on product specs, buyer feedback, use cases, and comparison criteria - not paid placement."
           className="mb-8 max-w-3xl"
         />
 
@@ -253,7 +253,7 @@ export async function GuideDetail({ slug, basePath, sectionLabel, sectionHref }:
               What to Look For Before You Buy
             </h2>
             <p className="text-sm text-ink-secondary mb-4">
-              Key criteria and specific thresholds — so you know exactly what to evaluate before choosing a product.
+              Key criteria and specific thresholds - so you know exactly what to evaluate before choosing a product.
             </p>
             <div className="rounded-card border border-border overflow-hidden">
               <table className="w-full text-sm">
@@ -308,10 +308,10 @@ export async function GuideDetail({ slug, basePath, sectionLabel, sectionHref }:
         {picks.length > 0 && (
           <section className="mb-12" aria-label="Detailed product reviews">
             <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">
-              Our Picks — Full Reviews
+              Our Picks - Full Reviews
             </h2>
             <p className="text-sm text-ink-secondary mb-7 max-w-2xl">
-              Every recommended product evaluated in detail — scores, pros and cons, who it&apos;s best for, and full Amazon links.
+              Every recommended product evaluated in detail - scores, pros and cons, who it&apos;s best for, and full Amazon links.
             </p>
             <div className="flex flex-col gap-6">
               {picks.map((product, i) => (
@@ -345,7 +345,7 @@ export async function GuideDetail({ slug, basePath, sectionLabel, sectionHref }:
           <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">How We Picked</h2>
           <p className="text-sm text-ink-secondary leading-relaxed mb-6 max-w-2xl">
             Every product in this guide was evaluated across five criteria, weighted for real small-space use.
-            We do not claim hands-on lab testing — our evaluation is based on verified buyer feedback patterns,
+            We do not claim hands-on lab testing - our evaluation is based on verified buyer feedback patterns,
             published product specifications, and structured comparison criteria.
           </p>
 
@@ -575,14 +575,14 @@ function InlineProductPicks({ picks }: { picks: GuideProductPick[] }) {
                 <td className="px-4 py-3 font-medium text-ink">
                   <a href={`#inline-pick-${pick.id}`} className="hover:text-brand transition-colors scroll-smooth">{pick.name}</a>
                 </td>
-                <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{pick.badge || "—"}</td>
+                <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{pick.badge || "-"}</td>
                 <td className="px-4 py-3 text-ink-secondary hidden sm:table-cell">{pick.priceLabel}</td>
                 <td className="px-4 py-3">
                   {pick.fitScore != null ? (
                     <span className={`font-bold text-sm ${scoreToColor(pick.fitScore)}`}>
                       {pick.fitScore.toFixed(1)}
                     </span>
-                  ) : "—"}
+                  ) : "-"}
                 </td>
               </tr>
             ))}

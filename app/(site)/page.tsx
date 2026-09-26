@@ -18,7 +18,7 @@ import { buildMetadata } from "@/lib/seo";
 export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
-  title: "WorkCocoon — Home Office Ideas, Desk Setup Guides & Product Picks",
+  title: "WorkCocoon - Home Office Ideas, Desk Setup Guides & Product Picks",
   description:
     "Create a calmer, more comfortable home workspace with practical setup guides, thoughtful product recommendations, and home office ideas.",
   path: "/",
@@ -55,17 +55,17 @@ export default async function HomePage() {
 
   return (
     <>
-      {/* ── 1. Hero — brand positioning, no Amazon mention, no score panel ── */}
+      {/* ── 1. Hero - brand positioning, no Amazon mention, no score panel ── */}
       <HeroSection settings={homepageSettings} />
 
       <Container>
-        {/* ── 2. Start with your space — problem-first entry points ── */}
+        {/* ── 2. Start with your space - problem-first entry points ── */}
         <StartWithYourSpace />
 
-        {/* ── 3. Build Your Cocoon — signature 5-step setup format ── */}
+        {/* ── 3. Build Your Cocoon - signature 5-step setup format ── */}
         <BuildYourCocoon />
 
-        {/* ── 4. Popular guides — editorially curated, not latest-first ── */}
+        {/* ── 4. Popular guides - editorially curated, not latest-first ── */}
         <FeaturedGuides
           guides={popularGuides}
           title={homepageSettings.sections.guides.title}
@@ -74,7 +74,7 @@ export default async function HomePage() {
         {/* ── 5. Compare tools ── */}
         <CompareTools />
 
-        {/* ── 6. Editor picks — small disclosure sits here, not at the top of the page ── */}
+        {/* ── 6. Editor picks - small disclosure sits here, not at the top of the page ── */}
         <DealsSection products={editorPicks} />
         <div className="pb-4 -mt-6">
           <AffiliateDisclosureBar variant="banner" disclosureText={disclosureBannerText} />

@@ -187,7 +187,7 @@ export default async function BestBudgetApple3in1ChargingStationUnder40Page() {
 
         {/* Intro */}
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
-          <p>Apple&apos;s own MagSafe Duo charger costs $149. It charges your iPhone and Apple Watch, but not AirPods, and it doesn&apos;t fold into a travel-friendly shape. For $25–$40, several third-party manufacturers have produced MagSafe-certified alternatives that charge all three Apple devices simultaneously and fold flat enough to fit in a bag pocket.</p>
+          <p>Apple&apos;s own MagSafe Duo charger costs $149. It charges your iPhone and Apple Watch, but not AirPods, and it doesn&apos;t fold into a travel-friendly shape. For $25-$40, several third-party manufacturers have produced MagSafe-certified alternatives that charge all three Apple devices simultaneously and fold flat enough to fit in a bag pocket.</p>
           <p>Every pick in this guide is MagSafe-compatible (15W for iPhone 12 and later) and charges Apple Watch. The difference between picks comes down to three factors: maximum charging speed, whether it folds for travel, and whether it comes with the adapter you&apos;ll need.</p>
           <p>We evaluated these based on charging speed accuracy (are the 15W claims real?), build quality at the price point, folding mechanism durability, and whether the Watch arm position works for nightstand mode.</p>
         </section>
