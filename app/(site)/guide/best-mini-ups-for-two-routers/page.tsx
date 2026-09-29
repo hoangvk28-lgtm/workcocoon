@@ -207,10 +207,6 @@ export default async function Page() {
           </div>
         </header>
 
-        <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
-          <strong className="text-ink">Quick note:</strong> We may earn a commission when you buy through Amazon links. This guide is based on product specs, buyer feedback, use cases, and comparison criteria, not paid placement.{" "}
-          <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
-        </div>
 
         <div className="rounded-2xl overflow-hidden border border-border mb-10 bg-white h-56 sm:h-64 md:hidden flex items-center justify-center p-3">
           <Image src={heroImg} alt="Best Mini UPS for Two Routers" width={900} height={420} className="w-full h-full object-contain" priority unoptimized />

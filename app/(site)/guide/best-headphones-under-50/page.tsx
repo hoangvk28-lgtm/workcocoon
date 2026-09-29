@@ -329,19 +329,6 @@ export default async function BestHeadphonesUnder50Page() {
         </header>
 
         {/* Affiliate disclosure */}
-        <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
-          <strong className="text-ink">Quick note:</strong> This page contains
-          affiliate links. If you buy through our links, we may earn a small
-          commission at no extra cost to you. As an Amazon Associate, WorkCocoon
-          earns from qualifying purchases.{" "}
-          <Link prefetch={false}
-            href="/affiliate-disclosure"
-            className="text-brand hover:underline"
-          >
-            Affiliate disclosure
-          </Link>
-          .
-        </div>
 
         {/* Hero image */}
         <div className="rounded-2xl overflow-hidden border border-border mb-10 bg-bg">

@@ -267,10 +267,6 @@ export function RichGuidePage(props: RichGuidePageProps) {
           </div>
         </header>
 
-        <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
-          <strong className="text-ink">Quick note:</strong> We may earn a commission when you buy through Amazon links. This guide is based on product specs, buyer feedback, use cases, and comparison criteria, not paid placement.{" "}
-          <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
-        </div>
 
         <AmazonBountyBanner variant={bountyVariant} />
 
