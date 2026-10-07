@@ -66,7 +66,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   // cross-project fallback, and simply don't render until set.
   const isProd = process.env.NODE_ENV === "production";
   const gaId = process.env.NEXT_PUBLIC_GA_ID;
-  const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID;
+  const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID || "ytkdr2hwo8";
   return (
     <html lang="en" className={`${inter.variable} ${quicksand.variable} h-full`}>
       <head>
