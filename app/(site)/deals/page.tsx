@@ -23,7 +23,6 @@ const exploreChips = [
   { label: "Under-Bed Storage", key: "under-bed-storage" },
 ];
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = buildMetadata({
   title: "Amazon Finds for Small Spaces - Budget-Friendly Picks",
