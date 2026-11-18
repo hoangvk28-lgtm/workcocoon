@@ -17,7 +17,7 @@ const matchSlugs = category?.matchSlugs ?? Object.keys(MIGRATED_GUIDE_SLUGS_TO_S
 
 export async function generateStaticParams() {
   const guides = await getPublicGuidesByCategory("chairs", matchSlugs);
-  return guides.filter((g) => !guideDataLoaders[g.slug]).map((g) => ({ slug: g.slug }));
+  return guides.map((g) => ({ slug: g.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

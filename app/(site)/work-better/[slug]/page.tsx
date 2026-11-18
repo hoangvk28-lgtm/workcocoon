@@ -16,7 +16,7 @@ const matchSlugs = matchSlugsForSilo(SILO);
 
 export async function generateStaticParams() {
   const guides = await getPublicGuidesByCategory(SILO, matchSlugs);
-  return guides.filter((g) => !guideDataLoaders[g.slug]).map((g) => ({ slug: g.slug }));
+  return guides.map((g) => ({ slug: g.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

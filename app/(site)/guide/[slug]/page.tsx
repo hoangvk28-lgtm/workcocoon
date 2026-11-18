@@ -44,12 +44,23 @@ export async function generateStaticParams() {
     // rather than silently dropping legitimate DB-only guides.
   }
 
-  // Slugs backed by a rich data/guides/<slug>.ts file (via guideDataLoaders) are
-  // rendered on-demand through the RichGuidePage branch below and must also stay out
-  // of eager static generation here, whether or not they still have a literal route
-  // directory - that's the whole point of moving them off the eager-build path.
+  // Under `output: "export"` there is no on-demand rendering: a slug missing from this
+  // list simply has no HTML file in out/ and the host serves a hard 404. Rich guides
+  // (data/guides/<slug>.ts) must therefore be prerendered here, not left to ISR.
+  //
+  // The one group that still has to stay out: guides whose category/subcategory has
+  // been migrated into a topic-first silo. The page body calls permanentRedirect() for
+  // those, which a static export cannot represent, and their canonical URL is
+  // /<silo>/<slug> (which the silo route prerenders) rather than /guide/<slug>.
+  const allGuides = await getPublicGuides();
+  const siloSlugs = new Set(
+    allGuides
+      .filter((g) => siloForGuide(g.categorySlug, g.subcategorySlug))
+      .map((g) => g.slug)
+  );
+
   const all = [...new Set([...guideSlugs, ...categorySlugs])].filter(
-    (slug) => !staticRouteSlugs.has(slug) && !guideDataLoaders[slug]
+    (slug) => !staticRouteSlugs.has(slug) && !siloSlugs.has(slug)
   );
   return all.map((slug) => ({ slug }));
 }
